@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   description:
     "Shop prescription and over-the-counter medications, wellness and personal care essentials. Licensed pharmacists, fast delivery.",
   icons: {
-    icon: '/favicon.ico', // or '/icon.png'
+    icon: '/favicon.png',
   },
 };
 
