@@ -30,13 +30,11 @@ export const metadata: Metadata = {
     "Shop prescription and over-the-counter medications, wellness and personal care essentials. Licensed pharmacists, fast delivery.",
   icons: {
     icon: [
+      { url: '/favicon-large.png', sizes: '512x512', type: 'image/png' },
       { url: '/favicon.png', sizes: 'any', type: 'image/png' },
-      { url: '/favicon-96.png', sizes: '96x96', type: 'image/png' },
       { url: '/favicon-192.png', sizes: '192x192', type: 'image/png' },
       { url: '/favicon-128.png', sizes: '128x128', type: 'image/png' },
-      { url: '/favicon-64.png', sizes: '64x64', type: 'image/png' },
-      { url: '/favicon-48.png', sizes: '48x48', type: 'image/png' },
-      { url: '/favicon-32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon-96.png', sizes: '96x96', type: 'image/png' },
     ],
     apple: [
       { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
