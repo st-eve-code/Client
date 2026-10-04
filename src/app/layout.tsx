@@ -49,6 +49,10 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`${inter.variable} ${fraunces.variable} ${jetbrainsMono.variable} h-full antialiased`}
     >
+      <head>
+        <link rel="icon" type="image/png" sizes="512x512" href="/favicon.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
+      </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
