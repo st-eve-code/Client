@@ -2,59 +2,88 @@
 
 @theme inline {
   /* Fonts */
-  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
-  --font-serif: var(--font-fraunces), ui-serif, Georgia, serif;
-  --font-mono: var(--font-jetbrains-mono), ui-monospace, monospace;
+  --font-plus-jakarta-sans: var(--font-plus-jakarta-sans), ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-helvetica: 'Helvetica', ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 
-  /* Brand palette */
-  --color-brand-50: #eefbf6;
-  --color-brand-100: #d6f5e8;
-  --color-brand-200: #b0ead3;
-  --color-brand-300: #7dd9b8;
-  --color-brand-400: #48c09a;
-  --color-brand-500: #23a67f;
-  --color-brand-600: #158668;
-  --color-brand-700: #136b55;
-  --color-brand-800: #145546;
-  --color-brand-900: #13463c;
+  /* Colors */
+  --color-bg-canvas: #ffffff;
+  --color-text-primary: #000000;
+  --color-text-secondary: #2563eb;
+  --color-text-muted: #3f3f46;
+  --color-accent: #111f2a;
+  --color-bg-surface: #eef5fa;
+  --color-border: #e5e7eb;
+  --color-border-strong: #6b7280;
+  --color-gray-dark: #a1a1aa;
+  --color-green-light: #d3fdc7;
+  --color-gray-deep: #18181b;
+  --color-green-dark: #5eb047;
+  --color-blue-light: #bbd6ed;
 
-  --color-accent-400: #f5c451;
-  --color-accent-500: #eeb23c;
-  --color-accent-600: #d3911b;
+  /* Typography scale */
+  --text-display: 42px;
+  --leading-display: 0.48;
+  --text-heading-lg: 30px;
+  --leading-heading-lg: 1.33;
+  --text-heading: 26px;
+  --leading-heading: 3;
+  --text-heading-sm: 22px;
+  --leading-heading-sm: 1.41;
+  --text-subheading: 20px;
+  --leading-subheading: 1.55;
+  --text-body: 17px;
+  --leading-body: 1.38;
+  --text-small: 15px;
+  --leading-small: 1.57;
+  --text-caption: 13px;
+  --leading-caption: 1.69;
 
-  --color-ink-50: #f7f7f6;
-  --color-ink-200: #e3e3df;
-  --color-ink-400: #a3a39c;
-  --color-ink-600: #5c5c56;
-  --color-ink-800: #2b2b28;
-  --color-ink-900: #171715;
+  /* Layout */
+  --page-max-width: 1000px;
+  --card-padding: 8px;
+  --element-gap: 8px;
+  --spacing-unit: 4px;
 
-  --radius-card: 1rem;
+  /* Radius */
+  --radius-pill: 9999px;
+  --radius-4: 4px;
+  --radius-8: 8px;
+  --radius-12: 12px;
+  --radius-16: 16px;
+
+  /* Shadows */
+  --shadow-sm: rgb(228, 228, 231) 0px 0px 0px 1px, rgb(161, 161, 170) 0px 2px 2px 0px, rgb(244, 244, 245) 0px 0px 0px 4px;
+  --shadow-md: rgb(145, 249, 116) 0px 0px 0px 0px, rgb(94, 176, 71) 0px 0px 0px 0px, rgb(233, 254, 227) 0px 0px 0px 0px;
+  --shadow-lg: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0,0,0,0.1);
+  --shadow-xl: rgb(228, 228, 231) 0px 0px 0px 1px, rgb(161, 161, 170) 0px 1px 1px 0px, rgb(244, 244, 245) 0px 0px 0px 2px;
+  --shadow-4: rgb(161, 161, 170) 0px 2px 2px 0px;
+
+  /* Motion */
+  --duration-fast: 150ms;
+  --duration-base: 300ms;
+  --duration-moderate: 500ms;
+  --duration-slow: 6000ms;
+  --ease-custom-1: ease;
+  --ease-in-out-standard: cubic-bezier(0.40, 0.00, 0.20, 1.00);
+  --ease-custom-3: ease-in-out;
+  --ease-custom-4: linear;
+  --ease-custom-5: cubic-bezier(0.55, 0.06, 0.68, 0.19);
 }
 
 @layer base {
   html {
     scroll-behavior: smooth;
   }
-
-  body {
-    background-color: var(--color-ink-50);
-    color: var(--color-ink-900);
-    font-family: var(--font-sans);
-  }
-
-  h1,
-  h2,
-  h3,
-  h4 {
-    font-family: var(--font-serif);
-    font-variation-settings: "opsz" 40;
-    letter-spacing: -0.015em;
-  }
 }
 
-@utility price {
-  font-family: var(--font-mono);
-  font-variant-numeric: tabular-nums;
-  letter-spacing: -0.02em;
+@utility btn-primary {
+  @apply inline-flex items-center justify-center rounded-[var(--radius-8)] bg-[#d3fdc7] text-[#111f2a] font-bold text-base px-4 py-2 border border-[#5eb047] transition-all duration-[var(--duration-moderate)] ease-[var(--ease-custom-1)];
+}
+
+@utility btn-primary-hover {
+  @apply hover:bg-[#91f974] hover:text-[#111f2a];
+}
+
+@utility container-vapestore {
+  @apply max-w-[1000px] mx-auto px-4;
 }

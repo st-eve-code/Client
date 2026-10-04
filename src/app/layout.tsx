@@ -1,33 +1,21 @@
 import type { Metadata } from "next";
-import { Fraunces, Inter, JetBrains_Mono } from "next/font/google";
+import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({
-  variable: "--font-inter",
+const plusJakartaSans = Plus_Jakarta_Sans({
+  variable: "--font-plus-jakarta-sans",
   subsets: ["latin"],
   display: "swap",
-});
-
-const fraunces = Fraunces({
-  variable: "--font-fraunces",
-  subsets: ["latin"],
-  display: "swap",
-  axes: ["opsz"],
-});
-
-const jetbrainsMono = JetBrains_Mono({
-  variable: "--font-jetbrains-mono",
-  subsets: ["latin"],
-  display: "swap",
+  weight: ["400", "700", "800"],
 });
 
 export const metadata: Metadata = {
   title: {
-    default: "PharmaCart — Online Pharmacy",
-    template: "%s | PharmaCart",
+    default: "Vapestore — Online Vape Shop",
+    template: "%s | Vapestore",
   },
   description:
-    "Shop prescription and over-the-counter medications, wellness and personal care essentials. Licensed pharmacists, fast delivery.",
+    "Shop trusted vapes and e-liquids at our leading vape shop online. Discover top brands, expert support, and fast UK delivery.",
   icons: {
     icon: [
       { url: '/favicon.png', sizes: '512x512', type: 'image/png' },
@@ -47,13 +35,15 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${inter.variable} ${fraunces.variable} ${jetbrainsMono.variable} h-full antialiased`}
+      className={`${plusJakartaSans.variable} h-full antialiased`}
     >
       <head>
         <link rel="icon" type="image/png" sizes="512x512" href="/favicon.png" />
         <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
       </head>
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col bg-[var(--color-bg-canvas)] text-[var(--color-text-primary)] font-[var(--font-plus-jakarta-sans)]">
+        {children}
+      </body>
     </html>
   );
 }
