@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+aurora.dns-parking.com
+
+nebula.dns-parking.com
+
 First, run the development server:
 
 ```bash
