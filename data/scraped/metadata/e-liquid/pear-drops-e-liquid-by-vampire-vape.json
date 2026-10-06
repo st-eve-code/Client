@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639265599812",
+  "slug": "pear-drops-e-liquid-by-vampire-vape",
+  "title": "Vampire Vape Pear Drops E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/pear-drops-e-liquid-by-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Get ready to satisfy your sweet tooth with the Pear Drops by Vampire Vape! Inspired by the classic candy, this Vampire Vape Pear Drops E-Liquid offers a deliciously sugary sweet vaping experience that you won't want to miss out on. With each mouth-watering puff, you'll enjoy the refreshing taste of juicy pear perfectly blended with rich, creamy bananas, creating a truly irresistible vape indulgence that's sure to satisfy. And with its authentic taste that replicates your favourite Pear Drop sweets, this Vampire Vape Pear Drops the perfect choice for anyone looking to relive their childhood memories in the form of a delicious E-Liquid. So why wait? Treat yourself to the great taste of Pear Drops by Vampire Vape E-Liquid today and indulge in a sweet and satisfying vaping experience that you won't regret! Vampire Vape 10ml E-Liquids are the perfect choice for vapers who crave a wide range of delectable flavours in a convenient and easy-to-use size. These E-Liquids are made in the UK with high quality ingredients and food industry-approved flavours, ensuring a consistent and enjoyable vaping experience for vapers in every seriously smooth draw they take. Please note: With a balanced 40VG/60PG for 0mg, 6mg, 12mg, 18mg and 50/50 ratio for 3mg only, Vampire Vape 10ml E-Liquids offer an optimal balance of clouds, vapour, and flavour. Making them suitable for use with all types of vaping devices, from starter vape kits to advanced mod setups. Additionally these Vampire Vape 10ml E-Liquids are available in a vast range of flavours to suit every vapers taste and preference, from fruity and menthol all the way to sugary sweet dessert flavours and more. Some of their most popular flavours include the award winning Vampire Vape Heisenberg and the Vampire Vape Pinkman, which are sure to become a staple within your E-Liquid collection. So whether you're a new or experienced vaper, Vampire Vape 10ml E-Liquids offer an unbeatable vaping experience that is sure to satisfy your cravings. With their premium quality ingredients and a vast range of delicious flavours, these E-Liquids are an excellent choice for vapers looking to enjoy a convenient, high-quality vaping experience. Love the great taste of this Vampire Vape Pear Drops but fancy trying something new? Then check out the other equally moreish flavours from their collection. With such a wide variety of delectable Vampire Vape E-Liquid flavours to choose from, you're bound to find your new favourite all-day vape. Order a bottle of Vampire Vape Pear Drops today and discover a world of delicious vaping possibilities!",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "370997",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1000161",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "372977",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "372984",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pear-drops-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire_vape_pear_drops_e-liquid_10ml_1.jpg?v=1729032095",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pear-drops-e-liquid-by-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/370997_vampirevape_10ml_peardrops_03_001.jpg?v=1729032095",
+      "position": 2,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.358Z"
+}

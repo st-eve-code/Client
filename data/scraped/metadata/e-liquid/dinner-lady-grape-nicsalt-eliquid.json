@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639803126084",
+  "slug": "dinner-lady-grape-nicsalt-eliquid",
+  "title": "Dinner Lady Salts Grape 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-grape-nicsalt-eliquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Grape from Dinner Lady is a classic Grape flavour that never fails to delight the tastebuds. Rich, fruity and deliciously sweet, this irresistible candy flavour is an easy, all-day vape and a treat every day of the week. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production while the Nicotine Salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices and is available in 10mg and 20mg nicotine strength. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. Nicotine Salt e-liquids are absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. Dinner Lady have earned their fame as one of the most popular and inventive e-liquid makers in the UK through their talent for conjuring the most nostalgic e-liquid flavours beloved by vapers everywhere. Founded in 2016 in Blackburn, Lancashire, the vape lifestyle brand now distributes e-liquid worldwide to over 80 different countries. With their enormous fanbase and dedication to producing only the highest quality e-liquids, Dinner Lady keeps on ringing the bell for vapers all over the world. Please Note: This E-Liquid may contain Ice",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1125435",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1125454",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-grape-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-salts-fruits-grape-10ml-10mg-gb.jpg?v=1729053301",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.496Z"
+}

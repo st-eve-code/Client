@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639278739780",
+  "slug": "banoffee-pie-e-liquid-by-vampire-vape",
+  "title": "Vampire Vape Banoffee Pie E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/banoffee-pie-e-liquid-by-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Vampire Vape Banoffee Pie E-Liquid 10ml is Ideal for vapers with a sweet tooth who enjoys the creamy blend of banana and toffee. So, if you’re a vaper with a penchant for sweet flavours you won’t want to miss out on this dreamy desert vape. Each inhale and exhale offers the taste of thick freshly whipped cream. Slathered upon a moreish buttery biscuit base topped with a blanket of freshly sliced Bananas. Quite simply this Vampire Vape Banoffee Pie E-Liquid is the delicious desert flavoured vape indulgence your taste buds deserve! This E-Liquid from Vampire Vape offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. Please Note: that the 3mg nicotine strength contains 50VG/50PG while 0mg, 6mg, 12mg & 18mg nicotine strengths contain 40VG/60PG. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits , pen-vape kits and pod kits. If you love this delicious Vampire Vape E-Liquid 10ml, then why not check out the other equally moreish flavours from their collection. They have a multitude of delicious flavours to choose from to suit any vaper’s flavour requirements. Go ahead and try out their juicy fruit flavours, refreshing beverage , sweet bakery, confectionary and dessert flavours or even their classic Mint/Menthol and tobacco flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "371475",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "371499",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1000093",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "371451",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__banoffee-pie-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-banoffee-pie-e-liquid-10ml_1.jpg?v=1729032664",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__banoffee-pie-e-liquid-by-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/371499_vampirevape_10ml_banoffeepie_06_001.jpg?v=1729032664",
+      "position": 2,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.475Z"
+}

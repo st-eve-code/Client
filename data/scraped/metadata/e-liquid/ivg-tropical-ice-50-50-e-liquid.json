@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639438680388",
+  "slug": "ivg-tropical-ice-50-50-e-liquid",
+  "title": "IVG Tropical Ice E-Liquid 50/50",
+  "url": "https://www.vapestore.co.uk/products/ivg-tropical-ice-50-50-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This uplifting and refreshing eliquid from IVG blends the sweet and sour tang of kiwi with the fresh sweetness of watermelon and apples, finished with a refreshing icy menthol kick. IVG’s 50/50 e-liquids contain equal quantities of VG (vegetable glycerin) and PG (propylene glycol) for a perfect balance between flavour and vapour production. Easy on the throat yet They’re ideal for starter kits and pod devices .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "IV-IV-10-TIB-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "IV-IV-10-TIB-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "IV-IV-10-TIB-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-tropical-ice-50-50-e-liquid__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-5050-ELiquids-3mg-Tropical-Ice_a14ca4bf-0b62-4cb6-9465-8ef19023cfc3.png?v=1759999708",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-tropical-ice-50-50-e-liquid__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-5050-ELiquids-6mg-Tropical-Ice_79b3fdc3-626f-4c7e-a483-1bd9372ead53.png?v=1759999731",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-tropical-ice-50-50-e-liquid__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-5050-ELiquids-12mg-Tropical-Ice.png?v=1759999741",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.630Z"
+}

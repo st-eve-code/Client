@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639278641476",
+  "slug": "attraction-e-liquid-by-vampire-vape",
+  "title": "Vampire Vape Attraction E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/attraction-e-liquid-by-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Indulge in the ultimate vaping experience with this delisious Attraction Vampire Vape E-Liquid. That's been specially crafted for fruit lovers seeking bold and refreshing vape flavours. With each smooth draw of this Attraction Vampire Vape you'll be treated to a mouth-watering fruity delight that's perfect for vaping all day and night. This Vampire Vape Attraction E-Liquid delivers a delicious mixed berry fusion that has been meticulously blended to create a refreshing summer berry extravaganza.The added burst of ice-cold menthol menthol adds a frosty twist to the mix. Creating a layered vaping experience that is both satisfying and refreshing. With each super smooth draw, you can enjoy the taste of freshly picked red berries poured over rich and super juicy dark fruits to create this refreshing Vampire Vape Attraction E-Liquid 10ml. Each flavour note mixed together creates a luscious and refreshing summer berry mix. Paired with a dash of Menthol flavour, that washes over the mixed berry and dark fruits. Creating a layered vaping experience that’s a mouth-watering treat for your tastebuds. Crafted by Vampire Vape, this Attraction Vampire Vape E-Liquid has been designed to deliver maximum flavour and satisfying clouds by striking the ideal balance between PG and VG. When choosing the right Vampire Vape Juice nicotine strength for your vaping needs, it's important to know the VG/PG ratio. Please note: The 3 mg nicotine strength has a 50VG/50PG ratio, whilst the 0mg, 6mg, 12mg, and 18mg nicotine strengths have a 40VG/60PG composition. These versatile Vampire Vape juice blends are compatible with a wide range of vape devices. But they truly shine when paired with low-powered starter kits, pen-vape kits, and pod kits. If you're captivated by the delectable flavours of this Vampire Vape Attraction E-Liquid 10ml, why not explore their other equally delicious E-Liquids. Such as their Vampire Vape Nic Salts or their Vampire Vape Bar Salts ranges? Their E-Liquid ranges cater to every vaper's unique flavour preferences. Ensuring there's always something new and exciting to discover. So whether you crave fruity delights, indulgent desserts, or refreshing menthol blends, you're sure to find the perfect vape juice to satisfy your taste buds and take your vaping to the next level.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "371208",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "371215",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "371178",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "371185",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__attraction-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-attraction-e-liquid-10ml_1.jpg?v=1729032660",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__attraction-e-liquid-by-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/371215_vampirevape_10ml_attraction_06_001.jpg?v=1729032660",
+      "position": 2,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.344Z"
+}

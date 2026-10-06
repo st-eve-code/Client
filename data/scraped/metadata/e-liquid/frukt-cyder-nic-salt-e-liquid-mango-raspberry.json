@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639378616644",
+  "slug": "frukt-cyder-nic-salt-e-liquid-mango-raspberry",
+  "title": "Frukt Cyder Mango & Raspberry Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/frukt-cyder-nic-salt-e-liquid-mango-raspberry",
+  "brand": "Frukt Cyder",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This unfailingly moreish e-liquid perfectly balances the plush, tropical sweetness of juicy ripe mangos with the ruby tang of fresh raspberries for a dreamy all-day vape. This premium e-liquid’s 50VG/50PG blend strikes the perfect balance between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. Nicotine salts are found naturally in tobacco, but their recent introduction to the world of e-liquids has opened up a fantastic new way to beat cravings when used with certain types of e-cigarette kits. Unlike traditional freebase nicotine, nicotine salts have a lower PH level which means that higher levels of nicotine can be vaped at lower temperatures. This eliminates the uncomfortable throat hit you would get if you vaped freebase e-liquid with a higher nicotine concentration. Nicotine Salt e-liquids are perfect for previously heavy smokers used to high nicotine, and can be vaped in low-resistance kits such as pod kits or starter kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "FR-NS-10-MR-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "FR-NS-10-MR-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__frukt-cyder-nic-salt-e-liquid-mango-raspberry__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/frult_eliquid_nic_salts_mango_raspberry.jpg?v=1729037209",
+      "position": 1,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.639Z"
+}

@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15765620982141",
+  "slug": "elf-bar-elfliq-x-crystal-blueberry-sour-raspberry-10ml-nic-salt-e-liquid",
+  "title": "Elf Bar ElfLiq x Crystal Blueberry Sour Raspberry 10ml Nic Salt E-Liquid - 20mg",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-x-crystal-blueberry-sour-raspberry-10ml-nic-salt-e-liquid",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Elfliq x Crystal Blueberry Sour Raspberry by Elf Bar offers a revitalised take on a legendary flavour profile. As part of the special edition Elfliq Crystal series, this e-liquid refines the classic recipe to deliver a sharper, more vibrant taste experience. The profile opens with the sweet, jammy notes of ripe blueberries, providing a rich fruit foundation. This is immediately cut through by the zingy, electric tang of sour raspberries on the exhale, creating a perfectly balanced sweet-and-sour vape. Mixed with a balanced 50% VG / 50% PG ratio, this nicotine salt e-liquid is designed for optimal performance in low-powered starter kits and refillable pod devices. The 50/50 blend ensures excellent flavour clarity and consistent wicking. Available in a 20mg nicotine strength, the salt formulation provides a smooth throat hit and rapid satisfaction, delivering a premium vaping experience in a sustainable 10ml bottle.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1152730",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-x-crystal-blueberry-sour-raspberry-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Sour-Raspberry-Elfliq-Crystal-10ml-nic-salts.jpg?v=1768479458",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.538Z"
+}

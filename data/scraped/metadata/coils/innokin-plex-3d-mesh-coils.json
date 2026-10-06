@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639350239556",
+  "slug": "innokin-plex-3d-mesh-coils",
+  "title": "Innokin Plex3D Coils 0.14ohm",
+  "url": "https://www.vapestore.co.uk/products/innokin-plex-3d-mesh-coils",
+  "brand": "Innokin",
+  "productType": "Coils",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Innokin proudly introduce a brand-new generation of 3D mesh coil technology with these expertly-crafted Plexer Plex3D coils. The Plexer coils feature an advanced ‘micro-groove’ design which effectively increases the coil’s surface area for dramatically faster heating and crystal-clear, rich flavour. With an optimised power flow and a low thermal mass, the Plexer coils boast the ability to heat far quicker and at lower wattages than most standard sub ohm coils, effectively conserving vital heat and power and in turn lasting far longer than alternative vape coils on the market. The unique capillary effect of the Plexar coils draws e-liquid across the coil in a fast and even manner, ensuring a balanced vape and effectively reducing the risk of unpleasant dry hits. Wood pulp and organic cotton wicking core ensures the very best flavour from your e-liquid and instantly enhances the overall performance of your e-cigarette setup. Innokin proudly introduces a brand-new generation of 3D mesh coil technology with these expertly-crafted Plexer Plex3D coils. The Plexer coils feature an advanced ‘micro-groove’ design which effectively increases the coil’s surface area for dramatically faster heating and crystal-clear, rich flavour. With an optimised power flow and a low thermal mass, the Plexer coils boast the ability to heat far quicker and at lower wattages than most standard sub ohm coils, effectively conserving vital heat and power and in turn lasting far longer than alternative vape coils on the market. The unique capillary effect of the Plexar coils draws e-liquid across the coil in a fast and even manner, ensuring a balanced vape and effectively reducing the risk of unpleasant dry hits. A wood pulp and organic cotton wicking core ensures the very best flavour from your e-liquid and instantly enhances the overall performance of your e-cigarette setup.",
+  "tags": [
+    "compatible-with-IN-KT-PL-XR-XX-SIL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "IN-CO-PL-XR-014",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-plex-3d-mesh-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-plex3d-0-14.jpg?v=1729035878",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

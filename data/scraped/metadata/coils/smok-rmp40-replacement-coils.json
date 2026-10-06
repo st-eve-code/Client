@@ -1,0 +1,126 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639367868740",
+  "slug": "smok-rmp40-replacement-coils",
+  "title": "SMOK RPM Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-rmp40-replacement-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 6.49,
+    "max": 8.49,
+    "currency": "GBP"
+  },
+  "description": "Smoktech’s family of RPM coils represent the vape giant’s latest innovation in vaping. Ranging from 0.3 to 1.2ohm resistance, the coils offer varied builds across mesh, dual coil, triple coil and quartz configurations for a variety of MTL and DTL experiences. Compatible with many of Smok’s vape kits, including the RPM 4 , RPM Lite , RPM 40, RPM 80 and Smok Scar, the choice of coils and compatible kits on offer give vapers a universe of flavour and performance to experiment with. Details: SMOK RPM Coils ensure consistent flavour and are available in different versions to suit different vapers’ needs: 0.3ohm – Mesh Coil: Best at 25W-50W for DTL & RDL vaping. 0.4ohm – Mesh Coil: Best at 25W-40W for RDL vaping. 0.6ohm – Triple Coil: Best at 25W-40W for RDL & MTL vaping. 0.8ohm – Dual Coil: Best at 16W-20W for RDL & MTL vaping. 1.0ohm – Single Coil: Best at 14W-18W for MTL vaping. 1.2ohm – Quartz Coil: Best at 14W-18W for MTL vaping.",
+  "tags": [
+    "compatible-with-SM-KT-RP-40-PD-GRE",
+    "MTL/DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.3ohm",
+        "0.4 ohm",
+        "0.6ohm",
+        "0.8ohm",
+        "1.0ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.3ohm",
+      "sku": "SM-SM-CO-RPM-MS-0.3-5P",
+      "price": 8.49
+    },
+    {
+      "title": "0.4 ohm",
+      "sku": "SM-CO-RP-40-MS-0.4",
+      "price": 8.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "SM-SM-CO-RPM-TR-0.6-5P",
+      "price": 8.49
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "SM-CO-RP-DC-0.8-3P",
+      "price": 7.49
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "SM-SM-CO-RPM-SC-1.0-5P",
+      "price": 6.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "SM-CO-RP-40-QU-1.2",
+      "price": 8.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-rmp40-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-replacement-0-3_4c4de1be-61c5-468d-ae40-563a33fe3563.jpg?v=1729036780",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rmp40-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-replacement-1-2_1.jpg?v=1729036780",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rmp40-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-replacement-0-4_1.jpg?v=1729036780",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rmp40-replacement-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-replacement-0-8_1.jpg?v=1729036780",
+      "position": 4,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rmp40-replacement-coils__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-replacement-0-3_1.jpg?v=1729036780",
+      "position": 5,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rmp40-replacement-coils__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-replacement-1_1.jpg?v=1729036780",
+      "position": 6,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rmp40-replacement-coils__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-replacement-0-6_1.jpg?v=1729036780",
+      "position": 7,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.868Z"
+}

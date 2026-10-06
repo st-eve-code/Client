@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639291945284",
+  "slug": "mango-raspberry-ice-cream-short-fill-e-liquid-50ml",
+  "title": "Double Drip Mango Raspberry Ice Cream Shortfill E-Liquid 50ml",
+  "url": "https://www.vapestore.co.uk/products/mango-raspberry-ice-cream-short-fill-e-liquid-50ml",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Fresh, ripe mango and tangy raspberries smothered in an indulgent vanilla ice cream These short fill bottles contain 50ml of nicotine-free liquid, with 10ml of extra space within the bottle to accommodate your nicotine shot of choice. This allows you to create a liquid with your own desired nicotine strength, and typically adding a 10ml nicotine shot to a 50ml short fill will give you 60ml of 3mg e-liquid. Once you have added your preferred amount of nicotine, make sure you shake the contents of the short fill bottle well. We also offer a range of 18mg nicotine-containing e-liquid shots in a variety of VG percentage strengths to ensure you find a perfect match to suit your taste.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "80/20 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DD-MR-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mango-raspberry-ice-cream-short-fill-e-liquid-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-drip-50ml-mango-raspberry-ice-cream-eliquid.jpg?v=1729033250",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.346Z"
+}

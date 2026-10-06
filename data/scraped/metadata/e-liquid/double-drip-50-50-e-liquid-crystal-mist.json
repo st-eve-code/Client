@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639353975108",
+  "slug": "double-drip-50-50-e-liquid-crystal-mist",
+  "title": "Double Drip Crystal Mist 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-50-50-e-liquid-crystal-mist",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Crystal Mist from Double Drip’s 50:50 series delivers an unforgettable menthol experience, layered with incredible flavours of juicy blue raspberry – just think of your favourite blueberry and raspberry iced slushy – and rich, tangy black cherries. The sweet, syrupy fruit flavours are balanced perfectly with a layer of crisp, refreshing menthol for a vape that will light up your taste buds. Double Drip Coil Sauce E-Liquid is a high-quality vape juice brand proudly manufactured right here in the United Kingdom. Browse the entire Double Drip range and find the perfect juice for your e-cigarette setup. Double Drip is available in a variety of formulations to suit a range of kits, including sub ohm (high-VG), 50/50 e-liquid , nicotine salt vape juice , and 50ml shortfills for use with starter vape kits , high-powered e cig kits, compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "VZ-DD-10-CM-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VZ-DD-10-CM-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VZ-DD-10-CM-12-50",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VZ-DD-10-CM-18-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-50-50-e-liquid-crystal-mist__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/50-50-crystal-mist-double-drip-eliquid-10ml.jpg?v=1729036003",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.374Z"
+}

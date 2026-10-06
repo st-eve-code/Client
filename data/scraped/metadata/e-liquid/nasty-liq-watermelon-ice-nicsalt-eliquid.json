@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639843529028",
+  "slug": "nasty-liq-watermelon-ice-nicsalt-eliquid",
+  "title": "Nasty Liq Watermelon Ice 10ml Nic Salt E-Liquid By Nasty Juice",
+  "url": "https://www.vapestore.co.uk/products/nasty-liq-watermelon-ice-nicsalt-eliquid",
+  "brand": "Nasty Liq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Nasty Liq's Watermelon Ice is an invigorating e-liquid that perfectly embodies the refreshing quality of a chilled slice of watermelon. With each inhale, the sweet, juicy essence of ripe watermelon cascades over your taste buds, capturing the taste of summer with every breath. This vibrant watermelon flavour is rich and true to life, offering a succulent sweetness that's instantly uplifting. As the sweetness of the watermelon washes over your tastebuds, a cool breeze of ice emerges, as refreshing as a dip in a pool on a sweltering day. This icy sensation is carefully calibrated to enhance the watermelon taste without overwhelming it, providing a balanced cooling effect that invigorates the senses. It's a simple yet masterful combination that makes for an e-liquid you'll want to return to time and again. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. If you enjoy this flavour, there are plenty more delicious Nasty Liq flavours to try. Nasty Juice have fine-tuned their vape juices for optimised performance with the vast majority of MTL (mouth-to-lung) devices. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and many are also available in Nasty Juice’s super-convenient Nasty Bar disposable vape bars.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127949",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127967",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-liq-watermelon-ice-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-watermelon-ice-10ml-nic-salt-eliquid_1_1.jpg?v=1729056106",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-watermelon-ice-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-watermelon-ice-10ml-nic-salt-eliquid.jpg?v=1729056106",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-watermelon-ice-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-watermelon-ice-10ml-nic-salt-eliquid_1.jpg?v=1729056106",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.583Z"
+}

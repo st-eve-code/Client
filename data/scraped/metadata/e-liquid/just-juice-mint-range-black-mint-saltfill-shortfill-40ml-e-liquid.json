@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15517458923901",
+  "slug": "just-juice-mint-range-black-mint-saltfill-shortfill-40ml-e-liquid",
+  "title": "Just Juice Mint Range Black Mint Saltfill Shortfill 40ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-mint-range-black-mint-saltfill-shortfill-40ml-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Just Juice Black Mint Saltfill delivers a striking Menthol vape with full intensity. Icy, direct, and uncompromisingly cool, this flavour is designed for fans of powerful menthol blends that refresh with every draw. Supplied in a 60ml bottle containing 40ml of nicotine-free e-liquid, there’s room for up to two nicotine shots if required. Blended at 60PG/40VG, Just Juice Saltfills are well suited to pod kits and starter devices, producing bright flavour and a satisfying throat hit. Crafted with double-concentrated flavouring, Black Mint offers a menthol experience that stays bold and consistent all day. Please Note : All flavours in the Just Juice Bar Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "40ml Shortfill",
+    "60/40 Shortfill",
+    "Just Juice Mint Range",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148243",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-mint-range-black-mint-saltfill-shortfill-40ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/MINT-BLACK-SALTFILL-Just-Juice-Saltfill-40ml.jpg?v=1757510586",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

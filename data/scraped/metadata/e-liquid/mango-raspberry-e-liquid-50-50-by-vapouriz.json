@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639322222916",
+  "slug": "mango-raspberry-e-liquid-50-50-by-vapouriz",
+  "title": "Vapouriz 50/50 Mango & Raspberry 10ml",
+  "url": "https://www.vapestore.co.uk/products/mango-raspberry-e-liquid-50-50-by-vapouriz",
+  "brand": "Vapouriz 50/50",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Mango & Raspberry from the Vapouriz 50/50 collection is an outrageously moreish fruit cocktail, with bright, juicy notes of fresh, sun-ripened mangoes paired with the ruby, sharp tang of luscious raspberries. It’s a little bit tropical, a little bit English meadow, and a hugely delicious vape that will appeal to any fan of fruit blends. Vapouriz 50/50 takes some of the classic flavours from Vapouriz Premium’s bestselling collection of e-liquids, adds several new equally unique and delicious flavours, and bottles them in a smooth and satisfying 50% Vegetable Glycerine / 50% Propylene Glycol ratio. This ideal balance provides a deliciously flavoursome vape, with a discreet amount of vapour and a silky, comfortable throat hit. When it comes to vaping, 50/50 e-liquids really do offer the best of all worlds. All e-liquids contain Propylene Glycol (PG) and Vegetable Glycerine (VG) in various ratios. PG carries flavour the best and provides a tactile ‘throat hit’ that vapers are familiar with from smoking, while VG is the ingredient that aids vapour production. But since 50/50 e-liquids carry equal quantities of both, every vape you take is a deliciously flavoursome experience that produces a satisfying, yet not excessive, amount of vapour, while being comfortable on the throat. 50/50 e-liquids are among the most versatile e-liquids available, and can be used in most vape kits. However, 50/50 e-liquids perform best in low-resistance devices such as Starter Vape Kits, Pen Vape Kits and Pod Vape Kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Mango",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1104911",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1104912",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1104913",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mango-raspberry-e-liquid-50-50-by-vapouriz__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz--50-50-e-liquid-mango-raspberry-10ml.jpg?v=1729034481",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__mango-raspberry-e-liquid-50-50-by-vapouriz__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz--50-50-e-liquid-mango-raspberry-10ml_1.jpg?v=1729034481",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.375Z"
+}

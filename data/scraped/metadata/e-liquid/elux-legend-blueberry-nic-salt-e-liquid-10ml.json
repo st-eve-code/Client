@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15228098937213",
+  "slug": "elux-legend-blueberry-nic-salt-e-liquid-10ml",
+  "title": "Elux Legend Blueberry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-blueberry-nic-salt-e-liquid-10ml",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Legend Blueberry Nic Salt captures the sweet, full-bodied taste of ripe Blueberries in a smooth and satisfying vape. The flavour is rich and rounded, delivering a mellow berry character with gentle tart undertones that add depth without overwhelming the blend. As part of the Elux Legend Nic Salt collection, this e-liquid is crafted with double-concentrated flavouring to deliver the vivid, fruit-driven taste Elux is known for. Blended at a 50VG/50PG ratio, Blueberry Nic Salt is designed for MTL (mouth-to-lung) pod kits and starter devices. Its smooth nicotine salt formula ensures discreet vapour, rich flavour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142068",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142074",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-blueberry-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elux-Legend-10ml-Blueberry.jpg?v=1747386046",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.422Z"
+}

@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639408042308",
+  "slug": "vampire-vape-e-liquid-smooth-western",
+  "title": "Vampire Vape Smooth Western 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-e-liquid-smooth-western",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Smooth Western by Vampire Vape captures the rich, satisfying taste of tobacco in all its timeless authenticity. Full-flavoured and robust yet as silky-smooth as its name suggests, Smooth Western carries deep nutty, toasted notes that taste complex yet comforting, marking it as a truly exceptional tobacco flavour. Crafted by Vampire Vape, Smooth Western has been designed to deliver maximum flavour and satisfying clouds by striking the ideal balance between PG and VG. When choosing the right Vampire Vape Juice nicotine strength for your vaping needs, it's important to know the VG/PG ratio. The 3 mg nicotine strength has a 50VG/50PG ratio, whilst the 3 mg, 6 mg, 12 mg, and 18 mg nicotine strengths have a 40VG/60PG composition. These versatile Vampire Vape juice blends are compatible with a wide range of vape devices. But they truly shine when paired with low-powered starter kits, pen-vape kits, and pod kits. If you're captivated by the flavour of this Smooth Western Vampire Vape E-Liquid 10ml, why not explore their other equally premium E-Liquids. Such as their Vampire Vape Nic Salts or their Vampire Vape Bar Salts ranges? Their E-Liquid ranges cater to every vapers' unique flavour preferences. Ensuring there's always something new and exciting to discover. So whether you seek fruity delights, indulgent desserts, refreshing menthol blends, or classic tobacco, you're sure to find the perfect vape juice to satisfy your taste buds and take your vaping to the next level.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1000236",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-SM-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-SM-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-VV-10-SM-12-50",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1000239",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-e-liquid-smooth-western__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-smooth-western-10ml-e-liquid.jpg?v=1729038482",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.327Z"
+}

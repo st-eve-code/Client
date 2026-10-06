@@ -1,0 +1,60 @@
+{
+  "updatedAt": "2026-10-06T14:24:30.999Z",
+  "categories": [
+    {
+      "category": "vape-kits",
+      "label": "Vape Kits",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/vape-kits-mods-vape-kits",
+      "count": 298,
+      "images": 3003,
+      "scrapedAt": "2026-10-06T13:32:18.863Z",
+      "path": "data/scraped/metadata/vape-kits",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "e-liquid",
+      "label": "E-Liquid",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/e-liquid",
+      "count": 3526,
+      "images": 6352,
+      "scrapedAt": "2026-10-06T14:24:30.960Z",
+      "path": "data/scraped/metadata/e-liquid",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "pod-vape-kits",
+      "label": "Pod Vape Kits",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/pod-vape-kits",
+      "count": 239,
+      "images": 2562,
+      "scrapedAt": "2026-10-06T13:50:54.172Z",
+      "path": "data/scraped/metadata/pod-vape-kits",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "coils",
+      "label": "Coils",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/coils",
+      "count": 113,
+      "images": 295,
+      "scrapedAt": "2026-10-06T13:48:33.655Z",
+      "path": "data/scraped/metadata/coils",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "vape-tanks",
+      "label": "Vape Tanks",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/vape-tanks",
+      "count": 63,
+      "images": 278,
+      "scrapedAt": "2026-10-06T13:50:17.930Z",
+      "path": "data/scraped/metadata/vape-tanks",
+      "imagesPath": "data/scraped/images"
+    }
+  ]
+}

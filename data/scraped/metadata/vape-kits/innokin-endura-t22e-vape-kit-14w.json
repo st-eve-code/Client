@@ -1,0 +1,117 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "9639875543364",
+  "slug": "innokin-endura-t22e-vape-kit-14w",
+  "title": "Innokin Endura T22E Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-endura-t22e-vape-kit-14w",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin T22E Starter Kit is a sleek yet robust device crafted to deliver a flavoursome, fulfilling vaping experience. Made from high-quality materials, this kit ensures durability and longevity, while its single-button operation makes it incredibly accessible for vapers of all experience levels. Powered by a 2000mAh rechargeable battery, you'll enjoy a fixed output of 14W that pairs seamlessly with the kit's 1.5-ohm replaceable coils. What makes these coils stand out is their construction using Japanese organic cotton wicking, which elevates flavour production to new heights. And with built-in safety features such as charging protection and overheating protection, you can vape with peace of mind. The kit also features a 2ml Prism T22E tank made from stainless steel and Pyrex glass. Filling the tank is hassle-free, thanks to its twist-top quick fill system. When it's time to charge, pass-through technology ensures that your vaping session remains uninterrupted. No more fumbling with messy coil replacements. The Innokin no-spill coil swap system makes it easy to switch out coils as needed, contributing to the kit's overall user-friendliness. Included in the kit are a Delrin© drip tip mouthpiece, replacement O-rings, a spare coil, and a micro USB charger. All in all, the Innokin T22E Starter Kit is a comprehensive package, providing everything you need for a satisfying vape experience, whether you're a beginner or an experienced vaper. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1132180",
+    "compatible-with-679758",
+    "compatible-with-685032",
+    "free 2 50/50 Liquids",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Rainbow",
+        "Black",
+        "Blue",
+        "Purple",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Rainbow",
+      "sku": "1009144",
+      "price": 24.99
+    },
+    {
+      "title": "Black",
+      "sku": "1094752",
+      "price": 24.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1094753",
+      "price": 24.99
+    },
+    {
+      "title": "Purple",
+      "sku": "1094754",
+      "price": 24.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1094755",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-endura-t22e-vape-kit-14w__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-endura-t22e-rainbow-vape-kit.jpg?v=1757942594",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-t22e-vape-kit-14w__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-endura-t22e-silver-vape-kit_1.jpg?v=1757942594",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-t22e-vape-kit-14w__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-endura-t22e-black-vape-kit.jpg?v=1729058355",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-t22e-vape-kit-14w__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-endura-t22e-blue-vape-kit.jpg?v=1729058355",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-t22e-vape-kit-14w__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-endura-t22e-purple-vape-kit.jpg?v=1729058355",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-t22e-vape-kit-14w__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-endura-t22e-silver-vape-kit.jpg?v=1729058355",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.078Z"
+}

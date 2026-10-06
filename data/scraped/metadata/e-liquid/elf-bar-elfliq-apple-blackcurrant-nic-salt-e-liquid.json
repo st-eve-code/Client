@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15055005581693",
+  "slug": "elf-bar-elfliq-apple-blackcurrant-nic-salt-e-liquid",
+  "title": "Elf Bar ElfLiq Apple Blackcurrant Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-apple-blackcurrant-nic-salt-e-liquid",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Elf Bar ElfLiq Apple Blackcurrant delivers a rich and fruity blend of crisp Apples and juicy Blackcurrants, balancing sweet and tart flavours in perfect harmony. The Apple brings a tangy, orchard-fresh bite, while the Blackcurrant adds a deep, dark berry richness with a delightful tang. Together, they create a smooth and satisfying fruit combination with a complex, multilayered character. Blended for MTL (mouth-to-lung) vaping, this 50/50 VG/PG nicotine salt e-liquid ensures a silky-smooth throat hit and rapid nicotine relief. Best suited for low-powered pod kits and starter vape devices, Apple Blackcurrant provides a vibrant and flavour-packed vape with discreet vapour production. Available in 5mg, 10mg, and 20mg nicotine strengths, Elf Bar ElfLiq brings the most popular Elf Bar disposable flavours into a 10ml e-liquid format, providing a cost-effective and sustainable way to enjoy signature flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138347",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1138353",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138359",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-apple-blackcurrant-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-apple-blackcurrant-5mg.jpg?v=1776339518",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-apple-blackcurrant-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-apple-blackcurrant-10mg.jpg?v=1776339521",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-apple-blackcurrant-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-apple-blackcurrant-20mg.jpg?v=1776339525",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.378Z"
+}

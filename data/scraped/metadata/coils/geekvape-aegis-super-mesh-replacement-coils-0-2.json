@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639420526916",
+  "slug": "geekvape-aegis-super-mesh-replacement-coils-0-2",
+  "title": "Geekvape Super Mesh X1 0.2ohm Vape Coils",
+  "url": "https://www.vapestore.co.uk/products/geekvape-aegis-super-mesh-replacement-coils-0-2",
+  "brand": "Geekvape",
+  "productType": "Coils",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "The improved Supermesh X1 coils from Geekvape are designed for use with the Cerberus tank and feature larger wick ports and a 0.2ohm resistance for incredible flavour, performance and lifespan. For Sub-Ohm (DTL or Direct-to-lung) vaping with High-VG E-Liquid.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "GV-CO-SU-MS-X1-5P",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-aegis-super-mesh-replacement-coils-0-2__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/supermesh_coils_0.2.jpg?v=1729038979",
+      "position": 1,
+      "width": 640,
+      "height": 426,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

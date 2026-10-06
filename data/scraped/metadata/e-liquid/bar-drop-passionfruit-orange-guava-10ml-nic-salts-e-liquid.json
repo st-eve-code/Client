@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763295109501",
+  "slug": "bar-drop-passionfruit-orange-guava-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Passionfruit Orange Guava 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-passionfruit-orange-guava-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Passionfruit Orange Guava by Drop delivers the ultimate tropical trio, often known as POG. The inhale brings the sharp, tangy sweetness of passionfruit and the zest of bright orange. This is smoothed out on the exhale by the lush, creamy notes of ripe guava, creating a perfectly balanced exotic fruit vape. Formulated with a unique 40% VG / 60% PG ratio, this e-liquid is designed to deliver a more profound flavour experience than standard 50/50 blends. The higher PG content carries the zesty citrus and sweet tropical notes with exceptional clarity. Combined with a nicotine salt formula available in 5mg, 10mg, or 20mg strengths, it offers a silky-smooth throat hit. Bar Drop Salts are brought to you by Drop and are manufactured right here in the UK. Drop’s collections focus on fabulously fruity flavours that are achingly authentic and blend familiar favourites with unique profiles.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152625",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152656",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152703",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-passionfruit-orange-guava-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Passionfruit-Orange-Guava-Bar-Drop-10ml-Nic-salts.jpg?v=1768301521",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.482Z"
+}

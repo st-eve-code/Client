@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640079196484",
+  "slug": "big-bold-menthols-blackcurrant-menthol-10ml-nic-salt-e-liquid",
+  "title": "Big Bold Menthols Blackcurrant Menthol 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/big-bold-menthols-blackcurrant-menthol-10ml-nic-salt-e-liquid",
+  "brand": "Big Bold",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Big Bold Menthols Nic Salts Blackcurrant Menthol is a perfectly balanced combination of juicy, rich blackcurrants and a crisp, cooling menthol finish. The sweet, tangy flavour of blackcurrant is enhanced by the icy kick of menthol, delivering a refreshing and invigorating vape experience that’s perfect for vapers who enjoy fruit and menthol combinations. Formulated with a 50VG/50PG ratio, Big Bold Nic Salts are designed for use with mouth-to-lung (MTL) starter kits and pod devices. Available in 10mg and 20mg nicotine strengths, these nic salts provide smooth throat hits and rapid nicotine relief, making them ideal for recent ex-smokers or vapers looking for a fast, satisfying alternative to traditional tobacco products. If you love this flavour, there are several other flavours to try from Big Bold’s collection, including Menthols, Creamy and Fruity flavours. Explore such beguiling blends as Honey Melon, Banana Milk, and Vanilla Custard for a Big Bold burst of flavour and a taste sensation like no other.",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135962",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135976",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__big-bold-menthols-blackcurrant-menthol-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/big-bold-menthol-blackcurrant-20mg_1_1.jpg?v=1729066190",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__big-bold-menthols-blackcurrant-menthol-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/big-bold-menthol-blackcurrant-20mg.jpg?v=1729066190",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__big-bold-menthols-blackcurrant-menthol-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/big-bold-menthol-blackcurrant-20mg_1.jpg?v=1729066190",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.523Z"
+}

@@ -1,0 +1,515 @@
+{
+  "category": "vape-tanks",
+  "site": "vapestore",
+  "label": "Vape Tanks",
+  "source": "https://www.vapestore.co.uk/collections/vape-tanks",
+  "count": 63,
+  "images": 278,
+  "scrapedAt": "2026-10-06T13:50:17.930Z",
+  "items": [
+    {
+      "slug": "innokin-go-s-vape-tank-replacement",
+      "title": "Innokin Go S Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-go-s-vape-tank-replacement",
+      "brand": "Innokin",
+      "price": 3.49,
+      "images": 4
+    },
+    {
+      "slug": "geekvape-z-subohm-5-tank-2ml",
+      "title": "Geekvape Z Subohm 5 Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/geekvape-z-subohm-5-tank-2ml",
+      "brand": "Geekvape",
+      "price": 21.99,
+      "images": 5
+    },
+    {
+      "slug": "endura-t18-ii-prism-high-vg-tank-by-innokin",
+      "title": "Innokin Endura T18 II Prism Tank",
+      "url": "https://www.vapestore.co.uk/products/endura-t18-ii-prism-high-vg-tank-by-innokin",
+      "brand": "Innokin",
+      "price": 10.99,
+      "images": 4
+    },
+    {
+      "slug": "voopoo-pnp-x-dtl-vape-tank",
+      "title": "VooPoo PnP X Pod Vape Tank (DTL)",
+      "url": "https://www.vapestore.co.uk/products/voopoo-pnp-x-dtl-vape-tank",
+      "brand": "VooPoo",
+      "price": 4.49,
+      "images": 4
+    },
+    {
+      "slug": "innokin-gozee-vape-tank-2ml",
+      "title": "Innokin Go Z Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/innokin-gozee-vape-tank-2ml",
+      "brand": "Innokin",
+      "price": 4.99,
+      "images": 6
+    },
+    {
+      "slug": "geekvape-z-fli-sub-ohm-tank",
+      "title": "Geekvape Z Fil Vape Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/geekvape-z-fli-sub-ohm-tank",
+      "brand": "Geekvape",
+      "price": 21.99,
+      "images": 6
+    },
+    {
+      "slug": "vaporesso-itank-t-vape-tank-2ml",
+      "title": "Vaporesso iTank T Vape Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/vaporesso-itank-t-vape-tank-2ml",
+      "brand": "Vaporesso",
+      "price": 19.99,
+      "images": 5
+    },
+    {
+      "slug": "smok-t-air-subtank-tank-2ml",
+      "title": "SMOK T-Air Subtank",
+      "url": "https://www.vapestore.co.uk/products/smok-t-air-subtank-tank-2ml",
+      "brand": "SMOK",
+      "price": 15.99,
+      "images": 8
+    },
+    {
+      "slug": "vaporesso-xtank-t-vape-tank",
+      "title": "Vaporesso XTank T Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/vaporesso-xtank-t-vape-tank",
+      "brand": "Vaporesso",
+      "price": 16.99,
+      "images": 3
+    },
+    {
+      "slug": "geekvape-zeus-vape-tank",
+      "title": "Geekvape Zeus Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/geekvape-zeus-vape-tank",
+      "brand": "Geekvape",
+      "price": 24.99,
+      "images": 8
+    },
+    {
+      "slug": "innokin-prism-t20s-tank-2ml",
+      "title": "Innokin Prism T20s Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-prism-t20s-tank-2ml",
+      "brand": "Innokin",
+      "price": 9.99,
+      "images": 12
+    },
+    {
+      "slug": "aspire-nautilus-3sr-vape-tank-2ml",
+      "title": "Aspire Nautilus 3SR Vape Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/aspire-nautilus-3sr-vape-tank-2ml",
+      "brand": "Aspire",
+      "price": 24.99,
+      "images": 3
+    },
+    {
+      "slug": "aspire-nautilus-3-tank",
+      "title": "Aspire Nautilus 3 Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/aspire-nautilus-3-tank",
+      "brand": "Aspire",
+      "price": 24.99,
+      "images": 4
+    },
+    {
+      "slug": "voopoo-pnp-x-mtl-vape-tank",
+      "title": "VooPoo PnP X Pod Tank (MTL)",
+      "url": "https://www.vapestore.co.uk/products/voopoo-pnp-x-mtl-vape-tank",
+      "brand": "VooPoo",
+      "price": 5.99,
+      "images": 4
+    },
+    {
+      "slug": "innokin-endura-t18-e-tank",
+      "title": "Innokin Endura T18-E Prism Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-endura-t18-e-tank",
+      "brand": "Innokin",
+      "price": 9.99,
+      "images": 1
+    },
+    {
+      "slug": "innokin-gomax-replacement-tank-0-19ohm",
+      "title": "Innokin GoMax Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-gomax-replacement-tank-0-19ohm",
+      "brand": "Innokin",
+      "price": 2.49,
+      "images": 6
+    },
+    {
+      "slug": "aspire-k3-vape-tank",
+      "title": "Aspire K3 Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/aspire-k3-vape-tank",
+      "brand": "Aspire",
+      "price": 9.99,
+      "images": 3
+    },
+    {
+      "slug": "innokin-zenith-m-vape-tank",
+      "title": "Innokin Zenith M Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-zenith-m-vape-tank",
+      "brand": "Innokin",
+      "price": 16.99,
+      "images": 3
+    },
+    {
+      "slug": "lostvape-ub-lite-vape-tank-2ml",
+      "title": "Lost Vape UB LIte Tank",
+      "url": "https://www.vapestore.co.uk/products/lostvape-ub-lite-vape-tank-2ml",
+      "brand": "Lost Vape",
+      "price": 10.99,
+      "images": 5
+    },
+    {
+      "slug": "geekvape-e100-replacement-pods-2ml",
+      "title": "Geekvape E100 Replacement Pod Tank 2ml - 2 Pack",
+      "url": "https://www.vapestore.co.uk/products/geekvape-e100-replacement-pods-2ml",
+      "brand": "Geekvape",
+      "price": 12.99,
+      "images": 7
+    },
+    {
+      "slug": "horizontech-aquila-tank-2ml",
+      "title": "HorizonTech Aquila Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/horizontech-aquila-tank-2ml",
+      "brand": "HorizonTech",
+      "price": 19.99,
+      "images": 6
+    },
+    {
+      "slug": "smok-tfv16-lite-tank",
+      "title": "SMOK TFV16 Lite 2ml Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/smok-tfv16-lite-tank",
+      "brand": "SMOK",
+      "price": 24.99,
+      "images": 5
+    },
+    {
+      "slug": "innokin-t18e-pro-tank",
+      "title": "Innokin T18E Pro Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/innokin-t18e-pro-tank",
+      "brand": "Innokin",
+      "price": 11.99,
+      "images": 4
+    },
+    {
+      "slug": "pnp-x-tank-voopoo",
+      "title": "VooPoo Drag PnP-X Tank",
+      "url": "https://www.vapestore.co.uk/products/pnp-x-tank-voopoo",
+      "brand": "VooPoo",
+      "price": 19.99,
+      "images": 6
+    },
+    {
+      "slug": "geekvape-aegis-force-replacement-pod-2ml",
+      "title": "Geekvape Aegis Force Replacement Pod - 2ml",
+      "url": "https://www.vapestore.co.uk/products/geekvape-aegis-force-replacement-pod-2ml",
+      "brand": "Geekvape",
+      "price": 8.99,
+      "images": 1
+    },
+    {
+      "slug": "freemax-fireluke-4-tank-2ml",
+      "title": "Freemax Fireluke 4 Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/freemax-fireluke-4-tank-2ml",
+      "brand": "Freemax",
+      "price": 17.99,
+      "images": 5
+    },
+    {
+      "slug": "voopoo-uforce-x-tank-2ml",
+      "title": "VooPoo Uforce-X Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/voopoo-uforce-x-tank-2ml",
+      "brand": "VooPoo",
+      "price": 18.99,
+      "images": 4
+    },
+    {
+      "slug": "smok-tf-d-subtank-2ml",
+      "title": "SMOK TF-D Sub Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/smok-tf-d-subtank-2ml",
+      "brand": "SMOK",
+      "price": 19.99,
+      "images": 14
+    },
+    {
+      "slug": "horizontech-sakerz-tank",
+      "title": "HorizonTech Sakerz Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/horizontech-sakerz-tank",
+      "brand": "HorizonTech",
+      "price": 27.99,
+      "images": 7
+    },
+    {
+      "slug": "geekvape-z-subohm-tank-se-2ml",
+      "title": "Geekvape Z Subohm SE Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/geekvape-z-subohm-tank-se-2ml",
+      "brand": "Geekvape",
+      "price": 23.99,
+      "images": 7
+    },
+    {
+      "slug": "smok-stick-n18-replacement-2ml-tank",
+      "title": "SMOK Stick N18 Replacement 2ml Tank",
+      "url": "https://www.vapestore.co.uk/products/smok-stick-n18-replacement-2ml-tank",
+      "brand": "SMOK",
+      "price": 4.49,
+      "images": 8
+    },
+    {
+      "slug": "innokin-ez-tube-zenith-minimal-tank-2ml",
+      "title": "Innokin Zenith Minimal Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-ez-tube-zenith-minimal-tank-2ml",
+      "brand": "Innokin",
+      "price": 17.99,
+      "images": 5
+    },
+    {
+      "slug": "uwell-whirl-s-tank-2ml",
+      "title": "Uwell Whirl S Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/uwell-whirl-s-tank-2ml",
+      "brand": "Uwell",
+      "price": 5.99,
+      "images": 1
+    },
+    {
+      "slug": "voopoo-uforce-x-nano-vape-tank",
+      "title": "VooPoo Uforce-X Nano Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/voopoo-uforce-x-nano-vape-tank",
+      "brand": "VooPoo",
+      "price": 17.99,
+      "images": 3
+    },
+    {
+      "slug": "innokin-prism-apex-subohm-tank",
+      "title": "Innokin Prism Apex Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-prism-apex-subohm-tank",
+      "brand": "Innokin",
+      "price": 9.99,
+      "images": 7
+    },
+    {
+      "slug": "innokin-jem-tank-2ml",
+      "title": "Innokin Jem Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/innokin-jem-tank-2ml",
+      "brand": "Innokin",
+      "price": 12.99,
+      "images": 1
+    },
+    {
+      "slug": "smok-stick-r22-tank",
+      "title": "SMOK Stick R22 Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/smok-stick-r22-tank",
+      "brand": "SMOK",
+      "price": 7.99,
+      "images": 7
+    },
+    {
+      "slug": "tecc-specter-tank-2ml",
+      "title": "TECC Specter Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/tecc-specter-tank-2ml",
+      "brand": "TECC",
+      "price": 14.99,
+      "images": 1
+    },
+    {
+      "slug": "aspire-af-tank-2ml",
+      "title": "Aspire AF Vape Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/aspire-af-tank-2ml",
+      "brand": "Aspire",
+      "price": 21.99,
+      "images": 4
+    },
+    {
+      "slug": "innokin-ares-finale-rta-tank-2ml",
+      "title": "Innokin Ares Finale RTA Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-ares-finale-rta-tank-2ml",
+      "brand": "Innokin",
+      "price": 26.99,
+      "images": 3
+    },
+    {
+      "slug": "horizontech-falcon-legend-tank-2ml",
+      "title": "HorizonTech Falcon Legend Vape Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/horizontech-falcon-legend-tank-2ml",
+      "brand": "HorizonTech",
+      "price": 24.99,
+      "images": 6
+    },
+    {
+      "slug": "innokin-zlide-top-tank-subohm-tank",
+      "title": "Innokin Zlide Top Vape Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/innokin-zlide-top-tank-subohm-tank",
+      "brand": "Innokin",
+      "price": 19.99,
+      "images": 7
+    },
+    {
+      "slug": "freemax-m-pro-3-subohm-tank-2ml",
+      "title": "Freemax M Pro 3 Tank",
+      "url": "https://www.vapestore.co.uk/products/freemax-m-pro-3-subohm-tank-2ml",
+      "brand": "Freemax",
+      "price": 24.99,
+      "images": 5
+    },
+    {
+      "slug": "innokin-z-force-sub-ohm-tank",
+      "title": "Innokin Z Force Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/innokin-z-force-sub-ohm-tank",
+      "brand": "Innokin",
+      "price": 16.99,
+      "images": 3
+    },
+    {
+      "slug": "voopoo-uforce-l-tank-2ml",
+      "title": "VooPoo UForce-L Tank",
+      "url": "https://www.vapestore.co.uk/products/voopoo-uforce-l-tank-2ml",
+      "brand": "VooPoo",
+      "price": 19.99,
+      "images": 4
+    },
+    {
+      "slug": "smok-tfv18-mini-sub-ohm-tank-2ml",
+      "title": "SMOK TFV18 Mini Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/smok-tfv18-mini-sub-ohm-tank-2ml",
+      "brand": "SMOK",
+      "price": 27.99,
+      "images": 7
+    },
+    {
+      "slug": "eleaf-gtl-pod-tank",
+      "title": "Eleaf GTL Pod Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/eleaf-gtl-pod-tank",
+      "brand": "Eleaf",
+      "price": 10.99,
+      "images": 3
+    },
+    {
+      "slug": "voopoo-tpp-pod-tank",
+      "title": "VooPoo TPP Pod Tank",
+      "url": "https://www.vapestore.co.uk/products/voopoo-tpp-pod-tank",
+      "brand": "VooPoo",
+      "price": 12.99,
+      "images": 4
+    },
+    {
+      "slug": "voopoo-pnp-pod-tank",
+      "title": "VooPoo PnP Pod Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/voopoo-pnp-pod-tank",
+      "brand": "VooPoo",
+      "price": 9.99,
+      "images": 1
+    },
+    {
+      "slug": "aspire-finixx-pod-tank",
+      "title": "Aspire Finixx Pod Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/aspire-finixx-pod-tank",
+      "brand": "Aspire",
+      "price": 14.99,
+      "images": 3
+    },
+    {
+      "slug": "smok-scar-tfv9-mini-tank-2ml",
+      "title": "SMOK TFV9 Mini Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/smok-scar-tfv9-mini-tank-2ml",
+      "brand": "SMOK",
+      "price": 19.99,
+      "images": 4
+    },
+    {
+      "slug": "vaporesso-forz-tank-25",
+      "title": "Vaporesso Forz 25 Tank 2ml",
+      "url": "https://www.vapestore.co.uk/products/vaporesso-forz-tank-25",
+      "brand": "Vaporesso",
+      "price": 19.99,
+      "images": 1
+    },
+    {
+      "slug": "smok-tfv9-tank",
+      "title": "SMOK TFV9 Tank",
+      "url": "https://www.vapestore.co.uk/products/smok-tfv9-tank",
+      "brand": "SMOK",
+      "price": 24.99,
+      "images": 7
+    },
+    {
+      "slug": "aspire-nautilus-gt-vape-tank",
+      "title": "Aspire Nautilus GT Vape Tank",
+      "url": "https://www.vapestore.co.uk/products/aspire-nautilus-gt-vape-tank",
+      "brand": "Aspire",
+      "price": 24.99,
+      "images": 3
+    },
+    {
+      "slug": "aspire-nautilus-xs-tank",
+      "title": "Nautilus XS Tank",
+      "url": "https://www.vapestore.co.uk/products/aspire-nautilus-xs-tank",
+      "brand": "Aspire",
+      "price": 22.99,
+      "images": 3
+    },
+    {
+      "slug": "smok-tfv-mini-v2-sub-ohm-tank",
+      "title": "SMOK TFV Mini V2 Sub Ohm Tank",
+      "url": "https://www.vapestore.co.uk/products/smok-tfv-mini-v2-sub-ohm-tank",
+      "brand": "SMOK",
+      "price": 19.99,
+      "images": 3
+    },
+    {
+      "slug": "cleito-pro-sub-ohm-tank-by-aspire",
+      "title": "Aspire Cleito Pro Sub Ohm Tank",
+      "url": "https://www.vapestore.co.uk/products/cleito-pro-sub-ohm-tank-by-aspire",
+      "brand": "Aspire",
+      "price": 24.99,
+      "images": 4
+    },
+    {
+      "slug": "cleito-rta-systemby-aspire",
+      "title": "Aspire Cleito RTA System",
+      "url": "https://www.vapestore.co.uk/products/cleito-rta-systemby-aspire",
+      "brand": "Aspire",
+      "price": 12.99,
+      "images": 1
+    },
+    {
+      "slug": "innokin-slipstream-sub-ohm-tank",
+      "title": "Innokin Slipstream Sub-Ohm Tank",
+      "url": "https://www.vapestore.co.uk/products/innokin-slipstream-sub-ohm-tank",
+      "brand": "Innokin",
+      "price": 14.99,
+      "images": 3
+    },
+    {
+      "slug": "ud-athlon-22-mini-tank",
+      "title": "UD  Athlon 22 Mini Tank",
+      "url": "https://www.vapestore.co.uk/products/ud-athlon-22-mini-tank",
+      "brand": "UD",
+      "price": 19.99,
+      "images": 1
+    },
+    {
+      "slug": "fuse-dual-coil-clearomizer",
+      "title": "Vapouriz Premium FUSE Dual Coil Tank",
+      "url": "https://www.vapestore.co.uk/products/fuse-dual-coil-clearomizer",
+      "brand": "Vapouriz Premium",
+      "price": 6.99,
+      "images": 1
+    },
+    {
+      "slug": "aspire-k2-replacement-tank",
+      "title": "Aspire K2 Replacement Tank",
+      "url": "https://www.vapestore.co.uk/products/aspire-k2-replacement-tank",
+      "brand": "Aspire",
+      "price": 8.49,
+      "images": 3
+    },
+    {
+      "slug": "aspire-nautilus-mini-replacement-tanks-sleeve",
+      "title": "Aspire Nautilus Mini Replacement Tank with Hollowed Out Sleeve",
+      "url": "https://www.vapestore.co.uk/products/aspire-nautilus-mini-replacement-tanks-sleeve",
+      "brand": "Aspire",
+      "price": 9.99,
+      "images": 1
+    }
+  ]
+}

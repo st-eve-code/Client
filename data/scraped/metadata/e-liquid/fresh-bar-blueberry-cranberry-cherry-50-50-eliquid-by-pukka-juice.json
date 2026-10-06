@@ -1,0 +1,85 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639818330436",
+  "slug": "fresh-bar-blueberry-cranberry-cherry-50-50-eliquid-by-pukka-juice",
+  "title": "Fresh Bar 50/50 Blueberry Cranberry Cherry 10ml E-Liquid By Pukka Juice",
+  "url": "https://www.vapestore.co.uk/products/fresh-bar-blueberry-cranberry-cherry-50-50-eliquid-by-pukka-juice",
+  "brand": "Fresh Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Cranberry Cherry from Fresh Bar offers a combination of blueberries' sweetness, cranberries' tartness, and the full-bodied flavour of succulent red cherries. It's a well-rounded berry mix that stands out for its clarity and delicious depth. This delicious 50:50 E-Liquid from Fresh Bar offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. This type of e-liquid hits the sweet spot of plenty of flavour and impressive cloud production and work well in almost every type of vape kit, making it the most versatile type of e-liquid at Vapestore. 50:50 e-liquids typically contain traditional Freebase nicotine, which offers the classic e-liquid experience. With Freebase e-liquids, the flavours are often more intense with a stronger, more tactile throat hit than you would find with nicotine salts, or high-VG e-liquids. This makes them a great choice for newer vapers seeking that familiar ‘smoking’ sensation. Fresh Bar are a brand of e-liquids from vape masters Pukka Juice, an award-winning UK e-liquid company behind some of the most popular e-liquids today. From nic salts, to 50/50 eliquids, Fresh Bar e-liquids draw inspiration from the most popular disposable vape bar flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1126415",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1126433",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1126451",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fresh-bar-blueberry-cranberry-cherry-50-50-eliquid-by-pukka-juice__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-50-50-10ml-eliquid-blueberry-cranberry-cherry_1_1_1.jpg?v=1729054238",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fresh-bar-blueberry-cranberry-cherry-50-50-eliquid-by-pukka-juice__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-50-50-10ml-eliquid-blueberry-cranberry-cherry.jpg?v=1729054238",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fresh-bar-blueberry-cranberry-cherry-50-50-eliquid-by-pukka-juice__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-50-50-10ml-eliquid-blueberry-cranberry-cherry_1.jpg?v=1729054238",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fresh-bar-blueberry-cranberry-cherry-50-50-eliquid-by-pukka-juice__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-50-50-10ml-eliquid-blueberry-cranberry-cherry_1_1.jpg?v=1729054238",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.591Z"
+}

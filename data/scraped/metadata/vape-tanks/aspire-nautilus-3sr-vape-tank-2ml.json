@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "15464833941885",
+  "slug": "aspire-nautilus-3sr-vape-tank-2ml",
+  "title": "Aspire Nautilus 3SR Vape Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/aspire-nautilus-3sr-vape-tank-2ml",
+  "brand": "Aspire",
+  "productType": "Tanks",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Nautilus 3SR Tank offers a versatile and user-friendly option for vapers who want reliable performance and easy maintenance. With a 2ml capacity, it features Aspire’s slide-lift top-fill mechanism for quick and mess-free refills, along with a bottom adjustable airflow ring to fine-tune your draw from tight mouth-to-lung (MTL) to airier restricted direct-to-lung (RDL) vaping. Compatible with the entire Nautilus Series coil range, as well as Triton Mini Clapton coils, the Nautilus 3SR Tank supports a wide variety of vaping styles and e-liquid types. The tank’s stainless steel and Pyrex glass construction ensures durability, while the included drip tip options allow you to customise your inhale feel. The Nautilus 3SR Tank can be converted from a TPD-compliant 2ml e-liquid capacity, to a 5ml capacity by removing an internal silicone sleeve within the tank. Designed for ease of use and reliable flavour production, the Nautilus 3SR is a great choice for pairing with a range of vape mods. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL/DTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver",
+        "Gunmetal"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1143940",
+      "price": 24.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1143941",
+      "price": 24.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1143942",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nautilus-3sr-vape-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Nautilus-3SR-Tank-Black.jpg?v=1755182673",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-3sr-vape-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Nautilus-3SR-Tank-Silver.jpg?v=1755182834",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-3sr-vape-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Nautilus-3SR-Tank-gunmetal.jpg?v=1755183146",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.623Z"
+}

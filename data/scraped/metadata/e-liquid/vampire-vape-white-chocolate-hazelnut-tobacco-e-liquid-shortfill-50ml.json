@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15551340020093",
+  "slug": "vampire-vape-white-chocolate-hazelnut-tobacco-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape White Chocolate Hazelnut Tobacco E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-white-chocolate-hazelnut-tobacco-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Koncept White Chocolate Hazelnut Tobacco Shortfill pairs robust Tobacco with creamy White Chocolate and roasted Hazelnut. The Tobacco provides depth and character, while sweet chocolate and nutty tones bring indulgent accents that enhance the profile. With a 70VG/30PG mix, this 50ml shortfill is ideal for direct-to-lung (DTL) vaping using sub-ohm kits. Each 60ml bottle contains 50ml of nicotine-free e-liquid, leaving room for one 10ml nicotine shot to reach your preferred strength. Made in the UK, Vampire Vape are trusted for their flavour creativity and consistent quality. The Koncept line is tailored to sub-ohm vapers seeking bold, high-VG blends.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143042",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-white-chocolate-hazelnut-tobacco-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco_50ml-Freebase_flavour_White-Chocolate-Hazlenut-Tobacco.jpg?v=1758532962",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.520Z"
+}

@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15767866573181",
+  "slug": "ox-passion-strawberry-coconut-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Strawberry Coconut Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-strawberry-coconut-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Experience a tropical twist with OX Passion Strawberry Coconut. This flavour pairs the bright, sun-ripened sweetness of fresh Strawberries with the smooth, exotic richness of creamy Coconut. It's a luscious and layered blend that offers a taste of paradise in every puff. The OX Passion Nic Salt range is crafted by OXVA, a brand renowned for their high-performance vape kits. These e-liquids are formulated to deliver intense, concentrated flavour, making them an excellent choice for vapers who prioritise taste. With a 50% VG / 50% PG blend, this e-liquid is optimised for mouth-to-lung (MTL) vaping. It is designed to work flawlessly with low-wattage devices, particularly pod vape kits like the OXVA Xlim series, producing discreet vapour and exceptional flavour clarity. The nicotine salt formulation ensures a smooth throat hit and rapid nicotine satisfaction. OX Passion Nic Salts are available in 5mg, 10mg, and 20mg strengths, allowing you to tailor your vaping experience. This 10ml e-liquid is TPD-compliant and features a childproof cap and tamper-evident seal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1150077",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150065",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1150071",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-strawberry-coconut-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-CoconutOXPassionNicSalts10ml.jpg?v=1768819744",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.429Z"
+}

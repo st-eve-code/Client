@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15575255581053",
+  "slug": "ivg-intense-salts-blue-raspberry-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Blue Raspberry 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-blue-raspberry-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Blue Raspberry recreates the sweet, syrupy taste of the classic Blue Raspberry flavour. Blending the tang of Raspberries with the rounded sweetness of Blueberry notes, it delivers a confectionery-inspired berry mix that’s distinctive and moreish. This e-liquid is blended at a 50VG/50PG ratio for smooth flavour delivery, discreet vapour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg Nic Salt strengths, it’s well suited to mouth-to-lung (MTL) pod kits, starter kits and vape pens. As part of the IVG Intense Salts range, Blue Raspberry offers a playful, flavour-packed profile in a convenient Nic Salt format, perfect for those who enjoy sweeter berry blends.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148455",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148487",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-blue-raspberry-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Blue-Raspberry-min.jpg?v=1759311014",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.542Z"
+}

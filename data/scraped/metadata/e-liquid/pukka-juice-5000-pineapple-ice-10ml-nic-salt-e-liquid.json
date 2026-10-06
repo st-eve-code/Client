@@ -1,0 +1,54 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900245397885",
+  "slug": "pukka-juice-5000-pineapple-ice-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Pineapple Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-pineapple-ice-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Pineapple Ice Nic Salt e-liquid blends the tropical taste of ripe, juicy Pineapple with a refreshing Menthol breeze. The tangy sweetness of the Pineapple is perfectly complemented by the crisp, cooling sensation of Menthol on the exhale, delivering a refreshing and satisfying vape. Formulated with a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are ideal for use with Mouth-to-Lung (MTL) vape kits and pod systems. Each e-liquid offers smooth throat hits and quick nicotine relief, providing a satisfying alternative to traditional tobacco. Available in 10mg and 20mg nicotine strengths, this flavour offers an all-day vape experience with a tropical twist. Pukka Juice are an award-winning UK vape brand known for their exciting e-liquid creations. The Pukka Juice 5000+ collection takes the vibrant flavours of disposable vapes and puts them into a versatile, reusable format. Other flavours to explore include Berry Blast, Blue Sour Razz, and Raspberry Pomegranate.",
+  "tags": [
+    "MTL/RDL",
+    "Pineapple",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135529",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135547",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-pineapple-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Pineapple-Ice-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734540156",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.504Z"
+}

@@ -1,0 +1,400 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15064413405565",
+  "slug": "ivg-2400-4in1-prefilled-pod-vape-kit",
+  "title": "IVG 2400 4-in-1 Prefilled Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/ivg-2400-4in1-prefilled-pod-vape-kit",
+  "brand": "IVG",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 4.99,
+    "max": 9.95,
+    "currency": "GBP"
+  },
+  "description": "The IVG 2400 Prefilled Vape Kit is a rechargeable and replaceable pod system which is a direct replacement for the previous IVG 2400 Disposable. This device is designed to deliver exceptional flavour, extended use, and significant cost savings over single-use disposables. Offering up to 2400 puffs per kit (depending on personal usage), this device includes four individual 2ml prefilled pods, each containing 20mg nic salt e-liquid. The rotating pod system allows vapers to switch seamlessly between four distinct flavours within a single device, providing variety and convenience in one compact kit, and a fantastic platform to explore the many incredible flavours that IVG are famous for. Powered by a 1750mAh rechargeable battery, the IVG 2400 Reload supports USB-C fast charging, ensuring quick recharges with minimal downtime. A built-in mesh coil enhances vapour production and delivers consistently rich flavour, while inhale activation removes the need for buttons—just draw on the mouthpiece to vape. Swapping between flavours is effortless—simply twist the base of the device to rotate between pods and continue vaping without interruptions. With a rechargeable battery and replaceable prefilled pods, the IVG 2400 offers a sustainable and cost-effective alternative to single-use disposables. The IVG 2400 4in1 comes in 21 mixed flavour editions and 5 single flavour classics. Mixed Flavour Editions Blue Edition: Blue Raspberry Ice , Blueberry Fusion, Ice Pop and Professor Blue Purple Edition: Blue Razz Cherry, Fizzy Cherry , Grape Ice and Plum Blue Razz Pink Edition: Strawberry Watermelon, Strawberry Mint Menthol Mojito, Strawberry Ice and Watermelon Ice Yellow Edition: Fresh Mint Menthol Mojito, Lemon & Lime, Pineapple Ice and Tropical fruits Red Edition: Plum Cherry, Strawberry Watermelon Fusion, Fizzy Cherry and Red Apple Ice Menthol Edition: Mint Burst, Classic Menthol, Blackcurrant Menthol and Polar Mint Juicy Edition: Pomegranate Pear Lemon, Strawberry Raspberry Ice, Blueberry Cherry Cranberry and Orange Brew Special Edition : Lemon & Lime, Pineapple Ice, Blue Raspberry Ice and Fizzy Cherry Cherry Edition: Fizzy Cherry, Blue Razz Cherry, Lemon Cherry Ice and Cherry Peach Lemonade Strawberry Edition: Strawberry Ice, Strawberry Watermelon Fusion, Strawberry Raspberry Ice and Strawberry Kiwi Pineapple Edition: Pineapple Ice, Pineapple Peach Mango, Pineapple Passionfruit and Pineapple Banana Strawberry Fizzy Edition: Fizzy Cherry, Fizzy Orange, Fizzy Lemon and Fizzy Cola Watermelon Edition: Watermelon Ice, Strawberry Watermelon, Sweet watermelon and Sour Watermelon Kiwi Blueberry Edition: Sour Blueberry Raspberry, Blue Razz Soda, Blueberry and Blueberry Raspberry Grape Edition: Grape Soda, Grape Blackcurrant Ice, Grape Kiwi Ice and Grape Lemon Soda Mango Edition: Mango Banana, Mango Pineapple Peach, Triple Mango and Mango Red Raspberry Edition: Raspberry Lemon Soda, Sour Raspberry, Raspberry Kiwi and Raspberry Ice Peach Edition: Peach Apple, Peach Pineapple Soda, Peach Cherry Soda and Peach Ice Single Flavour Kits Blue Raspberry Ice x 4 pods Fizzy Cherry x 4 pods Lemon and Lime x 4 pods Pineapple Ice x 4 pods Watermelon Ice x 4 pods Shop IVG 2400 Reload Refill Pods",
+  "tags": [
+    "2.4k Puffs",
+    "Battery-included",
+    "IVG 2400 4-in-1",
+    "Kit-VS-Export",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Flavour",
+      "position": 1,
+      "values": [
+        "Blueberry Edition",
+        "Blue Edition",
+        "Blue Raspberry Ice",
+        "Cherry Edition",
+        "Exotic Edition",
+        "Fizzy Edition",
+        "Fizzy Cherry",
+        "Fruits Edition",
+        "Grape Edition",
+        "Juicy Edition",
+        "Lemon Edition",
+        "Lemon and Lime",
+        "Mango Edition",
+        "Menthol Edition",
+        "Peach Edition",
+        "Pineapple Edition",
+        "Pineapple Ice",
+        "Pink Edition",
+        "Purple Edition",
+        "Red Edition",
+        "Red Raspberry Edition",
+        "Special Edition",
+        "Strawberry Edition",
+        "Watermelon Edition",
+        "Watermelon Ice",
+        "Yellow Edition"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blueberry Edition",
+      "sku": "1139206",
+      "price": 4.99
+    },
+    {
+      "title": "Blue Edition",
+      "sku": "1139193",
+      "price": 4.99
+    },
+    {
+      "title": "Blue Raspberry Ice",
+      "sku": "1139211",
+      "price": 4.99
+    },
+    {
+      "title": "Cherry Edition",
+      "sku": "1139201",
+      "price": 4.99
+    },
+    {
+      "title": "Exotic Edition",
+      "sku": "1139788",
+      "price": 4.99
+    },
+    {
+      "title": "Fizzy Edition",
+      "sku": "1139204",
+      "price": 4.99
+    },
+    {
+      "title": "Fizzy Cherry",
+      "sku": "1139212",
+      "price": 4.99
+    },
+    {
+      "title": "Fruits Edition",
+      "sku": "1139790",
+      "price": 4.99
+    },
+    {
+      "title": "Grape Edition",
+      "sku": "1139207",
+      "price": 4.99
+    },
+    {
+      "title": "Juicy Edition",
+      "sku": "1139199",
+      "price": 4.99
+    },
+    {
+      "title": "Lemon Edition",
+      "sku": "1139789",
+      "price": 4.99
+    },
+    {
+      "title": "Lemon and Lime",
+      "sku": "1139213",
+      "price": 4.99
+    },
+    {
+      "title": "Mango Edition",
+      "sku": "1139208",
+      "price": 4.99
+    },
+    {
+      "title": "Menthol Edition",
+      "sku": "1139198",
+      "price": 4.99
+    },
+    {
+      "title": "Peach Edition",
+      "sku": "1139210",
+      "price": 4.99
+    },
+    {
+      "title": "Pineapple Edition",
+      "sku": "1139203",
+      "price": 4.99
+    },
+    {
+      "title": "Pineapple Ice",
+      "sku": "1139214",
+      "price": 4.99
+    },
+    {
+      "title": "Pink Edition",
+      "sku": "1139195",
+      "price": 4.99
+    },
+    {
+      "title": "Purple Edition",
+      "sku": "1139194",
+      "price": 4.99
+    },
+    {
+      "title": "Red Edition",
+      "sku": "1139197",
+      "price": 4.99
+    },
+    {
+      "title": "Red Raspberry Edition",
+      "sku": "1139209",
+      "price": 4.99
+    },
+    {
+      "title": "Special Edition",
+      "sku": "1139200",
+      "price": 4.99
+    },
+    {
+      "title": "Strawberry Edition",
+      "sku": "1139202",
+      "price": 4.99
+    },
+    {
+      "title": "Watermelon Edition",
+      "sku": "1139205",
+      "price": 4.99
+    },
+    {
+      "title": "Watermelon Ice",
+      "sku": "1139787",
+      "price": 4.99
+    },
+    {
+      "title": "Yellow Edition",
+      "sku": "1139196",
+      "price": 9.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Cherry-Edition.jpg?v=1754312014",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Strawberry-Edition-min.jpg?v=1754312032",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Fizzy-Edition.jpg?v=1754312057",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Yellow-Edition.jpg?v=1754312068",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Watermelon-Edition-min.jpg?v=1754312080",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml--Blue-Raspberry-Ice-min.jpg?v=1754312123",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Lemon-and-Lime.jpg?v=1754312139",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Pineapple-Ice.jpg?v=1754312156",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__009.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Blueberry-Edition-min.jpg?v=1754312175",
+      "position": 9,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__010.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Peach-Edition.jpg?v=1754312189",
+      "position": 10,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__011.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Fizzy-Cherry.jpg?v=1754312206",
+      "position": 11,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__012.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Blue-Edition.jpg?v=1754312224",
+      "position": 12,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__013.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Pineapple-Edition.jpg?v=1754312241",
+      "position": 13,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__014.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Red-Edition-min.jpg?v=1754312251",
+      "position": 14,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__015.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Pink-Edition.jpg?v=1754312262",
+      "position": 15,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__016.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Menthol-Edition.jpg?v=1754312276",
+      "position": 16,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__017.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Juicy-Edition.jpg?v=1754312294",
+      "position": 17,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__018.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Purple-Edition.jpg?v=1754312314",
+      "position": 18,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__019.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Special-Edition.jpg?v=1754312331",
+      "position": 19,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__020.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Grape-Edition.jpg?v=1754312346",
+      "position": 20,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__021.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Mango-Edition.jpg?v=1754312363",
+      "position": 21,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__022.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Red-Raspberry-Edition-min.jpg?v=1754312375",
+      "position": 22,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__023.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Watermelon-Ice.jpg?v=1754312390",
+      "position": 23,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__024.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Exotic-Edition.jpg?v=1754312417",
+      "position": 24,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__025.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Lemon-Edition.jpg?v=1754312446",
+      "position": 25,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-2400-4in1-prefilled-pod-vape-kit__026.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-4in1-8ml-Fruits-Edition.jpg?v=1754312463",
+      "position": 26,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.051Z"
+}

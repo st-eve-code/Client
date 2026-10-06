@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15011013001597",
+  "slug": "dinner-lady-fruit-full-pineapple-ice-10ml-nic-salt-e-liquid",
+  "title": "Dinner Lady Fruit Full Pineapple Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-fruit-full-pineapple-ice-10ml-nic-salt-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dinner Lady’s Fruit Full Pineapple Ice delivers a bright and refreshing fusion of tropical fruit and cooling Menthol. The bold, golden sweetness of ripe Pineapple brings a juicy and tangy burst of flavour, while an icy finish adds a crisp, cooling sensation that leaves a clean and uplifting aftertaste. Part of the Fruit Full Bar Salts collection, Pineapple Ice is designed to replicate the bold, intense flavours often found in disposable vapes. Using a double-concentrated Nic Salt formula, this e-liquid ensures long-lasting flavour while maintaining a consistently satisfying vape. Blended at 50VG/50PG, this e-liquid strikes a balance between vapour production and flavour intensity, making it ideal for MTL (mouth-to-lung) vaping. The nicotine salt formulation provides a smooth throat hit and rapid nicotine satisfaction, making it best suited for use with pod kits and classic vape starter devices. Since 2016, Dinner Lady has been crafting high-quality e-liquids that have earned worldwide recognition. With distribution in over 80 countries, their expertly blended flavours continue to be a favourite among vapers seeking bold and satisfying e-liquids.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138567",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1138583",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138599",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-fruit-full-pineapple-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DL-Bar-Salts-FRUITS-Pineapple-Ice-10ml-10mg-GB.jpg?v=1739464974",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.485Z"
+}

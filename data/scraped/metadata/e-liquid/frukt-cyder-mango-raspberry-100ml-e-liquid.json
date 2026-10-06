@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639353254212",
+  "slug": "frukt-cyder-mango-raspberry-100ml-e-liquid",
+  "title": "Frukt Cyder Mango & Raspberry 100ml E-liquid",
+  "url": "https://www.vapestore.co.uk/products/frukt-cyder-mango-raspberry-100ml-e-liquid",
+  "brand": "Frukt Cyder",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "This sweet summertime vape from the Frukt Cider collection features a luscious profile of creamy tropical mango blended with tangy raspberries and softly sparkling cider. Just as refreshing as a big gulp of ice-cold cider on a scorching summer day, Mango & Raspberry is the ideal high VG e-juice to get yourself in the mood for warmer weather, hours lost in pub gardens and soaking up the sun with your sub ohm setup in hand.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL",
+    "Mango"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "PH-FC-MR-00-VG",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__frukt-cyder-mango-raspberry-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/frukt-cyder-mango-raspberry-short-fill-e-liquid-ph-fc-mr-00-vg.jpg?v=1729035966",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.640Z"
+}

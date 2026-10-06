@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15101671342461",
+  "slug": "yeti-summit-series-cactus-ice-10ml-nic-salt-e-liquid",
+  "title": "Yeti Summit Series Cactus Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/yeti-summit-series-cactus-ice-10ml-nic-salt-e-liquid",
+  "brand": "Yeti",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Yeti Summit Cactus Ice delivers a refreshingly unique vape, enhancing the subtly sweet and botanical flavour of Cactus fruit with a brisk wave of cooling menthol. Smooth and mellow in profile, this flavour offers a distinctive twist that’s both light and flavoursome, making it a superb choice for those seeking something a little different. Crafted with nicotine salts, this e-liquid delivers faster nicotine absorption with a more comfortable throat hit than traditional e-liquids, making it ideal for use with low-powered pod kits and MTL (mouth-to-lung) starter vape devices. The 50VG/50PG blend ensures a well-rounded vape, balancing smooth vapour with excellent flavour clarity for an endlessly satisfying experience. Yeti’s Summit Series offers a selection of double-concentrated nic salts, packed with that signature arctic freshness Yeti is known for. With three nicotine strengths to choose from, this 10ml nic salt range is a cost-effective alternative to disposable vapes.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1140510",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1140505",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140515",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__yeti-summit-series-cactus-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Yeti-summit-series-10ml-nic-salt-Cactus-Ice.jpg?v=1742981765",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.461Z"
+}

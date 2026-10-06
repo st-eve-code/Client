@@ -1,0 +1,123 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15459124969853",
+  "slug": "lost-vape-ursa-epoch-pro-pod-vape-kit",
+  "title": "Lost Vape Ursa Epoch Pro Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-ursa-epoch-pro-pod-vape-kit",
+  "brand": "Lost Vape",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 13.99,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Ursa Epoch Pro Pod Kit blends style, performance and ease-of-use into a highly versatile vape kit designed for both MTL (mouth-to-lung) and RDL (restricted direct-to-lung) vaping. With a 1400mAh built-in battery and an adjustable output range of 5–35W, this device delivers all-day performance in a compact, pocket-friendly format. A bright 1.3-inch TFT screen clearly displays key settings, while three unique vaping modes give you complete control. Smart Mode detects your pod and sets the optimal wattage automatically. Eco Mode conserves battery life for longer use, while Boost Mode pushes output for increased flavour and vapour. Inhale activation makes operation effortless, and the adjustable airflow slider allows you to tailor the draw to your preference. The Ursa Epoch Pro is compatible with the Ursa Cartridge V3 Top Fill pod range, including the included 0.8ohm pod for a smooth MTL experience. The refillable 2ml pods feature mesh coils for enhanced flavour and a secure top-fill system for easy maintenance. This kit is compatible with 50/50 e-liquids , nic salts , or high PG e-liquids , giving vapers full flexibility in their preferred e-liquid type. A removable silicone grip wrap adds protection and personal style. Ideal for vapers seeking flexibility and performance with minimal hassle, the Ursa Epoch Pro brings premium features to a compact, stylish kit. Explore our vape liquids online selection and choose the flavour that best suits this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1142111",
+    "compatible-with-1142112",
+    "compatible-with-1142113",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit",
+    "RDL/MTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Ursa Stellar",
+        "Ursa Sea",
+        "Ursa Cabin",
+        "Silk White",
+        "Silk Rose",
+        "Silk Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Ursa Stellar",
+      "sku": "1144249",
+      "price": 13.99
+    },
+    {
+      "title": "Ursa Sea",
+      "sku": "1144252",
+      "price": 13.99
+    },
+    {
+      "title": "Ursa Cabin",
+      "sku": "1144251",
+      "price": 13.99
+    },
+    {
+      "title": "Silk White",
+      "sku": "1144247",
+      "price": 13.99
+    },
+    {
+      "title": "Silk Rose",
+      "sku": "1144248",
+      "price": 13.99
+    },
+    {
+      "title": "Silk Black",
+      "sku": "1144245",
+      "price": 13.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-ursa-epoch-pro-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Ursa-Epoch-Pro-URSA-Stellar.jpg?v=1755014546",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-epoch-pro-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Ursa-Epoch-Pro-URSA-Sea.jpg?v=1755014834",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-epoch-pro-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Ursa-Epoch-Pro-URSA-Cabin.jpg?v=1755014930",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-epoch-pro-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Ursa-Epoch-Pro-Silk-White.jpg?v=1755015131",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-epoch-pro-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Ursa-Epoch-Pro-Silk-Rose.jpg?v=1755015286",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-epoch-pro-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Ursa-Epoch-Pro-Silk-Black.jpg?v=1755015721",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.069Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639528497476",
+  "slug": "frukt-cyder-blueberry-lime-100ml-e-liquid",
+  "title": "Frukt Cyder Blueberry & Lime 100ml E-liquid",
+  "url": "https://www.vapestore.co.uk/products/frukt-cyder-blueberry-lime-100ml-e-liquid",
+  "brand": "Frukt Cyder",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "Blueberry & Lime from Frukt Cyder is a deliciously sweet and refreshing fusion of rich, sweet blueberries given a zesty, sour edge from fresh limes. The combination produces an endlessly satisfying vape that sings with summer, and the light, bubbly effervescence of English Cider. This convenient 100ml nicotine-free shortfill bottle comes with 20ml of free space for the addition of a nicotine shot to tailor your vape to your liking. Its 70VG/30PG ratio makes it ideal for high-powered sub-ohm tanks and mods",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "FR-100-FC-BL-00-SF",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__frukt-cyder-blueberry-lime-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/frukt-blueberry-lime.jpg?v=1729041751",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.625Z"
+}

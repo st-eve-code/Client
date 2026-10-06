@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14874155319677",
+  "slug": "slushie-bar-xtra-citrus-burst-nic-salt-eliquid",
+  "title": "Slushie Bar Xtra Citrus Burst 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-xtra-citrus-burst-nic-salt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Slushie Bar Xtra Citrus Burst delivers a bright, sunny blend of vibrant citrus flavours, combining zesty Lemon, sharp Lime, and juicy Orange into one bold vape. This e-liquid packs a punch of tangy, refreshing flavour, with each inhale bursting with sweet citrus tang, making it an excellent choice for vapers who enjoy a lively, fruit-filled vape. Whether you're after a zingy citrus kick or a smooth, flavourful vape, Citrus Burst is sure to satisfy. Crafted with a 50VG/50PG ratio, Slushie Bar Xtra Nic Salts are designed for use with Mouth-to-Lung (MTL) vape kits and pod systems. Each e-liquid in the collection provides smooth throat hits and rapid nicotine relief, making them ideal for those seeking a satisfying alternative to traditional tobacco. Available in 10mg and 20mg nicotine strengths, these e-liquids are perfect for all-day vaping with a flavour-packed experience waiting in every puff.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1136643",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1136653",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-xtra-citrus-burst-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-citrus-burst_1_1.jpg?v=1732843003",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-citrus-burst-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-citrus-burst.jpg?v=1732843003",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-citrus-burst-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-citrus-burst_1.jpg?v=1732843003",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.362Z"
+}

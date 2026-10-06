@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14932624114045",
+  "slug": "pure-mist-raspberry-10ml-e-liquid",
+  "title": "Pure Mist Raspberry 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pure-mist-raspberry-10ml-e-liquid",
+  "brand": "Pure Mist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pure Mist Raspberry captures the bright, tangy sweetness of ripe Raspberries for a smooth and refreshing vape. This simple yet vibrant e-liquid is perfect for vapers who enjoy classic fruit flavours with a touch of natural tartness. The Pure Mist High-PG collection offers tailored VG/PG ratios to suit different vaping preferences. The 3mg nicotine strength features a 50VG/50PG blend for balanced vapour and flavour, while the 0mg, 6mg, 12mg, and 18mg strengths use a high-PG 30VG/70PG ratio for a more intense flavour profile with discreet vapour. Designed for Mouth-to-Lung (MTL) devices, Pure Mist Raspberry is crafted in the UK with premium ingredients to ensure consistent quality and satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "b2b",
+    "High PG E-Liquid",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1094538",
+      "price": 2.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1009219",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1094541",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1094539",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1094540",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pure-mist-raspberry-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/puremist-10ml-e-liquid-raspberry.jpg?v=1736443609",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.390Z"
+}

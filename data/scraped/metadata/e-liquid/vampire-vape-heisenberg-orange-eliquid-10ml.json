@@ -1,0 +1,117 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639660880196",
+  "slug": "vampire-vape-heisenberg-orange-eliquid-10ml",
+  "title": "Vampire Vape Heisenberg Orange 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-heisenberg-orange-eliquid-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s Heisenberg has be one of the most legendary e-liquid flavours ever! Enjoy the fruity berries and crystal cool menthol kick given a delicious new twist, with notes of juicy, mouth-watering orange. This 40VG/60PG (50/50 only if 3mg) e-liquid delivers maximum flavour and a smooth, satisfying throat hit, and is ideal for use with starter vape kits, compact pod vape kits and pen vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Heisenberg"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1115821",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1115953",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1115957",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1115961",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1115965",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_orange_800x800_1.jpg?v=1729046521",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_orange_800x800_5.jpg?v=1729046521",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_orange_800x800_4.jpg?v=1729046521",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-eliquid-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_orange_800x800_3.jpg?v=1729046521",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-eliquid-10ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_orange_800x800_2.jpg?v=1729046521",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-eliquid-10ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_orange_800x800_e4074e6c-02d4-4737-ac28-583b4588d075.jpg?v=1729046521",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.476Z"
+}

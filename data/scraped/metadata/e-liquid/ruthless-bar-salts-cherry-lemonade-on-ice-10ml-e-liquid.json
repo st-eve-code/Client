@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15029938880893",
+  "slug": "ruthless-bar-salts-cherry-lemonade-on-ice-10ml-e-liquid",
+  "title": "Ruthless Bar Salts Cherry Lemonade On Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-bar-salts-cherry-lemonade-on-ice-10ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ruthless Bar Salts Cherry Lemonade on Ice blends the deep, juicy flavour of ripe Cherries with the bright, citrusy zest of tangy Lemonade, finished with a cooling menthol twist. The sweet-tart Cherry profile adds richness, while the Lemonade brings a fizzy, citrus sharpness, creating a bold and refreshing vape with a crisp, frosty finish. Blended at 50VG/50PG, this e-liquid is designed for MTL (mouth-to-lung) pod kits and starter devices, ensuring a smooth and balanced vape with satisfying vapour production. The nicotine salt formulation provides a comfortable throat hit and fast nicotine absorption, making it an ideal choice for vapers who enjoy sweet yet refreshing fruit blends. Ruthless is one of the most influential brands in American e-liquids, known for crafting bold and unique flavours that have inspired the industry for years. Their expertly blended shortfills and nic salts continue to be a favourite among vapers on both sides of the pond who prize high-quality, distinct, and flavourful e-liquids that push the boundaries of what’s possible in vape juice.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1139299",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139315",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-bar-salts-cherry-lemonade-on-ice-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ruthless-10ML_ArcticCherryLemonadeOnIce.jpg?v=1740133537",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.476Z"
+}

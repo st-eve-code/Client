@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639368098116",
+  "slug": "just-juice-e-liquid-berry-burst-nicotine-salts",
+  "title": "Just Juice Berry Burst Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-e-liquid-berry-burst-nicotine-salts",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "A juicy jam of sweet, ripe wild summer berry flavours expertly blended for a rich and fruity all-day vape that really lets loose the juice! This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for smokers or vapers seeking the immediate, fast-acting nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "11mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1119035",
+      "price": 3.95
+    },
+    {
+      "title": "11mg",
+      "sku": "JC-JC-10-BB-11-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "JC-JC-10-BB-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-e-liquid-berry-burst-nicotine-salts__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-berry-burst-nic-salt.jpg?v=1729036793",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.390Z"
+}

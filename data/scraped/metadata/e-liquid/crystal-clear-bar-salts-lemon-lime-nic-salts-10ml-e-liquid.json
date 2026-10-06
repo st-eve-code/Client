@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15272750481789",
+  "slug": "crystal-clear-bar-salts-lemon-lime-nic-salts-10ml-e-liquid",
+  "title": "Crystal Clear Bar Salts Lemon & Lime Nic Salts 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/crystal-clear-bar-salts-lemon-lime-nic-salts-10ml-e-liquid",
+  "brand": "Crystal Clear",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Crystal Clear Lemon and Lime Nic Salt offers a zesty citrus vape with a fresh, tangy profile. Lemon brings sour-sweet brightness, while Lime cuts through with sharpness. Great for fans of fruit with a kick. This Nic Salt is blended at 50VG/50PG for MTL (mouth-to-lung) vaping with pod kits and vape pens. Available in 10mg and 20mg strengths for fast-acting nicotine delivery. Crystal Clear Nic Salts are crafted to deliver the same great-tasting flavours that made disposable vapes so popular, now reimagined for refillable pod kits. Designed for clarity, consistency and convenience, this UK-made range focuses on fruity, icy, and confectionery-inspired blends that cater to everyday vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143693",
+      "price": 3.99
+    },
+    {
+      "title": "10mg",
+      "sku": "1142323",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "1142362",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__crystal-clear-bar-salts-lemon-lime-nic-salts-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-Lime-Crystal-Clear-10ml-Nic-Salts-min.jpg?v=1748963051",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.545Z"
+}

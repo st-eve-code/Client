@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639843397956",
+  "slug": "nasty-liq-strawberry-raspberry-nicsalt-eliquid",
+  "title": "Nasty Liq Strawberry Raspberry 10ml Nic Salt E-Liquid By Nasty Juice",
+  "url": "https://www.vapestore.co.uk/products/nasty-liq-strawberry-raspberry-nicsalt-eliquid",
+  "brand": "Nasty Liq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Nasty Liq's Strawberry Raspberry is a vibrant e-liquid from Nasty Juice's array of flavours, marrying the succulent sweetness of strawberries with the tangy zest of raspberries for a dual berry experience that's both familiar and thrilling. This e-liquid starts with the succulent taste of strawberries, reminiscent of warm, sunny days and the simple pleasures of enjoying fruit picked at peak ripeness. The strawberries provide a soft, juicy base that is instantly comforting and satisfyingly sweet. As the strawberry settles, a lively raspberry note cuts through, adding a bright and tangy contrast that elevates the e-liquid beyond a standard fruit vape. The raspberries bring a slightly tart edge, creating a flavour profile that zings on the tongue and refreshes the palate. Together, these berries create a harmonious blend, dancing between sweet and tart, for a taste experience that is both robust and delightful. This e-liquid shines with its 50VG/50PG mix, offering a perfectly balanced vape that produces a satisfying cloud without sacrificing flavour. The addition of nic salts ensures a smooth inhale, making Strawberry Raspberry suitable for vapers of all levels, particularly those using starter kits and pod systems. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. If you enjoy this flavour, there are plenty more delicious Nasty Liq flavours to try. Nasty Juice have fine-tuned their vape juices for optimised performance with the vast majority of MTL (mouth-to-lung) devices. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and many are also available in Nasty Juice’s super-convenient Nasty Bar disposable vape bars.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127946",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127964",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-liq-strawberry-raspberry-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-strawberry-raspberry-10ml-nic-salt-eliquid_1_1.jpg?v=1729056087",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-strawberry-raspberry-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-strawberry-raspberry-10ml-nic-salt-eliquid.jpg?v=1729056087",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-strawberry-raspberry-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-strawberry-raspberry-10ml-nic-salt-eliquid_1.jpg?v=1729056087",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.583Z"
+}

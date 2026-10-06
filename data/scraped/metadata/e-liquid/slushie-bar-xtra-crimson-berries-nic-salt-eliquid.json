@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14874155352445",
+  "slug": "slushie-bar-xtra-crimson-berries-nic-salt-eliquid",
+  "title": "Slushie Bar Xtra Crimson Berries 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-xtra-crimson-berries-nic-salt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Slushie Bar Xtra Crimson Berries offers a rich and luscious mix of ripe red Berries, delivering a perfectly balanced blend of sweetness with just a hint of tartness. With every puff, the vibrant flavour of freshly picked Berries bursts through, offering a satisfying and full-bodied vape experience. Perfect for vapers who love bold fruit flavours, Crimson Berries provides a smooth and indulgent flavour sensation that can be enjoyed all day long. Crafted with a 50VG/50PG ratio, Slushie Bar Xtra Nic Salts are designed for use with Mouth-to-Lung (MTL) vape kits and pod systems. Each e-liquid in the collection provides smooth throat hits and rapid nicotine relief, making them ideal for those seeking a satisfying alternative to traditional tobacco. Available in 10mg and 20mg nicotine strengths, these e-liquids are perfect for all-day vaping with a flavour-packed experience waiting in every puff.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1136644",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1136654",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-xtra-crimson-berries-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-crimson-berries_1_1.jpg?v=1732843010",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-crimson-berries-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-crimson-berries.jpg?v=1732843010",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-crimson-berries-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-crimson-berries_1.jpg?v=1732843010",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.508Z"
+}

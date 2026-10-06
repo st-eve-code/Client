@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639602422084",
+  "slug": "nautilus-mesh-coils-1-0ohm-aspire",
+  "title": "Aspire Nautilus Mesh Coils 1.0ohm",
+  "url": "https://www.vapestore.co.uk/products/nautilus-mesh-coils-1-0ohm-aspire",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Nautilus Mini Mesh Coils 1.0 ohm have been made with the Nautilus Mini and Nano tanks in mind, and their mesh build ensures you get the maximum flavour and lifespan out of every coil. This pack of five Aspire Nautilus Mini Mesh Coils 1.0 ohm are ideal for use with Nic Salt , 50/50 and classic High-PG E-Liquids.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "AS-CO-NAU-MN-MSH-1.0-5P",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nautilus-mesh-coils-1-0ohm-aspire__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nautilus-nano-coils-1-0.jpg?v=1729043813",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.868Z"
+}

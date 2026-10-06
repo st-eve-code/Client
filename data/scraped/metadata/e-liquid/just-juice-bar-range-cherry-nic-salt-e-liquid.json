@@ -1,0 +1,94 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639883440452",
+  "slug": "just-juice-bar-range-cherry-nic-salt-e-liquid",
+  "title": "Just Juice Bar Range Cherry 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-range-cherry-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Cherry from Just Juice's Bar Range of Nic Salt e-liquids offers a deep, rich cherry flavour that perfectly balances sweetness with a hint of tartness, creating a sumptuous vape that's as close to biting into a fresh, ripe cherry as you can get. This luxurious flavour profile is both comforting and invigorating, making it a must-try for fruit flavour enthusiasts. This premium e-liquid's 60PG/40VG blend is expertly crafted to strike the ideal balance between robust flavour and satisfying cloud production. The use of nic salt formulation makes it perfectly suited for classic e-cigarette starter kits and MTL (mouth-to-lung) pod devices, providing an optimal choice for those new to vaping or looking for the quick, satisfying nicotine hit that nic salts deliver. Nicotine salts offer a smoother throat hit and a faster absorption into the bloodstream than traditional freebase nicotine, delivering almost instant relief from nicotine cravings. This makes Just Juice's Bar Range particularly appealing for those seeking a potent, yet silky smooth vaping experience. Inspired by the intensely satisfying flavours synonymous with the most popular disposable vapes, the Just Juice Bar Range of Nic Salt E-liquids includes both timeless classics and intriguing new concoctions. All Just Juice e-liquids are designed to be long-lasting, less allergenic, and gentler on the throat, ensuring a premium vaping experience with every puff. Please Note : All flavours in the Just Juice Bar Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1153418",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1130685",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1130698",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1130711",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-range-cherry-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-nicsalt-cherry-5mg-uk_1_1_1.jpg?v=1729058969",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-cherry-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-nicsalt-cherry-5mg-uk.jpg?v=1729058969",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-cherry-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-nicsalt-cherry-5mg-uk_1.jpg?v=1729058969",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-cherry-nic-salt-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-nicsalt-cherry-5mg-uk_1_1.jpg?v=1729058969",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.443Z"
+}

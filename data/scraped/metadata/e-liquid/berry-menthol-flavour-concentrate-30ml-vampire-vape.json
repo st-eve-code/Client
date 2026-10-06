@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639603274052",
+  "slug": "berry-menthol-flavour-concentrate-30ml-vampire-vape",
+  "title": "Vampire Vape Berry Menthol Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/berry-menthol-flavour-concentrate-30ml-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Add the sweet, succulent tang of juicy berries to any DIY e-liquid with this Berry Menthol flavour concentrate from Vampire Vape. The tart, bold sweetness of forest berries are lifted to exhilarating heights with a streak of ice cool Menthol. Add to VG/PG DIY e-liquid Base Mix for optimum flavour. All Vampire Vape flavour concentrates are 100% PG based. Details",
+  "tags": [
+    "Flavour Concentrate"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VV-30-BM-CON",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__berry-menthol-flavour-concentrate-30ml-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-concentrate-berry-menthol_1.jpg?v=1729043884",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.525Z"
+}

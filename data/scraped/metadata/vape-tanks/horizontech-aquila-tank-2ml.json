@@ -1,0 +1,110 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639759151428",
+  "slug": "horizontech-aquila-tank-2ml",
+  "title": "HorizonTech Aquila Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/horizontech-aquila-tank-2ml",
+  "brand": "HorizonTech",
+  "productType": "Tanks",
+  "price": {
+    "min": 19.99,
+    "max": 19.99,
+    "currency": "GBP"
+  },
+  "description": "The HorizonTech Aquila Tank is the newest and most exciting sub-ohm tank to emerge from the HorizonTech since the legendary Falcon tank, and one that boasts several innovative new features that make this tank a must-have for sub-ohm vapers. The HorizonTech Aquila Tank bears the precision-engineering and solid, industrial build quality that has become a hallmark of HorizonTech vape hardware. Available in five shimmering metallic finishes, the tank is as beautiful as it is functional. The Aquila tank features a one-touch spring mechanism located on the cap, whereby you simply push a button to release the top which swings out to reveal the filling port. Click the cap back into place and the tank is sealed once more. The Updraft Rising Airflow feature works in conjunction with the new Aquila E2 and P4 coils and pulls air through the bottom adjustable airflow ring, through the coil structure, and out through the mouthpiece, creating the smoothest, most flavoursome experience imaginable. Switching coils is made super-easy too thanks to a plug-and-play design which lets you insert the coil securely into the bottom of the tank with a gentle push. The new Aquila coils represent a bold new approach to sub-ohm coil builds and come in two varieties: the E2 Dual Mesh Coil 0.16ohm (60-70W) and P4 4in1 Mesh Coil 0.14ohm (60-70W). The E2 coil is designed with an encircled dual mesh coil structure to produce more vapour and flavour with the help of organic bamboo cotton for a clean, pure and consistent vaping experience. The4-in-1 P4 coil, meanwhile, is the upgraded version of the 2in1 mesh coil from HorizonTech’s Sakerz tank and features a parallel structure with four slices of individual mesh pieces in a closed loop tube structure to improve the contact area between the coil and e-liquid. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "CC DC List"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Stainless Steel",
+        "Black",
+        "Gunmetal",
+        "Blue",
+        "Rainbow"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Stainless Steel",
+      "sku": "1117245",
+      "price": 19.99
+    },
+    {
+      "title": "Black",
+      "sku": "1117246",
+      "price": 19.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1117247",
+      "price": 19.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1117248",
+      "price": 19.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "1117249",
+      "price": 19.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__horizontech-aquila-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_aquila_rainbow_2ml_1.jpg?v=1729050135",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-aquila-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_aquila_stainless_steel.jpg?v=1729050135",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-aquila-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_aquila_black_800x800_4fefd572-926a-4fca-ba63-196450f1f8da.jpg?v=1729050135",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-aquila-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_aquila_gunmetal_2ml.jpg?v=1729050135",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-aquila-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_aquila_blue_800x800_4bffd6a8-127d-408d-93a4-a956636acfda.jpg?v=1729050135",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-aquila-tank-2ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_aquila_rainbow_2ml.jpg?v=1729050135",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

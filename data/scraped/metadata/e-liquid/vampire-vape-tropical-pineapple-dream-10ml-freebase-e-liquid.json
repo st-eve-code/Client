@@ -1,0 +1,109 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15276030919037",
+  "slug": "vampire-vape-tropical-pineapple-dream-10ml-freebase-e-liquid",
+  "title": "Vampire Vape Tropical Pineapple Dream 10ml Freebase E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-pineapple-dream-10ml-freebase-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Dream 50/50 Freebase E-Liquid from Vampire Vape’s Tropical collection pairs the soft creaminess of Pawpaw with the bright, fruity kick of Pineapple. The Pawpaw offers a smooth, banana-mango-like base with custard-like sweetness and a hint of tropical depth, while Pineapple lifts the blend with a gentle tang and refreshing finish. The result is a smooth and soothing vape with just enough sharpness to keep it interesting. This 50/50 e-liquid delivers a tactile yet comfortable throat hit and is ideal for mouth-to-lung (MTL) vaping with pod kits, starter kits and vape pens. Vampire Vape e-liquids are made in the UK to the highest standards. The Tropical collection is their take on layered, exotic flavour profiles. Also available in Nic Salt, Shortfill and Concentrate formats.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "Pineapple",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1141086",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1141090",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1141147",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1141155",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1141163",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-pineapple-dream-10ml-freebase-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Pineapple_Dream_0mg.jpg?v=1749044020",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-pineapple-dream-10ml-freebase-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Pineapple_Dream_3mg.jpg?v=1749044023",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-pineapple-dream-10ml-freebase-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Pineapple_Dream_3mg_54ff59f4-905a-49aa-bfdf-0e475e754bb4.jpg?v=1749044026",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-pineapple-dream-10ml-freebase-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Pineapple_Dream_12mg_0b736bd7-91ec-4cf0-93c6-ccb33b82aad3.jpg?v=1749044067",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-pineapple-dream-10ml-freebase-e-liquid__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Pineapple_Dream_18mg.jpg?v=1749044038",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.478Z"
+}

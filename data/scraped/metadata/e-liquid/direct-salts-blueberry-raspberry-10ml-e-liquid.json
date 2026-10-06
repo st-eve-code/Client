@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15951420883325",
+  "slug": "direct-salts-blueberry-raspberry-10ml-e-liquid",
+  "title": "Direct Salts Blueberry Raspberry 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/direct-salts-blueberry-raspberry-10ml-e-liquid",
+  "brand": "Direct",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Direct Salts Blueberry Raspberry 10ml Nic Salt E-Liquid provides a perfectly balanced, everyday fruit profile. The experience begins with the smooth, earthy sweetness of dark Blueberry, creating a rich and satisfying inhale. A bright, tart layer of fresh Raspberry follows closely behind, brightening the profile with a sharp and refreshing finish. This contrasting berry combination delivers a consistently vibrant and uplifting taste from the first draw to the last. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Direct Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Direct Salts collection offers vapers a dependable range of premium fruit, ice, and confectionery profiles. Providing a highly cost-effective and flexible option, this 10ml range covers a wide variety of tastes. Beyond the classic berry medley of Blueberry Raspberry, vapers can explore other compelling options such as the deeply refreshing Menthol, the bright citrus of Lemon Lime, or the nostalgic sweetness of Gummy Bear.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Direct Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1158379",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158395",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__direct-salts-blueberry-raspberry-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Raspberry-Direct-Salts-10ml-nic-salts-10mg.jpg?v=1783432820",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__direct-salts-blueberry-raspberry-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Raspberry-Direct-Salts-10ml-nic-salts-20mg.jpg?v=1783432845",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.465Z"
+}

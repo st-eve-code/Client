@@ -1,0 +1,111 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639745356100",
+  "slug": "voopoo-pnp-tw-replacement-coils-5pack",
+  "title": "VooPoo PNP-TW/DW Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/voopoo-pnp-tw-replacement-coils-5pack",
+  "brand": "VooPoo",
+  "productType": "Coils",
+  "price": {
+    "min": 10.49,
+    "max": 10.49,
+    "currency": "GBP"
+  },
+  "description": "This pack of five genuine replacement Voopoo PnP-TW DL coils represent Voopoo’s newest addition to their bestselling PnP coils range and are built to deliver the best DL (direct-to-lung) vaping experience with Voopoo’s newest kits and pods, such as the Voopoo Drag E60 and Voopoo Drag H80S and Voopoo PNP Pod II. Easy to install the Plug-and-Play design lets you simply push the coils into place in the pod. They are available in five resistances, ideally suited to High-VG sub-ohm, NIc Salt or 50/50 e-liquids: PnP-TW15 DTL Coil - 0.15ohm (55-70W) DTL (direct-to-lung) - Use High VG (Sub-Ohm) E-Liquid PnP-TW20 DTL Coil - 0.2ohm (40-55W) DTL (direct-to-lung) - Use High VG (Sub-Ohm) E-Liquid PnP-TW30 DTL Coil - 0.3ohm (28-36W) DTL (restricted direct-to-lung) - Use High VG (Sub-Ohm) E-Liquid PnP-DW60 Coil - 0.6ohm (18-23W) RDL (restricted direct-to-lung) - Use Nic Salt or 50/50 E-Liquid PnP-DW80 Coil - 0.8ohm (12-16W) RDL (restricted direct-to-lung) - Use Nic Salt or 50/50 E-Liquid You can check the authenticity of this product with the scratch sticker on the box. Please Note: To improve the performance and longevity of your new coils, always prime them with your chosen e-liquid before inserting into your pod or tank. 'Priming a coil' simply means wetting the exposed cotton or similar wicking material with a dab or two of e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your coil, attached it to your pod or tank, and filled up with e-liquid, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "TW15 0.15 Ohm",
+        "TW20 0.2Ohm",
+        "TW30 0.3Ohm",
+        "DW60 0.6Ohm",
+        "DW80 0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "TW15 0.15 Ohm",
+      "sku": "1119310",
+      "price": 10.49
+    },
+    {
+      "title": "TW20 0.2Ohm",
+      "sku": "1119309",
+      "price": 10.49
+    },
+    {
+      "title": "TW30 0.3Ohm",
+      "sku": "1119308",
+      "price": 10.49
+    },
+    {
+      "title": "DW60 0.6Ohm",
+      "sku": "1122271",
+      "price": 10.49
+    },
+    {
+      "title": "DW80 0.8ohm",
+      "sku": "1126495",
+      "price": 10.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-pnp-tw-replacement-coils-5pack__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-tw30-0.3ohm-5pk_1.png?v=1729049245",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-tw-replacement-coils-5pack__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-tw15-0.15ohm-5pk.png?v=1729049245",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-tw-replacement-coils-5pack__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-tw20-0.2ohm-5pk.png?v=1729049245",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-tw-replacement-coils-5pack__004.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-tw30-0.3ohm-5pk.png?v=1729049245",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-tw-replacement-coils-5pack__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-coil_pnp-dw60-0-6ohm.jpg?v=1729049245",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-tw-replacement-coils-5pack__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-dw80-0.8-5pack.jpg?v=1729049245",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.869Z"
+}

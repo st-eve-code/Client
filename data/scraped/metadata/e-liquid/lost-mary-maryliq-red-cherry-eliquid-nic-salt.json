@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639921746244",
+  "slug": "lost-mary-maryliq-red-cherry-eliquid-nic-salt",
+  "title": "Lost Mary Maryliq Red Cherry 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-maryliq-red-cherry-eliquid-nic-salt",
+  "brand": "Lost Mary",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Discover Maryliq: Lost Mary's iconic flavours as found in bestselling disposable vapes like the BM600, QM600 and AM600, are now available in 10ml nicotine salt e-liquids. Maryliq provides a discreet, yet richly flavoured vapour and a smooth throat hit, offering quick relief for your nicotine cravings. Available in 10mg & 20mg strengths, it's the ideal choice for recent quitters or those after immediate nicotine satisfaction. Unlike traditional high-PG freebase liquids, Maryliq's nic salts deliver a smoother throat hit and quicker nicotine absorption. Compatible with starter and pod vape kits, these 10ml bottles let you enjoy your favourite flavours longer than 2ml disposables, minimising plastic waste. Experience all-day vaping satisfaction and flavour with Maryliq Nic Salts. Delight in the authentic flavour of fresh, ripe cherries with Lost Mary Maryliq's Red Cherry e-liquid. This flavour pays homage to the luscious, deep-red cherries plucked straight from the tree, offering a vape experience that's both intense and profoundly satisfying. It's a pure, unadulterated cherry flavour, without any of the artificial aftertaste. Perfect for those who enjoy the simple, luxurious pleasure of fresh fruit, Red Cherry provides a consistently enjoyable vaping experience. The balanced 50% VG / 50% PG blend allows for a satisfying throat hit and ample vapour production, capturing the essence of this delightful fruit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1131075",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127392",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-maryliq-red-cherry-eliquid-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-red-cherry-10ml-nic-salt-eliquid_2.jpg?v=1729061171",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-maryliq-red-cherry-eliquid-nic-salt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-red-cherry-10ml-nic-salt-eliquid_c1880a9a-4cf3-460e-a65a-3c8a8fdefde1.jpg?v=1729061171",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-maryliq-red-cherry-eliquid-nic-salt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-red-cherry-10ml-nic-salt-eliquid_1.jpg?v=1729061171",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.571Z"
+}

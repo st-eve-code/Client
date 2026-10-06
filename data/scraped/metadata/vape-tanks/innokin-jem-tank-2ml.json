@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639431602500",
+  "slug": "innokin-jem-tank-2ml",
+  "title": "Innokin Jem Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/innokin-jem-tank-2ml",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "The slim and durable JEM tank has a 2ml eliquid capacity and utilises a convenient top-fill system for easy refilling. The Innokin Jem tank has a tighter MTL (mouth-to-lung) draw that mimics traditional cigarettes, making it the ideal kit for newer vapers. The tank includes two 1.6ohm coils, one pre-installed, that provide exquisite flavour and reliable performance and work best with high-PG , 50/50 and nicotine salts eliquids. The Innokin JEM Vape Kit is a compact, stylish mod and tank combo from Innokin that features a large 1000mAh capacity, adjustable wattage control and adjustable airflow.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "IN-JEM-TA-BLK",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-jem-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jem-tank.jpg?v=1729039449",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

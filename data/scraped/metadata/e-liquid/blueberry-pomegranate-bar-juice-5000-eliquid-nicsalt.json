@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639702954308",
+  "slug": "blueberry-pomegranate-bar-juice-5000-eliquid-nicsalt",
+  "title": "Bar Juice 5000 Blueberry Pomegranate 10ml  Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/blueberry-pomegranate-bar-juice-5000-eliquid-nicsalt",
+  "brand": "Bar Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Pomegranate by Bar Juice is a rich, flavoursome, and fabulously fruity pairing of juicy, jammy blueberries with the bright, tropical tang of pomegranate. This premium e-liquid’s 40VG/60PG blend offers the perfect balance of flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. E-liquids formulated with nicotine salts are unique among vape products. Unlike traditional freebase e-liquids, nicotine salts alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than higher-strength freebase liquids. With nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. If you enjoy this flavour, there are plenty more delicious Bar Juice flavours to make your mouth water. Bar Juice are a range of UK-made e-liquids inspired by the outrageously popular and utterly irresistible flavours found in disposable vape bars, such as those from Elf Bar and Elux. Unlike those disposable vapes, which send tons of useless plastic to landfill every year, Bar Juice e-liquids give you all the same great taste and satisfaction in a far more sustainable fashion. Made with a 20mg nicotine salt formulation for fast relief from nicotine cravings, Bar Juice e-liquids are ideal for starter kits and pod kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1118610",
+      "price": 3.49
+    },
+    {
+      "title": "20mg",
+      "sku": "1118570",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__blueberry-pomegranate-bar-juice-5000-eliquid-nicsalt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-juice-500-blueberry-pomegranate_1_1.jpg?v=1729047876",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__blueberry-pomegranate-bar-juice-5000-eliquid-nicsalt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-juice-500-blueberry-pomegranate.jpg?v=1729047876",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__blueberry-pomegranate-bar-juice-5000-eliquid-nicsalt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-juice-500-blueberry-pomegranate_1.jpg?v=1729047876",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.386Z"
+}

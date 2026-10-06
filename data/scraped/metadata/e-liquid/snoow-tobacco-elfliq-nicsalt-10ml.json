@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639677722948",
+  "slug": "snoow-tobacco-elfliq-nicsalt-10ml",
+  "title": "Elf Bar ElfLiq Snoow Tobacco Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/snoow-tobacco-elfliq-nicsalt-10ml",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Cream Tobacco from ElfLiq’s range of nic salt e-liquids is a uniquely delicious take on a handmade Cuban cigarillo. The rich, robust and earthy tobacco flavour is mellowed to perfection with warm hints of sweet vanilla crème. Elfliq e-liquids are Elf Bar’s most iconic flavours in 10ml bottles of nicotine salt e-liquid. With a 50% VG / 50% PG concentration, Elfliq liquids produce a discreet amount of flavour-rich vapour with a smooth, comfortable throat hit, and provide rapid relief from nicotine cravings. Elfliq nicotine salt e-liquids are available in 10mg or 20mg nicotine strength and are ideal for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1127896",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1118426",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1118441",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__snoow-tobacco-elfliq-nicsalt-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-snoow-tobacco-5mg.jpg?v=1776353441",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snoow-tobacco-elfliq-nicsalt-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-snoow-tobacco-10mg.jpg?v=1776353446",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snoow-tobacco-elfliq-nicsalt-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-snoow-tobacco-20mg.jpg?v=1776353449",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.338Z"
+}

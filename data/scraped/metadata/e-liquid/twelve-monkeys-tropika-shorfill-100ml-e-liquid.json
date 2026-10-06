@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15005889429885",
+  "slug": "twelve-monkeys-tropika-shorfill-100ml-e-liquid",
+  "title": "Twelve Monkeys Tropika Shorfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/twelve-monkeys-tropika-shorfill-100ml-e-liquid",
+  "brand": "Twelve Monkeys Vapor",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Tropika by Twelve Monkeys delivers a vibrant mix of tropical fruit flavours, carefully blended to create a rich, smooth yet deliciously complex flavour experience. Bursting with layers of exotic fruits, this e-liquid balances sweet, juicy notes with a refreshing tropical finish, making it an excellent choice for fruit lovers seeking a well-rounded flavour profile. Designed with a high-VG 70VG/30PG ratio, Tropika is perfect for Sub-Ohm vape kits and high-powered DTL (direct-to-lung) devices, ensuring dense vapour production and full-bodied flavour. Supplied in a 100ml shortfill bottle with space for two 10ml nicotine shots, this e-liquid allows vapers to customise their nicotine strength to suit their preference. Twelve Monkeys is an award-winning Canadian e-liquid brand known for its masterful fruit blends, offering expertly crafted flavours with high-quality ingredients for a premium vaping experience.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139169",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__twelve-monkeys-tropika-shorfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Twelve_Monkeys_Tropika_100ml_UK.jpg?v=1739287736",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.551Z"
+}

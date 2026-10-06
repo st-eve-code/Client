@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639620608324",
+  "slug": "moreish-puff-brewed-hazelnut-vienna-50-50-eliquid",
+  "title": "Moreish Puff Brewed Hazelnut Vienna 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/moreish-puff-brewed-hazelnut-vienna-50-50-eliquid",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hazelnut Vienna from Moreish Puff’s Brewed collection is a fabulously smooth and creamy espresso coffee flavour with warm notes of hazelnuts providing a deliciously comforting finish. This e-liquid’s 50% VG/50% PG ratio delivers an extremely satisfying vape with a perfect balance of flavour and cloud production and is ideally suited to pod kits and starter kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "BR-10-HV-03-50",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "BR-10-HV-06-50",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "BR-10-HV-12-50",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__moreish-puff-brewed-hazelnut-vienna-50-50-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/moreish-puff-brewed-10ml-hazelnut-vienna.jpg?v=1729044842",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.618Z"
+}

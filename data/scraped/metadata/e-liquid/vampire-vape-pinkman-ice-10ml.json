@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639480590660",
+  "slug": "vampire-vape-pinkman-ice-10ml",
+  "title": "Vampire Vape Pinkman Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-pinkman-ice-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman Ice E-Liquid adds a cooling dimension to one of the most famous profiles in the industry. This version stays true to the definitive Pinkman foundation of sweet Red Berries, where the familiar, juicy taste of Strawberry and Raspberry creates a vibrant and naturally sweet inhale. The profile is rounded out by the signature hints of zesty Citrus and Tropical Fruit, now accompanied by a crisp layer of Menthol. This addition of ice works alongside the tangy undertones of the berry mix, resulting in a layered and refreshing exhale that balances sweetness with a clean, chilled finish. It is a sharp choice for those who want the classic Pinkman character with a brisk, breezy edge. This 10ml freebase e-liquid is available in a versatile range of nicotine strengths: 0mg, 3mg, 6mg, 12mg, and 18mg. Please note that Vampire Vape adjusts the VG/PG ratio to ensure the best performance for each strength: 3mg is mixed at 50VG/50PG, making it ideal for most starter kits and pod vape kits. 0mg, 6mg, 12mg, and 18mg are mixed at 40VG/60PG, which provides a sharper throat hit and is best suited for MTL (Mouth-to-Lung) starter kits and lower-powered devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Pinkman"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "VV-VV-10-PNK-IC-00",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-PNK-IC-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-PNK-IC-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-VV-10-PNK-IC-12",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VV-VV-10-PNK-IC-18",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-pinkman-ice-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-ice-10ml-e-liquid_1.jpg?v=1729040881",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.411Z"
+}

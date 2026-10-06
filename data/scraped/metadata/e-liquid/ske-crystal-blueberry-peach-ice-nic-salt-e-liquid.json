@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912046916",
+  "slug": "ske-crystal-blueberry-peach-ice-nic-salt-e-liquid",
+  "title": "SKE Crystal Blueberry Peach Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-blueberry-peach-ice-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Peach Ice flavour SKE Crystal Nic Salts e-liquid offers a cooling blend of naturally sweet Blueberry and lush Peach flavours, topped with a crisp menthol finish. It's a soothing yet vibrant flavour profile that refreshes with every puff, making it a fantastic choice for those who enjoy a slight chill in their vape. As part of the SKE Crystal Nic Salts line, this e-liquid uses nicotine salts to ensure a smoother throat hit and quicker absorption, providing satisfaction with lower concentrations of nicotine. Perfect for vapers seeking a gentle yet flavourful experience, the 50VG/50PG blend supports a balanced output of vapour and flavour, ideal for mouth-to-lung vaping setups. Blueberry Peach Ice is just one of the exciting new additions to the Crystal Nic Salts range, which now features an expanded lineup of 25 distinct flavours. Explore them all and find your new favourite today. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132479",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132506",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-blueberry-peach-ice-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blueberry-peach_1_1.jpg?v=1729060666",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-blueberry-peach-ice-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blueberry-peach.jpg?v=1729060666",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-blueberry-peach-ice-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blueberry-peach_1.jpg?v=1729060666",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.392Z"
+}

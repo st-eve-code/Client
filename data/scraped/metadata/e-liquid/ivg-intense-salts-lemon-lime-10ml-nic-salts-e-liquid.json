@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15577746997629",
+  "slug": "ivg-intense-salts-lemon-lime-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Lemon Lime 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-lemon-lime-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Lemon Lime delivers a citrus mix that balances the sharpness of Lemon with the tang of Lime. The combination is clean and refreshingly tart, cutting through with clarity from start to finish. Blended at a 50VG/50PG ratio, this Nic Salt ensures strong flavour, discreet vapour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths, Lemon Lime is designed for mouth-to-lung (MTL) devices such as pod kits, vape pens and starter systems. Part of the IVG Intense Salts range, Lemon Lime is a distinctive choice for fans of sharp, citrus flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148472",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148504",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-lemon-lime-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Lemon-Lime-min.jpg?v=1759395532",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.542Z"
+}

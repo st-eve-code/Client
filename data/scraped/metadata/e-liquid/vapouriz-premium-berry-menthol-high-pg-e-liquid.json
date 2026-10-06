@@ -1,0 +1,91 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640032829764",
+  "slug": "vapouriz-premium-berry-menthol-high-pg-e-liquid",
+  "title": "Vapouriz Premium Berry Menthol E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vapouriz-premium-berry-menthol-high-pg-e-liquid",
+  "brand": "Vapouriz Premium",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vapouriz Berry Menthol e-liquid blends a rich medley of sweet, juicy berry flavours with a crisp layer of cool menthol. The icy menthol perfectly complements the sharp, tangy sweetness of berries, creating a perfectly balanced and refreshing vape experience. Formulated with a classic high-PG mix, Vapouriz Premium e-liquids deliver intense flavours and a strong throat hit, making them ideal for starter kits and pod devices that use high-resistance coils (0.8-1.8ohms). Available in various nicotine strengths, they offer a satisfying and effective alternative to traditional tobacco products for adult smokers and vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "High PG E-Liquid",
+    "MTL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1134834",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1134835",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1134836",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1134837",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1134838",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vapouriz-premium-berry-menthol-high-pg-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz-premium_berry_menthol_10ml_1.jpg?v=1729064358",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vapouriz-premium-berry-menthol-high-pg-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz-premium_-berry-menthol-10ml-eliquid_3.jpg?v=1729064358",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vapouriz-premium-berry-menthol-high-pg-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz-premium_-berry-menthol-10ml-eliquid_4.jpg?v=1729064358",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.405Z"
+}

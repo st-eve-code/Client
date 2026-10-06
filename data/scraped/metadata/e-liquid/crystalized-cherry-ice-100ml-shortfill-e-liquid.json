@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15054642577789",
+  "slug": "crystalized-cherry-ice-100ml-shortfill-e-liquid",
+  "title": "Crystalized Cherry Ice 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/crystalized-cherry-ice-100ml-shortfill-e-liquid",
+  "brand": "Crystalized",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Crystalized’s Cherry Ice combines the deep, juicy taste of ripe Cherry with a bracing icy exhale for a refreshingly balanced vape. The deep fruity sweetness of Cherry is met with a cooling breeze of Menthol, delivering a crisp and satisfying contrast. This expertly-layered blend offers a fruit and menthol pairing that remains sweet, rich, and refreshing throughout. With a versatile 50% VG / 50% PG, this e-liquid is designed for MTL (mouth-to-lung) vaping, making it ideal for low-powered vape kits, pod systems, starter devices, and high-resistance coils. The balanced formula ensures a consistent flavour and a smooth yet tactile throat hit with discreet vapour production. As a 100ml shortfill, this nicotine-free e-liquid leaves room for two 10ml nicotine shots, allowing you to customise your strength. Adding two 18mg nic shots creates 120ml of 3mg e-liquid. Crystalized is a UK-based e-liquid brand dedicated to crafting distinctive, flavourful vape juices with an emphasis on MTL vaping. Their 50/50 VG/PG shortfills deliver clean, bright and consistent flavours, making them an excellent choice for everyday vaping.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139399",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__crystalized-cherry-ice-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-crystalized-cherry-ice-100ml.jpg?v=1741262909",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.549Z"
+}

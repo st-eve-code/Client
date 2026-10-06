@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639569424708",
+  "slug": "moreish-puff-sherbet-nic-salt-cherry",
+  "title": "Moreish Puff Sherbet Cherry Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/moreish-puff-sherbet-nic-salt-cherry",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "This delicious nic salt e-liquid from Moreish Puff blends a rich, sweet Cherry Candy flavour with a layer of refreshing fizzy sherbet. Moreish Puff’s Nic Salt e-liquid’s nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief and smooth throat hit provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salts E Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "MP-10-SH-CH-10-NS",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "MP-10-SH-CH-20-NS",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__moreish-puff-sherbet-nic-salt-cherry__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/mpsalts_0015_cherrysherbet_sherbetsalt.jpg?v=1729042183",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.623Z"
+}

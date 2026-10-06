@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14899833536893",
+  "slug": "brutal-drinks-pina-colada-10ml-nic-salt-e-liquid",
+  "title": "Brutal Drinks Pina Colada 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/brutal-drinks-pina-colada-10ml-nic-salt-e-liquid",
+  "brand": "Brutal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Brutal Drinks’ Pina Colada Nic Salt e-liquid evokes a smooth, sophisticated tropical cocktail with its velvety and refreshing flavours of sweet Pineapple and creamy Coconut. Perfectly balanced to deliver a vibrant burst of fruitiness with a silky finish, this flavour is ideal for fans of drink-inspired blends. Crafted by the expert mixologists at Just Juice, Brutal Drinks Nic Salts offer intense, fruit-inspired drink flavours in a smooth nicotine salt format. With a 50VG/50PG blend, this e-liquid is designed for use with Mouth-to-Lung (MTL) devices and pod kits, providing satisfying nicotine relief with a soft throat hit. Available in 10mg and 20mg strengths, Pina Colada is perfect for vapers seeking bold, tropical flavours in a versatile and convenient format. Part of the Brutal Drinks collection from Just Juice, this e-liquid joins an exciting line-up of refreshing drink-inspired blends, including Mango Lassi, Frozen Mojito, and Brutal Bull. Explore the range to discover your new favourite vape.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Just Juice Brutal Drinks",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137541",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137542",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__brutal-drinks-pina-colada-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BRUTAL-Drinks-PINA-COLADA-10MG-min.jpg?v=1734523115",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__brutal-drinks-pina-colada-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BRUTAL-Drinks-PINA-COLADA-20mg-min.jpg?v=1734523185",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.434Z"
+}

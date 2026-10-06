@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639317373252",
+  "slug": "mesh-pro-0-15-ohm-triple-mesh-sub-ohm-coils-by-freemax",
+  "title": "Freemax Mesh Pro 0.15 Ohm Triple Mesh Sub Ohm Coils",
+  "url": "https://www.vapestore.co.uk/products/mesh-pro-0-15-ohm-triple-mesh-sub-ohm-coils-by-freemax",
+  "brand": "Freemax",
+  "productType": "Coils",
+  "price": {
+    "min": 9.49,
+    "max": 9.49,
+    "currency": "GBP"
+  },
+  "description": "Rated at 0.15ohms for best performance at 80-100w, these superior quality coils feature a triple mesh composition for thick vapour production and pure, vibrant flavour. By utilising the wider surface area of mesh rather than wire or ceramic, these coils are able to offer faster and more evenly-distributed heating than standard coils. The perfect companion to keep your Freemax Mesh Pro tank performing at its very best.",
+  "tags": [
+    "compatible-with-FR-ME-BL-TA",
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "FR-ME-TR-01",
+      "price": 9.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mesh-pro-0-15-ohm-triple-mesh-sub-ohm-coils-by-freemax__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fr-me-tr-01_freemax_mesh_pro_015ohm_triplemesh_coils_001_da89b104-465a-47ee-8ad8-c7f1cd62f861.png?v=1729034300",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

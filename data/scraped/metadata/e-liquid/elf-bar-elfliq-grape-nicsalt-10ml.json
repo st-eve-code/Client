@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639741096260",
+  "slug": "elf-bar-elfliq-grape-nicsalt-10ml",
+  "title": "Elf Bar ElfLiq Grape Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-grape-nicsalt-10ml",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "If you’ve ever tried a Grape flavour Elf Bar then you’ll know just how delicious this new Elfliq e-liquid is. Juicy, sweet and succulent Grape candy is a classic flavour that never fails to satisfy and makes for an endlessly uplifting all-day vape that all vapers can enjoy. Elfliq e-liquids are Elf Bar’s most iconic flavours in 10ml bottles of nicotine salt e-liquid. With a 50% VG / 50% PG concentration, Elfliq liquids produce a discreet amount of flavour-rich vapour with a smooth, comfortable throat hit, and provide rapid relief from nicotine cravings. Elfliq nicotine salt e-liquids are available in 10mg or 20mg nicotine strength and are ideal for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1127898",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1120107",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1120116",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-grape-nicsalt-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-grape-5mg.jpg?v=1776348146",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-grape-nicsalt-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-grape-10mg.jpg?v=1776348149",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-grape-nicsalt-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-grape-20mg.jpg?v=1776348153",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.353Z"
+}

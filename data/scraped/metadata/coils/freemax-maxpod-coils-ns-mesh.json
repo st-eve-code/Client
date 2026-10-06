@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639394279748",
+  "slug": "freemax-maxpod-coils-ns-mesh",
+  "title": "Freemax Maxpod NS Mesh Coils (5 PK)",
+  "url": "https://www.vapestore.co.uk/products/freemax-maxpod-coils-ns-mesh",
+  "brand": "Freemax",
+  "productType": "Coils",
+  "price": {
+    "min": 1,
+    "max": 1,
+    "currency": "GBP"
+  },
+  "description": "The Freemax Maxpod kit is a compact, draw-activated vape kit ideal for new vapers and a handy on-the-go vape buddy (especially with the inclusion of the useful lanyard) for more experienced users. Available in 1.5ohm and 1.0ohm coils these replacement coils for the Maxpod both utilise Freemax’s patented mesh coil technology to deliver an incredibly flavoursome draw with discreet cloud production. Best paired with nicotine salt e-liquid or freebase (classic) e-liquids.",
+  "tags": [
+    "compatible-with-discontinued-FR-KT-MA-X-PO-YEL",
+    "Delisted",
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "1.0 ohm",
+        "1.5ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.0 ohm",
+      "sku": "1009499",
+      "price": 1
+    },
+    {
+      "title": "1.5ohm",
+      "sku": "1009500",
+      "price": 1
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-maxpod-coils-ns-mesh__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-maxpod-ns-mesh-1-0.jpg?v=1729037951",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-maxpod-coils-ns-mesh__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-maxpod-ns-mesh-1-0_1.jpg?v=1729037951",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-maxpod-coils-ns-mesh__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-maxpod-ns-mesh-1-5_1.jpg?v=1729037951",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.871Z"
+}

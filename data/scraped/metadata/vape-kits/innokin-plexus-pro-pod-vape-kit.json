@@ -1,0 +1,120 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15514941161853",
+  "slug": "innokin-plexus-pro-pod-vape-kit",
+  "title": "Innokin Plexus Pro Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-plexus-pro-pod-vape-kit",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Plexus Pro brings more power and control with its iconic tube-pod design. A 1350mAh battery supports adjustable power up to 25W with fast 0.01s inhale activation. A bright 0.87-inch colour screen keeps wattage, battery and puff info clear at a glance, while a rear airflow dial lets you fine-tune the draw from tight MTL (mouth-to-lung) to a looser, light RDL (restricted direct-to-lung) inhale. The 2ml Plexus cartridge uses a 360° transparent shell and a top-sliding refill to keep top-ups tidy. Two coils are included to help you find your preferred vape: a 0.6ohm dual-mesh cartridge (intense, fuller draw at around 20–25W) and a 0.8ohm mesh cartridge (balanced 13–16W). A 1.2ohm mesh option is available separately for cooler MTL. For best results use 50/50 or nicotine salt e-liquids. With its stainless-steel construction and pocketable shape, Plexus Pro is a capable daily kit for new and experienced vapers. Colours: Silver, Pink, Purple, Blue, Black, Grey. Check out our vape juice range and choose the best fit for this kit. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/DTL",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Shadow Gray",
+        "Pearlescent Roseline",
+        "Iridescent Lavender",
+        "Navy Blue",
+        "Midnight Black",
+        "Pearlescent Cream"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Shadow Gray",
+      "sku": "1142853",
+      "price": 15.99
+    },
+    {
+      "title": "Pearlescent Roseline",
+      "sku": "1142849",
+      "price": 15.99
+    },
+    {
+      "title": "Iridescent Lavender",
+      "sku": "1142850",
+      "price": 15.99
+    },
+    {
+      "title": "Navy Blue",
+      "sku": "1142851",
+      "price": 15.99
+    },
+    {
+      "title": "Midnight Black",
+      "sku": "1142852",
+      "price": 15.99
+    },
+    {
+      "title": "Pearlescent Cream",
+      "sku": "1142848",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-plexus-pro-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_PRO_Unicorn_Silver.jpg?v=1757332128",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-pro-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_PRO_Pearlescent_Rosaline.jpg?v=1757332209",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-pro-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_PRO_Iridescent_Lavender.jpg?v=1757332305",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-pro-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_PRO_Navy_Blue.jpg?v=1757332364",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-pro-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_PRO_Midnight_Black.jpg?v=1757332478",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-pro-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_PRO_Pearlescent_Cream.jpg?v=1757332839",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.097Z"
+}

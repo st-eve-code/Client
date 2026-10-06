@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639642399044",
+  "slug": "vaporesso-replacement-mtx-coils-1-2ohm",
+  "title": "Vaporesso MTX Coils 1.2ohm - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-replacement-mtx-coils-1-2ohm",
+  "brand": "Vaporesso",
+  "productType": "Coils",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "These compatible replacement MTX coils are high-resistance coils designed to deliver a supremely satisfying MTL (mouth to lung) vape sensation when used with the Vaporesso iTank M and high-PG, 50/50 and nicotine salts e-liquids. Their simple plug-and-play mechanism makes changing coils a clean and simple process.",
+  "tags": [
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1115497",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-replacement-mtx-coils-1-2ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-gen-fit-coils.jpg?v=1729045784",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

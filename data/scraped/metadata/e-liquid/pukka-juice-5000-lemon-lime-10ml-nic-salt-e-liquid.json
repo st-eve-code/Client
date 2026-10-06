@@ -1,0 +1,54 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900222853501",
+  "slug": "pukka-juice-5000-lemon-lime-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Lemon & Lime 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-lemon-lime-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Lemon & Lime Nic Salt e-liquid offers a vibrant citrus blend that perfectly balances the zesty, tangy flavours of fresh Lemons and Limes. This e-liquid provides a sharp, refreshing vape that’s packed with bold, citrusy goodness. Crafted with a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are ideal for Mouth-to-Lung (MTL) devices and pod systems, delivering smooth throat hits and rapid nicotine relief. Available in both 10mg and 20mg strengths, this e-liquid offers a crisp and refreshing vaping experience. Pukka Juice’s award-winning range of e-liquids includes the 5000+ series, which brings intense disposable-style flavours to a more versatile format. Explore other Pukka Juice 5000+ flavours such as Blue Sour Razz, Polar Mint, and Berry Frenzy.",
+  "tags": [
+    "Lemon and Lime",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135525",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135543",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-lemon-lime-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Lemon-_-Lime-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734539292",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.473Z"
+}

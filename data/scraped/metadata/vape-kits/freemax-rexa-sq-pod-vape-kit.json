@@ -1,0 +1,129 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15363633709437",
+  "slug": "freemax-rexa-sq-pod-vape-kit",
+  "title": "Freemax Rexa SQ Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/freemax-rexa-sq-pod-vape-kit",
+  "brand": "Freemax",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "The Freemax Rexa SQ is a compact pod vape kit that combines power and design with the versatility of Freemax’s Duomax platform. With a box-style frame, 1300mAh battery, and 5–30W adjustable output, the Rexa SQ delivers a satisfying experience for MTL (mouth-to-lung) and RDL (restricted direct-lung) vaping. Included in the kit is a 0.6ohm Duomax Pod, built with dual mesh coils and tea fibre cotton for longer-lasting flavour. Each pod is designed to handle vape juice of different types, accommodating up to 100ml of Freebase or 60ml of Nic Salt e-liquid , while the slide-to-fill top port ensures easy, mess-free refilling. The Rexa SQ features a hidden HD display that only activates when in use, revealing wattage and battery levels while maintaining a clean, minimal exterior. A nano-coated internal layout helps resist condensation build-up and leaking, while the airflow slider on the side allows for fine-tuned control over the draw. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1141860",
+    "compatible-with-1141861",
+    "compatible-with-1141862",
+    "compatible-with-1141863",
+    "compatible-with-1141864",
+    "compatible-with-1141865",
+    "compatible-with-1141866",
+    "Free 1 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Cyan",
+        "Red",
+        "Pink",
+        "Blue",
+        "Black",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Cyan",
+      "sku": "1141837",
+      "price": 15.99
+    },
+    {
+      "title": "Red",
+      "sku": "1141839",
+      "price": 15.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1141840",
+      "price": 15.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1141838",
+      "price": 15.99
+    },
+    {
+      "title": "Black",
+      "sku": "1141836",
+      "price": 15.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1141841",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-rexa-sq-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SQ-kit-Black.jpg?v=1752155610",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-sq-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SQ-kit-Cyan.jpg?v=1752155732",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-sq-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SQ-kit-Blue.jpg?v=1752155749",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-sq-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SQ-kit-Red.jpg?v=1752155774",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-sq-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SQ-kit-Pink.jpg?v=1752155822",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-sq-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SQ-kit-Silver.jpg?v=1752155901",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.054Z"
+}

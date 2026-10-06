@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639911358788",
+  "slug": "vampire-vape-bar-salts-strawberry-ice-flavour-concentrate-eliquid-30ml",
+  "title": "Bar Salts Strawberry Ice Flavour Concentrate 30ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-strawberry-ice-flavour-concentrate-eliquid-30ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s Bar Salts Strawberry Ice flavour concentrate offers a cool twist on the classic strawberry flavour, featuring a hint of ice to enhance the summer berry sweetness. This 30ml bottle provides a delightful, crisp strawberry taste with a refreshing finish. This concentrate is designed for vapers who enjoy making their own e-liquids. Add it to a VG/PG base, tweak the nicotine strength with optional Nic Shots, and shake to create a personalized vape juice that’s both flavourful and satisfying. Please Note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes.",
+  "tags": [
+    "Flavour Concentrate",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130731",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-strawberry-ice-flavour-concentrate-eliquid-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_30ml-concentrates_strawberry-ice.jpg?v=1729060605",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.523Z"
+}

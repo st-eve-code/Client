@@ -1,0 +1,118 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "9639379861828",
+  "slug": "innokin-go-s-vape-kit",
+  "title": "Innokin Go S Pen Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-go-s-vape-kit",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin GO S MTL Starter Kit is an innovative fusion of pen-style vape kit and refillable, replaceable tank device. It also happens to look super-stylish, feels amazing in the hand thanks to solid, quality materials and boasts great all-day use thanks to an impressive 1500mAh battery. Designed for a superb mouth to lung (MTL) vape experience, the GO S novel replaceable tanks. Made from food grade PCTG plastic, the pod features an adjustable airflow to help you home in your preferred draw. The pod comprises a specially designed 1.6 ohm coil made wicked with organic cotton and wood pulp, which together provide astonishing flavour. When the coil reaches the end of its life it’s just a matter of replacing it. Simple to fill, the GO S incorporates a nifty slide-to-open system that makes refilling the tank a fuss-free breeze. Check out our vape fluid and pair it seamlessly with this kit. The Innokin GO S MTL kit works best with classic High PG, 50/50 or nicotine salts e-liquids. With single-button operation, the Innokin Go S MTL starter kit is a wonder of convenience, performance and incredible flavour.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1009512",
+    "compatible-with-IN-TA-GO-MTL-TA-BLU",
+    "compatible-with-IN-TA-GO-MTL-TA-PNK",
+    "DTL",
+    "Free 1 50/50 Liquid",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Pink",
+        "Blue",
+        "Black",
+        "Silver",
+        "Gun Metal Grey"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Pink",
+      "sku": "IN-KT-GO-MTL-KT-PIN",
+      "price": 12.99
+    },
+    {
+      "title": "Blue",
+      "sku": "IN-KT-GO-MTL-KT-BLU",
+      "price": 12.99
+    },
+    {
+      "title": "Black",
+      "sku": "IN-KT-GO-MTL-KT-BLK",
+      "price": 12.99
+    },
+    {
+      "title": "Silver",
+      "sku": "IN-KT-GO-MTL-KT-SIL",
+      "price": 12.99
+    },
+    {
+      "title": "Gun Metal Grey",
+      "sku": "IN-KT-GO-MTL-KT-GNM",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-go-s-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gos-vape-kit-blue_2.jpg?v=1729037269",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-go-s-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gos-vape-kit-pink.jpg?v=1729037269",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-go-s-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gos-vape-kit-blue.jpg?v=1729037269",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-go-s-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gos-vape-kit-black.jpg?v=1729037269",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-go-s-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gos-vape-kit-silver.jpg?v=1729037269",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-go-s-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_go_s_13w_mtl_pen_starter_kit_-_gunmetal.jpg?v=1729037269",
+      "position": 6,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.111Z"
+}

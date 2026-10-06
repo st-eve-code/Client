@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15826527584637",
+  "slug": "bar-drop-rhubarb-raspberry-50ml-shortfill-e-liquid",
+  "title": "Bar Drop Rhubarb Raspberry 50ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-rhubarb-raspberry-50ml-shortfill-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Rhubarb Raspberry is a perfectly balanced blend of sweet and tart fruit notes. The profile pairs the sharp, distinctively tangy taste of garden Rhubarb with the rich, slightly jammy sweetness of ripe Raspberry. This combination creates a dynamic and complex vape, where the extra-concentrated flavours ensure the contrast between the tart rhubarb and sweet berry elements pops with vivid intensity on every draw. Formulated with a 50VG/50PG ratio, this e-liquid is specifically designed for MTL/RDL vaping. When paired with stater vape kits and low-wattage tanks, it produces small vapour clouds alongside exceptional flavour clarity. The even consistency ensures optimal wicking and performance in MTL/RDL devices, providing a smooth and satisfying experience. The Bar Drop Shortfill collection takes the intensely concentrated flavour profiles typically found in \"bar salt\" ranges and presents them in a 50%-VG format. Supplied as 50ml of nicotine-free e-liquid in a 60ml bottle, there is space to add a single 10ml nicotine shot, allowing you to easily create 60ml of 3mg e-liquid. This offers a cost-effective and highly flavoursome solution for sub-ohm vapers.",
+  "tags": [
+    "50/50 Shortfill",
+    "50ml Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1153852",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-rhubarb-raspberry-50ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rhubarb-Raspberry-Bar-Drop-50ml-E-Liquid.jpg?v=1772555082",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.351Z"
+}

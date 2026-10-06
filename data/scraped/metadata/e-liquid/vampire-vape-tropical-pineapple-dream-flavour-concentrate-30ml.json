@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15287760978301",
+  "slug": "vampire-vape-tropical-pineapple-dream-flavour-concentrate-30ml",
+  "title": "Vampire Vape Tropical Pineapple Dream Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-pineapple-dream-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Dream Flavour Concentrate from Vampire Vape’s Tropical collection captures a creamy-tropical duo of Pawpaw and Pineapple for DIY e-liquid mixing. Pawpaw delivers a smooth custard-like base with flavour notes of Banana, Mango and Melon, while Pineapple brings contrast with a touch of sweetness and gentle acidity. The result is a blend that’s mellow, creamy and easy to layer into a wide range of DIY recipes. This 30ml concentrate must be diluted before use and is intended for experienced DIY e-liquid makers who want to customise their own VG/PG ratios and nicotine strength. Vampire Vape concentrates are made in the UK to exacting standards and offer consistent, reliable flavour. Also available in Nic Salt, Freebase and Shortfill formats.",
+  "tags": [
+    "Flavour Concentrate",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141196",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-pineapple-dream-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_30ml_Concentrates_Tropical_Collection_Pineapple_Dream.jpg?v=1749462088",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.529Z"
+}

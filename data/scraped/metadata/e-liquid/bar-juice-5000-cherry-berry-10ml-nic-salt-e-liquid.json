@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15681716486525",
+  "slug": "bar-juice-5000-cherry-berry-10ml-nic-salt-e-liquid",
+  "title": "Bar Juice 5000 Cherry Berry 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-juice-5000-cherry-berry-10ml-nic-salt-e-liquid",
+  "brand": "Bar Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Cherry Berry from Bar Juice 5000 is a sweet, lively fruit blend that pairs juicy Cherry with a medley of ripe Berries. The Cherry leads with its classic red-fruit sweetness, while the supporting berries add extra depth, tang and brightness. An icy finish cools the blend on the exhale, bringing a clean, refreshing edge to the mix. Formulated with nicotine salts, this e-liquid offers rapid absorption and a smooth, comfortable throat sensation, making it ideal for MTL (mouth-to-lung) vaping in pod kits and vape pens. With strengths in 5mg, 10mg and 20mg, it caters to a wide range of preferences. Made in the UK and blended at 50PG/50VG, Bar Juice 5000 Nic Salts are designed for crisp, concentrated flavour with minimal vapour — perfect for fans of chilled, fruity profiles in a refillable 10ml format. Ideal for refillable vape UK and vape starter kit UK devices .",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149954",
+      "price": 3.49
+    },
+    {
+      "title": "10mg",
+      "sku": "1149959",
+      "price": 3.49
+    },
+    {
+      "title": "20mg",
+      "sku": "1149964",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-juice-5000-cherry-berry-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Berry-5mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763637700",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-juice-5000-cherry-berry-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Berry-10mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763637905",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-juice-5000-cherry-berry-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Berry-20mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763637952",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.351Z"
+}

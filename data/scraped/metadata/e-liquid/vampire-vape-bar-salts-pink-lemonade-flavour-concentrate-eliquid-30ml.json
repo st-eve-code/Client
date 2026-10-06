@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639911326020",
+  "slug": "vampire-vape-bar-salts-pink-lemonade-flavour-concentrate-eliquid-30ml",
+  "title": "Bar Salts Pink Lemonade Flavour Concentrate 30ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-pink-lemonade-flavour-concentrate-eliquid-30ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Experience the vibrant and refreshing summer flavours of Pink Lemonade with this flavour concentrate from Vampire Vape's Bar Salts collection. This 30ml bottle captures the essence of a sweet and tangy pink lemonade, blending a slight citrus bite with a hint of red fruit for a perfectly balanced vape experience. Ideal for DIY vapers looking to mix their own e-liquids, this concentrate provides a strong base flavour that can be diluted to suit your taste preferences. Simply add nicotine shots and a VG/PG base to craft an e-liquid that's exactly right for your vaping style. Please Note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes.",
+  "tags": [
+    "Bar Salts",
+    "Bar Salts Flavour Concentrate",
+    "BRANDS",
+    "Default Category",
+    "E Liquid",
+    "E-Liquid Concentrates",
+    "MTL/RDL",
+    "Nicotine Free E-Liquid",
+    "Pink Lemonade",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130730",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-pink-lemonade-flavour-concentrate-eliquid-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_30ml-concentrates_pink-lemonade.jpg?v=1729060602",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.525Z"
+}

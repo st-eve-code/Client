@@ -1,0 +1,122 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15427469607293",
+  "slug": "lost-vape-ursa-cap-pro-pod-vape-kit",
+  "title": "Lost Vape Ursa Cap Pro Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-ursa-cap-pro-pod-vape-kit",
+  "brand": "Lost Vape",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Ursa Cap Pro Pod Vape Kit is a sleek, portable device designed to combine performance with practical, pocket-friendly design. Powered by a robust 1200mAh battery and offering an adjustable output range of 5W–35W, the Ursa Cap Pro supports both mouth-to-lung (MTL) and restricted direct-to-lung (RDL) vaping styles. The clear monochrome screen displays essential data including wattage, battery level, resistance, and puff count, while Smart Mode automatically adjusts output based on the pod installed. A precision airflow slider and inhale activation system make customisation easy, whether you prefer a tighter draw or a looser vape. This kit is compatible with the full Ursa Series Pod range, including the URSA V3 pods included in the box, each with an integrated mesh coil. Each pod holds up to 2ml of e-liquid and is ideal for use with 50/50 freebase or nicotine salt e-liquids . A built-in dust cap keeps the mouthpiece clean while on the go, and fast USB-C charging ensures minimal downtime between sessions. With its smart functionality and stylish aesthetic, the Ursa Cap Pro is a versatile option for vapers seeking discreet performance without compromising on features. Complete your vaping experience with smooth, high-quality liquid vape designed for this kit. Kit Colours: Available in six striking finishes: Rose Glade, Violet Glade, Golden Glade, Space Gunmetal, Carbon Fiber, Space Black Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1142111",
+    "compatible-with-1142112",
+    "compatible-with-1142113",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Rose Glade",
+        "Violet Glade",
+        "Golden Glade",
+        "Space Gunmetal",
+        "Carbon Fiber",
+        "Space Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Rose Glade",
+      "sku": "1143860",
+      "price": 12.99
+    },
+    {
+      "title": "Violet Glade",
+      "sku": "1143861",
+      "price": 12.99
+    },
+    {
+      "title": "Golden Glade",
+      "sku": "1143862",
+      "price": 12.99
+    },
+    {
+      "title": "Space Gunmetal",
+      "sku": "1143863",
+      "price": 12.99
+    },
+    {
+      "title": "Carbon Fiber",
+      "sku": "1143864",
+      "price": 12.99
+    },
+    {
+      "title": "Space Black",
+      "sku": "1143865",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-ursa-cap-pro-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rose-Glade-Lost-Vape-Ursa-Cap-Pro-pod-kit.jpg?v=1755683289",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-cap-pro-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Violet-Glade-Lost-Vape-Ursa-Cap-Pro-pod-kit.jpg?v=1755683289",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-cap-pro-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Golden-Glade-Lost-Vape-Ursa-Cap-Pro-pod-kit.jpg?v=1755683289",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-cap-pro-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Space-Gunmetal-Lost-Vape-Ursa-Cap-Pro-pod-kit.jpg?v=1755683289",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-cap-pro-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Carbon-Fiber-Lost-Vape-Ursa-Cap-Pro-pod-kit.jpg?v=1755683289",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-cap-pro-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Space-Black-Lost-Vape-Ursa-Cap-Pro-pod-kit.jpg?v=1755683752",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.485Z"
+}

@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15765632647549",
+  "slug": "elf-bar-elfliq-x-crystal-watermelon-10ml-nic-salt-e-liquid",
+  "title": "Elf Bar ElfLiq x Crystal Watermelon 10ml Nic Salt E-Liquid - 20mg",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-x-crystal-watermelon-10ml-nic-salt-e-liquid",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Elfliq x Crystal Watermelon by Elf Bar is a premium evolution of one of the most popular tropical flavours on the market. Part of the exclusive Crystal edition, this blend focuses on delivering a cleaner, more saturated watermelon taste. It captures the lush, aqueous sweetness of ripe red watermelon, offering a refreshing inhale that is bursting with authentic fruit notes. The finish is crisp and light, making it an ideal all-day vape for fruit lovers. Formulated with a 50% VG / 50% PG ratio, this e-liquid strikes the perfect balance between flavour depth and vapour production. It is engineered for use with MTL (Mouth-to-Lung) hardware, such as pod vape kits. The 20mg nicotine salt strength ensures a gentle throat hit without harshness, allowing the refreshing watermelon flavour to take centre stage while delivering fast-acting satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1152731",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-x-crystal-watermelon-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-Elfliq-Crystal-10ml-nic-salts.jpg?v=1768480306",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.538Z"
+}

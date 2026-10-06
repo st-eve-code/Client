@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639607796036",
+  "slug": "pnp-x-tank-voopoo",
+  "title": "VooPoo Drag PnP-X Tank",
+  "url": "https://www.vapestore.co.uk/products/pnp-x-tank-voopoo",
+  "brand": "VooPoo",
+  "productType": "Tanks",
+  "price": {
+    "min": 19.99,
+    "max": 19.99,
+    "currency": "GBP"
+  },
+  "description": "The new Voopoo PnP-X 2ml pod tank fuses the simplicity of a pod with the performance of a premium sub-ohm tank. The pod tank features an improved ‘infinite’ airflow system that enhances vapour production and flavour for a super-satisfying DL (direct to lung) experience. The tank is top-filling for easy, mess-free refills. The tank is compatible with all of Voopoo’s PnP coils for a near-limitless range of resistances to experiment with. The included 0.2 ohm and 0.3 ohm mesh coils offer a mesh build for immaculate flavour and are best used with high-VG , sub-ohm e-liquids, although you can achieve a fantastic MTL (mouth-to-lung) sensation by purchasing higher resistance Voopoo PnP coils. The PnP-X pod tank’s sturdy build is a blend of plastic and metal to create a tank that’s lightweight yet durable. And while the tank is ideal for use with Voopoo’s celebrated Drag X line of vape kits, the 510 connection allows you to pair the tank with any compatible device. Features 2ml e-liquid capacity 510 drip tip Infinite Airflow ring Leak-resistant Top Filling Ideal for MTL/DTL Vaping Compatible with Voopoo PnP coils",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Blue",
+        "Stainless Steel",
+        "Gold",
+        "Rainbow"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "VP-TA-PNP-X-PO-BLK",
+      "price": 19.99
+    },
+    {
+      "title": "Blue",
+      "sku": "VP-TA-PNP-X-PO-BL",
+      "price": 19.99
+    },
+    {
+      "title": "Stainless Steel",
+      "sku": "VP-TA-PNP-X-PO-SS",
+      "price": 19.99
+    },
+    {
+      "title": "Gold",
+      "sku": "VP-TA-PNP-X-PO-GLD",
+      "price": 19.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "VP-TA-PNP-X-PO-RBW",
+      "price": 19.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pnp-x-tank-voopoo__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-tank-rainbow_1.jpg?v=1729044120",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pnp-x-tank-voopoo__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-tank-black_1_1.jpg?v=1729044120",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pnp-x-tank-voopoo__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-tank-blue_1_2.jpg?v=1729044120",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pnp-x-tank-voopoo__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-tank-stainless-steel_1_2.jpg?v=1729044120",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pnp-x-tank-voopoo__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-tank-gold_1_2.jpg?v=1729044120",
+      "position": 5,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pnp-x-tank-voopoo__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-tank-rainbow_1_2.jpg?v=1729044120",
+      "position": 6,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

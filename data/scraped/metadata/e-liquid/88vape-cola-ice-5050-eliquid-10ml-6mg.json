@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639873642820",
+  "slug": "88vape-cola-ice-5050-eliquid-10ml-6mg",
+  "title": "88Vape Any Tank Cola Ice 10ml E-Liquid- 6mg",
+  "url": "https://www.vapestore.co.uk/products/88vape-cola-ice-5050-eliquid-10ml-6mg",
+  "brand": "88Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.2,
+    "max": 1.2,
+    "currency": "GBP"
+  },
+  "description": "Cola Ice from 88Vape's Anytank series is an exhilarating e-liquid that masterfully combines the iconic taste of Cola with a crisp Menthol finish. This 10ml 50/50 e-liquid captures the essence of a fizzy Cola drink, infusing it with a cool and refreshing menthol edge, perfect for a revitalising vaping experience. As you inhale, the familiar and comforting flavour of Cola greets your palate, replicating the fizzy sweetness and slightly spiced undertones of the beloved beverage. This is swiftly followed by the invigorating chill of Menthol, which adds an icy layer to the warm Cola base. The result is a perfectly balanced blend that is both satisfying and refreshing. This 50/50 e-liquid from 88Vape offers a perfect balance of PG and VG, providing delicious flavour, smooth throat yet tactile throat hit and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. 88Vape are one of the most popular and bestselling vape brands in the UK. They have helped countless smokers make the switch to the far safer alternative of vaping with the help of delicious e-liquids at wallet-friendly prices.",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128349",
+      "price": 1.2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__88vape-cola-ice-5050-eliquid-10ml-6mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-cola-ice-10ml-eliquid.jpg?v=1729058255",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.500Z"
+}

@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639405584708",
+  "slug": "pukka-juice-blackcurrant-menthol-50-50-e-liquid",
+  "title": "Pukka Juice Blackcurrant Menthol 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-blackcurrant-menthol-50-50-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Sweet, with a subtle sourness, Blackcurrant is paired beautifully with a delicate layer of menthol for a smooth, refreshing exhale. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio allows for a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml Multi-Buys",
+    "50/50 E-Liquid",
+    "BRANDS",
+    "Cyber Monday 50/50 Deals",
+    "Cyber Monday E-Liquid 10ml",
+    "Default Category",
+    "E Liquid",
+    "E-Liquid 50pg 50vg",
+    "FLAVOUR TYPE",
+    "Free5050DD",
+    "Fruit",
+    "Fruit E-liquid Flavours",
+    "Mint & Menthol E-liquid Flavours",
+    "Mint / Menthol",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "NEW IN",
+    "prime-1020",
+    "Pukka Juice",
+    "VAPE TYPE",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "discontinued-PU-KA-10-BM-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "PU-KA-10-BM-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "PU-KA-10-BM-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-blackcurrant-menthol-50-50-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pj-blackcurrant-menthol.jpg?v=1729038342",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.468Z"
+}

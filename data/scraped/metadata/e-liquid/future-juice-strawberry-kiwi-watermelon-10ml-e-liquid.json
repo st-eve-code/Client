@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15335487308157",
+  "slug": "future-juice-strawberry-kiwi-watermelon-10ml-e-liquid",
+  "title": "Future Juice Strawberry Kiwi & Watermelon 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/future-juice-strawberry-kiwi-watermelon-10ml-e-liquid",
+  "brand": "Future Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Kiwi and Watermelon by Future Juice is a lively fruit blend that brings together three distinct flavours for a dynamic all-day vape. Juicy Strawberry forms the base with its bright, summery sweetness, while Kiwi introduces a vibrant tropical tang that adds a delightful contrast. Watermelon rounds out the profile with a fresh, delicately sweet finish that lifts the whole experience. Each puff delivers a smooth and flavourful fruit mix that balances sweet and sharp notes to perfection. This e-liquid uses nicotine salts to provide a silky-smooth, yet tactile throat hit and rapid nicotine relief. Blended at a 50VG/50PG ratio, it's designed for mouth-to-lung (MTL) vaping, making it ideal for use in refillable pod vape kits , vape pens , and vape starter kits . Future Juice Nic Salts are available in 5mg, 10mg and 20mg strengths, allowing vapers to tailor their nicotine intake to suit their needs. Created by UK-based e-liquid specialists Future Juice, this Nic Salt range delivers vibrant flavours that truly come alive in modern vape devices, for consistent satisfaction in every bottle.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143183",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1143177",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143171",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__future-juice-strawberry-kiwi-watermelon-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-strawberry-kiwi-watermelon-future-juice-10ml-nicotine-salts.jpg?v=1751298583",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.453Z"
+}

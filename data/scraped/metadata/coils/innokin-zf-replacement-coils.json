@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639783661892",
+  "slug": "innokin-zf-replacement-coils",
+  "title": "Innokin ZF Replacement Coils - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/innokin-zf-replacement-coils",
+  "brand": "Innokin",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "Innokin ZF coils, specifically engineered for the Z Force tank, are your go-to choice for a rich, flavoursome and satisfying DTL (Direct To Lung) vaping experience with Innokin’s bestselling tank. Offering the freedom to generate an impressive amount of vapour, these coils come in two distinct resistances, empowering you to experiment with varying degrees of vapour production to achieve your ideal vaping experience. Both variants boast a mesh build for superior performance. For those seeking maximum vapour production, we suggest opting for the 0.2 Ohm ZF coils, in the range of 50 - 80W . If you're aiming for a more subtle vaping experience, the 0.3 Ohm ZF coils are your perfect choice. These are most effective within the 30 - 45W range and deliver comparatively lesser vapour. Regardless of your choice, both are best when paired with a 70% VG E-Liquid or any higher VG option. Each coil comes with a dual mesh build, incorporating a mesh core enwrapped by a cotton wick, further layered with another mesh. This unique construction enables the wick to absorb more e-liquid and heat up swiftly compared to traditional coils. The result is a faster ramp-up time, enhanced vapour production, and an improved flavour profile. Innokin ZF 0.2ohm best used 50 - 80W Innokin ZF 0.3ohm best used 30 - 45W Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1123517",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.2ohm",
+        "0.3ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.2ohm",
+      "sku": "1123569",
+      "price": 6.99
+    },
+    {
+      "title": "0.3ohm",
+      "sku": "1123570",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-zf-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zf-mesh-coil-5pk_1_1.jpg?v=1729052072",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zf-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zf-mesh-coil-5pk.jpg?v=1729052072",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zf-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zf-mesh-coil-5pk_1.jpg?v=1729052072",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

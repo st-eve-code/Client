@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640019591492",
+  "slug": "jakd-chubby-salts-mango-ice-nicsalt-e-liquid",
+  "title": "JAK'D Chubby Salts Mango Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/jakd-chubby-salts-mango-ice-nicsalt-e-liquid",
+  "brand": "JAK'D",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Chubby Salts Mango Ice from Jak’d e-liquids brings the sun-soaked flavour of fresh, juicy Mangoes to your vape with a thrilling icy twist. A layer of crisp, frosty menthol adds an irresistible touch of refreshment to the sweet mango flavour for an easy, uplifting all-day vape. Designed for vapers who like to double down on flavour, Jak'd, from legendary vape juice masters Jak’d Rabbit, delivers more than just your usual everyday e-liquid. Every Jak’d bottle contains a double-concentrated shot of flavour to make your vaping intensely tasty and satisfying. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. Nicotine salts differ from regular freebase e-liquids due to their alkaline formulation, allowing for a higher nicotine concentration. The nicotine from Nic Salt e-liquids is absorbed into the bloodstream faster, offering almost instantaneous relief from nicotine cravings. The unique magic of Nic Salts means that you’ll enjoy a super-smooth, comfortable throat hit despite the higher nicotine concentration.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1134581",
+      "price": 3.49
+    },
+    {
+      "title": "10mg",
+      "sku": "1134584",
+      "price": 3.49
+    },
+    {
+      "title": "20mg",
+      "sku": "1134588",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__jakd-chubby-salts-mango-ice-nicsalt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jakd-chubby-salts-mango-ice-10ml-nicotine-salts_1_1_1.jpg?v=1729064254",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__jakd-chubby-salts-mango-ice-nicsalt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jakd-chubby-salts-mango-ice-10ml-nicotine-salts.jpg?v=1729064254",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__jakd-chubby-salts-mango-ice-nicsalt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jakd-chubby-salts-mango-ice-10ml-nicotine-salts_1.jpg?v=1729064254",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__jakd-chubby-salts-mango-ice-nicsalt-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jakd-chubby-salts-mango-ice-10ml-nicotine-salts_1_1.jpg?v=1729064254",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.327Z"
+}

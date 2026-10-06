@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639253705028",
+  "slug": "smok-v8-t10-deca-coils-0-12ohm",
+  "title": "SMOK V8-T10 Deca Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-v8-t10-deca-coils-0-12ohm",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Made from durable Kanthal Clapton coils, the V8-T10 Decuple Core Coils are suitable for use with the Smok TFV8 tank. With a 0.12ohm resistance and an operating range of 50-300 wattage, these coils deliver rich flavour production and impressively thick vapour. Shop the best range of SMOK vaping products at Vapestore, featuring premium Smok E-cigarettes , advanced Smok Tanks , powerful Mods , quality Smok Coils , and the newest Vape Kits .",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "213032",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-v8-t10-deca-coils-0-12ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/213032_smok_v8-t10_001.jpg?v=1729031570",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.874Z"
+}

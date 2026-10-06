@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639261897028",
+  "slug": "innokin-endura-t18-e-tank",
+  "title": "Innokin Endura T18-E Prism Tank",
+  "url": "https://www.vapestore.co.uk/products/innokin-endura-t18-e-tank",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Endura T18-E Prism Tank is a reliable and stylish choice for vapers who prioritise ease of use and exceptional flavour. Crafted from durable stainless steel and Pyrex glass, this 2ml tank is both robust and visually appealing, making it an ideal companion for a wide range of vaping devices. Designed for mouth-to-lung (MTL) vaping, the T18-E Prism Tank delivers smooth, consistent performance with its 1.5ohm replaceable coil, optimised for operation at 14W. The tank’s top-fill design ensures mess-free refills, while the organic Japanese cotton wicking delivers clean, intense flavour with every draw. Perfect for beginners and experienced vapers alike, the Endura T18-E Prism Tank pairs seamlessly with 510-threaded devices, offering versatility and convenience. Whether you’re upgrading your existing setup or looking for a dependable tank to enhance your vaping experience, the Innokin Endura T18-E Prism Tank offers the perfect balance of simplicity and performance.",
+  "tags": [
+    "compatible-with-601326"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver",
+        "Pink"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "601449",
+      "price": 9.99
+    },
+    {
+      "title": "Silver",
+      "sku": "601456",
+      "price": 9.99
+    },
+    {
+      "title": "Pink",
+      "sku": "601463",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-endura-t18-e-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/601449-parent_innokin_endura_t18-e_prism_001.jpg?v=1729031977",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

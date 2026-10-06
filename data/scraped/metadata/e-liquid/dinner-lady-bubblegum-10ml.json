@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639447462212",
+  "slug": "dinner-lady-bubblegum-10ml",
+  "title": "Dinner Lady Dinner Lady Bubblegum E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-bubblegum-10ml",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Don’t miss out o n o ne of the most moreish vape experience s with the Dinner Lady B ubble g um E-Liquid 10ml. Treat your tastebuds to the sweet taste of your favourite sugary mouth-watering B ubblegum . Th e inimitable candy pop and sugary fruit rush make s this exquisite E-L iquid a uniquely uplifting all-day vape . That’s perfect for anyone with a sweet tooth and fond memories of the tuck shop. If you have a sweet tooth wait . A dd this moreish B ubblegum E-Liquid flavour to your sweet vape flavour collection today. The 70% Vegetable Glycerine, and 30% Propylene Glycol formula make this E-Liquid ideal for sub-ohm vaping, producing mighty clouds on top of fantastic flavour and a smooth, comfortable, throat hit. Sub-ohm vaping generally requires the use of high-powered vape kits, including pod vape kits and pod mods with higher power outputs, some pen vape kits and advanced kits . If you love this Bubblegum Sub Ohm E-Liquid 10ml then why not check out more of Dinner Lady’s delicious E-Liquids? Their collection of E - L iquids covers a wide variety of flavours from fruit, menthol, fi zzy drinks and more. So why not treat yourself to the mouth-watering Dinner Lady Tropic Chill Disposable Vape Pen 1.5ml 20mg . Or indulge your tastebuds with the Dinner Lady Strawberry Macaroon 50 ml.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DTL",
+    "High VG E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "DL-DL-10-BG-70-30-03-SO",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "DL-DL-10-BG-70-30-06-SO",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-bubblegum-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-sweets-bubble-gum-3070-3mg-uk.jpg?v=1729040075",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.627Z"
+}

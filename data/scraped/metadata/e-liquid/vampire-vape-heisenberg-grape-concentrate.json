@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639814988100",
+  "slug": "vampire-vape-heisenberg-grape-concentrate",
+  "title": "Vampire Vape Heisenberg Grape Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-heisenberg-grape-concentrate",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Recreate Vampire Vape’s legendary Heisenberg flavour of juicy, sweet Berries and ice-cold Menthol with the added twist of deliciously rich and fruity Grape, with this simple-to-use flavour concentrate from Vampire Vape. Add to VG/PG DIY Mixing Products for optimum flavour. All Vampire Vape flavour concentrates are 100% PG based. Please note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes. Details 100% PG Based 0mg E-liquid Add to a VG/PG base e-liquid mix Mix your own e-liquids, just the way you like Made in the UK",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Heisenberg"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1116002",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-heisenberg-grape-concentrate__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-heisenberg-grape-30ml-800x800.jpg?v=1729054053",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.515Z"
+}

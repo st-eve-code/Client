@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639519551812",
+  "slug": "riot-squad-fresh-blueberry-nic-salt",
+  "title": "Riot Squad Fresh Blueberry Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-fresh-blueberry-nic-salt",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "This Riot Squad Riot Salt Blue Burst Nic Salt E-Liquid is a fruity blend that features a frosty cool finish . Each puff of this delectable B lue Burst Riot Salt by Riot Squad offers a splendid array of flavours paired to create the flavour of your favourite Blue Raspberry flavours. Indulge your taste buds with a tangy and sweet B lue R aspberry S lushy . S mashed over crushed ice for an invigorating blast of menthol. Riot Squad’s Riot Salt E-Liquids are formulated with hybrid nicotine, a unique and innovative blend of nicotine freebase and nicotine salts. The combination of the freebase and nicotine salt offers a realistic alternative to a cigarette. Making it a great option for those looking to help themselves stop smoking successfully. Whilst 50/50 PG and VG ratio provides the perfect balance of flavour and throat hit. Ensuring that each delicious puff is as silky smooth as the last. If you love this flavour, then you are in luck. The Riot Squad vape juice collection has plenty more delectable Riot Salt flavours to indulge your tastebuds and satisfy your nicotine cravings. Why not add to your Nic Salt E-Liquid collection and treat yourself to some tasty flavours such as Riot Squad Sub Lime Nic Salt E-Liquid 10ml or the Riot Squad Blue Burst Nic Salt E-Liquid 10ml . At Vapestore we stock a wide range of vape juice flavours & E-Liquid types. Why not c heck out our full range including fantastic Multi-Buy E-Liquid Deals. Shop our Full Range of Multi-Buy Nicotine Salt E-Liquids. Or if you really can’t decide then why not take a look at all of our E-Liquids here.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "RS-10-FB-05-NS",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "RS-10-FB-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "RS-10-FB-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-fresh-blueberry-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-fresh-blueberry_3.jpg?v=1729041319",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-fresh-blueberry-nic-salt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-fresh-blueberry.jpg?v=1729041319",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-fresh-blueberry-nic-salt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-fresh-blueberry_1.jpg?v=1729041319",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-fresh-blueberry-nic-salt__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-fresh-blueberry_2.jpg?v=1729041319",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.428Z"
+}

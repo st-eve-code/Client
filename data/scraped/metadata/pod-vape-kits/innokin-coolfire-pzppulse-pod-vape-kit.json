@@ -1,0 +1,110 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "14907779842429",
+  "slug": "innokin-coolfire-pzppulse-pod-vape-kit",
+  "title": "Innokin Coolfire PZPPulse Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-coolfire-pzppulse-pod-vape-kit",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 32.99,
+    "max": 32.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin CoolFire PZPulse Pod Vape Kit is a robust and versatile device designed for vapers who demand exceptional performance and durability. With its tri-proof IP68 rating, the CoolFire PZPulse offers water, dust, and shock resistance, making it the ideal companion for life on the go. Encased in a premium zinc alloy frame, this kit combines rugged design with modern sophistication. Powered by an impressive 2400mAh internal battery, the CoolFire PZPulse delivers a peak output of 80W, supporting both direct-to-lung (DTL) and restricted direct-to-lung (RDL) vaping styles. A 0.96” curved TFT colour screen provides clear and intuitive access to all essential settings, while the advanced chipset ensures consistent power delivery and optimal performance with every puff. The included PZPulse Pod features a 2ml refillable capacity and an easy top-fill mechanism for mess-free refills. Paired with PZP Max Coils (0.4ohm pre-installed and 0.6ohm included), this kit offers superior flavour and vapour production with high-VG and 50/50 e-liquids. Adjustable top airflow lets you fine-tune your draw for a fully personalised vaping experience. Whether you're seeking advanced features, robust durability, or outstanding vapour quality, the Innokin CoolFire PZPulse Pod Kit delivers on all fronts, making it a must-have for vapers at any level. Shop our vape liquids today and find blends crafted to complement this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1137914",
+    "compatible-with-1137915",
+    "compatible-with-1137916",
+    "DTL/RDL",
+    "Free 3 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue Green",
+        "Silver",
+        "Purple Gradient",
+        "Black",
+        "Gunmetal"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue Green",
+      "sku": "1137909",
+      "price": 32.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1137910",
+      "price": 32.99
+    },
+    {
+      "title": "Purple Gradient",
+      "sku": "1137908",
+      "price": 32.99
+    },
+    {
+      "title": "Black",
+      "sku": "1137906",
+      "price": 32.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1137907",
+      "price": 32.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-coolfire-pzppulse-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/coolfire-pzpulse-blue-green-800x800.jpg?v=1734958118",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-pzppulse-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/coolfire-pzpulse-silver-800x800.jpg?v=1734958118",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-pzppulse-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/coolfire-pzpulse-purple-gradient-800x800.jpg?v=1734957951",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-pzppulse-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/coolfire-pzpulse-gunmetal-800x800.jpg?v=1734958023",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-pzppulse-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/coolfire-pzpulse-black-800x800.jpg?v=1734958047",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.481Z"
+}

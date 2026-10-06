@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639677657412",
+  "slug": "p-b-cloudd-elfliq-nicsalt-10ml",
+  "title": "Elf Bar ElfLiq P&B Cloudd Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/p-b-cloudd-elfliq-nicsalt-10ml",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "P&B Cloudd (Cotton Candy Ice) from ElfLiq’s range of nic salt e-liquids is a deliciously nostalgic flavour that will conjure memories of the fun fair. The sweet, sugary, fluffy candy floss flavour is given a subtle touch of icy menthol for extra refreshment. Elfliq e-liquids are Elf Bar’s most iconic flavours in 10ml bottles of nicotine salt e-liquid. With a 50% VG / 50% PG concentration, Elfliq liquids produce a discreet amount of flavour-rich vapour with a smooth, comfortable throat hit, and provide rapid relief from nicotine cravings. Elfliq nicotine salt e-liquids are available in 10mg or 20mg nicotine strength and are ideal for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1127895",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1118425",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1118440",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__p-b-cloudd-elfliq-nicsalt-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-nic-salts-p_bcotton-candy-ice.jpg?v=1729047354",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__p-b-cloudd-elfliq-nicsalt-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-nic-salts-cotton-candy-ice_3_1.jpg?v=1729047354",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__p-b-cloudd-elfliq-nicsalt-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-nic-salts-cotton-candy-ice_4.jpg?v=1729047354",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__p-b-cloudd-elfliq-nicsalt-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-nic-salts-cotton-candy-ice_2_1.jpg?v=1729047354",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.381Z"
+}

@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15809222639997",
+  "slug": "just-juice-desserts-banana-caramel-waffle-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Desserts Banana & Caramel Waffle 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-desserts-banana-caramel-waffle-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Just Juice Desserts Banana and Caramel Waffle combines fruit and bakery notes for a truly indulgent experience. The base flavour offers the taste of a toasted, golden Waffle, topped with slices of sweet, ripe Banana. A drizzle of rich, sticky Caramel ties the elements together, adding a deep sweetness to the finish. This layered blend replicates the complexity of a freshly prepared dessert, with each note remaining distinct throughout the vape. Uniquely formulated with a 60PG/40VG ratio, this nicotine salt e-liquid is designed to deliver exceptional flavour clarity and a discreet amount of vapour. This higher PG content makes it ideal for use with low-powered pod vape kits and starter devices, where it ensures efficient wicking and consistent performance. The premium nicotine salt formula provides a smooth throat hit and rapid satisfaction, even at the higher 20mg strength. For the best experience, we recommend using this e-liquid with coils or pods rated between 0.8ohm and 1.2ohm. The Desserts collection by Just Juice represents a shift from their signature fruity and ice-infused blends, focusing instead on comforting, bakery-inspired profiles. Expertly crafted in the UK, this range is designed to offer depth, balance, and smooth satisfaction for vapers seeking a richer taste experience. Available in 5mg, 10mg, and 20mg strengths, Just Juice Desserts provide a versatile option for adult smokers and vapers alike.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Just Juice Desserts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153394",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153401",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153408",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-desserts-banana-caramel-waffle-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Banana-W-Just-Juice-Desserts-5mg.jpg?v=1771412642",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-desserts-banana-caramel-waffle-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Banana-W-Just-Juice-Desserts-10mg.jpg?v=1771412698",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-desserts-banana-caramel-waffle-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Banana-W-Just-Juice-Desserts-20mg.jpg?v=1771412777",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.442Z"
+}

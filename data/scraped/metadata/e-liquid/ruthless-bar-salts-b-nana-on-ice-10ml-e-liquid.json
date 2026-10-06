@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15029936324989",
+  "slug": "ruthless-bar-salts-b-nana-on-ice-10ml-e-liquid",
+  "title": "Ruthless Bar Salts B.nana On Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-bar-salts-b-nana-on-ice-10ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ruthless Bar Salts Banana on Ice delivers a smooth and creamy Banana flavour, perfectly balanced with a crisp menthol finish. The rich, velvety sweetness of ripe Bananas creates a luscious inhale, while the cool, refreshing exhale adds a frosty contrast, making this an indulgent yet revitalising vape. Blended at 50VG/50PG, this e-liquid is optimised for MTL (mouth-to-lung) pod kits and starter devices, ensuring a consistently smooth and flavour-packed vape. The nicotine salt formulation provides a comfortable throat hit and rapid nicotine absorption, making it an excellent choice for vapers who enjoy fruit and menthol pairings. Ruthless is one of the most influential brands in American e-liquids, known for crafting bold and unique flavours that have inspired the industry for years. Their expertly blended shortfills and nic salts continue to be a favourite among vapers on both sides of the pond who prize high-quality, distinct, and flavourful e-liquids that push the boundaries of what’s possible in vape juice.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Banana Ice",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1139300",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139316",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-bar-salts-b-nana-on-ice-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ruthless-Ruthless-10ML_B.nanaOnIce.jpg?v=1740132966",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.494Z"
+}

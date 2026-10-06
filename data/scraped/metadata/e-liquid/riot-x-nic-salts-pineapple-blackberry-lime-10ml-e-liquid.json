@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15639711482237",
+  "slug": "riot-x-nic-salts-pineapple-blackberry-lime-10ml-e-liquid",
+  "title": "Riot X Nic Salts Pineapple Blackberry Lime 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-pineapple-blackberry-lime-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Blackberry Lime by Riot X Nic Salts is a bold fruit mix that balances tropical sweetness with a tart edge. Pineapple leads with bright, juicy sweetness. Blackberry adds a deeper berry tone. Lime adds a citrus twist for a clean, zesty finish. This e-liquid is made with Riot’s Hybrid Nicotine formula, which combines Nic Salt and freebase for fast-acting satisfaction, a smooth inhale, and discreet vapour output. Blended at 50VG/50PG, it’s designed for mouth-to-lung (MTL) vaping and works best with low-powered pod kits, starter vapes and vape pens. Riot X Nic Salts are produced in the UK and created to deliver memorable fruit blends that suit everyday MTL vaping.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple",
+    "prime-1020",
+    "Riot X Nic salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149406",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1149412",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1149418",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-pineapple-blackberry-lime-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Blackberry-_-Lime-Riot-X-Nic-Salts-10ML-5MG.jpg?v=1761746280",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-pineapple-blackberry-lime-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Blackberry-_-Lime-Riot-X-Nic-Salts-10ML-10mg.jpg?v=1761746304",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-pineapple-blackberry-lime-10ml-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Blackberry-_-Lime-Riot-X-Nic-Salts-10ML-20mg.jpg?v=1761746369",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.433Z"
+}

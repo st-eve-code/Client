@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15535158100349",
+  "slug": "just-juice-bar-below-zero-frozen-berry-gummy-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Below Zero Frozen Berry Gummy 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-below-zero-frozen-berry-gummy-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Frozen Berry Gummy from the Just Juice Bar Below Zero Range is a sweet, playful blend with a frosty edge. A mix of ripe Berries brings juicy, tangy sweetness, lifted by a burst of cool Ice for freshness. The flavour is finished with a chewy confectionery twist, creating a vape that balances fruit brightness with a candy-inspired depth. Crafted with nicotine salts, this e-liquid offers quick nicotine delivery and a smoother throat experience, making it perfect for MTL (mouth-to-lung) vaping in pod kits and pens. With 5mg, 10mg and 20mg strengths available, it caters to a range of users. Produced in the UK with a 60PG/40VG ratio, Just Juice Bar Below Zero Range Nic Salts are made for clear, vibrant flavour with subtle vapour production, offering disposable-style profiles in a refillable 10ml format. Please Note : All flavours in the Just Juice Bar Below Zero Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1153440",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1148255",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148265",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148260",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-below-zero-frozen-berry-gummy-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BAR-BELOW-ZERO-FROZEN-BERRY-GUMMY-Just-Juice-Bar-Below-Zero-10ml.jpg?v=1758023156",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.449Z"
+}

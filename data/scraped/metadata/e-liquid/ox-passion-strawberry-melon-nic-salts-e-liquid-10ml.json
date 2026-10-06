@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003039826301",
+  "slug": "ox-passion-strawberry-melon-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Strawberry Melon Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-strawberry-melon-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Salts Strawberry Melon blends the soft, juicy sweetness of ripe Strawberries with the light, refreshing taste of Melon. The smooth, sun-kissed berry flavour unfolds on the inhale, while the delicate, subtly honeyed melon adds a mellow sweetness and cooling sensation on the exhale, making for a mellow and well-balanced fruit vape. Blended in a 50VG/50PG ratio, this nicotine salt e-liquid is designed for mouth-to-lung (MTL) vaping, ensuring a smooth throat hit and a consistently full-bodied flavour. Perfect for pod vape kits and starter devices, it delivers rapid nicotine absorption for a satisfying vape experience. Developed by Oxva, a trusted name in vaping technology, the OX Passion Salts range features expertly crafted flavours designed to pair seamlessly with Oxva’s XLIM pod kits and other refillable vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132779",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139102",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-strawberry-melon-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ox-Passion_0004_Strawberry-Melon.jpg?v=1739186861",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.464Z"
+}

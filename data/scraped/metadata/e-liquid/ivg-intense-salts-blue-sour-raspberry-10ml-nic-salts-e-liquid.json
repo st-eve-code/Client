@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15577695158653",
+  "slug": "ivg-intense-salts-blue-sour-raspberry-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Blue Sour Raspberry 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-blue-sour-raspberry-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Blue Sour Raspberry balances tart Raspberry with the juicy sweetness of Blueberry for a contrasting berry blend. The sour edge adds bite, while the sweeter undertones round out the profile. This e-liquid is blended at a 50VG/50PG ratio, delivering strong flavour with discreet vapour and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths, it’s designed for mouth-to-lung (MTL) kits including pod systems, pens and starter devices. Part of the IVG Intense Salts range, Blue Sour Raspberry captures both sharpness and sweetness for fans of punchy berry flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148467",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148499",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-blue-sour-raspberry-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Blue-Sour-Raspberry-min_75f6ae49-0f64-4ce6-b7b9-5eb0d06eff51.jpg?v=1759393307",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.542Z"
+}

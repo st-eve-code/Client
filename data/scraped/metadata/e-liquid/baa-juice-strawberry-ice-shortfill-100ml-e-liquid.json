@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15494139609469",
+  "slug": "baa-juice-strawberry-ice-shortfill-100ml-e-liquid",
+  "title": "Baa Juice Strawberry Ice Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-strawberry-ice-shortfill-100ml-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Strawberry Ice Shortfill takes a classic fruit flavour and gives it a chilled edge. Juicy, sweet Strawberry delivers a bright burst of berry flavour, while an icy finish brings cool clarity to every draw. The balance of sweet and brisk notes makes this a refreshing fruit-and-menthol vape. Supplied in a 120ml bottle with 100ml of nicotine-free e-liquid, there’s space for two nic shots if required. Blended at 50/50 ratio, this Shortfill is designed for MTL pod kits to produce a balanced vaping style with vibrant flavour. Baa Juice Shortfills are mixed with double-concentrated flavouring, offering a strong, impactful taste that lasts throughout the day.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144559",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-strawberry-ice-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-baa-juice-strawberry-ice-100ml.jpg?v=1756381791",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.352Z"
+}

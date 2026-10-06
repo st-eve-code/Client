@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640014479684",
+  "slug": "unreal-desserts-butterscotch-cream-nic-salt-e-liquid",
+  "title": "Unreal Desserts Butterscotch Cream 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/unreal-desserts-butterscotch-cream-nic-salt-e-liquid",
+  "brand": "Unreal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Butterscotch Cream from Unreal Desserts is a luxurious dessert-inspired flavour that combines the rich, buttery taste of butterscotch with the smooth, velvety notes of cream. This e-liquid delivers a classic dessert vape that's perfect for those who enjoy smooth, creamy flavours. Unreal Dessert Nic Salts are expertly crafted with a 50VG/50PG ratio, making them ideal for use with mouth-to-lung (MTL) vape kits and pod devices. These e-liquids provide a smooth throat hit and rapid nicotine delivery, making them an excellent choice for adult smokers and vapers seeking effective nicotine satisfaction. They are best used with high-resistance coils (0.8ohm-1.2ohm) for both RDL (restricted direct-to-lung) and MTL vaping experiences. Nicotine salts differ from regular freebase e-liquids thanks to their alkaline formulation, allowing for a higher nicotine concentration. Nic Salt e-liquids are absorbed into the bloodstream faster, offering almost instantaneous relief from nicotine cravings. The other benefit of Nic Salts is that you’ll enjoy a super-smooth, comfortable throat hit despite the higher nicotine concentration. Unreal Desserts are a range of Nic Salt E-liquids that are made in the UK by Unreal e-liquids, a brand renowned for their diverse and creative flavours. With Unreal Desserts, the brand has conjured up the most comforting, classic dessert flavours across intensely satisfying Nic Salts and long-lasting 100ml Shortfill E-liquid bottles.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1134570",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1134557",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1134566",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__unreal-desserts-butterscotch-cream-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/unreal-desserts-butterscotch-cream-10ml-nicotine-salts_1_1_1.jpg?v=1729064221",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__unreal-desserts-butterscotch-cream-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/unreal-desserts-butterscotch-cream-10ml-nicotine-salts.jpg?v=1729064221",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__unreal-desserts-butterscotch-cream-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/unreal-desserts-butterscotch-cream-10ml-nicotine-salts_1.jpg?v=1729064221",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__unreal-desserts-butterscotch-cream-nic-salt-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/unreal-desserts-butterscotch-cream-10ml-nicotine-salts_1_1.jpg?v=1729064221",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.467Z"
+}

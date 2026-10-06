@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639260094788",
+  "slug": "fuse-dual-coil-clearomizer",
+  "title": "Vapouriz Premium FUSE Dual Coil Tank",
+  "url": "https://www.vapestore.co.uk/products/fuse-dual-coil-clearomizer",
+  "brand": "Vapouriz Premium",
+  "productType": "Tanks",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "Our bestselling FUSE Dual Coil Clearomizer is an excellent choice for any vaper, whether you're an experienced user or a newcomer. Compatible with some of our most popular hardware, the dual coil is located at the bottom of the Clearomizer, helping the coil to stay continuously saturated with e-liquid, giving more flavour and guarding against 'burnt' hits.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "FS-DC-CLR",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fuse-dual-coil-clearomizer__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1494324287_8184.jpg?v=1729031828",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.627Z"
+}

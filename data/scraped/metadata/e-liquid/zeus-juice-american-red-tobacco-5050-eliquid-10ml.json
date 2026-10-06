@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639564902724",
+  "slug": "zeus-juice-american-red-tobacco-5050-eliquid-10ml",
+  "title": "Zeus Juice American Red Tobacco 50/50 E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/zeus-juice-american-red-tobacco-5050-eliquid-10ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "American Red from Zeus Juice’s outstanding Tobacco Blends range is an expertly crafted blend of rich American tobacco that is bold, full bodied and supremely satisfying. Enjoy a taste of the Big country with the rich, robust taste of American Red. The 50% VG, 50% PG ratio allows provides an optimal balance of clouds, vapour and sublime flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "ZS-10-TB-ART-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "ZS-10-TB-ART-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "ZS-10-TB-ART-12-50",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "ZS-10-TB-ART-18-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__zeus-juice-american-red-tobacco-5050-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-american-red-tobacco-5050-e-liquid-10ml_1.jpg?v=1729042131",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.456Z"
+}

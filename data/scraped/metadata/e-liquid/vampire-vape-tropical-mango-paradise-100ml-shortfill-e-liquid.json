@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15287634133373",
+  "slug": "vampire-vape-tropical-mango-paradise-100ml-shortfill-e-liquid",
+  "title": "Vampire Vape Tropical Mango Paradise 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-mango-paradise-100ml-shortfill-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Mango Paradise 100ml Shortfill from the Vampire Vape Tropical collection is a bold, flavour-packed e-liquid made for sub-ohm vaping. It blends the smooth sweetness of ripe Mango with the citrus bite of Blood Orange and the tart vibrancy of Pineapple for a bright and uplifting tropical vape. The flavour opens with the mellow depth of Mango, followed by the sharp, juicy zing of Blood Orange. Pineapple adds an extra layer of tangy brightness to complete this tropical trio, delivering a full-bodied fruit flavour that performs well even at higher wattages. This 100ml High-VG Shortfill comes in a 120ml bottle, leaving space for two 10ml nicotine shots if desired. Perfect for direct-to-lung (DTL) vaping with sub-ohm kits and tanks. Vampire Vape’s Tropical collection is all about bold, sunlit flavours with a refreshing twist. Also available in Nic Salt, Freebase, Flavour Concentrate, and 50ml Shortfill options.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Mango"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141169",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-mango-paradise-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_100ml_Koncept_Tropical_Collection_Mango_Paradise.jpg?v=1749457096",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.503Z"
+}

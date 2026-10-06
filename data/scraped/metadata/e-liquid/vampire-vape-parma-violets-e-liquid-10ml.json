@@ -1,0 +1,116 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639773634884",
+  "slug": "vampire-vape-parma-violets-e-liquid-10ml",
+  "title": "Vampire Vape Parma Violets E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-parma-violets-e-liquid-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Parma Violets from Vampire Vape delivers a sugary-sweet delicately floral taste that perfectly captures the essence of the classic Parma Violets sweets. Inspired by the Italian Parma Violet plant, this sweet shop-inspired e-liquid offers a genuinely unique and moreish flavour. With a gentle throat hit at lower strengths, this liquid is ideal for all-day vaping and perfectly caters to those with a penchant for sweetness, while higher strengths offer a more tactile throat hit. This premium e-liquid from Vampire Vape offers an ideal balance of PG and VG, providing delicious flavour, a satisfying throat hit and a discreet amount of vapour. Please Note: That the 3mg nicotine strength contains 50VG/50PG while 0mg, 6mg, 12mg & 18mg nicotine strengths contain 40VG/60PG . They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. 10ml bottles of e-liquid remain one of the most popular and versatile ways to enjoy vaping. Each bottle is capable of filling a 2ml pod or tank five times, which makes them far more sustainable and economic than single-use, disposable vapes. Their affordability makes them ideal for experimenting with and changing flavours on the fly, and their compact form makes 10ml bottles easy to carry alongside your preferred vape device. Vampire Vape are one of the most successful and influential e-liquid brands in the UK. They are renowned for the quality and variety of their e-liquids and for their signature flavours, including game-changing e-liquid icons Heisenberg & Pinkman flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1000155",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1001003",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1000156",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1000157",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1000158",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-parma-violets-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-parma-violet-eliquid-10ml_1_1_1_1_1.jpg?v=1729051183",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-parma-violets-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-parma-violet-eliquid-10ml.jpg?v=1729051183",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-parma-violets-e-liquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-parma-violet-eliquid-10ml_1.jpg?v=1729051183",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-parma-violets-e-liquid-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-parma-violet-eliquid-10ml_1_1.jpg?v=1729051183",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-parma-violets-e-liquid-10ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-parma-violet-eliquid-10ml_1_1_1.jpg?v=1729051183",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-parma-violets-e-liquid-10ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-parma-violet-eliquid-10ml_1_1_1_1.jpg?v=1729051183",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.475Z"
+}

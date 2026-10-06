@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15732634681725",
+  "slug": "fruit-by-supergood-peach-blackberry-raspberry-10ml-nic-salts-e-liquid",
+  "title": "Fruit by Supergood  Peach Blackberry & Raspberry 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/fruit-by-supergood-peach-blackberry-raspberry-10ml-nic-salts-e-liquid",
+  "brand": "Supergood",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Fruit by Supergood Peach, Blackberry and Raspberry is a soft and juicy fruit medley. It combines the delicate, sunny sweetness of ripe Peaches with the darker, woodland notes of Blackberry and the bright tang of Raspberry. This layered blend offers a satisfying depth of flavour that is both sweet and refreshing. With a 50% VG / 50% PG blend, this e-liquid is perfectly balanced for mouth-to-lung (MTL) vaping. It is designed to pair flawlessly with low-wattage pod kits and starter vape kits, producing discreet vapour and exceptional flavour clarity. The nicotine salt formulation ensures a smooth throat hit and rapid satisfaction. The \"Fruit\" collection is the latest innovation from Supergood, a premium UK manufacturer famous for their \"Butter\" and \"Cocktail\" ranges. Moving away from heavy desserts, this range focuses on delivering the most authentic and refreshing fruit profiles imaginable. Fruit by Supergood Nic Salts are available in 5mg, 10mg, and 20mg strengths. This 10ml e-liquid is TPD-compliant and features a childproof cap and tamper-evident seal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1150486",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150466",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1150476",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fruit-by-supergood-peach-blackberry-raspberry-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fruit-By-Supergood---Peach_-Blackberry_-_-Raspberry---10ML.jpg?v=1766054724",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.539Z"
+}

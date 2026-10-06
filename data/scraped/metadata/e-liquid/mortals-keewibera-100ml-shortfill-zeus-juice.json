@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639601045828",
+  "slug": "mortals-keewibera-100ml-shortfill-zeus-juice",
+  "title": "Zeus Juice Mortals - Keewibera 100ml shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/mortals-keewibera-100ml-shortfill-zeus-juice",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Keewibera from Zeus Juice’s Mortals collection is a perfectly balanced blend of rich and sweet strawberries and tangy tropical kiwi for a sumptuous fruit base, all wrapped in a classic, fruity, retro bubblegum. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , mod vapes and sub-ohm tanks .",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "ZS-100-MRT-KB-00-SF",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mortals-keewibera-100ml-shortfill-zeus-juice__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-mortals---keewibera-100ml-shortfill-e-liquid.jpg?v=1729043738",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.620Z"
+}

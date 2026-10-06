@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639766196548",
+  "slug": "vampire-vapes-vlads-loser-eliquid-10ml",
+  "title": "Vampire Vape Vlads VG Loser 10ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vapes-vlads-loser-eliquid-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Loser from Vampire Vape’s Vlads collection is an absolute winner in our opinion and a tantalising treat for the senses that’s bursting with tropical sunshine! Waves of mouth-watering, tangy Pineapple mingle with deliciously fresh, juicy and sweet Mango for a sun-soaked taste of exotic destinations. Vampire Vapes’ new Vlads VG collection assembles some of the most iconic e-liquid flavours to come out of the legendary vape makers labs, and makes them available in high-VG, 10ml bottles. The collection includes such famous flavours as Heisenberg and Pinkman, as well as newer additions like Blue Gun, Loser and Attraction Fatal. Vampire Vapes’ Vlads VG e-liquids contain a 70VG/30PG ratio that makes them ideal for use in vape kits that use sub-ohm coils, as well as being easy to travel with. These kits include advanced vape kits as well as pod kits and refillable pods that use coils with a resistance of 0.8ohm or lower. Their High-VG content provides a deeply flavoursome experience with a smooth, comfortable throat hit and clouds of satisfying vaper! Based in Manchester, England Vampire Vape are one of the most popular and influential e-liquid brands in the UK. The company has won international renown for the quality and variety of their e-liquids, and for their signature flavours including such game-changing e-liquid icons as Heisenberg and Pinkman flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "DTL",
+    "High VG E-Liquid",
+    "Mango",
+    "pricebreak",
+    "VV Vlads"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1001191",
+      "price": 4.99
+    },
+    {
+      "title": "6mg",
+      "sku": "1001192",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vapes-vlads-loser-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vladsvg-loser-10ml_1_1.jpg?v=1729050610",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vapes-vlads-loser-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vladsvg-loser-10ml.jpg?v=1729050610",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vapes-vlads-loser-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vladsvg-loser-10ml_1.jpg?v=1729050610",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.518Z"
+}

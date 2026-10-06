@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639843201348",
+  "slug": "nasty-liq-pink-lemonade-nicsalt-eliquid",
+  "title": "Nasty Liq Pink Lemonade 10ml Nic Salt E-Liquid By Nasty Juice",
+  "url": "https://www.vapestore.co.uk/products/nasty-liq-pink-lemonade-nicsalt-eliquid",
+  "brand": "Nasty Liq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Nasty Liq's Pink Lemonade is where the timeless taste of sparkling lemonade meets a hint of sweet red berries. Imagine the sun's warmth on your face as you sip a cool glass of pink lemonade. The first sensation is a rush of zesty lemon, vibrant, fresh and tangy, which is then softened by a touch of berry sweetness. This is not just any berry note, though; it's a carefully selected balance of berries that complements the lemonade without overshadowing it, creating an e-liquid that's as refreshing as it is satisfying. Each vape is like a lazy summer afternoon in a bottle, with the perfect balance of tart and sweet. The more you vape, the more the subtle complexities of the berry blend reveal themselves, adding depth to the vibrant lemonade base. It's an all-day vape that feels both familiar and exciting, a timeless classic with a modern twist. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. If you enjoy this flavour, there are plenty more delicious Nasty Liq flavours to try. Nasty Juice have fine-tuned their vape juices for optimised performance with the vast majority of MTL (mouth-to-lung) devices. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and many are also available in Nasty Juice’s super-convenient Nasty Bar disposable vape bars.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pink Lemonade",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127941",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127959",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-liq-pink-lemonade-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-pink-lemonade-10ml-nic-salt-eliquid_1_1.jpg?v=1729056053",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-pink-lemonade-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-pink-lemonade-10ml-nic-salt-eliquid.jpg?v=1729056053",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-pink-lemonade-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-pink-lemonade-10ml-nic-salt-eliquid_1.jpg?v=1729056053",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.584Z"
+}

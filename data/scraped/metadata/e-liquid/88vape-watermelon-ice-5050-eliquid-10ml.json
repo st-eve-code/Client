@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639873511748",
+  "slug": "88vape-watermelon-ice-5050-eliquid-10ml",
+  "title": "88Vape Any Tank Watermelon Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/88vape-watermelon-ice-5050-eliquid-10ml",
+  "brand": "88Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.2,
+    "max": 1.2,
+    "currency": "GBP"
+  },
+  "description": "Watermelon Ice from 88Vape’s Anytank series offers a delightful fusion of the summery sweetness of ripe Watermelon and the bracing chill of Menthol. This 10ml e-liquid captures the essence of a sun-drenched afternoon, with the succulent, thirst-quenching qualities of Watermelon taking centre stage. Every inhale is like biting into a freshly sliced piece of Watermelon, bursting with natural sweetness and juiciness. The experience is lifted even further with the addition of Menthol, which brings a punchy, icy coolness to the mix. The Ice not only complements the fresh and fruity Watermelon taste but also adds a layer of crisp refreshment, making each vape a revitalizing experience. Ideal for those hot summer days or when you need a fruity, cooling moment, Watermelon Ice is perfect for vapers looking for a fruity yet refreshing e-liquid. It's a fantastic choice for anyone who loves the combination of natural fruit flavours with a hint of icy menthol. This 50/50 e-liquid from 88Vape offers a perfect balance of PG and VG, providing delicious flavour, smooth throat yet tactile throat hit and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. 88Vape are one of the most popular and bestselling vape brands in the UK. They have helped countless smokers make the switch to the far safer alternative of vaping with the help of delicious e-liquids at wallet-friendly prices.",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1128343",
+      "price": 1.2
+    },
+    {
+      "title": "6mg",
+      "sku": "1128351",
+      "price": 1.2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__88vape-watermelon-ice-5050-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-watermelon-ice-10ml-eliquid_1_1.jpg?v=1729058245",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__88vape-watermelon-ice-5050-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-watermelon-ice-10ml-eliquid.jpg?v=1729058245",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__88vape-watermelon-ice-5050-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-watermelon-ice-10ml-eliquid_1.jpg?v=1729058245",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.450Z"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639873610052",
+  "slug": "88vape-h-blue-5050-eliquid-10ml-6mg",
+  "title": "88Vape Any Tank H-Blue 10ml E-Liquid- 6mg",
+  "url": "https://www.vapestore.co.uk/products/88vape-h-blue-5050-eliquid-10ml-6mg",
+  "brand": "88Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.2,
+    "max": 1.2,
+    "currency": "GBP"
+  },
+  "description": "88Vape's H-Blue from the Anytank series is a whimsical e-liquid that combines the sunny, carefree and nostalgic charm of Bubblegum with a mouth-watering fruity surprise. This 10ml 50/50 e-liquid takes you on a delightful journey, mixing the sweet, familiar taste of juicy Bubblegum with an array of subtle fruit candy undertones, creating a vaping experience that's familiar, comforting and uplifting. As you inhale, the unmistakable Bubblegum flavour emerges, reminiscent of childhood treats and carefree days. This sweet base is then layered with hints of sugary fruits, adding depth and complexity to the flavour profile. Each puff unveils new fruity notes, making every vaping session an endlessly enjoyable flavour experience. This 50/50 e-liquid from 88Vape offers a perfect balance of PG and VG, providing delicious flavour, smooth throat yet tactile throat hit and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. 88Vape are one of the most popular and bestselling vape brands in the UK. They have helped countless smokers make the switch to the far safer alternative of vaping with the help of delicious e-liquids at wallet-friendly prices.",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128346",
+      "price": 1.2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__88vape-h-blue-5050-eliquid-10ml-6mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-h-blue-10ml-eliquid.jpg?v=1729058252",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.463Z"
+}

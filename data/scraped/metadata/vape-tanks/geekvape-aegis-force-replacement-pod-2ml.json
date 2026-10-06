@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "15781328191869",
+  "slug": "geekvape-aegis-force-replacement-pod-2ml",
+  "title": "Geekvape Aegis Force Replacement Pod - 2ml",
+  "url": "https://www.vapestore.co.uk/products/geekvape-aegis-force-replacement-pod-2ml",
+  "brand": "Geekvape",
+  "productType": "Tanks",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "Geek Vape Aegis Force Replacement Pods are designed exclusively for use with the Aegis Force Kit. These robust, refillable cartridges feature a 2ml e-liquid capacity and are built to withstand the heat and pressure of high-wattage vaping. The standout feature of these pods is the top airflow system. By positioning the air intake at the top of the cartridge, Geek Vape has significantly reduced the risk of leakage, a common issue in bottom-airflow standard pods. The airflow is fully adjustable, allowing you to fine-tune the draw resistance to suit your preference. These are \"empty\" pods, meaning they do not contain built-in coils. Instead, they are compatible with the Geek Vape B-Series Coil platform (sold separately). This gives you the freedom to choose from a wide variety of resistance options, from 0.2ohm for cloud chasing to 1.2ohm for discreet mouth-to-lung vaping. The pods feature a secure magnetic connection and a simple top-fill mechanism for hassle-free refills. Please Note: This pod dose not come with coils",
+  "tags": [
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1153063",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-aegis-force-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Force-Cartridge-2-pack.jpg?v=1781185826",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

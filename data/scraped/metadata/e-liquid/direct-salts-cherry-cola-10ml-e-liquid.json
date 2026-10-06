@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15951493267837",
+  "slug": "direct-salts-cherry-cola-10ml-e-liquid",
+  "title": "Direct Salts Cherry Cola 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/direct-salts-cherry-cola-10ml-e-liquid",
+  "brand": "Direct",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Direct Salts Cherry Cola 10ml Nic Salt E-Liquid provides a highly satisfying twist on a traditional soda flavour. This expertly blended recipe leads with the dark, juicy essence of ripe Cherry, delivering a bold fruit inhale. This is seamlessly infused with the syrupy, familiar sweetness of classic Cola, adding a layer of subtle spice to the exhale. The result is a wonderfully nostalgic and familiar vape that captures the essence of a beloved fizzy pop. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Direct Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Direct Salts collection offers vapers a dependable range of premium fruit, ice, and confectionery profiles. Providing a highly cost-effective and flexible option, this 10ml range covers a wide variety of tastes. Beyond the nostalgic warmth of Cherry Cola, vapers can explore other compelling options such as the botanical Spearmint, the vibrant Lemon Lime, or the layered Strawberry Kiwi.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Direct Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1158381",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158397",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__direct-salts-cherry-cola-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Cola-Direct-Salts-10ml-nic-salts-10mg.jpg?v=1783435574",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__direct-salts-cherry-cola-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/cherry-cola-Direct-Salts-10ml-nic-salts-20mg.jpg?v=1783435578",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.346Z"
+}

@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639963361604",
+  "slug": "sadboy-punch-berry-ice-nic-salt-eliquid",
+  "title": "Sadboy Punch Berry Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/sadboy-punch-berry-ice-nic-salt-eliquid",
+  "brand": "Sadboy",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Sadboy's Punch Berry Ice Nic Salt e-liquid combines the delicious flavours of sweet berries with a cooling hint of menthol. This e-liquid delivers a refreshing and fruity vape experience, perfect for those who enjoy the vibrant taste of berries with an icy twist. The blend of various berries and crisp menthol creates a smooth and satisfying flavour, making it an ideal choice for an all-day vape. Sadboy Nic Salt e-liquids are crafted with a 50VG/50PG blend, making them perfect for use with mouth-to-lung (MTL) vape kits and pod devices. Available in 10mg and 20mg nicotine strengths, these e-liquids provide a smooth throat hit and rapid nicotine delivery, making them ideal for adult smokers and vapers seeking effective nicotine relief. They are best used in low-wattage MTL (mouth-to-lung) devices such as Pod Kits and Starter Kits. Sadboy, based in Los Angeles, is dedicated to aiding adult smokers enjoy an alternative to traditional tobacco products by offering an array of appealing fruit and dessert e-liquid flavours. As one of the best-selling e-liquid brands in the U.S., Sadboy's success stems from its commitment to crafting authentic flavours. Now, Sadboy have brought their renowned flavours to the U.K. and EU, ensuring their offerings meet local legal guidelines while catering to consumer preferences. Discover why Sadboy has become a beloved brand among vapers and experience their exceptional range of e-liquids today.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1133184",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1133205",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__sadboy-punch-berry-ice-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sadboy-punch-berry-ice-20mg-ns_1.jpg?v=1729062962",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__sadboy-punch-berry-ice-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sadboy-punch-berry-ice-10mg-ns.jpg?v=1729062962",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__sadboy-punch-berry-ice-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sadboy-punch-berry-ice-20mg-ns.jpg?v=1729062962",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.562Z"
+}

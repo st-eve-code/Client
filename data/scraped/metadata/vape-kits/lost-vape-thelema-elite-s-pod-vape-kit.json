@@ -1,0 +1,124 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15134285496701",
+  "slug": "lost-vape-thelema-elite-s-pod-vape-kit",
+  "title": "Lost Vape Thelema Elite S Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-thelema-elite-s-pod-vape-kit",
+  "brand": "Lost Vape",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 8.49,
+    "max": 8.49,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Thelema Elite S Pod Kit is a compact, high-performance MTL (mouth-to-lung) device built for vapers who value simplicity, style, and control. Powered by a built-in 1400mAh battery, it delivers consistent output and long-lasting performance, with USB-C fast charging ensuring you're ready to go with minimal downtime. Designed with both ease-of-use and versatility in mind, the Elite S features two operating modes. Eco Mode offers a more power-efficient experience with the E Plus Dual Mesh pod’s single mesh coil configuration, while Turbo Mode activates the pod’s dual coil setup to increase vapour output. A simple two-click toggle lets you switch modes on the fly, and draw-activation offers an intuitive alternative to using the firing button. Compatible with Lost Vape’s E Plus pod series, including the 0.6ohm Dual Mesh Pod included, this kit delivers a customisable MTL experience with an adjustable airflow slider to refine each draw just the way you like. The advanced internal E-Core Tech 3.0 coil structure enhances vapour production and flavour accuracy, making it ideal for extracting the maximum flavour from nic salts or 50/50 freebase e-liquids. The Thelema Elite S pairs its exceptional performance with an ergonomic chassis. Its compact form is enhanced by a textured grip panel, available in stylish finishes such as denim or faux leather, depending on the colourway. Comfortable to use, stylish and packed with intuitive features, the Thelema Elite S offers a refined MTL vape experience in a highly portable form – an excellent choice for both newer vapers and those seeking a dependable everyday pod kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1132367",
+    "compatible-with-1132368",
+    "compatible-with-1140594",
+    "compatible-with-1140595",
+    "Exclude",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Twill Denim Blue",
+        "Light Lavender",
+        "Black Carbon",
+        "Pink",
+        "Twill Silver",
+        "Twill Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Twill Denim Blue",
+      "sku": "1140584",
+      "price": 8.49
+    },
+    {
+      "title": "Light Lavender",
+      "sku": "1140585",
+      "price": 8.49
+    },
+    {
+      "title": "Black Carbon",
+      "sku": "1140586",
+      "price": 8.49
+    },
+    {
+      "title": "Pink",
+      "sku": "1140587",
+      "price": 8.49
+    },
+    {
+      "title": "Twill Silver",
+      "sku": "1140588",
+      "price": 8.49
+    },
+    {
+      "title": "Twill Black",
+      "sku": "1140589",
+      "price": 8.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-thelema-elite-s-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-thelema-elite-s-pod-vape-kit-Twill-Denim-Blue.jpg?v=1744027200",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-thelema-elite-s-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-mary-thelema-elite-s-pod-vape-kit.jpg?v=1744029167",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-thelema-elite-s-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-vape-thelema-elite-s-pod-vape-kit-Black-Carbon.jpg?v=1744029351",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-thelema-elite-s-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-vape-thelema-Elite-S-pod-kit-Light-Pink.jpg?v=1744029543",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-thelema-elite-s-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Thelema-elite-s-pod-vape-kit-Twill-Silver.jpg?v=1744029614",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-thelema-elite-s-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-thelema-elite-s-pod-kit-Twill-Black.jpg?v=1744029710",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.082Z"
+}

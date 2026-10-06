@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912374596",
+  "slug": "ske-crystal-gami-rare-nic-salt-e-liquid",
+  "title": "SKE Crystal Gami Rare Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-gami-rare-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Gami Rare flavour from SKE Crystal Nic Salts e-liquid brings the delightful taste of mixed fruit gummy candies to your vape. Each puff is a trip down memory lane with the sweet, chewy flavours of childhood candy favourites, perfectly recreated in vape form. This e-liquid is designed to provide a sweet yet not overpowering candy experience, enhanced with the smoothness of nicotine salts for a satisfying throat hit. It's ideal for vapers who crave sweet, candy-like flavours without the stickiness of actual gummies. The 50VG/50PG blend offers a perfect balance between flavour intensity and vapour production, making it suitable for a variety of MTL vaping devices. Dive into the fun, fruity world of gummy candies with Gami Rare, a must-try for any sweet tooth. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132486",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132513",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-gami-rare-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-gami-rare_1_1.jpg?v=1729060718",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-gami-rare-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-gami-rare.jpg?v=1729060718",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-gami-rare-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-gami-rare_1.jpg?v=1729060718",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.490Z"
+}

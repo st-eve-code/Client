@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639261569348",
+  "slug": "aspire-k3-vape-tank",
+  "title": "Aspire K3 Vape Tank",
+  "url": "https://www.vapestore.co.uk/products/aspire-k3-vape-tank",
+  "brand": "Aspire",
+  "productType": "Tanks",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire K3 Vape Tank is the perfect choice for mouth-to-lung (MTL) vapers seeking simplicity, durability, and exceptional flavour. Designed for convenience and reliability, the K3 Tank features Aspire’s renowned Nautilus BVC coils, known for their long-lasting performance and ability to deliver rich, full-bodied flavour from high-PG. 50/50 and nic salt e-liquids. With a 2ml e-liquid capacity, the K3’s compact Pyrex glass tank resists wear and corrosion, making it ideal for everyday vaping. The replaceable 510 drip tip allows for customisation, while the tank’s pre-set airflow ensures a consistent and satisfying MTL draw without the need for adjustments. The Aspire K3 Tank is compatible with most 510-threaded batteries, offering a seamless connection and effortless usability. Its bottom-fill design simplifies refilling, ensuring clean and efficient operation, even for beginners. Whether you’re looking for a reliable backup tank or an easy-to-use option for everyday use, the Aspire K3 combines practicality with performance in a sleek, compact package.",
+  "tags": [
+    "compatible-with-11717"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1004068",
+      "price": 9.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1004067",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-k3-vape-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/011953_aspire_k3tank_black_001.jpg?v=1729031945",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-k3-vape-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/011953_aspire_k3tank_black_001_3ed1235c-f04e-4ba4-b980-1168a6440a70.jpg?v=1729031945",
+      "position": 2,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-k3-vape-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/011946_aspire_k3tank_silver_001.jpg?v=1729031945",
+      "position": 3,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

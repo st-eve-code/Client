@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900227178877",
+  "slug": "pukka-juice-5000-blue-sour-razz-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Blue Sour Razz 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-blue-sour-razz-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Blue Sour Razz Nic Salt e-liquid delivers a tangy and exhilarating blend of Blue Raspberry with a sharp, sour twist. The sweet and tart balance makes for a vibrant vaping experience that’s ideal for fans of bold, fruity flavours with a sour edge. Designed with a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are crafted for use with Mouth-to-Lung (MTL) vape kits and pod devices. Offering smooth throat hits and rapid nicotine absorption, these e-liquids are an excellent choice for vapers seeking a satisfying and enjoyable alternative to traditional tobacco products. Available in 10mg and 20mg nicotine strengths, this flavour delivers an all-day vape that’s both sweet and sour. Pukka Juice are an award-winning UK vape brand known for their vibrant and exciting e-liquid flavours. The Pukka Juice 5000+ range brings the most popular disposable vape flavours to a more versatile format for use with refillable devices. Be sure to explore other flavours from the collection, including Berry Blast, Lime Twist, and Raspberry Pomegranate.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135526",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135544",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-blue-sour-razz-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Blue-Sour-Razz-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734539464",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.336Z"
+}

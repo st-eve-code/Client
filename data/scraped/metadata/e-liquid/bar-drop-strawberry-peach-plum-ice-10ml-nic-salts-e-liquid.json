@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763445023101",
+  "slug": "bar-drop-strawberry-peach-plum-ice-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Strawberry Peach Plum Ice 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-strawberry-peach-plum-ice-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Strawberry Peach Plum Ice by Drop is a rich harvest blend of three distinct fruits. It combines the brightness of strawberry, the soft sweetness of peach, and the dark, juicy depth of plum. An icy finish brings the trio together, creating a cool and complex fruit medley. The 40% VG / 60% PG ratio is key to this liquid’s performance, allowing the darker plum notes to sit perfectly alongside the lighter peach and strawberry flavours. Designed for MTL (Mouth-to-Lung) pod kits, the nicotine salt formulation provides rapid satisfaction and a smooth draw in 5mg, 10mg, or 20mg strengths. Bar Drop Salts are brought to you by Drop and are manufactured right here in the UK. Drop’s collections focus on fabulously fruity flavours that are achingly authentic and blend familiar favourites with unique profiles.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152634",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152661",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152712",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-strawberry-peach-plum-ice-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/strawberry-peach-plum-ice-Bar-Drop-10ml-Nic-salts.jpg?v=1768237145",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.463Z"
+}

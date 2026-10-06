@@ -1,0 +1,121 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15500188385661",
+  "slug": "vaporesso-gtx-one-pro-mod",
+  "title": "Vaporesso GTX One Pro Mod",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-gtx-one-pro-mod",
+  "brand": "Vaporesso",
+  "productType": "MODS",
+  "price": {
+    "min": 26.99,
+    "max": 26.99,
+    "currency": "GBP"
+  },
+  "description": "The Vaporesso GTX One Pro Mod combines dependable power with a clear, easy interface. A built-in 3000mAh battery delivers 5–40W of adjustable output, managed by the AXON chip for smooth, consistent performance. USB-C 2A charging keeps downtime to a minimum. The 0.87-inch OLED screen is designed for quick checks at a glance, showing seven key indicators: battery level, wattage, resistance, puff counter, mode, lock status and Smart on/off. One-handed control is simple — long-press to fire, three clicks to enter the menu, and five clicks to power on/off. A physical lock button secures your settings when you’re on the move, and a silicone base adds extra grip and protection. Choose between comfortable silicone with unique marbled patterns, or premium PU leather. Colours: Black, Silver, Red, Blue, Pink and Brown. Check out our vape juice and pair it perfectly with this kit.",
+  "tags": [
+    "Box Mods",
+    "Freedojokit",
+    "Freedojopod",
+    "Kit-VS-Export",
+    "Mod-VS",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Red",
+        "Black",
+        "Blue",
+        "Pink",
+        "Silver",
+        "Brown"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Red",
+      "sku": "1144702",
+      "price": 26.99
+    },
+    {
+      "title": "Black",
+      "sku": "1144700",
+      "price": 26.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1144703",
+      "price": 26.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1144704",
+      "price": 26.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1144701",
+      "price": 26.99
+    },
+    {
+      "title": "Brown",
+      "sku": "1144705",
+      "price": 26.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-gtx-one-pro-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-GTX-One-Pro-Mod-red.jpg?v=1756730755",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gtx-one-pro-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-GTX-One-Pro-Mod-Black.jpg?v=1756730755",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gtx-one-pro-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-GTX-One-Pro-Mod-Silver.jpg?v=1756730755",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gtx-one-pro-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-GTX-One-Pro-Mod-Blue.jpg?v=1756730616",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gtx-one-pro-mod__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-GTX-One-Pro-Mod-Pink.jpg?v=1756730663",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gtx-one-pro-mod__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-GTX-One-Pro-Mod-Brown.jpg?v=1756730702",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.095Z"
+}

@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639391232324",
+  "slug": "ohm-brew-e-liquid-blue-slush-nic-salt",
+  "title": "Ohm Brew Blue Slush 50/50 Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ohm-brew-e-liquid-blue-slush-nic-salt",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "An all-time favourite flavour among vapers, there’s no beating a blue slush when it comes to lip-smacking refreshment. Here it’s realised to ultimate perfection by Ohm Brew, with sweet and tangy Raspberries and Blueberries on the inhale and a subtle, icy menthol exhale. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "EV-OB-NS-BS-06-50",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "EV-OB-NS-BS-12-50",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-brew-e-liquid-blue-slush-nic-salt__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/blue-slush-3mg.png?v=1729037787",
+      "position": 1,
+      "width": 675,
+      "height": 675,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.472Z"
+}

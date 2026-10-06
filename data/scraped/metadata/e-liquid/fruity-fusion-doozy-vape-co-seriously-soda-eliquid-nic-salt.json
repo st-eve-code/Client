@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639646986564",
+  "slug": "fruity-fusion-doozy-vape-co-seriously-soda-eliquid-nic-salt",
+  "title": "Doozy Vape Co Seriously Soda Fruity Fusion Nic Salt 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/fruity-fusion-doozy-vape-co-seriously-soda-eliquid-nic-salt",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Fruity Fusion from Doozy Vape co. is an irresistible medley of succulent red, blue and black berries perfectly blended with a rich, sunny tropical passion fruit, with a light soda fizz on the exhale for maximum refreshment This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices . Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Seriously Soda"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1117454",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1117464",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fruity-fusion-doozy-vape-co-seriously-soda-eliquid-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-co-seriously-soda-fruity-fusion-nic-salt-10ml-e-liquid.jpg?v=1729045968",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.615Z"
+}

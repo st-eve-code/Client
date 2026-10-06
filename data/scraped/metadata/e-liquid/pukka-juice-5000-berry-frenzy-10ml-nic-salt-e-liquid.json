@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900208533885",
+  "slug": "pukka-juice-5000-berry-frenzy-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Berry Frenzy 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-berry-frenzy-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Berry Frenzy Nic Salt e-liquid delivers an explosion of juicy berry flavours, blending sweet Blueberries, tangy Raspberries, and the bold taste of Cherries and Cranberries. This well-rounded fusion of berries offers a perfectly balanced fruity vape that is as vibrant as it is satisfying. With a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are ideal for use with Mouth-to-Lung (MTL) vape kits and pod devices, offering smooth throat hits and rapid nicotine relief. Available in 10mg and 20mg nicotine strengths, this e-liquid is perfect for vapers seeking a rich and flavourful vaping experience. Pukka Juice, an award-winning UK brand, is renowned for its creative and flavour-packed e-liquids. The Pukka Juice 5000+ collection brings disposable-style flavours into a versatile e-liquid format, ideal for reusable vape kits. Try other exciting flavours like Blue Razz Gummy, Blackcurrant Menthol, and Pineapple Ice.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135523",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135541",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-berry-frenzy-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Berry-Frenzy-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734538844",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.328Z"
+}

@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639308067140",
+  "slug": "innokin-slipstream-sub-ohm-tank",
+  "title": "Innokin Slipstream Sub-Ohm Tank",
+  "url": "https://www.vapestore.co.uk/products/innokin-slipstream-sub-ohm-tank",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Slipstream tank comes equipped with a push and twist top cap, ensuring safety and peace of mind for the user. The Slipstream’s emphasis on safety does not mean that style has been compromised thanks to its sleek 21mm diameter tank which offers the user a punchy, mid power performance. It also features a top-fill and top-adjustable airflow to reduce the risk of leakage.",
+  "tags": [
+    "compatible-with-619963"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "604273",
+      "price": 14.99
+    },
+    {
+      "title": "Silver",
+      "sku": "discontinued-604280",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-slipstream-sub-ohm-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-slipstream-tank-silver_1.jpg?v=1729033887",
+      "position": 1,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-slipstream-sub-ohm-tank__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/604273_innokin_slipstream_subohm_tank_black_001.png?v=1729033887",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-slipstream-sub-ohm-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-slipstream-tank-silver.jpg?v=1729033887",
+      "position": 3,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.627Z"
+}

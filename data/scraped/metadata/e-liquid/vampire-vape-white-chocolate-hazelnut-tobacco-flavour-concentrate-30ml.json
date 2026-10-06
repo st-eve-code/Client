@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15551396675965",
+  "slug": "vampire-vape-white-chocolate-hazelnut-tobacco-flavour-concentrate-30ml",
+  "title": "Vampire Vape White Chocolate Hazelnut Tobacco Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-white-chocolate-hazelnut-tobacco-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape White Chocolate Hazelnut Tobacco Concentrate delivers a dessert-inspired Tobacco flavour for DIY e-liquid mixing. The Tobacco base provides depth, complemented by the creamy sweetness of White Chocolate and the nutty warmth of Hazelnut. Together, they create a distinctive blend with indulgent character. Supplied in a 30ml bottle, this concentrate must be diluted before use and is intended for experienced mixers who want to craft their own e-liquids. It allows full control over VG/PG ratios and nicotine strength, making it ideal for custom recipes. Vampire Vape concentrates are produced in the UK and trusted for their consistency, offering vapers reliable flavour foundations for DIY mixing.",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143046",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-white-chocolate-hazelnut-tobacco-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco_30ml--Concetrates_flavour_White-Chocolate-Hazlenut-Tobacco.jpg?v=1758534064",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.533Z"
+}

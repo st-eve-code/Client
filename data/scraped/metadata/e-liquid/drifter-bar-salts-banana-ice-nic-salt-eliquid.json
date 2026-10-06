@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639859683652",
+  "slug": "drifter-bar-salts-banana-ice-nic-salt-eliquid",
+  "title": "Drifter Bar Salts Banana Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/drifter-bar-salts-banana-ice-nic-salt-eliquid",
+  "brand": "Drifter",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Banana Ice by Drifter Bar Salts is a delightful blend that pairs the smooth, creamy flavour of ripe Bananas with a refreshing icy undertone. This Nic Salt e-liquid is a perfect choice for vapers seeking a balance of smooth tropical fruit and coolness in their vaping experience, and one not unlike a refreshing fruit smoothie enjoyed at breakfast. Each inhale of Banana Ice offers the comforting and rich taste of Banana, delivering a creamy and satisfying sweetness that feels both indulgent and familiar. This is followed by an invigorating wave of coolness, reminiscent of a chilled Banana smoothie on a warm day. The ice element elevates the Banana flavour, adding a crisp and refreshing dimension that refreshes the palate.. Drifter's Bar Salts e-liquids are the perfect choice for starter vape kits and low-powered pod devices. Unlike regular freebase e-liquids, nicotine salts feature an alkaline formulation that allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids. Nicotine salt e-liquids provide near-instant relief from nicotine cravings because the nicotine is absorbed into the bloodstream faster. This makes them an ideal choice for recent ex-smokers or vapers seeking immediate, satisfying nicotine relief. Drifter's Bar Salts and Bar Juice collections offer mouth-watering e-liquids inspired by the most popular flavours found in disposable vapes. They're just as intensely delicious and satisfying as disposable vape flavours, but with the added benefit of being compatible with your own reusable vape device. This saves you money and reduces waste in the process. Why not try other incredible flavours from Drifter's Bar Salts and Bar Juice collections? From sweet and refreshing Cotton Candy Ice to classics like Cherry and Blue Razz Lemonade, whatever your taste in e-liquid, Drifter E-liquid has an incredible flavour waiting to light up your tastebuds.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Banana Ice",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1128372",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1128377",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__drifter-bar-salts-banana-ice-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-juice-banana-ice-10ml-nic-salt-eliquid_1_1.jpg?v=1729057249",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-banana-ice-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-juice-banana-ice-10ml-nic-salt-eliquid.jpg?v=1729057249",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-banana-ice-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-juice-banana-ice-10ml-nic-salt-eliquid_1.jpg?v=1729057249",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.467Z"
+}

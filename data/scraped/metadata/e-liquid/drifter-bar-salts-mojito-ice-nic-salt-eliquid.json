@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639858078020",
+  "slug": "drifter-bar-salts-mojito-ice-nic-salt-eliquid",
+  "title": "Drifter Bar Salts Mojito Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/drifter-bar-salts-mojito-ice-nic-salt-eliquid",
+  "brand": "Drifter",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Drifter Bar Salts' Mojito Ice is a masterfully crafted e-liquid that encapsulates the refreshing and invigorating flavours of the iconic Mojito cocktail. By combining the zest of fresh limes, the sweetness of sugarcane, and the fragrant aroma of mint, with a menthol blast delivering a vaping experience reminiscent of sipping on a chilled Mojito on a sunny beach. From the first inhale, the zesty lime flavour bursts forth, providing a tangy and vibrant start. This is beautifully balanced with a hint of sweetness, mimicking the sugar cane essence typically found in a Mojito. The mint then weaves its way through the flavour profile, offering a cool and refreshing finish that invigorates the senses. Drifter's Bar Salts e-liquids are the perfect choice for starter vape kits and low-powered pod devices. Unlike regular freebase e-liquids, nicotine salts feature an alkaline formulation that allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids. Nicotine salt e-liquids provide near-instant relief from nicotine cravings because the nicotine is absorbed into the bloodstream faster. This makes them an ideal choice for recent ex-smokers or vapers seeking immediate, satisfying nicotine relief. Drifter's Bar Salts and Bar Juice collections offer mouth-watering e-liquids inspired by the most popular flavours found in disposable vapes. They're just as intensely delicious and satisfying as disposable vape flavours, but with the added benefit of being compatible with your own reusable vape device. This saves you money and reduces waste in the process. Why not try other incredible flavours from Drifter's Bar Salts and Bar Juice collections? From sweet and refreshing Cotton Candy Ice to classics like Cherry and Blue Razz Lemonade, whatever your taste in e-liquid, Drifter E-liquid has an incredible flavour waiting to light up your tastebuds.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138476",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1128370",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1128375",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__drifter-bar-salts-mojito-ice-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-juice-mojito-ice-10ml-nic-salt-eliquid_1_1.jpg?v=1729057234",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-mojito-ice-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-juice-mojito-ice-10ml-nic-salt-eliquid.jpg?v=1729057234",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-mojito-ice-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-juice-mojito-ice-10ml-nic-salt-eliquid_1.jpg?v=1729057234",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.580Z"
+}

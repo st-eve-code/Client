@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003211432317",
+  "slug": "ruthless-glazed-donut-shortfill-100ml-e-liquid",
+  "title": "Ruthless Loaded Glazed Donut Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-glazed-donut-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Glazed Donut by Ruthless is a decadent take on a bakery classic, capturing the warm, doughy richness of a freshly baked donut coated in a layer of glistening sugar glaze. A subtle hint of cinnamon lingers in the background, adding a delicate spiced warmth that rounds out the sweetness without overpowering the flavour. Smooth, buttery, and deeply satisfying, this e-liquid delivers the indulgence of a sweet treat in every inhale. Part of the iconic Ruthless Shortfill range, Glazed Donut is blended with a 70VG/30PG ratio, optimised for thick, satisfying vapour clouds and a well-rounded flavour experience. Perfect for Sub-Ohm vape kits and high-powered devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, offering the flexibility to customise your nicotine strength. Ruthless is one of the longest-standing and most influential names in American e-liquids, known for crafting bold, unforgettable flavours that have defined the industry. Their expertly blended shortfills continue to set the benchmark for vapers seeking high-quality, complex profiles.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138938",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-glazed-donut-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/loaded_uk_100ml_GLAZED_DONUTS.jpg?v=1739290107",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.551Z"
+}

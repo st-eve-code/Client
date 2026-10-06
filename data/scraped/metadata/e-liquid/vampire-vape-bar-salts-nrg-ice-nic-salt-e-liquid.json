@@ -1,0 +1,100 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639718715716",
+  "slug": "vampire-vape-bar-salts-nrg-ice-nic-salt-e-liquid",
+  "title": "Bar Salts NRG Ice 10ml Nic Salt E-Liquid by Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-nrg-ice-nic-salt-e-liquid",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "When your day needs a little pick-me-up, reach for NRG Ice from Vampire Vape’s Bar Salts collection. This delicious flavour is an uncanny imagining of a refreshing energy drink in vape form. NRG Ice delivers a rush of invigorating fruit flavour, just like your favourite bubbly energy drink, but with an uplifting streak of menthol for that full, cold-from-the-fridge sensation. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production, and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. These Vampire Vape nic salt e-liquids are perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts along with a super-smooth throat hit. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. With nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. If you love the delicious flavours found in the most popular disposable vape bars, then you’ll love Vampire Vape’s new Bar Salts collection of 10ml nic-salt e-liquids. Inspired by the tastiest disposable vape bar flavours, the collection includes classics like Watermelon, Grape, and Strawberry Ice, as well as more unique blends such as Kiwi Passionfruit Guava and Pink Lemonade. These 10ml e-liquids can be used in starter kits and pod kits and they allow you to enjoy your favourite flavours for far longer than a 2ml disposable vape device, all while reducing plastic waste. And because they share the same nicotine salt formulation as their disposable cousins, Vampire Vape Bar Salts deliver all the satisfying relief from nicotine cravings along with a super-smooth throat hit for comfortable, effective and enjoyable all-day vaping.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1131401",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1125947",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1118772",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1118775",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-nrg-ice-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-salts-nrg-ice-10ml-nic-salt-e-liquid.jpg?v=1729048417",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-bar-salts-nrg-ice-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-bar-salts-nrg-ice-nicsalt.jpg?v=1729048417",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-bar-salts-nrg-ice-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-bar-salts-nrg-ice-nicsalt_1.jpg?v=1729048417",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-bar-salts-nrg-ice-nic-salt-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-bar-salts-nrg-ice-nicsalt_2.jpg?v=1729048417",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-bar-salts-nrg-ice-nic-salt-e-liquid__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-bar-salts-nrg-ice-nicsalt_2_1.jpg?v=1729048417",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.394Z"
+}

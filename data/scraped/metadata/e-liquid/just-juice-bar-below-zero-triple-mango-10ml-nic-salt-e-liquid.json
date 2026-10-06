@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15535142895997",
+  "slug": "just-juice-bar-below-zero-triple-mango-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Below Zero Triple Mango 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-below-zero-triple-mango-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Triple Mango from the Just Juice Bar Below Zero Range is a burst of tropical sunshine in a premium Nic Salt. A trio of Mango notes delivers layers of juicy sweetness, capturing the lush, sun-ripened flavour of ripe Mango with remarkable depth and clarity. Finished with a soft breeze of icy menthol, this uplifting flavour makes for an endlessly refreshing all-day vape. Crafted with nicotine salts, this e-liquid provides smooth delivery and rapid nicotine absorption, tailored for MTL (mouth-to-lung) vape kits such as pod systems and pens. Available in 5mg, 10mg and 20mg strengths, it caters to a range of preferences. Produced in the UK, Just Juice Bar Below Zero Range Nic Salts use a 60PG/40VG formulation for pronounced flavour and discreet vapour, bringing disposable-inspired flavour profiles into a convenient 10ml refill format. Please Note : All flavours in the Just Juice Bar Below Zero Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg",
+        "0mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1148253",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148263",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148258",
+      "price": 3.95
+    },
+    {
+      "title": "0mg",
+      "sku": "1153438",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-below-zero-triple-mango-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BAR-BELOW-ZERO-TRIPLE-MANGO-Just-Juice-Bar-Below-Zero-10ml.jpg?v=1758022436",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.481Z"
+}

@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14932440777085",
+  "slug": "pure-mist-apple-10ml-e-liquid",
+  "title": "Pure Mist Apple 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pure-mist-apple-10ml-e-liquid",
+  "brand": "Pure Mist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pure Mist Apple delivers the juicy, crisp flavour of freshly picked Apples, perfectly balanced for a smooth and satisfying vape. This refreshing e-liquid offers a light and fruity profile, ideal for vapers who enjoy bright, familiar, natural flavours. As part of the Pure Mist High-PG collection, this e-liquid is available in a variety of VG/PG ratios to suit different preferences. The 3mg nicotine strength is blended with a 50VG/50PG ratio for a balanced vapour and flavour experience, while the 0mg, 6mg, 12mg, and 18mg strengths feature a high-PG 30VG/70PG ratio, delivering a more pronounced flavour with discreet vapour production. Designed for use with Mouth-to-Lung (MTL) devices, including pod kits and starter vape kits, Pure Mist Apple is a versatile option for adult vapers seeking quality and consistency. Crafted with premium ingredients and natural flavourings, Pure Mist e-liquids are made in the UK to ensure a high-quality vaping experience.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "b2b",
+    "High PG E-Liquid",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1094482",
+      "price": 2.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1009209",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1094485",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1094483",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1094484",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pure-mist-apple-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/puremist-10ml-e-liquid-apple.jpg?v=1736434676",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.450Z"
+}

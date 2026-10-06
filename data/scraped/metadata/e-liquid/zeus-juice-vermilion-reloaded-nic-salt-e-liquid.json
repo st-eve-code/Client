@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639902675268",
+  "slug": "zeus-juice-vermilion-reloaded-nic-salt-e-liquid",
+  "title": "Zeus Juice Vermillion Reloaded 50/50 Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/zeus-juice-vermilion-reloaded-nic-salt-e-liquid",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Zeus Juice Vermilion Reloaded Nic Salt e-liquid revitalises the award-winning classic with its irresistible blend of rich, dark red cherries enhanced by the spicy kick of aniseed and wrapped up in a cooling menthol breeze. This deliciously complex combination offers a truly unforgettable vape that ignites your tastebuds with its bold, enigmatic flavours. This e-liquid boasts a 50VG/50PG ratio, striking the ideal balance between rich flavour depth and satisfying cloud production. Formulated with nicotine salts, Vermilion Reloaded ensures a smooth throat hit and rapid nicotine satisfaction, making it a perfect choice for both recent ex-smokers and long-time vapers alike. Its compatibility with classic e-cigarette starter kits and MTL (mouth-to-lung) pod devices enhances its appeal, providing a versatile vaping experience. Produced and bottled in an ISO Class 7 cleanroom, every batch of Zeus Juice Vermilion Reloaded undergoes rigorous testing in a state-of-the-art quality control lab to guarantee the highest standards of safety and quality. Emphasizing environmental responsibility, the bottles and caps are made from recycled plastic, featuring a tamper-evident cap with a drop-down indicator for added security. Experience the intense and soulful blend of sweet cherries, aniseed, and menthol that makes Vermilion Reloaded a must-try flavour for any vaper seeking an electrifying new taste adventure.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1131974",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1131975",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1131976",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__zeus-juice-vermilion-reloaded-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/20mg-vermilion-reloaded-zeus-juice-nicotine-salts-10ml-white_1.jpg?v=1729060207",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__zeus-juice-vermilion-reloaded-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/5mg-vermilion-reloaded-zeus-juice-nicotine-salts-10ml-white.jpg?v=1729060207",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__zeus-juice-vermilion-reloaded-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/10mg-vermilion-reloaded-zeus-juice-nicotine-salts-10ml-white.jpg?v=1729060207",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__zeus-juice-vermilion-reloaded-nic-salt-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/20mg-vermilion-reloaded-zeus-juice-nicotine-salts-10ml-white.jpg?v=1729060207",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.572Z"
+}

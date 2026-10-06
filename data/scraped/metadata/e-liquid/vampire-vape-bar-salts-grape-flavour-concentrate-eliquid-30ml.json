@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639911162180",
+  "slug": "vampire-vape-bar-salts-grape-flavour-concentrate-eliquid-30ml",
+  "title": "Bar Salts Grape Flavour Concentrate 30ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-grape-flavour-concentrate-eliquid-30ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s Bar Salts Grape flavour concentrate offers a robust and deep grape flavour, encapsulated in a 30ml bottle. This 100% PG concentrate allows DIY vapers to mix a custom vape juice that brings the lush, full-bodied taste of ripe grapes to their vaping experience. Suitable for those who prefer a straightforward yet impactful flavour profile, this concentrate is an essential addition to any DIY mixing kit. Mix this concentrate with a VG/PG base of your choice and add nicotine shots as desired to achieve your perfect vape, with recommended dilution rates between 15-20% to suit your taste. Produced in the UK, this high-quality concentrate is designed for optimal flavour accuracy and mixing versatility. Please Note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes.",
+  "tags": [
+    "Flavour Concentrate"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130735",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-grape-flavour-concentrate-eliquid-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_30ml-concentrates_grape.jpg?v=1729060591",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.529Z"
+}

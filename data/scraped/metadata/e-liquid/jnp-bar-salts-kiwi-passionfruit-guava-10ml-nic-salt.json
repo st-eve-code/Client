@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "16019306512765",
+  "slug": "jnp-bar-salts-kiwi-passionfruit-guava-10ml-nic-salt",
+  "title": "Juice N Power Bar Salts Fresh Mint 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/jnp-bar-salts-kiwi-passionfruit-guava-10ml-nic-salt",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Fresh Mint from the JNP Bar Salts collection is crafted for vapers who appreciate absolute purity and straightforward refreshment. This authentic profile focuses entirely on the clean, slightly botanical, and crisp taste of natural Mint leaves. It provides a highly effective palate cleanser, offering a brisk and continuous cooling sensation that is both smooth and deeply revitalising. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid nicotine relief and a smooth, comfortable throat sensation. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. These extra-concentrated e-liquids are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. Formulated by the UK brand Juice N Power, the JNP Bar Salts collection takes inspiration from popular bar-style blends to deliver intense, long-lasting flavour in a versatile 10ml format. Offering a comprehensive range of fruit, soda, and confectionery profiles alongside unique mixes, there is a dependable option for every preference. Beyond the crisp purity of Fresh Mint, vapers can explore other compelling profiles such as the bright Bru Ice or the fruity Watermelon Breeze.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1154898",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1155145",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__jnp-bar-salts-kiwi-passionfruit-guava-10ml-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fresh-Mint-Juice-N-Power-20mg-e-liquid-10ml.jpg?v=1789056502",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.333Z"
+}

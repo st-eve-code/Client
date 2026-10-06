@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639954645316",
+  "slug": "twist-sugar-cookie-nic-salt-eliquid",
+  "title": "Twist Sugar Cookie 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/twist-sugar-cookie-nic-salt-eliquid",
+  "brand": "Twist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Sugar Cookie from Twist E-liquid’s Nic Salt collection captures the rich, buttery taste of classic sugar cookies. This e-liquid provides a warm and comforting flavour profile that is perfect for vapers who enjoy dessert-inspired flavours. The sweet and creamy notes of this e-liquid make it an ideal choice for a smooth and satisfying dessert-inspired vaping experience. Twist Nic Salt e-liquids are expertly crafted with a balanced 50VG/50PG mix, tailored for mouth-to-lung (MTL) vaping devices and pod systems. With nicotine strengths of 10mg and 20mg, these e-liquids provide a smooth throat hit and rapid nicotine delivery, ideally suited for adult smokers and vapers in search of effective nicotine satisfaction. They are optimised for use in low-wattage MTL devices, including Pod Kits and Starter Kits. Hailing from Los Angeles, the award-winning Twist E-Liquid offers a wide selection of fruit, dessert, and tobacco flavours for adult smokers and vapers seeking an alternative to traditional tobacco products. Known for their authentic flavour profiles, Twist E-Liquid has become a leading brand in the United States. Authorized for sale by the U.S. Food & Drug Administration, Twist have now expanded to the UK and EU, continuing to bring their celebrated flavours to these regions while meeting local regulations and consumer preferences.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1133078",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1133095",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__twist-sugar-cookie-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/twist-sugar-cookie-20mg-ns_1.jpg?v=1729062609",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__twist-sugar-cookie-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/twist-sugar-cookie-10mg-ns.jpg?v=1729062609",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__twist-sugar-cookie-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/twist-sugar-cookie-20mg-ns.jpg?v=1729062609",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.565Z"
+}

@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763249987965",
+  "slug": "bar-drop-cherry-peach-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Cherry Peach 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-cherry-peach-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Cherry Peach by Drop combines two stone fruit favourites into one cohesive blend. The bold, slightly tart taste of dark cherries leads the profile, offering a rich and juicy inhale. This is softened by the delicate, velvety sweetness of ripe peach on the exhale, creating a smooth and balanced fruit vape. The 40% VG / 60% PG ratio is key to this liquid’s performance, allowing the delicate peach notes to shine through the bolder cherry flavour without being lost. Designed for MTL (Mouth-to-Lung) pod kits, the nicotine salt formulation provides rapid satisfaction and a smooth draw in 5mg, 10mg, or 20mg strengths. Bar Drop Salts are brought to you by Drop and are manufactured right here in the UK. Drop’s collections focus on fabulously fruity flavours that are achingly authentic and blend familiar favourites with unique profiles.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152612",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152649",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152691",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-cherry-peach-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/cherry-peach-Bar-Drop-10ml-Nic-salts.jpg?v=1784540814",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.476Z"
+}

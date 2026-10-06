@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14876998304125",
+  "slug": "vampire-vape-purple-craze-flavour-concentrate-30ml",
+  "title": "Vampire Vape Purple Craze Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-purple-craze-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s Purple Craze Flavour Concentrate allows DIY e-liquid enthusiasts to craft their own bespoke vape juice, combining the best elements of two legendary flavours, Heisenberg and Pinkman. This expertly balanced concentrate blends a medley of mixed Fruits and Berries with a gentle hint of Menthol and spicy Aniseed, offering a truly unique flavour profile. The sweet, tangy notes of Pinkman’s red berries and fruits are perfectly enhanced by the cool, complex undertones that Heisenberg fans know and love, making this a versatile and highly customisable concentrate. This 30ml concentrate is perfect for DIY mixers who enjoy experimenting with flavour combinations to create their ideal e-liquid. Whether you’re a novice or an experienced mixer, Vampire Vape’s premium concentrates offer the ideal foundation for your DIY e-liquid journey. Simply add this 100% PG-based concentrate to your preferred VG/PG mix to create your custom vape juice. The recommended dilution rates are between 15-20%, depending on your flavour strength preferences. Produced in the UK to the highest quality standards, Vampire Vape concentrates are known for their rich, authentic flavours. Explore the wider range of Vampire Vape flavour concentrates, including fan-favourites like Heisenberg and Pinkman, for even more DIY mixing possibilities. Please Note: This flavour concentrate is for mixing your own e-liquid and is not suitable for direct vaping or commercial use.",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Purple Craze"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1131870",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-purple-craze-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/VV_UK_30ml-Concentrates_PurpleCraze.jpg?v=1733240055",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.523Z"
+}

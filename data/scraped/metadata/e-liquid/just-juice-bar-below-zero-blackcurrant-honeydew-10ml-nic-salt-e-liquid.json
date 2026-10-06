@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15535121432957",
+  "slug": "just-juice-bar-below-zero-blackcurrant-honeydew-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Below Zero Blackcurrant Honeydew 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-below-zero-blackcurrant-honeydew-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blackcurrant Honeydew from the Just Juice Bar Below Zero Range brings together two contrasting fruit notes in a smooth Nic Salt blend. Dark, tangy Blackcurrant delivers a delightfully sweet sharpness and depth, balanced by the light, mellow freshness of Honeydew Melon for a complex, balanced fruit vape rounded off with a cool, crisp exhale. Formulated with nicotine salts, this e-liquid delivers fast-acting satisfaction with a comfortable throat feel, ideal for MTL (mouth-to-lung) vaping in pod kits and vape pens. Available in 5mg, 10mg and 20mg strengths, it offers a versatile option to suit different preferences. Made in the UK, Just Juice Bar Below Zero Range Nic Salts are blended at 60PG/40VG to provide clear flavour with subtle vapour, capturing the sweet-chilled profiles popular in disposable-style blends, now available in a refillable 10ml format. Please Note : All flavours in the Just Juice Bar Below Zero Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1153437",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1148252",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148262",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148257",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-below-zero-blackcurrant-honeydew-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BAR-BELOW-ZERO-BLACKCURRANT-HONEYDEW-Just-Juice-Bar-Below-Zero-10ml.jpg?v=1758021894",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.469Z"
+}

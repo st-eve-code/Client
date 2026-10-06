@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639410401604",
+  "slug": "big-drip-e-liquids-lemon-cake-100ml",
+  "title": "Doozy Vape Co Big Drip Lemon Cake Shortfill E-Liquid 100ml",
+  "url": "https://www.vapestore.co.uk/products/big-drip-e-liquids-lemon-cake-100ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Lemon Cake shortfill e-liquid by Big Drip is a delicious blend that captures all the comfort of a light sponge cake, filled with lemon curd and sharp, zesty lemon icing. This convenient 100ml shortfill bottle really helps your favourite e-liquid go the distance and comes with 25ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70VG/30PG ratio makes it ideal for high-powered pod kits , mods and sub-ohm tanks .",
+  "tags": [
+    "100ml shortfill",
+    "2 for £15",
+    "70/30 Shortfill",
+    "Big Drip",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DZ-BD-100-LC-00-VG",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__big-drip-e-liquids-lemon-cake-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/big-drip-50ml-lemon-cake.jpg?v=1729038582",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.634Z"
+}

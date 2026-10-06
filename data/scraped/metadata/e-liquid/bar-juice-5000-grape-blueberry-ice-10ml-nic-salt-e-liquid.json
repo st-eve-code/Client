@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15681773273469",
+  "slug": "bar-juice-5000-grape-blueberry-ice-10ml-nic-salt-e-liquid",
+  "title": "Bar Juice 5000 Grape Blueberry Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-juice-5000-grape-blueberry-ice-10ml-nic-salt-e-liquid",
+  "brand": "Bar Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Grape Blueberry Ice from Bar Juice 5000 blends two bold fruit notes for a smooth, chilled vape. Dark Grape delivers its signature deep sweetness, while ripe Blueberry adds a soft, jammy layer for extra richness. The combination is lifted by an icy finish, bringing brightness and freshness to each exhale. Crafted with nicotine salts, this mix offers fast-acting satisfaction with a smooth, comfortable throat feel, making it ideal for MTL (mouth-to-lung) vape kits including pod systems and pens. Available in 5mg, 10mg and 20mg strengths, it suits a wide range of users. Produced in the UK and blended at 50PG/50VG, Bar Juice 5000 Nic Salts are made for high-impact flavour with subtle vapour, capturing the sweet-chilled profiles this range is known for. Works perfectly in refillable pod vape kit and vape starter kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149956",
+      "price": 3.49
+    },
+    {
+      "title": "10mg",
+      "sku": "1149961",
+      "price": 3.49
+    },
+    {
+      "title": "20mg",
+      "sku": "1149966",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-juice-5000-grape-blueberry-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grape-Blueberry-Ice-5mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763639786",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-juice-5000-grape-blueberry-ice-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grape-Blueberry-Ice-10mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763639818",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-juice-5000-grape-blueberry-ice-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grape-Blueberry-Ice-20mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763639852",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.348Z"
+}

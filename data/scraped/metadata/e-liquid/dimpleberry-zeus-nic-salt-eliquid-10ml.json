@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639431012676",
+  "slug": "dimpleberry-zeus-nic-salt-eliquid-10ml",
+  "title": "Zeus Juice Dimpleberry 50/50 Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/dimpleberry-zeus-nic-salt-eliquid-10ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dimpleberry by Zeus is an expertly balanced blend of juicy berries with a soothing botanical note from eucalyptus. That delicious sensation is capped with an invigorating dash of cool menthol on the exhale for a supremely satisfying all-day vape. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "ZS-ZS-10-DB-50-05-NS",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "ZS-ZS-10-DB-50-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "ZS-ZS-10-DB-50-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dimpleberry-zeus-nic-salt-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/5mg-dimpleberry-zeus-juice-nicotine-salts-10ml-white.jpg?v=1729039421",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.453Z"
+}

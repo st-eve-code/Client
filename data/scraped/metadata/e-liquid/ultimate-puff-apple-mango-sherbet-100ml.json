@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639448248644",
+  "slug": "ultimate-puff-apple-mango-sherbet-100ml",
+  "title": "Ultimate Puff Apple & Mango Sherbet Shortfill 0mg 100ml",
+  "url": "https://www.vapestore.co.uk/products/ultimate-puff-apple-mango-sherbet-100ml",
+  "brand": "Ultimate",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "The juiciest apples meet the freshest, sweetest mangoes for a sunny fruit vape finished to perfection with a dash of fizzy sherbet. These shortfill bottles contain 100ml of nicotine-free liquid, with 20ml of extra space within the bottle to accommodate your nicotine shot of choice. This allows you to create a liquid with your own desired nicotine strength. Typically, adding 2 x 10ml nicotine shots to a 100ml shortfill will give you 120ml of 3mg e-liquid. Once you have added your preferred amount of nicotine, make sure to shake the contents of the short fill bottle well.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Mango"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "UJ-UP-100-SH-AM-00-SF",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ultimate-puff-apple-mango-sherbet-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate_puff_sherbet_apple_mango.jpg?v=1729040117",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.349Z"
+}

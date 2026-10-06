@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003383791997",
+  "slug": "ruthless-coffee-tobacco-shortfill-100ml-e-liquid",
+  "title": "Ruthless Coffee Tobacco Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-coffee-tobacco-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Coffee Tobacco by Ruthless brings together two timeless flavours in a perfectly balanced blend. The deep, roasted intensity of freshly brewed Coffee meets the rich, earthy warmth of hand-rolled Tobacco, creating a bold and satisfying vape with a refined, aromatic finish. This combination is ideal for those who enjoy complex, full-bodied flavours that unfold with every inhale. One of many incredible flavours found in the celebrated Ruthless Shortfill collection, Coffee Tobacco features a 70VG/30PG ratio for dense vapour production and a smooth inhale. Designed for Sub-Ohm vape kits and advanced DTL (direct-to-lung) devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, allowing for a customisable nicotine strength. Ruthless has been shaping the e-liquid industry for over a decade, creating bold, flavourful blends that continue to stand the test of time. Their commitment to premium ingredients and expert craftsmanship ensures a top-tier vaping experience in every bottle.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138934",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-coffee-tobacco-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ruthless-100ml-shortfill-COFFEE-TOBACCO.jpg?v=1739198762",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.551Z"
+}

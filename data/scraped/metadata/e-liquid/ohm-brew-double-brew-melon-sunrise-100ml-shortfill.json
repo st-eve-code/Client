@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15874230124925",
+  "slug": "ohm-brew-double-brew-melon-sunrise-100ml-shortfill",
+  "title": "Ohm Brew Double Brew Melon Sunrise 100ml Shortfill",
+  "url": "https://www.vapestore.co.uk/products/ohm-brew-double-brew-melon-sunrise-100ml-shortfill",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "Ohm Brew Double Brew Melon Sunrise captures the bright, refreshing essence of morning fruit. The profile pairs the honeyed, floral sweetness of Honeydew Melon with the lush, soft notes of Cantaloupe Melon. The result is a deeply fruity and beautifully balanced blend that provides a vivid and satisfying taste experience. Unlike traditional high-VG shortfill e-liquids, this blend features a balanced 50% VG / 50% PG ratio. This highly versatile formulation means it performs flawlessly in Mouth-to-Lung (MTL) refillable pod kits and pen-style devices, as well as Sub-Ohm setups at lower wattages (16-22W). The Double Brew range is richly formulated with nearly twice the standard flavour concentrate, ensuring an incredibly intense and vivid taste regardless of your chosen device. Supplied in a 120ml bottle containing 100ml of 0mg nicotine e-liquid, there is space to add two 10ml nicotine shots. Adding two 18mg nic shots will create 120ml of 3mg e-liquid. Crafted in Belfast, UK, Ohm Brew guarantees premium quality and highly authentic flavour profiles that run the gamut from timeless classics to innovative new flavours found nowhere else.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "Mango",
+    "MTL",
+    "Ohm Brew Double Brew"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1153388",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-brew-double-brew-melon-sunrise-100ml-shortfill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Melon-Sunrise-Double-Brew-Bar-Series--Shortfill-100ml.jpg?v=1777368257",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.538Z"
+}

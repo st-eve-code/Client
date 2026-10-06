@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639825015108",
+  "slug": "double-brew-grape-ice-shortfill-eliquid-100ml",
+  "title": "Ohm Brew Double Brew Grape Ice 100ml Shortfill",
+  "url": "https://www.vapestore.co.uk/products/double-brew-grape-ice-shortfill-eliquid-100ml",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "Grape Ice from Double Brew is a vibrant and refreshing e-liquid that intertwines the naturally sweet and tart taste of plump, juicy Grapes with a frosty menthol exhale. This icy fruit fusion creates a delightful blend that cools your senses while satisfying your cravings for something fruity and sweet. Double Brew is a brand new range of long-lasting 50PG/50VG 100ml shortfills from Ohm Brew. This convenient 100ml shortfill bottle ensures your favourite e-liquid flavour truly goes the distance and provides 20ml of free space for the addition of a nicotine shot or two to tailor your vape’s nicotine content to your exact preference. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. Unlike most shortfills, Double Brew offers their e-liquid in a 50VG/50PG ratio which makes it ideal for use in a vast array of vape kits and tanks, especially starter kits and low-powered pod kits. That 50/50 formula provides a perfect balance of flavour, vapour production and a smooth yet tactile throat hit. Since the liquid is thinner than most High-VG e-liquids, Double Brew Juice 50/50 shortfills are not suitable for high-powered, sub-ohm vape kits. Shortfill e-liquids are ideal for vapers who know what flavours and e-liquid brands they love and who always want a ready supply on hand. They offer a practical way to save money on your favourite e-liquids by reducing the need to frequently buy smaller quantities.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "MTL",
+    "Ohm Brew Double Brew"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1126728",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-brew-grape-ice-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-brew-bar-series-grape-ice-100ml-50-50-shortfill.jpg?v=1729054783",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.587Z"
+}

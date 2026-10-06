@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639403159876",
+  "slug": "ice-menthol-nic-salt-e-liquid-by-vampire-vape",
+  "title": "Vampire Vape Ice Menthol Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ice-menthol-nic-salt-e-liquid-by-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ice Menthol represents Vampire Vape’s ultimate menthol creation, delivering a bold, punchy dose of satisfying menthol that’s clean, crisp, minty and endlessly refreshing. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "VV-NS-10-IM-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "VV-NS-10-IM-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ice-menthol-nic-salt-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-ice-menthol-nic-salt-e-liquid_1.jpg?v=1729038292",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.358Z"
+}

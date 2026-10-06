@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639895531844",
+  "slug": "vampire-vape-pinkman-apple-nic-salt-e-liquid",
+  "title": "Vampire Vape Pinkman Apple 10ml Nic salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-pinkman-apple-nic-salt-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman Apple Nic Salt E-Liquid brings a crisp orchard twist to the legendary Pinkman profile. This blend starts with the iconic Pinkman base of sweet Red Berries (featuring prominent Strawberry and Raspberry notes with subtle zesty Citrus hints) and layers in the sharp, refreshing taste of Green Apple. The addition of Green Apple adds a clean, tangy dimension to the mix, cutting through the sweeter berry foundation while enhancing the overall fruit profile. It creates a balanced vape that offers a sweet inhale with a crisp, palate-cleansing finish. Formulated as a Nicotine Salt, this 10ml e-liquid delivers a smooth throat hit and rapid nicotine satisfaction, mirroring the sensation of smoking more closely than standard freebase nicotine. With a balanced 50VG/50PG ratio, it is perfectly optimised for use in low-powered starter kits and pod vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020",
+    "VV Pinkman"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127052",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127056",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-pinkman-apple-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-apple-20mg_1.jpg?v=1729059657",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-pinkman-apple-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-apple-nic-salt-10mg.jpg?v=1729059657",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-pinkman-apple-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-apple-20mg.jpg?v=1729059657",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.356Z"
+}

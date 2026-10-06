@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639252361540",
+  "slug": "aspire-nautilus-x-replacement-atomizer-1-5ohm",
+  "title": "Aspire Nautilus X Replacement Atomizer",
+  "url": "https://www.vapestore.co.uk/products/aspire-nautilus-x-replacement-atomizer-1-5ohm",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Nautilus X Replacement Atomizers come in a pack of 5 individually sealed coils and are designed specifically for mouth-to-lung vaping. They are able to extract sensational flavour from your e-liquid, at all wattage settings. Please note: These coils can only be used with the Nautilus X Tank and adaptor kit.",
+  "tags": [
+    "compatible-with-AS-KT-RV-2-KT-RB",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "1.5ohm",
+        "1.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5ohm",
+      "sku": "1001795",
+      "price": 10.99
+    },
+    {
+      "title": "1.8ohm",
+      "sku": "AS-CO-NA-UT-XP-1.8",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nautilus-x-replacement-atomizer-1-5ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/011991_aspire_nautilusx_replacement_atomizer_001.jpg?v=1729031518",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-x-replacement-atomizer-1-5ohm__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/011991_aspire_nautilusx_replacement_atomizer_001_1.jpg?v=1729031518",
+      "position": 2,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-x-replacement-atomizer-1-5ohm__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/011991_aspire_nautilusx_replacement_atomizer_001_1_1.jpg?v=1729031518",
+      "position": 3,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.871Z"
+}

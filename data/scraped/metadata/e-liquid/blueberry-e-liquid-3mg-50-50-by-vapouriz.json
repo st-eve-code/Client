@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639322026308",
+  "slug": "blueberry-e-liquid-3mg-50-50-by-vapouriz",
+  "title": "Vapouriz 50/50 Blueberry 10ml",
+  "url": "https://www.vapestore.co.uk/products/blueberry-e-liquid-3mg-50-50-by-vapouriz",
+  "brand": "Vapouriz 50/50",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Sweet and tangy with a subtle sour note, Vapouriz 50/50 Blueberry is a classic flavour that never falls out of favour. A fruit classic realised to perfection, this exquisite e-liquid delivers that unmistakably rich and deep blueberry flavour without being overly sweet and cloying. Vapouriz E-Liquids are expertly-crafted by Vapouriz Labs UK to deliver intense flavour and stunning vapour production for your e-cigarette setup. Browse the full Vapouriz 50/50 E-Liquid collection and pick up the perfect pairing for any Vape Kit , Starter Vape Kits or Compact Pod Vape Kit . We’ve got a selection of formulations to suit all styles of e-cigarette devices, including High-PG blends for classic vaping as well as Vapouriz Nicotine Salts and adaptable 50:50 Vape Juice options. What Is 50/50 E Liquid? 50/50 e-liquid is called so because it contains a 50% Vegetable Glycerine, 50% Propylene Glycol ratio, which allows for an extremely versatile vaping experience. These liquids can be used in Starter Vape Kits, High powered Sub Ohm Kits and Pod Vape Kits. For more information, Check out the full 50/50 vape juice guide",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1104887",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1104886",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1104885",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__blueberry-e-liquid-3mg-50-50-by-vapouriz__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz--50-50-e-liquid-blueberry-10ml.jpg?v=1729034469",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.376Z"
+}

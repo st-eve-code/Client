@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15101708566909",
+  "slug": "yeti-summit-series-cola-ice-10ml-nic-salt-e-liquid",
+  "title": "Yeti Summit Series Cola Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/yeti-summit-series-cola-ice-10ml-nic-salt-e-liquid",
+  "brand": "Yeti",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Yeti Summit Cola Ice captures the unmistakable taste of classic cola, offering a sweet, effervescent vape with a crisp menthol twist. Smooth and familiar, the cola flavour delivers a satisfying balance of sweetness and subtle tang, while the cooling layer keeps each puff feeling clean and refreshing. Blended with nicotine salts for swift absorption and a smooth, comfortable throat hit, this e-liquid is perfect for use with starter kits and low-powered MTL (mouth-to-lung) pod devices. Its 50VG/50PG ratio ensures consistent flavour delivery with discreet vapour and easy all-day vaping. The Yeti Summit Series features a collection of double-concentrated nic salts crafted for flavour intensity and icy freshness. Available in 5mg, 10mg and 20mg strengths, each 10ml bottle offers a longer-lasting, more cost-effective alternative to disposable vapes.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1140513",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1140508",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140518",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__yeti-summit-series-cola-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Yeti-summit-series-10ml-nic-salt-Cole-Ice.jpg?v=1742981728",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.454Z"
+}

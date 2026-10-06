@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763439714685",
+  "slug": "bar-drop-strawberry-coconut-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Strawberry Coconut 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-strawberry-coconut-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Strawberry Coconut by Drop is a creamy fruit fusion with a tropical twist. It combines the familiar, sweet taste of ripe strawberries with the smooth, exotic flavour of coconut. The result is a rich and velvety vape that feels indulgent and summery. This e-liquid utilises a 40% VG / 60% PG ratio to enhance the fruit notes, ensuring the strawberry remains bright against the creamy coconut backdrop. Ideally suited for low-wattage MTL (Mouth-to-Lung) devices, the nicotine salt base ensures a smooth and comfortable draw, available in 5mg, 10mg, and 20mg strengths. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152632",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152678",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152710",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-strawberry-coconut-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Coconut-Bar-Drop-10ml-Nic-salts.jpg?v=1768295038",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.342Z"
+}

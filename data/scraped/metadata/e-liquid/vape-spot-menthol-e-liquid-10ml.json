@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15889037328765",
+  "slug": "vape-spot-menthol-e-liquid-10ml",
+  "title": "Vape Spot Menthol E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vape-spot-menthol-e-liquid-10ml",
+  "brand": "Vape Spot",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.5,
+    "max": 1.5,
+    "currency": "GBP"
+  },
+  "description": "VapeSpot Menthol delivers a strong and clean profile that focuses entirely on pure, frosty refreshment. The inhale provides a powerful, icy Menthol hit, offering a sharp and vibrant flavour foundation. This is followed by a thoroughly crisp exhale, resulting in a beautifully balanced and highly satisfying vape that is perfect for all-day use. Formulated with a balanced 50% VG / 50% PG ratio, this freebase e-liquid provides excellent versatility. It performs flawlessly in both Mouth-to-Lung (MTL) and Restricted Direct-to-Lung (RDL) devices, pairing perfectly with coils ranging from 0.6ohm to 1.8ohm. The freebase nicotine formulation ensures a more noticeable, traditional throat hit compared to nic salts, providing a reliable and familiar sensation. Manufactured in the UK, VapeSpot e-liquids are crafted to provide premium quality and authentic taste in a budget-friendly format. Available in 6mg and 12mg strengths, this collection offers a straightforward, accessible, and consistently flavoursome vaping experience.",
+  "tags": [
+    "b2b287",
+    "BRANDS",
+    "Default Category",
+    "E Liquid",
+    "E Liquid Deals",
+    "MTL/RDL",
+    "Outlet",
+    "Vape Deals",
+    "Vape Spot",
+    "Vape Spot 10ml Multibuy",
+    "Vapespot 10ml Deals",
+    "Vapestore Categories",
+    "£1.50 E-Liquids/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "1139672",
+      "price": 1.5
+    },
+    {
+      "title": "12mg",
+      "sku": "1139684",
+      "price": 1.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vape-spot-menthol-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vape-Spot-Menthol-6mg-10ml-e-liquid.jpg?v=1778602508",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vape-spot-menthol-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vape-Spot-Menthol-12mg-10ml-e-liquid.jpg?v=1778602687",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.408Z"
+}

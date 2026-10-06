@@ -1,0 +1,127 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15294860329341",
+  "slug": "oxva-xlim-pro-2-dna-pod-vape-kit",
+  "title": "Oxva Xlim Pro 2 DNA Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/oxva-xlim-pro-2-dna-pod-vape-kit",
+  "brand": "Oxva",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 28.99,
+    "max": 28.99,
+    "currency": "GBP"
+  },
+  "description": "The remarkable OXVA Xlim Pro 2 DNA Pod Vape Kit brings high-end customisation and exceptional flavour control to a compact pod system, powered by Evolv’s advanced DNA chipset. With up to 30W output, an upgraded 1300mAh battery and a slim, durable carbon fibre body, it’s built for smooth, consistent MTL (mouth-to-lung) and RDL (restricted direct-lung) vaping. The integrated 0.56” HD colour screen offers real-time vape data and intuitive control, while two activation modes—auto draw and button-fire—allow flexible use. Unique to the DNA version, Replay Mode captures your ideal puff and replicates it consistently, supported by smart temperature regulation that prevents dry hits and flavour fade. Through USB-C PC connectivity, users can access Evolv’s Escribe software to create custom power curves and fine-tune their vape to the smallest detail. Each kit comes with two Stainless Steel Top Fill Pods (0.6ohm and 0.8ohm), specially designed for use with OXVA DNA devices and nic salt and 50/50 freebase e-liquids , featuring anti-burn technology and long-lasting mesh coils. The device is compatible with the full Xlim pod range, but only SS pods support Replay and temperature control. With ergonomic airflow adjustment and fast USB-C charging, the Xlim Pro 2 DNA delivers pro-level features in an everyday pod format. Please note: When filling your pod with vape juice for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1123388",
+    "compatible-with-1123390",
+    "compatible-with-1123391",
+    "compatible-with-1127259",
+    "Free 3 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Nebula Grey",
+        "Luminous Carbon Fiber",
+        "Frost Titanium Blue",
+        "Silk White",
+        "Silk Brown"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Nebula Grey",
+      "sku": "1142402",
+      "price": 28.99
+    },
+    {
+      "title": "Luminous Carbon Fiber",
+      "sku": "1142403",
+      "price": 28.99
+    },
+    {
+      "title": "Frost Titanium Blue",
+      "sku": "1142404",
+      "price": 28.99
+    },
+    {
+      "title": "Silk White",
+      "sku": "1142405",
+      "price": 28.99
+    },
+    {
+      "title": "Silk Brown",
+      "sku": "1142406",
+      "price": 28.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-xlim-pro-2-dna-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Nebula-Gray-Oxva-Xlim-pro-2-DNA.jpg?v=1749733999",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-pro-2-dna-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Luminous-daylight-State-Forged-Carbon-Fiber-Oxva-Xlim-pro-2-DNA.jpg?v=1749735812",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-pro-2-dna-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Luminous-state-Forged-Carbon-Fiber-Oxva-Xlim-pro-2-DNA.jpg?v=1749735812",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-pro-2-dna-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Frost-Titanium-Blue-Oxva-Xlim-pro-2-DNA.jpg?v=1749735810",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-pro-2-dna-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Silk-White-Oxva-Xlim-pro-2-DNA.jpg?v=1749735810",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-pro-2-dna-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Silk-Brown-Oxva-Xlim-pro-2-DNA.jpg?v=1749735810",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-pro-2-dna-pod-vape-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Oxva-Xlim-pro-2-DNA-group.jpg?v=1749735789",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.088Z"
+}

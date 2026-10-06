@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15575202595197",
+  "slug": "ivg-intense-salts-blue-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Blue 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-blue-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Blue centres on the bold taste of ripe Blueberries, blending sweet and slightly tart notes for a rounded berry experience. It delivers a flavour that’s juicy, full-bodied, and satisfying from the first puff. With a 50VG/50PG ratio, Blue offers clear flavour and a tactile yet comfortable throat hit. Available in 10mg and 20mg Nic Salt strengths, it’s best enjoyed in mouth-to-lung (MTL) devices such as pod kits, vape pens and starter systems. Part of the IVG Intense Salts range, this e-liquid showcases IVG’s expertise in creating flavours that are both vibrant and consistent, making Blue a solid choice for those who enjoy berry-inspired profiles.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148454",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148486",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-blue-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Blue-min.jpg?v=1759308816",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

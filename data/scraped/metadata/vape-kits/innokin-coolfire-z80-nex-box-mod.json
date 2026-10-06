@@ -1,0 +1,119 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15134125064573",
+  "slug": "innokin-coolfire-z80-nex-box-mod",
+  "title": "Innokin Coolfire Z80 Nex Box Mod",
+  "url": "https://www.vapestore.co.uk/products/innokin-coolfire-z80-nex-box-mod",
+  "brand": "Innokin",
+  "productType": "MODS",
+  "price": {
+    "min": 32.99,
+    "max": 32.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Coolfire Z80 Nex Mod is a compact and versatile vape mod designed for sub-ohm and RDL vapers who value precision control and dependable performance. Powered by a single 18650 battery (sold separately), the device delivers up to 80W of adjustable output and is packed with practical features that make everyday vaping both intuitive and enjoyable. Its durable zinc alloy body is paired with a textured leather-style grip for a comfortable, secure hold, while the simplified 0.96” TFT screen ensures easy visibility of wattage, resistance, and battery life. A manual slide-lock switch lets you safely disable the fire button while in transit, and USB-C 2A charging ensures quick and efficient recharging. The Coolfire Z80 Nex is equipped with a smart internal chipset that provides stable power output even at low battery levels, helping to maintain consistent vapour production and flavour performance throughout the charge. Multiple built-in safety protections support reliable day-to-day use. Compatible with any 510-threaded tank, this mod is an ideal pairing for Innokin’s own Zenith series tanks, particularly the Zenith M, as well as any sub-ohm or RDL tank that suits your preferred coil resistance and wattage range. With its clear display, simple controls, and sleek form factor, the Coolfire Z80 Nex Mod is a smart choice for vapers who want flexible, fuss-free performance in a compact and stylish package. Please Note: Batteries are NOT included with this mod.",
+  "tags": [
+    "Box Mods",
+    "DTL/RDL/MTL",
+    "Kit-VS-Export",
+    "Mod-VS"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Gradient Blue",
+        "Silver",
+        "Gunmetal",
+        "Turquoise",
+        "Purple"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1140532",
+      "price": 32.99
+    },
+    {
+      "title": "Gradient Blue",
+      "sku": "1140533",
+      "price": 32.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1140534",
+      "price": 32.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1140535",
+      "price": 32.99
+    },
+    {
+      "title": "Turquoise",
+      "sku": "1140536",
+      "price": 32.99
+    },
+    {
+      "title": "Purple",
+      "sku": "1140537",
+      "price": 32.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-box-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Mod-Black.jpg?v=1744018556",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-box-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Mod-Gradient-Blue.jpg?v=1744018811",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-box-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Mod-Silver.jpg?v=1744018848",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-box-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Mod-Gunmetal.jpg?v=1744019096",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-box-mod__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Mod-Turquoise.jpg?v=1744019237",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-box-mod__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Mod-Purple.jpg?v=1744019308",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.102Z"
+}

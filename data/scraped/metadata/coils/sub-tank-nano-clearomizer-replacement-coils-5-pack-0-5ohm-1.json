@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639296729412",
+  "slug": "sub-tank-nano-clearomizer-replacement-coils-5-pack-0-5ohm-1",
+  "title": "Vapouriz Premium Sub Tank Nano Clearomizer Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/sub-tank-nano-clearomizer-replacement-coils-5-pack-0-5ohm-1",
+  "brand": "Vapouriz Premium",
+  "productType": "Coils",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "Find top spec replacement coils for your e-cig setup with our Sub Tank Nano replacement coils. Available in two resistances for all levels of vaping.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.5ohm",
+        "0.15ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.5ohm",
+      "sku": "677914",
+      "price": 5.49
+    },
+    {
+      "title": "0.15ohm",
+      "sku": "677938",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__sub-tank-nano-clearomizer-replacement-coils-5-pack-0-5ohm-1__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1451400911_834_1.jpg?v=1729033523",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__sub-tank-nano-clearomizer-replacement-coils-5-pack-0-5ohm-1__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1451400911_834.jpg?v=1729033523",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__sub-tank-nano-clearomizer-replacement-coils-5-pack-0-5ohm-1__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1451400892_9867.jpg?v=1729033523",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

@@ -1,0 +1,163 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14926999257469",
+  "slug": "vaporesso-armour-max-box-mod",
+  "title": "Vaporesso Armour Max Box Mod",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-armour-max-box-mod",
+  "brand": "Vaporesso",
+  "productType": "MODS",
+  "price": {
+    "min": 45.99,
+    "max": 45.99,
+    "currency": "GBP"
+  },
+  "description": "The stunning Vaporesso Armour Max Mod should be your go-to choice if you're after a powerful sub-ohm device that pairs stellar performance with unparalleled durability. Crafted to withstand everyday wear and tear, its rugged design is further enhanced by the innovative Uni-Lock feature that offers extra security for your device. With a generous wattage range of 5 to 220W, the Armour Max Kit is ideally suited for Direct To Lung (DTL) vaping. Tailor your power source to your vaping habits by opting for either dual 18650 or 21700 batteries (sold separately). Take charge of how you vape by navigating through various powerful modes, such as Variable Wattage for power tweaking or Pulse mode to enrich your e-liquid flavour’s profile. The Temperature Control mode allows for maximum coil temperature settings, helping you explore nuanced flavour notes of your favourite e-liquids. Low on battery? No worries—the Eco mode ensures your kit remains power-efficient. Effortless operation is assured with a 0.96-inch screen and intuitive menu controls. And the benefits don't stop there. Please Note: Batteries are NOT included with this kit.",
+  "tags": [
+    "Box Mods",
+    "DTL",
+    "Freedojokit",
+    "Freedojopod",
+    "Kit-VS-Export",
+    "Mod-VS"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Cyber Blue",
+        "Black",
+        "Silver",
+        "Green",
+        "Yellow",
+        "Camo Blue",
+        "Orange",
+        "Cyber Gold",
+        "Camo Brown"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Cyber Blue",
+      "sku": "1132257",
+      "price": 45.99
+    },
+    {
+      "title": "Black",
+      "sku": "1127025",
+      "price": 45.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1127026",
+      "price": 45.99
+    },
+    {
+      "title": "Green",
+      "sku": "1127027",
+      "price": 45.99
+    },
+    {
+      "title": "Yellow",
+      "sku": "1127028",
+      "price": 45.99
+    },
+    {
+      "title": "Camo Blue",
+      "sku": "1132258",
+      "price": 45.99
+    },
+    {
+      "title": "Orange",
+      "sku": "1127029",
+      "price": 45.99
+    },
+    {
+      "title": "Cyber Gold",
+      "sku": "1132259",
+      "price": 45.99
+    },
+    {
+      "title": "Camo Brown",
+      "sku": "1132260",
+      "price": 45.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-armour-max-mod-Cyber-Blue.jpg?v=1736176294",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-armour-max-mod-black.jpg?v=1736176294",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-amrour-max-mod-Silver.jpg?v=1736176294",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-armour-max-mod-green.jpg?v=1736176294",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-armour-max-mod-Yellow.jpg?v=1736176294",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-armour-max-mod-Orange.jpg?v=1736176294",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-armour-max-mod-Camo-Blue.jpg?v=1736175830",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-armour-max-mod-Cyber-Gold.jpg?v=1736175895",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-armour-max-box-mod__009.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-armour-max-mod-Camo-Brown.jpg?v=1736175950",
+      "position": 9,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.105Z"
+}

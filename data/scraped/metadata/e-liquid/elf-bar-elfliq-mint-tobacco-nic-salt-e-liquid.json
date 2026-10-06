@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15055015969149",
+  "slug": "elf-bar-elfliq-mint-tobacco-nic-salt-e-liquid",
+  "title": "Elf Bar ElfLiq Mint Tobacco Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-mint-tobacco-nic-salt-e-liquid",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Elf Bar ElfLiq Mint Tobacco offers a smooth and refined blend of earthy Tobacco with a light, sweet hint of Mint. The rich, smoky notes of classic Tobacco provide a warm, robust, and familiar base, while the cool Mint adds a refreshing lift, creating a balanced flavour that is endlessly smooth and invigorating. Ideal for vapers who enjoy the deep, satisfying taste of Tobacco with a subtle cooling twist. Blended for MTL (mouth-to-lung) vaping, this 50/50 VG/PG nicotine salt e-liquid ensures a smooth throat hit and rapid nicotine relief. Best suited for low-powered pod kits and starter vape devices, Mint Tobacco delivers a bold yet well-rounded vape with discreet vapour production. Available in 5mg, 10mg, and 20mg nicotine strengths, Elf Bar ElfLiq brings the most popular Elf Bar disposable flavours into a 10ml e-liquid format, providing a cost-effective and sustainable way to enjoy signature flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138348",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1138354",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138360",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-mint-tobacco-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elfliq-Nic-Salts-Mint-tobacco.jpg?v=1741271997",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.437Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639406403908",
+  "slug": "dinner-lady-cola-shades-shortfill-e-liquid",
+  "title": "Dinner Lady Cola Shades Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-cola-shades-shortfill-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Cola Shades is a classic, sugary-sweet cola given a fizzy citrus streak. Subtle notes of lemon play wonderfully with the base flavour of cola, and the sweet tingly fizz on the exhale seals the deal. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70VG/30PG ratio makes it ideal for high-powered pod kits , mods and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DL-DL-50-CS-00-VG",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-cola-shades-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-ice-cola-shades-3070-shortfill-_snv_-uk.jpg?v=1729038384",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.636Z"
+}

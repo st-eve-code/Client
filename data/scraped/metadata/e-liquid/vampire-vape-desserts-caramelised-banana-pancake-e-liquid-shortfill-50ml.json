@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15124881604989",
+  "slug": "vampire-vape-desserts-caramelised-banana-pancake-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape Desserts Caramelised Banana Pancake E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-desserts-caramelised-banana-pancake-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Caramelised Banana Pancake by Vampire Vape Desserts Koncept range delivers the rich taste of golden banana slices seared in syrupy sugar, layered over a warm, buttery pancake base. This dessert-inspired e-liquid captures the familiar comfort of a classic pancake stack, pairing smooth banana flavour with notes of caramelised glaze and subtle pastry notes. Blended at 70% VG to 30% PG, this high-VG shortfill is ideal for sub-ohm vaping, delivering dense vapour and a deeper, more rounded flavour experience. Supplied as 50ml of nicotine-free e-liquid in a 60ml bottle, there's space to add a 10ml nicotine shot to tailor the strength to your preference. Made in the UK to the highest standards, this flavour is part of Vampire Vape’s indulgent Desserts collection — a series of comforting sweet e-liquid blends crafted for vapers who enjoy rich, expertly layered profiles. Also available in Freebase 10mls and Concentrates for DIY e-liquid fans.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "VV Desserts"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138239",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-desserts-caramelised-banana-pancake-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire-Vape---UK---50ml-Koncept---Caramelised-Banana-Pancake---Bottle.jpg?v=1743670972",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.499Z"
+}

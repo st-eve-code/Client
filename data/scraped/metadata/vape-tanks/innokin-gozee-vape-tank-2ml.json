@@ -1,0 +1,116 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639670874436",
+  "slug": "innokin-gozee-vape-tank-2ml",
+  "title": "Innokin Go Z Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/innokin-gozee-vape-tank-2ml",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin GO Z Tank is a lightweight, versatile tank designed for vapers who value convenience and performance. With a 2ml capacity, this tank is built for easy refilling thanks to its intuitive sliding top-fill mechanism, which minimises spills and hassle. Engineered for flexibility, the GO Z Tank is compatible with Innokin’s Z-Coil series, renowned for delivering exceptional flavour and vapour. The tank comes pre-installed with a 1.6ohm coil for a satisfying MTL (mouth-to-lung) vape, making it ideal for high-PG and Nic Salt e-liquids. For those who prefer a looser RDTL (restricted direct-to-lung) draw, the tank supports 0.8ohm Z-Coils, sold separately. Adjustable airflow control lets you customise your vaping experience, whether you enjoy a tight, focused draw or a more open inhale. With its durable construction and sleek design, the Innokin GO Z Tank offers reliable performance and stylish functionality for everyday use.",
+  "tags": [
+    "compatible-with-1116625"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Light Blue",
+        "Yellow",
+        "green",
+        "Pink",
+        "Turquoise"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1116635",
+      "price": 4.99
+    },
+    {
+      "title": "Light Blue",
+      "sku": "1116640",
+      "price": 4.99
+    },
+    {
+      "title": "Yellow",
+      "sku": "1116638",
+      "price": 4.99
+    },
+    {
+      "title": "green",
+      "sku": "1116641",
+      "price": 4.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1116642",
+      "price": 4.99
+    },
+    {
+      "title": "Turquoise",
+      "sku": "116636-coming-soon",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-gozee-vape-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-go-z-tank-black.jpg?v=1729047049",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gozee-vape-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-go-z-tank-black_1.jpg?v=1729047049",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gozee-vape-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-go-z-tank-light-blue_1.jpg?v=1729047049",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gozee-vape-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-go-z-tank-yellow_1.jpg?v=1729047049",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gozee-vape-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-go-z-tank-green_1.jpg?v=1729047049",
+      "position": 5,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gozee-vape-tank-2ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-go-z-tank-light-pink_1.jpg?v=1729047049",
+      "position": 6,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.622Z"
+}

@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15002909737341",
+  "slug": "ox-passion-mixed-grapes-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Mixed Grapes Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-mixed-grapes-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Salts Mixed Grapes layers the sweet, juicy flavour of sun-ripened red grapes with the deeper, more intense notes of dark grapes, creating a bold yet balanced fruit profile. Each inhale delivers a burst of rich grape flavour with a subtly tangy finish, making for a smooth and satisfying all-day vape. Formulated with a 50VG/50PG blend, this nicotine salt e-liquid is optimised for mouth-to-lung (MTL) vaping, ensuring a clean, well-defined taste with a consistently smooth throat hit. Designed for use with pod vape kits and starter devices, it provides quick nicotine absorption for a more satisfying vape experience. Developed by Oxva, a trusted name in vaping technology, the OX Passion Salts range offers carefully crafted flavours designed to pair seamlessly with Oxva’s XLIM pod kits and other refillable vape devices. Enhance your sessions and pair this e-liquid with the best refillable pod vape UK or starter vape kits for smooth, satisfying hits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132789",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139097",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-mixed-grapes-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ox-Passion_0009_Mixed-Grapes.jpg?v=1739182487",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.423Z"
+}

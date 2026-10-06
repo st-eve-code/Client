@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15760225730941",
+  "slug": "bar-drop-blue-razz-lemonade-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Blue Razz Lemonade 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-blue-razz-lemonade-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Blue Razz Lemonade by Drop is a sparkling fruit beverage blend that refreshes the palate. The profile begins with the deep, tangy sweetness of blue raspberries, delivering a bold berry punch. This is immediately lifted by a zesty lemonade finish, adding a layer of citrus sparkle that makes every puff feel brisk and enlivening. This nic salt e-liquid features a specific 40% VG / 60% PG ratio, designed to maximise flavour transmission and wicking speed in low-powered devices. The result is a crystal-clear taste profile suitable for any MTL (Mouth-to-Lung) vape kit. Available in 5mg, 10mg, and 20mg strengths, it offers a smooth draw and efficient nicotine delivery. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152607",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152645",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152686",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-blue-razz-lemonade-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/blue-razz-lemonade-Bar-Drop-10ml-Nic-salts.jpg?v=1767975486",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.467Z"
+}

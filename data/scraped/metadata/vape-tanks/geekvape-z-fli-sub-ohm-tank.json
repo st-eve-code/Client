@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639883112772",
+  "slug": "geekvape-z-fli-sub-ohm-tank",
+  "title": "Geekvape Z Fil Vape Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/geekvape-z-fli-sub-ohm-tank",
+  "brand": "Geekvape",
+  "productType": "Tanks",
+  "price": {
+    "min": 21.99,
+    "max": 21.99,
+    "currency": "GBP"
+  },
+  "description": "The Geekvape Z Fli Sub Ohm Tank is a mini masterpiece of vaping innovation, designed to offer a premium vaping experience. This tank is not just a piece of hardware; it's a fusion of style, power, and cutting-edge technology, making it a great choice for sub-ohm vapers. At the heart of the Z Fli Tank's design is its revolutionary airflow system. This system is finely tuned to deliver a vaping experience that's both smooth and rich in flavour, striking the perfect balance between dense cloud production and intensity of flavour. The top airflow design is engineered to be leakproof, ensuring a clean and hassle-free vape every time. What sets the Z Fli Tank apart is its compatibility with the high-calibre Z Series Coils . Geekvape has expanded this series with a new coil, designed to last considerably longer, thereby enhancing both flavour extraction and vapour output. This commitment to quality ensures every puff is as satisfying as the last. The tank's innovative hinged flip top makes refilling a breeze. This user-friendly feature allows for quick and easy top-ups of your favourite e-liquids, adding convenience to your daily vaping flow. Crafted from durable materials, the Z Fli Tank is robust and built to last, standing up to everyday use with ease. Safety isn’t ignored with the Geekvape Z Fli Tank. It features a secure locking mechanism to prevent accidental spills and leaks, giving you peace of mind whenever you use it. The tank's intuitive press-to-fill mechanism offer versatility and customisation, catering to a wide range of vaping preferences and styles. The Geekvape Z Fli Sub Ohm Tank is more than just a vaping device; its combination of innovative features, superior build quality, and attention to detail make it a standout tank for anyone seeking the ultimate vaping experience. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Rainbow",
+        "Black",
+        "Blue",
+        "Gunmetal",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Rainbow",
+      "sku": "1128140",
+      "price": 21.99
+    },
+    {
+      "title": "Black",
+      "sku": "1128141",
+      "price": 21.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1128142",
+      "price": 21.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1128143",
+      "price": 21.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1128144",
+      "price": 21.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-z-fli-sub-ohm-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-zfli-tank-rainbow_1.jpg?v=1729058922",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-fli-sub-ohm-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-zfli-tank-rainbow.jpg?v=1729058922",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-fli-sub-ohm-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-zfli-tank-black.jpg?v=1729058922",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-fli-sub-ohm-tank__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-zfli-tank-blue.jpg?v=1729058923",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-fli-sub-ohm-tank__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-zfli-tank-gunmetal.jpg?v=1729058923",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-fli-sub-ohm-tank__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-zfli-tank-silver.jpg?v=1729058923",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.623Z"
+}

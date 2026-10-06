@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15941705728381",
+  "slug": "ivg-original-salts-blue-blaze-10ml-e-liquid",
+  "title": "IVG Original Salts Blue Blaze 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-original-salts-blue-blaze-10ml-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Original Salts Blue Blaze 10ml E-Liquid delivers a sweet and punchy vaping experience that perfectly balances sweet and tart notes. This expertly crafted blend combines the rich, syrupy berry sweetness of Blue Raspberry with the bright, citrusy bite of fresh Lemonade. The result is a vibrant, well-defined flavour profile that offers a consistently sharp and clean taste on both the inhale and exhale, making it a reliable choice for those who enjoy classic fruit-based or confectionery vapes. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The 50VG/50PG ratio provides an ideal balance of discreet vapour production and clear, intense flavour. IVG Original Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The IVG Original Salts collection is inspired by the brand’s most successful flavour profiles, offering vapers a dependable range of premium fruit, ice, and dessert blends. Beyond the berry and citrus burst of Blue Blaze, vapers can explore other stellar options like the smooth and comforting Vanilla Biscuit or the intensely fruity Forest Berries Ice. Every e-liquid in this collection is designed to provide a high-quality, authentic experience for mouth-to-lung vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "IVG Original",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1157451",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1157470",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-original-salts-blue-blaze-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Blaze-10mg-IVG-Original-Salts.jpg?v=1782814146",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-original-salts-blue-blaze-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Blaze-20mg-IVG-Original-Salts.jpg?v=1782814150",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.343Z"
+}

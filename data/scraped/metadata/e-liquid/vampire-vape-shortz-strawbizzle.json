@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639453229380",
+  "slug": "vampire-vape-shortz-strawbizzle",
+  "title": "Vampire Vape Shortz Strawbizzle",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-shortz-strawbizzle",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "It’s strawberry, but like nothing you’ve ever tasted before! Strawbizzle takes the ruby red summer berry and launches it into astonishing new flavour territory. The beautiful, authentic strawberry flavour at its heart takes on delicious new dimensions with a layer of zesty fizzy sherbet and a layer of invigorating cool that finishes every vape to perfection. These shortfill bottles contain 50ml of nicotine-free liquid, with 10ml of extra space within the bottle to accommodate your nicotine shot of choice. This allows you to create a liquid with your own desired nicotine strength. Typically, adding a 10ml nicotine shot to a 50ml shortfill will give you 60ml of 3mg e-liquid. Once you have added your preferred amount of nicotine, make sure to shake the contents of the shortfill bottle well.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Vampire Vape Shortz"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VV-VV-50-SB-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-shortz-strawbizzle__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-shortz-strawbizzle.jpg?v=1729040374",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.516Z"
+}

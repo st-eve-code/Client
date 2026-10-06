@@ -1,0 +1,59 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639620772164",
+  "slug": "bolt-cherry-cola-50-50-zeus-juice",
+  "title": "Zeus Juice Bolt Cherry Cola 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bolt-cherry-cola-50-50-zeus-juice",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Bolt Cherry Cola 50/50 e-liquid from Zeus Juice is the classic taste of a refreshing cherry cola in a perfectly balanced e-liquid. The deep caramel notes of cola are deliciously complemented by sweet cherry syrup. The 50% VG, 50% PG ratio provides the perfect balance of clouds, vapour and sublime flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "Delisted",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "ZS-BLT-10-CC-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "ZS-BLT-10-CC-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "ZS-BLT-10-CC-12",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bolt-cherry-cola-50-50-zeus-juice__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-bolt-cherry-cola-5050-e-liquid.jpg?v=1729044852",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.617Z"
+}

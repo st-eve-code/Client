@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15340819939709",
+  "slug": "hexus-salts-blueberry-ice-nic-salt-e-liquid-10ml",
+  "title": "Hexus Salts Blueberry Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hexus-salts-blueberry-ice-nic-salt-e-liquid-10ml",
+  "brand": "Hexus",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Ice by Hexus delivers a clean, fruity vape with a brisk, cooling exhale. The Blueberry flavour is smooth and juicy, offering a mild sweetness that feels rounded and mellow. A streak of cool Ice cuts through the fruit with refreshing clarity, creating a simple but satisfying blend that’s ideal for everyday use. Made with nicotine salts, this e-liquid provides fast-acting nicotine relief with a tactile yet smooth throat hit. It’s blended at a 50VG/50PG ratio, making it perfect for mouth-to-lung (MTL) vaping using low-powered refillable pod kits and starter devices . The Hexus Nic Salt collection offers a wide variety of fruit, menthol and mixed blends in 10mg and 20mg strengths, designed for MTL vapers who want flavour and satisfaction in one.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1143242",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143252",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hexus-salts-blueberry-ice-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BLUEBERRY-ICE-Hexus-Salts-20MG.jpg?v=1751464982",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.444Z"
+}

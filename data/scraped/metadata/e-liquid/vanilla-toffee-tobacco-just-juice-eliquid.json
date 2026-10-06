@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639634764100",
+  "slug": "vanilla-toffee-tobacco-just-juice-eliquid",
+  "title": "Just Juice Vanilla Toffee Tobacco Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vanilla-toffee-tobacco-just-juice-eliquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vanilla Toffee Tobacco is sumptuous fusion of flavours that offers the rich, earthy satisfaction of authentic cigar tobacco laced with sweet and dreamy vanilla cream and hints of warm toffee. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the nic salt solution makes it perfect for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Just Juice Tobacco Range",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "11mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "JJ-10-VT-05-NS",
+      "price": 3.95
+    },
+    {
+      "title": "11mg",
+      "sku": "JJ-10-VT-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "JJ-10-VT-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vanilla-toffee-tobacco-just-juice-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-tobacco-20mg-vanilla.jpg?v=1729045306",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.445Z"
+}

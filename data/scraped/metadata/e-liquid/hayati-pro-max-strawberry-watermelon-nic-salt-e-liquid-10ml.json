@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15108611604861",
+  "slug": "hayati-pro-max-strawberry-watermelon-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Strawberry Watermelon Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-strawberry-watermelon-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Strawberry Watermelon brings together two classic fruit flavours in a light and juicy blend. Sweet Strawberry offers a soft, familiar fruitiness, while Watermelon adds a fresh, delicate sweetness that keeps the vape lush and uplifting. Made with nicotine salts for faster absorption and a smoother throat hit, this e-liquid is ideal for MTL (mouth-to-lung) vaping using pod kits and starter devices. The 50VG/50PG formulation provides consistently clear flavour with discreet vapour output. This flavour is part of the Hayati Pro Max Nic Salt range, inspired by Hayati’s own bestselling disposable vapes and now reimagined in a longer-lasting 10ml format—available in 10mg and 20mg nicotine strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140308",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140385",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-strawberry-watermelon-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Watermelon-Bubblegum_Hayati-Pro-Max-Nic-Salts.jpg?v=1743168520",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.429Z"
+}

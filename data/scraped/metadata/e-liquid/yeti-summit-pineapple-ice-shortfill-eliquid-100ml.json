@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14874152993149",
+  "slug": "yeti-summit-pineapple-ice-shortfill-eliquid-100ml",
+  "title": "Yeti Summit Series Pineapple Ice 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/yeti-summit-pineapple-ice-shortfill-eliquid-100ml",
+  "brand": "Yeti",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "Yeti Summit Series Pineapple Ice brings the exotic, juicy sweetness of ripe Pineapple to life, perfectly balanced with an icy Menthol twist on the exhale. This tropical flavour delivers a refreshingly sweet and tangy vape, ideal for those who enjoy bold fruit flavours with a frosty finish. This 100ml bottle of nicotine-free e-liquid has space for 20ml of nicotine shots, allowing you to create the perfect nicotine strength for your needs. To make 120ml of 3mg e-liquid, simply add 2 x 10ml 18mg nicotine shots, shake well, and your e-liquid is ready to vape. Shortfills are a cost-effective and convenient option for vapers who enjoy larger quantities of their favourite flavours. With their higher VG content, shortfills are ideal for use with high-powered, sub-ohm vape kits and low-resistance coils, delivering maximum flavour and dense vapour production. Save time and money by stocking up on Yeti Summit shortfills. Discover the Yeti Summit range, crafted by UK-based e-liquid masters Prohibition. Yeti Summit offers a super-frosty collection of flavours that blend authentic fruit profiles with a bracing layer of crisp, icy menthol, for maximum flavour and refreshment.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1136541",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__yeti-summit-pineapple-ice-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/yeti-summit-100ml-0mg-pineapple-ice.jpg?v=1732842876",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.352Z"
+}

@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900250640765",
+  "slug": "pukka-juice-5000-lime-twist-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Lime Twist 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-lime-twist-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Lime Twist Nic Salt e-liquid brings together the sharp, zesty taste of fresh Limes with the sweet, refreshing twist of Kiwi. The balance of tart citrus and sweet tropical fruit creates an multi-layered and flavourful vape that’s perfect for all-day enjoyment. Crafted with a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are designed for use with Mouth-to-Lung (MTL) vape kits and pod systems. These e-liquids deliver smooth throat hits and rapid nicotine absorption, making them a great alternative to traditional tobacco products. Available in 10mg and 20mg nicotine strengths, Lime Twist offers a citrusy vape with a tropical edge. Pukka Juice are a renowned UK vape brand known for their vibrant and original e-liquid flavours. The Pukka Juice 5000+ range offers the intense flavours of disposable vapes in a more convenient, reusable format. Other flavours to try include Pineapple Ice, Blackcurrant Menthol, and Blue Sour Razz.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135530",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135548",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-lime-twist-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Lime-Twist-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734540347",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.496Z"
+}

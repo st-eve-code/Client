@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639530594628",
+  "slug": "tecc-specter-tank-2ml",
+  "title": "TECC Specter Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/tecc-specter-tank-2ml",
+  "brand": "TECC",
+  "productType": "Tanks",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "The TECC Specter tank 2ml is designed to be used with the TECC Specter kit, but the 510-connector enables the tank to be used with any compatible vape mod. The tank uses a simple filling mechanism: just unscrew the top of the tank and fill with e-liquid – there’s no need to remove the whole tank from the mod. Adjustable Airflow lets you dial-in to your preferred draw intensity. The Specter tank uses TECC’s own GT coils for both sub-ohm and MTL vaping. The kit comes with two 1.2ohm GT coils which offer a super-satisfying mouth-to-lung style vape full of flavour. These coils are also push-to-fit making them easy to install with zero mess. The TECC Specter Vape Tank is especially suited for MTL vaping when paired with Classic/High PG , 50/50 and Nicotine Salts e-liquids.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "TE-TA-SP-SS",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tecc-specter-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tecc_specter_tank_500x500_525a488b-2af0-4697-86d6-3f7e36fefb62.jpg?v=1729041915",
+      "position": 1,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

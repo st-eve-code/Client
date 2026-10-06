@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639868727620",
+  "slug": "drifter-bar-salts-lemon-lime-nic-salt-eliquid",
+  "title": "Drifter Bar Salts Lemon & Lime 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/drifter-bar-salts-lemon-lime-nic-salt-eliquid",
+  "brand": "Drifter",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Drifter Bar Salts Lemon Lime is a zesty and refreshing e-liquid that perfectly balances the tangy flavours of lemon and lime. This invigorating blend offers a vibrant vaping experience that's both exhilarating and flavourful, ideal for those who enjoy a citrusy kick. Upon inhaling, you’re immediately hit with the zesty sharpness of lemon, a flavour that's both bold and bright. This is seamlessly complemented by the tangy and slightly sweet notes of lime, adding complexity and depth to the blend. The combination of lemon and lime creates a harmonious and refreshingly tart flavour profile, perfect for vapers looking for a lively and energising taste. Designed for optimal performance in starter vape kits and low-powered pod devices, Drifter's Bar Salts e-liquids use nicotine salts to provide a smoother experience at higher nicotine strengths. Nicotine salts are also known for their quick absorption rate, offering fast relief for those seeking immediate satisfaction. This makes them an ideal choice for recent ex-smokers or vapers seeking immediate, satisfying nicotine relief. Drifter's Bar Salts and Bar Juice collections offer mouth-watering e-liquids inspired by the most popular flavours found in disposable vapes. They're just as intensely delicious and satisfying as disposable vape flavours, but with the added benefit of being compatible with your own reusable vape device. This saves you money and reduces waste in the process. Why not try other incredible flavours from Drifter's Bar Salts and Bar Juice collections? From sweet and refreshing Cotton Candy Ice to classics like Cherry and Blue Razz Lemonade, whatever your taste in e-liquid, Drifter E-liquid has an incredible flavour waiting to light up your tastebuds.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138472",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1129189",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1129195",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__drifter-bar-salts-lemon-lime-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-lemon-lime-20mg-10ml-nic-salt-eliquid_1_1.jpg?v=1729057888",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-lemon-lime-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-lemon-lime-20mg-10ml-nic-salt-eliquid.jpg?v=1729057888",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-lemon-lime-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-lemon-lime-20mg-10ml-nic-salt-eliquid_1.jpg?v=1729057888",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.347Z"
+}

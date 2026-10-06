@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15639733109117",
+  "slug": "riot-x-nic-salts-sweet-apple-banana-and-mango-10ml-e-liquid",
+  "title": "Riot X Nic Salts Sweet Apple Banana and Mango 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-sweet-apple-banana-and-mango-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Sweet Apple Banana and Mango by Riot X 3 Nic Salts is a mellow, fruit-led blend with soft tropical depth. Crisp Apple comes through first, followed by ripe Banana for a creamy, rounded note. Mango adds a juicy finish and brings the mix together with gentle tropical warmth. This vape juice is formulated with Riot’s Hybrid Nicotine, which combines Nic Salt and freebase to deliver quick satisfaction with a smooth inhale and modest vapour output. Its 50VG/50PG ratio is made for mouth-to-lung (MTL) vaping in low-powered pod kits, refillable starter kits, and vape pens. Riot X 3 Nic Salts are made in the UK and developed for strong, high-impact fruit profiles designed for everyday use in compact refillable devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149409",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1149415",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1149421",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-sweet-apple-banana-and-mango-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sweet-Apple-Banana-Mango-Riot-X-Nic-Salts--10ML-5mg.jpg?v=1761748910",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-sweet-apple-banana-and-mango-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sweet-Apple-Banana-Mango-Riot-X-Nic-Salts--10ML-10mg.jpg?v=1761748950",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-sweet-apple-banana-and-mango-10ml-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sweet-Apple-Banana-Mango-Riot-X-Nic-Salts-10ML-20mg.jpg?v=1761749031",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.467Z"
+}

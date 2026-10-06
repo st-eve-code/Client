@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15732758511997",
+  "slug": "fruit-by-supergood-blueberry-raspberry-cherry-100ml-shortfill-e-liquid",
+  "title": "Fruit By Supergood Blueberry Raspberry & Cherry 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/fruit-by-supergood-blueberry-raspberry-cherry-100ml-shortfill-e-liquid",
+  "brand": "Supergood",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "Fruit by Supergood Blueberry, Raspberry and Cherry is a bold and layered berry medley. It blends the plump, juicy sweetness of Blueberries, the sharp, tangy kick of Raspberries, and the deep, rich notes of Red Cherries. This trio creates a complex and satisfying fruit vape that evolves with every puff. With a 50% VG / 50% PG blend, this e-liquid is formulated for MTL vaping. It’s ideal for use with Starter vape kits and pod mods, producing dense, satisfying clouds and exceptional flavour clarity. This 100ml shortfill is supplied in a 120ml bottle, leaving space for two 10ml nicotine shots. Adding two 10ml 18mg nic shots will create 120ml of 3mg e-liquid. This allows you to customise your nicotine strength while enjoying the incredible value of a larger bottle. The \"Fruit\" collection is the latest innovation from Supergood, a premium UK manufacturer famous for their \"Butter\" and \"Cocktail\" ranges. Moving away from heavy desserts, this range focuses on delivering the most authentic and refreshing fruit profiles imaginable.",
+  "tags": [
+    "100ml shortfill",
+    "DTL",
+    "ivgoffer"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1150449",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fruit-by-supergood-blueberry-raspberry-cherry-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry_-Raspberry-_-Cherry-Supergood-Fruit-10ml-100ML.jpg?v=1766061324",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.539Z"
+}

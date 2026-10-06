@@ -1,0 +1,110 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15034369638781",
+  "slug": "aspire-cyber-gt-pod-vape-kit",
+  "title": "Aspire Cyber GT Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/aspire-cyber-gt-pod-vape-kit",
+  "brand": "Aspire",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Cyber GT Pod Vape Kit is the most powerful kit to join Aspire’s bestselling Cyber range yet. Boasting the range’s unique cyberpunk-inspired aesthetics in five stunning colours, as well as a pronounced grip for maximum comfort while remaining compact and portable, the Cyber GT is as striking to look as it is to use. This versatile kit easily caters for both a rich and satisfying Mouth-To-Lung (MTL) or a smoother, airier Restricted Direct-To-Lung (RDTL) experience. Powered by a high-capacity 2400mAh built-in battery, it provides reliable all-day performance and supports USB Type-C 2A fast charging for quick and convenient recharging. The Cyber GT features three distinct power modes—Eco, Normal, and Boost—allowing users to tailor vapour output and battery efficiency to their preference. The device also offers three activation modes, enabling either auto-draw, button activation, or a combination of both for a more personalised vaping experience. Running all this is Aspire’s cutting-edge ASP Chipset, which also provides eight safety protections for extra peace of mind. The kit includes a 2ml Aspire TG Pod pre-installed with a 0.8ohm meshed coil, engineered to provide consistent flavour and vapour production. The pod features a practical side-fill system to minimise leaks and ensure a hassle-free refilling process. Compatible with the full range of TG Pods, the Cyber GT also supports a 1.0ohm coil option for those who prefer a tighter inhale. A set of intuitive LED indicator lights keeps you informed of your wattage selection, activation mode, and remaining battery life at a glance. With its slim, ergonomic design and innovative customisation options, the Aspire Cyber GT Pod Vape Kit is a fantastic choice for vapers seeking reliability, performance, and convenience, all wrapped in a super-stylish Cyberpunk design. Experience smoother vaping with vape liquid made to work in sync with this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1122534",
+    "compatible-with-1122535",
+    "Free 1 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue",
+        "Pink",
+        "Green",
+        "Black",
+        "Grey"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue",
+      "sku": "1139367",
+      "price": 15.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1139366",
+      "price": 15.99
+    },
+    {
+      "title": "Green",
+      "sku": "1139368",
+      "price": 15.99
+    },
+    {
+      "title": "Black",
+      "sku": "1139365",
+      "price": 15.99
+    },
+    {
+      "title": "Grey",
+      "sku": "1139369",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-cyber-gt-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aspire-Cyber-GT-Blue.jpg?v=1740394920",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-gt-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aspire-Cyber-GT-Black.jpg?v=1740394920",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-gt-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aspire-Cyber-GT-Pink.jpg?v=1740394920",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-gt-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aspire-Cyber-GT-Green.jpg?v=1740394739",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-gt-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/AspireCyberGTGrey.jpg?v=1740394805",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.098Z"
+}

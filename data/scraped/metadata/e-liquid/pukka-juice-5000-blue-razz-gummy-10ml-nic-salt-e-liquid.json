@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900170391933",
+  "slug": "pukka-juice-5000-blue-razz-gummy-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Blue Razz Gummy 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-blue-razz-gummy-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Blue Razz Gummy Nic Salt e-liquid delivers an irresistible flavour fusion of tart Blue Raspberry and the sweet taste of Gummy Candy. The balance of tangy berry notes with a nostalgic candy finish makes this e-liquid perfect for vapers who enjoy bold and fruity flavours with a playful twist. Formulated with a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are perfect for Mouth-to-Lung (MTL) vape kits and pod systems. Each puff provides a smooth throat hit and fast nicotine relief, making them an ideal choice for those seeking an effective and satisfying alternative to traditional tobacco products. Available in both 10mg and 20mg strengths, this e-liquid offers an exceptional vaping experience that’s both flavour-packed and satisfying. Pukka Juice are an award-winning UK vape brand renowned for their vibrant and original e-liquid flavours. The Pukka Juice 5000+ range brings intense, disposable vape-inspired flavours to a more versatile format for use with reusable vape devices. Discover other delicious flavours from this collection, such as Cherry Burst, Pineapple Ice, and Raspberry Pomegranate.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135517",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135536",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-blue-razz-gummy-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Blue-Razz-Gummy-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734537623",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.334Z"
+}

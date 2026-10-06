@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15052204245373",
+  "slug": "future-juice-grape-candy-shortfill-100ml-e-liquid",
+  "title": "Future Juice Grape Candy  Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/future-juice-grape-candy-shortfill-100ml-e-liquid",
+  "brand": "Future Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Future Juice’s Grape Candy delivers the bold, juicy taste of ripe Purple Grapes with a playful confectionery twist. The deep, natural sweetness of Grape is intensified with a sugary, candy-coated finish, striking a perfect balance between fruity richness and nostalgic sweetness. Each puff delivers a burst of vibrant flavour, making this an ideal choice for vapers who love a fruit-candy blend with a tangy edge. Blended at 70% VG / 30% PG, this high-VG e-liquid is designed for sub-ohm vaping, producing thick clouds and bold, full-bodied flavour. Ideal for high-powered vape kits and sub-ohm tanks, it offers a bright and satisfying vape experience. As a 100ml shortfill, this nicotine-free e-liquid leaves room for two 10ml nicotine shots, allowing you to customise your strength. Adding two 18mg nic shots creates 120ml of 3mg e-liquid, while nic salt shots offer a milder throat hit compared to freebase nicotine. Future Juice is a UK-based e-liquid manufacturer dedicated to crafting premium blends with bold, layered flavours. Their shortfill range combines classic dessert and fruit-inspired profiles, designed for vapers who enjoy rich, satisfying e-liquids.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139415",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__future-juice-grape-candy-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/future-juice-grape-candy-100ml.jpg?v=1741179308",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.550Z"
+}

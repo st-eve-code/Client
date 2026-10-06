@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900184973693",
+  "slug": "pukka-juice-5000-cherry-burst-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Cherry Burst 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-cherry-burst-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Cherry Burst Nic Salt e-liquid delivers the irresistible taste of ripe, juicy Cherries bursting with sweetness in every puff. This smooth, fruity e-liquid captures the vibrant and rich flavour of fresh-picked cherries, offering a bold and satisfying vape experience for fruit lovers. Formulated with a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are perfect for Mouth-to-Lung (MTL) vape kits and pod systems. Offering a smooth throat hit and fast nicotine relief, this e-liquid is ideal for those seeking a fruity alternative to traditional tobacco products. Available in both 10mg and 20mg strengths, Cherry Burst provides a flavour-packed vape that’s as refreshing as it is satisfying. Pukka Juice are an award-winning UK vape brand renowned for their vibrant and original e-liquid flavours. The Pukka Juice 5000+ range brings intense, disposable vape-inspired flavours to a more versatile format for use with reusable vape devices. Discover other delicious flavours from this collection, such as Pineapple Ice, Berry Frenzy, and Blue Sour Razz.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135518",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135537",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-cherry-burst-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Cherry-Burst-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734537950",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.492Z"
+}

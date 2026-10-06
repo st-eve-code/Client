@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15873721631101",
+  "slug": "ox-passion-red-slush-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Red Slush Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-red-slush-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Red Slush takes inspiration from classic frozen beverages to create a highly refreshing profile. The vape begins with the sharp, sweet tang of ripe Raspberry, delivering a bold and fruity punch. As the flavour develops, a subtle slushy effect emerges on the exhale, simulating the cool and sugary sensation of a retro iced drink. Blended in a 50% VG / 50% PG ratio, this Nicotine Salt e-liquid is optimised for Mouth-to-Lung (MTL) vaping, offering a smooth throat hit with full-bodied flavour. Perfect for pod vape kits and starter devices, it performs best with 1.2ohm to 0.8ohm coils, ensuring rapid satisfaction and consistent performance. Developed by OXVA, a trusted name in vaping technology, the OX Passion Salts collection features expertly crafted flavours designed to perform seamlessly with modern pod kits, including OXVA's own XLIM series. Available in versatile 5mg, 10mg, and 20mg strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1154525",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1154530",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1154535",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-red-slush-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Slush-Ox-Passion-E-Liquid-10ml-5mg_c24e0a39-2967-4445-988c-59f356bb91a1.jpg?v=1781253769",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ox-passion-red-slush-nic-salts-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Slush-Ox-Passion-E-Liquid-10ml-10mg.jpg?v=1781253752",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ox-passion-red-slush-nic-salts-e-liquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Slush-Ox-Passion-E-Liquid-10ml-20mg.jpg?v=1781253756",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.431Z"
+}

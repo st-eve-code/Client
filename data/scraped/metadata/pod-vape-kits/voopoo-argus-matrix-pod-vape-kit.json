@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15392642269565",
+  "slug": "voopoo-argus-matrix-pod-vape-kit",
+  "title": "VooPoo Argus Matrix Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/voopoo-argus-matrix-pod-vape-kit",
+  "brand": "VooPoo",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Argus Matrix Pod Vape Kit is a sleek and intuitive device that combines bold design with versatile performance. With a powerful 1350mAh built-in battery and up to 30W of output, the Argus Matrix supports both mouth-to-lung (MTL) and restricted direct-to-lung (RDL) vaping, powered by refillable mesh coil pods. Smart Mode automatically selects the best wattage for your chosen pod, while Variable Wattage gives you full control over your output. The device features a curved, full-view screen for clear visibility of battery life, wattage and puff count, with dynamic lighting effects that respond to each inhale, charge or pod change. The kit is fully compatible with the Argus Pod Series and includes two 2ml top-fill cartridges with built-in mesh coils: a 0.4ohm pod for RDL and a 0.7ohm pod for MTL. Voopoo’s iCOSM Code 2.0 design helps boost flavour clarity while reducing leaks and extending pod lifespan. With draw or button activation, adjustable airflow and fast USB-C charging, the Argus Matrix is ideal for vapers looking for dependable performance in a compact, futuristic design. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Battery-included",
+    "Free 1 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Navy Blue",
+        "Lake Green",
+        "Iris Blue",
+        "Astral Silver",
+        "Carbon Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Navy Blue",
+      "sku": "1143733",
+      "price": 24.99
+    },
+    {
+      "title": "Lake Green",
+      "sku": "1143734",
+      "price": 24.99
+    },
+    {
+      "title": "Iris Blue",
+      "sku": "1143735",
+      "price": 24.99
+    },
+    {
+      "title": "Astral Silver",
+      "sku": "1143736",
+      "price": 24.99
+    },
+    {
+      "title": "Carbon Black",
+      "sku": "1143737",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-argus-matrix-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-Matrix-pod-kit-Navy-Blue.jpg?v=1753195182",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-matrix-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-Matrix-pod-kit-Lake-Green.jpg?v=1753195293",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-matrix-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-Matrix-pod-kit-Iris-Blue.jpg?v=1753195406",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-matrix-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-Matrix-pod-kit-Astral-Silver.jpg?v=1753195513",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-matrix-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-Matrix-pod-kit-Carbon-Black.jpg?v=1753195672",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.489Z"
+}

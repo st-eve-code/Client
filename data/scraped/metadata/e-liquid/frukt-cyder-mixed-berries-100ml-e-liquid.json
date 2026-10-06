@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639353221444",
+  "slug": "frukt-cyder-mixed-berries-100ml-e-liquid",
+  "title": "Frukt Cyder Mixed Berries 100ml E-liquid",
+  "url": "https://www.vapestore.co.uk/products/frukt-cyder-mixed-berries-100ml-e-liquid",
+  "brand": "Frukt Cyder",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "This gently sparkling mixed fruit blend from the Frukt Cider series is a sweet, crisp vape dancing with the taste of ripe strawberries, blueberries, blackberries and tangy raspberries. These luscious fruits sit against a bubbly backdrop of effervescent fizz, making for a revitalising exhale which wakes up the taste buds and transports you to a sun-drenched pub garden with an icy pint of apple cider cooling your palm!",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "PH-FC-MB-00-VG",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__frukt-cyder-mixed-berries-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/frukt-cyder-mixed-berries-short-fill-e-liquid-ph-fc-mb-00-vg.jpg?v=1729035963",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.640Z"
+}

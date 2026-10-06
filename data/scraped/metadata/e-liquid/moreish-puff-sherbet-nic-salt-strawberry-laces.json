@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639569850692",
+  "slug": "moreish-puff-sherbet-nic-salt-strawberry-laces",
+  "title": "Moreish Puff Sherbet Strawberry Laces Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/moreish-puff-sherbet-nic-salt-strawberry-laces",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "A two-for-one confectionary treat, this delicious e-liquid from Moreish Puff blends sweet, smooth Strawberry candy laces with the refreshing tickle of fizzy sherbet on the exhale. Moreish Puff’s Nic Salt e-liquid’s nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief and smooth throat hit provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salts E Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "MP-10-SH-SL-10-NS",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "MP-10-SH-SL-20-NS",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__moreish-puff-sherbet-nic-salt-strawberry-laces__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/mpsalts_0003_strawberrylacessherbet_sherbetsalt.jpg?v=1729042191",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.623Z"
+}

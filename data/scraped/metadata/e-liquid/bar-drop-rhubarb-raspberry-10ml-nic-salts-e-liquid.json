@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763386564989",
+  "slug": "bar-drop-rhubarb-raspberry-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Rhubarb Raspberry 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-rhubarb-raspberry-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Rhubarb Raspberry by Drop is a garden-fresh blend that celebrates tart fruit flavours. It pairs the unique, sharp tang of rhubarb with the bright, sweet-sour notes of raspberry. This combination creates a lively and mouth-watering profile that balances acidity with fruity sweetness perfectly. This nic salt e-liquid features a specific 40% VG / 60% PG ratio, designed to maximise flavour transmission. The result is a crystal-clear taste profile where the tart rhubarb notes really shine. Suitable for any MTL (Mouth-to-Lung) vape kit, available in 5mg, 10mg, and 20mg strengths. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152629",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152679",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152707",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-rhubarb-raspberry-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rhubarb-Raspberry-Bar-Drop-10ml-Nic-salts.jpg?v=1768295010",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.347Z"
+}

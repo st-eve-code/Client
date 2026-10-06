@@ -1,0 +1,115 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639379108164",
+  "slug": "vaporesso-gtx-mesh-coils",
+  "title": "Vaporesso GTX Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-gtx-mesh-coils",
+  "brand": "Vaporesso",
+  "productType": "Coils",
+  "price": {
+    "min": 7.49,
+    "max": 8.49,
+    "currency": "GBP"
+  },
+  "description": "These replacement Vaporesso GTX sub ohm mesh coils can be paired with many of Vaporesso’s bestselling vape kits and tanks, including the Vaporesso Target PM80, Target PM80 SE, Target PM30, Gen Nano and Xiron kits, thanks to their wide range of resistances. Their mesh coil build enhances the flavour of your favourite e-liquids while prolonging the life of the coil. GTX Dual Mesh Coil 0.15ohm (DTL - Sub-Ohm) Recommended Wattage: 60W-75W Compatible with: Vaporesso Armour G, Armour GS, Luxe XR Max, Gen PT80 GTX Mesh Coil 0.2ohm (DTL - Sub-Ohm) Recommended Wattage: 45W-60W Compatible with: Vaporesso Target, Target PM80 SE, Gen Nano Luxe X, Luxe XR, Luxe XR Max GTX Dual Mesh Coil 0.2ohm (DTL - Sub-Ohm) Recommended Wattage: 45W-60W Compatible with: Vaporesso Armour G, Armour GS, Target, Target PM80 SE, Gen Nano Luxe X, Luxe XR, Luxe XR Max GTX Mesh Coil 0.3ohm (DTL - Sub-Ohm) Recommended Wattage: 32W-45W Compatible with: Vaporesso Target, Target PM80 SE, Gen Nano, Xiron, Luxe X, Luxe XR, Luxe Xr Max GTX Dual Mesh Coil 0.3ohm (DTL - Sub-Ohm) Recommended Wattage: 32W-45W Compatible with: Vaporesso Target, Target PM80 SE, Gen Nano, Xiron, Luxe X, Luxe XR, Luxe Xr Max GTX Mesh Coil 0.4ohm (DTL - Sub-Ohm) Recommended Wattage: 26W-32W Compatible with: Vaporesso Target, Target PM80 SE, Gen Nano, Xiron, Luxe X, Luxe XR, Luxe Xr Max GTX Mesh Coil 0.6ohm (RDL) Recommended Wattage: 20W-30W Compatible with: Vaporesso Target, Target PM80 SE, Target PM30, Gen Nano, GTX One, Xiron, Luxe PM40, Luxe X, Luxe XR, Luxe XR Max GTX Mesh Coil 0.8ohm (MTL) Recommended Wattage: 12W-16W Compatible with: Vaporesso Target, Target PM80 SE, Target PM30, Gen Nano, GTX One, Xiron, Luxe PM40, Lux X, Luxe XR, Luxe XR Max",
+  "tags": [
+    "DTL/RDL/MTL",
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.2ohm",
+        "0.3ohm",
+        "0.6ohm",
+        "0.8ohm Mesh",
+        "0.4ohm Mesh",
+        "0.15ohm Dual Mesh",
+        "0.2ohm Dual Mesh",
+        "0.3ohm Dual Mesh"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.2ohm",
+      "sku": "VA-CL-TA-GET-CL-0.2M",
+      "price": 8.49
+    },
+    {
+      "title": "0.3ohm",
+      "sku": "VA-CL-TA-GET-CL-0.3M",
+      "price": 7.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "VP-CO-GTX-MSH-0.6-5P",
+      "price": 7.49
+    },
+    {
+      "title": "0.8ohm Mesh",
+      "sku": "1098712",
+      "price": 8.49
+    },
+    {
+      "title": "0.4ohm Mesh",
+      "sku": "1116449",
+      "price": 7.49
+    },
+    {
+      "title": "0.15ohm Dual Mesh",
+      "sku": "1143153",
+      "price": 8.49
+    },
+    {
+      "title": "0.2ohm Dual Mesh",
+      "sku": "1143154",
+      "price": 8.49
+    },
+    {
+      "title": "0.3ohm Dual Mesh",
+      "sku": "1143155",
+      "price": 8.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-gtx-mesh-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso_target_gtx_replacement_coils_-_boxes.jpg?v=1729037232",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gtx-mesh-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/GTX-4_0.2_DUAL-MESH.jpg?v=1753095606",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gtx-mesh-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/GTX-4_0.3_DUAL-MESH.jpg?v=1753095636",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gtx-mesh-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/GTX-4_0.15_DUAL-MESH.jpg?v=1753095661",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.866Z"
+}

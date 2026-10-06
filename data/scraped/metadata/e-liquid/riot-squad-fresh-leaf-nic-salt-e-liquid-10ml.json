@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14940998271357",
+  "slug": "riot-squad-fresh-leaf-nic-salt-e-liquid-10ml",
+  "title": "Riot Squad Fresh Leaf Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-fresh-leaf-nic-salt-e-liquid-10ml",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Riot Squad’s Fresh Leaf Nic Salt E-Liquid offers a genuinely fresh take on a classic vape flavour. Riot Squad have taken the timeless taste of traditional tobacco and added a beguiling background note of smooth dark chocolate – sweet and bitter in all the right places, but bolstered by that rich, robust tobacco flavour at its centre. For vapers and former smokers seeking a familiar yet endlessly satisfying flavour with a uniquely sweet twist, Riot’s Fresh Leaf might just be what they’ve been looking for. Riot Squad’s Riot Salt E-Liquids are formulated with Hybrid Nicotine, an innovative blend of traditional freebase nicotine and nicotine salts. The combination of the freebase and nicotine salt and 50/50 PG and VG ratio provides the perfect balance of flavour and throat hit and one of the most realistic alternatives to traditional tobacco products. At Vapestore we stock a wide range of vape juice flavours & E-Liquid types. Why not check out our full range including fantastic Multi-Buy E-Liquid Deals . Shop our Full Range of Multi-Buy Nicotine Salt E-Liquids.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1107712",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1107729",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1107746",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-fresh-leaf-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/RIOT-BOTTLE-10ML-fresh-leaf.jpg?v=1736848085",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.552Z"
+}

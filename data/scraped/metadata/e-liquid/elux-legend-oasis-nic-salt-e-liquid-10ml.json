@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14882439594365",
+  "slug": "elux-legend-oasis-nic-salt-e-liquid-10ml",
+  "title": "Elux Legend Oasis Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-oasis-nic-salt-e-liquid-10ml",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Legend's Oasis Nic Salt combines the sweet and tart flavours of ripe Raspberry, juicy Blueberry, and luscious Strawberry into one vibrant and refreshing vape. This berry medley delivers a perfectly balanced and fruity flavour profile, making it an ideal choice for fans of bright and lively blends. Elux Legend Nic Salts are double-concentrated to replicate the bold, intense flavours of Elux’s bestselling disposable vapes. With a smooth nicotine salt formula, these e-liquids provide fast-acting nicotine relief with minimal throat irritation, ensuring a satisfying and flavoursome vape experience. Mixed with a 50VG/50PG ratio, Oasis Nic Salt is designed for use with Mouth-to-Lung (MTL) devices and refillable pod systems. Available in 10mg and 20mg strengths, this e-liquid is a versatile and flavourful choice for adult smokers and vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149365",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1137366",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137374",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-oasis-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elux-Legend-Nic-Salt-10ml-OASIS.jpg?v=1733407241",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.369Z"
+}

@@ -1,0 +1,151 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15855475130749",
+  "slug": "oxva-xlim-go-lite-pod-vape-kit",
+  "title": "Oxva Xlim Go Lite Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/oxva-xlim-go-lite-pod-vape-kit",
+  "brand": "Oxva",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The OXVA Xlim Go Lite Pod Vape Kit represents a streamlined evolution of the highly popular Xlim Go, engineered for maximum portability and everyday ease. By transitioning from the textured artificial leather of the original to a smooth, high-vibrancy plastic construction, OXVA has created an exceptionally lightweight device that slides effortlessly into any pocket. Despite the \"Lite\" in its name, the device compromises nothing in terms of endurance, housing a substantial 1000mAh internal battery capable of delivering dependable all-day performance and up to 30W of output power. Customisation remains at the forefront of the Xlim Go Lite experience. The device features a precise sliding airflow control mechanism on the side, allowing users to easily fine-tune their draw from a tight, intense Mouth-to-Lung (MTL) hit to a more airy Restricted Direct-to-Lung (RDL) inhale. The visual interface has been equally refined, utilising a crisp RGB indicator light to provide intuitive, at-a-glance feedback regarding your current battery status. Please note that to maintain its accessible, budget-friendly profile, the Xlim Go Lite does not include a Type-C charging cable in the box. Ecosystem compatibility is a core strength of this device. The Xlim Go Lite is fully compatible with the comprehensive range of OXVA Xlim cartridges, including the Top Fill, V2, and EZ series. The kit is supplied with a 0.8ohm Xlim Top Fill pod featuring Unitech 2.0 technology, ensuring rapid, even heating for exceptional flavour clarity and extended coil longevity. With its mess-free top-filling port, replenishing your e-liquid is a fast, efficient process that seamlessly integrates into your daily routine. Shop our vape juice collection to find flavours that go hand in hand with this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1123388",
+    "compatible-with-1123390",
+    "compatible-with-1123391",
+    "compatible-with-1127259",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Mist White",
+        "Mist Blue",
+        "Light Purple",
+        "Light Pink",
+        "Light Blue",
+        "Brown",
+        "Black",
+        "Black Carbon"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Mist White",
+      "sku": "1154053",
+      "price": 6.99
+    },
+    {
+      "title": "Mist Blue",
+      "sku": "1154054",
+      "price": 6.99
+    },
+    {
+      "title": "Light Purple",
+      "sku": "1154050",
+      "price": 6.99
+    },
+    {
+      "title": "Light Pink",
+      "sku": "1154051",
+      "price": 6.99
+    },
+    {
+      "title": "Light Blue",
+      "sku": "1154052",
+      "price": 6.99
+    },
+    {
+      "title": "Brown",
+      "sku": "1154048",
+      "price": 6.99
+    },
+    {
+      "title": "Black",
+      "sku": "1154049",
+      "price": 6.99
+    },
+    {
+      "title": "Black Carbon",
+      "sku": "1154055",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-xlim-go-lite-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mist-White-OXVA-Xlim-Go-Lite-Pod-Kit.jpg?v=1775751751",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-lite-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mist-Blue-OXVA-Xlim-Go-Lite-Pod-Kit.jpg?v=1775751834",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-lite-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Light-Purple-OXVA-Xlim-Go-Lite-Pod-Kit.jpg?v=1775751892",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-lite-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Light-Pink-OXVA-Xlim-Go-Lite-Pod-Kit.jpg?v=1775751921",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-lite-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Light-Blue-OXVA-Xlim-Go-Lite-Pod-Kit.jpg?v=1775751967",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-lite-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Brown-OXVA-Xlim-Go-Lite-Pod-Kit.jpg?v=1775752004",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-lite-pod-vape-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Carbon-OXVA-Xlim-Go-Lite-Pod-Kit.jpg?v=1775752029",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-lite-pod-vape-kit__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-OXVA-Xlim-Go-Lite-Pod-Kit.jpg?v=1775752045",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.438Z"
+}

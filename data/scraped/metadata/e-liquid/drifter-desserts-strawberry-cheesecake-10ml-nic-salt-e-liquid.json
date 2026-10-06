@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15537937121661",
+  "slug": "drifter-desserts-strawberry-cheesecake-10ml-nic-salt-e-liquid",
+  "title": "Drifter Desserts Strawberry Cheesecake 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/drifter-desserts-strawberry-cheesecake-10ml-nic-salt-e-liquid",
+  "brand": "Drifter",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Cheesecake by Drifter Desserts recreates the flavour of the classic dessert with layers of creamy Cheesecake and sweet, ripe Strawberries. The fruit’s juicy brightness cuts through the rich, velvety base, while subtle biscuit notes bring the profile together for a rounded and indulgent vape. Made with a 50VG/50PG blend, this Nic Salt e-liquid delivers a tactile yet comfortable throat hit, clear flavour, and discreet vapour production. It’s designed for mouth-to-lung (MTL) vaping and pairs perfectly with starter kits, refillable pod vapes, and compact vape pens. Available in 5mg, 10mg and 20mg nicotine strengths, it provides options to suit your preference. Produced in the UK by Juice Sauz, the Drifter Desserts range celebrates authentic dessert flavours that showcase the brand’s expertise in crafting complex, satisfying blends. Ideal for refillable vape uk and vape starter kit uk devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1148564",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148548",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148556",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__drifter-desserts-strawberry-cheesecake-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Strawberry-Cheesecake-10ml-5mg.jpg?v=1758109924",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-desserts-strawberry-cheesecake-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Strawberry-Cheesecake-10ml-10mg.jpg?v=1758109961",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-desserts-strawberry-cheesecake-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Strawberry-Cheesecake-10ml-20mg.jpg?v=1758110025",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

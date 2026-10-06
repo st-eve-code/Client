@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639652786500",
+  "slug": "edge-strawberry-lime-eliquid-5050",
+  "title": "Edge Strawberry & Lime 50/50 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/edge-strawberry-lime-eliquid-5050",
+  "brand": "Edge",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.5,
+    "max": 2.5,
+    "currency": "GBP"
+  },
+  "description": "Strawberry and Lime flavour from Edge E-liquids is a deliciously summery vape with ripe, fresh strawberries layered over a zesty streak of fresh lime. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio delivers a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "Coming-Soon-Edge-Strawberry-Lime-50/50-3mg",
+      "price": 2.5
+    },
+    {
+      "title": "6mg",
+      "sku": "1116077",
+      "price": 2.5
+    },
+    {
+      "title": "12mg",
+      "sku": "1116078",
+      "price": 2.5
+    },
+    {
+      "title": "18mg",
+      "sku": "1116079",
+      "price": 2.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__edge-strawberry-lime-eliquid-5050__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/edge-5050-strawberry-lime.jpg?v=1729046189",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.380Z"
+}

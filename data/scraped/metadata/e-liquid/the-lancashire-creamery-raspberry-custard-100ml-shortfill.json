@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15054383972733",
+  "slug": "the-lancashire-creamery-raspberry-custard-100ml-shortfill",
+  "title": "The Lancashire Creamery Farm Shop Raspberry Custard 100ml Shortfill",
+  "url": "https://www.vapestore.co.uk/products/the-lancashire-creamery-raspberry-custard-100ml-shortfill",
+  "brand": "The Lancashire Creamery",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "The Lancashire Creamery’s Raspberry Custard offers a luxurious e-liquid experience that brings together the tangy sweetness of ripe Raspberries with the silky smoothness of rich, velvety Custard. The Raspberry introduces a burst of tart, juicy flavour that cuts through the creamy, indulgent base, striking a perfect balance between sweet and sharp. This comforting dessert-inspired vape offers a deeply satisfying finish, perfect for those who enjoy a refined and well-rounded dessert-inspired blend. With a 70% VG / 30% PG formulation, this high-VG e-liquid is designed for sub-ohm vaping, making it ideal for high-powered vape kits, mods, sub-ohm tanks and low-resistance coils. The thick VG content ensures dense vapour production, while delivering consistently rich flavour. As a 100ml shortfill, this nicotine-free e-liquid leaves room for two 10ml nicotine shots, allowing you to customise your strength. Adding two 18mg nic shots creates 120ml of 3mg e-liquid. The Lancashire Creamery is a UK-based e-liquid brand known for crafting rich, indulgent dessert flavours. Their shortfill collection blends classic bakery, custard, and milkshake profiles, delivering smooth, full-bodied vapes for those who enjoy creamy, sweet treats.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139432",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-lancashire-creamery-raspberry-custard-100ml-shortfill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/TheLancashireCreamery-Farm-Shop-100ml-Raspberry-Custard.jpg?v=1741281921",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.550Z"
+}

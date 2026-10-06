@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15028708344189",
+  "slug": "juice-n-power-bar-salts-6000-double-apple-shisha-10ml-e-liquid",
+  "title": "Juice N Power Bar Salts 6000+ Double Apple Shisha 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-bar-salts-6000-double-apple-shisha-10ml-e-liquid",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Juice N Power Bar Salts 6000+ Double Apple Shisha delivers a deftly-layered blend of crisp Green Apple and sweet Red Apple flavours. The balance of tart and juicy apple notes creates a bold, satisfying vape enhanced with a smooth, fragrant exhale that perfectly captures the deep, aromatic essence of traditional Shisha. Designed for mouth-to-lung (MTL) vaping, this nicotine salt e-liquid provides a consistently smooth throat hit with optimised nicotine absorption. The 50/50 VG/PG ratio offers a great balance of flavour and vapour production, making it ideal for pod kits and vape starter kits. Juice N Power Bar Salts 6000+ e-liquids offer a cost-effective and sustainable alternative to single-use disposable vapes, allowing you to enjoy familiar and satisfying flavours in a refillable format. Available in 10mg and 20mg nicotine strengths, each bottle features a childproof cap and an easy-fill nozzle for convenience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1138848",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138883",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-bar-salts-6000-double-apple-shisha-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/JNP-bar-salts-6000_-10ml-nic-salts-Double-Apple-Shisha.jpg?v=1740054889",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.522Z"
+}

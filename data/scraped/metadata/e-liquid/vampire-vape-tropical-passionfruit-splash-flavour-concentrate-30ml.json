@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15287756325245",
+  "slug": "vampire-vape-tropical-passionfruit-splash-flavour-concentrate-30ml",
+  "title": "Vampire Vape Tropical Passionfruit Splash Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-passionfruit-splash-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Passionfruit Splash Flavour Concentrate from Vampire Vape’s Tropical collection captures a creamy medley of Curuba, Passionfruit and Banana for DIY e-liquid mixing. The Curuba delivers a tart, fruity edge with notes of peach and citrus, while Passionfruit adds a tropical tang and subtle sweetness. Banana completes the blend with a mellow, smooth finish that enhances the body of your e-liquid. This 30ml concentrate is designed for use in DIY e-liquid creation and must be diluted before vaping. Ideal for experienced mixers looking to customise VG/PG ratios and nicotine strengths. Vampire Vape concentrates are developed in the UK and are a popular choice among DIY vapers seeking rich, consistent flavour. Also available in Nic Salt, Freebase and Shortfill formats.",
+  "tags": [
+    "Flavour Concentrate"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141195",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-passionfruit-splash-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_30ml_Concentrates_Tropical_Collection_Passionfruit_Splash.jpg?v=1749461892",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.529Z"
+}

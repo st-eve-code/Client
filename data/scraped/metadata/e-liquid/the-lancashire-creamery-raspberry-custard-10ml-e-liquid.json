@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15054558953853",
+  "slug": "the-lancashire-creamery-raspberry-custard-10ml-e-liquid",
+  "title": "The Lancashire Creamery Raspberry Custard 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/the-lancashire-creamery-raspberry-custard-10ml-e-liquid",
+  "brand": "The Lancashire Creamery",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Lancashire Creamery’s Raspberry Custard offers a luxurious blend of tart, juicy Raspberries swirled into a rich, velvety Custard. The inhale brings the bright, slightly tangy burst of ripe Raspberry, balanced beautifully by the smooth, creamy Custard that adds depth and indulgence to the flavour. The result is a perfectly balanced dessert vape with layers of sweetness and richness that linger on the exhale. This nic salt e-liquid delivers a smooth, comfortable throat hit and rapid nicotine relief, making it ideal for MTL (mouth-to-lung) vaping. The 50% VG / 50% PG ratio ensures a consistent flavour experience with discreet vapour production, making it perfect for pod systems, vape pens, and starter kits. Available in 5mg, 10mg, and 20mg nicotine strengths, this 10ml e-liquid caters to vapers seeking a lower, moderate, or higher nicotine level. The Lancashire Creamery is a UK-based brand dedicated to crafting indulgent dessert-inspired e-liquids, blending classic bakery and custard flavours for vapers who enjoy rich, satisfying vape experiences.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1139479",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1139482",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139485",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-lancashire-creamery-raspberry-custard-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-lancashire-creamery-raspberry-custard-10ml-nicotine-salts.jpg?v=1741260194",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.434Z"
+}

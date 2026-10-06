@@ -1,0 +1,117 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639660781892",
+  "slug": "vampire-vape-heisenberg-gum-flavour-eliquid-10ml",
+  "title": "Vampire Vape Heisenberg Gum 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-heisenberg-gum-flavour-eliquid-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape's Heisenberg Gum Nic Salt sees two classic flavours collide in one irresistible e-liquid. The base flavour is Vampire Vape’s legendary Heisenberg, a perfectly balanced fusion of tart, tangy Red Berries and crisp, cool Menthol. To this they’ve added a layer of vibrant fruit bubblegum flavour, enhancing Heisenberg with a nostalgically sweet and bubbly taste that adds a winning new dimension to the award-winning flavour. This premium Nic Salt e-liquid offers an ideal balance between flavour and cloud production with its 50VG/50PG blend, suitable for classic e-cigarette starter kits and pod vape devices. Tailored for vapers transitioning from smoking or those seeking quick, satisfying nicotine relief, Heisenberg Gum Nic Salt provides a super-smooth throat hit and fast nicotine absorption. The use of nicotine salts ensures a higher nicotine concentration while delivering a smoother experience than traditional high-strength freebase nicotine. This formulation allows for faster absorption into the bloodstream, offering almost immediate relief from nicotine cravings. Discover more new twists on Heisenberg with Heisenberg Grape, Cola and Orange Nic Salt flavours! This 40VG/60PG & (50/50 only if 3mg) e-liquid delivers maximum flavour and a smooth, satisfying throat hit, and is ideal for use with starter vape kits, compact pod vape kits and pen vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Heisenberg"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1115822",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1115954",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1115958",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1115962",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1115966",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-heisenberg-gum-flavour-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_gum_800x800_00592e2c-c95d-4850-899e-38aadc98dcac.jpg?v=1729046511",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-gum-flavour-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_gum_800x800_5.jpg?v=1729046511",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-gum-flavour-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_gum_800x800_4.jpg?v=1729046511",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-gum-flavour-eliquid-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_gum_800x800_3.jpg?v=1729046511",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-gum-flavour-eliquid-10ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_gum_800x800_2.jpg?v=1729046511",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-gum-flavour-eliquid-10ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_gum_800x800_1.jpg?v=1729046511",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.469Z"
+}

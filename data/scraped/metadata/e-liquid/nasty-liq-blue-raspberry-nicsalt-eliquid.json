@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639843561796",
+  "slug": "nasty-liq-blue-raspberry-nicsalt-eliquid",
+  "title": "Nasty Liq Blue Raspberry 10ml Nic Salt E-Liquid By Nasty Juice",
+  "url": "https://www.vapestore.co.uk/products/nasty-liq-blue-raspberry-nicsalt-eliquid",
+  "brand": "Nasty Liq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Nasty Liq's Blue Raspberry takes you on a tantalizing taste trip, artfully combining the syrupy sweetness of blueberries with the tangy zing of raspberries. As you inhale, the bold and bright taste of blueberries engulfs your senses, reminiscent of a fruity syrup drizzled over a summer dessert. This rich blueberry flavour is both intensely sweet and delightfully smooth, setting the stage for a truly luscious vape experience. Then, the raspberries come into play, their tartness cutting through the sweetness to bring balance and depth to each puff. It's like biting into a fresh raspberry, the kind that's just the right amount of ripe, bursting with tangy flavour. This combination of blueberry and raspberry creates a vibrant tapestry of taste, with each draw weaving a more complex and satisfying pattern than the last. The result is an e-liquid that's both familiar in its berry sweetness and exciting in its tangy complexity. Nasty Liq's Blue Raspberry is a must-try for vapers who relish a full-bodied fruit flavour with a twist This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. If you enjoy this flavour, there are plenty more delicious Nasty Liq flavours to try. Nasty Juice have fine-tuned their vape juices for optimised performance with the vast majority of MTL (mouth-to-lung) devices. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and many are also available in Nasty Juice’s super-convenient Nasty Bar disposable vape bars.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127950",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127968",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-liq-blue-raspberry-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-blue-raspberry-10ml-nic-salt-eliquid_1_1.jpg?v=1729056112",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-blue-raspberry-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-blue-raspberry-10ml-nic-salt-eliquid.jpg?v=1729056112",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-blue-raspberry-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-blue-raspberry-10ml-nic-salt-eliquid_1.jpg?v=1729056112",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.583Z"
+}

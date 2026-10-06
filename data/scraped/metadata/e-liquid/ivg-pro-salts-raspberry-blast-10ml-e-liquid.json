@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15944175157629",
+  "slug": "ivg-pro-salts-raspberry-blast-10ml-e-liquid",
+  "title": "IVG Pro Salts Raspberry Blast 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-pro-salts-raspberry-blast-10ml-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Pro Nic Salts Raspberry Blast 10ml E-Liquid delivers an unapologetically sweet and vibrant fruit experience. This expertly crafted recipe focuses on the rich, tangy essence of ripe Raspberry, creating a deeply fruity foundation. This fruit base is then elevated by sugary, Confectionery-inspired undertones that provide a smooth, chewy-tasting finish, making it a highly rewarding choice for vapers who enjoy deeply sweet profiles. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. IVG Pro Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits, serving as a highly cost-effective alternative to single-use or prefilled systems. The IVG Pro Salts collection takes the globally revered flavour profiles from the beloved IVG Pro prefilled pod range and makes them available in convenient 10ml bottles. As a multi-award-winning UK brand, IVG ensures exceptional quality across a massive selection of e-liquids. Beyond the vibrant sweetness of Raspberry Blast, vapers can explore other standout options such as the deep complexity of Mr Blue or the crisp, tropical refreshment of Pineapple Ice, ensuring a premium choice for every preference.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "IVG Pro Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1157541",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1157563",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-pro-salts-raspberry-blast-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-PRO-Salts-10mg-Raspberry-Blast.jpg?v=1783002437",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-pro-salts-raspberry-blast-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-PRO-Salts-20mg-Raspberry-Blast-Thumbnail.jpg?v=1783002531",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.334Z"
+}

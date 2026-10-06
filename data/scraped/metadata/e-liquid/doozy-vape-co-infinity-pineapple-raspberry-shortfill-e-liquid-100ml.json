@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15454557045117",
+  "slug": "doozy-vape-co-infinity-pineapple-raspberry-shortfill-e-liquid-100ml",
+  "title": "Doozy Vape Co Infinity Pineapple Raspberry Shortfill E-Liquid 100ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-pineapple-raspberry-shortfill-e-liquid-100ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Raspberry by Doozy Infinity is a bright, juicy fruit combo that balances sweet and tangy notes with delightful results. The Pineapple comes through with its sharp and tangy, golden sweetness, while Raspberry adds a ruby red jammy depth that’s both vibrant and slightly tart. Together, they create a refreshing all-day vape that delivers deep flavour and reliable satisfaction. This 70VG/30PG high-VG e-liquid is designed for Sub-Ohm vaping and performs best in powerful DTL (direct-to-lung) devices and vape tanks. Each 120ml shortfill bottle contains 100ml of nicotine-free e-liquid, with room to add two 10ml nicotine shots to suit your preference. Part of the Doozy Infinity Shortfill range, this fruity blend delivers the fuller flavour and thicker clouds Sub-Ohm vapers expect.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL",
+    "Infinity",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144400",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-pineapple-raspberry-shortfill-e-liquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Raspberry-Doozy-Infinity-100ml-Bottle.jpg?v=1754923292",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.544Z"
+}

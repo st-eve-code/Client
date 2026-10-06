@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15493791646077",
+  "slug": "baa-juice-strawberry-ice-10ml-nic-salt-e-liquid",
+  "title": "Baa Juice Strawberry Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-strawberry-ice-10ml-nic-salt-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Strawberry Ice Nic Salt pairs the ripe, juicy sweetness of Strawberry with a brisk layer of Ice for a cool twist on a classic fruit flavour. The Strawberry comes through with a burst of summer brightness, while the clean icy finish keeps each puff feeling crisp and refreshing. Part of the Baa Juice Bar Salts collection, this nicotine salt e-liquid is formulated with double-concentrated flavour to capture the impactful taste associated with bar-style vapes. The 50VG/50PG ratio makes it ideal for Mouth-To-Lung (MTL) vaping, ensuring bright flavour delivery, discreet vapour, and a smooth throat hit. Available in 5mg, 10mg, and 20mg nicotine strengths, Baa Juice Strawberry Ice Nic Salt is a fruity all-day vape that works best with refillable pod kits and vape starter kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1144542",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1144532",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1144522",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-strawberry-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-baa-juice-strawberry-ice-10ml-nicotine-salts.jpg?v=1756380706",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.349Z"
+}

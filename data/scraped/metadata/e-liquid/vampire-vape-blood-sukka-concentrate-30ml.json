@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639814529348",
+  "slug": "vampire-vape-blood-sukka-concentrate-30ml",
+  "title": "Vampire Vape Blood Sukka Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-blood-sukka-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Brace yourself for an e-liquid that packs one ferocious bite! Vampire Vape’s Blood Sukka is an enchanting potion that melds luscious cherries, berries, and red fruits with a hint of sweet eucalyptus, intensified by a bold undercurrent of aniseed and menthol. Blood Sukka's delectable harmony of flavours weaves a spellbinding tapestry, leaving you captivated and craving more. Embrace the intensity of Blood Sukka, a fiercely flavoursome infusion that's not for the faint of heart. Add to VG/PG DIY Mixing Products for optimum flavour. All Vampire Vape flavour concentrates are 100% PG based. Please note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes. Details 100% PG Based 0mg E-liquid Add to a VG/PG base e-liquid mix Mix your own e-liquids, just the way you like Made in the UK",
+  "tags": [
+    "Flavour Concentrate"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1007763",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-blood-sukka-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-blood-sukka-30ml-concentrates.jpg?v=1729054030",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.592Z"
+}

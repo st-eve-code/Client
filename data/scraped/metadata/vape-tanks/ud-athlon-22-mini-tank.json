@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639296205124",
+  "slug": "ud-athlon-22-mini-tank",
+  "title": "UD  Athlon 22 Mini Tank",
+  "url": "https://www.vapestore.co.uk/products/ud-athlon-22-mini-tank",
+  "brand": "UD",
+  "productType": "Tanks",
+  "price": {
+    "min": 19.99,
+    "max": 19.99,
+    "currency": "GBP"
+  },
+  "description": "This sturdy yet stylish tank from UD boasts top-filling and top airflow technology for convenient and personally tailored vaping. A 510 thread connection ensures adaptability on a wide range of devices, whilst the MOCC (Mesh Organic Cotton) coil produces thick vapour and rich, full flavour.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Silver",
+      "sku": "422769",
+      "price": 19.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ud-athlon-22-mini-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/422969_ud_athlontank_black_001_1.jpg?v=1729033483",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.627Z"
+}

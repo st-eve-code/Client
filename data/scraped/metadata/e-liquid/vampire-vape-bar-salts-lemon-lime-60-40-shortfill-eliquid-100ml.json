@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639908802884",
+  "slug": "vampire-vape-bar-salts-lemon-lime-60-40-shortfill-eliquid-100ml",
+  "title": "Bar Salts Lemon & Lime Shortfill E-Liquid 100ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-lemon-lime-60-40-shortfill-eliquid-100ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape's Lemon Lime offers a vibrant combination of zesty lemon and tangy lime flavours. This e-liquid provides a sharp, refreshing vape that captures the essence of this classic citrus fruit combo, delivering a burst of sunny flavour with every puff. Vampire Vape Bar Salts Shortfills come in a 100ml bottle, mixed at a 60VG/40PG ratio, which is ideal for those seeking a great balance of flavour intensity and vapour production. This blend is especially suited for use with mouth-to-lung (MTL) devices, supporting coils of 0.6ohm or higher, and is perfect for vapers who appreciate a richer, fuller MTL vaping experience. This addition to the Bar Salts collection continues Vampire Vape's tradition of providing intense flavours inspired by the MTL kick of disposable vapes, now available in a more sustainable and economical 100ml format. The larger bottle size offers long-lasting use and the flexibility to add nicotine shots, accommodating up to 120ml of 3mg e-liquid when two 10ml, 18mg nicotine shots are added. Explore the extensive range of Vampire Vape Bar Salts Shortfill flavours, including unique offerings such as Kiwi Passion Fruit Guava and Blue Sour Raspberry, ensuring a variety of choices for every vaper's preference.",
+  "tags": [
+    "100ml shortfill",
+    "60/40 Shortfill",
+    "Bar Salts",
+    "DTL",
+    "Lemon and Lime"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130751",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-lemon-lime-60-40-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_100ml-shortfills_lemon-_-lime.jpg?v=1729060508",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.500Z"
+}

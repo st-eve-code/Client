@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639645086020",
+  "slug": "cool-crush-doozy-legends-eliquid-100ml",
+  "title": "Doozy Vape Co Doozy Legends Cool Crush 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/cool-crush-doozy-legends-eliquid-100ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "This amazing eliquid from Doozy Vape’s Legends collection features a sweet, smooth blue raspberry slush flavour with subtle sour notes, finished with a layer of frosty menthol for a truly refreshing finish. This convenient 100ml shortfill bottle really helps your favourite e-liquid go the distance and comes with 25ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. This e-liquid’s 70VG/30PG ratio makes it ideal for high-powered pod kits , mods and sub-ohm tanks .",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL",
+    "Legends"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1116526",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__cool-crush-doozy-legends-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-legends-cool-crush.jpg?v=1729045868",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.616Z"
+}

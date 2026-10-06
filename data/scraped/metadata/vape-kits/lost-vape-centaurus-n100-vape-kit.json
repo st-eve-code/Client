@@ -1,0 +1,95 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14907692253565",
+  "slug": "lost-vape-centaurus-n100-vape-kit",
+  "title": "Lost Vape Centaurus N100 Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-centaurus-n100-vape-kit",
+  "brand": "Lost Vape",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 37.99,
+    "max": 37.99,
+    "currency": "GBP"
+  },
+  "description": "Please Note: Batteries are NOT included with this kit. The Lost Vape Centaurus N100 Kit combines cutting-edge performance with striking aesthetics, offering a sub-ohm vaping experience designed for vapers who demand style, versatility, and power. With its translucent matte panels and robust zinc alloy construction, this device delivers durability and a sleek, modern look that can be customised to suit your style. Powered by a single 21700 or 18650 battery (sold separately), the Centaurus N100 delivers a peak output of 100W, making it perfect for direct-to-lung (DTL) vaping. Equipped with the advanced Quest 2.0 chipset, this kit offers Normal Mode for a stable, smooth experience, and DIY Mode which integrates with the 510 RBA platform for a fully customisable experience. The intuitive 3-in-1 jog dial interface and 0.96” TFT display allow you to effortlessly adjust settings, change modes, monitor battery life with an LED light indicator, and fine-tune your vaping preferences. The kit version includes the Centaurus Sub Ohm Tank, featuring a 2ml capacity and compatibility with UB Max coils. Pre-installed with a 0.15ohm coil for bold flavour and dense vapour production, the tank also includes a 0.3ohm coil for a balanced draw, making it ideal for high-VG e-liquids. An easy top-fill system and stainless steel construction ensure both convenience and longevity. With its sleek design, powerful performance, and versatile coil options, the Lost Vape Centaurus N100 Kit is the perfect choice for advanced vapers seeking a premium sub-ohm device that delivers exceptional flavour, clouds, and customisation.",
+  "tags": [
+    "compatible-with-1137768",
+    "compatible-with-1137769",
+    "compatible-with-1137770",
+    "Delisted",
+    "Exclude",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Grey Rock",
+        "Blue Waves",
+        "Pink Waves",
+        "Blue Thunder"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Grey Rock",
+      "sku": "1137256",
+      "price": 37.99
+    },
+    {
+      "title": "Blue Waves",
+      "sku": "1137258",
+      "price": 37.99
+    },
+    {
+      "title": "Pink Waves",
+      "sku": "1137259",
+      "price": 37.99
+    },
+    {
+      "title": "Blue Thunder",
+      "sku": "1137257",
+      "price": 37.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-centaurus-n100-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N100-kit-grey-rock.jpg?v=1734955968",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n100-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N100-kit-blue-waves.jpg?v=1734955968",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n100-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N100-kit-Pink-Waves.jpg?v=1734954523",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n100-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N100-kit-blue-thunder.jpg?v=1734954523",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.079Z"
+}

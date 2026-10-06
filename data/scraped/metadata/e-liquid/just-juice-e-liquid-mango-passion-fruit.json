@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639368163652",
+  "slug": "just-juice-e-liquid-mango-passion-fruit",
+  "title": "Just Juice Mango & Passion Fruit Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-e-liquid-mango-passion-fruit",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This e-liquid from Just Juice offers a blend of ripe, juicy mango with exotic passionfruit flavours for a subtle tart sweetness. As tropical as e-juice gets, you’d think you were vaping pure Caribbean sunshine with this premium e-liquid from Just Juice. This premium e-liquid’s 50VG/50PG blend hits just the right spot between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod Vape devices. Perfect for recent ex-smokers or vapers seeking the fast-acting nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "11mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1119040",
+      "price": 3.95
+    },
+    {
+      "title": "11mg",
+      "sku": "JC-JC-10-MP-11-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "JC-JC-10-MP-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-e-liquid-mango-passion-fruit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-mango-_-passionfruit-nic-salt.jpg?v=1729036796",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.378Z"
+}

@@ -1,0 +1,91 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14907751596413",
+  "slug": "lost-vape-centaurus-n100-box-mod",
+  "title": "Lost Vape Centaurus N100 Box Mod",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-centaurus-n100-box-mod",
+  "brand": "Lost Vape",
+  "productType": "MODS",
+  "price": {
+    "min": 35.99,
+    "max": 35.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Centaurus N100 Box Mod combines premium craftsmanship, cutting-edge technology, and exceptional power to deliver a fully customisable vaping experience. With its translucent matte panels and durable zinc alloy construction, the Centaurus N100 offers a sleek, modern aesthetic that stands out while remaining robust and reliable. Powered by a single 21700 or 18650 battery (sold separately), the Centaurus N100 delivers a peak output of 100W, making it ideal for direct-to-lung (DTL) vaping. The advanced Quest 2.0 chipset provides smooth and consistent power delivery, supporting Normal Mode for stable performance and DIY Mode for advanced customisation with rebuildable tanks. The intuitive 3-in-1 jog dial interface and 0.96” TFT colour screen make navigation effortless, allowing you to adjust wattage, change modes, and monitor essential settings at a glance. The Centaurus N100’s 510 connection ensures seamless compatibility with a wide range of tanks and rebuildable atomisers, catering to vapers who demand flexibility and performance. With its advanced features, striking design, and versatile functionality, the Lost Vape Centaurus N100 Box Mod is the ultimate choice for vapers seeking power, precision, and customisation. Please Note: Batteries are NOT included with this kit.",
+  "tags": [
+    "Box Mods",
+    "DTL",
+    "Kit-VS-Export",
+    "Mod-VS"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue Thunder",
+        "Pink Waves",
+        "Blue Waves",
+        "Grey Rock"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue Thunder",
+      "sku": "1137251",
+      "price": 35.99
+    },
+    {
+      "title": "Pink Waves",
+      "sku": "1137253",
+      "price": 35.99
+    },
+    {
+      "title": "Blue Waves",
+      "sku": "1137252",
+      "price": 35.99
+    },
+    {
+      "title": "Grey Rock",
+      "sku": "1137250",
+      "price": 35.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-centaurus-n100-box-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N100-Mod-blue-thunder.jpg?v=1734955930",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n100-box-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N100-Mod-Pink-Waves.jpg?v=1734955930",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n100-box-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N100-Mod-blue-waves.jpg?v=1734955930",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n100-box-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N100-Mod-grey-rock.jpg?v=1734955892",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.103Z"
+}

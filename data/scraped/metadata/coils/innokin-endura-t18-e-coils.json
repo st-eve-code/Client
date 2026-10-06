@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639274545476",
+  "slug": "innokin-endura-t18-e-coils",
+  "title": "Innokin Endura T18E Coils",
+  "url": "https://www.vapestore.co.uk/products/innokin-endura-t18-e-coils",
+  "brand": "Innokin",
+  "productType": "Coils",
+  "price": {
+    "min": 4.49,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Maintain the performance of your Innokin Endura T18E Kit and Prism T18E tank with these premium replacement coils, crafted to deliver a perfect balance of flavour and vapour. Available in packs of five, these coils boast a 1.5ohm resistance for a classic MTL (mouth-to-lung) vaping experience. They feature a 100% Japanese organic cotton wicking material to provide immaculate flavour with every draw and work best with 50/50, nic salts or high-PG e-liquids. Innokin's innovative no-spill coil swap system simplifies coil changes, allowing you to replace your coils without touching the e-liquid chamber, making maintenance clean and hassle-free. Whether you're a light, moderate, or heavy vaper, an Innokin Endura Prism coil can typically last from 1 to 3 weeks, making this 5-pack an excellent investment for 1 to 2 months of consistently rewarding vaping. You'll know it's time for a change when vapour production diminishes or your e-liquid starts to taste different. Each coil in this 5-pack is individually wrapped for quality and longevity, ensuring you always have a fresh coil to hand when you need it. Compatible with the Innokin Endura Kit, T18E , T18II , T18X, T22 Pro Kits, as well as T18E Pro & T22E tanks Please note: As these coils are shorter they are NOT Compatible with the Innokin T18 and T22 tanks. Please use the longer T18/T22 Coils for these tanks. Please Note: To improve the performance and longevity of your new coils, always prime them with your chosen e-liquid before inserting into your pod or tank. 'Priming a coil' simply means wetting the exposed cotton or similar wicking material with a dab or two of e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your coil, attached it to your pod or tank, and filled up with e-liquid, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "1.5ohm",
+        "1.5ohm Mesh",
+        "2.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5ohm",
+      "sku": "679758",
+      "price": 4.49
+    },
+    {
+      "title": "1.5ohm Mesh",
+      "sku": "1132180",
+      "price": 4.99
+    },
+    {
+      "title": "2.0ohm",
+      "sku": "685032",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-endura-t18-e-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-endura-t18-e-1-5.jpg?v=1729032481",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-t18-e-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-endura-t18-e-1-5_1.jpg?v=1729032481",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-t18-e-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/685032_innokin_enduraprismt18ecoils_20ohms_001.jpg?v=1729032481",
+      "position": 3,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-t18-e-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/685032_innokin_enduraprismt18ecoils_20ohms_001_1.jpg?v=1729032481",
+      "position": 4,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.867Z"
+}

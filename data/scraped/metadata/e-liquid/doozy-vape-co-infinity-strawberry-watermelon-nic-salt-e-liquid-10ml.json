@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15454405984637",
+  "slug": "doozy-vape-co-infinity-strawberry-watermelon-nic-salt-e-liquid-10ml",
+  "title": "Doozy Vape Co Infinity Strawberry Watermelon Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-strawberry-watermelon-nic-salt-e-liquid-10ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Watermelon by Doozy Infinity brings together two summer staples in a juicy, sweet-tasting blend. Ripe Strawberry leads the way with its bright, jammy flavour, while Watermelon adds a gentle sweetness and lush, refreshing lift. The combination delivers a fruit vape that’s clean, rounded and irresistibly smooth, making it a great choice for an easy, all-day vape. Designed for mouth-to-lung (MTL) vaping, this Nicotine Salt e-liquid is blended at a 50VG/50PG ratio and performs best in pod kits , vape pens and low-powered refillable vapes . The nic salt formula ensures faster absorption and a more comfortable throat hit, especially at higher strengths. Available in 5mg, 10mg and 20mg strengths, Doozy Infinity Nic Salts are ideal for vapers looking for clear, well-crafted fruit blends with reliable satisfaction in every bottle.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Infinity",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1144390",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1144377",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1144384",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-strawberry-watermelon-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-WatermelonDoozy-Infinity-Salts-10ml.jpg?v=1754919967",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.484Z"
+}

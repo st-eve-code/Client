@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15019999199613",
+  "slug": "dinner-lady-fruit-full-kiwi-passion-lime-10ml-nic-salt-e-liquid",
+  "title": "Dinner Lady Fruit Full Kiwi Passion Lime 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-fruit-full-kiwi-passion-lime-10ml-nic-salt-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dinner Lady’s Fruit Full Kiwi Passion Lime delivers a bright and exotic fusion of sweet, tangy, and citrus flavours. The delicate sweetness of ripe Kiwi brings a juicy, tropical depth, while the tart and aromatic notes of Passionfruit add a lively contrast. A final burst of zesty Lime sharpens the blend, creating a bold and refreshing vape. Part of the Fruit Full Bar Salts collection, Kiwi Passion Lime is crafted to capture the layered, intense flavours commonly found in disposable vapes. Using a double-concentrated Nic Salt formula, this e-liquid ensures long-lasting flavour while providing a smooth and consistent vape. Blended at 50VG/50PG, this e-liquid offers a balance of vapour production and flavour clarity, making it ideal for MTL (mouth-to-lung) vaping. The nicotine salt formulation provides a smooth throat hit and fast nicotine satisfaction, making it best suited for use with pod kits and classic vape starter devices. Since 2016, Dinner Lady has been crafting premium e-liquids that are now enjoyed in over 80 countries worldwide. Their dedication to high-quality ingredients and expertly developed blends continues to make them a favourite among vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138564",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1138580",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138596",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-fruit-full-kiwi-passion-lime-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DL-Bar-Salts-FRUITS-Kiwi-Passion-Lime-10ml-10mg-GB.jpg?v=1739806228",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.359Z"
+}

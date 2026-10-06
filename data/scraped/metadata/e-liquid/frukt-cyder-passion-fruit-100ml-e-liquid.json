@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639353385284",
+  "slug": "frukt-cyder-passion-fruit-100ml-e-liquid",
+  "title": "Frukt Cyder Passion Fruit 100ml E-liquid",
+  "url": "https://www.vapestore.co.uk/products/frukt-cyder-passion-fruit-100ml-e-liquid",
+  "brand": "Frukt Cyder",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "Frukt Cider’s light and luscious Passionfruit e-liquid is loaded with the tangy taste of ripe passionfruits, lovingly squeezed down to their very last drop of juicy deliciousness. The exhale is glazed with the sparkling sensation of sweet apple cider and adds a shot of pure refreshment to this tantalisingly-tart summertime vape.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "PH-FC-PF-00-VG",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__frukt-cyder-passion-fruit-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/frukt-cyder-passionfruit-short-fill-e-liquid-ph-fc-pf-00-vg.jpg?v=1729035968",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.640Z"
+}

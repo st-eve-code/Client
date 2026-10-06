@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15002974126461",
+  "slug": "ox-passion-mint-mix-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Mint Mix Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-mint-mix-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Salts Mint Mix is a refreshing fusion of ice-cool mint varieties, expertly blended for a layered and uplifting vape. A bright peppermint top note gives way to the cooling depth of spearmint, finishing with a clean and frosty exhale. Crafted with a 50VG/50PG balance, this nicotine salt e-liquid is designed for mouth-to-lung (MTL) vaping, delivering smooth nicotine satisfaction with a refined flavour profile. Ideal for use with pod vape kits and starter devices, it provides a consistently fresh and satisfying vape experience. Developed by Oxva, a trusted name in vaping technology, the OX Passion Salts range brings expertly crafted flavours designed to pair seamlessly with Oxva’s XLIM pod kits and other refillable vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132786",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139096",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-mint-mix-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ox-Passion_0010_Mint-Mix.jpg?v=1739184689",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.388Z"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639873708356",
+  "slug": "88vape-cherry-cola-5050-eliquid-10ml-6mg",
+  "title": "88Vape Any Tank Cherry Cola 10ml E-Liquid- 6mg",
+  "url": "https://www.vapestore.co.uk/products/88vape-cherry-cola-5050-eliquid-10ml-6mg",
+  "brand": "88Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.2,
+    "max": 1.2,
+    "currency": "GBP"
+  },
+  "description": "88Vape’s Cherry Cola from the Anytank series offers a perfect rendition of an all-time favourite beverage. This e-liquid brings the familiar and comforting taste of classic cola, infused with a hint of cherry to add a fruity twist. The combination creates a flavour that is both refreshing and indulgently sweet. The initial hit is all about that unmistakable cola flavour, which is then beautifully complemented by the subtle, sugary-sweet notes of cherry, making each vape a delightfully balanced experience. This e-liquid is a fantastic choice for vapers who cherish the taste of cherry cola and are looking for an everyday vape that combines the best of both worlds. This 50/50 e-liquid from 88Vape offers a perfect balance of PG and VG, providing delicious flavour, smooth throat yet tactile throat hit and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. 88Vape are one of the most popular and bestselling vape brands in the UK. They have helped countless smokers make the switch to the far safer alternative of vaping with the help of delicious e-liquids at wallet-friendly prices.",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128352",
+      "price": 1.2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__88vape-cherry-cola-5050-eliquid-10ml-6mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-cherry-coola-10ml-eliquid.jpg?v=1729058260",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.579Z"
+}

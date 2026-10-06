@@ -1,0 +1,135 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15787799052669",
+  "slug": "smok-novo-6-ultra-pod-vape-kit",
+  "title": "SMOK Novo 6 Ultra Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-6-ultra-pod-vape-kit",
+  "brand": "SMOK",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The SMOK Novo 6 Ultra Pod Vape Kit is possibly the ultimate iteration of the iconic device that helped kick off the pod kit revolution. While it retains the impressive 1700mAh battery and 40W output of its sibling, the standard SMOK Novo 6, the \"Ultra\" completely reimagines the user interface for a smarter, more immersive experience. The standard buttons are replaced by a striking 1.65-inch TFT Touchscreen, the largest in the series, offering intuitive swipe-and-tap control over every aspect of your vape. Designed for those who demand precision, the Novo 6 Ultra introduces three distinct output modes to tailor the performance curve: \"Norm\" for consistent output, \"Smooth\" for a gentler MTL experience, and \"Boost\" for immediate ramp-up and intense vapour. The device also features intelligent haptic feedback, vibrating to confirm adjustments and alert you to system status. The visual experience is equally customisable, with four dynamic themes (Moon, Kaleidoscope, Melody, and Minimalism) that animate in response to your draw. Despite its high-tech interface, the Ultra remains grounded in everyday usability. It utilises the proven SMOK Novo 5 pod platform, featuring the signature wide “duck-bill” mouthpiece and top-fill design for mess-free refilling and leak-resistant construction. Fully compatible with the wider Novo 5 ecosystem, the Novo 6 Ultra offers the perfect blend of innovative tech and reliable daily performance. Complete your vaping experience with smooth, high-quality liquid vape designed for this kit. We recommend using 50/50 or Nic Salt E-Liquid with this kit Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1122342",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Gold",
+        "Lake Blue",
+        "Dark Blue",
+        "Red",
+        "Purple",
+        "Silver",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Gold",
+      "sku": "1153114",
+      "price": 24.99
+    },
+    {
+      "title": "Lake Blue",
+      "sku": "1153115",
+      "price": 24.99
+    },
+    {
+      "title": "Dark Blue",
+      "sku": "1153116",
+      "price": 24.99
+    },
+    {
+      "title": "Red",
+      "sku": "1153117",
+      "price": 24.99
+    },
+    {
+      "title": "Purple",
+      "sku": "1153118",
+      "price": 24.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1153119",
+      "price": 24.99
+    },
+    {
+      "title": "Black",
+      "sku": "1153120",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-6-ultra-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Gold-Smok-Novo-6-Ultra-Pod-Kit.jpg?v=1770135361",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-6-ultra-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lake-Blue-Smok-Novo-6-Ultra-Pod-Kit.jpg?v=1770135553",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-6-ultra-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dark-Blue-Smok-Novo-6-Ultra-Pod-Kit.jpg?v=1770135609",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-6-ultra-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Smok-Novo-6-Ultra-Pod-Kit.jpg?v=1770135689",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-6-ultra-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Purple-Smok-Novo-6-Ultra-Pod-Kit.jpg?v=1770135806",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-6-ultra-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Silver-Smok-Novo-6-Ultra-Pod-Kit.jpg?v=1770135938",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-6-ultra-pod-vape-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Smok-Novo-6-Ultra-Pod-Kit.jpg?v=1770136068",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.097Z"
+}

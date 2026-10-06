@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639440351556",
+  "slug": "cyber-rabbit-neon-nicsalt",
+  "title": "Jack Rabbit Cyber Rabbit Neon Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/cyber-rabbit-neon-nicsalt",
+  "brand": "Jack Rabbit",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Jack Rabbit’s Cyber Rabbit Neon nic salt is an exquisite blend of juicy, soft peach on the inhale and a bright and tangy grapefruit on the exhale. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "JR-JR-10-CR-NE-05-NS",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "JR-JR-10-CR-NE-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "JR-JR-10-CR-NE-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__cyber-rabbit-neon-nicsalt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/cyber-rabbit-10ml-nicotine-salts-neon.jpg?v=1729039733",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.629Z"
+}

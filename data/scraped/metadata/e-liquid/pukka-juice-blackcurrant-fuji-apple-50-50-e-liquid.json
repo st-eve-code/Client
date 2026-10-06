@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639541276996",
+  "slug": "pukka-juice-blackcurrant-fuji-apple-50-50-e-liquid",
+  "title": "Pukka Juice Blackcurrant Fuji Apple 10ml 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-blackcurrant-fuji-apple-50-50-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Deliciously crisp and sweet fresh Apples play beautifully with the sharp tang of blackcurrants, lifted further with a zesty edge of citrus. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio allows for a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquid Promotion",
+    "10ml Multi-Buys",
+    "50/50 E-Liquid",
+    "BRANDS",
+    "Default Category",
+    "E Liquid",
+    "E-Liquid 50pg 50vg",
+    "FLAVOUR TYPE",
+    "Fruit",
+    "Fruit E-liquid Flavours",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "NEW IN",
+    "prime-1020",
+    "Pukka Juice",
+    "VAPE TYPE",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "PJ-10-BFA-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "PJ-10-BFA-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "PJ-10-BFA-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-blackcurrant-fuji-apple-50-50-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/blackcurrant-fiji-apple-5050.jpg?v=1729041994",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.473Z"
+}

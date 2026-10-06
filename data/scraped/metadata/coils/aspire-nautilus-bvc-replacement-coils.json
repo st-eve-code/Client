@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639274316100",
+  "slug": "aspire-nautilus-bvc-replacement-coils",
+  "title": "Aspire Nautilus BVC Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/aspire-nautilus-bvc-replacement-coils",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "Keep your setup running smoothly with Aspire Nautilus BVC replacement coil heads. The innovative coil's unique design helps the atomizer head last longer than traditional coils and offer better, purer flavour along the way.",
+  "tags": [
+    "compatible-with-11717",
+    "compatible-with-121200",
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "1.6ohm",
+        "1.8 ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.6ohm",
+      "sku": "1000290",
+      "price": 6.99
+    },
+    {
+      "title": "1.8 ohm",
+      "sku": "1000291",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nautilus-bvc-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1435588477_7542.jpg?v=1729032465",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-bvc-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1435588542_415.jpg?v=1729032465",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.867Z"
+}

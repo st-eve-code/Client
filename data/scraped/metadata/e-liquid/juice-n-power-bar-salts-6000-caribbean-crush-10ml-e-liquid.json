@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15028720861565",
+  "slug": "juice-n-power-bar-salts-6000-caribbean-crush-10ml-e-liquid",
+  "title": "Juice N Power Bar Salts 6000+ Caribbean Crush 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-bar-salts-6000-caribbean-crush-10ml-e-liquid",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Juice N Power Bar Salts 6000+ Caribbean Crush is an exotic fusion of tropical fruits lifted with a cool, refreshing finish. Vibrant, juicy flavours burst through on the inhale, delivering a colourful medley of sun-ripened fruit flavours, while an icy exhale leaves a crisp and refreshing sensation making this an exceptional all-day vape for fans of bright fruit flavours. Designed for mouth-to-lung (MTL) vaping, this nicotine salt e-liquid delivers fast relief from cravings with a consistently smooth throat hit. The balanced 50/50 VG/PG ratio ensures vibrant flavour clarity while keeping vapour production discreet, making it an excellent choice for pod kits and vape starter kits. Juice N Power Bar Salts 6000+ e-liquids provide a cost-effective and sustainable alternative to single-use disposable vapes, offering familiar and satisfying flavours in a refillable format. Available in 10mg and 20mg nicotine strengths, each bottle features a childproof cap and an easy-fill nozzle for convenience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1138845",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138881",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-bar-salts-6000-caribbean-crush-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/JNP-bar-salts-6000_-10ml-nic-salts-Caribbean-Crush.jpg?v=1740055325",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.501Z"
+}

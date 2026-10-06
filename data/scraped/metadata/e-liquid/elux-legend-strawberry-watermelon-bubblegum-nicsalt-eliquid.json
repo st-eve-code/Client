@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639769637188",
+  "slug": "elux-legend-strawberry-watermelon-bubblegum-nicsalt-eliquid",
+  "title": "Elux Legend Strawberry Watermelon Bubblegum Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-strawberry-watermelon-bubblegum-nicsalt-eliquid",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Watermelon Bubblegum from Elux Legend Nic Salts is a sweet and juicy candy flavour that will transport you to carefree summer days. This irresistible e-liquid offers the perfect combination of juicy strawberries, refreshing watermelon, and sweet bubblegum, providing a smooth and satisfying throat hit. Experience the iconic flavours of Elux disposables in a convenient and portable 10ml bottle with our Elux Legend Nic Salts collection. With a 50% VG / 50% PG concentration, our Elux Legend Nic Salts e-liquids produce a discreet amount of flavour-rich vapour with a smooth, comfortable throat hit, while providing rapid relief from nicotine cravings. Our Elux Legend Nic Salts e-liquids are available in 10mg or 20mg nicotine strength , making them ideal for recent ex-smokers or vapers seeking the immediate and satisfying nicotine relief provided by nic salts. Each flavour is carefully crafted using premium ingredients, ensuring a clean and authentic taste that will tantalize your taste buds with each puff. Elux Legend Nic Salts e-liquids provide a smoother and more satisfying hit than traditional freebase nicotine as nicotine salts are absorbed into the bloodstream faster, allowing for a quick and efficient nicotine delivery without any harshness or throat irritation. The Elux Legend Nic Salts are designed for use with pod systems and other low-wattage devices, providing a more concentrated and flavourful vaping experience. They are the perfect choice for vapers seeking a high-quality, smooth, and satisfying nicotine hit coupled with incredible flavours. Try the Elux Legend Nic Salts line today and experience the next level of vaping satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1123101",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1123115",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-strawberry-watermelon-bubblegum-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-nic-salt-strawberry-watermelon-bubblegum-e-liquid-10ml_1_1.jpg?v=1729050851",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-legend-strawberry-watermelon-bubblegum-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-nic-salt-strawberry-watermelon-bubblegum-e-liquid-10ml.jpg?v=1729050851",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-legend-strawberry-watermelon-bubblegum-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-nic-salt-strawberry-watermelon-bubblegum-e-liquid-10ml_1.jpg?v=1729050851",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.373Z"
+}

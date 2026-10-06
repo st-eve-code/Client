@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15244503253373",
+  "slug": "double-drip-lemon-lime-nic-salt-10ml-e-liquid",
+  "title": "Double Drip Lemon & Lime Nic Salt 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-lemon-lime-nic-salt-10ml-e-liquid",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Double Drip Lemon and Lime delivers a classic citrus combo that’s as clean and punchy as it is refreshing. Zesty Lemon brings a tangy brightness, while Lime adds a juicy, slightly sweet twist to balance the sharpness. The combination creates a lively fruit vape with a crisp finish that’s ideal for citrus lovers seeking a bold but balanced profile. Formulated with nicotine salts for faster nicotine absorption and a smoother throat hit, this e-liquid is blended at a 50VG/50PG ratio and designed for MTL (mouth-to-lung) vaping. It performs best in low-powered pod kits, vape pens, and starter devices, offering consistent flavour and discreet vapour production. Available in 10mg and 20mg nicotine strengths, Double Drip Nic Salts are available in a wide range of bold and satisfying flavour profiles to suit everyday vaping. Double Drip are one of the most celebrated and influential e-liquid brands in the UK and the masterminds of some of the most iconic vape flavours ever made. Vibrant, authentic, and highly inventive flavours are a hallmark of all Double Drip vape juices, and this newest collection of truly timeless flavours in smooth, satisfying nic salts won’t disappoint.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquid",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140623",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140632",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-lemon-lime-nic-salt-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Lemon-_-Lime-Nic-Salt-10mg.jpg?v=1753720207",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__double-drip-lemon-lime-nic-salt-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Lemon-_-Lime-Nic-Salt-20mg.jpg?v=1753720211",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.369Z"
+}

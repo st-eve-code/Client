@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639610024260",
+  "slug": "sour-green-apple-50-50-eliquid-ivg",
+  "title": "IVG  Sour Green Apple E-Liquid 50/50",
+  "url": "https://www.vapestore.co.uk/products/sour-green-apple-50-50-eliquid-ivg",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG's Sour Green Apple 50/50 e-liquid is a sharp and crisp sour apple e-liquid flavour for a refreshing MTP vape. IVG’s 50/50 e-liquids contain equal quantities of VG (vegetable glycerin) and PG (propylene glycol) for a perfect balance between flavour and vapour production. Easy on the throat yet They’re ideal for starter kits and pod devices .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "IV-10-SGA-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "IV-10-SGA-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "IV-10-SGA-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__sour-green-apple-50-50-eliquid-ivg__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-5050-ELiquids-3mg-Sour-Green-Apple.png?v=1759996944",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__sour-green-apple-50-50-eliquid-ivg__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-5050-ELiquids-6mg-Sour-Green-Apple.png?v=1759996955",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__sour-green-apple-50-50-eliquid-ivg__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-5050-ELiquids-12mg-Sour-Green-Apple.png?v=1759996961",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.618Z"
+}

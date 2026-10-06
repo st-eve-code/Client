@@ -1,0 +1,122 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639579320644",
+  "slug": "smok-tfv18-mini-sub-ohm-tank-2ml",
+  "title": "SMOK TFV18 Mini Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-tfv18-mini-sub-ohm-tank-2ml",
+  "brand": "SMOK",
+  "productType": "Tanks",
+  "price": {
+    "min": 27.99,
+    "max": 27.99,
+    "currency": "GBP"
+  },
+  "description": "As part of Smok’s hugely popular TFV series of bestselling sub-ohm tank, the compact but powerful TFV18 Mini is a stylish tank that can be paired with most vape mods with its 510 threaded connection. Available in six colours, the TFV19 Mini is crowned with a classic-looking marble-effect, removable drip tip. An adjustable airflow ring lets you dial in to find your vape’s perfect intensity, from a tight, restricted draw to a light and airy experience. A sliding top-fill cap system makes refilling easy and mess-free with no need to separate the tank from the device. The included Smok V19 Mesh coils are built to last while delivering incredible flavour and cloud production. The 0.15-ohm coil is recommended for use between 89-100W, while the 0.2-ohm coil works best between 40-80W. Both provide a sublime DL (Direct Lung) sub-ohm experience when used with high-VG e-liquids. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Silver",
+        "Black",
+        "Blue",
+        "Gold",
+        "Red",
+        "7 Colour"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Silver",
+      "sku": "SM-TA-TFV-18-MN-SIL",
+      "price": 27.99
+    },
+    {
+      "title": "Black",
+      "sku": "SM-TA-TFV-18-MN-BLK",
+      "price": 27.99
+    },
+    {
+      "title": "Blue",
+      "sku": "SM-TA-TFV-18-MN-BL",
+      "price": 27.99
+    },
+    {
+      "title": "Gold",
+      "sku": "SM-TA-TFV-18-MN-GLD",
+      "price": 27.99
+    },
+    {
+      "title": "Red",
+      "sku": "SM-TA-TFV-18-MN-RE",
+      "price": 27.99
+    },
+    {
+      "title": "7 Colour",
+      "sku": "SM-TA-TFV-18-MN-7C",
+      "price": 27.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-tfv18-mini-sub-ohm-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tfv18-mini-tank-rainbow_1.jpg?v=1729042635",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfv18-mini-sub-ohm-tank-2ml__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tfv18-mini-tank-silver.png?v=1729042635",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfv18-mini-sub-ohm-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tfv18-mini-tank-black_1.jpg?v=1729042635",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfv18-mini-sub-ohm-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tfv18-mini-tank-blue.jpg?v=1729042635",
+      "position": 4,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfv18-mini-sub-ohm-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tfv18-mini-tank-gold.jpg?v=1729042635",
+      "position": 5,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfv18-mini-sub-ohm-tank-2ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tfv18-mini-tank-red.jpg?v=1729042635",
+      "position": 6,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfv18-mini-sub-ohm-tank-2ml__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tfv18-mini-tank-rainbow.jpg?v=1729042635",
+      "position": 7,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.626Z"
+}

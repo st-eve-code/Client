@@ -1,0 +1,102 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639752106308",
+  "slug": "riot-squad-bar-edtn-blue-raspberry-nic-salt-eliquid",
+  "title": "Riot Squad BAR EDTN Blue Raspberry  Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-bar-edtn-blue-raspberry-nic-salt-eliquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Raspberry from Riot Squad’s BAR EDTN range is the classic flavour beloved by vapers. Rich, juicy Blueberry and sharp, tangy Raspberry combined in a syrupy-sweet and deliciously smooth slushy, this irresistible flavour is pure Blue Raspberry with a streak of Riot Squad attitude. This e-liquid’s 40VG/60PG formulation delivers the perfect balance of flavour and cloud production while the nicotine salt formulation ensures a super-smooth and comfortable throat sensation. Riot Squad’s BAR EDTN e-liquids are perfect for use in starter vape kits and low-powered pod devices. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. With nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. BAR EDTN is a mouth-watering collection of nic salt e-liquids inspired by Riot Squad’s hugely popular disposable Riot Bar flavours . Just like those Riot Bars, Bar EDTN keeps the flavours simple, sweet, and deliciously satisfying, so you always know how your e-juice will taste before you buy it. If you love this flavour, why not treat yourself to the others in Riot Squad’s BAR EDTN collection? From super-refreshing Watermelon Ice to a classic Cherry Cola and smooth and creamy Mango Vanilla, whatever your taste in e-liquid, BAR EDTN has an incredible flavour waiting for you.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot Bar EDTN"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1129611",
+      "price": 2.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1122635",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1122044",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1120011",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-bar-edtn-blue-raspberry-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot_baredtn_blueraspberry_nic_salt-eliquid_1_1.jpg?v=1729049717",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-bar-edtn-blue-raspberry-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot_baredtn_blueraspberry_nic_salt-eliquid.jpg?v=1729049717",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-bar-edtn-blue-raspberry-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot_baredtn_blueraspberry_nic_salt-eliquid_1.jpg?v=1729049717",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-bar-edtn-blue-raspberry-nic-salt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot_baredtn_blueraspberry_nic_salt-eliquid_1_2.jpg?v=1729049717",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-bar-edtn-blue-raspberry-nic-salt-eliquid__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot_baredtn_blueraspberry_nic_salt-eliquid_1_2_1.jpg?v=1729049717",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.380Z"
+}

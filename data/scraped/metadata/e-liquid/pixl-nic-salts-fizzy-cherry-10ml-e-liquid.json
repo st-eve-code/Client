@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15646607901053",
+  "slug": "pixl-nic-salts-fizzy-cherry-10ml-e-liquid",
+  "title": "PIXL Nic Salts Fizzy Cherry 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pixl-nic-salts-fizzy-cherry-10ml-e-liquid",
+  "brand": "PIXL",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "A sparkling, confectionery-inspired flavour that captures the taste of sweet, tangy Cherry with a fizzy, effervescent finish. PIXL Nic Salts are crafted with a 50% VG / 50% PG ratio, making them ideal for use in low-powered MTL (Mouth-to-Lung) vape kits, such as pod systems and starter kits. This balanced blend ensures a smooth throat hit, discreet vapour production, and excellent flavour delivery. Available in 10mg and 20mg nicotine strengths, these 10ml e-liquids use nicotine salts to provide a smoother, more immediate form of nicotine satisfaction compared to traditional freebase nicotine. They are the perfect choice for vapers seeking a satisfying, flavour-packed experience. This premium e-liquid is part of the PIXL Nic Salt collection, a range from the brand that created the popular PIXL prefilled pod kit. This collection is dedicated to crafting bold, clear, and satisfying flavours, all formulated as 10ml nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1149683",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1149652",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-nic-salts-fizzy-cherry-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FIZZY-CHERRY-Pixl-10ml-nic-salts.jpg?v=1761921914",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.470Z"
+}

@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639591248196",
+  "slug": "riot-squad-pink-grenade-nic-salt-e-liquid",
+  "title": "Riot Squad Pink Grenade Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-pink-grenade-nic-salt-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "This irresistible combination of tangy lemonade and succulent strawberries make a mouth-watering all-day vape that’s perfect for summer. Riot Squad’s Riot Salt e-liquids are formulated with hybrid nicotine, a unique and innovative blend of nicotine freebase and nicotine salts. The combination of the freebase and salt nicotine gives the most realistic alternative to a cigarette to help people stop smoking successfully. A 50/50 PG and VG ratio provides the perfect balance of flavour and throat hit. Shop our Full Range of Multi-Buy Nicotine Salt E-Liquids",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pink Lemonade",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "RS-NS-10-PG-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "RS-NS-10-PG-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-pink-grenade-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-pink-grenade_2.jpg?v=1729043275",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-pink-grenade-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-pink-grenade.jpg?v=1729043275",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-pink-grenade-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-pink-grenade_1.jpg?v=1729043275",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.620Z"
+}

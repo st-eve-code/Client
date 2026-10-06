@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15340961431933",
+  "slug": "hexus-salts-watermelon-ice-nic-salt-e-liquid-10ml",
+  "title": "Hexus Salts Watermelon Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hexus-salts-watermelon-ice-nic-salt-e-liquid-10ml",
+  "brand": "Hexus",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Watermelon Ice by Hexus pairs the clean, delicate sweetness of fresh Watermelon with a bright, cooling Ice layer. The Watermelon flavour is soft and juicy, offering an easy-going fruit base that’s lifted by a crisp streak of Menthol. It’s a smooth, refreshing vape with a light texture that makes it ideal for all-day use. This e-liquid uses nicotine salts to deliver fast-absorbing nicotine and a smooth, comfortable throat hit. Blended at a 50VG/50PG ratio, it’s made for mouth-to-lung (MTL) vaping in pod kits, vape pens and low-powered starter devices. Part of the Hexus Nic Salt range, Watermelon Ice is available in 10mg and 20mg strengths, with a full line-up of fruity and cool blends for flavour-focused MTL vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1143248",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143258",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hexus-salts-watermelon-ice-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/WATERMELON-ICE-Hexus-Salts-20MG.jpg?v=1751469256",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.463Z"
+}

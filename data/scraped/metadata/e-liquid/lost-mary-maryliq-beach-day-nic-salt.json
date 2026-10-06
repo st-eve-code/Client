@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639925580100",
+  "slug": "lost-mary-maryliq-beach-day-nic-salt",
+  "title": "Lost Mary Maryliq Beach Day 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-maryliq-beach-day-nic-salt",
+  "brand": "Lost Mary",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Discover Maryliq: Lost Mary's iconic flavours as found in bestselling disposable vapes like the BM600, QM600 and AM600, are now available in 10ml nicotine salt e-liquids. Maryliq provides a discreet, yet richly flavoured vapour and a smooth throat hit, offering quick relief for your nicotine cravings. Available in 10mg & 20mg strengths, it's the ideal choice for recent quitters or those after immediate nicotine satisfaction. Unlike traditional high-PG freebase liquids, Maryliq's nic salts deliver a smoother throat hit and quicker nicotine absorption. Compatible with starter and pod vape kits, these 10ml bottles let you enjoy your favourite flavours longer than 2ml disposables, minimising plastic waste. Experience all-day vaping satisfaction and flavour with Maryliq Nic Salts. Step into a paradise of flavour with Lost Mary Maryliq's Beach Day, a unique concoction that brings together the lushness of Blackcurrant and the tang of sun-ripened Oranges. The moment you inhale, you're greeted by the deep, dark notes of Blackcurrant that awaken your senses like a dip in cool ocean waves. As you exhale, the citrusy brightness of Oranges dances on your palate, leaving a lingering zesty aftertaste that's nothing short of invigorating. Designed to capture the essence of a day at the beach, each puff feels like a mini-holiday, allowing you to escape from the mundane, if only for a moment. The 50% VG / 50% PG ratio ensures a balanced vapour, full of rich flavours, and a smooth throat hit for an exceptional vaping experience. Ideal for those who crave the nostalgia of summer getaways, Beach Day is more than just an e-liquid; it's a ticket to your own personal beachside retreat.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1131098",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127381",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-maryliq-beach-day-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-beach-day-10ml-nic-salt-eliquid_2.jpg?v=1729061397",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-maryliq-beach-day-nic-salt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-beach-day-10ml-nic-salt-eliquid_f53f7986-545b-42a3-b3e6-6b40b1bbbfd1.jpg?v=1729061397",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-maryliq-beach-day-nic-salt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-beach-day-10ml-nic-salt-eliquid_1.jpg?v=1729061397",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.569Z"
+}

@@ -1,0 +1,96 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639722058052",
+  "slug": "freemax-fireluke-4-tank-2ml",
+  "title": "Freemax Fireluke 4 Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/freemax-fireluke-4-tank-2ml",
+  "brand": "Freemax",
+  "productType": "Tanks",
+  "price": {
+    "min": 17.99,
+    "max": 17.99,
+    "currency": "GBP"
+  },
+  "description": "The Fireluke 4 sub-ohm tank is a stunning iteration of one of the most celebrated vape tanks ever made: The FreeMax Fireluke.This precision-engineered sub-ohm tank has an e-liquid capacity of 2ml and can be easily refilled without removing the tank from your chosen mod. Simply slide out the top cap on the tank to reveal the fill port. The FreeMax Fireluke 4 tank is compatible with FreeMax’s superb X-series mesh coils which feature FM COILTECH5.0/Double-D Mesh technology. This innovative approach to coil building uses a parallel mesh structure with two single mesh coils connected in parallel, which heats up e-liquid faster while keeping the coils stable, producing immaculate flavour and incredible clouds from your favourite e-liquid. As a DTL tank, the FreeMax Fireluke 4 tank works best with high-VG sub-ohm e-liquids. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Delisted"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Stainless Steel",
+        "Silver",
+        "Black",
+        "Blue"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Stainless Steel",
+      "sku": "1117204",
+      "price": 17.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1117205",
+      "price": 17.99
+    },
+    {
+      "title": "Black",
+      "sku": "1117206",
+      "price": 17.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1117207",
+      "price": 17.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-fireluke-4-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-fireluke-4-tank-blue_1.jpg?v=1729048486",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-fireluke-4-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-fireluke-4-tank-ss.jpg?v=1729048486",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-fireluke-4-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-fireluke-4-tank-silver.jpg?v=1729048486",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-fireluke-4-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-fireluke-4-tank-black.jpg?v=1729048486",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-fireluke-4-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-fireluke-4-tank-blue_7451278e-42cf-4ee2-92c5-e90bc80350c5.jpg?v=1729048486",
+      "position": 5,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

@@ -1,0 +1,121 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15212519489917",
+  "slug": "vozol-ace-max-pod-vape-kit",
+  "title": "Vozol Ace Max Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/vozol-ace-max-pod-vape-kit",
+  "brand": "Vozol",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 18.99,
+    "max": 18.99,
+    "currency": "GBP"
+  },
+  "description": "Experience the future of vaping with the Vozol Ace Max Pod Vape Kit, the world's first pod device to feature a large HD touchscreen. Combining cutting-edge technology with user-friendly design, the Ace Max delivers a truly intuitive and visually stunning vaping experience. The Ace Max's 1.47\" HD touchscreen provides crystal-clear visuals and effortless navigation. Swipe to adjust wattage (up to 30W), monitor battery life, track puff count, and customise settings with ease. This dynamic display revolutionises how you interact with your vape, offering unparalleled control and convenience. Beneath its sleek exterior sits a powerful 1000mAh battery, ensuring long-lasting performance for extended vaping sessions. When it's time to recharge, the USB Type-C fast charging capability provides a full day of power with just a quick 10-minute charge, keeping you vaping with minimal interruption. Refilling your Ace Max is a breeze thanks to its convenient top-filling system. Simply remove the mouthpiece and add your favourite e-liquid, minimising mess and maximising your vaping time. The 2ml pod capacity ensures ample e-liquid storage, while the included pods with integrated coils cater to both RDL (restricted direct-to-lung) and MTL (mouth-to-lung) vaping styles. Powered by an advanced MCU chip, the Ace Max delivers consistent, rich flavour from every puff. This enhanced chip technology ensures reliable, stable output, whether you prefer a tighter MTL draw or a looser RDL vape. Customise your airflow with the adjustable airflow control, allowing you to fine-tune your draw to perfection. Easily switch between a tighter draw for a flavourful MTL experience and a looser draw for satisfying RDL clouds. Safety is at the core of the Ace Max with 7-layer protection, including safeguards against overcharging, short circuits, and overheating. Vape with confidence knowing that the Ace Max prioritises your safety without compromising on performance or style. The Ace Max offers dual activation modes for added flexibility. Choose between draw activation, where simply inhaling activates the device, or button activation for a more controlled experience. Browse our vape liquid and choose the ideal match for this kit. Please note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil. Vozol Ace Max Pod Vape Kit",
+  "tags": [
+    "Battery-included",
+    "Free 2 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Galaxy Violet",
+        "Ruby Red",
+        "Carbon Fiber Black",
+        "Meadow Gold",
+        "Pearly Silver",
+        "Sky Blue"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Galaxy Violet",
+      "sku": "1139385",
+      "price": 18.99
+    },
+    {
+      "title": "Ruby Red",
+      "sku": "1139382",
+      "price": 18.99
+    },
+    {
+      "title": "Carbon Fiber Black",
+      "sku": "1139380",
+      "price": 18.99
+    },
+    {
+      "title": "Meadow Gold",
+      "sku": "1139384",
+      "price": 18.99
+    },
+    {
+      "title": "Pearly Silver",
+      "sku": "1139381",
+      "price": 18.99
+    },
+    {
+      "title": "Sky Blue",
+      "sku": "1139383",
+      "price": 18.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vozol-ace-max-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Max-pod-kit-GALAXY-VIOLET.jpg?v=1746546017",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-max-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Max-pod-kit-RUBY-RED.jpg?v=1746546017",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-max-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Max-pod-kit-CARBON-FIBER-BLACK.jpg?v=1746545647",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-max-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Max-pod-kit-MEADOW-GOLD.jpg?v=1746545788",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-max-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Max-pod-kit-PEARLY-SILVER.jpg?v=1746545828",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-max-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/VozolAceMaxpodkitSKYBLUE.jpg?v=1746545909",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.495Z"
+}

@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15020183716221",
+  "slug": "dinner-lady-fruit-full-cola-ice-10ml-nic-salt-e-liquid",
+  "title": "Dinner Lady Fruit Full Cola Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-fruit-full-cola-ice-10ml-nic-salt-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dinner Lady’s Fruit Full Cola Ice delivers the unmistakable taste of classic cola with an icy twist. The rich caramel and spiced vanilla notes of a fizzy cola drink are perfectly balanced by a wave of cooling Menthol, creating a refreshing and nostalgic vape with a crisp, frosty finish. Part of the Fruit Full Bar Salts collection, Cola Ice is designed to replicate the punchy, layered flavours often found in disposable vapes. Using a double-concentrated Nic Salt formula, this e-liquid ensures a long-lasting depth of flavour while providing a smooth and satisfying vape. Blended at 50VG/50PG, this e-liquid provides an excellent balance of vapour production and flavour clarity, making it ideal for MTL (mouth-to-lung) vaping. The nicotine salt formulation ensures a smooth throat hit and rapid nicotine satisfaction, making it best suited for use with pod kits and classic vape starter devices. Since 2016, Dinner Lady has been a recognised leader in e-liquid craftsmanship, offering expertly developed blends that are now enjoyed in over 80 countries worldwide. Their commitment to premium ingredients and distinctive flavour profiles continues to make them a favourite among vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138560",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1138576",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138592",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-fruit-full-cola-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DL-Bar-Salts-FRUITS-Cola-Ice-10ml-10mg-GB.jpg?v=1739812241",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.482Z"
+}

@@ -1,0 +1,52 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15278959559037",
+  "slug": "vampire-vape-tropical-mango-paradise-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape Tropical Mango Paradise E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-mango-paradise-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Mango Paradise 50ml Shortfill from Vampire Vape’s Tropical range is a vibrant, sunshine-soaked tropical fruit blend designed for sub-ohm vaping. It balances the smooth, mellow sweetness of ripe Mango with the bright citrus of Blood Orange and the tangy lift of Pineapple for a rich, exotic vape. Each element brings something different: Mango delivers a soft, tropical body; Blood Orange cuts through with a juicy, zesty bite; and Pineapple adds a sweet-sour edge to keep the flavour vibrant and refreshing. The result is a full-flavoured fruit profile that performs beautifully at higher wattages. This 50ml High-VG Shortfill comes in a 60ml bottle, leaving space to add a 10ml nicotine shot if desired. It’s perfect for direct-to-lung (DTL) vaping with sub-ohm vape kits and tanks. Vampire Vape’s Tropical collection introduces a more exotic side to their line-up, blending bold flavours with their signature quality. Also available in Nic Salt, Freebase, 100ml Shortfill formats and Flavour Concentrates.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Mango",
+    "Pineapple",
+    "VV Tropical"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141165",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-mango-paradise-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-Tropical-Collection-Mango-Paradise-50ml-Shortfills.jpg?v=1749542416",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.529Z"
+}

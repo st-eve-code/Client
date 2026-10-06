@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912538436",
+  "slug": "ske-crystal-menthol-nic-salt-e-liquid",
+  "title": "SKE Crystal Menthol Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-menthol-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Menthol flavour from SKE Crystal Nic Salts e-liquid provides a pure and invigorating vaping experience with its intensely cool and refreshing taste. Ideal for those who enjoy the sensation of a crisp, clean menthol hit, this e-liquid brings a blast of frosty freshness that's perfect for cleansing the palate or enjoying as an all-day vape. SKE's Crystal Nic Salts collection ensures a smoother throat hit with its nicotine salt formulation, ideal for ex-smokers and those who prefer a mild nicotine delivery. The 50VG/50PG ratio is optimized for mouth-to-lung devices, delivering a balanced blend of flavour and cloud production. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132490",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132517",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-menthol-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-menthol_1_1.jpg?v=1729060747",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-menthol-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-menthol.jpg?v=1729060747",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-menthol-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-menthol_1.jpg?v=1729060747",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.372Z"
+}

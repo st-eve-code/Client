@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900292944253",
+  "slug": "pukka-juice-5000-raspberry-pomegranate-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Raspberry Pomegranate 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-raspberry-pomegranate-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Raspberry Pomegranate Nic Salt e-liquid delivers a delicious fusion of ripe, tangy Raspberry and sweet, exotic Pomegranate. The combination of bright, tart berry notes with the deep, juicy flavour of Pomegranate creates a well-balanced, refreshing vape that’s bursting with fruity goodness. With a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are designed for use with Mouth-to-Lung (MTL) vape kits and pod systems. The e-liquid provides smooth throat hits and fast nicotine relief, making it an excellent option for those looking for a satisfying alternative to traditional tobacco products. Available in both 10mg and 20mg nicotine strengths, Raspberry Pomegranate offers an all-day vape with a sweet and tangy edge. Pukka Juice are an award-winning UK brand celebrated for their bold and vibrant e-liquid flavours. The Pukka Juice 5000+ collection captures the intense flavours vapers love from disposable vapes in a more versatile format. Explore other flavours from the collection, such as Tropical, Berry Blast, and Lime Twist.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135532",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135550",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-raspberry-pomegranate-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Raspberry-Pomegranate-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734541785",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.463Z"
+}

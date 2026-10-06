@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15828487963005",
+  "slug": "riot-x-nic-salts-blueberry-blackberry-raspberry-10ml-e-liquid",
+  "title": "Riot X Nic Salts Blueberry Blackberry & Raspberry 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-blueberry-blackberry-raspberry-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Riot X Nic Salts Blueberry Blackberry & Raspberry provides a deeply complex and layered dark fruit experience. The profile opens with the highly aromatic, slightly floral taste of ripe Blueberry paired seamlessly with rich Blackberry notes. This robust dark berry base is then layered with the subtle, sharp tang of Raspberry before being rounded off with a smooth and refreshing icy finish on the exhale. This e-liquid features Riot's Hybrid Nicotine formula, which blends Nic Salt and freebase for quick satisfaction, a smooth throat feel, and modest vapour production. With its 50VG/50PG profile, this vape juice is best suited to mouth-to-lung (MTL) vaping and performs well with pod kits, refillable starter kits, and compact vape pens. Made in the UK, the Riot X Nic Salts range focuses on full-impact fruit blends designed for everyday use in low-powered refillable devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153879",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153880",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153881",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-blueberry-blackberry-raspberry-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-x-blue-black-raspberry-5mg.jpg?v=1772712196",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-blueberry-blackberry-raspberry-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-x-blue-black-raspberry-10mg.jpg?v=1772712284",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-blueberry-blackberry-raspberry-10ml-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-x-blue-black-raspberry-20mg.jpg?v=1772712314",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.424Z"
+}

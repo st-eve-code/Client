@@ -1,0 +1,117 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639660978500",
+  "slug": "vampire-vape-heisenberg-grape-eliquid-10ml",
+  "title": "Vampire Vape Heisenberg Grape 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-heisenberg-grape-eliquid-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Experience a true vape indulgence with the Vampire Vape Heisenberg Grape 10ml E-Liquid. Offering a tantalising twist on the beloved award-winning Heisenberg flavour. Prepared to be captivated by this moreish creation. Of fruity berries, a crystal-cool menthol kick, and a delightful infusion of rich, tangy red and green grapes. With each super smooth draw you can indulge your senses as the flavours of Grape Heisenberg Vape juice unfold. The combination of luscious berries, invigorating menthol, and vibrant grape notes creates a Heisenberg Vape Juice indulgence. Don’t miss out. Order today and let Vampire Vape Heisenberg Grape E-Liquid take you to the pinnacle of vaping excellence. Crafted by Vampire Vape, this Heisenberg Grape by Vampire Vape has been designed to deliver maximum flavour and satisfying clouds by striking the ideal balance between PG and VG. When choosing the right Vampire Vape Juice nicotine strength for your vaping needs, it's important to know the VG/PG ratio. Please note: The 3mg nicotine strength has a 50VG/50PG ratio, whilst the 0mg, 6mg, 12mg, and 18mg nicotine strengths have a 40VG/60PG composition. These versatile Vampire Vape juice blends are compatible with a wide range of vape devices. But they truly shine when paired with low-powered starter kits, pen-vape kits, and pod kits. If you're captivated by the delectable flavours of this Vampire Vape Heisenberg 10ml, why not explore their other equally delicious E-Liquids. Such as their Vampire Vape Nic Salts or their Vampire Vape Bar Salts ranges? Their E-Liquid ranges cater to every vaper's unique flavour preferences. Ensuring there's always something new and exciting to discover. So whether you crave fruity delights, indulgent desserts, or refreshing menthol blends, you're sure to find the perfect vape juice to satisfy your taste buds and take your vaping to the next level.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Heisenberg"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1115823",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1115955",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1115959",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1115963",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1115967",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-heisenberg-grape-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_grape_800x800_4b702576-a11b-442b-b227-de8da9d2bdc2.jpg?v=1729046535",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-grape-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_grape_800x800_5.jpg?v=1729046535",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-grape-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_grape_800x800_4.jpg?v=1729046535",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-grape-eliquid-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_grape_800x800_3.jpg?v=1729046535",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-grape-eliquid-10ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_grape_800x800_2.jpg?v=1729046535",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-grape-eliquid-10ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_heisenberg_grape_800x800_1.jpg?v=1729046535",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.438Z"
+}

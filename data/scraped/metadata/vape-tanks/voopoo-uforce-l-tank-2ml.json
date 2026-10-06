@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639750009156",
+  "slug": "voopoo-uforce-l-tank-2ml",
+  "title": "VooPoo UForce-L Tank",
+  "url": "https://www.vapestore.co.uk/products/voopoo-uforce-l-tank-2ml",
+  "brand": "VooPoo",
+  "productType": "Tanks",
+  "price": {
+    "min": 19.99,
+    "max": 19.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Uforce-L sub-ohm tank 2ml is a precision-engineered vape tank with adjustable, 3-inlet airflow control which not only lets you control how tight or loose your draw is but helps prevent leaks and the build-up of condensation. Heatsink technology also helps prevent your tank getting too hot, ensuring every puff is consistently comfortable. Voopoo’s Uforce-L sub-ohm tank is compatible with all of Voopoo’s versatile PnP series of coils and includes 1 x PnP - TW20 0.2ohm coil (recommended wattage range: 40-55W) and 1 x PnP- TW15 0.15ohm (recommended wattage range: 55-70W), and both feature dual-in-one mesh builds for fantastic flavour and cloud production. The tank features a 510 connection which lets you attach it to any compatible mod, as well as an 810-style drip tip that is replaceable. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Gunmetal",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1121252",
+      "price": 19.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1121251",
+      "price": 19.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1121250",
+      "price": 19.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-uforce-l-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_drag4_uforce_l_tank_black_800x800_1.jpg?v=1729049498",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-uforce-l-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_drag4_uforce_l_tank_black_800x800_80aadac4-0cea-41d2-a30f-a4775ac16f3b.jpg?v=1729049498",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-uforce-l-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_drag4_uforce_l_tank_gun_metal_800x800_6570c2fe-2fa4-44a9-a1f0-c25fb2274edd.jpg?v=1729049498",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-uforce-l-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_drag4_uforce_l_tank_silver_800x800_c245e008-a2ef-4500-83ef-4258efcb7360.jpg?v=1729049498",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.626Z"
+}

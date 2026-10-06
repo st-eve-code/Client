@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639883342148",
+  "slug": "innokin-ares-finale-rta-tank-2ml",
+  "title": "Innokin Ares Finale RTA Vape Tank",
+  "url": "https://www.vapestore.co.uk/products/innokin-ares-finale-rta-tank-2ml",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 26.99,
+    "max": 26.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Ares Finale RTA Vape Tank is the culmination of expert craftsmanship and vaping innovation, designed for enthusiasts who appreciate precision and versatility in their vaping experience. This RTA (Rebuildable Tank Atomizer) caters easily to both MTL (Mouth To Lung) and RDL (Restricted Direct To Lung) vaping styles, offering a customizable journey with each puff. With a 2ml e-liquid capacity, the Ares Finale ensures you have ample juice for extended sessions. The innovative vortex bell structure within the tank is engineered to maximize flavour, condensing the vapour to enrich the taste of your favourite e-liquids. Refilling is a breeze, thanks to the 1/4 turn top-refill design, making it a mess-free and swift process. The dual airflow adjustment feature allows you to fine-tune your vaping experience. Whether you prefer a tight, flavour-focused draw or a more open, cloud-producing inhale, this tank adapts to your preferences seamlessly. Constructed with meticulous attention to detail, the Ares Finale RTA Tank offer an irresistible blend of quality and performance. Embrace the pinnacle of RTA vaping with the Innokin Ares Finale. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Midnight Onyx",
+        "Celestial Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Midnight Onyx",
+      "sku": "1129401",
+      "price": 26.99
+    },
+    {
+      "title": "Celestial Silver",
+      "sku": "1129402",
+      "price": 26.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-ares-finale-rta-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_ares_finale_rta_tank_-_celestial_silver_1.jpg?v=1729058951",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-ares-finale-rta-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_ares_finale_rta_tank_-_midnight_onyx.jpg?v=1729058951",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-ares-finale-rta-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_ares_finale_rta_tank_-_celestial_silver.jpg?v=1729058951",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

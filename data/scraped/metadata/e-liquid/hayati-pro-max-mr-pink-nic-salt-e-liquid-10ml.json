@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15114912137597",
+  "slug": "hayati-pro-max-mr-pink-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Mr Pink Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-mr-pink-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Mr Pink is a bold fruit blend with a twist, combining the bittersweet tang of Pink Grapefruit with mixed berries and a subtle hint of aromatic Aniseed. The Grapefruit provides a sharp citrus base, while the berry mix adds sweetness and body. A delicate note of Aniseed runs through the exhale, giving the blend a complex finish that lingers on the tastebuds with a touch of warmth and spice. Crafted with nicotine salts for fast-acting satisfaction and a more comfortable throat hit, this e-liquid is ideal for MTL (mouth-to-lung) vaping with low-powered pod systems. Its 50VG/50PG balance ensures clean, consistent flavour with minimal vapour. This flavour is part of the Hayati Pro Max Nic Salt range, inspired by Hayati’s own bestselling disposable vapes and now reimagined in a longer-lasting 10ml format—available in 10mg and 20mg nicotine strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140331",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140392",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-mr-pink-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mr-Pink_Hayati-Pro-Max-Nic-Salts.jpg?v=1743408762",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.408Z"
+}

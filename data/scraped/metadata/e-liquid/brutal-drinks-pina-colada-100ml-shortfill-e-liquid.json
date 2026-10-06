@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900039156093",
+  "slug": "brutal-drinks-pina-colada-100ml-shortfill-e-liquid",
+  "title": "Brutal Drinks Pina Colada 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/brutal-drinks-pina-colada-100ml-shortfill-e-liquid",
+  "brand": "Brutal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Brutal Drinks’ Pina Colada Shortfill e-liquid delivers a velvety tropical cocktail experience with the bold and refreshing flavours of sweet Pineapple and creamy Coconut. Perfectly balanced to capture the vibrant essence of the classic drink, this e-liquid is ideal for vapers who seek exotic, drink-inspired blends. Brutal Drinks Shortfills are crafted by Just Juice, one of the UK’s most renowned e-liquid creators. Each shortfill features a high-VG formula, making it ideal for Direct-To-Lung (DTL) vaping with advanced sub-ohm kits and high-wattage devices. This 100ml bottle leaves space for two nicotine shots, offering vapers the flexibility to customise their nicotine strength. Part of the Brutal Drinks collection, Pina Colada joins an exciting range of flavours inspired by popular drinks, including Mango Lassi, Frozen Mojito, and Blackcurrant Crush. Explore the full collection to find your new all-day vape.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL",
+    "Just Juice Brutal Drinks",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137562",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__brutal-drinks-pina-colada-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Brutal-Drinks-Shortfill-PINA-COLADA-min.jpg?v=1734532111",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.552Z"
+}

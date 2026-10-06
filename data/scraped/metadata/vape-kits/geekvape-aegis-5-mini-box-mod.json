@@ -1,0 +1,119 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15924631568765",
+  "slug": "geekvape-aegis-5-mini-box-mod",
+  "title": "Geekvape Aegis 5 Mini Box Mod",
+  "url": "https://www.vapestore.co.uk/products/geekvape-aegis-5-mini-box-mod",
+  "brand": "Geekvape",
+  "productType": "MODS",
+  "price": {
+    "min": 29.99,
+    "max": 29.99,
+    "currency": "GBP"
+  },
+  "description": "The Geek Vape Aegis Mini 5 Mod is engineered for vapers seeking a resilient and compact device that refuses to compromise on power. Constructed from a durable zinc alloy with PC and PU leather accents, this mod feels substantial and secure in the hand. It boasts a powerful 3200mAh integrated battery capable of a 75W maximum output, ensuring consistent performance throughout the day. With a genuine IP67 rating, it provides complete protection against dust and can comfortably handle water immersion up to one metre. Equipped with the highly responsive Geek Vape AS chipset, the device offers excellent flexibility for different vaping preferences. The clear 0.87-inch OLED screen displays all essential information at a glance, allowing you to easily switch between Variable Wattage, Power, and Bypass modes. When it is time to recharge, the 5V/3A USB-C fast charging connection gets the device back to full capacity swiftly and safely. Featuring a standard 510 threaded connection, the Aegis Mini 5 Mod is compatible with a vast array of sub-ohm and mouth-to-lung vape tanks. Whether you prefer thick clouds or a discreet draw, this mod provides a stable and secure foundation for your favourite tank, making it a highly dependable core component for any hardware setup.",
+  "tags": [
+    "Box Mods",
+    "DTL",
+    "Kit-VS-Export",
+    "Mod-VS"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Polar Silver",
+        "Aqua Blue",
+        "Sunset Rose",
+        "Black",
+        "Forest Green",
+        "Rainbow"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Polar Silver",
+      "sku": "1156022",
+      "price": 29.99
+    },
+    {
+      "title": "Aqua Blue",
+      "sku": "1156023",
+      "price": 29.99
+    },
+    {
+      "title": "Sunset Rose",
+      "sku": "1156024",
+      "price": 29.99
+    },
+    {
+      "title": "Black",
+      "sku": "1156025",
+      "price": 29.99
+    },
+    {
+      "title": "Forest Green",
+      "sku": "1156026",
+      "price": 29.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "1156027",
+      "price": 29.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-aegis-5-mini-box-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Polar-Silver-Geek-Vape-Aegis-Mini-5-Mod.jpg?v=1781522047",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-5-mini-box-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aqua-Blue-Geek-Vape-Aegis-Mini-5-Mod.jpg?v=1781522061",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-5-mini-box-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sunset-Rose-Geek-Vape-Aegis-Mini-5-Mod.jpg?v=1781522069",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-5-mini-box-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Geek-Vape-Aegis-Mini-5-Mod_e48f8dc1-6845-4a50-aa53-868286379ae6.jpg?v=1781522080",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-5-mini-box-mod__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Forest-Green-Geek-Vape-Aegis-Mini-5-Mod_bfc8c49d-ccac-42f2-ab95-5c8f1fc8e094.jpg?v=1781522092",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-5-mini-box-mod__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rainbow-Geek-Vape-Aegis-Mini-5-Mod_209dd227-0b0b-4914-afa5-4b6436ff2143.jpg?v=1781522095",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.087Z"
+}

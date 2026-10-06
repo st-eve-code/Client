@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15821286408573",
+  "slug": "vampire-vape-max-blueberry-sour-raspberry-nic-salt-eliquid",
+  "title": "Vampire Vape MAX Blueberry Sour Raspberry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-max-blueberry-sour-raspberry-nic-salt-eliquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Max Blueberry Sour Raspberry offers a bolder, sweeter take on a classic sweet and tart pairing. The inhale delivers the rich, authentic taste of sweet Blueberry, which is immediately followed by a sharp, electrifying layer of Sour Raspberry on the exhale. Formulated to deliver flavour that doesn't fade, this dynamic blend ensures a vibrant, consistent taste from the first puff to the last, with no drop-off halfway through the bottle. Mixed to a balanced 50VG/50PG ratio, this nicotine salt e-liquid features a pod-perfected formula specifically designed for modern MTL (mouth-to-lung) pod systems, keeping the flavour incredibly vivid even at lower power settings. Furthermore, this balanced formulation is designed to provide cleaner coil performance, reducing residue to help your coils last much longer while ensuring a beautifully smooth throat hit. The Vampire Vape Max series from the renowned UK mixologists at Vampire Vape offers a new collection of sweeter, fuller flavours crafted to strict UK regulatory standards. Packaged in a 10ml bottle, this e-liquid is available in 5mg, 10mg and 20mg nicotine strengths, allowing you to select the ideal level of swift, satisfying relief for your daily vape.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "VV MAX",
+    "VVMAX"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1154561",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152863",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152883",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-max-blueberry-sour-raspberry-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Sour-Raspberry-Vampire-Vape-Max-10ml-E-Liquid.jpg?v=1774016965",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-max-blueberry-sour-raspberry-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-max-blueberry-sour-raspberry-5mg-800x800.jpg?v=1780055920",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.325Z"
+}

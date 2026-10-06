@@ -1,0 +1,133 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15852450054525",
+  "slug": "voopoo-drag-6-box-mod",
+  "title": "VooPoo Drag 6 Box Mod",
+  "url": "https://www.vapestore.co.uk/products/voopoo-drag-6-box-mod",
+  "brand": "VooPoo",
+  "productType": "MODS",
+  "price": {
+    "min": 54.99,
+    "max": 54.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Drag 6 Mod is a high-performance device designed for vapers who desire powerful output and precise control over their vaping experience. Featuring a solid construction and premium finish, this mod provides a comfortable in-hand feel while supporting a wide range of 510-threaded tanks. Powered by a substantial built-in battery system totalling 4400mAh, the device is capable of delivering consistent all-day use with a maximum power output of 220W. The integrated battery design ensures enhanced stability, and the USB-C charging port allows for fast and efficient recharging to minimise downtime. At the heart of the device is the advanced GENE TT 3.0 chip, which provides highly stable power delivery and faster response times. Users can customise their setup using multiple power modes, including Smart Mode, RBA Mode, and TC-TRC temperature control. Adjusting the wattage is exceptionally smooth thanks to the newly upgraded Precision Control Wheel. The Drag 6 Mod features a clear 1.66-inch TFT colour screen that presents all essential information at a glance, complete with three built-in UI themes. For added convenience and safety, it includes multiple unlock options such as a capacitive touch sensor to help prevent accidental firing, along with six comprehensive safety protections including short-circuit and overcharge safeguards. Please note: This product includes the mod only; a tank and e-liquid are not included and must be purchased separately.",
+  "tags": [
+    "Box Mods",
+    "DTL",
+    "Kit-VS-Export",
+    "Mod-VS"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Brown",
+        "Metal Gray",
+        "Green",
+        "Red",
+        "Blue",
+        "Silver",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Brown",
+      "sku": "1154067",
+      "price": 54.99
+    },
+    {
+      "title": "Metal Gray",
+      "sku": "1154068",
+      "price": 54.99
+    },
+    {
+      "title": "Green",
+      "sku": "1154069",
+      "price": 54.99
+    },
+    {
+      "title": "Red",
+      "sku": "1154070",
+      "price": 54.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1154071",
+      "price": 54.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1154072",
+      "price": 54.99
+    },
+    {
+      "title": "Black",
+      "sku": "1154073",
+      "price": 54.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-drag-6-box-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Brown-Voopoo-Drag-6-Mod.jpg?v=1775570414",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-drag-6-box-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Metal-Gray-Voopoo-Drag-6-Mod.jpg?v=1775570552",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-drag-6-box-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Voopoo-Drag-6-Mod.jpg?v=1775570853",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-drag-6-box-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Voopoo-Drag-6-Mod.jpg?v=1775570934",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-drag-6-box-mod__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Silver-Voopoo-Drag-6-Mod.jpg?v=1775571016",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-drag-6-box-mod__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Voopoo-Drag-6-Mod.jpg?v=1775571095",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-drag-6-box-mod__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Green-Voopoo-Drag-6-Mod.jpg?v=1775820656",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.096Z"
+}

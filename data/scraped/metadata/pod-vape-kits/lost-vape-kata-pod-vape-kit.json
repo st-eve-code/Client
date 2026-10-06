@@ -1,0 +1,109 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15882510565757",
+  "slug": "lost-vape-kata-pod-vape-kit",
+  "title": "Lost Vape Kata Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-kata-pod-vape-kit",
+  "brand": "Lost Vape",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Kata Refillable Pod Kit introduces a completely new way to vape, combining the massive capacity of a \"big puff\" device with the freedom and cost-effectiveness of a traditional refillable pod kit. The device utilises a unique modular system featuring a standard 2ml viewing pod that connects magnetically. This allows you to load the device with up to 2ml of your favourite e-liquid at one time, dramatically reducing the need for constant refills while on the go. Powered by a substantial 1600mAh built-in battery, the Kata is engineered to easily support extended vaping sessions. It delivers a variable wattage output ranging from 5W up to 30W, which perfectly drives the 0.8ohm mesh coil integrated into the pod cartridge. This setup is highly versatile, comfortably accommodating both Mouth-To-Lung (MTL) and Restricted Direct-To-Lung (RDL) inhale styles. You can further fine-tune your draw using the stepless bottom airflow control slider. Designed for effortless everyday use, the Kata features auto-draw activation, meaning you simply inhale to vape without needing to press any buttons. A convenient 4-level LED indicator light keeps you informed of your remaining battery life at a glance. When it is time to recharge, the device supports 5V/1.3A fast charging via USB-C. Please note that in an effort to reduce electronic waste, Lost Vape does not include a USB-C charging cable in the box. Available in a range of striking finishes including Violet Pulse, Shadow Rose, Racing Aurora, Midnight Drive, and Ice Spring. Shop our vape liquid uk collection to find flavours that go hand in hand with this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1142111",
+    "compatible-with-1142112",
+    "compatible-with-1142113",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit",
+    "RDL/MTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Violet Pulse",
+        "Shadow Rose",
+        "Midnight Dive",
+        "Ice Spring",
+        "Racing Aurora"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Violet Pulse",
+      "sku": "1154306",
+      "price": 10.99
+    },
+    {
+      "title": "Shadow Rose",
+      "sku": "1154305",
+      "price": 10.99
+    },
+    {
+      "title": "Midnight Dive",
+      "sku": "1154303",
+      "price": 10.99
+    },
+    {
+      "title": "Ice Spring",
+      "sku": "1154302",
+      "price": 10.99
+    },
+    {
+      "title": "Racing Aurora",
+      "sku": "1154304",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-kata-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Violet-Pulse-Lost-Vape-Kata--vape-kit.jpg?v=1777986876",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-kata-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Shadow-Rose-Lost-Vape-Kata-vape-kit.jpg?v=1777986913",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-kata-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Midnight-Drive-Lost-Vape-Kata-kit.jpg?v=1777987482",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-kata-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ice-Sprint-Lost-Vape-Kata-vape-kit.jpg?v=1777987913",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-kata-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Racing-Aurora-Lost-Vape-Kata-vape-kit.jpg?v=1777988018",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.483Z"
+}

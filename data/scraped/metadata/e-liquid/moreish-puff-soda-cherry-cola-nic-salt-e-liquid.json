@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639570047300",
+  "slug": "moreish-puff-soda-cherry-cola-nic-salt-e-liquid",
+  "title": "Moreish Puff Soda Cherry Cola Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/moreish-puff-soda-cherry-cola-nic-salt-e-liquid",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Who doesn’t love a sweet, rich, refreshing cherry cola? The classic soda gets the Moreish Puff treatment in this irresistible e-liquid, which delivers the sweet, caramel depth of authentic cola with the tangy kick of cherry. Moreish Puff’s Nic Salt e-liquid’s nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief and smooth throat hit provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salts E Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "MP-10-SD-CC-10-NS",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "1100990",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__moreish-puff-soda-cherry-cola-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/mpsalts_0016_cherrycola_sadasalt.jpg?v=1729042195",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.622Z"
+}

@@ -1,0 +1,121 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15992508187005",
+  "slug": "smok-novo-axis-pod-vape-kit",
+  "title": "SMOK Novo Axis Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-axis-pod-vape-kit",
+  "brand": "SMOK",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 18.99,
+    "max": 18.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Novo Axis vape kit offers a sophisticated and highly customisable experience within a durable, pocket-friendly chassis. Crafted from premium aluminium alloy and PCTG materials, the device feels substantial yet exceptionally comfortable in the hand. It is powered by a high-capacity 1350mAh built-in battery, designed to provide long-lasting performance for daily use. When a recharge is required, the USB-C 2A fast charging capability ensures the device reaches full power in just 45 minutes, significantly reducing downtime. Navigating the Novo Axis is both intuitive and highly visual, thanks to a 0.96 inch TFT display that blends discreetly into the body when inactive. The screen provides clear visuals for your battery level, puff count, and current settings, complete with three selectable themes. You can easily switch between three dedicated power settings using the main button: ECO mode to conserve battery and e-liquid, Normal mode for a balanced output, and Power mode for maximum vapour production. Additionally, the device features a precise airflow control slider to fine-tune your draw. The kit includes two 2ml Smok Novo SLR 2.0 mesh pods in 0.6ohm and 0.8ohm resistances, providing excellent options for both mouth-to-lung and restricted direct-to-lung vaping. The SLR 2.0 technology ensures rapid heating and consistently clear flavour. Refilling is quick and straightforward via the snap-off top-fill mechanism, allowing for top-ups without removing the pod. We recommend pairing the coils included with the kit with 50/50 or Nicotine Salt e-liquids for the best experience. Complete your vaping experience with smooth, high-quality liquid vape designed for this kit. We recommend using 50/50 or Nic Salt E-Liquid with this kit Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1122342",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Sapphire Blue",
+        "Platinum",
+        "Red",
+        "Malachite Blue",
+        "Bronze Gold",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Sapphire Blue",
+      "sku": "1158850",
+      "price": 18.99
+    },
+    {
+      "title": "Platinum",
+      "sku": "1158854",
+      "price": 18.99
+    },
+    {
+      "title": "Red",
+      "sku": "1158851",
+      "price": 18.99
+    },
+    {
+      "title": "Malachite Blue",
+      "sku": "1158849",
+      "price": 18.99
+    },
+    {
+      "title": "Bronze Gold",
+      "sku": "1158852",
+      "price": 18.99
+    },
+    {
+      "title": "Black",
+      "sku": "1158853",
+      "price": 18.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-axis-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SAPPHIRE-BLUE-Smok-Novo-Axis-Pod-Kit.jpg?v=1786625989",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-axis-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/RED-Smok-Novo-Axis-Pod-Kit.jpg?v=1786626035",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-axis-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/PLATINUM-Smok-Novo-Axis-Pod-Kit.jpg?v=1786626194",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-axis-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/MALACHITE-BLUE-Smok-Novo-Axis-Pod-Kit.jpg?v=1786626370",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-axis-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BRONZE-GOLD-Smok-Novo-Axis-Pod-Kit.jpg?v=1786626563",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-axis-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BLACK-Smok-Novo-Axis-Pod-Kit.jpg?v=1786627884",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.460Z"
+}

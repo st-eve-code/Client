@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639443956036",
+  "slug": "smok-scar-tfv9-mini-tank-2ml",
+  "title": "SMOK TFV9 Mini Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-scar-tfv9-mini-tank-2ml",
+  "brand": "SMOK",
+  "productType": "Tanks",
+  "price": {
+    "min": 19.99,
+    "max": 19.99,
+    "currency": "GBP"
+  },
+  "description": "For incredible sub-ohm performance in a more compact tank, Smok’s new TFV9 Mini is an incredible option for lovers of high-VG vaping. The TFV9 MINI tank is 23mm in diameter, making it lighter and smaller, and has an e-liquid capacity of 2ml. A redesigned air-flow system means the air inflow can be adjusted by rotating the airflow ring to meet your precise vaping needs. The tank comes with a child-resistant cap for extra protection and employs a top refill system for mess-free filling. The TFV9 Mini tank is made for use with Smok’s V9 Meshed coils , whose kanthal build ensures a large heating surface for incredible clouds and flavour production when used with high-VG eliquids. The Smok Scar Mini with TFV9 Mini tanks is a fantastic compact vape kit that doesn’t compromise on power, durability, versatility and performance.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Rainbow",
+        "Matte Black",
+        "Stainless Steel"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Rainbow",
+      "sku": "SM-SM-TA-TF-V9-MN-7CR",
+      "price": 19.99
+    },
+    {
+      "title": "Matte Black",
+      "sku": "SM-SM-TA-TF-V9-MN-MB",
+      "price": 19.99
+    },
+    {
+      "title": "Stainless Steel",
+      "sku": "SM-SM-TA-TF-V9-MN-SS",
+      "price": 19.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-scar-tfv9-mini-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0001s_0001_smok_tfv9_mini_tank_rainbow_1.jpg?v=1729039852",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-scar-tfv9-mini-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0001s_0001_smok_tfv9_mini_tank_rainbow.jpg?v=1729039852",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-scar-tfv9-mini-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0001s_0002_smok_tfv9_mini_tank_black.jpg?v=1729039852",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-scar-tfv9-mini-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0001s_0000_smok_tfv9_mini_tank_ss.jpg?v=1729039852",
+      "position": 4,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.626Z"
+}

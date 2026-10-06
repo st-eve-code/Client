@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639447626052",
+  "slug": "dinner-lady-watermelon-slices-10ml",
+  "title": "Dinner Lady Watermelon Slices E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-watermelon-slices-10ml",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Indulge in a refreshing vape with the fruity Dinner Lady Watermelon Slices E-Liquid 10ml. Each inhale and exha le offer the sweet invigorating taste of freshly sliced Watermelon. The fresh, mellow sweetness of watermelon gets the hard candy treatment in this mouth-watering vape from Dinner Lady . With the added layer of a gentle interplay between sweet and sour . Make this a great E-Liquid for any vaper looking for the ultimate refreshing vape experience . The 70% Vegetable Glycerine, and 30% Propylene Glycol formula make this E-Liquid ideal for sub-ohm vaping, producing mighty clouds on top of fantastic flavour and a smooth, comfortable, throat hit. Sub-ohm vaping generally requires the use of high-powered vape kits, including pod vape kits and pod mods with higher power outputs, some pen vape kits and advanced kits . If you love this Dinner Lady Watermelon Slices Sub Ohm E-Liquid 10ml then why not check out more of Dinner Lady’s delicious E-Liquids? Their collection of E-Liquids covers a wide variety of flavours from fruit, menthol, fizzy drinks and more. So why not treat yourself to the sweet and juicy Dinner Lady Strawberry Bikini Shortfill E-Liquid . Or upgrade your vaping experience with the Dinner Lady Pink Berry Shortfill E-Liquid.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DTL",
+    "High VG E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "DL-DL-10-WS-70-30-03-SO",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "DL-DL-10-WS-70-30-06-SO",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-watermelon-slices-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-sweets-watermelon-slices-3070-3mg-uk.jpg?v=1729040082",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.627Z"
+}

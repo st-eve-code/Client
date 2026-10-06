@@ -1,0 +1,127 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "9639582695748",
+  "slug": "geekvape-aegis-mini-2-mod",
+  "title": "Geekvape Aegis Mini 2 Mod",
+  "url": "https://www.vapestore.co.uk/products/geekvape-aegis-mini-2-mod",
+  "brand": "Geekvape",
+  "productType": "MODS",
+  "price": {
+    "min": 38.99,
+    "max": 38.99,
+    "currency": "GBP"
+  },
+  "description": "The GeekVape Aegis Mini 2 is a mighty vape mod that’s super-compact, ergonomic and incredibly durable. The Aegis Mini 2 mod (also called the M100) can fire up to 100W thanks to the built-in 2500mAh battery, which can be charged quicker than ever thanks to super-fast Type-C USB connection. A larger screen displays all your useful data and settings, and the USB-C port is concealed beneath a dust-proof cover, while a handy ‘A-lock’ prevents accidental fires. The Aegis Mini 2 M100 mod now boasts Tri-Proof protection which means even more resilience to water, dust and shocks, making an already rugged vape kit even hardier, making the Aegis Mini 2 ideal for vapers who lead an active lifestyle. The Aegis Mini 2 mod pairs perfectly with another GeekVape favourite, the new Z Nano 2 2ml Tank, but its 510-thread connection makes it compatible with many other tanks should you prefer. Intended for sub-ohm vaping and coils suitable for High-VG e-liquids and long-lasting Shortfills .",
+  "tags": [
+    "Box Mods",
+    "DTL",
+    "Kit-VS-Export",
+    "Mod-VS"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Silver",
+        "Red",
+        "Rainbow",
+        "Navy",
+        "Grey",
+        "Classic Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Silver",
+      "sku": "GV-MO-AM-2-SIL",
+      "price": 38.99
+    },
+    {
+      "title": "Red",
+      "sku": "GV-MO-AM-2-RE",
+      "price": 38.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "GV-MO-AM-2-RBW",
+      "price": 38.99
+    },
+    {
+      "title": "Navy",
+      "sku": "GV-MO-AM-2-NB",
+      "price": 38.99
+    },
+    {
+      "title": "Grey",
+      "sku": "GV-MO-AM-2-GRY",
+      "price": 38.99
+    },
+    {
+      "title": "Classic Black",
+      "sku": "GV-MO-AM-2-CB",
+      "price": 38.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-aegis-mini-2-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek_vape_aegis_mini_2_mod_classic_black_500x500_1_1.jpg?v=1729042809",
+      "position": 1,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-mini-2-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek_vape_aegis_mini_2_mod_silver_500x500_1.jpg?v=1729042809",
+      "position": 2,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-mini-2-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek_vape_aegis_mini_2_mod_red_500x500_1.jpg?v=1729042809",
+      "position": 3,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-mini-2-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek_vape_aegis_mini_2_mod_rainbow_500x500_1.jpg?v=1729042810",
+      "position": 4,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-mini-2-mod__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek_vape_aegis_mini_2_mod_navy_blue_500x500_1.jpg?v=1729042810",
+      "position": 5,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-mini-2-mod__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek_vape_aegis_mini_2_mod_grey_500x500_1.jpg?v=1729042810",
+      "position": 6,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-mini-2-mod__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek_vape_aegis_mini_2_mod_classic_black_500x500_1.jpg?v=1729042810",
+      "position": 7,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.094Z"
+}

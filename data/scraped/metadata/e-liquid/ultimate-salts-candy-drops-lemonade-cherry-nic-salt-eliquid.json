@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639786545476",
+  "slug": "ultimate-salts-candy-drops-lemonade-cherry-nic-salt-eliquid",
+  "title": "Ultimate Salts Candy Drops Lemonade & Cherry  Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ultimate-salts-candy-drops-lemonade-cherry-nic-salt-eliquid",
+  "brand": "Ultimate",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Lemonade & Cherry from Ultimate Salt’s Candy Drops collection is a wickedly moreish combination of refreshing beverage, juicy fruit and irresistible candy. A fresh, bubbly Lemonade taste is enhanced with rich, bold Cherry above as super-smooth and sweet candy base. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production while the Nicotine Salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices and is available in 10mg and 20mg nicotine strength. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. Nicotine Salt e-liquids are absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. If you love this flavour, why not treat yourself to the others in Ultimate Salt’s Candy Drops collection? From deliciously edgy Lemon and Sour Apple to unique blends like Strawberry Melon, whatever your taste in e-liquid, Ultimate Puff’s Candy Drops has a fabulously frosty flavour that’s just right for you.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1118246",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1118286",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ultimate-salts-candy-drops-lemonade-cherry-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-candy-drops-lemonade-cherry_1_1_1.jpg?v=1729052261",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-salts-candy-drops-lemonade-cherry-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-candy-drops-lemonade-cherry_1.jpg?v=1729052261",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-salts-candy-drops-lemonade-cherry-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-candy-drops-lemonade-cherry_1_1.jpg?v=1729052261",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.464Z"
+}

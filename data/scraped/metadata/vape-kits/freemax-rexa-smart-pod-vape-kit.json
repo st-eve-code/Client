@@ -1,0 +1,129 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15363763569021",
+  "slug": "freemax-rexa-smart-pod-vape-kit",
+  "title": "Freemax Rexa Smart Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/freemax-rexa-smart-pod-vape-kit",
+  "brand": "Freemax",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 27.99,
+    "max": 27.99,
+    "currency": "GBP"
+  },
+  "description": "The Freemax Rexa Smart is a feature-rich pod vape kit with advanced controls, immersive feedback and long-lasting battery performance. Built with a sleek zinc-alloy frame and a 1600mAh battery, the Rexa Smart delivers up to 30W of adjustable power and supports 2A USB-C fast charging. The device is fitted with a 2.01-inch HD touchscreen for intuitive control and a rich animated interface. Smart multi-function capabilities include Bluetooth audio playback, responsive UI effects and the ability to switch modes with ease. The kit includes a 0.6ohm Duomax Pod — Freemax’s signature coil system that uses dual mesh cores and tea fibre cotton for reliably consistent flavour. Each pod can handle up to 100ml of Freebase or 60ml of Nic Salt before needing replacement, with top-up made simple thanks to the slide-fill port. Nano-coated internals help resist condensation and reduce the risk of leaking, while the adjustable airflow slider lets you fine-tune the draw for MTL or RDL styles. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compaible-with-1141866",
+    "compatible-with-1141860",
+    "compatible-with-1141861",
+    "compatible-with-1141862",
+    "compatible-with-1141863",
+    "compatible-with-1141864",
+    "compatible-with-1141865",
+    "DTL",
+    "Exclude",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Gunmetal",
+        "White",
+        "Green",
+        "Pink",
+        "Gold",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Gunmetal",
+      "sku": "1141853",
+      "price": 27.99
+    },
+    {
+      "title": "White",
+      "sku": "1141854",
+      "price": 27.99
+    },
+    {
+      "title": "Green",
+      "sku": "1141855",
+      "price": 27.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1141856",
+      "price": 27.99
+    },
+    {
+      "title": "Gold",
+      "sku": "1141857",
+      "price": 27.99
+    },
+    {
+      "title": "Black",
+      "sku": "1141852",
+      "price": 27.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-rexa-smart-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SMART-Gunmetal-min.jpg?v=1752158321",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-smart-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SMART-Black-min.jpg?v=1752158321",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-smart-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SMART-White-min.jpg?v=1752158040",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-smart-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SMART-Green-min.jpg?v=1752158112",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-smart-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SMART-Pink-min.jpg?v=1752158217",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-smart-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-SMART-Gold-min.jpg?v=1752158259",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.079Z"
+}

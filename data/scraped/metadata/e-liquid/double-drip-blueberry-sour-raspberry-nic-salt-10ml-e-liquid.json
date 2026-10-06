@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15244440600957",
+  "slug": "double-drip-blueberry-sour-raspberry-nic-salt-10ml-e-liquid",
+  "title": "Double Drip Blueberry Sour Raspberry Nic Salt 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-blueberry-sour-raspberry-nic-salt-10ml-e-liquid",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Double Drip Blueberry Sour Raspberry offers a sharp and fruity flavour experience that strikes a perfect balance between sweet and tart. Juicy Blueberry notes provide a soft, jammy base, while Sour Raspberry brings a bold tang that adds a deliciously edgy tang and bite. The result is a punchy fruit blend with a smooth, clean finish and syrupy sweetness, ideal for vapers who enjoy a more vibrant profile. This nicotine salt e-liquid is blended at a 50VG/50PG ratio, making it perfect for MTL (mouth-to-lung) vape kits such as pod devices, vape pens, and starter kits. It offers a smooth throat hit, discreet vapour, and clear, consistent flavour — ideal for daily use. Available in 10mg and 20mg nicotine strengths, Double Drip Nic Salts are available in a wide range of bold and satisfying flavour profiles to suit everyday vaping. Double Drip are one of the most celebrated and influential e-liquid brands in the UK and the masterminds of some of the most iconic vape flavours ever made. Vibrant, authentic, and highly inventive flavours are a hallmark of all Double Drip vape juices, and this newest collection of truly timeless flavours in smooth, satisfying nic salts won’t disappoint.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140621",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140630",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-blueberry-sour-raspberry-nic-salt-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Blueberry-Sour-Raspberry-Nic-Salt-10mg.jpg?v=1771408977",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__double-drip-blueberry-sour-raspberry-nic-salt-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Blueberry-Sour-Raspberry--Nic-Salt-20mg.jpg?v=1771408992",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.452Z"
+}

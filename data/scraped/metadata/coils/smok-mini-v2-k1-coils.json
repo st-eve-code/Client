@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639387431236",
+  "slug": "smok-mini-v2-k1-coils",
+  "title": "SMOK Mini V2 K1 Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-mini-v2-k1-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 7.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "Smok’s innovative K1 coils are a Quad stainless steel design that give a consistently full and flavoursome all day vape. The K1 coils have a resistance of 0.2 ohm and can be used between 80W and 130W for incredible cloud production.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-MI-V2-K1-CL-0.2",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-mini-v2-k1-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-mini-v2-k1.jpg?v=1729037655",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

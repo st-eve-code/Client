@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15540206371197",
+  "slug": "wick-liquor-blue-moon-100ml-shortfill-e-liquid",
+  "title": "Wick Liquor Blue Moon 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/wick-liquor-blue-moon-100ml-shortfill-e-liquid",
+  "brand": "Wick Liquor",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 13.99,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "Blue Moon by Wick Liquor combines juicy Blueberry with the sharp brightness of Raspberry, lifted by a streak of menthol ice. The cool undertone gives the fruit flavours extra clarity, creating a blend that tastes both sweet and refreshing. Each Shortfill bottle contains 100ml of e-liquid in a 120ml container, leaving space for two 10ml nicotine shots. Adding two 18mg shots will create 120ml of 3mg e-liquid. Blended at 70VG/30PG, this liquid is best suited to sub-ohm tanks and high-powered kits, delivering dense vapour and bold, rounded flavour. Wick Liquor, produced in the UK, has earned a reputation for distinctive, high-quality blends. Blue Moon fits seamlessly into their line-up, offering a fruit-and-ice vape with a clear, memorable character.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "ivgoffer"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1127817",
+      "price": 13.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__wick-liquor-blue-moon-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Moon-Wick-Liquor-100ml-shortfill-0mg.jpg?v=1758186659",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.538Z"
+}

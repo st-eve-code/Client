@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15821495894397",
+  "slug": "vampire-vape-max-red-raspberry-blast-nic-salt-e-liquid",
+  "title": "Vampire Vape MAX Red Raspberry Blast Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-max-red-raspberry-blast-nic-salt-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Max Red Raspberry Blast focuses on the distinct taste of summer berries with a bolder, sweeter confectionery twist. It delivers a heavy-hitting burst of authentic, ripe Red Raspberry on the inhale, which is perfectly finished by a sweet, chewy Candy Chew note on the exhale. Formulated to deliver flavour that doesn't fade, this satisfying blend ensures a vibrant, consistent taste from the first puff to the last, with no drop-off halfway through the bottle. Mixed to a balanced 50VG/50PG ratio, this nicotine salt e-liquid features a pod-perfected formula specifically designed for modern MTL (mouth-to-lung) pod systems, keeping the flavour incredibly vivid even at lower power settings. Furthermore, this balanced formulation is designed to provide cleaner coil performance, reducing residue to help your coils last much longer while ensuring a beautifully smooth throat hit. The Vampire Vape Max series from the renowned UK mixologists at Vampire Vape offers a new collection of sweeter, fuller flavours crafted to strict UK regulatory standards. Packaged in a 10ml bottle, this e-liquid is available in 5mg, 10mg and 20mg nicotine strengths, allowing you to select the ideal level of swift, satisfying relief for your daily vape.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "VV MAX",
+    "VVMAX"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1154571",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152873",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152893",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-max-red-raspberry-blast-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Raspberry-Blast-Vampire-Vape-Max-10ml-e-Liquid.jpg?v=1775649965",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-max-red-raspberry-blast-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-max-red-raspberry-blast-5mg-800x800.jpg?v=1780065560",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.342Z"
+}

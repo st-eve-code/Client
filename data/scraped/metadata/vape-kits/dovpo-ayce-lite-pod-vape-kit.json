@@ -1,0 +1,123 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14902076539261",
+  "slug": "dovpo-ayce-lite-pod-vape-kit",
+  "title": "Dovpo Ayce Lite Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/dovpo-ayce-lite-pod-vape-kit",
+  "brand": "Dovpo",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Please Note: USB Cable Sold Separately The Dovpo Ayce Lite Pod Kit is an ultra-compact and stylish pod vape kit, perfect for those seeking a portable and reliable vaping companion. Designed with simplicity and functionality in mind, the Ayce Lite is powered by a robust 1000mAh built-in battery that provides long-lasting performance. With a power output range of 5-25W and an intelligent Smart Mode, the Ayce Lite automatically adjusts wattage to suit the installed pod, ensuring optimal flavour and vapour production every time. The Dovpo Ayce Lite’s refillable 2ml pods feature a simple side-fill system for mess-free refills and house integrated mesh coils for superior flavour delivery. The adjustable airflow lets you fine-tune your draw for either a smooth mouth-to-lung (MTL) or a restricted direct-to-lung (RDL) experience, making it an ideal kit for a wide range of vapers. With an intuitive inhale-activated firing system, the Ayce Lite offers effortless usability, while its lightweight design ensures comfort and convenience on the go. Stylish, versatile, and packed with helpful features like adjustable airflow and Smart Mode, the Dovpo Ayce Lite Pod Kit is the perfect device for vapers who value performance and portability. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1137572",
+    "compatible-with-1137573",
+    "compatible-with-1137574",
+    "Delisted",
+    "Exclude",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue",
+        "Purple",
+        "Black",
+        "White",
+        "Pink",
+        "Light Blue"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue",
+      "sku": "1138002",
+      "price": 7.99
+    },
+    {
+      "title": "Purple",
+      "sku": "1138003",
+      "price": 7.99
+    },
+    {
+      "title": "Black",
+      "sku": "1138004",
+      "price": 7.99
+    },
+    {
+      "title": "White",
+      "sku": "1138005",
+      "price": 7.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1138006",
+      "price": 7.99
+    },
+    {
+      "title": "Light Blue",
+      "sku": "1138007",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dovpo-ayce-lite-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ayce-lite-blue.jpg?v=1734626447",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dovpo-ayce-lite-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ayce-lite-purple.jpg?v=1734626496",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dovpo-ayce-lite-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ayce-lite-black.jpg?v=1734626557",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dovpo-ayce-lite-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ayce-lite-white.jpg?v=1734626648",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dovpo-ayce-lite-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ayce-lite-pink.jpg?v=1734626698",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dovpo-ayce-lite-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ayce-lite-light-blue.jpg?v=1734626769",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.099Z"
+}

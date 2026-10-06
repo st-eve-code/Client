@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15389701767549",
+  "slug": "riot-x-nic-salts-blue-razz-sour-watermelon-10ml-e-liquid",
+  "title": "Riot X Nic Salts Blue Razz Sour Watermelon 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-blue-razz-sour-watermelon-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Razz Sour Watermelon from Riot X brings together tangy Blue Raspberry and juicy Watermelon with a sour twist for a punchy fruit blend that keeps your taste buds on their toes. The Raspberry brings a ruby-red tang, balanced by the soft sweetness of fresh, ripe Watermelon. A subtle sour edge rounds out the profile, making this a bold and satisfying all-day vape. Formulated with Riot Squad’s innovative Hybrid Nicotine blend — a combination of freebase and nicotine salts — this e-liquid delivers a smooth yet tactile throat hit with fast-acting nicotine relief. Its 50VG/50PG ratio ensures rich flavour with discreet vapour, perfect for mouth-to-lung (MTL) vaping in pod kits and starter devices . Part of the Riot X Nic Salts range, this e-liquid is made in the UK and designed to deliver double-concentrated flavour that mimics the intensity of disposable-style blends. Available in 5mg, 10mg, and 20mg strengths. Please note: this flavour profile may contain hints of 'ice'.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143841",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1143847",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143854",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-blue-razz-sour-watermelon-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Riot-X---Bottle---Blue-Razz-Sour-Watermelon.jpg?v=1753107056",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.433Z"
+}

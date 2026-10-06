@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15760147579261",
+  "slug": "bar-drop-banana-ice-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Banana Ice 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-banana-ice-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Banana Ice by Drop delivers a smooth, tropical experience with a refreshing arctic finish. This blend captures the creamy, sweet notes of ripe bananas, offering a rich and velvety texture on the inhale. The sweetness is perfectly counterbalanced by a brisk wave of ice menthol on the exhale, ensuring the flavour remains crisp and never too heavy. It is a classic profile refined for vapers who love a cool, creamy fruit vape. Distinct from typical bar salts, this e-liquid features a 40% VG / 60% PG ratio. This composition prioritises flavour clarity, ensuring the creamy banana notes are vivid and distinct. Ideally suited for low-wattage MTL (Mouth-to-Lung) vape kits, the nicotine salt formulation provides a smooth draw and quick satisfaction, available in 5mg, 10mg, and 20mg strengths. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152604",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152644",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152683",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-banana-ice-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/banana-ice-Bar-Drop-10ml-Nic-salts.jpg?v=1767970491",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.363Z"
+}

@@ -1,0 +1,119 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15905021133181",
+  "slug": "avomi-pro-prefilled-pod-kit",
+  "title": "Avomi PRO Prefilled Pod Kit",
+  "url": "https://www.vapestore.co.uk/products/avomi-pro-prefilled-pod-kit",
+  "brand": "Avomi",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Avomi Pro Prefilled Starter Kit is designed for vapers seeking a streamlined, high-performance Mouth-to-Lung (MTL) experience. Built around a \"Smart. Simple. Pro.\" design philosophy, the device features a premium dark grey matte metallic finish that looks sophisticated and feels exceptionally comfortable in hand. Without any screens or buttons to manage, this kit provides a completely intuitive, inhale-activated draw. At the core of the Avomi Pro is a reliable 500mAh built-in battery, engineered to provide consistent power output throughout the lifespan of your pod. The device utilises a convenient LED battery indicator and modern USB-C charging, allowing for rapid power-ups to keep your downtime to an absolute minimum. Each starter kit includes one 2ml prefilled pod containing a smooth 20mg nicotine salt formula. Driven by advanced mesh coil technology, the Avomi Pro delivers rapid, even heating that ensures pristine flavour reproduction and satisfying vapour production from the very first draw to the last. Capable of delivering up to 1000 puffs per kit, it is a highly capable and robust daily device. How To Set Up Your Avomi PRO Device Step 1 Remove the device and pod from the packaging. Step 2 Remove the silicone mouthpiece and safety stickers from the 2ml pod. Step 3 Insert the pod securely into the top of the Avomi Pro device. Step 4 Inhale on the mouthpiece to activate the device and begin vaping. ✅ Ready to vape Avomi PRO Kit Flavours • Blueberry Sour Raspberry A balanced, tangy twist that layers sweet, mellow Blueberries with a sharp burst of Sour Raspberry. • Golden Tobacco Smooth, roasted Tobacco notes with an earthy depth for a classic and highly authentic vape. • Lemon and Lime A bright citrus duo blending zesty Lemon with sharp Lime for a sparkling, refreshing finish. • Mint Ice Clean, crisp Mint leaves combined with a chilly Menthol breeze for pure, unadulterated refreshment. • Pineapple Ice Bright tropical Pineapple flavour lifted by a cool, crisp icy exhale that cuts through the sweetness. • Spearmint A fresh Spearmint flavour with a naturally sweet edge and a distinctly cool exhale. Avomi Pro Pod Vape Kit Shop Avomi PRO Refill Pods",
+  "tags": [
+    "1k Puffs",
+    "Avomi PRO",
+    "b2b287",
+    "Battery-included"
+  ],
+  "options": [
+    {
+      "name": "Flavour",
+      "position": 1,
+      "values": [
+        "Golden Tobacco",
+        "Mint Ice",
+        "Spearmint",
+        "Blueberry Sour Raspberry",
+        "Lemon & Lime",
+        "Pineapple Ice"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Golden Tobacco",
+      "sku": "1153336",
+      "price": 5.99
+    },
+    {
+      "title": "Mint Ice",
+      "sku": "1153337",
+      "price": 5.99
+    },
+    {
+      "title": "Spearmint",
+      "sku": "1153338",
+      "price": 5.99
+    },
+    {
+      "title": "Blueberry Sour Raspberry",
+      "sku": "1153339",
+      "price": 5.99
+    },
+    {
+      "title": "Lemon & Lime",
+      "sku": "1153340",
+      "price": 5.99
+    },
+    {
+      "title": "Pineapple Ice",
+      "sku": "1153341",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__avomi-pro-prefilled-pod-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Golden-Tobacco-Avomi-Pro-Vape-Kit.jpg?v=1779882195",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__avomi-pro-prefilled-pod-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mint-Ice-Avomi-Pro-Vape-Kit.jpg?v=1779882260",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__avomi-pro-prefilled-pod-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spearmint-Avomi-Pro-Vape-Kit.jpg?v=1779882309",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__avomi-pro-prefilled-pod-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Sour-Raspberry-Avomi-Pro-Vape-Kit.jpg?v=1779882341",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__avomi-pro-prefilled-pod-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-_-Lime-Avomi-Pro-Vape-Kit.jpg?v=1779882373",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__avomi-pro-prefilled-pod-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Ice-Avomi-Pro-Vape-Kit.jpg?v=1779882395",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.086Z"
+}

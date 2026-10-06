@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15726306656637",
+  "slug": "moja-saltz-spearmint-10ml-nic-salts-e-liquid",
+  "title": "MOJA Saltz Spearmint 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/moja-saltz-spearmint-10ml-nic-salts-e-liquid",
+  "brand": "MOJA",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Moja Saltz Spearmint offers pure herbal refreshment. It captures the sweet, cool, and slightly floral taste of fresh Spearmint leaves. This flavour is clean, crisp, and perfect for vapers who want a straightforward and palate-cleansing experience. The Moja Saltz collection (formerly known as Moja Juice) is crafted by Liberty Flights here in the UK. Formulated with a double concentration of flavour, these e-liquids are designed to deliver an exceptionally punchy and consistent taste experience. This ensures maximum flavour clarity and intensity, even when used in low-power starter kits. With a 50% VG / 50% PG blend, this e-liquid is optimised for mouth-to-lung (MTL) vaping. It pairs perfectly with refillable pod kits, delivering discreet vapour and crystal-clear flavour. The premium nicotine salt formulation ensures a super-smooth throat hit and rapid satisfaction. Moja Saltz Nic Salts are available in 10mg and 20mg strengths. This 10ml e-liquid is TPD-compliant and features a childproof cap and tamper-evident seal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1150324",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1150372",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__moja-saltz-spearmint-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spearmint-10ml-nic-salts-10mg.jpg?v=1765812148",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__moja-saltz-spearmint-10ml-nic-salts-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spearmint-10ml-nic-salts-20mg.jpg?v=1765812194",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.477Z"
+}

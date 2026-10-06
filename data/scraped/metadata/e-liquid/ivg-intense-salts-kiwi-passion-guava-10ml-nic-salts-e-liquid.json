@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15577745097085",
+  "slug": "ivg-intense-salts-kiwi-passion-guava-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Kiwi Passion Guava 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-kiwi-passion-guava-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Kiwi Passion Guava brings together three exotic fruits for a tropical vape. Sharp Kiwi adds tang, Passionfruit delivers sweetness with depth, and mellow Guava rounds out the blend with a juicy finish. With a 50VG/50PG ratio, this Nic Salt ensures clear flavour delivery, discreet vapour production, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths, Kiwi Passion Guava is designed for mouth-to-lung (MTL) pod kits, pens, and starter systems. Part of the IVG Intense Salts range, Kiwi Passion Guava captures both tartness and sweetness for those who enjoy tropical blends.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148471",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148503",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-kiwi-passion-guava-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Kiwi-Passion-Guava-min.jpg?v=1759395323",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.542Z"
+}

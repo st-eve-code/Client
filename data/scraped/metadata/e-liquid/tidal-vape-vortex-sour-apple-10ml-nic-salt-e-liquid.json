@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14888495808893",
+  "slug": "tidal-vape-vortex-sour-apple-10ml-nic-salt-e-liquid",
+  "title": "Vortex Sour Apple 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/tidal-vape-vortex-sour-apple-10ml-nic-salt-e-liquid",
+  "brand": "Tidal Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Tidal Vape Vortex Nic Salt Sour Apple captures the crisp and refreshing taste of Green Apple, enhanced with a sharp sour twist for an added burst of flavour. This simple yet vibrant profile offers a bright and tangy vape, perfect for fans of sour-inspired blends. Crafted with a 50VG/50PG ratio, Sour Apple delivers smooth vapour and bold flavour, making it ideal for Mouth-To-Lung (MTL) devices such as pod kits and starter systems. The nicotine salt formulation ensures a smooth throat hit and rapid nicotine absorption, offering a satisfying and flavourful experience. Tidal Vape Vortex Nic Salts are available in a convenient 10ml format, providing a more sustainable and economical alternative to disposable vape devices. Available in 10mg and 20mg nicotine strengths, Sour Apple is a refreshing option for fruit lovers. Pair this e-liquid with your refillable vapes or vape starter kits for effortless vaping.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137849",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137871",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tidal-vape-vortex-sour-apple-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-10mg-sour-apple-min.jpg?v=1733850064",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__tidal-vape-vortex-sour-apple-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-20mg-lemon-lime-min_74cba9cc-13f9-4686-910b-862f960347aa.jpg?v=1733850101",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.553Z"
+}

@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639845298500",
+  "slug": "pg-propylene-glycol-vampire-vape",
+  "title": "Vampire Vape PG (Propylene Glycol) By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/pg-propylene-glycol-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 4,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "This premium, UK-made Propylene Glycol (PG) is an essential component of e-liquid and is colourless, odourless and provides the throat hit and intensity of flavour that makes vaping so satisfying. This Propylene Glycol is USP/EP pharmaceutical grade and is intended for use with DIY E-liquid production, Vegetable Glycerin, Nicotine Shots (if required) and Flavour Concentrates. Details Propylene Glycol (PG) Avalible in 250ml, 500ml, 1ltr Made in the UK",
+  "tags": [],
+  "options": [
+    {
+      "name": "Bottle Size",
+      "position": 1,
+      "values": [
+        "1 Litre",
+        "500ml",
+        "250ml"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1 Litre",
+      "sku": "1000042",
+      "price": 8.99
+    },
+    {
+      "title": "500ml",
+      "sku": "1000041",
+      "price": 6
+    },
+    {
+      "title": "250ml",
+      "sku": "VV-250-PG-BM",
+      "price": 4
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pg-propylene-glycol-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pg-eliquid-group_1.jpg?v=1729056268",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pg-propylene-glycol-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-concentrate-propylene-glycol.jpg?v=1729056268",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pg-propylene-glycol-vampire-vape__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-concentrate-propylene-glycol_1_864a0d78-aa04-4a6d-9d5c-34e5800a78b7.jpg?v=1729056268",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pg-propylene-glycol-vampire-vape__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-concentrate-propylene-glycol_1_1.jpg?v=1729056268",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.467Z"
+}

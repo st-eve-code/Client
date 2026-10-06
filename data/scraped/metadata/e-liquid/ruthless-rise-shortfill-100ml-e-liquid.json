@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003421606269",
+  "slug": "ruthless-rise-shortfill-100ml-e-liquid",
+  "title": "Ruthless Rise Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-rise-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Rise by Ruthless pairs two of the most vibrant tropical flavours in a beautifully balanced e-liquid. The delicate floral sweetness of Lychee meets the rich, sun-ripened taste of Mango, creating a smooth, juicy vape that is both refreshing and deeply satisfying. This exotic combination delivers a bold fruit flavour with a naturally sweet finish, making it a great choice for vapers who enjoy bright, tropical blends. One of many incredible flavours found in the celebrated Ruthless Shortfill collection, Rise features a 70VG/30PG ratio for thick vapour production and a smooth inhale. Designed for Sub-Ohm vape kits and advanced DTL (direct-to-lung) devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, allowing for a customisable nicotine strength. For over a decade, Ruthless has been setting the standard for bold, trend-defining e-liquids, blending premium ingredients with expertly crafted flavour profiles. Their dedication to quality ensures a consistently rich and satisfying vape experience.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Mango"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138929",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-rise-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ruthless-uk-shortfill-100ml-RISE.jpg?v=1739206385",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.519Z"
+}

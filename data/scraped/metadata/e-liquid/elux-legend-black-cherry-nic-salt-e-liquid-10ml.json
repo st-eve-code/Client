@@ -1,0 +1,67 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15894141698429",
+  "slug": "elux-legend-black-cherry-nic-salt-e-liquid-10ml",
+  "title": "Elux Legend Black Cherry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-black-cherry-nic-salt-e-liquid-10ml",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Legend Black Cherry Nic Salt delivers the rich, jammy taste of ripe Black Cherries bursting with sweetness and a subtle tart twist.The dark, juicy, and full-bodied fruit profile provides a smooth and satisfying experience with a lasting finish. Crafted with double-concentrated flavouring, the Elux Legend Nic Salt range is designed to offer a punchier, more intense taste experience that echoes the most recognisable Elux profiles. With a balanced 50% VG and 50% PG ratio, alongside a smooth nicotine salt formulation, Black Cherry is ideal for use with MTL (mouth-to-lung) pod kits and starter devices. It provides a well-rounded combination of flavour, vapour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1155056",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1155066",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-black-cherry-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Cherry-Elux-Legend-10mg-10ml-nic-salts-new-flavours.jpg?v=1778854717",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-legend-black-cherry-nic-salt-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Cherry-Elux-Legend-20mg-10ml-nic-salts-new-flavours.jpg?v=1778854764",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.384Z"
+}

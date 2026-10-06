@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639266156868",
+  "slug": "vamp-toes-e-liquid-by-vampire-vape",
+  "title": "Vampire Vape Vamp Toes E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vamp-toes-e-liquid-by-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Vamp Toes E-Liquid is a twist on the mixed berry juice - \"Vimto\". It’s fruity and delicious! Envelop your tastebuds in the luscious taste of your favourite berry cordial paired with rich blackberry notes. Then splashed with freshly squeezed raspberries and juicy grapes pressed with rich black currents. Each fruity flavour works together to create a decadent vaping experience. Ensuring that each puff is delivered through a super smooth sweet throat hit making it a delicious a treat for your taste buds. This E-Liquid from Vampire Vape offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. Please note: that the 3mg nicotine strength contains 50VG/50PG while 0mg, 6mg, 12mg & 18mg nicotine strengths contain 40VG/60PG. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits , pen-vape kits and pod kits. If you love this delicious Vampire Vape E-Liquid 10ml, then why not check out the other equally moreish flavours from their collection. They have a multitude of delicious flavours to choose from to suit any vaper’s flavour requirements. Go ahead and try out their juicy fruit flavours, refreshing beverage , sweet bakery, confectionary and dessert flavours or even their classic Mint/Menthol and tobacco flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "370843",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "373837",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "373806",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1000358",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vamp-toes-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vamp-toes-e-liquid-10ml_1.jpg?v=1729032119",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vamp-toes-e-liquid-by-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vamp-toes-e-liquid-10ml.jpg?v=1729032119",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.363Z"
+}

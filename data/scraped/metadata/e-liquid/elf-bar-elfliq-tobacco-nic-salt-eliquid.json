@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639918108996",
+  "slug": "elf-bar-elfliq-tobacco-nic-salt-eliquid",
+  "title": "Elf Bar ElfLiq Tobacco Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-tobacco-nic-salt-eliquid",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Elf Bar ElfLiq Tobacco Nic Salt provides a full-bodied, classic tobacco flavour, ideal for those transitioning from smoking to vaping. The smooth tobacco taste captures the familiar flavour of traditional cigarettes, delivering a vaping experience. ElfLiq e-liquids are crafted in 10ml bottles, offering a balanced 50VG/50PG blend that provides both rich flavour and ample vapour production. This nicotine salt e-liquid is designed for use in MTL (mouth-to-lung) vape kits, including starter kits and pod vape devices, delivering a consistent and smooth throat hit. The nicotine salt formulation ensures that this e-liquid provides a higher nicotine concentration compared to traditional freebase e-liquids, but with a smoother throat hit. Nicotine salts also allow for faster absorption into the bloodstream, providing rapid relief from nicotine cravings. This makes ElfLiq Nic Salts an excellent option for recent ex-smokers and those seeking to replicate the experience of traditional tobacco. ElfLiq e-liquids offer a versatile alternative to disposable vape devices, delivering longer-lasting enjoyment and reducing waste. They also share the same nicotine salt formulation as their disposable counterparts, ensuring a comfortable and effective all-day vaping experience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1131119",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1131118",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1131105",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-tobacco-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-tobacco-5mg.jpg?v=1776355717",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-tobacco-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-tobacco-10mg.jpg?v=1776355720",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-tobacco-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-tobacco-20mg.jpg?v=1776355727",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.572Z"
+}

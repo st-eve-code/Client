@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639640695108",
+  "slug": "smok-rpm-3-coils-pack-x-5",
+  "title": "SMOK RPM 3 Coils - Pack x 5",
+  "url": "https://www.vapestore.co.uk/products/smok-rpm-3-coils-pack-x-5",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "SMOK’s all-new RPM 5 pod kit delivers incredible performance and power in a highly portable, lightweight and extremely satisfying pod device. These replaceable RPM 3 coils are designed for use with the Smok RPM 5 pod kit and feature a mesh build for incredible flavour production and longevity, and a rich and satisfying DL (Direct to Lung) vaping experience. Simple to fit, just insert the coil in your pod and the rubber seal will keep leaks at bay. The 0.15ohm delivers a fast ramp up time and intense flavour between 40-80W while the 0.23ohm coil produces a smooth and richer vape between 20-25W.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.15ohm",
+        "0.23ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.15ohm",
+      "sku": "1111890",
+      "price": 9.99
+    },
+    {
+      "title": "0.23ohm",
+      "sku": "1111891",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-rpm-3-coils-pack-x-5__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/rpm-3-coils-0.15ohm.png?v=1729045627",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rpm-3-coils-pack-x-5__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/rpm-3-coils-0.15ohm_1.png?v=1729045627",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rpm-3-coils-pack-x-5__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/rpm-3-coils-0.23ohm_1.png?v=1729045627",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.867Z"
+}

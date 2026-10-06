@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639429800260",
+  "slug": "dodoberry-ice-zeus-shortfill-eliquid-50ml",
+  "title": "Zeus Juice The Dodoberry ICE E-Liquid 50ml Shortfill",
+  "url": "https://www.vapestore.co.uk/products/dodoberry-ice-zeus-shortfill-eliquid-50ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Dodoberry Ice by Zeus Juice is an absolutely essential flavour for fruit lovers. Juicy, ripe berries including tart blackberry, tangy raspberry, perky blueberry and succulent grapes meld their authentic sweetness to an invigorating kick of cooling menthol mint for a sublime, all-day vape. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , vape mods and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "ZS-ZS-50-DO-BI-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dodoberry-ice-zeus-shortfill-eliquid-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-the-dodoberry-ice-e-liquid-50ml-shortfill.jpg?v=1729039358",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.632Z"
+}

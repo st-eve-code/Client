@@ -1,0 +1,125 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "14901718942077",
+  "slug": "horizontech-talons-tw-pod-vape-kit",
+  "title": "HorizonTech Talons TW Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/horizontech-talons-tw-pod-vape-kit",
+  "brand": "HorizonTech",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "The HorizonTech Talons TW Starter Kit is a dynamic and versatile pod vape kit designed for vapers who value both outstanding performance and effortless portability. With its sleek, stylish, ergonomic design and robust construction, the Talons TW strikes the perfect balance between modern aesthetics and functionality. Powered by a 1200mAh built-in battery, the Talons TW delivers a maximum output of 32W, making it suitable for both mouth-to-lung (MTL) and restricted direct-to-lung (RDL) vaping styles. Whether you prefer a smooth, flavourful draw or a slightly airier inhale, the adjustable airflow control allows you to customise your vaping experience effortlessly. The device features a bright, colourful and intuitive 0.96” TFT colour screen, providing clear access to essential information such as wattage, battery life, and coil resistance. With dual firing options—auto-draw and button activation—the Talons TW offers seamless usability for vapers of all experience levels. Included in the kit is a refillable 2ml pod equipped with a pre-installed 0.6ohm (RDL) and 0.8ohm (MTL) mesh coil. Designed for superior flavour and vapour production, the pod works best with nic salt or 50/50 e-liquids, delivering a consistently smooth, flavourful and satisfying vape. Fast Type-C charging ensures minimal downtime, keeping you ready to vape on the go. Stylish, compact, and versatile, the HorizonTech Talons TW Starter Kit is an ideal all-day companion for vapers seeking convenience, performance, and the ability to customise their vape just the way they want. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1129142",
+    "compatible-with-1129143",
+    "compatible-with-1129144",
+    "compatible-with-1137210",
+    "compatible-with-1137212",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Abyssal Blue",
+        "Dream Pink",
+        "Coral Orange",
+        "Olive Green",
+        "Galaxy Grey",
+        "Obsidian Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Abyssal Blue",
+      "sku": "1134825",
+      "price": 11.99
+    },
+    {
+      "title": "Dream Pink",
+      "sku": "1134828",
+      "price": 11.99
+    },
+    {
+      "title": "Coral Orange",
+      "sku": "1134827",
+      "price": 11.99
+    },
+    {
+      "title": "Olive Green",
+      "sku": "1134826",
+      "price": 11.99
+    },
+    {
+      "title": "Galaxy Grey",
+      "sku": "1134824",
+      "price": 11.99
+    },
+    {
+      "title": "Obsidian Black",
+      "sku": "1134823",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__horizontech-talons-tw-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Horizontech-talons-tw-pod-vape-kit-Dream-Pink.jpg?v=1734613205",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-talons-tw-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Horizontech-talons-tw-pod-vape-kit-Coral-Orange.jpg?v=1734613309",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-talons-tw-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Horizontech-talons-tw-pod-vape-kit--Olive-Green.jpg?v=1734613760",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-talons-tw-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Horizontech-talons-tw-pod-vape-kit-Abyssal-Blue.jpg?v=1734613890",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-talons-tw-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Horizontech-talons-tw-pod-vape-kit-Galaxy-Grey.jpg?v=1734614180",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-talons-tw-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Horizontech-talons-tw-pod-vape-kit--Obsidian-Black.jpg?v=1734614266",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.497Z"
+}

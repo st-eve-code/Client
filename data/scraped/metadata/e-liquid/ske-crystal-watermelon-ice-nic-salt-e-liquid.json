@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639913128260",
+  "slug": "ske-crystal-watermelon-ice-nic-salt-e-liquid",
+  "title": "SKE Crystal Watermelon Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-watermelon-ice-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Watermelon Ice flavour SKE Crystal Nic Salts e-liquid provides a cooling and refreshing experience, combining the fresh taste of juicy watermelon with a crisp menthol finish. This e-liquid is perfect for vapers who enjoy a fruity yet invigorating vape, especially during the warm weather. Part of SKE's Crystal Nic Salts range, this e-liquid features nicotine salts for a smoother throat hit, suitable for those new to vaping or looking for a less harsh experience. The 50VG/50PG ratio makes it ideal for mouth-to-lung (MTL) devices, ensuring a balanced delivery of flavour and vapour. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132499",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132526",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-watermelon-ice-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-watermelon-ice_1_1.jpg?v=1729060808",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-watermelon-ice-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-watermelon-ice.jpg?v=1729060808",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-watermelon-ice-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-watermelon-ice_1.jpg?v=1729060808",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.382Z"
+}

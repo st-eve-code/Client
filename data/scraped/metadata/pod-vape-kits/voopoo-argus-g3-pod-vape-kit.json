@@ -1,0 +1,167 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15143789789565",
+  "slug": "voopoo-argus-g3-pod-vape-kit",
+  "title": "VooPoo Argus G3 Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/voopoo-argus-g3-pod-vape-kit",
+  "brand": "VooPoo",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Argus G3 Pod Kit is a compact, durable and stylish pod vape kit that brings powerful performance to a lightweight, pocket-friendly design. Fitted with a long-lasting 1500mAh battery, the Argus G3 supports up to 30W of adjustable power and comes equipped with a vivid 0.96” TFT colour screen and side button for intuitive control. Powered by the GENE.AI 2.0 chip, the Argus G3 automatically recognises your installed pod and selects the ideal wattage, with the option to switch to manual Power Mode for full control. Whether you prefer smooth mouth-to-lung (MTL) vaping or a more open restricted direct-lung (RDL) inhale, this versatile device supports both styles. The kit includes two Argus Top-Fill V2 pods (0.4ohm and 0.7ohm), offering a 2ml capacity and built-in mesh coils enhanced with iCOSM Code 2.0 flavour tech. Designed to prevent leaking and deliver clean, consistent vapour, these pods pair perfectly with 50/50 e-liquids, nic salts or freebase formulas. Fast USB-C charging gets you back up and running in just 45 minutes, and the device's high-capacity battery delivers up to five days of use on a single charge. With adjustable airflow and a lanyard included, the Argus G3 is a superb choice for newer vapers and experienced users alike. Check out our vape juices and pair them perfectly with this kit. We recommend using the following E-Liquid: Voopoo Argus V2 0.4ohm Pod - Use high VG E-Liquid (sub-ohm) - Choose Double Drip. Voopoo Argus V2 0.7ohm Pod - Use Nic Salts or 50/50 (freebase) - Choose Bar Salts. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1140558",
+    "compatible-with-1140559",
+    "compatible-with-1140560",
+    "Free 2 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Moss Green",
+        "Diamond Pink",
+        "Diamond White",
+        "Snow Blue",
+        "Aurora Purple",
+        "Aurora Blue",
+        "Midnight Black",
+        "Space Grey",
+        "Pearl White"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Moss Green",
+      "sku": "1140550",
+      "price": 24.99
+    },
+    {
+      "title": "Diamond Pink",
+      "sku": "1140547",
+      "price": 24.99
+    },
+    {
+      "title": "Diamond White",
+      "sku": "1140548",
+      "price": 24.99
+    },
+    {
+      "title": "Snow Blue",
+      "sku": "1140549",
+      "price": 24.99
+    },
+    {
+      "title": "Aurora Purple",
+      "sku": "1140551",
+      "price": 24.99
+    },
+    {
+      "title": "Aurora Blue",
+      "sku": "1140552",
+      "price": 24.99
+    },
+    {
+      "title": "Midnight Black",
+      "sku": "1140553",
+      "price": 24.99
+    },
+    {
+      "title": "Space Grey",
+      "sku": "1140554",
+      "price": 24.99
+    },
+    {
+      "title": "Pearl White",
+      "sku": "1140555",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Moss-Green.jpg?v=1744302326",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Diamond-Pink.jpg?v=1744302326",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Diamond-White.jpg?v=1744302326",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Snow-Blue.jpg?v=1744301273",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Aurora-Purple.jpg?v=1744301314",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Aurora-Blue.jpg?v=1744301407",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Midnight-Black.jpg?v=1744301483",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Space-Gray.jpg?v=1744301637",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-g3-pod-vape-kit__009.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Argus-G3-Kit-Pearl-White.jpg?v=1744301707",
+      "position": 9,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.456Z"
+}

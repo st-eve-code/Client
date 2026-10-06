@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15873796374909",
+  "slug": "ox-passion-strawberry-twist-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Strawberry Twist Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-strawberry-twist-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Strawberry Twist offers a refined take on a vaping staple. The profile focuses primarily on the lush, garden-fresh sweetness of ripe Strawberry, ensuring a bold and fruity foundation. A subtle, intricate twist on the exhale lifs the classic berry taste, adding depth and complexity to an otherwise familiar and deeply satisfying flavour. Blended in a 50% VG / 50% PG ratio, this Nicotine Salt e-liquid is optimised for Mouth-to-Lung (MTL) vaping, offering a smooth throat hit with full-bodied flavour. Perfect for pod vape kits and starter devices, it performs best with 1.2ohm to 0.8ohm coils, ensuring rapid satisfaction and consistent performance. Developed by OXVA, a trusted name in vaping technology, the OX Passion Salts collection features expertly crafted flavours designed to perform seamlessly with modern pod kits, including OXVA's own XLIM series. Available in versatile 5mg, 10mg, and 20mg strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1154527",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1154532",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1154537",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-strawberry-twist-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Twist-Ox-Passion-E-Liquid-10ml-5mg.jpg?v=1781255865",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ox-passion-strawberry-twist-nic-salts-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Twist-Ox-Passion-E-Liquid-10ml-10mg.jpg?v=1781255927",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ox-passion-strawberry-twist-nic-salts-e-liquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Twist-Ox-Passion-E-Liquid-10ml-20mg.jpg?v=1781255931",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.450Z"
+}

@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15125183660413",
+  "slug": "vampire-vape-desserts-caramel-latte-flavour-concentrate-30ml",
+  "title": "Vampire Vape Desserts Caramel Latte Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-desserts-caramel-latte-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Caramel Latte Flavour Concentrate by Vampire Vape Desserts combines the comforting flavour of roasted Coffee with sweet Caramel and smooth, steamed milk. This coffee-inspired DIY concentrate delivers a mellow blend of sweetened latte-style notes, offering a satisfying vape for fans of coffeehouse flavours and creamy e-liquid profiles. This 30ml concentrate is intended for DIY e-liquid mixing and must be diluted before use. Combine with your chosen VG/PG base mix and, if required, nicotine shots to create your ideal vape. Vampire Vape recommends a dilution of 15–20%, depending on your flavour strength preferences. Made in the UK and blended with a 100% PG base, Caramel Latte is not suitable for direct vaping. Also available as a 10ml Freebase e-liquid and a high-VG Shortfill within the Vampire Vape Desserts collection.",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Desserts"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138251",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-desserts-caramel-latte-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire-Vape---UK---30ml-Concentrate---Caramel-Latte---Bottle.jpg?v=1743680536",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.533Z"
+}

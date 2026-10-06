@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639911522628",
+  "slug": "vampire-vape-bar-salts-cola-flavour-concentrate-eliquid-10ml",
+  "title": "Bar Salts Cola Flavour Concentrate 10ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-cola-flavour-concentrate-eliquid-10ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Embrace the nostalgic taste of Cola with Vampire Vape’s Bar Salts Cola flavour concentrate. This 10ml bottle delivers the beloved, deep cola flavour with a 100% PG base, ideal for crafting a custom vape juice that hits all the right notes. Perfect for DIY enthusiasts, this flavour concentrate offers the freedom to create a unique e-liquid that reflects personal taste preferences. Adjust the flavour concentration and nicotine strength by mixing this concentrate with your preferred VG/PG base and Nic Shots. The recommended dilution for this concentrate is between 15-20%, tailored to achieve your desired flavour strength. Made in the UK with high-quality ingredients, this concentrate ensures a premium mixing experience. Please Note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes.",
+  "tags": [
+    "Flavour Concentrate"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130722",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-cola-flavour-concentrate-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_10ml-concentrates_cola.jpg?v=1729060616",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.533Z"
+}

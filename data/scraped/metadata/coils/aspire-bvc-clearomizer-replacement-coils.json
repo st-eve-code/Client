@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639274119492",
+  "slug": "aspire-bvc-clearomizer-replacement-coils",
+  "title": "Aspire BVC Clearomizer Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/aspire-bvc-clearomizer-replacement-coils",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Aspire BVC Clearomizer Replacement Coils 1.6ohm or 1.8ohm Keep your tank in top working order with these high-quality BVC coils from Aspire. Designed for use with the Aspire K1, K2 and Spryte pod kit, these coils promise superb flavour and thick, rich vapour production.",
+  "tags": [
+    "compatible-with-11700-Discontinued",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "1.8 ohm",
+        "1.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.8 ohm",
+      "sku": "1000281",
+      "price": 5.99
+    },
+    {
+      "title": "1.6ohm",
+      "sku": "1000280",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-bvc-clearomizer-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/011113_bvc_clearomizer_replacement_coils_parent_001.jpg?v=1729032452",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-bvc-clearomizer-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1435587378_3647.jpg?v=1729032452",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.869Z"
+}

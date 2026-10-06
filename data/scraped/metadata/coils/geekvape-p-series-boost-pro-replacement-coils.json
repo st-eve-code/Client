@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639731003716",
+  "slug": "geekvape-p-series-boost-pro-replacement-coils",
+  "title": "Geekvape P-Series coils - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/geekvape-p-series-boost-pro-replacement-coils",
+  "brand": "Geekvape",
+  "productType": "Coils",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Unleash incredible flavour from your GeekVape Aegis Boost Pro vape kit with these replacement P-series coils from GeekVape. Tailored for high-VG e-liquids and high-powered devices, these coils employ a mesh build design for improved flavour and outstanding longevity. Their push-to-fit design allows them to be easily swapped out and prevents leaks. Package contains 5 x replacement GeekVape Boost Pro P-series coils Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.2ohm",
+        "0.4 ohm",
+        "0.5ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.2ohm",
+      "sku": "1103294",
+      "price": 9.99
+    },
+    {
+      "title": "0.4 ohm",
+      "sku": "1103295",
+      "price": 9.99
+    },
+    {
+      "title": "0.5ohm",
+      "sku": "1105891",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-p-series-boost-pro-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-boost-pro-coils_1_1_1.jpg?v=1729048654",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-p-series-boost-pro-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-boost-pro-coils.jpg?v=1729048655",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-p-series-boost-pro-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-boost-pro-coils_1.jpg?v=1729048655",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-p-series-boost-pro-replacement-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-boost-pro-coils_1_1.jpg?v=1729048655",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

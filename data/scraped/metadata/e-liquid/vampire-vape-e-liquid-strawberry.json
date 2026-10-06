@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639408206148",
+  "slug": "vampire-vape-e-liquid-strawberry",
+  "title": "Vampire Vape Strawberry 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-e-liquid-strawberry",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Embark on a fruity flavour filled journey to a blissful summer oasis with this Vampire Vape Strawberry 10ml E-Liquid. With each smooth puff delivering the essence of summer's finest fruit. You can be sure to enjoy the timeless delight of plump freshly picked strawberries. With each refreshing inhale offering luscious succulent notes of sweet, juicy Strawberries that linger on the palate. Crafted to perfection, this Strawberry by Vampire Vape guarantees to offer a truly satisfying vape indulgence that can be enjoyed all day long, down to the last drop. Each bottle of this Strawberry Vampire Vape E-Liquid offers a balanced blend of PG (Propylene Glycol) and VG (Vegetable Glycerin). Ensuring that it can deliver maximum flavour and satisfying clouds. Please Note: that the specific PG/VG ratio varies depending on the nicotine strength in each bottle of nicotine E Liquid. For the 3 mg nicotine strength, the E-Liquid has a 50VG/50PG ratio. Whilst the 3 mg, 6 mg, 12 mg, and 18 mg nicotine strengths contain a 40VG/60PG ratio. Strawberry by Vampire Vape is a versatile blend that can be used with most vape devices to deliver a satisfying vaping experience. Making it ideal for use with low-powered starter kits, pen-vape kits, and pod kits. If you love this 10ml bottle of Vampire Vape juice, why not explore their other equally delicious popular flavours. Their iconic E-Liquid collection offers a broad range to choose from to suit a variety of vaping needs. So whether you're looking for your next seriously smooth nicotine salt Vampire Vape Nic Salt for a perfectly smooth throat hit. Or inspired to make your own vape juice blends with their Vampire Vape Flavour Concentrates. You're sure to find a vape juice flavour and type that suits your vaping needs.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-ST-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-ST-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-VV-10-ST-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-e-liquid-strawberry__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-strawberry-10ml-e-liquid.jpg?v=1729038491",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.396Z"
+}

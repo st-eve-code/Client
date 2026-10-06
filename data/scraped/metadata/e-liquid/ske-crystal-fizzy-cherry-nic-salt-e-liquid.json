@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912243524",
+  "slug": "ske-crystal-fizzy-cherry-nic-salt-e-liquid",
+  "title": "SKE Crystal Fizzy Cherry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-fizzy-cherry-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Fizzy Cherry flavour SKE Crystal Nic Salts e-liquid delivers the sweet and tangy taste of cherry with a fizzy twist that replicates the sensation of a sparkling cherry soda or sugary sherbet. This e-liquid is a favourite for those who love their vape with a bit of zest and a refreshing, carbonated feel. Ideal for vapers seeking a fruit-flavoured e-liquid with a difference, Fizzy Cherry offers a lively and invigorating vaping experience. The nicotine salt formulation ensures a smoother throat hit at higher nicotine strengths, enhancing the overall satisfaction, and making it perfect for transitioning smokers. With a 50VG/50PG ratio, this e-liquid provides a balanced experience of flavour intensity and cloud production. It's suitable for a range of mouth-to-lung devices and is designed to satisfy with every puff. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132483",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132510",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-fizzy-cherry-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-fizzy-cherry_1_1.jpg?v=1729060696",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-fizzy-cherry-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-fizzy-cherry.jpg?v=1729060696",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-fizzy-cherry-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-fizzy-cherry_1.jpg?v=1729060696",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.427Z"
+}

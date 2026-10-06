@@ -1,0 +1,84 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639783956804",
+  "slug": "smok-ta-replacement-coils",
+  "title": "SMOK TA Coils - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-ta-replacement-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 9.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok T-Air Subtank is compatible with Smok’s TA coils which feature a mesh build that allows for faster heating time and improved flavour. Installing the coils is simple thanks to the coils’ push-to-fit design. The Smok TA Coils are available in three resistances and builds: A 0.15ohm single mesh coil best used between 40-60W, 0.4ohm single mesh coil best used between 20-45W and a dual mesh 0.2ohm coil best used between 40-60W. Both coils are designed to deliver a superb DTL (direct-to-lung) vaping experience with immaculate flavour and exceptional vapour production. Coil Details Smok TA Coil 0.15ohm Best used between 40 - 60W Smok TA Coil 0.2ohm Best used between 50 - 70W Smok TA Coils 0.4ohm Best used between 20 - 45W Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1119487",
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.15ohm",
+        "0.2ohm",
+        "0.4 ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.15ohm",
+      "sku": "1119497",
+      "price": 9.99
+    },
+    {
+      "title": "0.2ohm",
+      "sku": "1119496",
+      "price": 9.99
+    },
+    {
+      "title": "0.4 ohm",
+      "sku": "1124669",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-ta-replacement-coils__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok_ta_0.15_dual_coil_5pack_1_1.png?v=1729052126",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-ta-replacement-coils__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok_ta_0.15_dual_coil_5pack.png?v=1729052126",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-ta-replacement-coils__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok_ta_0.15_dual_coil_5pack_1.png?v=1729052126",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-ta-replacement-coils__004.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok_ta_0.15_dual_coil_5pack_2.png?v=1729052126",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.870Z"
+}

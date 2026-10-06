@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639598129476",
+  "slug": "frukt-cyder-nic-salt-e-liquid-plum-red-apple",
+  "title": "Frukt Cyder Plum Red Apple Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/frukt-cyder-nic-salt-e-liquid-plum-red-apple",
+  "brand": "Frukt Cyder",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Succulent, soft plums merge deliciously with the tangy crispness of fresh apple cider to produce a smooth, sweet and uplifting taste of summer all-year round. This premium e-liquid’s 50VG/50PG blend strikes the perfect balance between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "FR-10-PRA-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "FR-10-PRA-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__frukt-cyder-nic-salt-e-liquid-plum-red-apple__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/plum-red-apple-nic-salt_1.png?v=1729043649",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.620Z"
+}

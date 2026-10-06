@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15870921212285",
+  "slug": "dojoliq-apple-pear-10ml-nic-salt-e-liquid-by-vaporesso",
+  "title": "DojoLiq Apple Pear 10ml Nic Salt E-Liquid by Vaporesso",
+  "url": "https://www.vapestore.co.uk/products/dojoliq-apple-pear-10ml-nic-salt-e-liquid-by-vaporesso",
+  "brand": "Dojoliq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Vaporesso DojoLiq Apple Pear delivers a crisp and refreshing fruit profile that perfectly balances orchard-fresh sweetness. The inhale introduces the clean, bright taste of crisp Apple, providing a firm and juicy foundation. This is smoothly complemented by the soft, mellow notes of ripe Pear on the exhale, creating a harmonious and highly authentic fruit mix. Formulated with a bespoke 45% VG / 55% PG ratio tailored specifically to this flavour, this Nicotine Salt e-liquid is crafted to provide exceptional clarity and a smooth throat hit. This fine-tuned blend performs flawlessly with Mouth-to-Lung (MTL) refillable pod kits and starter devices, ensuring sharp flavour transmission. Brought to you by the hardware specialists at Vaporesso, the DojoLiq collection captures the vibrant, authentic flavours of their popular Dojo series in a versatile 10ml format. Available in 10mg and 20mg strengths, these e-liquids offer rapid nicotine satisfaction and consistently bold taste from the first drop to the last.",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1154458",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1154480",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dojoliq-apple-pear-10ml-nic-salt-e-liquid-by-vaporesso__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Apple-Pear-Vaporesso-Dojoliq-10ml-10mg-Nic-Salts.jpg?v=1776939233",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dojoliq-apple-pear-10ml-nic-salt-e-liquid-by-vaporesso__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Apple-Pear-Vaporesso-Dojoliq-10ml-20mg-Nic-Salts.jpg?v=1776939492",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.441Z"
+}

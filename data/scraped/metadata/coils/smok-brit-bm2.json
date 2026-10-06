@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639275036996",
+  "slug": "smok-brit-bm2",
+  "title": "SMOK Brit BM2",
+  "url": "https://www.vapestore.co.uk/products/smok-brit-bm2",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 13.99,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "Keep your device running in top working order with these replacement coils, designed for use with the Smok Brit Mini Tanks. A pure organic cotton core ensures e-liquid wicking is consistent with delivery high-quality flavour production. Available in resistances of 0.6 for sub-ohm vaping and 1.2ohms for high PG vaping. At Vapestore we stock a large range of SMOK Products, including Smok E-cigarettes , Smok Tanks , Mods , Smok Coils and New Vape kits",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "212271",
+      "price": 13.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "212264",
+      "price": 13.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-brit-bm2__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/212264_smok_brit_bm2_coils_001_1.jpg?v=1729032518",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-brit-bm2__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/212264_smok_brit_bm2_coils_001_2.jpg?v=1729032518",
+      "position": 2,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-brit-bm2__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/212264_smok_brit_bm2_coils_001.jpg?v=1729032518",
+      "position": 3,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

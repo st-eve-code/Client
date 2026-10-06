@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639453589828",
+  "slug": "vampire-vape-cool-red-lips-10ml-e-liquid",
+  "title": "Vampire Vape Cool Red Lips 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-cool-red-lips-10ml-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Vampire Vape Cool Red Lips 10ml E-Liquid is a sugary sweet delight you don’t want to miss out on. This scrummy e-juice has been inspired by those classic red lip sweets we used to relish from the pick and mix counter, this utterly moreish candy blend delivers a sweet tasting cherry flavour with a dash of ice-cool menthol for a sweet and juicy candy rush. This E-Liquid from Vampire Vape offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. Please note: that the 3mg nicotine strength contains 50VG/50PG while 3mg, 6mg, 12mg & 18mg nicotine strengths contain 40VG/60PG. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits , pen-vape kits and pod kits. If you love this delicious Vampire Vape E-Liquid 10ml, then why not check out the other equally moreish flavours from their collection. They have a multitude of delicious flavours to choose from to suit any vaper’s flavour requirements. Go ahead and try out their juicy fruit flavours, refreshing beverage , sweet bakery, confectionary and dessert flavours or even their classic Mint/Menthol and tobacco flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-CRL-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-CRL-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-VV-10-CRL-12",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VV-VV-10-CRL-18",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-cool-red-lips-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-cool-red-lips-10ml-e-liquid.jpg?v=1729040392",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.361Z"
+}

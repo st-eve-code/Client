@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639754694980",
+  "slug": "doozy-vape-co-seriously-bar-salts-triple-mango-ice-nicsalt-eliquid",
+  "title": "Doozy Vape Co Seriously Bar Salts Triple Mango Ice 10ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-seriously-bar-salts-triple-mango-ice-nicsalt-eliquid",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Triple Mango Ice from Doozy Vape’s Seriously Bar Salts collection of nic salt e-liquids delivers a mouth-watering rush of tropical flavour from your first vape to your last. Juicy, fresh, sun-ripened Mangoes are given an extra refreshing layer of crushed ice on the exhale, ensuring a flavoursome and uplifting vape experience all day long. This premium e-liquid boasts a 50VG/50PG mix, delivering a harmonious balance of flavour and cloud production. The nicotine salt formula makes it suitable for classic starter vape kits and pod vape kits and is ideal for ex-smokers or vapers seeking quick nicotine satisfaction with a silky-smooth throat hit. Doozy Vape Co. presents Seriously Bar Salts, an irresistible line-up of nic salt e-liquids that mimic the most popular flavours found in the best disposable vape bars. These 10ml nicotine salt e-liquid bottles deliver the same rich taste but in a reusable format that can be used across a wide variety of starter and pod vape kits. Enjoy your favourite disposable vape flavours while reducing plastic waste, all with your preferred nicotine strength and vape kit of choice. Nicotine Salt e-liquid has a unique alkaline formula that allows for higher nicotine concentrations than that found in traditional freebase nicotine e-liquids, all while delivering a smooth, gentle throat hit. Unlike freebase e-liquids, nicotine salts are absorbed into the bloodstream faster, delivering rapid relief from nicotine cravings.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Seriously Bar Salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1122011",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1122021",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1122032",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-seriously-bar-salts-triple-mango-ice-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/triple-mango-ice-seriously-bar-salts-10ml_1_1_1.jpg?v=1729049859",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.473Z"
+}

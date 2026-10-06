@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14932529316221",
+  "slug": "pure-mist-sensation-menthol-10ml-e-liquid",
+  "title": "Pure Mist Sensation Menthol 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pure-mist-sensation-menthol-10ml-e-liquid",
+  "brand": "Pure Mist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pure Mist Sensation Menthol delivers an intensified Menthol experience, combining the clean, crisp flavour of Menthol with an extra-icy finish. This bold and refreshing e-liquid is perfect for vapers who crave a stronger cooling sensation in their vape. The Pure Mist High-PG collection offers a variety of VG/PG ratios to cater to different preferences. The 3mg nicotine strength features a 50VG/50PG blend for balanced vapour and flavour production, while the 0mg, 6mg, 12mg, and 18mg strengths use a high-PG 30VG/70PG ratio for a more intense flavour with discreet vapour. Designed for use with Mouth-to-Lung (MTL) devices, Pure Mist Menthol Sensation is crafted in the UK with high-quality ingredients to ensure a consistent and invigorating vaping experience.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "b2b",
+    "High PG E-Liquid",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1094526",
+      "price": 2.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1009216",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1094529",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1094527",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1094528",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pure-mist-sensation-menthol-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/puremist-10ml-e-liquid-sensational-menthol.jpg?v=1736439372",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.382Z"
+}

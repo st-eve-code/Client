@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14889701638525",
+  "slug": "dr-frost-arctic-strawberry-coconut-ice-cream-10ml-nic-salt-e-liquid",
+  "title": "Dr Frost Arctic Strawberry Coconut Ice Cream 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dr-frost-arctic-strawberry-coconut-ice-cream-10ml-nic-salt-e-liquid",
+  "brand": "Dr Frost",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dr Frost Arctic Nic Salt Strawberry Coconut Ice Cream combines the sweet, ripe flavour of fresh Strawberries with the smooth, creamy taste of Coconut Ice Cream, finished with a refreshing menthol exhale. This indulgent yet refreshing blend offers a unique balance of dessert and cool fruit flavours, making it a perfect choice for vapers who enjoy sweet and frosty e-liquids. As part of Dr Frost’s Arctic Edition collection, this nicotine salt e-liquid features a double-concentrated Bar Salts flavour, designed to replicate the bold and intense taste of disposable vapes. With a 50VG/50PG ratio, Strawberry Coconut Ice Cream Nic Salt is ideal for use with Mouth-to-Lung (MTL) pod kits and low-powered devices, providing smooth throat hits and quick nicotine relief. Available in 5mg, 10mg, and 20mg nicotine strengths, Strawberry Coconut Ice Cream is a versatile and flavourful option for adult smokers and vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137884",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137892",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dr-frost-arctic-strawberry-coconut-ice-cream-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Strawberry-Coconut-Ice-Cream-10mg.jpg?v=1733932853",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dr-frost-arctic-strawberry-coconut-ice-cream-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Strawberry-Coconut-Ice-Cream-20mg.jpg?v=1733932894",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.553Z"
+}

@@ -1,0 +1,88 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639684014404",
+  "slug": "mango-vanilla-ice-cream-riotsquad-black-edition-nic-salts-10ml",
+  "title": "Riot Squad BLCK EDTN Mango Vanilla Ice Cream Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/mango-vanilla-ice-cream-riotsquad-black-edition-nic-salts-10ml",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Mango Vanilla Ice Cream from Riot Squad’s premium Black Edition Hybrid Nic Salts range is a dreamy, decadent dessert vape that blends fresh, ripe, juicy mangoes with rich Madagascan vanilla in a silky smooth ice cream. Riot Squad’s Riot Salt e-liquids are formulated with hybrid nicotine, a unique and innovative blend of nicotine freebase and nicotine salts. The combination of the freebase and salt nicotine gives this e-liquid a distinctly smooth yet flavoursome character, and its 50/50 PG and VG ratio provides the perfect balance of flavour and throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot BLCK EDTN"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1117059",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1117063",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1117065",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mango-vanilla-ice-cream-riotsquad-black-edition-nic-salts-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-master-2024_blkedtn-mango-vanilla-ice-cream.jpg?v=1729047556",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__mango-vanilla-ice-cream-riotsquad-black-edition-nic-salts-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-master-2024_blkedtn-mango-vanilla-ice-cream_3.jpg?v=1729047556",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__mango-vanilla-ice-cream-riotsquad-black-edition-nic-salts-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-master-2024_blkedtn-mango-vanilla-ice-cream_2.jpg?v=1729047556",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__mango-vanilla-ice-cream-riotsquad-black-edition-nic-salts-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-master-2024_blkedtn-mango-vanilla-ice-cream_1.jpg?v=1729047556",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.444Z"
+}

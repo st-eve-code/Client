@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003007451517",
+  "slug": "ox-passion-blue-sour-razz-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Blue Sour Razz Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-blue-sour-razz-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Salts Blue Sour Razz delivers an intense fusion of tart Blue Raspberry with a sharp, citrusy sour edge. The vibrant berry flavour bursts onto the palate with a lively tang, followed by a mouth-watering sour twist that lingers on the exhale, striking the perfect balance between sweet and sharp. Blended in a 50VG/50PG ratio, this nicotine salt e-liquid is designed for mouth-to-lung (MTL) vaping, ensuring a smooth throat hit with bold, well-defined flavour. Ideal for pod vape kits and starter devices, it provides rapid nicotine absorption for a consistently satisfying vape experience. Developed by Oxva, a trusted name in vaping technology, the OX Passion Salts range features expertly crafted flavours designed to pair seamlessly with Oxva’s XLIM pod kits and other refillable vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1150083",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1132783",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139090",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-blue-sour-razz-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ox-Passion_0015_Blue-Sour-Razz.jpg?v=1739185644",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.392Z"
+}

@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639461847364",
+  "slug": "uwell-whirl-s-tank-2ml",
+  "title": "Uwell Whirl S Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/uwell-whirl-s-tank-2ml",
+  "brand": "Uwell",
+  "productType": "Tanks",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Whirl S Tank is a sleek and durable vape tank crafted from stainless steel with a quartz glass window, allowing you to monitor your e-liquid level with ease. Designed for simplicity and performance, the Whirl S Tank is perfect for both new and experienced vapers seeking versatility and reliability. This 2ml tank connects to the battery component via strong magnets, making removal and reattachment for refilling or coil changes quick and effortless. Refilling is mess-free, thanks to the convenient top-fill port accessed by removing the cap. An adjustable airflow system lets you customise your vaping experience, offering both a tight Mouth-to-Lung (MTL) draw and an airier Restricted Direct-Lung (RDL) style. The tank is optimised for use with Uwell’s UN2 0.8ohm Mesh Coils, which deliver incredible flavour with discreet vapour production. These coils feature Pro-FOCS technology and a self-cleaning design, ensuring longer coil life and maximum flavour extraction. Ideal for 50/50 or high-PG e-liquids, the Uwell Whirl S Tank provides a satisfying, balanced vape that’s perfect for everyday use.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "UW-TA-WH-S-2ML",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-whirl-s-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-whirl-s-tank-part.jpg?v=1729040732",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

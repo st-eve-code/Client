@@ -1,0 +1,85 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639845560644",
+  "slug": "lost-vape-ub-mini-replacement-coils",
+  "title": "Lost Vape UB Mini Replacement Coils - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-ub-mini-replacement-coils",
+  "brand": "Lost Vape",
+  "productType": "Coils",
+  "price": {
+    "min": 5.49,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Baby and Ursa Nano pod kits are among the most exciting pod devices to have emerged in years. With the arrival of Lost Vape’s UB coils, these fantastic kits now have the coils they deserve. Featuring a honeycomb mesh build, the coils are engineered for incredible flavour and longevity. These coils are compatible with Lost Vape Ursa Nano and Ursa Baby Kits and Empty Pods. • 0.6ohm: RDTL (restricted direct-to-lung) /DTL (direct-to-lung) pod for use with 50/50 and high-VG e-liquids . Best between 6-21W • 0.8ohm: a cross between MTL (mouth-to-lung) and RDTL vaping styles – best used with 50/50 and nic salt e-liquids . Best between 12-17W • 1.0ohm: MTL-style coil – best used with nic salt, 50/50 and high-PG e-liquids. Best between 9-13W Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1122001",
+    "compatible-with-1125693",
+    "compatible-with-1126550",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1125704",
+      "price": 6.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1125705",
+      "price": 5.49
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1125706",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-ub-mini-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ub-mini-1-0ohm-coils-5pk_1.jpg?v=1729056306",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ub-mini-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ub-mini-0-8ohm-coils-5pk.jpg?v=1729056306",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ub-mini-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ub-mini-0-8ohm-coils-5pk_1.jpg?v=1729056306",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ub-mini-replacement-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ub-mini-1-0ohm-coils-5pk.jpg?v=1729056306",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.871Z"
+}

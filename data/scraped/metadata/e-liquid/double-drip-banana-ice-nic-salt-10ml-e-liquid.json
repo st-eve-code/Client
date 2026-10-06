@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15244533170557",
+  "slug": "double-drip-banana-ice-nic-salt-10ml-e-liquid",
+  "title": "Double Drip Banana Ice Nic Salt 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-banana-ice-nic-salt-10ml-e-liquid",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Double Drip Banana Ice offers a smooth and indulgent vape that blends ripe Banana flavour with a crisp Menthol finish. The Banana is rich and sweet with a naturally creamy profile, while the icy layer on the exhale adds freshness and keeps the overall flavour from becoming too heavy. It’s a deliciously distinctive combination that’s both mellow and refreshing. This nicotine salt e-liquid is blended at a 50VG/50PG ratio for optimal performance with MTL (mouth-to-lung) vape kits, including pod systems, refillable vapes , vape pens , and compact starter devices . The nic salt formulation ensures fast-acting nicotine delivery with a smooth and comfortable throat hit. Available in 10mg and 20mg nicotine strengths, Double Drip Nic Salts are available in a wide range of bold and satisfying flavour profiles to suit everyday vaping. Double Drip are one of the most celebrated and influential e-liquid brands in the UK and the masterminds of some of the most iconic vape flavours ever made. Vibrant, authentic, and highly inventive flavours are a hallmark of all Double Drip vape juices, and this newest collection of truly timeless flavours in smooth, satisfying nic salts won’t disappoint.",
+  "tags": [
+    "10ml E-Liquids",
+    "Banana Ice",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140626",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140635",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-banana-ice-nic-salt-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Banana-Nic-Salt-10mg.jpg?v=1753720120",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__double-drip-banana-ice-nic-salt-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Banana-Nic-Salt-20mg.jpg?v=1753720123",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.372Z"
+}

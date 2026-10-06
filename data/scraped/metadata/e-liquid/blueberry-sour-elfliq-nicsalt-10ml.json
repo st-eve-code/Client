@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639677559108",
+  "slug": "blueberry-sour-elfliq-nicsalt-10ml",
+  "title": "Elf Bar ElfLiq Blueberry Sour Raspberry Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/blueberry-sour-elfliq-nicsalt-10ml",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Sour Raspberry from ElfLiq’s range of nic salt e-liquids is a deliciously sweet, rich and jammy blueberry flavour, but with a streak of sour on the exhale that lends it a an irresistibly moreish kick you’ll want to come back to again and again. Elfliq e-liquids are Elf Bar’s most iconic flavours in 10ml bottles of nicotine salt e-liquid. With a 50% VG / 50% PG concentration, Elfliq liquids produce a discreet amount of flavour-rich vapour with a smooth, comfortable throat hit, and provide rapid relief from nicotine cravings. Elfliq nicotine salt e-liquids are available in 10mg or 20mg nicotine strength and are ideal for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. This liquid is perfect for refillable vape and vape starter kit users.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "AWARDS15",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1127891",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1118424",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1118439",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__blueberry-sour-elfliq-nicsalt-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-bsr-5mg.jpg?v=1776340873",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__blueberry-sour-elfliq-nicsalt-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-bsr-10mg.jpg?v=1776340877",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__blueberry-sour-elfliq-nicsalt-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-bsr-20mg.jpg?v=1776340879",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.324Z"
+}

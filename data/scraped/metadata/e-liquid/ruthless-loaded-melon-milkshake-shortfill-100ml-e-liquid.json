@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003372257661",
+  "slug": "ruthless-loaded-melon-milkshake-shortfill-100ml-e-liquid",
+  "title": "Ruthless Loaded Melon Milkshake Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-loaded-melon-milkshake-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Melon Milkshake by Ruthless delivers a luxuriously smooth and creamy take on a classic dessert shake, blending the sweet, refreshing taste of ripe Melon with the indulgent richness of a thick, velvety Milkshake. The balance of fruit and dairy-inspired notes creates a satisfyingly sweet vape with a mellow, creamy exhale, making it a perfect choice for vapers who enjoy dessert-style e-liquids with a fresh, fruity twist. Blended as part of the signature Ruthless Shortfill range, Melon Milkshake features a 70VG/30PG ratio for dense, full-bodied vapour and a smooth inhale. Designed for Sub-Ohm vape kits and advanced DTL (direct-to-lung) devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, allowing for a customisable nicotine strength. Ruthless has been a leader in the e-liquid industry for over a decade, creating bold and distinctive flavour profiles that continue to set trends. Their commitment to high-quality ingredients and expertly crafted blends ensures a premium vaping experience with every bottle.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138936",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-loaded-melon-milkshake-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/loaded_uk_100ml_MELON_MILKSHAKE.jpg?v=1739290088",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.531Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639440154948",
+  "slug": "rachael-rabbit-lemon-pear-raspberry-50ml",
+  "title": "Jack Rabbit Rachael Rabbit Lemon, Pear and Raspberry E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/rachael-rabbit-lemon-pear-raspberry-50ml",
+  "brand": "Jack Rabbit",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "This incredibly well-balanced eliquid from Rachael Rabbit is a delightful fusion of sharp and zesty lemon, with sharp, tangy raspberry and the mellow sweetness of fresh pear. A truly essential vape for fruit lovers. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , vaping mods and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "JR-JR-50-RR-LPR-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__rachael-rabbit-lemon-pear-raspberry-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jack_rabbit_jm_0005_rachael-rabbit-50ml-shortfill-lemon-pear-raspberry-white.jpg?v=1729039725",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.629Z"
+}

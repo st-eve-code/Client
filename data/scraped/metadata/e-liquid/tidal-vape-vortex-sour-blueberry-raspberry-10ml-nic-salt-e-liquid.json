@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14888484995453",
+  "slug": "tidal-vape-vortex-sour-blueberry-raspberry-10ml-nic-salt-e-liquid",
+  "title": "Vortex Sour Blueberry Raspberry 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/tidal-vape-vortex-sour-blueberry-raspberry-10ml-nic-salt-e-liquid",
+  "brand": "Tidal Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Tidal Vape Vortex Nic Salt Sour Blueberry Raspberry pairs the tangy sweetness of Blueberry with the sharp bite of Raspberry, enhanced by a zesty sour twist. This flavour delivers a bright and layered vape, perfect for fans of sour-inspired fruit blends. Blended with a 50VG/50PG ratio, this nicotine salt e-liquid provides smooth vapour and bold flavour, making it ideal for Mouth-To-Lung (MTL) pod kits and starter devices. The nic salt formulation ensures a smooth throat hit and rapid nicotine relief, offering a flavour-packed option for everyday vaping. Tidal Vape Vortex Nic Salts come in a convenient 10ml format, providing a more economical and less wasteful alternative to disposable vape bars. Available in 10mg and 20mg nicotine strengths, Sour Blueberry Raspberry is a vibrant choice for adult vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1156337",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1137847",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137868",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tidal-vape-vortex-sour-blueberry-raspberry-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-10mg-sour-blueberry-raspberry-min.jpg?v=1733849287",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__tidal-vape-vortex-sour-blueberry-raspberry-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-20mg-sour-blueberry-raspberry-min.jpg?v=1733849342",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.553Z"
+}

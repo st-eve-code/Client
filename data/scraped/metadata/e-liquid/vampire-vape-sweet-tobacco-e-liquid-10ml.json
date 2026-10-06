@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639265927492",
+  "slug": "vampire-vape-sweet-tobacco-e-liquid-10ml",
+  "title": "Vampire Vape Sweet Tobacco E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-sweet-tobacco-e-liquid-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Take your vaping to a whole new level of delicious flavours with this luscious Sweet Tobacco Vampire Vape. Offering a pairing of classic tobacco flavours and a dash of velvety caramel. All to create an E Liquid flavour that is both classic and delightfully unique. With each inhale of Sweet Tobacco by Vampire Vape, you'll be greeted by the warmth of tobacco. Whilst the exhale unveils a smooth caramel layered undertone that lingers on your palate. All to deliver a sweetened caramel tobacco indulgence that can satisfy even the most discerning tobacco vape enthusiasts. Each bottle of this Sweet Tobacco Vampire Vape E-Liquid offers a balanced blend of PG (Propylene Glycol) and VG (Vegetable Glycerin). Ensuring that it can deliver maximum flavour and satisfying clouds. Please Note: That the specific PG/VG ratio varies depending on the nicotine strength in each bottle of nicotine E Liquid. For the 3 mg nicotine strength, the E-Liquid has a 50VG/50PG ratio. Whilst the 3 mg, 6 mg, 12 mg, and 18 mg nicotine strengths contain a 40VG/60PG ratio. Sweet Tobacco by Vampire Vape is a versatile blend that can be used with most vape devices to deliver a satisfying vaping experience. Making it ideal for use with low-powered starter kits, pen-vape kits, and pod kits. If you love this 10ml bottle of Vampire Vape juice, why not explore their other equally delicious popular flavours. Their iconic E-Liquid collection offers a broad range to choose from to suit a variety of vaping needs. So whether you're looking for your next seriously smooth nicotine salt Vampire Vape Nic Salt for a perfectly smooth throat hit. Or inspired to make your own vape juice blends with their Vampire Vape Flavour Concentrates. You're sure to find a vape juice flavour and type that suits your vaping needs.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1001017",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1000222",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1000223",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "373660",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-sweet-tobacco-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire_vape_sweet_tobacco_e-liquid_10ml_1.jpg?v=1729032113",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-sweet-tobacco-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/373684_vampirevape_10ml_sweettobacco_06_001.jpg?v=1729032113",
+      "position": 2,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-sweet-tobacco-e-liquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/373684_vampirevape_10ml_sweettobacco_06_001_1.jpg?v=1729032113",
+      "position": 3,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.336Z"
+}

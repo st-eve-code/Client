@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912210756",
+  "slug": "ske-crystal-cola-ice-nic-salt-e-liquid",
+  "title": "SKE Crystal Cola Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-cola-ice-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Cola Ice flavour SKE Crystal Nic Salts e-liquid offers the timeless taste of classic cola combined with a refreshing icy finish. This e-liquid captures the essence of a chilled cola drink, enhanced with a cooling effect that elevates the traditional cola experience. Perfect for those hot days or when you need a quick refreshing vape, this vape juice’s nicotine salt formulation provides a smooth throat hit, even at higher nicotine strengths. The 50VG/50PG ratio ensures a perfect balance of cloud production and flavour delivery, making it suitable for most mouth-to-lung setups such as pod systems. SKE Crystal Nic Salts are crafted to deliver distinct and enjoyable flavours, and Cola Ice is no exception. It's ideal for vapers who enjoy beverage-flavoured e-liquids and are looking for an all-day vape that combines familiarity with a twist of novelty. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132482",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132509",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-cola-ice-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-cola-ice_1_1_1.jpg?v=1729060688",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-cola-ice-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-cola-ice_1.jpg?v=1729060688",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-cola-ice-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-cola-ice_1_1.jpg?v=1729060688",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.377Z"
+}

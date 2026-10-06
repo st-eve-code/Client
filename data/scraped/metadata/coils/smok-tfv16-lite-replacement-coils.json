@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639457587524",
+  "slug": "smok-tfv16-lite-replacement-coils",
+  "title": "SMOK TFV16 Lite Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-tfv16-lite-replacement-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The TFV16 Lite Tank from Smok is the vaping giant’s latest iteration of one its best ever sub-ohm tanks. The specially designed coils feature SMOK’s cutting edge mesh design as well as organic cotton for improved wicking. They feature an extra-large heating area for even better performance and flavour. These 0.15ohm resistance coils feature a triple-mesh design and perform best at 90W with high-VG, sub-ohm e-liquids.",
+  "tags": [
+    "Delisted",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.15ohm",
+        "0.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.15ohm",
+      "sku": "SM-CO-TF-V16-0.15-3P",
+      "price": 7.99
+    },
+    {
+      "title": "0.2ohm",
+      "sku": "SM-CO-TF-V16-0.2-3P",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-tfv16-lite-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-tfv16-lite-0-2.jpg?v=1729040532",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfv16-lite-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-tfv16-lite-0-15_1.jpg?v=1729040532",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfv16-lite-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-tfv16-lite-0-2_1.jpg?v=1729040532",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

@@ -1,0 +1,102 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "15766346596733",
+  "slug": "geekvape-z-subohm-5-tank-2ml",
+  "title": "Geekvape Z Subohm 5 Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/geekvape-z-subohm-5-tank-2ml",
+  "brand": "Geekvape",
+  "productType": "Tanks",
+  "price": {
+    "min": 21.99,
+    "max": 21.99,
+    "currency": "GBP"
+  },
+  "description": "The Geek Vape Z Subohm 5 Tank continues the renowned Z (Zeus) lineage, and the brand's legacy of \"Max Leakproof\" performance while introducing refined usability features. Designed for sub-ohm vapers who demand reliability and dense vapour production, this tank features Geek Vape's signature top-to-bottom airflow system. By drawing air in from the top and channelling it down to the coil, it creates an impermeable barrier against leakage while ensuring exceptional flavour intensity. A key upgrade for the Z Subohm 5 is the refined child-safe \"Push-to-Open\" top-fill mechanism. This spring-loaded design makes refilling cleaner and faster than previous threaded versions, while ensuring the tank remains secure during transport. The tank is constructed from durable stainless steel and utilises a wide-bore 810 drip tip for maximum airflow. At the heart of its performance is the Geek Vape Z Series Coil platform. The Z Subohm 5 is optimised for the high-performance Z XM (Extended Mesh) coils, which feature a denser mesh weave to distribute heat more evenly. This \"Boost Version\" technology significantly improves flavour reproduction and coil longevity, with Geek Vape stating these coils can process up to 60ml of e-liquid before requiring replacement. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Glossy Black",
+        "Glossy Gold",
+        "Gunmetal Grey",
+        "Rainbow",
+        "Cold Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Glossy Black",
+      "sku": "1151332",
+      "price": 21.99
+    },
+    {
+      "title": "Glossy Gold",
+      "sku": "1151334",
+      "price": 21.99
+    },
+    {
+      "title": "Gunmetal Grey",
+      "sku": "1151336",
+      "price": 21.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "1151335",
+      "price": 21.99
+    },
+    {
+      "title": "Cold Silver",
+      "sku": "1151333",
+      "price": 21.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-z-subohm-5-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Glossy-Black-Geek-Vape-Subohm-Tank.jpg?v=1768562614",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-5-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Glossy-Gold-Geek-Vape-Subohm-Tank.jpg?v=1768562746",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-5-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Gunmetal-Grey-Geek-Vape-Subohm-Tank.jpg?v=1768562918",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-5-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rainbow-Geek-Vape-Subohm-Tank.jpg?v=1768563409",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-5-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cold-Silver-Geek-Vape-Subohm-Tank.jpg?v=1768563582",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.621Z"
+}

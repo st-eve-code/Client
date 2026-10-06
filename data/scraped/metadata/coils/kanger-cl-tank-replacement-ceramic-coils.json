@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639253049668",
+  "slug": "kanger-cl-tank-replacement-ceramic-coils",
+  "title": "Kangertech SS316 Replacement Ceramic Coils",
+  "url": "https://www.vapestore.co.uk/products/kanger-cl-tank-replacement-ceramic-coils",
+  "brand": "Kangertech",
+  "productType": "Coils",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Kanger Replacement Ceramic Coils have a longer life-span than other coils. They produce large amounts of vapour and flavour and will not leave you with a burnt coil taste.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1098636",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__kanger-cl-tank-replacement-ceramic-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1487169352_708.jpg?v=1729031546",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.874Z"
+}

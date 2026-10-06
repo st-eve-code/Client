@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639384940868",
+  "slug": "pocket-fuel-lemon-papaya-e-liquid-50ml",
+  "title": "Pocket Fuel Lemon & Papaya Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pocket-fuel-lemon-papaya-e-liquid-50ml",
+  "brand": "Pocket Fuel",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Lemon Papaya from Pocket Fuel delivers a perfect balance of sharp, zingy citrus and the smooth tropical sweetness of Papaya for a vape that’s fresh, zesty and deliciously exotic. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape to your liking. Its 70VG/30PG ratio makes it ideal for high-powered mods and sub-ohm tanks .",
+  "tags": [
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "PF-LP-00-SFL",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pocket-fuel-lemon-papaya-e-liquid-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pocket-fuel_eliquid_shortfill_lemon_papaya.jpg?v=1729037487",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.484Z"
+}

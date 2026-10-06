@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639407812932",
+  "slug": "vampire-vape-e-liquid-catapult",
+  "title": "Vampire Vape Catapult 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-e-liquid-catapult",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Indulge in the irresistible blend of fruity and menthol goodness with Vampire Vape Catapult E-Liquid 10ml that’s perfect for vapers seeking the ultimate vaping experience. Upon the inhale, you'll be greeted with crushed, rich, juicy, and tart blackcurrants complemented by bright sweet notes of blueberry, which is then followed by a cool and refreshing menthol exhale. Ensuring that each draw delivers the ultimate mouth-watering combination of sweet and juicy flavours with a touch of menthol to create a perfect all-day vape Vampire Vape E-Liquid flavour that you’ll find yourself coming back for more time and time again, making this Vampire Vape Catapult E-Liquid 10ml a must-have addition to any vaper's E-Liquid collection. If you’re looking to enjoy this delicious Catapult by Vampire Vape and soothe your nicotine cravings even faster then you’re in luck! You can also find this delicious E-Liquid in a Nic Salt form with the equally moreish and seriously smooth Catapult Vampire Vape Nic Salt. Vampire Vape 10ml E-Liquids are the perfect choice for vapers who crave a wide range of delectable flavours in a convenient and easy-to-use size. These E-Liquids are made in the UK with high quality ingredients and food industry-approved flavours, ensuring a consistent and enjoyable vaping experience for vapers in every seriously smooth draw they take. Please note: With a balanced 40VG/60PG for 0mg, 6mg, 12mg and 18mg and 50% VG and 50% PG for 3mg only, Vampire Vape 10ml E-Liquids offer an optimal balance of clouds, vapour, and flavour. Making them suitable for use with all types of vaping devices, from starter vape kits to advanced mod setups. Additionally these Vampire Vape 10ml E-Liquids are available in a vast range of flavours to suit every vapers taste and preference, from fruity and menthol all the way to sugary sweet dessert flavours and more. Some of their most popular flavours include the award winning Vampire Vape Heisenberg and the Vampire Vape Pinkman, which are sure to become a staple within your E-Liquid collection. So whether you're a new or experienced vaper, Vampire Vape 10ml E-Liquids offer an unbeatable vaping experience that is sure to satisfy your cravings. With their premium quality ingredients and a vast range of delicious flavours, these E-Liquids are an excellent choice for vapers looking to enjoy a convenient, high-quality vaping experience. Love the great taste of this Catapult by Vampire Vape but fancy trying something new? Then check out the other equally moreish flavours from their collection. With such a wide variety of delectable Vampire Vape E-Liquid flavours to choose from, you're bound to find your new favourite all-day vape. Order today and discover a world of delicious vaping possibilities!",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1086311",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-CA-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-CA-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-VV-10-CA-12-50",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1086315",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-e-liquid-catapult__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-catapult-10ml-e-liquid.jpg?v=1729038473",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.347Z"
+}

@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15705299845501",
+  "slug": "imp-jar-select-10k-pod-vape-kit",
+  "title": "Imp Jar Select 10K Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/imp-jar-select-10k-pod-vape-kit",
+  "brand": "Imp Jar",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 7.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "Introducing the Imp Jar Select Pod Vape Kit, a clever and compact vaping solution designed for ultimate convenience. This stylish device bridges the gap between disposables and refillable kits with its standout feature: a built-in storage compartment designed to hold a 10ml bottle of e-liquid (sold separately). This unique \"2-in-1\" design ensures your e-liquid is always attached to your device, making it easier than ever to top up on the go without carrying loose bottles. The kit is powered by a reliable rechargeable internal battery and features a clear battery life indicator to keep you informed. Designed for mouth-to-lung (MTL) vaping, it comes with a 0.8ohm mesh pod that delivers a smooth, restricted draw rich in flavour—perfect for the double-concentrate Imp Jar Select Nic Salts. Operation is effortless with a simple draw-activation system, while the pod features a convenient top-fill mechanism that allows for mess-free refilling without removing the pod from the device. Compact, innovative, and available in a range of stylish colours, the Imp Jar Select Kit is the perfect travel companion for vapers who value simplicity and performance. We recommend using the following E-Liquids with this kit Imp Jar Select 10ml Nic Salts E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "Exclude",
+    "Imp Jar Select 10k",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Red",
+        "Pink",
+        "Green",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1150194",
+      "price": 7.49
+    },
+    {
+      "title": "Red",
+      "sku": "1150195",
+      "price": 7.49
+    },
+    {
+      "title": "Pink",
+      "sku": "1150196",
+      "price": 7.49
+    },
+    {
+      "title": "Green",
+      "sku": "1150197",
+      "price": 7.49
+    },
+    {
+      "title": "Silver",
+      "sku": "1150198",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__imp-jar-select-10k-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Imp-Jar-Select-Pod-Kit.jpg?v=1764869239",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__imp-jar-select-10k-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Imp-Jar-Select-Pod-Kit.jpg?v=1764927159",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__imp-jar-select-10k-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pink-Imp-Jar-Select-Pod-Kit.jpg?v=1764927395",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__imp-jar-select-10k-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Green-Imp-Jar-Select-Pod-Kit.jpg?v=1764927650",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__imp-jar-select-10k-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Silver-Imp-Jar-Select-Pod-Kit.jpg?v=1764927724",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.486Z"
+}

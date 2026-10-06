@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640008352068",
+  "slug": "nixer-ice-mixer-kit-n5-5mg",
+  "title": "Nixer N5 Ice Mixer Kit Nic Salt - 5mg",
+  "url": "https://www.vapestore.co.uk/products/nixer-ice-mixer-kit-n5-5mg",
+  "brand": "Nixer",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "The Nixer Ice Mixer Kit N5 allows you to create 60ml of 5mg ice nicotine salt e-liquid with a balanced VG/PG ratio of 50VG/50PG. This kit is ideal for vapers who enjoy a refreshing menthol finish along with a smooth throat hit and rapid nicotine delivery, making it perfect for use with pod vape kits. Each kit contains everything you need to mix with your Nixer Longfill Flavour concentrates, including nic shots. Simply combine the contents of the Mixer Kit with your chosen Nixer Longfill concentrate to create a customised e-liquid tailored to your vaping preferences. Nixer Mixer Kits are designed to provide a versatile and convenient solution for vapers who want to customise their e-liquids. Made in the UK by Dispergo, these kits ensure a premium vaping experience with your preferred nicotine strength and VG/PG ratio. How to use the Nixer Mixer Kit: 1 . Open your Nixer Longfill e-liquid concentrate bottle and pull out the nib. 2 . Pour in all 3 bottles contained in your chosen Nixer Mixer Kit. 3 . Reattach the nib back on the longfill bottle and put the lid on. 4 . Shake the bottle vigorously for 1 minute. 5 . Your e-liquid is ready.",
+  "tags": [
+    "MTL/RDL",
+    "Nic Shots"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1134548",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nixer-ice-mixer-kit-n5-5mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nixer-nic-salt-mixer-kit-box-ice-5mg.jpg?v=1729064185",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.560Z"
+}

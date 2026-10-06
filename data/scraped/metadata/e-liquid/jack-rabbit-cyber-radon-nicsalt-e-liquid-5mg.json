@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639832715588",
+  "slug": "jack-rabbit-cyber-radon-nicsalt-e-liquid-5mg",
+  "title": "Jack Rabbit Cyber Rabbit Radon 10ml Nic Salt E-Liquid - 5mg",
+  "url": "https://www.vapestore.co.uk/products/jack-rabbit-cyber-radon-nicsalt-e-liquid-5mg",
+  "brand": "Jack Rabbit",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Radon Rabbit from Jack Rabbit’s Cyber collection is a thrillingly sweet yet refreshing berry flavour e-liquid with a super-sharp edge. Treat your tastebuds to the delicious combination of plump, ripe Raspberries and crisp, sharp Cranberries. As you can imagine, such a combo dances close to sour, but pulls back just enough to offer a deliriously smooth and fruity vape that will have your tastebuds pleading for more. With the addition of a cooling dose of Menthol detectable on the exhale, this exquisite e-liquid also offers much refreshment and brings the blend of flavours together with magical results. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1113174",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__jack-rabbit-cyber-radon-nicsalt-e-liquid-5mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/cyber_rabbit_raydon_800x800_55d45d64-76b5-40d4-af9a-071f4693acef.jpg?v=1729055331",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.585Z"
+}

@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15228133933437",
+  "slug": "elux-legend-strawberry-ice-nic-salt-e-liquid-10ml",
+  "title": "Elux Legend Strawberry Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-strawberry-ice-nic-salt-e-liquid-10ml",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Legend Strawberry Ice Nic Salt delivers the juicy sweetness of ripe Strawberries lifted by a crisp, cooling Ice finish. The fruit notes are vivid and summery, offering a burst of fresh Strawberry flavour, while the chilled exhale adds a brisk, clean edge for a balanced and refreshing vape. Blended with double-concentrated flavouring, this e-liquid reflects the punchy profiles that made Elux disposables so popular—now available in a refillable nic salt format. With a 50VG/50PG ratio and smooth nicotine salt formulation, Strawberry Ice is ideal for MTL (mouth-to-lung) pod kits and starter devices. Expect satisfying flavour, discreet vapour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149368",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142070",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142076",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-strawberry-ice-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elux-Legend-10ml-Strawberry-Ice.jpg?v=1747385604",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.338Z"
+}

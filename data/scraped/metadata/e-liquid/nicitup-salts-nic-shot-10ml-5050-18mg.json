@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639654228292",
+  "slug": "nicitup-salts-nic-shot-10ml-5050-18mg",
+  "title": "Vampire Vape Nicit Up Salts 50/50 Nic Shot 10ml 20mg",
+  "url": "https://www.vapestore.co.uk/products/nicitup-salts-nic-shot-10ml-5050-18mg",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2,
+    "max": 2,
+    "currency": "GBP"
+  },
+  "description": "NicIt Up are a line of Nicotine Shots from UK Vape brand Vampire Vape. NicIt Up nic shots let you tailor the nicotine content of your favourite 50ml and 100ml 0mg shortfill e-liquids so you can enjoy just the right amount of nicotine satisfaction in a long-lasting bottle of e-liquid. They come in a variety of PG/VG ratios and include Nicotine Salt formulations. Nic It Up Salts by Vampire Vape is designed to provide a perfect nicotine salt experience with your favourite e-liquids. Not be vaped on its own.",
+  "tags": [
+    "MTL/RDL",
+    "Nic Shots",
+    "pricebreak"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1087032",
+      "price": 2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nicitup-salts-nic-shot-10ml-5050-18mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-nicit-up-salts-5050-nic-shot-10ml-18mg.jpg?v=1729046289",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.368Z"
+}

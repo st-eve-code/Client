@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15005829792125",
+  "slug": "twelve-monkeys-matata-iced-shorfill-100ml",
+  "title": "Twelve Monkeys Matata Iced Shorfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/twelve-monkeys-matata-iced-shorfill-100ml",
+  "brand": "Twelve Monkeys Vapor",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Matata Iced by Twelve Monkeys delivers a vibrant mix of rich, dark Grape and crisp Apple flavours, now enhanced with a super-refreshing blast of ice-cool menthol. The deep, juicy notes of Grape strike first on the inhale, while the crisp, refreshing Apple taste is lifted by a burst of icy freshness on the exhale, creating a supremely satisfying, well-balanced vape. Part of Twelve Monkeys' renowned shortfill collection, Matata Iced is crafted with a high-VG 70VG/30PG ratio, ideal for Sub-Ohm vape kits and more powerful, advanced vape devices. Supplied in a 100ml shortfill bottle with space for two 10ml nicotine shots, vapers can customise their nicotine strength to suit their preference. If you prefer this flavour without the cooling finish, you can also enjoy the original un-iced version of this flavour, available right here at Vapestore. Twelve Monkeys are a legendary Canadian e-liquid brand whose fiendishly inventive approach to vape juice flavours has resulted in a reputation for delivering expertly blended e-liquids that combine bold fruit flavours with the highest-quality ingredients to create a uniquely satisfying vaping experience.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139163",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__twelve-monkeys-matata-iced-shorfill-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Twelve_Monkeys_Matata_Iced_100ml_UK.jpg?v=1739285788",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.502Z"
+}

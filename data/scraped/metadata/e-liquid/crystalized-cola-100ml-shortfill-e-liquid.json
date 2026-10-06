@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15054722007421",
+  "slug": "crystalized-cola-100ml-shortfill-e-liquid",
+  "title": "Crystalized Cola 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/crystalized-cola-100ml-shortfill-e-liquid",
+  "brand": "Crystalized",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Crystalized’s Cola delivers the unmistakable taste of classic Cola with its signature blend of warming spice, caramel sweetness, and fizzy refreshment. The rich, syrupy notes of Cola are layered with bubbly notes of soda, creating a fresh, tangy, full-bodied flavour. A light effervescence lingers on the tastebuds, capturing the nostalgic sparkle of an ice-cold glass of Cola to perfection. With a versatile 50% VG / 50% PG, this e-liquid is designed for MTL (mouth-to-lung) vaping, making it ideal for low-powered vape kits, pod systems, starter devices, and high-resistance coils. The balanced formula ensures a consistent flavour and a smooth yet tactile throat hit with discreet vapour production. As a 100ml shortfill, this nicotine-free e-liquid leaves room for two 10ml nicotine shots, allowing you to customise your strength. Adding two 18mg nic shots creates 120ml of 3mg e-liquid. Crystalized is a UK-based e-liquid brand dedicated to crafting distinctive, flavourful vape juices with an emphasis on MTL vaping. Their 50/50 VG/PG shortfills deliver clean, bright, and consistent flavours, making them an excellent choice for everyday vaping.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139392",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__crystalized-cola-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-crystalized-cola-100ml.jpg?v=1741264753",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.478Z"
+}

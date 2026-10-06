@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639542751556",
+  "slug": "pukka-juice-blackcurrant-fuji-apple-nicotine-salt-e-liquid",
+  "title": "Pukka Juice Blackcurrant Fuji Apple Nicotine Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-blackcurrant-fuji-apple-nicotine-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "A novel blend of flavours that carries the taste of crisp and sweet fresh Apples with the sharp tang of blackcurrants, lifted with a zesty layer of citrus. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for adult smokers or vapers seeking the rapid nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml Multi-Buys",
+    "BRANDS",
+    "Cyber Monday E-Liquid 10ml",
+    "Cyber Monday E-Liquid Nic Salt Deals",
+    "Default Category",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Pukka Juice",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "PJ-10-BFA-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1113344",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-blackcurrant-fuji-apple-nicotine-salt-e-liquid__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/blackcurrant-fuji-apple-nic-salt.png?v=1729042003",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.624Z"
+}

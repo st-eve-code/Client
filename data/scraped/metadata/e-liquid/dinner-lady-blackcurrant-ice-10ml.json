@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639447855428",
+  "slug": "dinner-lady-blackcurrant-ice-10ml",
+  "title": "Dinner Lady Blackcurrant Ice E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-blackcurrant-ice-10ml",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Blackcurrant Ice Sub Ohm E-liquid 10ml by Dinner Lady offers a sublimely fruity sensation for the tastebuds. Indulge your tastebuds with the moreish sweet and sour tang of freshly picked blackcurrants, paired with swirls of cooling menthol for added depth and refreshment. The blackcurrant ice 70/30 by Dinner Lady is truly moreish, all-day fruit vape that is a perfect addition to any fruity E-Liquid collection. The 70% Vegetable Glycerine, and 30% Propylene Glycol formula make this E-Liquid ideal for sub-ohm vaping, producing mighty clouds on top of fantastic flavour and a smooth, comfortable, throat hit. Sub-ohm vaping generally requires the use of high-powered vape kits, including pod vape kits and pod mods with higher power outputs, some pen vape kits and advanced kits . If you love this Blackcurrant Ice Sub Ohm E-Liquid 10ml then why not check out more of Dinner Lady’s delicious E-Liquids? Their collection of E-Liquids covers a wide variety of flavours from fruit, menthol, fizzy drinks and more. So why not treat yourself to the luscious dessert-flavoured Dinner Lady Blackberry Crumble Nic Salt E-Liquid . Or refresh your tastebuds with the Dinner Lady Bubble Trouble Shortfill E-Liquid .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DTL",
+    "High VG E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "DL-DL-10-BI-70-30-03-SO",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "DL-DL-10-BI-70-30-06-SO",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-blackcurrant-ice-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-ice-blackcurrant-ice-3070-3mg-uk.jpg?v=1729040095",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.627Z"
+}

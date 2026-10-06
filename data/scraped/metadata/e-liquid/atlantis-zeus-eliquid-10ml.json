@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639445987652",
+  "slug": "atlantis-zeus-eliquid-10ml",
+  "title": "Zeus Juice Atlantis E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/atlantis-zeus-eliquid-10ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Atlantis by Zeus is a deliciously sweet slushy blend of sweet, tart blueberry and juicy raspberries enhanced with an invigorating kick of icy menthol. This liquids 70% VG 30% PG ratio makes it ideal for high-powered pod kits , mods and sub-ohm tanks .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DTL",
+    "High VG E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "ZS-ZS-10-ATL-70-30-03-SO",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "ZS-ZS-10-ATL-70-30-06-SO",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__atlantis-zeus-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-atlantis-e-liquid-10ml.jpg?v=1729040007",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.629Z"
+}

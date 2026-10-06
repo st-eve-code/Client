@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15494187483517",
+  "slug": "baa-juice-tropical-juice-shortfill-100ml-e-liquid",
+  "title": "Baa Juice Tropical Juice Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-tropical-juice-shortfill-100ml-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Tropical Juice Shortfill combines exotic fruit flavours in one vibrant mix. Juicy Pineapple, ripe Mango, and sweet Guava come together with a medley of tropical tones for a bright and sunny vape. Every puff brings a taste of summer with rich, fruity depth. Supplied in a 120ml bottle with 100ml of nicotine-free e-liquid, there’s space for two nic shots if required. Blended at 50/50 ratio, this Shortfill is designed for MTL pod kits to produce a balanced vaping style with vibrant flavour. Baa Juice Shortfills are crafted with double-concentrated flavouring, ensuring a consistently strong taste from first puff to last.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144561",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-tropical-juice-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-baa-juice-tropical-juice-100ml.jpg?v=1756381860",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003413217661",
+  "slug": "ruthless-grape-drank-shortfill-100ml-e-liquid",
+  "title": "Ruthless Grape Drank Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-grape-drank-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Grape Drank by Ruthless delivers a bold and nostalgic flavour experience, blending the deep, syrupy sweetness of ripe Grape with the effervescent fizz of classic Grape Soda. The result is a smooth yet vibrant vape with layers of juicy fruit and a sparkling soda twist, making it perfect for vapers who enjoy full-bodied, candy-like flavours with a refreshing edge. One of many incredible flavours found in the celebrated Ruthless Shortfill collection, Grape Drank features a 70VG/30PG ratio for dense vapour production and a well-rounded flavour experience. Designed for Sub-Ohm vape kits and advanced DTL (direct-to-lung) devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, allowing for a customisable nicotine strength. Ruthless has built a reputation for bold, unmistakable flavours that push the boundaries of e-liquid, combining premium ingredients with expert craftsmanship. Their iconic blends remain a top choice for vapers seeking high-quality, unforgettable flavour experiences.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138931",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-grape-drank-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ruthless-shortfill-100ml-GRAPE-DRANK.jpg?v=1739199890",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.491Z"
+}

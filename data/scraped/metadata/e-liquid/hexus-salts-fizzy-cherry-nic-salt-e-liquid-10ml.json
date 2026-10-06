@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15340854542717",
+  "slug": "hexus-salts-fizzy-cherry-nic-salt-e-liquid-10ml",
+  "title": "Hexus Salts Fizzy Cherry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hexus-salts-fizzy-cherry-nic-salt-e-liquid-10ml",
+  "brand": "Hexus",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Fizzy Cherry by Hexus captures the familiar taste of sweet Cherry with a sparkling soda-style lift. The Cherry brings a rich, syrupy fruit flavour, while the fizzy element adds a bright, refreshing finish. It's a nostalgic, well-rounded blend that balances sweetness with a gentle tang ideal for vapers who enjoy confectionery or drink-inspired profiles. This nicotine salt e-liquid delivers smooth, rapid nicotine satisfaction with a comfortable throat hit. Blended at a 50VG/50PG ratio, it performs best in pod kits , refillable vapes and other MTL devices. Hexus Nic Salts come in 10mg and 20mg strengths with flavours spanning fruits, fizz, and menthols for a flavour-packed vape.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1143244",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143254",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hexus-salts-fizzy-cherry-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FIZZY-CHERRY-Hexus-Salts-20MG.jpg?v=1751466329",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.445Z"
+}

@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15805834068349",
+  "slug": "zeus-juice-bar-liq-rhubarb-sour-cherry-nic-salt-e-liquid-10ml",
+  "title": "Zeus Juice Bar Liq Rhubarb Sour Cherry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/zeus-juice-bar-liq-rhubarb-sour-cherry-nic-salt-e-liquid-10ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Zeus Juice Bar Liq Rhubarb Sour Cherry is a bold and tangy blend designed for vapers who enjoy a sharp fruit profile. The distinct, garden-fresh taste of Rhubarb provides a crisp and slightly acidic base, which is layered with the deep, rich notes of Sour Cherry. The double-concentrated formulation ensures that the sour and sweet elements strike a perfect chord, delivering a mouth-watering and intense flavour experience with every puff. Mixed to a 50VG/50PG ratio, this nicotine salt e-liquid is optimised for use with low-powered MTL (Mouth-to-Lung) hardware, such as pod vape kits and pen-style starter devices. The use of nicotine salts ensures a smooth throat hit and efficient nicotine satisfaction, even at higher strengths. For the best performance and flavour delivery, it is recommended to pair this e-liquid with coils or pods ranging between 0.6ohm and 1.2ohm. Bar Liq by the renowned UK manufacturer Zeus Juice is a collection of double-concentrated nicotine salts designed to deliver maximum flavour intensity. Known as \"bar salts,\" these e-liquids are formulated with twice the flavour concentrate of standard blends, offering an intensely bold and vivid taste profile. Available in 5mg, 10mg, and 20mg strengths, Bar Liq provides a smooth and satisfying vape experience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153163",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153181",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153199",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__zeus-juice-bar-liq-rhubarb-sour-cherry-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/5mg-barliq-rhubarb-sour-cherry-zeus-juice-10ml-nicotine-salts-white.jpg?v=1771233110",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__zeus-juice-bar-liq-rhubarb-sour-cherry-nic-salt-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/10mg-barliq-rhubarb-sour-cherry-zeus-juice-10ml-nicotine-salts-white.jpg?v=1771233374",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__zeus-juice-bar-liq-rhubarb-sour-cherry-nic-salt-e-liquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/20mg-barliq-rhubarb-sour-cherry-zeus-juice-10ml-nicotine-salts-white.jpg?v=1771233466",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.345Z"
+}

@@ -1,0 +1,121 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15291036762493",
+  "slug": "smok-arco-digi-pod-vape-kit",
+  "title": "SMOK Arco Digi Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/smok-arco-digi-pod-vape-kit",
+  "brand": "SMOK",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Arco Digi Pod Vape Kit is a sleek and intelligent refillable device designed for MTL (mouth-to-lung) and RDL (restricted direct-to-lung) vaping. Its built-in 1300mAh battery delivers dependable all-day performance, while USB-C fast charging ensures a rapid power-up when needed. With three selectable power levels (ECO, NOM, MAX), the Arco Digi offers a tailored vaping experience across a 5W–30W range. The adjustable airflow slider gives you added control over draw resistance, while the discreet 0.84\" LCD screen displays power level, wattage, and puff count at a glance. The included 2ml pod is pre-installed with a 0.6ohm mesh coil, ideal for either RDL or a more open MTL draw. Best suited to 50/50 freebase or 10mg Nic Salts, this coil strikes a balance between flavour clarity and smooth vapour. The Arco Digi is compatible with Smok’s full range of Arco pods, including: 0.4ohm (loose RDL with higher vapour, best with High-VG or low-nicotine e-liquids) 0.6ohm (loose RDL/MTL draw with medium cloud and good flavour) 0.8ohm (smooth, tighter MTL draw with bold flavour) 1.1ohm (tight MTL, discreet vapour, optimal for higher-strength Nic Salts) Features like smart pod detection, auto wattage matching, and safety protections make this a reliable, customisable pod kit ideal for everyday use. Shop vape juice online and find the flavour that feels like it was made for this kit. We recommend using 50/50 or Nic Salt E-Liquid with this kit Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1142448",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Lake Blue",
+        "Dark Red",
+        "Pale Gold",
+        "Silver",
+        "Black",
+        "Grey"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Lake Blue",
+      "sku": "1142441",
+      "price": 8.99
+    },
+    {
+      "title": "Dark Red",
+      "sku": "1142440",
+      "price": 8.99
+    },
+    {
+      "title": "Pale Gold",
+      "sku": "1142442",
+      "price": 8.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1142443",
+      "price": 8.99
+    },
+    {
+      "title": "Black",
+      "sku": "1142445",
+      "price": 8.99
+    },
+    {
+      "title": "Grey",
+      "sku": "1142444",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-arco-digi-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Arco-digi-kit-lake-blue.jpg?v=1749628611",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-arco-digi-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Arco-digi-kit-dark-red.jpg?v=1749628611",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-arco-digi-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Arco-digi-kit-pale-gold.jpg?v=1749628202",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-arco-digi-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Arco-digi-kit-silver.jpg?v=1749628301",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-arco-digi-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Arco-digi-kit-grey.jpg?v=1749628322",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-arco-digi-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Arco-digi-kit-black.jpg?v=1749628490",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.491Z"
+}

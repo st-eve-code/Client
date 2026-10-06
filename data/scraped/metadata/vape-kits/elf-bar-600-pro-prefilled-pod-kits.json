@@ -1,0 +1,105 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15904432521597",
+  "slug": "elf-bar-600-pro-prefilled-pod-kits",
+  "title": "Elf Bar 600 Pro Prefilled Pod Kits",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-600-pro-prefilled-pod-kits",
+  "brand": "Elf Bar",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Elf Bar 600 Pro Prefilled Pod Kit is designed for vapers seeking a compact, adaptable, and highly capable Mouth-to-Lung (MTL) device. Continuing the iconic device’s evolution from the classic disposable format into a sustainable, reusable system, this pocket-friendly kit delivers a discreet level of vapour that closely mimics the sensation of a traditional cigarette. Powered by a robust 700mAh built-in battery, the Elf Bar 600 Pro is engineered to provide reliable all-day performance. A standout feature of this device is its dual-mode functionality, controlled via a dedicated button on the base. Vapers can easily toggle between Eco Mode to conserve battery life during extended outings, or Turbo Mode to boost power output for intensified flavour. A clear LED indicator keeps you informed of your battery status, while the modern USB-C port ensures rapid recharging when needed. Each kit includes a 2ml prefilled pod containing a premium 20mg nicotine salt e-liquid, formulated for a smooth throat hit and fast-acting satisfaction. Capable of delivering up to 600 puffs, the device operates via a seamless draw-activated firing mechanism with fixed airflow. Furthermore, the Elf Bar 600 Pro offers exceptional cross-compatibility; the battery unit can be used with a wide range of pods, including Elf Bar 600 , Elfa, and Elfa Pro prefilled pods, as well as refillable pod variants for those who prefer to use their own e-liquid. How To Set Up Elf Bar 600 Pro Device Step 1 Remove the device and the prefilled pod from the packaging. Step 2 Remove the silicone mouthpiece and any safety stickers from the pod. Step 3 Insert the pod securely into the top of the battery unit. Step 4 Inhale on the mouthpiece to activate the device and begin vaping. Step 5 Press the button on the base to toggle between Eco and Turbo modes. ✅ Ready to vape Elf Bar 600 Pro Kit Flavours Blueberry Captures the simple, authentic and sweet taste of freshly picked Blueberries. Blueberry Sour Raspberry A dynamic fusion pairing sweet Blueberry notes with a sharp, tangy Raspberry kick. Cherry Ice Blends the rich, dark notes of juicy Cherry with a crisp and revitalising icy finish. Strawberry Raspberry Cherry Ice A complex berry medley combining sweet Strawberry, tangy Raspberry, and bold Cherry, finished with a cool Menthol breeze. Watermelon A mellow, refreshing profile featuring the sweet and exotic taste of crisp summer Watermelon. Please Note: This kit does NOT come with a USB-C cable Shop Elf Bar 600 Refill Pods",
+  "tags": [
+    "600 Puffs",
+    "AWARDS15",
+    "Battery-included",
+    "Elfbar 600"
+  ],
+  "options": [
+    {
+      "name": "Flavour",
+      "position": 1,
+      "values": [
+        "Blueberry",
+        "Blueberry Sour Raspberry",
+        "Cherry Ice",
+        "Watermelon",
+        "Strawberry Raspberry Cherry Ice"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blueberry",
+      "sku": "1154962",
+      "price": 4.99
+    },
+    {
+      "title": "Blueberry Sour Raspberry",
+      "sku": "1154960",
+      "price": 4.99
+    },
+    {
+      "title": "Cherry Ice",
+      "sku": "1154959",
+      "price": 4.99
+    },
+    {
+      "title": "Watermelon",
+      "sku": "1154958",
+      "price": 4.99
+    },
+    {
+      "title": "Strawberry Raspberry Cherry Ice",
+      "sku": "1154961",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-600-pro-prefilled-pod-kits__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfbar-600-pro-blueberry.jpg?v=1779790457",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-600-pro-prefilled-pod-kits__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfbar-600-pro-blueberry-sour-raspberry.jpg?v=1779790664",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-600-pro-prefilled-pod-kits__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfbar-600-pro-cherry-ice.jpg?v=1779790980",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-600-pro-prefilled-pod-kits__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfbar-600-pro-watermelon-ice.jpg?v=1779791076",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-600-pro-prefilled-pod-kits__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfbar-600-pro-strawberry-raspberry-cherry-ice.jpg?v=1779791497",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.104Z"
+}

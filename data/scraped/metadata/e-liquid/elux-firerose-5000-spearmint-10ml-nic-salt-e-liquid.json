@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15294631215485",
+  "slug": "elux-firerose-5000-spearmint-10ml-nic-salt-e-liquid",
+  "title": "Elux Firerose 5000 Spearmint 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elux-firerose-5000-spearmint-10ml-nic-salt-e-liquid",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Firerose 5000 Spearmint Nic Salt delivers a clean and cooling vape with the sweet, aromatic smoothness of Spearmint. The flavour opens with a crisp minty top note, followed by a softer, delicately sweet finish that keeps the mint refreshing without being overpowering. It’s an ideal choice for vapers who enjoy a brisk mint flavour with a smooth, mellow character. Crafted with a 50VG/50PG ratio, Spearmint Nic Salt provides rich flavour, a tactile yet comfortable throat hit and discreet vapour production. Ideal for MTL (mouth-to-lung) vaping, this e-liquid works brilliantly in pod kits, vape pens and other low-powered devices. Elux Firerose 5000 Nic Salts offer a convenient way to enjoy well-known Elux flavours, and thrilling new profiles, using refillable vape kits, delivering satisfaction, value, and performance in every 10ml bottle.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Firerose 5000",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142941",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142949",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-firerose-5000-spearmint-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SPEARMINT-Elux-Fire-Rose-10ml.jpg?v=1749726867",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.399Z"
+}

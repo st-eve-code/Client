@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640078704964",
+  "slug": "unreal-ice-pineapple-ice-100ml-shortfill-e-liquid",
+  "title": "Unreal Ice Pineapple Ice 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/unreal-ice-pineapple-ice-100ml-shortfill-e-liquid",
+  "brand": "Unreal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Unreal Ice Pineapple Ice Shortfill delivers the vibrant, tropical sweetness of juicy pineapple paired with a cool, refreshing menthol finish. The perfect blend of tangy fruit and frosty exhale makes this e-liquid an ideal choice for vapers who enjoy a refreshing tropical vape with a crisp, icy twist. Each Unreal Ice Shortfill contains 100ml of nicotine-free e-liquid in a 120ml bottle, leaving 20ml of space to add nicotine shots. For example, adding 2 x 10ml 18mg nicotine shots will create 120ml of 3mg nicotine strength e-liquid. Simply shake well, and your e-liquid is ready to enjoy. Unreal Ice Shortfills are crafted with a 70VG/30PG blend, making them ideal for sub-ohm vaping with high-powered devices and low-resistance coils. The higher VG content ensures dense vapour production and smooth flavour, perfect for creating satisfying clouds and full-bodied flavour. Dispergo E-Liquids’ Unreal Ice collection combines refreshing menthol with rich and fruity flavours for an exceptional vaping experience. Whether you prefer tropical fruits, menthol, or sweet confectionery blends, Unreal Ice offers a full-flavoured vape with a frosty finish.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1136378",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__unreal-ice-pineapple-ice-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/unreal-ice-pineapple-ice-100ml-shortfill.jpg?v=1729066154",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.510Z"
+}

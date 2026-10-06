@@ -1,0 +1,98 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639882228036",
+  "slug": "innokin-pzp-replacement-coils",
+  "title": "Innokin PZP Replacement Coils - 3 Coils",
+  "url": "https://www.vapestore.co.uk/products/innokin-pzp-replacement-coils",
+  "brand": "Innokin",
+  "productType": "Coils",
+  "price": {
+    "min": 3.49,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "Innokin PZP Coils are the ideal choice for vapers seeking to tailor their experience to their personal preferences. Compatible with the Innokin Kroma-Nova pod kit, these push-fit coils are designed for ease of use and optimal performance. The mesh construction of each coil ensures even heating and a rich, full-flavoured vape. Available in a variety of resistances, these coils cater to all vaping styles. Choose from: • 0.4ohm (30-40w) for a robust DTL experience. • 0.6ohm for a versatile DTL and RDL vaping. • 1.0ohm (9.-13w) for a smooth MTL experience. • 1.2ohm for a consistent MTL draw. Whether you prefer the dense clouds of DTL vaping or the discreet, flavour-focused draw of MTL vaping, PZP Coils have you covered. Recommended for use with High VG, 50/50 Freebase, or Nic Salt e-liquids, these coils promise a satisfying vape with every puff. Sold in convenient packs of 3, these coils ensure that your Kroma-Nova pod kit is always delivering peak performance. Discover the difference that quality coils make with Innokin PZP Coils. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.6ohm",
+        "1.0ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1129343",
+      "price": 3.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1129397",
+      "price": 13.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1129344",
+      "price": 3.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1129398",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-pzp-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_pzp_coils_3pk_1_1_1_1.jpg?v=1729058775",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-pzp-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_pzp_coils_3pk.jpg?v=1729058775",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-pzp-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_pzp_coils_3pk_1.jpg?v=1729058775",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-pzp-replacement-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_pzp_coils_3pk_1_1.jpg?v=1729058775",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-pzp-replacement-coils__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_pzp_coils_3pk_1_1_1.jpg?v=1729058775",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.871Z"
+}

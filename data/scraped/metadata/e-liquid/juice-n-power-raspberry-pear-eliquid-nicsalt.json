@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639790674244",
+  "slug": "juice-n-power-raspberry-pear-eliquid-nicsalt",
+  "title": "Juice N Power Raspberry Pear 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-raspberry-pear-eliquid-nicsalt",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Raspberry Pear from Juice N Power delivers a rush of exquisite summer fruit flavour with the taste of fresh, tangy, plump Raspberries blended with soft, luscious Pear. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production while the Nicotine Salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices and is available in 10mg and 20mg nicotine strength. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. Nicotine Salt e-liquids are absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. Juice N Power are a UK e-liquid producer with a passion for creating bold, delicious flavours across nic salts, shortfills and 50/50 juices. Their juices surprise and delight with unique flavour pairings that use only the best ingredients for a premium quality vape every time.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1124886",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1124894",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-raspberry-pear-eliquid-nicsalt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-raspberry-pear-10ml-nic-salt-eliquild_1_1.jpg?v=1729052467",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__juice-n-power-raspberry-pear-eliquid-nicsalt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-raspberry-pear-10ml-nic-salt-eliquild.jpg?v=1729052467",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__juice-n-power-raspberry-pear-eliquid-nicsalt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-raspberry-pear-10ml-nic-salt-eliquild_1.jpg?v=1729052467",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.347Z"
+}

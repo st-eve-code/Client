@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639601340740",
+  "slug": "slush-brew-red-mix-50ml-shortfill-ohm-brew",
+  "title": "Ohm Brew Slush Brew Red Mix 50ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slush-brew-red-mix-50ml-shortfill-ohm-brew",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Red Mix from Ohm Brew’s Slush Brew collection is a tongue-tingling slushy flavour with the fresh, summery-sweetness of strawberry. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , vape mods and sub-ohm tanks .",
+  "tags": [
+    "2 for £15",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SB-50-RM-00-SF",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slush-brew-red-mix-50ml-shortfill-ohm-brew__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm-brew-slush-red-mix.jpg?v=1729043752",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.619Z"
+}

@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15537884201341",
+  "slug": "drifter-desserts-vanilla-custard-10ml-nic-salt-e-liquid",
+  "title": "Drifter Desserts Vanilla Custard 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/drifter-desserts-vanilla-custard-10ml-nic-salt-e-liquid",
+  "brand": "Drifter",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Vanilla Custard by Drifter Desserts delivers the comforting flavour of classic Vanilla Custard, with its silky-sweet taste and mellow creaminess. Each puff brings the familiar notes of smooth Vanilla layered over a rich, velvety custard base for a vape that captures the essence of a timeless dessert favourite. Crafted with a balanced 50VG/50PG blend, this Nic Salt e-liquid ensures clear flavour delivery, discreet vapour, and a tactile yet comfortable throat hit. Designed for mouth-to-lung (MTL) vaping, it pairs perfectly with low-powered starter kits, pod vapes, and refillable vape pens. Available in 5mg, 10mg and 20mg strengths, it offers flexible nicotine options to suit different preferences. Drifter Desserts is a premium collection from Juice Sauz, created in the UK and inspired by indulgent sweet treats. With carefully blended profiles that showcase authentic dessert flavours, the range provides a satisfying choice for vapers looking for something rich, smooth, and flavour-focused. This liquid is perfect for refillable vape and vape starter kit users.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1148566",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148550",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148558",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__drifter-desserts-vanilla-custard-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Vanilla-Custard-10ml-5mg.jpg?v=1758108718",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-desserts-vanilla-custard-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Vanilla-Custard--10ml-10mg.jpg?v=1758108733",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-desserts-vanilla-custard-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Vanilla-Custard-20mg.jpg?v=1758108768",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

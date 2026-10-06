@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639662747972",
+  "slug": "pack-of-10-60ml-chubby-gorilla-e-liquid-bottles",
+  "title": "60ml DIY Chubby Gorilla Empty Bottle Pack of 10",
+  "url": "https://www.vapestore.co.uk/products/pack-of-10-60ml-chubby-gorilla-e-liquid-bottles",
+  "brand": "Vapestore",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "This Chubby Gorilla PET unicorn bottle is specifically designed for e-liquid. It's a soft-squeeze PET shatterproof bottle, with a wide mouth for easy refil. The dripper has a tight fit to avoid any leaks and the drip tip is narrow enough to avoid over-dripping or spilling. The cap is child-resistant and the tamper evident seal is designed for complete safety and assurance. Ideal for those mixing their own e-liquids at home.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1006965",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pack-of-10-60ml-chubby-gorilla-e-liquid-bottles__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/chubby-gorilla-bottle-60ml_1_1.jpg?v=1729046674",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.614Z"
+}

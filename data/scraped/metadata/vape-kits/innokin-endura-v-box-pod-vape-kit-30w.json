@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14888146960765",
+  "slug": "innokin-endura-v-box-pod-vape-kit-30w",
+  "title": "Innokin Endura V Box Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-endura-v-box-pod-vape-kit-30w",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 18.99,
+    "max": 18.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Endura V Box Pod Kit is an elegant, compact version of the popular Endura V kit, designed with a unique ‘matchbox’ style that’s as portable as it is practical. Built to satisfy both new vapers and experienced users alike, the Endura V Box features a 1400mAh rechargeable battery that supports effortless all-day vaping, while its 2ml pods deliver the perfect balance of convenience and consistent performance. What sets the Endura V Box apart from similar devices is its flexible design and customisable aesthetics. The replaceable side panels let you switch up the look of your kit effortlessly, providing a personal touch to suit your style. Innokin has also equipped this kit with adjustable airflow settings, which combined with the VCAP pods allow you to switch from a flavour-rich mouth-to-lung (MTL) draw to a smooth restricted direct-to-lung (RDL) inhale, depending on your preference and your pod’s resistance. This versatility makes the Endura V Box ideal for users seeking both an intense throat hit with Nic Salt e-liquids or a balanced, smooth vape with high-PG blends. The Endura V Box uses 2ml VCAP refillable pods that are easy to replace, offering quick refills with minimal fuss. If you’re looking for a reliable all-day vape and a device that combines portability with flexible style, the Innokin Endura V Box ticks all the boxes. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil. How to set up the Innokin Endura V Box Pod Vape Kit",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1138094",
+    "compatible-with-1138095",
+    "compatible-with-1138096",
+    "compatible-with-1140581",
+    "Free 1 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1137189",
+      "price": 18.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1137190",
+      "price": 18.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-endura-v-box-pod-vape-kit-30w__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-Endura-V-Box-Pod-Vape-Kit-Black.jpg?v=1733828286",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-v-box-pod-vape-kit-30w__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-Endura-V-Box-pod-vape-kit-Silver.jpg?v=1733828344",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.051Z"
+}

@@ -1,0 +1,94 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639849754948",
+  "slug": "innokin-ez-tube-zenith-minimal-tank-2ml",
+  "title": "Innokin Zenith Minimal Vape Tank",
+  "url": "https://www.vapestore.co.uk/products/innokin-ez-tube-zenith-minimal-tank-2ml",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 17.99,
+    "max": 17.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin EZ Tube Zenith Minimal Tank is a stunning testament to meticulous vaping design. This 2ml tank is not just a standard vape kit component; it's a gateway to a rich and versatile vaping experience. Compatible with the entire range of Innokin’s Z-Coils , it caters to a variety of vaping styles, from flavour-focused MTL (mouth-to-lung) to cloud-chasing DTL (direct-to-lung.) Refilling is a breeze thanks to the new 1/4 turn locking top cap. This feature ensures fast and secure refilling, so you can top up your e-liquid without any hassle. When it's time to change coils, the easy plug-pull mechanism simplifies the process, making it accessible even for beginners. The tank's smooth and precise bottom airflow control allows you to dial in your ideal draw, whether you prefer a tight, restricted inhale or a more open, airy one. It’s designed for hassle-free cleaning and maintenance, ensuring that keeping your tank in top condition is as straightforward as using it. Additionally, the tank is equipped with a 510 connector , making it a versatile option for various mods. The package includes both MTL and DTL drip tips, giving you the flexibility to switch your vaping style as you wish. Whether you’re a fan of intense flavour or impressive cloud production, the Innokin EZ Tube Zenith Minimal Tank is your reliable partner for a satisfying vape experience. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Stainless Steel",
+        "Gunmetal Grey",
+        "Black",
+        "Rainbow"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Stainless Steel",
+      "sku": "1127811",
+      "price": 17.99
+    },
+    {
+      "title": "Gunmetal Grey",
+      "sku": "1127812",
+      "price": 17.99
+    },
+    {
+      "title": "Black",
+      "sku": "1127813",
+      "price": 17.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "1127814",
+      "price": 17.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-ez-tube-zenith-minimal-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-minimal-rainbow-tank_1.jpg?v=1729056558",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-ez-tube-zenith-minimal-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-minimal-stainless-steel-tank.jpg?v=1729056558",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-ez-tube-zenith-minimal-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-minimal-gunmetal-grey-tank.jpg?v=1729056558",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-ez-tube-zenith-minimal-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-minimal-black-tank.jpg?v=1729056558",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-ez-tube-zenith-minimal-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-minimal-rainbow-tank.jpg?v=1729056558",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639310524740",
+  "slug": "caramel-vanilla-tobacco-50-50-e-liquid-by-vapouriz",
+  "title": "Vapouriz 50/50 Caramel Vanilla Tobacco 10ml",
+  "url": "https://www.vapestore.co.uk/products/caramel-vanilla-tobacco-50-50-e-liquid-by-vapouriz",
+  "brand": "Vapouriz 50/50",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Caramel Vanilla Tobacco offers a smooth, mellow vape that combines rich, earthy Tobacco with notes of golden Caramel and soft Vanilla. The result is a subtly sweet tobacco profile with a warm, rounded character that appeals to both traditional and flavour-seeking vapers. With a 50VG/50PG blend, this e-liquid strikes a balance between flavour clarity and vapour production, making it an excellent choice for MTL (mouth-to-lung) vaping with pod kits, vape pens and beginner-friendly devices. Expertly crafted by Vapouriz Labs in the UK, the Vapouriz 50/50 range is designed to suit a wide variety of vape setups. This collection brings reliable quality and smooth performance to vapers seeking accessible, flavourful blends. The 50/50 mix refers to an equal balance of Vegetable Glycerine (VG) and Propylene Glycol (PG), delivering a consistent throat hit with vivid flavour. Suitable for most refillable starter kits and pod devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1113748",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1113749",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1113747",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__caramel-vanilla-tobacco-50-50-e-liquid-by-vapouriz__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz--50-50-e-liquid-caramel-vanilla-tobacco-10ml.jpg?v=1729034004",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.374Z"
+}

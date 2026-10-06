@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639311049028",
+  "slug": "vapouriz-50-50-lemon-mango-10ml",
+  "title": "Vapouriz 50/50 Lemon & Mango 10ml",
+  "url": "https://www.vapestore.co.uk/products/vapouriz-50-50-lemon-mango-10ml",
+  "brand": "Vapouriz 50/50",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon & Mango is a deliciously tropical flavour e-liquid with bright, sunny notes of juicy Mangoes given a zesty, tangy edge from fresh Lemon. Bold and sharp on the inhale, but with fruity, smooth finish on the exhale, Lemon & Mango is a perfectly balanced combination of two delicious fruits. Vapouriz 50/50 takes some of the classic flavours from Vapouriz Premium’s bestselling collection of e-liquids, adds several new equally unique and delicious flavours, and bottles them in a smooth and satisfying 50% Vegetable Glycerine / 50% Propylene Glycol ratio. This ideal balance provides a deliciously flavoursome vape, with a discreet amount of vapour and a smooth, comfortable throat hit. When it comes to vaping, 50/50 e-liquids really do offer the best of all worlds. All e-liquids contain Propylene Glycol (PG) and Vegetable Glycerine (VG) in various ratios. PG carries flavour the best and provides a tactile ‘throat hit’ that vapers are familiar with from smoking, while VG is the ingredient that aids vapour production. But since 50/50 e-liquids carry equal quantities of both, every vape you take is a deliciously flavoursome experience that produces a satisfying, yet not excessive, amount of vapour, while being comfortable on the throat. 50/50 e-liquids are among the most versatile e-liquids available, and can be used on most vape kits. However, 50/50 e-liquids perform best in low-resistance devices such as Starter Vape Kits , Pen Vape Kits and Pod Vape Kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1113786",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1113787",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1113785",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vapouriz-50-50-lemon-mango-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz--50-50-e-liquid-lemon-mango-10ml.jpg?v=1729034029",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.386Z"
+}

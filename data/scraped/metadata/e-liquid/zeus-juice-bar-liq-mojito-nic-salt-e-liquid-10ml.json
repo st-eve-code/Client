@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15799626891645",
+  "slug": "zeus-juice-bar-liq-mojito-nic-salt-e-liquid-10ml",
+  "title": "Zeus Juice Bar Liq Mojito Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/zeus-juice-bar-liq-mojito-nic-salt-e-liquid-10ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Zeus Juice Bar Liq Mojito recreates the refreshing profile of a classic Cuban cocktail with a crisp, botanical edge. The blend features a base of zesty Lime that provides a sharp citrus kick, perfectly complemented by the cooling, garden-fresh notes of Mint. This combination creates a clean and uplifting vape that balances citrus sweetness with fresh, light herbal notes. The double-concentrated formula ensures that the interplay between the Lime and Mint remains consistent and prominent with every draw. Designed for reliability and performance, this 10ml nicotine salt e-liquid features a 50VG/50PG ratio ideal for MTL (Mouth-to-Lung) vaping kits. The salt nicotine formulation allows for a comfortable inhale without harshness, making it a suitable choice for those seeking an alternative to smoking. To maximise the flavour potential of this blend, we recommend using devices fitted with coils between 0.6ohm and 1.2ohm. Bar Liq by the renowned UK manufacturer Zeus Juice is a collection of double-concentrated nicotine salts designed to deliver maximum flavour intensity. Known as \"bar salts,\" these e-liquids are formulated with twice the flavour concentrate of standard blends, offering an intensely bold and vivid taste profile. Available in 5mg, 10mg, and 20mg strengths, Bar Liq provides a smooth and satisfying vape experience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153161",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153179",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153197",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__zeus-juice-bar-liq-mojito-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/10mg-barliq-mojito-zeus-juice-10ml-nicotine-salts-white.jpg?v=1770998314",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__zeus-juice-bar-liq-mojito-nic-salt-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/20mg-barliq-mojito-zeus-juice-10ml-nicotine-salts-white.jpg?v=1770998439",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.330Z"
+}

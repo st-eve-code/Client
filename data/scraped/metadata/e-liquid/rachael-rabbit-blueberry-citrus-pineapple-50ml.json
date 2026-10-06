@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639440056644",
+  "slug": "rachael-rabbit-blueberry-citrus-pineapple-50ml",
+  "title": "Jack Rabbit Rachael Rabbit Blueberry, Citrus and Pineapple E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/rachael-rabbit-blueberry-citrus-pineapple-50ml",
+  "brand": "Jack Rabbit",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Blueberry, Citrus and Pineapple e-liquid by Rachael Rabbit is a deliciously fruity blend that balances the deep sugary sweetness of blueberry with brighter, zesty notes of lemon and pineapple. A subtle streak of menthol on the exhale makes this juice as refreshing as it is delicious. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , mod vape kits and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "JR-JR-50-RR-BCP-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__rachael-rabbit-blueberry-citrus-pineapple-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jack_rabbit_jm_0001_rachael-rabbit-blueberry-citrus-pineapple-50ml-0mg-dispergo_1.jpg?v=1729039720",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.516Z"
+}

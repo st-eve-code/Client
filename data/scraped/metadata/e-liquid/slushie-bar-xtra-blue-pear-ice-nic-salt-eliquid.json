@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14874154959229",
+  "slug": "slushie-bar-xtra-blue-pear-ice-nic-salt-eliquid",
+  "title": "Slushie Bar Xtra Blue Pear Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-xtra-blue-pear-ice-nic-salt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Slushie Bar Xtra Blue Pear Ice delivers a perfectly balanced blend of fresh, juicy Pear, and sweet and tangy Blue Raspberry with a refreshing menthol breeze. This e-liquid combines the naturally crisp and mellow sweetness of ripe pears with dash of Blue Raspberry slushy flavour and a frosty finish that’s as cooling as it is satisfying. Ideal for vapers who enjoy fruit-inspired blends with a cool, slushy twist, Blue Pear Ice offers a clean and refreshing vape that can be enjoyed all day long. Crafted with a 50VG/50PG ratio, Slushie Bar Xtra Nic Salts are designed for use with Mouth-to-Lung (MTL) vape kits and pod systems. Each e-liquid in the collection provides smooth throat hits and rapid nicotine relief, making them ideal for those seeking a satisfying alternative to traditional tobacco. Available in 10mg and 20mg nicotine strengths, these e-liquids are perfect for all-day vaping with a flavour-packed experience waiting in every puff.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1136642",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1136652",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-xtra-blue-pear-ice-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-blue-pear-ice_1_1.jpg?v=1732842996",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-blue-pear-ice-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-blue-pear-ice.jpg?v=1732842996",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-blue-pear-ice-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-blue-pear-ice_1.jpg?v=1732842996",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.470Z"
+}

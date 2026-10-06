@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15029099823485",
+  "slug": "ruthless-bar-salts-orange-fizz-on-ice-10ml-e-liquid",
+  "title": "Ruthless Bar Salts Orange Fizz On Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-bar-salts-orange-fizz-on-ice-10ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ruthless Bar Salts Orange Fizz on Ice delivers a lively burst of citrus, blending the bold zest of ripe Oranges with the sparkling essence of fizzy soda. The bright citrus flavour is balanced by a crisp, cooling menthol layer, creating a refreshing vape that captures the sensation of ice-cold orange soda. With a 50VG/50PG blend, this e-liquid is designed for MTL (mouth-to-lung) pod kits and starter devices, providing a satisfying balance of bold flavour and smooth vapour production. The nicotine salt formulation ensures a smooth throat hit and rapid nicotine absorption, making it a go-to choice for fans of citrus-inspired vapes. Ruthless has been at the forefront of e-liquid innovation for years, crafting bold and distinctive flavours that continue to set industry standards. Their nic salt range brings their signature blends into a format designed for modern vaping convenience. Compatible with refillable pod devices or starter vape kits UK , offering easy, reliable vaping every time.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1139306",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139320",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-bar-salts-orange-fizz-on-ice-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ruthless-10ML_OrangeFizzOnIce.jpg?v=1740071851",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.444Z"
+}

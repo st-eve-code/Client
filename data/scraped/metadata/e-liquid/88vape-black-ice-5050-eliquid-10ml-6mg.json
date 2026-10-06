@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639873675588",
+  "slug": "88vape-black-ice-5050-eliquid-10ml-6mg",
+  "title": "88Vape Any Tank Black Ice 10ml E-Liquid- 6mg",
+  "url": "https://www.vapestore.co.uk/products/88vape-black-ice-5050-eliquid-10ml-6mg",
+  "brand": "88Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.2,
+    "max": 1.2,
+    "currency": "GBP"
+  },
+  "description": "Black Ice from 88Vape's Anytank series is a thrilling combination of deep, dark Blackcurrant flavour with a punchy Menthol kick and refreshing Minty lift. This 50/50 e-liquid is perfect for those who enjoy a bold, fruity vape with an intensely refreshing finish. Each draw of this e-liquid delivers the rich, tart and full-bodied taste of ripe Blackcurrants, offering a sweet and tangy flavour profile that's instantly satisfying. The Blackcurrant's natural juiciness is then elevated by a powerful wave of Menthol and Mint, creating a cooling sensation that invigorates the senses and leaves a lasting freshness on the palate. If you love flavours with a bold menthol element, then this could be the flavour for you. This 50/50 e-liquid from 88Vape offers a perfect balance of PG and VG, providing delicious flavour, smooth throat yet tactile throat hit and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. 88Vape are one of the most popular and bestselling vape brands in the UK. They have helped countless smokers make the switch to the far safer alternative of vaping with the help of delicious e-liquids at wallet-friendly prices.",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128350",
+      "price": 1.2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__88vape-black-ice-5050-eliquid-10ml-6mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-black-ice-10ml-eliquid.jpg?v=1729058257",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.460Z"
+}

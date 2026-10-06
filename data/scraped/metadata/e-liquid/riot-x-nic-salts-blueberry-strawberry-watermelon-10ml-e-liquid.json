@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15828505231741",
+  "slug": "riot-x-nic-salts-blueberry-strawberry-watermelon-10ml-e-liquid",
+  "title": "Riot X Nic Salts Blueberry Strawberry Watermelon 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-blueberry-strawberry-watermelon-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Riot X Nic Salts Blueberry Strawberry Watermelon is a vibrant and exceptionally well-balanced fruit medley that celebrates classic summer profiles. The inhale features the rich, authentic sweetness of ripe Blueberry and classic Strawberry, delivering a deeply satisfying berry foundation. This is then smoothly layered with the refreshing and distinctively juicy taste of Watermelon on the exhale, creating a clean and highly consistent taste experience. This e-liquid features Riot's Hybrid Nicotine formula, which blends Nic Salt and freebase for quick satisfaction, a smooth throat feel, and modest vapour production. With its 50VG/50PG profile, this vape juice is best suited to mouth-to-lung (MTL) vaping and performs well with pod kits, refillable starter kits, and compact vape pens. Made in the UK, the Riot X Nic Salts range focuses on full-impact fruit blends designed for everyday use in low-powered refillable devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153882",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153883",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153884",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-blueberry-strawberry-watermelon-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-x-blue-straw-water-5mg.jpg?v=1772712631",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-blueberry-strawberry-watermelon-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-x-blue-straw-water-10mg.jpg?v=1772712659",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-blueberry-strawberry-watermelon-10ml-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-x-blue-straw-water-20mg.jpg?v=1772712763",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.440Z"
+}

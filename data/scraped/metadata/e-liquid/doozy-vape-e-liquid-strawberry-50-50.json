@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639407255876",
+  "slug": "doozy-vape-e-liquid-strawberry-50-50",
+  "title": "Doozy Vape Co Strawberry 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-e-liquid-strawberry-50-50",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "A timeless classic that never lets you down, Doozy Vape Co’s Strawberry is bursting with the succulent sweetness of fresh, ripe strawberries in a deliciously smooth and aromatic vape. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio delivers a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "DZ-DZ-10-ST-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "DZ-DZ-10-ST-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "DZ-DZ-10-ST-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-e-liquid-strawberry-50-50__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-co-strawberry-5050-e-liquid.jpg?v=1729038438",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-vape-e-liquid-strawberry-50-50__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-50-50-e-liquid-strawberry_3.jpg?v=1729038438",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-vape-e-liquid-strawberry-50-50__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-50-50-e-liquid-strawberry_1.jpg?v=1729038438",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-vape-e-liquid-strawberry-50-50__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-50-50-e-liquid-strawberry_2.jpg?v=1729038438",
+      "position": 4,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.635Z"
+}

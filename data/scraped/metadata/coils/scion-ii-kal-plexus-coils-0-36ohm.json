@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639303872836",
+  "slug": "scion-ii-kal-plexus-coils-0-36ohm",
+  "title": "Innokin Scion II Kal BVC Coil",
+  "url": "https://www.vapestore.co.uk/products/scion-ii-kal-plexus-coils-0-36ohm",
+  "brand": "Innokin",
+  "productType": "Coils",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "These coils have been designed for use with the Innokin Scion II Tank and the Innokin Proton Kit for high-performance sub ohm vaping. The coils are available in 0.36 resistance, which provides supreme flavour delivery and massive cloud production.",
+  "tags": [
+    "Delisted",
+    "prime-repodscoils",
+    "SALE"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1007195",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__scion-ii-kal-plexus-coils-0-36ohm__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sku_innokin_scion_coils_036ohm_3pack_001.png?v=1729033753",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

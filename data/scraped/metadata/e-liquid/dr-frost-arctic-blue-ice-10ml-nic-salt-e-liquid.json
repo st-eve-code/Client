@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14889672704381",
+  "slug": "dr-frost-arctic-blue-ice-10ml-nic-salt-e-liquid",
+  "title": "Dr Frost Arctic Blue Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dr-frost-arctic-blue-ice-10ml-nic-salt-e-liquid",
+  "brand": "Dr Frost",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dr Frost Arctic Nic Salt Blue Ice delivers the juicy, sweet taste of ripe Blueberries perfectly complemented by a bracing wave of arctic menthol on the exhale. This simple yet vibrant blend combines the rich juicy sweetness of Blueberries with an eye-opening crisp, cool exhale, making it an ideal choice for vapers who enjoy fruity e-liquids with a frosty twist. As part of Dr Frost’s Arctic Edition collection, this nicotine salt e-liquid is crafted with a double-concentrated Bar Salts flavour, offering the same bold and intense taste vapers enjoy from disposable vapes. With a 50VG/50PG ratio, Blue Ice Nic Salt is designed for Mouth-to-Lung (MTL) pod kits and low-powered devices, providing smooth throat hits and quick nicotine satisfaction. Available in 5mg, 10mg, and 20mg nicotine strengths, Blue Ice offers a versatile and refreshing option for adult smokers and vapers seeking fruity and icy flavour combinations.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137879",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137887",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dr-frost-arctic-blue-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Arctic-Blue-Ice-10mg.jpg?v=1733931308",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dr-frost-arctic-blue-ice-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Arctic-Blue-Ice-20mg.jpg?v=1733931350",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.553Z"
+}

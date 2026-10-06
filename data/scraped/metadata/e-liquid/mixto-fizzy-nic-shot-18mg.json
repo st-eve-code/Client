@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640031060292",
+  "slug": "mixto-fizzy-nic-shot-18mg",
+  "title": "Fizz Nic Shot 10ml - 18mg",
+  "url": "https://www.vapestore.co.uk/products/mixto-fizzy-nic-shot-18mg",
+  "brand": "Vapestore",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2,
+    "max": 2,
+    "currency": "GBP"
+  },
+  "description": "Enhance your e-liquid with a fizzy twist using the Fizzy Nic Shot from Mixto. This 10ml bottle contains 18mg of nicotine, offering a satisfying nicotine hit while adding a unique effervescent sensation to your favourite e-liquids. Perfect for vapers who enjoy a sparkling The Fizzy Nic Shot is designed to be mixed with shortfills, allowing you to customise your 0mg high-VG e-liquids with nicotine while adding a delightfully tangy fizz. Simply add the nic shot to your chosen shortfill bottle, shake well, and enjoy a sparkling effect that works particularly well with fruity and confectionary flavours. How to use the Fizzy Nic Shot: 1 . Open your shortfill e-liquid bottle and remove the nib. 2 . Pour the entire Fizzy Nic Shot into the shortfill bottle. 3 . Reattach the nib and secure the lid. 4 . Shake the bottle vigorously for a minute to ensure the nicotine and fizz are evenly distributed. 5 . Your e-liquid is now ready to vape. The Fizzy Nic Shot is made with high-quality ingredients to ensure a premium vaping experience. It is best used with high VG shortfill e-liquids for sub-ohm vaping, but can also be used with 50/50 blends for some MTL (mouth-to-lung) devices like pod kits.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1133895",
+      "price": 2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mixto-fizzy-nic-shot-18mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-fizzy-nic-shot-10ml.jpg?v=1729064320",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.559Z"
+}

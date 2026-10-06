@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15010999075197",
+  "slug": "dinner-lady-fruit-full-strawberry-watermelon-10ml-nic-salt-e-liquid",
+  "title": "Dinner Lady Fruit Full Strawberry Watermelon 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-fruit-full-strawberry-watermelon-10ml-nic-salt-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dinner Lady’s Fruit Full Strawberry Watermelon brings together two of the most popular fruit flavours in a deliciously smooth and refreshing blend. The soft, sun-ripened sweetness of Strawberries pairs beautifully with the light, juicy taste of Watermelon, creating a sweet and well-rounded vape with a bright, uplifting finish. Part of the Fruit Full Bar Salts collection, Strawberry Watermelon is designed to replicate the bold, concentrated flavours often found in disposable vapes. Using a double-concentrated Nic Salt formula, this e-liquid ensures a consistently full-bodied taste while maintaining a smooth, satisfying vape experience. Blended at 50VG/50PG, this e-liquid provides an excellent balance of vapour production and flavour clarity, making it ideal for MTL (mouth-to-lung) vaping. The nicotine salt formulation offers a smooth throat hit and fast nicotine satisfaction, making it best suited for use with pod kits and classic vape starter devices. Since 2016, Dinner Lady has been recognised as one of the UK’s most respected e-liquid brands, known for crafting high-quality blends with distinctive flavour combinations. With a presence in over 80 countries worldwide, their commitment to premium ingredients and expertly developed e-liquids continues to make them a leading choice for vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138569",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1138585",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138601",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-fruit-full-strawberry-watermelon-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DL-Bar-Salts-FRUITS-Strawberry-Watermelon-10ml-10mg-GB.jpg?v=1739464451",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.473Z"
+}

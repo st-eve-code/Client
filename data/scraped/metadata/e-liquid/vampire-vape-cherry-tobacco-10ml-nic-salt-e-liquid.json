@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15543010689405",
+  "slug": "vampire-vape-cherry-tobacco-10ml-nic-salt-e-liquid",
+  "title": "Vampire Vape Cherry Tobacco 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-cherry-tobacco-10ml-nic-salt-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Cherry Tobacco Nic Salt pairs the earthy depth of Tobacco with the fruity lift of ripe Cherry. The Tobacco provides a solid, rich base, while Cherry introduces a bright edge of sweetness and gentle tartness for contrast. This e-liquid uses nicotine salts for faster absorption and a smoother throat hit. With a 50VG/50PG ratio, it’s tailored for mouth-to-lung (MTL) vaping using pod kits, vape pens and starter devices. Available in 10mg and 20mg strengths, Cherry Tobacco Nic Salt offers a distinctive flavour combination that balances tradition with fruit-forward appeal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1141497",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1141501",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-cherry-tobacco-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco_10ml-Nic-Salts_flavour_Cherry-Tobacco.jpg?v=1758277919",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.474Z"
+}

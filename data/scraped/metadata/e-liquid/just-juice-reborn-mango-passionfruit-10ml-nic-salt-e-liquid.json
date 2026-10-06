@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15978761585021",
+  "slug": "just-juice-reborn-mango-passionfruit-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Reborn Mango & Passionfruit 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-reborn-mango-passionfruit-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Just Juice Reborn Mango & Passion Fruit 10ml Nic Salt E-Liquid offers a highly vivid and deeply exotic tropical fruit pairing. The profile leads with the thick, syrupy sweetness of sun-ripened Mango, providing a warm and rich foundation on the inhale. This is seamlessly complemented by the sharp, acidic tang of fresh Passion Fruit on the exhale, creating a highly balanced and flavoursome finish. Available in 5mg, 10mg, and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth throat sensation to effectively manage nicotine intake. Formulated with a specific 40VG/60PG ratio, this e-liquid provides exceptional flavour clarity and a slightly more pronounced throat hit. It is designed to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Just Juice Reborn collection brings back a selection of original e-liquid flavours, refined and updated to deliver a highly concentrated, bar-style experience. Offering exceptional quality and familiarity, this range provides a dependable option for everyday use. Beyond the exotic layers of Mango & Passion Fruit, vapers can explore other revitalised profiles such as the sharp Lemonade or the complex Berry Burst.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Just Juice Reborn Nic Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1158145",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1158139",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158134",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-reborn-mango-passionfruit-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/MANGO-_-PASSION-FRUIT-REBORN-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744348",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-reborn-mango-passionfruit-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/REBORN-Mango-10mg-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744343",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-reborn-mango-passionfruit-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/REBORN-Mango-20mg-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744345",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.400Z"
+}

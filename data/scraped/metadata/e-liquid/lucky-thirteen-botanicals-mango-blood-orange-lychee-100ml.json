@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639581122884",
+  "slug": "lucky-thirteen-botanicals-mango-blood-orange-lychee-100ml",
+  "title": "Lucky Thirteen Botanicals Mango, Blood Orange & Lychee 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/lucky-thirteen-botanicals-mango-blood-orange-lychee-100ml",
+  "brand": "Lucky Thirteen",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Mango Blood Orange & Lychee from Lucky Thirteen’s exquisite Botanical Collection takes you on tropical travels with the luscious taste of juicy, ripe Mango, sharp, zesty Blood Orange and deliciously smooth Lychee. This product contains 100ml of e-liquid in a 120ml shortfill bottle, with space for 2 x 10ml nicotine shots to let you tailor your e juice’s nicotine content. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. The e-liquid’s 70VG/30PG ratio makes it ideal for high-powered pod kits , mod vape kits and sub-ohm tanks , producing rich clouds and immaculate flavour.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Mango"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "JR-100-LTB-MBO-LY-00-SF",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lucky-thirteen-botanicals-mango-blood-orange-lychee-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0015_mango_blood_orange_and_lychee_ml.jpg?v=1729042739",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.621Z"
+}

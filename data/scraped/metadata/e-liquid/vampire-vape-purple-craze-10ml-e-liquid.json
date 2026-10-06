@@ -1,0 +1,85 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14876999188861",
+  "slug": "vampire-vape-purple-craze-10ml-e-liquid",
+  "title": "Vampire Vape Purple Craze 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-purple-craze-10ml-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s Purple Craze freebase e-liquid brings together the best qualities of the brand’s two most iconic flavours: Heisenberg and Pinkman. Purple Craze delivers an irresistible fusion of ripe red berries, mixed fruits, and the signature menthol breeze laced with subtle aniseed that Heisenberg fans know and love, balanced perfectly with the sweet and tangy notes of Pinkman’s ruby-red berry base. This e-liquid is a perfect option for vapers who enjoy a smooth, rich, and refreshing fruity flavour blend with just a hint of cool menthol to keep things light and fresh. With a 60VG/40PG or 50VG/50PG ratio depending on nicotine strength, Purple Craze offers excellent flavour and vapour production, making it ideal for most e-cigarette devices, including starter kits, MTL setups, and sub-ohm devices (low-strength versions only.) Purple Craze freebase e-liquid is available in the following nicotine strengths: 0mg (60/40) – Nicotine-free 3mg (50/50) – A low nicotine option 6mg (60/40) – A mild nicotine hit 12mg (60/40) – A medium-strength vape 18mg (60/40) – A stronger, more potent nicotine experience Whether you prefer a nicotine-free experience or powerful nicotine relief, Purple Craze’s smooth and flavoursome freebase formulation caters to every type of vaper.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Purple Craze"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1131861",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1131862",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1131863",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1131864",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1131865",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-purple-craze-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uk_vv_10ml-freebase_18mg_purplecraze_1.jpg?v=1733063984",
+      "position": 1,
+      "width": 565,
+      "height": 565,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-purple-craze-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uk_vv_10ml-freebase_0mg_purplecraze.jpg?v=1733063910",
+      "position": 2,
+      "width": 565,
+      "height": 565,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.474Z"
+}

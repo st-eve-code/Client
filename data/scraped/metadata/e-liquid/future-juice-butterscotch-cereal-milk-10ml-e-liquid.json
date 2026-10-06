@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15335521812861",
+  "slug": "future-juice-butterscotch-cereal-milk-10ml-e-liquid",
+  "title": "Future Juice Butterscotch, Cereal & Milk 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/future-juice-butterscotch-cereal-milk-10ml-e-liquid",
+  "brand": "Future Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Butterscotch Cereal and Milk by Future Juice is a comforting, breakfast-inspired blend that layers creamy sweetness with a subtle, savoury edge. The buttery richness of golden Butterscotch leads the flavour with a mellow sweetness, closely followed by a soft cereal grain note that brings a subtle toasted quality. A swirl of smooth Milk rounds out the profile with creamy depth, tying everything together into a warm, moreish vape with satisfying complexity. This nicotine salt e-liquid delivers a silky-smooth but tactile throat hit with fast nicotine absorption, making it ideal for everyday use. Blended at a 50VG/50PG ratio, it’s perfectly suited for mouth-to-lung (MTL) vaping with starter kits, vape pens, and pod devices. Available in 5mg, 10mg and 20mg strengths, this blend gives vapers greater flexibility over their nicotine intake. Crafted in the UK by the flavour experts at Future Juice, this Nic Salt range brings together unique flavour profiles with a formula designed for performance and consistency across low-powered vape setups.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1139488",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1139493",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139511",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__future-juice-butterscotch-cereal-milk-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/future-juice-butterscotch-cereal-milk-el-800x800.jpg?v=1751641126",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.441Z"
+}

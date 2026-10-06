@@ -1,0 +1,101 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639831601476",
+  "slug": "vampire-vape-bar-salts-lemon-lime-nicsalt-eliquid",
+  "title": "Bar Salts Lemon & Lime 10ml Nic Salt E-Liquid By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-lemon-lime-nicsalt-eliquid",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Energise your senses with Lemon & Lime from Vampire Vape's Bar Salts collection. It’s a vibrant explosion of zesty lemon and tangy lime, creating an e-liquid that's like vaping liquid sunshine. Every puff is a dynamic blend of citrusy notes, capturing the essence of freshly-squeezed lemonade mixed with a twist of lime. It’s the type of flavour that wakes you up, brightens your mood, and invigorates your taste buds. Perfect for those days when you just need an extra zing or want to escape to sunnier climates, this 10ml nic salt e-liquid is a refreshing burst of citrusy, sun-drenched magic. If you’ve adored similar flavours found in disposable vapes, then you’ll absolutely swoon for Lemon and Lime from Vampire Vape’s Bar Salts collection of 10ml Nic Salt e-liquids with non-disposable vapes. This premium e-liquid boasts a 50VG/50PG ratio, expertly balancing flavour and vapour. Perfect for starter kits and pod systems, its nicotine salt formulation offers a smooth, gratifying throat hit—especially ideal for those fresh off cigarettes. Nicotine Salt E-liquids are absorbed swiftly, making them a great choice for immediate relief from nicotine cravings. Looking for something a bit different? Check out the Bar Salts collection by Vampire Vape, featuring many other exciting flavours like Cherry Ice, Blue Sour Raspberry and Pineapple Ice. These 10ml e-liquids can be used in starter kits and pod kits and they allow you to enjoy your favourite flavours for far longer than a 2ml disposable vape device, all while reducing plastic waste. And because they share the same nicotine salt formulation as their disposable cousins, Vampire Vape Bar Salts deliver all the satisfying relief from nicotine cravings along with a super-smooth throat hit for comfortable, effective and enjoyable all-day vaping.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1131416",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1125962",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1125883",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1125864",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-lemon-lime-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-salts-lemon-lime-10ml-nic-salt-e-liquid.jpg?v=1729055172",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-bar-salts-lemon-lime-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-salts-lemon-lime-10ml-nic-salt-e-liquid_2.jpg?v=1729055172",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-bar-salts-lemon-lime-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-salts-lemon-lime-10ml-nic-salt-e-liquid_3.jpg?v=1729055172",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-bar-salts-lemon-lime-nicsalt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-salts-lemon-lime-10ml-nic-salt-e-liquid_4.jpg?v=1729055172",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-bar-salts-lemon-lime-nicsalt-eliquid__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-salts-lemon-lime-10ml-nic-salt-e-liquid_1.jpg?v=1729055172",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.341Z"
+}

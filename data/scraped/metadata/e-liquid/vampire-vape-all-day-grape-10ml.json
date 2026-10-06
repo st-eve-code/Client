@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639517192516",
+  "slug": "vampire-vape-all-day-grape-10ml",
+  "title": "Vampire Vape All Day Grape E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-all-day-grape-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Experience the irresistible allure of the Vampire Vape All Day Grape E-Liquid. Where the great taste of luscious grapes awaits your senses. With each draw you can indulge in the perfect fusion of fruit and ice, meticulously blended to create a harmonious balance. Each inhale of this All Day Grape by Vampire Vape reveals the full-bodied, rich essence of juicy grapes. Whilst the exhale rewards you with a layer of cool and invigorating touch of menthol. Causing a satisfyingly cool breeze that lingers on your palate. Crafted by Vampire Vape, this Vampire Vape All Day Grape E-Liquid has been designed to deliver maximum flavour and satisfying clouds by striking the ideal balance between PG and VG. When choosing the right Vampire Vape Juice nicotine strength for your vaping needs, it's important to know the VG/PG ratio. Please note: The 3mg nicotine strength has a 50VG/50PG ratio, whilst the 0mg, 6mg, 12mg, and 18mg nicotine strengths have a 40VG/60PG composition. These versatile Vampire Vape juice blends are compatible with a wide range of vape devices. But they truly shine when paired with low-powered starter kits, pen-vape kits, and pod kits. If you're captivated by the delectable flavours of this All Day Grape by Vampire Vape 10ml, why not explore their other equally delicious E-Liquids. Such as their Vampire Vape Nic Salts or their Vampire Vape Bar Salts ranges? Their E-Liquid ranges cater to every vaper's unique flavour preferences. Ensuring there's always something new and exciting to discover. So whether you crave fruity delights, indulgent desserts, or refreshing menthol blends, you're sure to find the perfect vape juice to satisfy your taste buds and take your vaping to the next level.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "VV-10-ADG-00-50",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "VV-10-ADG-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-10-ADG-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-10-ADG-12-50",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VV-10-ADG-18-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-all-day-grape-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-all-day-grape-e-liquid-10ml_1.jpg?v=1729041199",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.358Z"
+}

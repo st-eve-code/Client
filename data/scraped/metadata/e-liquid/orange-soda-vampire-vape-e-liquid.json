@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639630340420",
+  "slug": "orange-soda-vampire-vape-e-liquid",
+  "title": "Vampire Vape Orange Soda 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/orange-soda-vampire-vape-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Experience a wave of fizzy orange nostalgia with each smooth draw of Orange Soda by Vampire Vape. This delightful blend captures the essence of zesty oranges, immersing your taste buds in a burst of vibrant citrus flavour. With each inhale of this Orange Soda Vampire Vape E-Liquid you can feel like you're sipping on a refreshing glass of orange soda. While the exhale unveils a classic soda fizz that sweeps across your palate, enhancing the overall refreshment. Each bottle of this Orange Soda Vampire Vape E-Liquid offers a balanced blend of PG (Propylene Glycol) and VG (Vegetable Glycerin). Ensuring that it can deliver maximum flavour and satisfying clouds. Please Note: that the specific PG/VG ratio varies depending on the nicotine strength in each bottle of nicotine E Liquid. For the 3 mg nicotine strength, the E-Liquid has a 50VG/50PG ratio. Whilst the 0mg, 6mg, 12mg, and 18mg nicotine strengths contain a 40VG/60PG ratio. Vampire Vape Orange Soda is a versatile blend that can be used with most vape devices to deliver a satisfying vaping experience. Making it ideal for use with low-powered starter kits, pen-vape kits, and pod kits. If you love this 10ml bottle of Vampire Vape juice, why not explore their other equally delicious popular flavours. Their iconic E-Liquid collection offers a broad range to choose from to suit a variety of vaping needs. So whether you're looking for your next seriously smooth nicotine salt Vampire Vape Nic Salt for a perfectly smooth throat hit. Or inspired to make your own vape juice blends with their Vampire Vape Flavour Concentrates. You're sure to find a vape juice flavour and type that suits your vaping needs.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "VV-10-OS-00-50",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "VV-10-OS-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-10-OS-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-10-OS-12-50",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VV- 10-OS-18-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__orange-soda-vampire-vape-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-orange-soda-10ml-e-liquid.jpg?v=1729045162",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.434Z"
+}

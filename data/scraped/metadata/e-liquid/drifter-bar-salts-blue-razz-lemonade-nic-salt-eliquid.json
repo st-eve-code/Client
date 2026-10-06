@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639800799556",
+  "slug": "drifter-bar-salts-blue-razz-lemonade-nic-salt-eliquid",
+  "title": "Drifter Bar Salts Blue Razz Lemonade 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/drifter-bar-salts-blue-razz-lemonade-nic-salt-eliquid",
+  "brand": "Drifter",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Drifter Bar Salts Blue Razz Lemonade is a tangy and refreshing take on the now-classic Blue Raspberry flavour. Syrupy-sweet and deliciously fruity Blueberry and Raspberry slushy gets a citrus kick from tangy Lemonade creating a deeply flavoursome and vibrant vape you won’t be able to put down. Drifter's Bar Salts e-liquids are the perfect choice for starter vape kits and low-powered pod devices. Unlike regular freebase e-liquids, nicotine salts feature an alkaline formulation that allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids. Nicotine salt e-liquids provide near-instant relief from nicotine cravings because the nicotine is absorbed into the bloodstream faster. This makes them an ideal choice for recent ex-smokers or vapers seeking immediate, satisfying nicotine relief. Drifter's Bar Salts and Bar Juice collections offer mouth-watering e-liquids inspired by the most popular flavours found in disposable vapes. They're just as intensely delicious and satisfying as disposable vape flavours, but with the added benefit of being compatible with your own reusable vape device. This saves you money and reduces waste in the process. Why not try other incredible flavours from Drifter's Bar Salts and Bar Juice collections? From sweet and refreshing Cotton Candy Ice to classics like Cherry and Blue Razz Lemonade, whatever your taste in e-liquid, Drifter E-liquid has an incredible flavour waiting to light up your tastebuds.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "Blue Razz Lemonade",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138467",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1125319",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1125335",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__drifter-bar-salts-blue-razz-lemonade-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-salts-blue-razz-lemonade-ice-20ml-eliquid_1__1.jpg?v=1729053124",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-blue-razz-lemonade-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-salts-blue-razz-lemonade-ice-10ml-nic-salt-10mg-eliquid_1.jpg?v=1729053124",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-blue-razz-lemonade-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-bar-salts-blue-razz-lemonade-ice-20ml-eliquid_1.jpg?v=1729053124",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.597Z"
+}

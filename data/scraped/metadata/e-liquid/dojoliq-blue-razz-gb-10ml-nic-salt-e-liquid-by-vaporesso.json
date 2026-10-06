@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15968366100861",
+  "slug": "dojoliq-blue-razz-gb-10ml-nic-salt-e-liquid-by-vaporesso",
+  "title": "DojoLiq Blue Razz GB 10ml Nic Salt E-Liquid by Vaporesso",
+  "url": "https://www.vapestore.co.uk/products/dojoliq-blue-razz-gb-10ml-nic-salt-e-liquid-by-vaporesso",
+  "brand": "Dojoliq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Vaporesso DojoLiq Blue Razz GB 10ml Nic Salt E-Liquid delivers a sweet, playful, and nostalgic confectionery profile. Experience the bold, syrupy notes of rich Blue Raspberry on the inhale, which is then seamlessly complemented by the chewy, sugary taste of classic Gummy Bear confectionery on the exhale, for a complex yet superbly balanced and distinctively sweet finish. Formulated with a bespoke VG/PG ratio finely tuned specifically to this flavour, this premium nicotine salt e-liquid is crafted to provide precise clarity and a smooth, comfortable throat sensation. Available in 10mg and 20mg strengths, it ensures rapid nicotine satisfaction. This tailored blend performs reliably with Mouth-to-Lung (MTL) refillable pod kits and classic starter devices, ensuring sharp and accurate flavour transmission. Brought to you by the hardware specialists at Vaporesso, the DojoLiq collection captures the vibrant, authentic flavours of their popular Dojo series in a versatile 10ml format. Offering more than 30 expertly crafted options, this range provides a highly cost-effective and dependable option for every palate. Beyond the sugary delight of Blue Razz GB, vapers can explore other compelling profiles such as the rich Black Cherry Raspberry or the refreshing Blackberry Lime.",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1158638",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158649",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dojoliq-blue-razz-gb-10ml-nic-salt-e-liquid-by-vaporesso__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bluerazz-Vaporesso-Dojoliq-10m-Nic-Salts.jpg?v=1784822921",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dojoliq-blue-razz-gb-10ml-nic-salt-e-liquid-by-vaporesso__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bluerazz-20mg_Vaporesso_Dojoliq_10m_Nic_Salts.png?v=1784806882",
+      "position": 2,
+      "width": 1500,
+      "height": 1500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.444Z"
+}

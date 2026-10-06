@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003682898301",
+  "slug": "ruthless-loaded-strawberry-jelly-donut-shortfill-100ml-e-liquid",
+  "title": "Ruthless Loaded Strawberry Jelly Donut Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-loaded-strawberry-jelly-donut-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Jelly Donut by Ruthless is a dessert lover’s dream, capturing the taste of a warm, freshly baked donut filled with sweet and sticky Strawberry Jelly. The fluffy, golden-brown pastry flavour is complemented by the bright fruitiness of strawberry, delivering a smooth, indulgent vape with just the right balance of richness and sweetness. Just one of many astonishing and unique flavours from the Ruthless Shortfill collection, Strawberry Jelly Donut features a 70VG/30PG ratio, producing thick vapour and a full-bodied inhale. Designed for Sub-Ohm vape kits and advanced DTL (direct-to-lung) devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, allowing vapers to customise their nicotine strength. Ruthless has been redefining e-liquid flavour for over a decade, crafting bold and imaginative blends that continue to inspire vapers worldwide. Their commitment to quality ingredients and expert craftsmanship ensures a consistently premium vape experience.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138923",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-loaded-strawberry-jelly-donut-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/loaded_uk_100ml_STRAWBERRY_JELLY_DONUT.jpg?v=1739289906",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.517Z"
+}

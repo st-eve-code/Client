@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14888421556605",
+  "slug": "tidal-vape-vortex-cream-tobacco-10ml-nic-salt-e-liquid",
+  "title": "Vortex Cream Tobacco 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/tidal-vape-vortex-cream-tobacco-10ml-nic-salt-e-liquid",
+  "brand": "Tidal Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Tidal Vape Vortex Nic Salt Cream Tobacco combines the smooth, familiar taste of classic tobacco with a rich and creamy vanilla finish. This timeless flavour strikes the perfect balance between bold and mellow notes, making it ideal for vapers seeking a comforting and satisfying vape. With a 50VG/50PG ratio, this nicotine salt e-liquid provides the perfect balance of flavour and vapour, making it well-suited for Mouth-To-Lung (MTL) devices like pod systems and starter kits. The nic salt formulation ensures a smooth throat hit and fast nicotine relief, delivering a robust yet gentle vaping experience. Tidal Vape Vortex Nic Salts are a more sustainable and cost-effective alternative to disposable vape bars, available in a convenient 10ml format designed for refillable vape kits. Available in 10mg and 20mg nicotine strengths, Cream Tobacco is a versatile choice for adult smokers and vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137835",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137856",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tidal-vape-vortex-cream-tobacco-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-10mg-cream-tobacco-min.jpg?v=1733844834",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__tidal-vape-vortex-cream-tobacco-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-20mg-cream-tobacco-min.jpg?v=1733844992",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.495Z"
+}

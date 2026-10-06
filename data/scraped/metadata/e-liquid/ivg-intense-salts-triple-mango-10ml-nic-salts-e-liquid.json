@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15577844679037",
+  "slug": "ivg-intense-salts-triple-mango-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Triple Mango 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-triple-mango-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Triple Mango layers three distinct Mango notes into one tropical blend. Juicy and sun-ripened, the flavour balances sweetness with a touch of tang for a fruity, satisfying vape. Blended at 50VG/50PG, this Nic Salt e-liquid provides consistent flavour delivery, discreet vapour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths, Triple Mango is best enjoyed in mouth-to-lung (MTL) pod kits, vape pens and starter devices. Part of the IVG Intense Salts range, Triple Mango celebrates a favourite tropical fruit in a flavour-packed format.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148482",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148514",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-triple-mango-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Triple-Mango-min.jpg?v=1759401318",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.541Z"
+}

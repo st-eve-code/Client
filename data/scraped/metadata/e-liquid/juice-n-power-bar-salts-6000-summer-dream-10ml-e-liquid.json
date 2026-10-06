@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15028678787453",
+  "slug": "juice-n-power-bar-salts-6000-summer-dream-10ml-e-liquid",
+  "title": "Juice N Power Bar Salts 6000+ Summer Dream 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-bar-salts-6000-summer-dream-10ml-e-liquid",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Juice N Power Bar Salts 6000+ Summer Dream brings together a medley of vibrant Summer Fruits for a bright and uplifting vape. Bursting with layers of ripe, juicy flavours, this blend captures the essence of sun-drenched berries and tropical fruits for a complex yet perfectly balanced fruity vape. Designed for mouth-to-lung (MTL) vaping, this nicotine salt e-liquid delivers a consistently smooth throat hit with optimised nicotine absorption. The 50/50 VG/PG ratio ensures well-defined flavour with discreet vapour production, making it an excellent match for pod kits and vape starter kits. Juice N Power Bar Salts 6000+ e-liquids provide a cost-effective and sustainable alternative to single-use disposable vapes, bringing familiar and satisfying flavours to a refillable format. Available in 10mg and 20mg nicotine strengths, each bottle features a childproof cap and an easy-fill nozzle for convenience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1138851",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138886",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-bar-salts-6000-summer-dream-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/JNP-bar-salts-6000_-10ml-nic-salts-Summer-Dream.jpg?v=1740053776",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.497Z"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15458881962365",
+  "slug": "the-lancashire-creamery-ice-caramelised-biscuit-100ml-shortfill",
+  "title": "The Lancashire Creamery Ice Caramelised Biscuit 100ml Shortfill",
+  "url": "https://www.vapestore.co.uk/products/the-lancashire-creamery-ice-caramelised-biscuit-100ml-shortfill",
+  "brand": "The Lancashire Creamery",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Caramelised Biscuit from The Lancashire Creamery blends the sweet, spiced notes of Biscuit with a smooth Vanilla ice cream base and subtle Caramel hints. This combination offers a comforting, bakery-inspired dessert vape with a creamy depth. With a 70% VG / 30% PG ratio, this high-VG shortfill is designed for Direct-to-Lung (DTL) vaping with sub-ohm kits, producing thick clouds and delivering consistently rich flavour. Supplied in a 120ml bottle containing 100ml of nicotine-free e-liquid, there’s space for two 10ml nicotine shots to create a 3mg mix. The Lancashire Creamery is a UK-based e-liquid brand celebrated for indulgent dessert blends inspired by traditional ice cream parlour favourites. Their shortfills are crafted to deliver smooth, creamy profiles ideal for sweet, decadent vaping.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144368",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-lancashire-creamery-ice-caramelised-biscuit-100ml-shortfill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-lancashire-ice-cream-caramelised-biscuit-100ml.jpg?v=1755524780",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.544Z"
+}

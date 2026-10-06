@@ -1,0 +1,94 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15263831753085",
+  "slug": "just-juice-bar-range-tropical-peach-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Range Tropical Peach 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-range-tropical-peach-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Tropical Peach from the Just Juice Bar Range is a bright, juicy blend that layers soft, sweet Peach with a medley of tropical fruit flavours. The inhale is dominated by ripe Peach notes, while background hints of exotic fruit add warmth and balance. A cooling Ice finish provides a clean, chilled exhale that enhances the fruit’s natural brightness. This 60PG/40VG nic salt e-liquid offers fast-acting nicotine delivery with a smooth yet satisfying throat hit. Available in 5mg, 10mg and 20mg strengths, it’s ideal for MTL (mouth-to-lung) vaping with pod kits and vape pens. Made in the UK, Just Juice Bar Range Nic Salts are inspired by the cooling, fruit-driven flavour profiles of disposable vapes, reimagined for use in refillable devices. Each 10ml bottle delivers maximum flavour without the waste. Please Note : All flavours in the Just Juice Bar Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1153433",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1142232",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142238",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142245",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-range-tropical-peach-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-TROPICAL-Punch-5MG.jpg?v=1748603902",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-tropical-peach-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-TROPICAL-Punch-10MG.jpg?v=1748603934",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-tropical-peach-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-TROPICAL-Punch-20MG.jpg?v=1748603959",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-tropical-peach-10ml-nic-salt-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Tropical-Peach-Just-Juice-Bar-Zero-0mg-10-ml.jpg?v=1770911192",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.392Z"
+}

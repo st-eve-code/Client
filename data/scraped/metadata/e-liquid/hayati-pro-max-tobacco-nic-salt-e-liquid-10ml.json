@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15115134796157",
+  "slug": "hayati-pro-max-tobacco-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Tobacco Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-tobacco-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Tobacco is a classic, no-nonsense vape that delivers the smooth, earthy notes of traditional Tobacco. This blend offers a subtle sweetness and rounded depth, recreating the warm, familiar taste of a golden Tobacco leaf with a satisfying, mellow profile—ideal for those who prefer a straightforward alternative to overly sweet or fruity vapes. Crafted with nicotine salts, this e-liquid provides faster nicotine absorption, and a smoother, more tactile throat hit. It’s best suited to MTL (mouth-to-lung) devices like pod kits and vape pens. The 50VG/50PG formulation ensures steady vapour production and dependable flavour clarity. This flavour is part of the Hayati Pro Max Nic Salt range, inspired by Hayati’s own bestselling disposable vapes and now reimagined in a longer-lasting 10ml format—available in 10mg and 20mg nicotine strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140349",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140411",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-tobacco-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Tobacco_Hayati-Pro-Max-Nic-Salts.jpg?v=1743416526",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.406Z"
+}

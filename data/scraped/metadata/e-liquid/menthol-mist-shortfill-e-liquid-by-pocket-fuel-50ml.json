@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639282442564",
+  "slug": "menthol-mist-shortfill-e-liquid-by-pocket-fuel-50ml",
+  "title": "Pocket Fuel Menthol Mist Shortfill E-Liquid 50ml",
+  "url": "https://www.vapestore.co.uk/products/menthol-mist-shortfill-e-liquid-by-pocket-fuel-50ml",
+  "brand": "Pocket Fuel",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Menthol Mist is an exquisite e-liquid from Pocket Fuel that offers a premium clean, crisp menthol base laced with the sweet punch of garden-fresh peppermint for a deliciously refreshing all-day vape experience. These shortfill bottles contain 50ml of nicotine-free liquid, with 10ml of extra space within the bottle to accommodate your nicotine shot of choice. This allows you to create a liquid with your own desired nicotine strength, and typically adding a 10ml nicotine shot to a 50ml shortfill will give you 60ml of 3mg e-liquid. Once you have added your preferred amount of nicotine, make sure you shake the contents of the shortfill bottle well. We also offer a range of 18mg nicotine-containing e-liquid shots in a variety of VG percentage strengths to ensure you find a perfect match to suit your taste.",
+  "tags": [
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "AWARDS15",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "PF-MM-00-SFL",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__menthol-mist-shortfill-e-liquid-by-pocket-fuel-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pocket-fuel_eliquid_shortfill_menthol_mist.jpg?v=1729032866",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.331Z"
+}

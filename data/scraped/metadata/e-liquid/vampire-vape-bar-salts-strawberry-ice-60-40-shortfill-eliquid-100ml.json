@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639908704580",
+  "slug": "vampire-vape-bar-salts-strawberry-ice-60-40-shortfill-eliquid-100ml",
+  "title": "Bar Salts Strawberry Ice Shortfill E-Liquid 100ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-strawberry-ice-60-40-shortfill-eliquid-100ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Ice delivers a burst of juicy, summery Strawberry flavour with a brisk and refreshing icy chill on the exhale for maximum refreshment. Vampire Vape Bar Salts Shortfills come in a 100ml size, with a 60VG/40PG ratio and contain no nicotine (0mg). The 60VG/40PG ratio strikes the perfect balance between flavour and vapour production, making them ideal for use with starter kits, pod systems, and pods/coils with resistances of 0.6ohm or higher, providing a satisfying mouth-to-lung (MTL) vaping experience. The 60/40 shortfills range from Vampire Vape introduces a new dimension to their popular Bar Salts collection. It includes their most iconic Bar Salts flavours, inspired by the intense taste and satisfying MTL kick of disposable vapes, but in a more affordable and longer-lasting 100ml bottle. With their versatile 60VG/40PG ratio, they can be used with a wide range of MTL kits, such as pod kits and starter kits. Each bottle of Vampire Vape Bar Salts shortfill contains 100ml of e-liquid in a 120ml bottle, leaving room for 2 x 10ml nicotine shots to customise the nicotine content of your e-juice. For instance, adding 2 x 10ml, 18mg nicotine shots will result in 120ml of 3mg e-liquid. Explore the extensive range of flavours in the Bar Salts Shortfill collection from Vampire Vape, featuring unique options like Kiwi Passionfruit Guava, Pink Lemonade and Pineapple Ice, in addition to Strawberry Ice.",
+  "tags": [
+    "100ml shortfill",
+    "60/40 Shortfill",
+    "Bar Salts",
+    "DTL",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130743",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-strawberry-ice-60-40-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_100ml-shortfills_strawberry-ice.jpg?v=1729060500",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.356Z"
+}

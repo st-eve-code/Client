@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14889724707197",
+  "slug": "dr-frost-arctic-blueberry-raspberry-ice-100ml-shortfill-e-liquid",
+  "title": "Dr Frost Arctic Blueberry Raspberry Ice 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dr-frost-arctic-blueberry-raspberry-ice-100ml-shortfill-e-liquid",
+  "brand": "Dr Frost",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Dr Frost Arctic Shortfill Blueberry Raspberry Ice combines the juicy sweetness of Blueberries with the tart, tangy notes of Raspberries, perfectly finished with a frosty menthol exhale. This layered and refreshing e-liquid is perfect for vapers seeking bold, fruity flavours with a crisp icy twist. Part of Dr Frost’s Arctic Edition collection, this shortfill features double-concentrated ‘Bar Salts’ flavour to replicate the bold, intense taste profiles found in disposable vapes. With a 50VG/50PG ratio, it’s designed for low-powered Mouth-to-Lung (MTL) devices and pod kits. The 100ml bottle provides space for two 10ml nicotine shots, allowing users to tailor their nicotine strength or enjoy it nicotine-free. Dr Frost Arctic Shortfills are a versatile and economical option for adult smokers and vapers who appreciate bold, refreshing flavour.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137898",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dr-frost-arctic-blueberry-raspberry-ice-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Blueberry-Raspberry-Ice-100mg.jpg?v=1733936350",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.553Z"
+}

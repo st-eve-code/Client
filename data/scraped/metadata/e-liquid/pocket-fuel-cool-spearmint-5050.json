@@ -1,0 +1,67 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639444742468",
+  "slug": "pocket-fuel-cool-spearmint-5050",
+  "title": "Pocket Fuel Cool Spearmint 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pocket-fuel-cool-spearmint-5050",
+  "brand": "Pocket Fuel",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Refreshing Menthol laced with sweet spearmint candy. Sweet and cooling, Cool Spearmint couples the familiar flavour of spearmint with the icy freshness of menthol.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "VZ-PF-10-CS-03-50",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VZ-PF-10-CS-06-50",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VZ-PF-10-CS-12-50",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VZ-PF-10-CS-18-50",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pocket-fuel-cool-spearmint-5050__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pocket-fuel_eliquid_10ml_spearmint.jpg?v=1729039908",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.351Z"
+}

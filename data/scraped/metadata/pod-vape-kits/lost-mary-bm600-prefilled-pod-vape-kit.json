@@ -1,0 +1,521 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15022460993917",
+  "slug": "lost-mary-bm600-prefilled-pod-vape-kit",
+  "title": "Lost Mary BM600 Prefilled Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-prefilled-pod-vape-kit",
+  "brand": "Lost Mary",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Lost Mary BM600 Prefilled Pod Kit brings the iconic BM600 disposable vape experience into a rechargeable, prefilled pod kit format. This revamped Lost Mary BM600 pod kit retains the same super-compact, 'matchbox-style' form factor; crisp, satisfying draw; chic, colourful designs and vibrant flavours that made the original Lost Mary BM600 such a bestseller, but now adds the all the cost-saving benefits of a rechargeable battery and replaceable pods. This kit comes preloaded with a 2ml pod of 20mg nicotine salt e-liquid, delivering rapid nicotine relief and a smooth, satisfying mouth-to-lung (MTL) vape with up to 600 puffs per pod. With inhale activation and no buttons or settings to adjust, the Lost Mary BM600 Prefilled Pod Kit offers a truly effortless vaping experience. The built-in rechargeable battery ensures continuous use, with a USB-C charging port for quick and easy recharging, while a handy Status Indicator Light, located next to the charging port, offers at-a-glance information on your battery status. Ideal for new and experienced vapers alike, the Lost Mary BM600 Prefilled Pod Kit is a super-compact, easy-to-use solution for those who want a consistent and flavourful vape without the waste and expense of single-use disposables. Lost Mary BM600 Prefilled Kit Flavours • Blueberry • Blue Razz Ice • Blueberry Sour Raspberry • Cherry Ice • Double Apple • Grape • Lemon Lime • Menthol • Peach Ice • Pineapple Ice • Pink Lemonadee • Strawberry Ice • Strawberry Kiwi • Triple Mango • Triple Melon • Watermelon Ice How to Use: 1. Remove the Silicon Plug from the top of the pod. 2. Peel off the sticker on the bottom of the device Please Note: USB-C Cable Sold Separately How to set up the Lost Mary BM600 Prefilled Pod Vape Kit Shop Lost Mary BM600 Refill Pods",
+  "tags": [
+    "600 Puffs",
+    "Battery-included",
+    "Cherry Ice",
+    "Kit-VS-Export",
+    "Lemon and Lime",
+    "Mango",
+    "Pineapple",
+    "Pink Lemonade",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Flavour",
+      "position": 1,
+      "values": [
+        "Blackcurrant Apple",
+        "Blackberry Ice",
+        "Blueberry",
+        "Blueberry Sour Raspberry",
+        "Blue Razz Cherry",
+        "Blue Razz Ice",
+        "Blue Razz Lemonade",
+        "Cherry Ice",
+        "Cherry Peach Lemonade",
+        "Cola",
+        "Double Apple",
+        "Fizzy Pineapple",
+        "Grape",
+        "Guava Ice",
+        "Kiwi Passionfruit Guava",
+        "Lemon & Lime",
+        "Mad Blue",
+        "Menthol",
+        "Mint Tobacco",
+        "PandB Cloudd",
+        "Peach Ice",
+        "Pineapple Ice",
+        "Pink Lemonade",
+        "Red Apple Ice",
+        "Sakura Grape",
+        "Strawberry Ice",
+        "Strawberry Kiwi",
+        "Strawberry Raspberry Cherry",
+        "Triple Berry Ice",
+        "Triple Mango",
+        "Triple Melon",
+        "Watermelon Ice"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blackcurrant Apple",
+      "sku": "1148274",
+      "price": 4.95
+    },
+    {
+      "title": "Blackberry Ice",
+      "sku": "1148280",
+      "price": 4.95
+    },
+    {
+      "title": "Blueberry",
+      "sku": "1138895",
+      "price": 4.95
+    },
+    {
+      "title": "Blueberry Sour Raspberry",
+      "sku": "1138898",
+      "price": 4.95
+    },
+    {
+      "title": "Blue Razz Cherry",
+      "sku": "1148271",
+      "price": 4.95
+    },
+    {
+      "title": "Blue Razz Ice",
+      "sku": "1138913",
+      "price": 4.95
+    },
+    {
+      "title": "Blue Razz Lemonade",
+      "sku": "1154387",
+      "price": 4.95
+    },
+    {
+      "title": "Cherry Ice",
+      "sku": "1138899",
+      "price": 4.95
+    },
+    {
+      "title": "Cherry Peach Lemonade",
+      "sku": "1148273",
+      "price": 4.95
+    },
+    {
+      "title": "Cola",
+      "sku": "1148269",
+      "price": 4.95
+    },
+    {
+      "title": "Double Apple",
+      "sku": "1138900",
+      "price": 4.95
+    },
+    {
+      "title": "Fizzy Pineapple",
+      "sku": "1154384",
+      "price": 4.95
+    },
+    {
+      "title": "Grape",
+      "sku": "1138901",
+      "price": 4.95
+    },
+    {
+      "title": "Guava Ice",
+      "sku": "1148279",
+      "price": 4.95
+    },
+    {
+      "title": "Kiwi Passionfruit Guava",
+      "sku": "1148270",
+      "price": 4.95
+    },
+    {
+      "title": "Lemon & Lime",
+      "sku": "1138902",
+      "price": 4.95
+    },
+    {
+      "title": "Mad Blue",
+      "sku": "1148276",
+      "price": 4.95
+    },
+    {
+      "title": "Menthol",
+      "sku": "1138903",
+      "price": 4.95
+    },
+    {
+      "title": "Mint Tobacco",
+      "sku": "1148268",
+      "price": 4.95
+    },
+    {
+      "title": "PandB Cloudd",
+      "sku": "1148267",
+      "price": 4.95
+    },
+    {
+      "title": "Peach Ice",
+      "sku": "1138904",
+      "price": 4.95
+    },
+    {
+      "title": "Pineapple Ice",
+      "sku": "1138905",
+      "price": 4.95
+    },
+    {
+      "title": "Pink Lemonade",
+      "sku": "1138906",
+      "price": 4.95
+    },
+    {
+      "title": "Red Apple Ice",
+      "sku": "1148272",
+      "price": 4.95
+    },
+    {
+      "title": "Sakura Grape",
+      "sku": "1148275",
+      "price": 4.95
+    },
+    {
+      "title": "Strawberry Ice",
+      "sku": "1138908",
+      "price": 4.95
+    },
+    {
+      "title": "Strawberry Kiwi",
+      "sku": "1138915",
+      "price": 4.95
+    },
+    {
+      "title": "Strawberry Raspberry Cherry",
+      "sku": "1154386",
+      "price": 4.95
+    },
+    {
+      "title": "Triple Berry Ice",
+      "sku": "1148277",
+      "price": 4.95
+    },
+    {
+      "title": "Triple Mango",
+      "sku": "1138910",
+      "price": 4.95
+    },
+    {
+      "title": "Triple Melon",
+      "sku": "1138914",
+      "price": 4.95
+    },
+    {
+      "title": "Watermelon Ice",
+      "sku": "1138912",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Blueberry.jpg?v=1739890257",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Blueberry-Sour-Raspberry.jpg?v=1745410960",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Cherry-Ice.jpg?v=1745410960",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Double-Apple.jpg?v=1745410960",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Grape.jpg?v=1745410960",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Lemon-Lime.jpg?v=1745410960",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Menthol.jpg?v=1745410960",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Peach-Ice.jpg?v=1745410960",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__009.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Pineapple-Ice.jpg?v=1745410960",
+      "position": 9,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__010.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Pink-Lemonade.jpg?v=1745410960",
+      "position": 10,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__011.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Strawberry-Ice.jpg?v=1745410960",
+      "position": 11,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__012.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Triple-Mango.jpg?v=1745410960",
+      "position": 12,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__013.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Watermelon-Ice.jpg?v=1745410960",
+      "position": 13,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__014.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Blue-Razz-Ice.jpg?v=1745410960",
+      "position": 14,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__015.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Triple-Melon.jpg?v=1745410960",
+      "position": 15,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__016.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-pod-kit-_-Pods-Strawberry-Kiwi.jpg?v=1745410960",
+      "position": 16,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__017.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-bm600-pod-kit-flavours_1.webp?v=1745416793",
+      "position": 17,
+      "width": 1500,
+      "height": 1500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__018.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sakura-Grape-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760365933",
+      "position": 18,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__019.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mad-Blue-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760366052",
+      "position": 19,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__020.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Kiwi-Passion-Fruit-Guava-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760366093",
+      "position": 20,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__021.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Peach-Lemonade-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760366144",
+      "position": 21,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__022.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/P_B-Cloudd-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760442616",
+      "position": 22,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__023.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cola-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760444347",
+      "position": 23,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__024.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Cherry-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760444394",
+      "position": 24,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__025.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Apple-Ice-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760444447",
+      "position": 25,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__026.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blackcurrant-Apple-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760445001",
+      "position": 26,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__027.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Triple-Berry-Ice-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760445326",
+      "position": 27,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__028.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Marybull-Ice-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760447401",
+      "position": 28,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__029.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Guava-Ice-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760447501",
+      "position": 29,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__030.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blackberry-Ice-Lost-Mary-BM600-Prefilled-Kits.jpg?v=1760447576",
+      "position": 30,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__031.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mint-Tobacco-Lost-Mary-BM600-Prefilled-Pod-Ki.jpg?v=1760692361",
+      "position": 31,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__032.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/P_B-Cloudd-Lost-Mary-BM600-Prefilled-Kits_cf90ad5d-67f2-4e8d-bfd1-bd641eee0113.jpg?v=1760692599",
+      "position": 32,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__033.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/img-coming-soon-800x800.webp?v=1735828350",
+      "position": 33,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__034.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lm-bm600-kit-blue-razz.webp?v=1790931745",
+      "position": 34,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__035.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lm-bm600-kit-lm-bm600-kit-fizzy-pineapple.webp?v=1790931771",
+      "position": 35,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-bm600-prefilled-pod-vape-kit__036.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lm-bm600-kit-strawberry-raspberry-cherry.webp?v=1790931793",
+      "position": 36,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.439Z"
+}

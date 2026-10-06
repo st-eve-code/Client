@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639672742212",
+  "slug": "pinkman-koncept-vampire-vape-koncept-shortfill-eliquid-100ml",
+  "title": "Vampire Vape Koncept Pinkman 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pinkman-koncept-vampire-vape-koncept-shortfill-eliquid-100ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman is an iconic profile within the vaping world, renowned for its vibrant and multi-layered fruit composition. This Koncept Shortfill edition brings the legendary recipe to high-performance setups, anchored by a deep foundation of sweet Red Berries. On the inhale, the juicy notes of Strawberry and Raspberry provide a naturally sweet and consistent fruit base. The profile is elevated by the signature hints of zesty Citrus and Tropical Fruit that have made Pinkman a global favourite. These subtle, tangy undertones balance the sweetness of the berries to ensure the flavour remains refreshing and complex. It is a well-rounded fruit blend that avoids becoming overly sugary, making it a reliable choice for an all-day sub-ohm vape. Part of the Vampire Vape Koncept range, this 100ml e-liquid is formulated with a 70VG/30PG ratio. This higher vegetable glycerin content is specifically designed for use with high-powered sub-ohm kits and tanks using low-resistance coils, producing dense vapour and a smooth throat hit. The e-liquid is supplied in a 120ml bottle, leaving 20ml of space for you to add nicotine shots and customise the strength to your preference. For example, adding two 10ml, 18mg nicotine shots will create 120ml of 3mg e-liquid. This format offers a more sustainable and cost-effective way to enjoy Vampire Vape’s most famous creations in a high-capacity, high-performance format.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Vampire Vape Koncept"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1116503",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pinkman-koncept-vampire-vape-koncept-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-koncept-100ml-pinkman_1.jpg?v=1729047145",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.337Z"
+}

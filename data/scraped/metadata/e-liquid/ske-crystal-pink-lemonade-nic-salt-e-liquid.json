@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912735044",
+  "slug": "ske-crystal-pink-lemonade-nic-salt-e-liquid",
+  "title": "SKE Crystal Pink Lemonade Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-pink-lemonade-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pink Lemonade flavour from SKE Crystal Nic Salts e-liquid combines the refreshing zest of lemonade with the sweet, juicy undertones of red summer berries, creating a vibrant and flavoursome vaping experience. This delightful blend is perfect for those who enjoy a citrusy, fruity profile with a touch of berry sweetness. Part of SKE’s premium Nic Salts range, this e-liquid delivers a smoother throat hit thanks to its nicotine salt formulation, making it an excellent choice for vapers seeking a gentle yet effective nicotine delivery. The 50VG/50PG mix is optimized for mouth-to-lung vaping, providing a perfect balance between flavour intensity and cloud production. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pink Lemonade",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132493",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132520",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-pink-lemonade-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-pink-lemonade_1_1.jpg?v=1729060767",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-pink-lemonade-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-pink-lemonade.jpg?v=1729060767",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-pink-lemonade-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-pink-lemonade_1.jpg?v=1729060767",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.376Z"
+}

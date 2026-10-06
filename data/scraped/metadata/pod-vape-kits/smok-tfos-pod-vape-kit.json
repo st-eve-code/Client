@@ -1,0 +1,107 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15620870373757",
+  "slug": "smok-tfos-pod-vape-kit",
+  "title": "SMOK TFOS Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/smok-tfos-pod-vape-kit",
+  "brand": "SMOK",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 13.95,
+    "max": 13.95,
+    "currency": "GBP"
+  },
+  "description": "The SMOK TFOS is a straightforward pod vape kit designed for day-to-day reliability and an easy setup. A built-in 1700mAh battery powers two simple output modes: choose Normal for steady, efficient performance or switch to Boost for a stronger draw. Operation is inhale-activated, so there are no firing buttons to press, and the large 1.86” screen keeps your battery level and vaping data easy to read at a glance. Airflow is adjustable via a small slider, letting you set a tighter MTL (mouth-to-lung) pull or open it for a looser RDL (restricted direct-to-lung) inhale. The refillable TFOS pod holds up to 2ml of e-liquid and uses a side-fill port to keep top-ups clean. An integrated 0.8ohm mesh coil is designed to deliver consistent flavour with 50/50 freebase or nicotine salt e-liquids. Finished in a compact, pocket-friendly chassis, the TFOS is available in Blue, Pink, Red, Black and Silver. Explore our vape juice uk and discover a delicious companion for this kit. We recommend pairing this kit with 50/50 (Freebase) or Nic Salts E-Liquid Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1148306",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Blue",
+        "Red",
+        "Black",
+        "Silver",
+        "Pink"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue",
+      "sku": "1148299",
+      "price": 13.95
+    },
+    {
+      "title": "Red",
+      "sku": "1148301",
+      "price": 13.95
+    },
+    {
+      "title": "Black",
+      "sku": "1148302",
+      "price": 13.95
+    },
+    {
+      "title": "Silver",
+      "sku": "1148303",
+      "price": 13.95
+    },
+    {
+      "title": "Pink",
+      "sku": "1148300",
+      "price": 13.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-tfos-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Smok-TFOS-Pod-Kit-blue.jpg?v=1761045899",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfos-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SMOK-TFOS-Pod-Kit-pink.jpg?v=1761045949",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfos-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SMOK-TFOS-Pod-Kit-red.jpg?v=1761046038",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfos-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Smok-TFOS-Pod-Kit-black.jpg?v=1761046082",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-tfos-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Smok-TFOS-Pod-Kit-silver.jpg?v=1761046104",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.482Z"
+}

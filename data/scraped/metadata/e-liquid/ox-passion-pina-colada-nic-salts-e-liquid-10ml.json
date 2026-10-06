@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15152833331581",
+  "slug": "ox-passion-pina-colada-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Pina Colada Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-pina-colada-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Pina Colada brings the tropical taste of Pineapple and Coconut together in a smooth, cocktail-inspired vape. The Pineapple delivers a juicy, tangy brightness, while the Coconut adds a creamy, mellow undertone for a rounded flavour that’s both refreshing and indulgent. It’s an ideal choice for vapers who enjoy fruity blends with a hint of exotic sweetness. This nic salt e-liquid is blended at a 50VG/50PG ratio and designed for mouth-to-lung (MTL) vaping, offering a tactile yet smooth throat hit with fast-acting nicotine satisfaction. Best paired with pod kits, refillable vape pens, and compact starter devices. Available in both 10mg and 20mg nicotine strengths, OX Passion Nic Salts offer bold, layered flavour profiles with a consistently smooth finish. Developed by Oxva, a trusted name in vaping hardware, these e-liquids are expertly crafted to pair seamlessly with Oxva XLIM pod kits and other refillable MTL vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140077",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140087",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-pina-colada-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-oxpassion-Pina-Colada-10ml-nic-salt.jpg?v=1744628484",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.427Z"
+}

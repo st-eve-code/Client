@@ -1,0 +1,122 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639521419588",
+  "slug": "horizontech-sakerz-tank",
+  "title": "HorizonTech Sakerz Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/horizontech-sakerz-tank",
+  "brand": "HorizonTech",
+  "productType": "Tanks",
+  "price": {
+    "min": 27.99,
+    "max": 27.99,
+    "currency": "GBP"
+  },
+  "description": "The HorizonTech Sakerz Tank is an incredibly well-designed sub-ohm vape tank built for maximum flavour and ultimate performance. An evolution of HorizonTech’s bestselling Falcon 2 and Falcon King sub-ohm tanks, the Sakerz features an adjustable top to bottom airflow which, when paired with the sub-ohm mesh coils, delivers amazing flavour and gets the absolute best out of your favourite e-liquids. The Sakerz tank is compatible with the Sakerz Mesh Coils which can be easily and quickly replaced by removing the coil without any risk of losing any e-liquid already in the tank. The HorizonTech Sakerz tank is a big, bold and highly durable tank with a 510 connector that lets you sit the tank upon most sub-ohm mods.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Carbon Black",
+        "Stainless Steel",
+        "Gun Metal Grey",
+        "Purplish Red",
+        "Blue",
+        "Rainbow"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Carbon Black",
+      "sku": "HZ-TA-SK-RZ-CB",
+      "price": 27.99
+    },
+    {
+      "title": "Stainless Steel",
+      "sku": "HZ-TA-SK-RZ-SS",
+      "price": 27.99
+    },
+    {
+      "title": "Gun Metal Grey",
+      "sku": "HZ-TA-SK-RZ-GM",
+      "price": 27.99
+    },
+    {
+      "title": "Purplish Red",
+      "sku": "HZ-TA-SK-RZ-PR",
+      "price": 27.99
+    },
+    {
+      "title": "Blue",
+      "sku": "HZ-TA-SK-RZ-BL",
+      "price": 27.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "HZ-TA-SK-RZ-RBW",
+      "price": 27.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__horizontech-sakerz-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sakerz-purplish.jpg?v=1729041353",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-sakerz-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sakerz-black_1.jpg?v=1729041353",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-sakerz-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sakerz-silver_1.jpg?v=1729041353",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-sakerz-tank__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sakerz-gunmetals_1.jpg?v=1729041353",
+      "position": 4,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-sakerz-tank__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sakerz-purplish_1.jpg?v=1729041353",
+      "position": 5,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-sakerz-tank__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sakerz-blue_1.jpg?v=1729041353",
+      "position": 6,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-sakerz-tank__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sakerz-rainbow_1.jpg?v=1729041353",
+      "position": 7,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

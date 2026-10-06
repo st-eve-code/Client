@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639685128516",
+  "slug": "deluxe-passionfruit-rhubarb-riotsquad-black-edition-shortfill-multipack-50ml",
+  "title": "Riot Squad BLCK EDTN Deluxe Passionfruit & Rhubarb 50ml Shortfill E-Liquid 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/deluxe-passionfruit-rhubarb-riotsquad-black-edition-shortfill-multipack-50ml",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "This Pack Contains x2 50ml Shortfills Deluxe Passionfruit & Rhubarb from Riot Squad’s premium Black Edition shortfill range is a rich, fruity and dreamy fruit blend of deeply sweet passionfruit and bold, tangy rhubarb for a truly deluxe vape experience. This pack contains two 50ml nicotine-free shortfill bottles and both bottles come with 10ml of free space for the addition of a nicotine shot to tailor your vape to your exact liking. Their 70VG/30PG ratio makes them ideal for high-powered sub-ohm tanks and mods.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Riot BLCK EDTN"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1118094",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__deluxe-passionfruit-rhubarb-riotsquad-black-edition-shortfill-multipack-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/blk-edtn-50ml-and-10ml_group-dpr.jpg?v=1729047577",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.613Z"
+}

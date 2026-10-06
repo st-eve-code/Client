@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003664679293",
+  "slug": "ruthless-berry-drank-shortfill-100ml-e-liquid",
+  "title": "Ruthless Berry Drank Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-berry-drank-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Berry Drank by Ruthless takes the essence of classic berry sodas and transforms it into a bold and satisfying vape. A medley of dark and juicy berries—including Blueberry, Blackcurrant, and Boysenberry—creates a deep, layered fruit flavour with a rich sweetness. The addition of a fizzy soda base adds a refreshing, sparkling quality that lifts the darker berry notes, resulting in a perfectly balanced vape that’s smooth, fruity, and refreshing. One of many incredible flavours found in the celebrated Ruthless Shortfill collection, Berry Drank features a 70VG/30PG ratio for dense vapour production and a smooth, well-rounded inhale. Designed for Sub-Ohm vape kits and advanced DTL (direct-to-lung) devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, allowing for a customisable nicotine strength. For over a decade, Ruthless has been a leader in the e-liquid industry, crafting bold and innovative flavour profiles that have influenced countless others. Their dedication to premium ingredients and expert blending ensures a high-quality vaping experience with every bottle.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138925",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-berry-drank-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ruthless-100ml-shortfill-BERRY-DRANK.jpg?v=1739207657",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.516Z"
+}

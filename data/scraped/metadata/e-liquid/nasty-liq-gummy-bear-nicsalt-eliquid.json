@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639843365188",
+  "slug": "nasty-liq-gummy-bear-nicsalt-eliquid",
+  "title": "Nasty Liq Gummy Bear 10ml Nic Salt E-Liquid By Nasty Juice",
+  "url": "https://www.vapestore.co.uk/products/nasty-liq-gummy-bear-nicsalt-eliquid",
+  "brand": "Nasty Liq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Return to the sweetshop with Nasty Liq's Gummy Bear, an e-liquid that masterfully captures the beloved chewy treats of yesteryear. Upon inhaling, you're immediately met with the luscious sweetness of ripe pineapple—a sunshine-soaked flavour that conjures images of tropical bliss. This bright pineapple note is quickly enveloped by a vibrant mix of berries, delivering a tart counterbalance that echoes the multifaceted taste of those delectable gummy candies. The interplay of pineapple and berry flavours is not just delicious; it's reminiscent of the joy and simplicity of childhood yet refined enough to appeal to your grown-up palate. Each inhale is like delving into a bag of your favourite candies, without the stickiness on your fingers, but with all the flavour in your mouth. The magic of this e-liquid doesn't end with its flavour. Its 50VG/50PG blend promises a vape that's as smooth as it is satisfying, with the perfect amount of cloud production to complement the rich, full-bodied taste. The nic salt formulation adds to the experience, ensuring every draw is as smooth on the throat as it is exciting for the tastebuds. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. If you enjoy this flavour, there are plenty more delicious Nasty Liq flavours to try. Nasty Juice have fine-tuned their vape juices for optimised performance with the vast majority of MTL (mouth-to-lung) devices. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and many are also available in Nasty Juice’s super-convenient Nasty Bar disposable vape bars.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127945",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127963",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-liq-gummy-bear-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-gummy-bear-10ml-nic-salt-eliquid_1_1.jpg?v=1729056080",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-gummy-bear-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-gummy-bear-10ml-nic-salt-eliquid.jpg?v=1729056080",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-gummy-bear-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-gummy-bear-10ml-nic-salt-eliquid_1.jpg?v=1729056080",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.583Z"
+}

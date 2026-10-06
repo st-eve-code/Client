@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15278980792701",
+  "slug": "vampire-vape-tropical-pineapple-dream-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape Tropical Pineapple Dream E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-pineapple-dream-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Dream 50ml Shortfill from Vampire Vape’s Tropical collection delivers a softly sweet tropical blend of Pawpaw and Pineapple for sub-ohm vaping. Pawpaw adds a custard-like body with a mix of Banana, Mango and Melon flavour notes, while Pineapple adds lift with its sweet-tart freshness. The two combine into a velvety tropical flavour with enough contrast to keep it bright and engaging. Blended at 70VG/30PG, this shortfill is ideal for DTL (direct-to-lung) vaping with sub-ohm devices. Add a 10ml nicotine shot to tailor the strength to your preference. Vampire Vape e-liquids are made in the UK and trusted by vapers for their quality and flavour consistency. The Tropical range adds new fruit combinations to their award-winning lineup. Also available in Nic Salt, Freebase and Concentrate formats.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Pineapple",
+    "VV Tropical"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141167",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-pineapple-dream-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-Tropical-Collection-Pineapple-Dream-50ml-Shortfills.jpg?v=1749542253",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.529Z"
+}

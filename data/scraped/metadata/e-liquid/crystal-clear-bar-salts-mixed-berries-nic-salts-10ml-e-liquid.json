@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15272757821821",
+  "slug": "crystal-clear-bar-salts-mixed-berries-nic-salts-10ml-e-liquid",
+  "title": "Crystal Clear Bar Salts Mixed Berries Nic Salts 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/crystal-clear-bar-salts-mixed-berries-nic-salts-10ml-e-liquid",
+  "brand": "Crystal Clear",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Crystal Clear Mixed Berries Nic Salt is a juicy fruit mix with sweet and tangy notes. Combining Raspberry, Blackberry and Blueberry, it offers a well-rounded flavour for all-day vaping. Formulated at 50VG/50PG, this Nic Salt is perfect for MTL (mouth-to-lung) pod kits and vape pens. Available in 10mg and 20mg strengths for rapid nicotine absorption and a smooth throat hit. Crystal Clear Nic Salts are crafted to deliver the same great-tasting flavours that made disposable vapes so popular, now reimagined for refillable pod kits. Designed for clarity, consistency and convenience, this UK-made range focuses on fruity, icy, and confectionery-inspired blends that cater to everyday vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143703",
+      "price": 3.99
+    },
+    {
+      "title": "10mg",
+      "sku": "1142324",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "1142363",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__crystal-clear-bar-salts-mixed-berries-nic-salts-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mixed-Berries-Crystal-Clear-10ml-Nic-Salts-min.jpg?v=1748963360",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.442Z"
+}

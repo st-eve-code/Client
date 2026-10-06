@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15278888845693",
+  "slug": "vampire-vape-tropical-kiwi-cooler-10ml-freebase-e-liquid",
+  "title": "Vampire Vape Tropical Kiwi Cooler 10ml Freebase E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-kiwi-cooler-10ml-freebase-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Kiwi Cooler 50/50 Freebase E-Liquid from Vampire Vape’s Tropical collection delivers a bright citrus vape with a cool exhale, combining the sweetness of Golden Kiwi and the juicy tang of Tangelo. The Golden Kiwi note is light and tropical with a softer profile than traditional green kiwi, while Tangelo offers a sharp citrus uplift—part tangerine, part grapefruit—with a hint of floral acidity. A light cooling layer enhances the clean finish, giving the flavour extra freshness without overwhelming the fruit. Blended at 50VG/50PG, this e-liquid provides a tactile yet comfortable throat hit and is perfect for MTL (mouth-to-lung) kits, pod systems and vape pens. Vampire Vape e-liquids are developed in the UK and trusted by vapers for their reliable quality and flavour. The Tropical collection brings exotic pairings to a diverse range of vape styles. Also available in Nic Salt, Shortfill and Concentrate formats.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1141087",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1141091",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1141153",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1141156",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1141164",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-kiwi-cooler-10ml-freebase-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Kiwi_Cooler_0mg.jpg?v=1749136453",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-kiwi-cooler-10ml-freebase-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Kiwi_Cooler_3mg.jpg?v=1749136472",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-kiwi-cooler-10ml-freebase-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Kiwi_Cooler_6mg.jpg?v=1749136506",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-kiwi-cooler-10ml-freebase-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vapre_10ml_Freebase_Tropical_Collection_Kiwi_Cooler_12mg.jpg?v=1749136522",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-kiwi-cooler-10ml-freebase-e-liquid__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Freebase_Tropical_Collection_Kiwi_Cooler_18mg.jpg?v=1749136537",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.350Z"
+}

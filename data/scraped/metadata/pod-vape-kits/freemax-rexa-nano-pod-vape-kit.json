@@ -1,0 +1,128 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15363746070909",
+  "slug": "freemax-rexa-nano-pod-vape-kit",
+  "title": "Freemax Rexa Nano Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/freemax-rexa-nano-pod-vape-kit",
+  "brand": "Freemax",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Freemax Rexa Nano is an ultra-portable pod vape kit that offers impressive performance in a pocket-friendly format. With its 1000mAh battery and output up to 28W, the Rexa Nano balances power and convenience, making it ideal for mouth-to-lung (MTL) and restricted direct-lung (RDL) vaping with Nic Salt or 50/50 e-liquids . This kit includes a 0.6ohm Duomax Pod, Freemax’s premium coil platform featuring a parallel mesh structure and tea fibre cotton for improved flavour delivery and longevity. Each pod is built to last through up to 100ml of Freebase or 60ml of Nic Salt, while the slide-to-fill top cap ensures smooth, leak-resistant refills. What sets the Rexa Nano apart is its nano-coated internal design, which reduces condensation and enhances coil lifespan. Combined with adjustable airflow and a single-button interface, this kit delivers clean, consistent performance with minimal fuss — ideal for daily use or discreet on-the-go vaping. Please Note: When filling your pod with vape liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil. Please Note: This kit does Not come with a USB-C cable.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1141860",
+    "compatible-with-1141861",
+    "compatible-with-1141862",
+    "compatible-with-1141863",
+    "compatible-with-1141864",
+    "compatible-with-1141865",
+    "compatible-with-1141866",
+    "Free 1 TP Bar Salt",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Cyan",
+        "Grey",
+        "Purple",
+        "Pink",
+        "Blue",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Cyan",
+      "sku": "1141825",
+      "price": 7.99
+    },
+    {
+      "title": "Grey",
+      "sku": "1141821",
+      "price": 7.99
+    },
+    {
+      "title": "Purple",
+      "sku": "1141823",
+      "price": 7.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1141824",
+      "price": 7.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1141822",
+      "price": 7.99
+    },
+    {
+      "title": "Black",
+      "sku": "1141820",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-rexa-nano-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-nano-kit-Black-min.jpg?v=1752156997",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-nano-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-nano-kit-Gray-min.jpg?v=1752157027",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-nano-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-nano-kit-Blue-min.jpg?v=1752157050",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-nano-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-nano-kit-Purple-min.jpg?v=1752157073",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-nano-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-nano-kit-Pink-min.jpg?v=1752157154",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-nano-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-nano-kit-Cyan-min.jpg?v=1752157273",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.474Z"
+}

@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15236566253949",
+  "slug": "eleaf-istick-i75-box-mod",
+  "title": "Eleaf iStick i75 Box Mod",
+  "url": "https://www.vapestore.co.uk/products/eleaf-istick-i75-box-mod",
+  "brand": "Innokin",
+  "productType": "MODS",
+  "price": {
+    "min": 34.99,
+    "max": 34.99,
+    "currency": "GBP"
+  },
+  "description": "The Eleaf iStick i75 Mod is a powerful and compact vape device built for vapers who enjoy sub-ohm, direct-to-lung (DTL) performance in a sleek, ergonomic form. With a built-in 3000mAh battery and a 1–75W power range, the i75 is well-suited for pairing with a wide variety of sub-ohm tanks for rich flavour and dense vapour. Its smooth leatherette grip and rounded chassis ensure a comfortable feel in the hand, while the device’s intuitive layout keeps vaping simple. The crisp LED screen provides key information at a glance, and wattage can be adjusted easily using the device’s responsive up/down buttons. The iStick i75 offers both Variable Wattage Mode for manual control and Smart Mode, which automatically detects your coil resistance and sets the ideal wattage. This makes it easy to find the right performance level, whether you’re using the EN Air tank or any compatible sub-ohm tank via the standard 510 connection. When it’s time to recharge, USB-C fast charging ensures you’re back up and running quickly. Whether you’re upgrading from a smaller device or looking for a solid daily mod, the Eleaf iStick i75 delivers dependable power in a compact, stylish frame.",
+  "tags": [
+    "Box Mods",
+    "DTL/RDL/MTL",
+    "Kit-VS-Export",
+    "Mod-VS"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Blue",
+        "Red"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1142091",
+      "price": 34.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1142092",
+      "price": 34.99
+    },
+    {
+      "title": "Red",
+      "sku": "1142093",
+      "price": 34.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__eleaf-istick-i75-box-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-istick-i75-battery-mod-black.jpg?v=1747749653",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-istick-i75-box-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-istick-i75-battery-mod-blue.jpg?v=1747749656",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-istick-i75-box-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-istick-i75-battery-mod-red.jpg?v=1747749660",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.105Z"
+}

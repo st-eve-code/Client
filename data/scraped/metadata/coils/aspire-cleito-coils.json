@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639274217796",
+  "slug": "aspire-cleito-coils",
+  "title": "Aspire Cleito Vape Coils",
+  "url": "https://www.vapestore.co.uk/products/aspire-cleito-coils",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Designed for Aspire's Cleitotank, Cleito vape coils are made for maximum flavour and vapour.",
+  "tags": [
+    "Delisted",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "689924",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-cleito-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1461771268_5138.jpg?v=1729032459",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cleito-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1461771268_5138_49799342-85db-4315-8009-01a90aeb655d.jpg?v=1729032459",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cleito-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1461771324_9848.jpg?v=1729032459",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cleito-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1461771347_9788.jpg?v=1729032459",
+      "position": 4,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.871Z"
+}

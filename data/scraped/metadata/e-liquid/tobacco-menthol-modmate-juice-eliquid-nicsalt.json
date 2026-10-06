@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639742079300",
+  "slug": "tobacco-menthol-modmate-juice-eliquid-nicsalt",
+  "title": "Nasty Juice Podmate Menthol Tobacco 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/tobacco-menthol-modmate-juice-eliquid-nicsalt",
+  "brand": "Nasty Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Menthol Tobacco by Pod Mate from Nasty Juice is a classic Virginia tobacco blend with rich, earthy, smoky notes complemented by a delicate layer of breezy menthol. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. E-liquids formulated with nicotine salts are unique among vape products. Unlike traditional freebase e-liquids, nicotine salts alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than higher-strength freebase liquids. With nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. If you enjoy this flavour, there are plenty more delicious Nasty Juice Pod Mate flavours to try. Pod Mate are specially formulated freebase e-liquids that Nasty Juice have fine-tuned for optimised performance with all leading vape mod devices, as part of their ENDS collection. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and are also available in 50ml shortfills for use with high-powered mods and pod kits. Make your mod your mate, with Mod Mate from Nasty Juice E-liquids. The ideal companion for any vape refillable or vape starter kit setup.",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nasty Juice Podmate",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1118825",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1118839",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tobacco-menthol-modmate-juice-eliquid-nicsalt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-podmate-menthol-tobacco-10ml-eliquid_1_1.jpg?v=1729049058",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__tobacco-menthol-modmate-juice-eliquid-nicsalt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-podmate-menthol-tobacco-10ml-eliquid.jpg?v=1729049058",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__tobacco-menthol-modmate-juice-eliquid-nicsalt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-podmate-menthol-tobacco-10ml-eliquid_1.jpg?v=1729049058",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.611Z"
+}

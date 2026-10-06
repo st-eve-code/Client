@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639993180484",
+  "slug": "bar-series-lemon-lime-blueberry-sour-razz-nic-salt-eliquid",
+  "title": "Bar Series Blends Lemon Lime x Blueberry Sour Razz 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-series-lemon-lime-blueberry-sour-razz-nic-salt-eliquid",
+  "brand": "Bar Series",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon Lime & Blueberry Sour Razz from the Bar Series Blends collection offers a vibrant fusion of zesty lemon and lime with the tangy taste of blueberry and sour raspberry. This e-liquid delivers a complex and refreshing vape experience that perfectly balances citrusy and fruity notes. Bar Series Blends Nic Salts capture the intense, concentrated flavours of disposables in a more convenient and versatile alternative to single-use vapes that’s better for your wallet and the environment. Just one 10ml Bar Series bottle offers five times the vaping enjoyment of a traditional 2ml disposable vape bar and can be used in a vast array of vape devices. Bar Series are a collection of nic salt and shortfill e-liquids that capture the intense, concentrated flavours of disposables but in a more convenient and versatile alternative to single-use vapes that’s better for your wallet and the environment. Just one 10ml Bar Series bottle offers five times the vaping as a traditional 2ml disposable vape bar and can be used in a vast array of vape devices. Bar Series Nic Salts are formulated with a 50VG/50PG ratio, making them ideal for mouth-to-lung (MTL) starter vape kits and pod devices. Available in 5mg, 10mg, and 20mg nicotine strengths in a Nicotine Salt formulation, these e-liquids offer a smooth throat hit and quick nicotine delivery, perfect for adult smokers and vapers looking for fast and effective nicotine relief. Choose from over 40 captivating flavours in the Bar Series collection, from classic dessert to juicy fruits, frosty menthols, bubbly beverages, timeless tobaccos and many more!",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1133743",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1133790",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1133839",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-series-lemon-lime-blueberry-sour-razz-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-blends-blue-sour-razz-x-lemon-lime-eliquid_1_1_1.jpg?v=1729063896",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-series-lemon-lime-blueberry-sour-razz-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-blends-blue-sour-razz-x-lemon-lime-eliquid.jpg?v=1729063896",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-series-lemon-lime-blueberry-sour-razz-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-blends-blue-sour-razz-x-lemon-lime-eliquid_1.jpg?v=1729063896",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-series-lemon-lime-blueberry-sour-razz-nic-salt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-blends-blue-sour-razz-x-lemon-lime-eliquid_1_1.jpg?v=1729063896",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.466Z"
+}

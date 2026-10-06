@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15272106099069",
+  "slug": "bar-juice-5000-blueberry-watermelon-10ml-nic-salt-e-liquid",
+  "title": "Bar Juice 5000 Blueberry Watermelon 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-juice-5000-blueberry-watermelon-10ml-nic-salt-e-liquid",
+  "brand": "Bar Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Bar Juice 5000 Blueberry Watermelon Nic Salt blends two summertime favourites for a fresh, deeply fruity vape with plenty of character. You’ll get the sweetness of plump, ripe Blueberries, offset by the delicate, fresh flavour of juicy Watermelon. It’s a simple pairing that works beautifully, striking a satisfying balance between rich and refreshing. The 50VG/50PG formulation delivers both clear flavour and subtle vapour production, making it ideal for MTL (mouth-to-lung) vaping with pod kits, vape pens and classic e-cigarette setups. The nicotine salt formula provides rapid nicotine delivery with a tactile yet comfortable throat hit, helping relieve cravings more efficiently than standard freebase e-liquids. Bar Juice 5000 Nic Salts are inspired by the UK’s most popular disposable vape flavours but designed for refillable pod systems—offering the same great taste with far less waste. Available in 5mg, 10mg and 20mg strengths to suit your preference.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1142408",
+      "price": 3.49
+    },
+    {
+      "title": "10mg",
+      "sku": "1142414",
+      "price": 3.49
+    },
+    {
+      "title": "20mg",
+      "sku": "1142420",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-juice-5000-blueberry-watermelon-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Watermelon-5mg-Bar-Juice-Nic-Salt-E-liquid-3.jpg?v=1748941576",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-juice-5000-blueberry-watermelon-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Watermelon-10mg-Bar-Juice-Nic-Salt-E-liquid-3.jpg?v=1748941620",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-juice-5000-blueberry-watermelon-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Watermelon-20mg-Bar-Juice-Nic-Salt-E-liquid-3.jpg?v=1748941647",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.388Z"
+}

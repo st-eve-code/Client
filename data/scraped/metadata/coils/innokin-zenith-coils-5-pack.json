@@ -1,0 +1,123 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639364231492",
+  "slug": "innokin-zenith-coils-5-pack",
+  "title": "Innokin Zenith Coils 5 x Pack",
+  "url": "https://www.vapestore.co.uk/products/innokin-zenith-coils-5-pack",
+  "brand": "Innokin",
+  "productType": "Coils",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "These genuine replacement coils from Innokin are designed for use with the Zenith, Zlide tanks, Coolfire Z50 and Gozee Vape Kits, these coils are ideally paired with high-VG sub ohm e-liquids, high-PG or 50:50 e-liquids. These coils are perfect for direct-lung vaping or mouth to lung vaping. Innokin Coil 0.48Ohm PLEX3D- Best 12 to 16W Recommend Using High VG E-Liquid (sub Ohm) Innokin Zenith Coil 0.8Ohm KANTHAL - Best 14 to 17W Recommend Using High PG & 50/50 E-Liquid Innokin Zenith Coil 1.2Ohm KANTHAL - Best 10 to 14W Recommend Using High PG & 50/50 E-Liquid Innokin Zenith Coil 1.6Ohm KANTHAL - Best 9 - 12W Recommend Using High PG & 50/50 E-Liquid Innokin Zenith Coil 1.0Ohm KANTHAL - Best 20 - 25W Recommend Using High PG & 50/50 E-Liquid Innokin Zenith Coil 0.3Ohm MESH- Best 30 - 40W Recommend Using High VG E-Liquid (sub Ohm) (The 0.3ohm Mesh Z-Coil is not compatible with the Innokin Adept kit.) Innokin Zenith Coil 0.6Ohm DUOPRIME DUAL MESH - Best 9 to 13W Recommend Using High PG & 50/50 E-Liquid",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.3ohm",
+        "0.48ohm",
+        "0.8ohm",
+        "0.6ohm",
+        "1.6ohm",
+        "1.2ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.3ohm",
+      "sku": "1103241",
+      "price": 5.99
+    },
+    {
+      "title": "0.48ohm",
+      "sku": "IN-CO-AD-PT-KT-0.48",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1006507",
+      "price": 5.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1123562",
+      "price": 5.99
+    },
+    {
+      "title": "1.6ohm",
+      "sku": "IN-CO-AD-PT-KT-1.7",
+      "price": 5.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1103902",
+      "price": 5.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1009145",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-zenith-coils-5-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-coils---5pk.jpg?v=1729036551",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zenith-coils-5-pack__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-coils---5pk_1.jpg?v=1729036551",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zenith-coils-5-pack__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-coils---5pk_5.jpg?v=1729036551",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zenith-coils-5-pack__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-coils---5pk_4.jpg?v=1729036551",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zenith-coils-5-pack__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-coils---5pk_3.jpg?v=1729036551",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zenith-coils-5-pack__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-zenith-coils---5pk_2.jpg?v=1729036551",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.867Z"
+}

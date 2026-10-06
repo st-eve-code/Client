@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763325059453",
+  "slug": "bar-drop-pineapple-ice-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Pineapple Ice 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-pineapple-ice-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Pineapple Ice by Drop offers a burst of tropical sunshine with a cool finish. It captures the authentic, tangy-sweet taste of fresh pineapple, delivering a punchy fruit inhale. A layer of crushed ice on the exhale refreshes the palate, making it an ideal choice for vapers who enjoy a vibrant, cooling fruit profile. Distinct from typical bar salts, this e-liquid features a 40% VG / 60% PG ratio. This composition prioritises flavour clarity, ensuring the sharp pineapple notes are vivid and distinct. Ideally suited for low-wattage MTL (Mouth-to-Lung) vape kits, the nicotine salt formulation provides a smooth draw and quick satisfaction, available in 5mg, 10mg, and 20mg strengths. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152626",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152657",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152704",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-pineapple-ice-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pineapple-ice-Bar-Drop-10ml-Nic-salts.jpg?v=1768222736",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.492Z"
+}

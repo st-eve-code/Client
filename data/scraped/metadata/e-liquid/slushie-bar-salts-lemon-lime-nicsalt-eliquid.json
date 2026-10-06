@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639968440644",
+  "slug": "slushie-bar-salts-lemon-lime-nicsalt-eliquid",
+  "title": "Slushie Bar Salts Lemon Lime 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-salts-lemon-lime-nicsalt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon Lime by Slushie Bar Salts is a zesty and invigorating e-liquid that perfectly captures the essence of two classic citrus fruits. This Nic Salt blend offers a refreshing and tangy experience, reminiscent of sipping on a homemade lemon-lime drink on a warm summer’s day. From the first inhale, the sharp and tangy flavour of Lemon bursts onto your tastebuds, offering a bright and refreshing taste. This is beautifully complemented by the slightly sweeter and equally tangy notes of Lime, creating a harmonious and thirst-quenching blend. The interplay between Lemon and Lime provides a perfect balance of tartness and sweetness, making it an ideal all-day vape for those who appreciate a citrus kick. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the unique nicotine salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. If you enjoy this flavour, there are plenty more Slushie Bar Salts flavours to try. Few e-liquid makers have mastered the icy joys of slushy flavours quite like Slushie, a UK company who are behind an irresistible line of 50ml and 100ml shortfill and Nic Salts e-liquids that blend mouth-watering fruit flavours with healthy doses of icy menthol for an unparalleled slushy vaping experience. We’re also thrilled to stock Slushy Bar Salts: Nic Salt e-liquids that capture the intense flavour and satisfaction of your favourite disposable vape flavours in handy 10ml bottles for use with a wide variety of MTL (mouth-to-lung) vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127993",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1128025",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-salts-lemon-lime-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_ns_lemon_lime_1.jpg?v=1729063224",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-lemon-lime-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_lemon_lime.jpg?v=1729063224",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-lemon-lime-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_lemon_lime_1.jpg?v=1729063224",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.429Z"
+}

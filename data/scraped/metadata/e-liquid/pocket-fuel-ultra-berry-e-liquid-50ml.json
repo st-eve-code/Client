@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639384744260",
+  "slug": "pocket-fuel-ultra-berry-e-liquid-50ml",
+  "title": "Pocket Fuel Ultra Berry Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pocket-fuel-ultra-berry-e-liquid-50ml",
+  "brand": "Pocket Fuel",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "With the taste of seven delicious berries packed into one incredible e-liquid, Ultra Berry from Pocket Fuel is a symphony of fruity flavour with a rich, tangy sweetness and deliciously smooth finish that will have your taste buds drooling for more. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape to your liking. Its 80VG/20PG ratio makes it ideal for high-powered vape mods and sub-ohm tanks .",
+  "tags": [
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "PF-UB-00-SFL",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pocket-fuel-ultra-berry-e-liquid-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pocket-fuel_eliquid_shortfill_ultra_berry_1.jpg?v=1729037477",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.639Z"
+}

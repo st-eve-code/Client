@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15054566654333",
+  "slug": "the-lancashire-creamery-strawberry-milkshake-deluxe-10ml-e-liquid",
+  "title": "The Lancashire Creamery Strawberry Milkshake Deluxe 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/the-lancashire-creamery-strawberry-milkshake-deluxe-10ml-e-liquid",
+  "brand": "The Lancashire Creamery",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Lancashire Creamery’s Strawberry Milkshake Deluxe delivers the taste of a rich, creamy milkshake infused with sweet, sun-ripened Strawberries. The inhale brings the bright, juicy flavour of fresh Strawberry, followed by the smooth, velvety milkshake base that adds a luscious creaminess to the profile. This indulgent blend offers a balanced dessert vape with a satisfyingly creamy exhale. This nic salt e-liquid delivers a smooth, comfortable throat hit and rapid nicotine relief, making it ideal for MTL (mouth-to-lung) vaping. The 50% VG / 50% PG ratio ensures a consistent flavour profile with discreet vapour production, perfect for pod systems, vape pens, and starter kits. Available in 5mg, 10mg, and 20mg nicotine strengths, this 10ml e-liquid provides an option for vapers looking for a lower, moderate, or higher nicotine intake. The Lancashire Creamery is a UK-based brand known for crafting indulgent, dessert-inspired e-liquids, blending classic milkshake and bakery flavours to create deeply satisfying vape experiences.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1139478",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1139481",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139484",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-lancashire-creamery-strawberry-milkshake-deluxe-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-lancashire-creamery-strawberry-milkshake-deluxe-10ml-nicotine-salts.jpg?v=1741260412",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.549Z"
+}

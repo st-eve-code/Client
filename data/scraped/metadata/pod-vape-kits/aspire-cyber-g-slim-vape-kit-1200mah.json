@@ -1,0 +1,186 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "9640044036420",
+  "slug": "aspire-cyber-g-slim-vape-kit-1200mah",
+  "title": "Aspire Cyber G Slim Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/aspire-cyber-g-slim-vape-kit-1200mah",
+  "brand": "Aspire",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Cyber G Slim Vape Kit combines elegant style and outstanding performance in a sleek, compact and portable design. Available in ten stunning colours, this device is the perfect companion for adult vapers looking for a stylish and convenient vaping solution that seamlessly fits into their lifestyle. The Cyber G Slim features an upgraded 1200mAh battery, providing ample power for any vaper who values extended vaping sessions, and can be easily and rapidly recharged via USB-C. Powered by the Aspire ASP Chipset, the device offers super-fast fire up times and Multiple Safety Protections including Low Wattage, Over Time, Short Circuit and Overcharge protections. Designed for versatility and easy on-the-go refills, the Cyber G Slim is compatible with the TG Pod, making it suitable for mouth-to-lung (0.8ohm pod) vaping styles. Equipped with a 2ml capacity and side-fill system, the Cyber G Slim makes refilling effortless and mess-free. The pods utilise advanced mesh coil technology, delivering consistent and rich flavour with every puff. The device also supports draw-activated operation, ensuring a hassle-free, intuitive vaping experience. Its upgraded battery capacity and easy side refill system further enhance its user-friendly features, which combined with the Cyber G Slim’s sleek and colourful aesthetics makes it a great choice for vapers seeking an affordable, no-nonsense, take-anywhere vape device. Discover premium liquid vape options designed to elevate your vaping experience with this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1122534",
+    "compatible-with-1122535",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue",
+        "Galaxy Black",
+        "Grey",
+        "Black",
+        "Fern Green",
+        "Violet Red",
+        "Graphite Blue",
+        "Sakura Pink",
+        "White",
+        "Red"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue",
+      "sku": "1133908",
+      "price": 8.99
+    },
+    {
+      "title": "Galaxy Black",
+      "sku": "1133901",
+      "price": 8.99
+    },
+    {
+      "title": "Grey",
+      "sku": "1133903",
+      "price": 8.99
+    },
+    {
+      "title": "Black",
+      "sku": "1133905",
+      "price": 8.99
+    },
+    {
+      "title": "Fern Green",
+      "sku": "1133904",
+      "price": 8.99
+    },
+    {
+      "title": "Violet Red",
+      "sku": "1133906",
+      "price": 8.99
+    },
+    {
+      "title": "Graphite Blue",
+      "sku": "1133909",
+      "price": 8.99
+    },
+    {
+      "title": "Sakura Pink",
+      "sku": "1133911",
+      "price": 8.99
+    },
+    {
+      "title": "White",
+      "sku": "1133910",
+      "price": 8.99
+    },
+    {
+      "title": "Red",
+      "sku": "1133902",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-blue_1.jpg?v=1729064788",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-galaxy-black.jpg?v=1729064788",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-gray.jpg?v=1729064788",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-blue.jpg?v=1729064788",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-black.jpg?v=1729064788",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-fern-green.jpg?v=1729064788",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-violet-red.jpg?v=1729064788",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit--graphite-blue.jpg?v=1729064788",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__009.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-sakura-pink.jpg?v=1729064788",
+      "position": 9,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__010.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-white.jpg?v=1729064788",
+      "position": 10,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-slim-vape-kit-1200mah__011.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-slim-pod-kit-red.jpg?v=1729064788",
+      "position": 11,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.499Z"
+}

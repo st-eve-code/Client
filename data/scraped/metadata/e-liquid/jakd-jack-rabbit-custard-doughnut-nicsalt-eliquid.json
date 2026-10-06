@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639809286468",
+  "slug": "jakd-jack-rabbit-custard-doughnut-nicsalt-eliquid",
+  "title": "JAK'D Jack Rabbit  Custard Doughnut 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/jakd-jack-rabbit-custard-doughnut-nicsalt-eliquid",
+  "brand": "JAK'D",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Jack Rabbit Custard Doughnut from Jak’d and Jack Rabbit is a comforting blend of creamy Custard and sweet Doughnut. Experience the luscious richness of silky vanilla custard coupled with the soft sweetness of doughnut, the familiar dessert reimagined in the form of an indulgent e-liquid. It's a truly decadent treat for the taste buds. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. Nicotine salts differ from regular freebase e-liquids due to their alkaline formulation, allowing for a higher nicotine concentration. Furthermore, nicotine from Nic Salt e-liquids is absorbed into the bloodstream faster, offering almost instantaneous relief from nicotine cravings. The unique magic of Nic Salts means that you’ll enjoy a super-smooth, comfortable throat hit despite the higher nicotine concentration. Designed for vapers who like to double down on flavour, Jak'd delivers more than just the usual e-liquid. Every bottle offers a robust, amplified taste that sets it apart in the market. For those ready to elevate their vaping experience to new heights, Jak'd e-liquids are inspired by some of the best flavours from such legendary brands as Jack Rabbit, Cyber Rabbit, Okay Orange!, Japanta and Unreal and are available in long-lasting 100ml Shortfills and super-satisfying Nic Salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1125995",
+      "price": 3.49
+    },
+    {
+      "title": "10mg",
+      "sku": "1126009",
+      "price": 3.49
+    },
+    {
+      "title": "20mg",
+      "sku": "1126023",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__jakd-jack-rabbit-custard-doughnut-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jakd-jack-rabbit-custard-doughnut-10ml-nicotine-salts_1_1_1.jpg?v=1729053683",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__jakd-jack-rabbit-custard-doughnut-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jakd-jack-rabbit-custard-doughnut-10ml-nicotine-salts.jpg?v=1729053683",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__jakd-jack-rabbit-custard-doughnut-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jakd-jack-rabbit-custard-doughnut-10ml-nicotine-salts_1.jpg?v=1729053683",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__jakd-jack-rabbit-custard-doughnut-nicsalt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jakd-jack-rabbit-custard-doughnut-10ml-nicotine-salts_1_1.jpg?v=1729053683",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.471Z"
+}

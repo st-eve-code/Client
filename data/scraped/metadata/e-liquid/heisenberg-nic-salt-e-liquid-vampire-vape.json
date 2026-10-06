@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639598883140",
+  "slug": "heisenberg-nic-salt-e-liquid-vampire-vape",
+  "title": "Vampire Vape Heisenberg Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/heisenberg-nic-salt-e-liquid-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s cult classic Heisenberg is now available in a nic salt blend, making it an ideal choice for use in refillable pod systems or classic-style kits. With a medley of ripe mixed berries and a subtle undertone of cooling menthol, it’s not hard to see why this is juice considered one of the OG all day vapes! Nicotine Salts are a special form of e-liquid which allows for a higher concentration of nicotine but that delivers a super-smooth and comfortable throat hit that high-strength, regular freebase nicotine e-liquids cannot. Not only that but Nicotine Salts e-liquids work faster to deliver nicotine to your bloodstream, relieving the peskiest nicotine cravings almost instantly. That higher nicotine strength, easy throat hit, and rapid relief from cravings makes Nic Salts a fantastic choice of e-liquid for adult vapers and smokers who are used to the fast fix of cigarettes. At Vapestore we stock a wide range of Vampire Vape E-Liquid, including 50ml high VG Shortfills & nicotine salt vape juice .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020",
+    "VV Heisenberg"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "VM-NS-10-HE-10-50",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "VM-NS-10-HE-20-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__heisenberg-nic-salt-e-liquid-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire_vape_heisenberg_nic_salt_e-liquid.jpg?v=1729043693",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__heisenberg-nic-salt-e-liquid-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/heisenberg_nic_salts_20mg.jpg?v=1729043693",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__heisenberg-nic-salt-e-liquid-vampire-vape__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/heisenberg_nic_salts_20mg_1.jpg?v=1729043693",
+      "position": 3,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.347Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900058292605",
+  "slug": "brutal-drinks-frozen-mojito-100ml-shortfill-e-liquid",
+  "title": "Brutal Drinks Frozen Mojito 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/brutal-drinks-frozen-mojito-100ml-shortfill-e-liquid",
+  "brand": "Brutal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Brutal Drinks’ Frozen Mojito Shortfill e-liquid recreates the refreshing flavours of the classic Cuban cocktail with its vibrant blend of zesty Lime and fresh Mint. This frosty blend is perfect for vapers seeking invigorating, drink-inspired flavours with a cooling finish. Brutal Drinks Shortfills are crafted by Just Juice with a high-VG formula, ideal for sub-ohm vaping. Designed to produce dense vapour and bold flavour, Frozen Mojito is perfect for use with advanced vape kits. Each 100ml bottle includes space for two nicotine shots, allowing for customisable nicotine strength. Part of the Brutal Drinks collection, Frozen Mojito joins an exciting range of drink-inspired flavours, including Mango Lassi, Pina Colada, and Brutal Bull. Explore the collection for more bold and refreshing blends.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL",
+    "Just Juice Brutal Drinks"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137557",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__brutal-drinks-frozen-mojito-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Brutal-Drinks-Shortfill-FROZEN-MOJITO-min.jpg?v=1734532887",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.552Z"
+}

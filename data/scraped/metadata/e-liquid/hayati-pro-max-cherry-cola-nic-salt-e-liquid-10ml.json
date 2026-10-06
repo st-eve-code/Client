@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15105520697725",
+  "slug": "hayati-pro-max-cherry-cola-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Cherry Cola Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-cherry-cola-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Cherry Cola brings together the nostalgic taste of fizzy Cola with a generous splash of sweet Cherry. The Cola flavour captures that classic, slightly spiced soda character, while the Cherry note adds fruity warmth and depth, softening the sharper edges for a smoother, more rounded vape. Made with nicotine salts, this e-liquid delivers swift nicotine satisfaction with a smoother throat hit, making it ideal for MTL (mouth-to-lung) vaping using low-powered pod kits and starter devices. The 50VG/50PG blend ensures reliable vapour production and consistent flavour from first puff to last. Based on one of Hayati’s most popular disposable vape profiles, this nic salt version is available in 10ml bottles with a choice of 10mg or 20mg strengths—offering better value and longer-lasting use.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140282",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140358",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-cherry-cola-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Cola_Hayati-Pro-Max-Nic-Salts-min.jpg?v=1743078432",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.547Z"
+}

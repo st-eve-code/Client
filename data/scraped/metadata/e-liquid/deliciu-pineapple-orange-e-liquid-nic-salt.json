@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639901954372",
+  "slug": "deliciu-pineapple-orange-e-liquid-nic-salt",
+  "title": "Deliciu Pineapple Orange 10ml Nic Salt E-Liquid By Vaporesso",
+  "url": "https://www.vapestore.co.uk/products/deliciu-pineapple-orange-e-liquid-nic-salt",
+  "brand": "Deliciu",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Pineapple Orange Nic Salt e-liquid by Deliciu brings together the bright, tropical taste of pineapple with the citrusy punch of orange. This combination offers a refreshing and vibrant vaping experience, perfectly balancing the sweetness of pineapple with the tangy flavour of orange. Ideal for those seeking a fruity vape, this e-liquid is like a sip of a refreshing tropical juice, making it a great choice for all-day vaping. This vape juice’s 50VG/50PG mix provides a smooth and flavoursome vape with ample cloud production, while the nicotine salt formulation ensures a satisfying nicotine hit with a gentle throat sensation, making it ideal for use in classic e-cigarette starter kits and pod vape devices. All Deliciu e-liquids contain less sweeteners than similar liquids which is kinder to your coil and results in a more authentic, nuanced flavour. Nicotine salts are designed for rapid absorption into the bloodstream, providing faster relief from nicotine cravings over traditional freebase e-liquids. This makes Strawberry Raspberry Cherry Ice a great choice for ex-smokers and those who appreciate an immediate nicotine satisfaction without the harshness of higher-strength e-liquids. Deliciu e-liquids are an exciting new line of vape juices developed by one of the most innovative and successful vape hardware brands in the world: Vaporesso. With their fine understanding of the way e-liquid interacts with their many celebrated vape devices, Deliciu have created an exceptional line-up of e-liquid flavours that include bold new inventions alongside many classic flavour profiles. Discover the whole Deliciu collection today at Vapestore.",
+  "tags": [
+    "DELICIU15",
+    "Delisted",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1131635",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1131610",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__deliciu-pineapple-orange-e-liquid-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/deliciu-10ml-nic-salt-eliquid-pineapple-orange_1_1.jpg?v=1729060121",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__deliciu-pineapple-orange-e-liquid-nic-salt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/deliciu-10ml-nic-salt-eliquid-pineapple-orange.jpg?v=1729060121",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__deliciu-pineapple-orange-e-liquid-nic-salt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/deliciu-10ml-nic-salt-eliquid-pineapple-orange_1.jpg?v=1729060121",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.572Z"
+}

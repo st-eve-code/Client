@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639908737348",
+  "slug": "vampire-vape-bar-salts-pink-lemonade-60-40-shortfill-eliquid-100ml",
+  "title": "Bar Salts Pink Lemonade Shortfill E-Liquid 100ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-pink-lemonade-60-40-shortfill-eliquid-100ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Experience the refreshing taste of Vampire Vape's Pink Lemonade, a classic beverage flavour that blends sharp citrus with a touch of red fruits for a delightfully tangy vape. This e-liquid combines the crisp, citrusy taste of traditional lemonade with the sweet undertones of strawberry and raspberry flavours, creating a balanced fruit drink flavour. Presented in a generous 100ml shortfill bottle, Pink Lemonade is designed with a 60VG/40PG ratio to provide an optimal balance of flavour clarity and vapour production, suitable for a wide range of MTL devices. This ratio ensures a smooth vaping experience with adequate throat hit and vapour output, particularly effective in pod systems and starter kits with coils of 0.6ohm or higher. Part of the Bar Salts collection, this range from Vampire Vape provides the same intense flavours of popular disposable vapes but in a more sustainable and cost-effective format. Each bottle offers ample room for nicotine customisation, allowing you to add 2 x 10ml nicotine shots to tailor the strength to your preference, achieving up to 120ml of 3mg e-liquid. Discover the full array of flavours in the Vampire Vape Bar Salts Shortfill collection, which includes other exciting varieties such as Kiwi Passionfruit Guava and Blue Razz Lemonade, providing a diverse choice to suit every vaper's taste preferences.",
+  "tags": [
+    "100ml shortfill",
+    "60/40 Shortfill",
+    "Bar Salts",
+    "DTL",
+    "Pink Lemonade"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130742",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-pink-lemonade-60-40-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_100ml-shortfills_pink-lemonade.jpg?v=1729060503",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.495Z"
+}

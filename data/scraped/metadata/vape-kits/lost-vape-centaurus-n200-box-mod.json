@@ -1,0 +1,91 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14901948776829",
+  "slug": "lost-vape-centaurus-n200-box-mod",
+  "title": "Lost Vape Centaurus N200 Box Mod",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-centaurus-n200-box-mod",
+  "brand": "Lost Vape",
+  "productType": "MODS",
+  "price": {
+    "min": 43.99,
+    "max": 43.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Centaurus N200 Box Mod offers unparalleled performance and style in a compact, ergonomic design. Featuring transparent matte shells inspired by nature and a robust zinc alloy frame, the N200 Mod exudes sophistication while delivering cutting-edge functionality. Powered by dual 18650 batteries (sold separately), the Centaurus N200 Mod delivers an impressive 200W max output and features the LOST VAPE Quest 2.0 chipset for precise power management. With support for Normal and DIY modes, as well as a 510 connection for compatibility with a wide range of tanks and RBA platforms, this mod is perfect for advanced vapers seeking versatility. A crisp 0.96” TFT display ensures easy monitoring of settings, while the intuitive on/off toggle switch and multifunctional button make operation seamless. Safety protections, including low battery, short-circuit, and overheat safeguards, provide peace of mind for all-day vaping. Designed to cater to your every need, the Lost Vape Centaurus N200 Box Mod combines luxury, durability, and high performance, making it a standout choice for vapers who demand the very best. Please Note: Batteries are NOT included with this kit.",
+  "tags": [
+    "Box Mods",
+    "DTL",
+    "Kit-VS-Export",
+    "Mod-VS"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Crystal Cave",
+        "Grey Rock",
+        "Desert Dusk",
+        "Night Sakura"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Crystal Cave",
+      "sku": "1137265",
+      "price": 43.99
+    },
+    {
+      "title": "Grey Rock",
+      "sku": "1137262",
+      "price": 43.99
+    },
+    {
+      "title": "Desert Dusk",
+      "sku": "1137263",
+      "price": 43.99
+    },
+    {
+      "title": "Night Sakura",
+      "sku": "1137264",
+      "price": 43.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-centaurus-n200-box-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N200-mod-crystal-cave.jpg?v=1734623028",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n200-box-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N200-mod-grey-rock.jpg?v=1734623271",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n200-box-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N200-mod-desert-dusk.jpg?v=1734623271",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n200-box-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N200-mod-night-sakura.jpg?v=1734623271",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.101Z"
+}

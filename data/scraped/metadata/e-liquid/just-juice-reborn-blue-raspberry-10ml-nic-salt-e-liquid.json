@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15978742415741",
+  "slug": "just-juice-reborn-blue-raspberry-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Reborn Blue Raspberry 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-reborn-blue-raspberry-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Just Juice Reborn Blue Raspberry 10ml Nic Salt E-Liquid provides a highly concentrated and distinctively sweet fruit experience. This reformulated blend focuses entirely on the bold, syrupy notes of rich Blue Raspberry, delivering a smooth and vibrant inhale. A light, crisp chill follows on the exhale, contrasting the vivid sweetness and providing a clean, refreshing finish that performs consistently throughout the day. Available in 5mg, 10mg, and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth throat sensation to effectively manage nicotine intake. Formulated with a specific 40VG/60PG ratio, this e-liquid provides exceptional flavour clarity and a slightly more pronounced throat hit. It is designed to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Just Juice Reborn collection brings back a selection of original e-liquid flavours, refined and updated to deliver a highly concentrated, bar-style experience. Offering exceptional quality and familiarity, this range provides a dependable option for everyday use. Beyond the vibrant sweetness of Blue Raspberry, vapers can explore other revitalised profiles such as the exotic Mango & Passion Fruit or the classic Berry Burst.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Just Juice Reborn Nic Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1158143",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1158137",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158132",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-reborn-blue-raspberry-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BLUE-RASPBERRY-REBORN-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744611",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-reborn-blue-raspberry-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/REBORN-Blue-10MG-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744614",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-reborn-blue-raspberry-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/REBORN-Blue-20MG-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744618",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.429Z"
+}

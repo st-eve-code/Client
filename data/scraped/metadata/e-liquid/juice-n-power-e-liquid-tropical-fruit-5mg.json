@@ -1,0 +1,52 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639514964292",
+  "slug": "juice-n-power-e-liquid-tropical-fruit-5mg",
+  "title": "Juice N Power Tropical Fruit Nic Salt E-Liquid 5mg",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-e-liquid-tropical-fruit-5mg",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Packed full of juicy tropical fruit flavours, let this delicious e-liquid whisk you away to sun-soaked beaches, with waves of juicy fruits blooming over your tastebuds. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "JNP-10-TF-05-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-e-liquid-tropical-fruit-5mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-tropical-fruit-nic-salt-e-liquid-5mg.jpg?v=1729041110",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.626Z"
+}

@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639603536196",
+  "slug": "heisenberg-flavour-concentrate-30ml-vampire-vape",
+  "title": "Vampire Vape Heisenberg Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/heisenberg-flavour-concentrate-30ml-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The e-liquid that put Vampire Vape on the vaping map; the legendary Heisenberg is now available as a flavour concentrate to add to any DIY e-liquid. The award-winning fruity rush of mixed berries topped off with a cool menthol breeze is a flavour that every vaper has to try. Add to VG/PG DIY e-liquid Base Mix for optimum flavour. All Vampire Vape flavour concentrates are 100% PG based. Details 100% PG Based Add to a VG/PG base e-liquid mix Made in the UK",
+  "tags": [
+    "Flavour Concentrate"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VV-30-HSB-CON",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__heisenberg-flavour-concentrate-30ml-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-concentrate-heisenberg_3.jpg?v=1729043898",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.619Z"
+}

@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639287193924",
+  "slug": "smok-v8-baby-m2-coils",
+  "title": "SMOK V8-Baby M2 Sub-ohm Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-v8-baby-m2-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Keep your device running in top working order with these replacement coils, designed for use with the Smok TFV8 Baby Beast Tanks. A pure organic cotton core ensures e-liquid wicking is consistent with delivering high-quality flavour production. Available in resistance of 0.15ohm and 0.25 ohms. At Vapestore we stock a large range of SMOK Products, including Smok E-cigarettes , Smok Tanks , Mods , Smok Coils and New Vape kits",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.25ohm",
+        "0.15ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.25ohm",
+      "sku": "1004071",
+      "price": 9.99
+    },
+    {
+      "title": "0.15ohm",
+      "sku": "1004070",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-v8-baby-m2-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/215067__smok-v8-baby-m2-atomizer-coil-head_001.jpg?v=1729033061",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-v8-baby-m2-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/215074_smok-v8-baby-m2-atmoizer-coil-head_001.jpg?v=1729033061",
+      "position": 2,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-v8-baby-m2-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/215067__smok-v8-baby-m2-atomizer-coil-head_001_1.jpg?v=1729033061",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.874Z"
+}

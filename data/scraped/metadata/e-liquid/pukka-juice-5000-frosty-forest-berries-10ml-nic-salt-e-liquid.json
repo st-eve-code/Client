@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900193558909",
+  "slug": "pukka-juice-5000-frosty-forest-berries-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Frosty Forest Berries 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-frosty-forest-berries-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Frosty Forest Berries Nic Salt e-liquid delivers a delicious mix of rich, juicy forest Berries, perfectly balanced with a cool and refreshing icy finish. The medley of berries is sweet and tart, complemented by a frosty exhale that leaves your palate refreshed. Designed with a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are ideal for Mouth-to-Lung (MTL) devices and pod systems. The e-liquid provides smooth throat hits and fast-acting nicotine relief, making it perfect for vapers seeking a fruity, cool alternative to tobacco. Available in both 10mg and 20mg nicotine strengths, Frosty Forest Berries offers a well-balanced vape for all-day enjoyment. Pukka Juice are an award-winning UK vape brand renowned for their vibrant and original e-liquid flavours. The Pukka Juice 5000+ range brings intense, disposable vape-inspired flavours to a more versatile format for use with reusable vape devices. Discover other popular flavours in the collection like Black Razz Breeze, Polar Mint, and Blueberry Strawberry Burst.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135520",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135538",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-frosty-forest-berries-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Frosty-Forest-Berries-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734538154",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.552Z"
+}

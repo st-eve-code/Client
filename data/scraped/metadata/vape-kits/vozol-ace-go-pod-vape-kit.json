@@ -1,0 +1,107 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15212589744509",
+  "slug": "vozol-ace-go-pod-vape-kit",
+  "title": "Vozol Ace Go Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/vozol-ace-go-pod-vape-kit",
+  "brand": "Vozol",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Vozol Ace Go Pod Vape Kit combines compact design with performance-focused features to deliver a premium mouth-to-lung (MTL) vaping experience. Featuring a built-in 1300mAh battery and up to 30W of adjustable power, the Ace Go is ideal for vapers who want longer battery life and customisable control in a pocket-sized format. A 0.75” HD screen displays real-time vaping stats and settings with sharp clarity, while dual activation modes allow you to vape by button press or simply by inhaling. The Ace Go also includes smart power-matching technology, automatically adjusting output based on pod resistance for consistent, reliable performance. The included 2ml Vozol pod features advanced S.i.L.C Mesh coil technology to enhance flavour delivery and vapour production. Three-level airflow adjustment makes it easy to fine-tune your draw from tighter to more open. Designed for use with nic salt or 50/50 e-liquids, the Ace Go is compatible with the same top-fill pods used by the Ace Max series, offering resistances including 0.4ohm, 0.6ohm and 0.8ohm (0.8ohm included). With colourful LED lighting, USB-C fast charging, and an intuitive interface, the Vozol Ace Go is a great choice for vapers who want style, substance, and convenience in one versatile kit. We recommend using Nic Salts or 50/50 (Freebase) E-liquids Browse our vape juice and find the perfect flavour to match this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "Free 1 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver",
+        "Gold",
+        "Blue Violet",
+        "Yellow Pink"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1139373",
+      "price": 7.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1139374",
+      "price": 7.99
+    },
+    {
+      "title": "Gold",
+      "sku": "1139375",
+      "price": 7.99
+    },
+    {
+      "title": "Blue Violet",
+      "sku": "1139376",
+      "price": 7.99
+    },
+    {
+      "title": "Yellow Pink",
+      "sku": "1139377",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vozol-ace-go-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Go-Pod-kit-BLACK.jpg?v=1746547141",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-go-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Go-Pod-kit-SILVER.jpg?v=1746547216",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-go-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Go-Pod-kit-GOLD.jpg?v=1746547274",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-go-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Go-Pod-kit-BLUE-VIOLET.jpg?v=1746547353",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-go-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Go-Pod-kit-YELLOW-PINK.jpg?v=1746547430",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.098Z"
+}

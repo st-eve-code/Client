@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14933811954045",
+  "slug": "pure-mist-spearmint-10ml-e-liquid",
+  "title": "Pure Mist Spearmint 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pure-mist-spearmint-10ml-e-liquid",
+  "brand": "Pure Mist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pure Mist Spearmint captures the cool and refreshing taste of classic Spearmint with a subtle sweetness, making it a perfect choice for vapers seeking a light and invigorating minty flavour. The Pure Mist High-PG collection offers tailored VG/PG ratios to suit different vaping preferences. The 3mg nicotine strength features a 50VG/50PG blend for balanced vapour and flavour production, while the 0mg, 6mg, 12mg, and 18mg strengths use a high-PG 30VG/70PG ratio for a more pronounced flavour profile with discreet vapour. Designed for use with Mouth-to-Lung (MTL) devices, Pure Mist Spearmint is crafted in the UK with premium ingredients to ensure consistent quality and satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "b2b",
+    "High PG E-Liquid",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1094558",
+      "price": 2.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1009222",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1094561",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1094559",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1094560",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pure-mist-spearmint-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/puremist-10ml-e-liquid-spearmint.jpg?v=1736503314",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.427Z"
+}

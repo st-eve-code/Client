@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639917158724",
+  "slug": "gold-bar-oasis-nic-salt-e-liquid",
+  "title": "Gold Bar Salts Oasis Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/gold-bar-oasis-nic-salt-e-liquid",
+  "brand": "Gold Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Gold Bar Oasis Nic Salt E-liquid encapsulates the vibrant essence of a multitude of tropical fruits, creating a rich tapestry of sunny flavour. This e-liquid combines the exotic sweetness of mango, the juicy tang of pineapple, and a hint of other tropical fruits to deliver a refreshing and full-bodied exotic fruit flavour experience. This delectable mix is part of the new collection of Gold Bar Nic Salt e-liquids , allowing you to enjoy popular Gold Bar disposable flavours in your preferred vape device. Experience Gold Bar’s most popular disposable flavours in your favourite vape device with Gold Bar Nic Salt E-liquids. With their equal parts 50VG/50PG ratio providing a perfectly balanced combination of flavour, vapour and throat hit, they are compatible with a wide variety of MTL (mouth-to-lung) vape kits. Furthermore, since Gold Bar e-liquids are formulated with nicotine salts instead of traditional freebase nicotine, they are absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. Unlike freebase e-liquids, nic salts can deliver a higher concentration of nicotine without the harshness of traditional high-strength e-liquids, which makes them a fantastic choice of vape liquid for recent ex-smokers making the switch to vapes. Choose between 10mg and 20mg strengths according to your previous tobacco consumption, and enjoy smooth, flavoursome vaping that kills cravings fast. If you love the intensity and authenticity of flavours in Gold Bar disposables, then rest assured that Gold Bar e-liquids are every bit as rich and intense as their disposable vape counterparts. Available in 10ml bottles, they offer the equivalent e-liquid of five disposables, proving more cost-effective over time than single-use vape devices. They are easy to carry with you for whenever you need to refill your device and can be easily recycled along with regular domestic plastic waste.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "Delisted",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132107",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132128",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__gold-bar-oasis-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/gold-bar-10ml-nic-salts-oasis_3.jpg?v=1729060982",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__gold-bar-oasis-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/gold-bar-10ml-nic-salts-oasis_2.jpg?v=1729060982",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__gold-bar-oasis-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/gold-bar-10ml-nic-salts-oasis.jpg?v=1729060982",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.572Z"
+}

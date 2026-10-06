@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639895695684",
+  "slug": "vampire-vape-pinkman-apple-flavour-concentrate",
+  "title": "Vampire Vape Pinkman Apple Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-pinkman-apple-flavour-concentrate",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman Apple Flavour Concentrate brings a crisp orchard twist to the legendary Pinkman profile. This concentrate layers the signature base of sweet Red Berries, dominated by Strawberry and Raspberry with subtle Citrus undertones, with the sharp, refreshing taste of Green Apple. The bright, tangy notes of the Apple cut through the sweetness of the berry mix, adding a clean, crisp finish that balances the profile perfectly. It creates a vibrant fruit blend that offers complexity without being overly sweet. Designed for DIY mixing, this 30ml bottle contains 100% PG-suspended flavour concentrate. It is not ready to vape and must be diluted with a VG/PG base mix. Vampire Vape recommends a mix ratio of 15-20% depending on your preferred flavour intensity. This high-quality UK-made concentrate is ideal for vapers looking to craft a personalised all-day vape. Please note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes. Details 100% PG Based 0mg E-liquid Add to a VG/PG base e-liquid mix Mix your own e-liquids, just the way you like Made in the UK",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Pinkman"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1127081",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-pinkman-apple-flavour-concentrate__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-apple-concentrate.jpg?v=1729059678",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.522Z"
+}

@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15493839094141",
+  "slug": "baa-juice-lemon-lime-10ml-nic-salt-e-liquid",
+  "title": "Baa Juice Lemon Lime 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-lemon-lime-10ml-nic-salt-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Lemon Lime Nic Salt delivers a sharp citrus mix that’s bright and uplifting. Tangy Lemon provides a crisp bite, while juicy Lime adds a smooth, zesty finish, creating a lively vape that’s both clean and refreshing. Part of the Baa Juice Bar Salts collection, this nicotine salt e-liquid uses double-concentrated flavour to recreate the punchy taste associated with bar-style vapes. With a 50VG/50PG ratio, it’s designed for Mouth-To-Lung (MTL) vaping, ensuring balanced flavour, discreet vapour, and a smooth throat hit. Available in 5mg, 10mg, and 20mg nicotine strengths, Baa Juice Lemon Lime Nic Salt is a citrus favourite made for refillable pod vape kits and starter vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1144537",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1144517",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1144527",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-lemon-lime-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-baa-juice-lemon-lime-10ml-nicotine-salts.jpg?v=1756380880",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.469Z"
+}

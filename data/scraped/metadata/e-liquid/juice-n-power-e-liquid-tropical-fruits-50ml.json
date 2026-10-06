@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639400997188",
+  "slug": "juice-n-power-e-liquid-tropical-fruits-50ml",
+  "title": "Juice N Power Tropical Fruits 50ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-e-liquid-tropical-fruits-50ml",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Tropical Fruits tastes like a blissful island getaway, ripe with sun-soaked flavours like mango, pineapple and passionfruit. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70VG/30PG ratio makes it ideal for high-powered pod kits , mods and sub-ohm tanks.",
+  "tags": [
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "JU-NP-50-TF-00-VG",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-e-liquid-tropical-fruits-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tropical-fruit.jpg?v=1729038197",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.637Z"
+}

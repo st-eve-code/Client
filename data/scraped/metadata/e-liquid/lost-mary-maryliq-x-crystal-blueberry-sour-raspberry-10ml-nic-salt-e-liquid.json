@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15765579301245",
+  "slug": "lost-mary-maryliq-x-crystal-blueberry-sour-raspberry-10ml-nic-salt-e-liquid",
+  "title": "Lost Mary Maryliq x Crystal Blueberry Sour Raspberry 10ml Nic Salt E-Liquid - 20mg",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-maryliq-x-crystal-blueberry-sour-raspberry-10ml-nic-salt-e-liquid",
+  "brand": "Lost Mary",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Maryliq x Crystal Blueberry Sour Raspberry by Lost Mary presents a refined take on one of the vaping world’s most iconic flavour profiles. Part of the exclusive Maryliq x Crystal series, this blend revisits the classic recipe to deliver a taste experience with superior definition and intensity. The inhale brings a wave of sweet, jammy blueberry notes, rich and ripe. This is immediately contrasted by a sharp, tangy raspberry finish on the exhale that adds a vibrant sour kick. Formulated with a balanced 50% VG / 50% PG ratio, this nic salt e-liquid offers the perfect equilibrium between flavour clarity and discreet vapour production. It is designed for seamless performance in low-powered MTL (Mouth-to-Lung) pod kits and starter pens. The 20mg nicotine salt formulation ensures a silky-smooth throat hit and rapid satisfaction, making this an ideal choice for vapers seeking a bold, dual-fruit vape with a premium edge.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1152725",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-maryliq-x-crystal-blueberry-sour-raspberry-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Sour-Raspberry-Maryiq-Crystal-10ml-nic-salts.jpg?v=1768474937",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.539Z"
+}

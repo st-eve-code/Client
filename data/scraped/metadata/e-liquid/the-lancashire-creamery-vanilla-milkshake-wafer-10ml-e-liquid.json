@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15335447101821",
+  "slug": "the-lancashire-creamery-vanilla-milkshake-wafer-10ml-e-liquid",
+  "title": "The Lancashire Creamery Vanilla Milkshake & Wafer 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/the-lancashire-creamery-vanilla-milkshake-wafer-10ml-e-liquid",
+  "brand": "The Lancashire Creamery",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vanilla Milkshake and Wafer by Lancashire Creamery blends the indulgent taste of classic American-style Milkshake with the comforting sweetness of crisp Wafer. The Vanilla note is soft, velvety and creamy, delivering a rounded sweetness with a gentle, satisfying finish. Subtle bakery tones from the Wafer layer in a sweet cereal-like finish, creating a mellow dessert vape that tastes both nostalgic and refined. This nicotine salt e-liquid provides a smooth, tactile throat hit with fast-absorbing nicotine, ideal for mouth-to-lung (MTL) vaping. Blended at a 50VG/50PG ratio, it performs excellently in low-powered pod kits, vape pens, and starter devices. Available in 5mg, 10mg, and 20mg strengths, it caters to a range of nicotine preferences. Lancashire Creamery specialises in dessert-inspired e-liquids made in the UK, focusing on layered, satisfying flavour profiles that bring pudding-shop indulgence to everyday vaping.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143186",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1143180",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143174",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-lancashire-creamery-vanilla-milkshake-wafer-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-lancashire-creamery-vanilla-milkshake-wafers-10ml-nicotine-salts.jpg?v=1751297512",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.425Z"
+}

@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763821166973",
+  "slug": "bar-drop-watermelon-sour-apple-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Watermelon Sour Apple 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-watermelon-sour-apple-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Watermelon Sour Apple by Drop is a blend of contrasts. It pairs the mellow, aqueous sweetness of fresh watermelon with the sharp, acidic bite of sour green apple. The result is a dynamic vape that shifts between soothing sweetness and exciting tanginess with every puff. Formulated with a 40% VG / 60% PG ratio, this blend delivers a sharp, clean taste where the sour apple notes cut clearly through the watermelon base. Optimised for MTL (Mouth-to-Lung) pod kits, the nicotine salt base offers a smooth throat hit and rapid satisfaction in 5mg, 10mg, or 20mg strengths. Bar Drop Salts are brought to you by Drop and are manufactured right here in the UK. Drop’s collections focus on fabulously fruity flavours that are achingly authentic and blend familiar favourites with unique profiles.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152640",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152674",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152718",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-watermelon-sour-apple-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-Sour-Apple-Bar-Drop-10ml-Nic-salts.jpg?v=1768298283",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.353Z"
+}

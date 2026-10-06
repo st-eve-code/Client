@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15517437395325",
+  "slug": "just-juice-mint-range-green-mint-saltfill-shortfill-40ml-e-liquid",
+  "title": "Just Juice Mint Range Green Mint Saltfill Shortfill 40ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-mint-range-green-mint-saltfill-shortfill-40ml-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Just Juice Green Mint Saltfill captures the fresh, cooling taste of Spearmint in a simple yet satisfying blend. Sweet, crisp, and clean, this flavour delivers the clarity of mint with a brisk icy edge for a refreshingly direct vape. Each Saltfill e-liquid comes in a 60ml bottle containing 40ml of concentrated flavour, leaving space for up to two 10ml nicotine shots. With a 60PG/40VG ratio, these e-liquids are designed to deliver sharp flavour with a tactile throat hit, making them an excellent choice for pod kits and starter devices. Just Juice Saltfills use double-concentrated flavouring for a bold and consistent taste experience, letting you enjoy your favourite profiles just the way you like them. Please Note : All flavours in the Just Juice Bar Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "40ml Shortfill",
+    "60/40 Shortfill",
+    "Just Juice Mint Range",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148241",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-mint-range-green-mint-saltfill-shortfill-40ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/MINT-GREEN-Just-Juice-Saltfill-40ml.jpg?v=1757510746",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

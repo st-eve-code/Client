@@ -1,0 +1,84 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639883309380",
+  "slug": "lostvape-ub-ultra-replacement-coils",
+  "title": "Lost Vape UB Ultra Replacement Vape Coils",
+  "url": "https://www.vapestore.co.uk/products/lostvape-ub-ultra-replacement-coils",
+  "brand": "Lost Vape",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "Explore a wide variety of vaping experiences with these replacement UB Ultra Coils compatible with the Lost Vape Centaurus B80 and B60 Kits. These coils can be used for both DTL (direct-to-lung) and RDTL (restricted direct-to-lung) vaping styles. Their simple ‘plug and play’ mechanism makes them a breeze to use: simply push the coil into the space at the base of the pod. Ultra Boost M8 Coil 0.15ohm Coil resistance: 0.15ohm Regular Coil Rate: 60-80W Suitable for DTL Use High VG 70% or above E-Liquids Ultra Boost M7 Coil 0.2ohm Coil resistance: 0.2ohm mesh coil Rate 40-60W Suitable for DTL Use High VG 70% or above E-Liquids Ultra Boost M6 Coil 0.3ohm Coil resistance: 0.3ohm Mesh Coil Rate: 30-40W Suitable for DTL / RDTL Use High VG 70% or above E-Liquids Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Delisted",
+    "prime-repodscoils",
+    "SALE"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "M8 0.15ohm",
+        "M7 0.2ohm",
+        "M6 0.3ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "M8 0.15ohm",
+      "sku": "1128294",
+      "price": 6.99
+    },
+    {
+      "title": "M7 0.2ohm",
+      "sku": "1128295",
+      "price": 6.99
+    },
+    {
+      "title": "M6 0.3ohm",
+      "sku": "1128296",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lostvape-ub-ultra-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost_vape_ultra_m6_coil_5pk_1.jpg?v=1729058944",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lostvape-ub-ultra-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost_vape_ultra_m8_coil_5pk.jpg?v=1729058944",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lostvape-ub-ultra-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost_vape_ultra_m7_coil_5pk.jpg?v=1729058944",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lostvape-ub-ultra-replacement-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost_vape_ultra_m6_coil_5pk.jpg?v=1729058944",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

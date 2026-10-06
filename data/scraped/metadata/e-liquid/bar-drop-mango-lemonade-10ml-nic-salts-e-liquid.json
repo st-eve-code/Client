@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763289735549",
+  "slug": "bar-drop-mango-lemonade-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Mango Lemonade 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-mango-lemonade-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Mango Lemonade by Drop brings a tropical twist to a classic soda vape. It starts with the lush, juicy sweetness of ripe mango, providing a thick and fruity base. This is immediately cut through by a sparkling lemonade finish, adding a zesty citrus lift that prevents the mango from becoming too heavy. This e-liquid features a 40% VG / 60% PG ratio, designed to ensure the sparkling citrus notes pop against the sweet mango background for a balanced vape. Optimised for MTL (Mouth-to-Lung) pod kits, the nicotine salt blend offers a smooth throat hit and fast satisfaction in 5mg, 10mg, or 20mg strengths. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152623",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152681",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152701",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-mango-lemonade-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mango-Lemonade-Bar-Drop-10ml-Nic-salts.jpg?v=1768294931",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.331Z"
+}

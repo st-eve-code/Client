@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639911948612",
+  "slug": "ske-crystal-blue-fusion-nic-salt-e-liquid",
+  "title": "SKE Crystal Blue Fusion Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-blue-fusion-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Fusion flavour SKE Crystal Nic Salts e-liquid masterfully combines the deep, tart forest fruit flavours of Blackberries, the sweet tang of Raspberries, and the rich taste of juicy Blueberries for a delightfully intense berry experience. This flavour is a standout in SKE's updated Crystal Nic Salts collection, which now boasts newly added flavours and a refined formula to enhance your vaping experience. With nicotine salts , these e-liquids provide a smoother throat hit and quicker nicotine satisfaction than traditional freebase e-liquids, making them ideal for former smokers and those new to vaping. The balanced 50VG/50PG e-liquid ratio ensures excellent flavour and vapour production and is suitable for most mouth-to-lung devices. If you enjoy the rich, jammy flavours of Blue Fusion, then why not try the other 24 delicious SKE Crystal Nic Salt flavours? SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132477",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132504",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-blue-fusion-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blue-fusion_1_1.jpg?v=1729060650",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-blue-fusion-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blue-fusion.jpg?v=1729060650",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-blue-fusion-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blue-fusion_1.jpg?v=1729060650",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.379Z"
+}

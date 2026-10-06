@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639848608068",
+  "slug": "voopoo-pnp-x-mtl-vape-tank",
+  "title": "VooPoo PnP X Pod Tank (MTL)",
+  "url": "https://www.vapestore.co.uk/products/voopoo-pnp-x-mtl-vape-tank",
+  "brand": "VooPoo",
+  "productType": "Tanks",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo PnP X Tank MTL version offers a dedicated Mouth-To-Lung vaping experience. Crafted for those who love the nuances of flavour and a more discreet vapour output, this tank is a perfect addition to any MTL vaper's arsenal. With its sturdy construction combining PCTG and Stainless Steel, it is not only robust but also stylish. This tank has a 2ml e-liquid capacity, providing ample space for your preferred e-liquids. The unique MTL drip tip is designed to enhance the flavour delivery and provide a comfortable, satisfying draw. Refilling is convenient with the side-filling design, ensuring a mess-free experience. The tank's compatibility with the PnP X series coils means you have various options to customize your vaping experience, making it versatile for different preferences. In the kit, you'll find two coils: a 0.6ohm coil for an optimal MTL experience and 0.3ohm coil offering a more flexible vaping DTL style. This adaptability makes the PnP X Tank MTL version a great choice for vapers who appreciate the subtlety of MTL vaping but want the flexibility to experiment. The Voopoo PnP X Tank MTL distinguishes itself with its specialized drip tip and precise airflow control, making it an ideal choice for those who seek a flavour-focused vaping journey. Launched with the Voopoo Drag X2 and S2 pod kits, the PnP X Pod tank’s 510 connector makes it compatible with a wide variety of vape mods. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "CC DC List"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Silver",
+        "Grey",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Silver",
+      "sku": "1128068",
+      "price": 5.99
+    },
+    {
+      "title": "Grey",
+      "sku": "1128069",
+      "price": 5.99
+    },
+    {
+      "title": "Black",
+      "sku": "1128070",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-pnp-x-mtl-vape-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-pod-tan--mtl_black_1.jpg?v=1729056485",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-mtl-vape-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-pod-tank-mtl_silver.jpg?v=1729056485",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-mtl-vape-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-pod-tank-mtl_grey.jpg?v=1729056485",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-mtl-vape-tank__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-pod-tan--mtl_black.jpg?v=1729056485",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

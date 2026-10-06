@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15953464557949",
+  "slug": "direct-salts-strawberry-raspberry-cherry-10ml-e-liquid",
+  "title": "Direct Salts Strawberry Raspberry Cherry 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/direct-salts-strawberry-raspberry-cherry-10ml-e-liquid",
+  "brand": "Direct",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Direct Salts Strawberry Raspberry Cherry 10ml Nic Salt E-Liquid delivers a richly layered and exceptionally vibrant red fruit experience. The profile opens with the soft, jammy notes of ripe Strawberry, seamlessly transitioning into the sharp, bright bite of fresh Raspberry. To complete the trio, a robust and slightly tart note of dark Cherry emerges on the exhale, grounding the profile with a deeply fruity finish. The combination provides a deeply satisfying and vibrant berry experience. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Direct Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Direct Salts collection offers vapers a dependable range of premium fruit, ice, and confectionery profiles. Providing a highly cost-effective and flexible option, this 10ml range covers a wide variety of tastes. Beyond the rich layers of Strawberry Raspberry Cherry, vapers can explore other compelling options such as the refreshing Spearmint, the zesty Lemon Lime, or the pure chill of Menthol.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Direct Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1158392",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158406",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__direct-salts-strawberry-raspberry-cherry-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SRC-Direct-Salts-10ml-nic-salts-10mg.jpg?v=1783527739",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__direct-salts-strawberry-raspberry-cherry-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SRC-Direct-Salts-10ml-nic-salts-20mg.jpg?v=1783527759",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.468Z"
+}

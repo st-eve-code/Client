@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640051179844",
+  "slug": "elux-firerose-5000-strawberry-watermelon-bubblegum-nic-salt-e-liquid",
+  "title": "Elux Firerose 5000 Strawberry Watermelon Bubblegum 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elux-firerose-5000-strawberry-watermelon-bubblegum-nic-salt-e-liquid",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Watermelon Bubblegum from the Elux Firerose 5000 collection combines the juicy sweetness of strawberries and watermelon with the nostalgic taste of bubblegum. This e-liquid offers a fun and fruity confectionary experience, perfect for those who enjoy nostalgic vape flavours. The smooth inhale delivers the luscious taste of ripe strawberries and juicy watermelon, while the exhale brings a sweet bubblegum finish, creating a balanced and smooth vaping experience. The combination of fruit and confectionary notes makes this flavour a favourite for all-day vaping. With a 50VG/50PG blend, Berry Bang ensures a perfectly balanced vape that’s ideal for those who enjoy both intense flavour and satisfying yet discreet cloud production. The Nicotine Salt formulation provides a silky smoothness of the vape and is suitable for use in any MTL (mouth-to-lung) vaping device. Discover the delicious world of Elux Firerose 5000 Nic Salt e-liquids. This captivating range is inspired by some of Elux’s most popular disposable vape flavours, offering the same intensity of flavour but with the versatility and convenience that comes from 10ml bottles for use with a wide variety of vape devices. Experience all dozen delicious Elux Firerose flavours available at Vapestore.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Firerose 5000",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1133063",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1133071",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-firerose-5000-strawberry-watermelon-bubblegum-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-firerose-5000-strawberry-watermelon-bubblegum-10ml-nic-salt_1_1.jpg?v=1729065071",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-firerose-5000-strawberry-watermelon-bubblegum-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-firerose-5000-strawberry-watermelon-bubblegum-10ml-nic-salt.jpg?v=1729065071",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-firerose-5000-strawberry-watermelon-bubblegum-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-firerose-5000-strawberry-watermelon-bubblegum-10ml-nic-salt_1.jpg?v=1729065071",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.435Z"
+}

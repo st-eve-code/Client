@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639759216964",
+  "slug": "horizontech-aquila-replacement-coils",
+  "title": "HorizonTech Aquila Coils - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/horizontech-aquila-replacement-coils",
+  "brand": "HorizonTech",
+  "productType": "Coils",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The HorizonTech Aquila Sub-Ohm Tank 2ml is an innovative sub-ohm tank with an array of exciting features such as a spring-loaded top-fill design and plug and play coil replacement. These replacement new Aquila coils from HorizonTech represent a bold new approach to sub-ohm coil builds and come in two varieties: the E2 Dual Mesh Coil 0.16ohm (60-70W) and P4 4in1 Mesh Coil 0.14ohm (60-70W). The E2 coil is designed with an encircled dual mesh coil structure to produce more vapour and flavour with the help of organic bamboo cotton for a clean, pure and consistent vaping experience. The 4-in-1 P4 coil, meanwhile, is the upgraded version of the 2in1 mesh coil from HorizonTech‘s Sakerz tank and features a parallel structure with four slices of individual mesh pieces in a closed loop tube structure to improve the contact area between the coil and e-liquid. two different mesh coil builds that provide uniquely different vaping experiences: Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1117249",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.16ohm",
+        "0.14ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.16ohm",
+      "sku": "1117252",
+      "price": 7.99
+    },
+    {
+      "title": "0.14ohm",
+      "sku": "1117253",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__horizontech-aquila-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizontech-aquila-replacement-coil-3pk.jpg?v=1729050140",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.869Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15124924072317",
+  "slug": "vampire-vape-desserts-caramel-latte-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape Desserts Caramel Latte E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-desserts-caramel-latte-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Caramel Latte by Vampire Vape Desserts Koncept range recreates the familiar warmth of your favourite coffee shop treat, combining deep, roasted Coffee flavour with a drizzle of sweet Caramel and a layer of smooth, steamed milk. This mellow and satisfying vape balances depth and sweetness, making it a go-to choice for those who enjoy dessert and coffee-inspired flavours. With a 70VG/30PG ratio, this high-VG shortfill is ideal for sub-ohm vaping, producing dense clouds and a full-bodied flavour. Each bottle contains 50ml of nicotine-free e-liquid in a 60ml bottle, leaving enough space to add a 10ml nicotine shot if desired. Made in the UK and fully TPD-compliant, Caramel Latte is part of the Vampire Vape Desserts range — a collection of indulgent flavour profiles inspired by familiar favourites. Also available in Freebase 10mls and DIY Concentrates.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "VV Desserts"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138242",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-desserts-caramel-latte-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire-Vape---UK---50ml-Koncept---Caramel-Latte---Bottle.jpg?v=1743670956",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.488Z"
+}

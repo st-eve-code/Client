@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639601078596",
+  "slug": "mortals-hades-100ml-shortfill-zeus-juice",
+  "title": "Zeus Juice Mortals - Hades 100ml shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/mortals-hades-100ml-shortfill-zeus-juice",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Hot, fiery and devilishly sweet, Hades Zeus Juice’s Mortals collection brings the warming sensation of cinnamon spice blended with a fruity cherry candy, all gently cooled by a touch of uplifting menthol. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , vape mods and sub-ohm tanks .",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "ZS-100-MRT-HDS-00-SF",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mortals-hades-100ml-shortfill-zeus-juice__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-mortals---hades-100ml-shortfill-e-liquid.jpg?v=1729043741",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.620Z"
+}

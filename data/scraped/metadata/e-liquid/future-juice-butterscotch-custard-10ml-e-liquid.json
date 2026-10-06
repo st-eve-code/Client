@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15054261780861",
+  "slug": "future-juice-butterscotch-custard-10ml-e-liquid",
+  "title": "Future Juice Butterscotch & Custard 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/future-juice-butterscotch-custard-10ml-e-liquid",
+  "brand": "Future Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Future Juice’s Butterscotch & Custard is a rich and indulgent blend that combines the deep, caramelised notes of Butterscotch with the smooth, velvety warmth of classic Custard. The inhale delivers a buttery, golden sweetness, while the creamy Custard rounds out the flavour with a luxuriously smooth exhale, making this an ideal vape for dessert lovers. This nic salt e-liquid provides a smooth, comfortable throat hit and rapid nicotine relief, making it ideal for MTL (mouth-to-lung) vaping. The 50% VG / 50% PG formula ensures a consistent flavour experience with discreet vapour production, making it perfect for pod systems, vape pens, and starter kits. Available in 5mg, 10mg, and 20mg nicotine strengths, this 10ml e-liquid caters to vapers seeking a lower, moderate, or higher nicotine level. Future Juice is a UK-based brand committed to crafting bold and satisfying flavour profiles, blending classic and contemporary taste experiences into high-quality e-liquids designed for everyday enjoyment.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1139489",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1139494",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139512",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__future-juice-butterscotch-custard-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/c-20mg-future-juice-butterstotch-custard-10ml-nicotine-salts.jpg?v=1741250871",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.428Z"
+}

@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15152824779133",
+  "slug": "ox-passion-melon-banana-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Melon Banana Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-melon-banana-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Melon Banana blends the delicate sweetness of ripe Melon with the creamy richness of soft Banana, creating a smooth and mellow fruit vape. The Melon note adds a fresh, juicy brightness, while the Banana rounds out the flavour with a velvety finish. This gently layered combination is ideal for vapers who enjoy a more subtle, soothing fruit profile. Formulated with nicotine salts for smooth throat hits and fast nicotine absorption, this e-liquid is blended at a 50VG/50PG ratio and optimised for mouth-to-lung (MTL) vaping. It performs best in low-powered pod vape kits, starter devices, and compact refillable systems. Available in both 10mg and 20mg nicotine strengths, OX Passion Nic Salts offer bold, layered flavour profiles with a consistently smooth finish. Developed by Oxva, a trusted name in vaping hardware, these e-liquids are expertly crafted to pair seamlessly with Oxva XLIM pod kits and other refillable MTL vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140076",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140086",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-melon-banana-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-oxpassion-Melon-Banana-10ml-nic-salt.jpg?v=1744628509",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.445Z"
+}

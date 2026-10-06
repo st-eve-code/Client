@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14900204863869",
+  "slug": "pukka-juice-5000-fizzy-pop-10ml-nic-salt-e-liquid",
+  "title": "Pukka Juice 5000+ Fizzy Pop 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-5000-fizzy-pop-10ml-nic-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice 5000+ Fizzy Pop Nic Salt e-liquid delivers a lively mix of zesty citrus fruits with a fizzy, tangy kick on the exhale. This e-liquid captures the playful essence of a fizzy soda, offering a bright, bubbly vape that’s as refreshing as it is satisfying. Designed with a 50VG/50PG ratio, Pukka Juice 5000+ Nic Salts are ideal for Mouth-to-Lung (MTL) devices and pod systems, providing smooth throat hits and quick nicotine satisfaction. Available in 10mg and 20mg strengths, Fizzy Pop offers a delightful, citrus-infused vape experience. Pukka Juice is celebrated for its vibrant e-liquid flavours. The 5000+ collection takes inspiration from disposable vape flavours, bringing them into a versatile e-liquid format for use with reusable vape devices. Explore other favourites like Lemon & Lime, Polar Mint, and Tropical.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1135522",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1135540",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-5000-fizzy-pop-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pukka-Juice-5000_-Fizzy-Pop-Nic-Salt-Eliquid-10-_-20mg.jpg?v=1734538647",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.512Z"
+}

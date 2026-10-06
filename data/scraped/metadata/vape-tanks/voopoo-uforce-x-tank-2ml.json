@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9640043151684",
+  "slug": "voopoo-uforce-x-tank-2ml",
+  "title": "VooPoo Uforce-X Vape Tank",
+  "url": "https://www.vapestore.co.uk/products/voopoo-uforce-x-tank-2ml",
+  "brand": "VooPoo",
+  "productType": "Tanks",
+  "price": {
+    "min": 18.99,
+    "max": 18.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo UForce-X Tank is designed to deliver an exceptional Direct-To-Lung (DTL) vaping experience with its innovative features and robust construction. This sub-ohm tank boasts a 2ml e-liquid capacity, compliant with TPD regulations, and is crafted from durable stainless steel and glass. The UForce-X Tank features a convenient slide top-fill mechanism, ensuring easy and mess-free refills. Its 360° adjustable airflow allows users to customize their draw for optimal flavour and vapour production. The tank is compatible with the entire PnP-X Coil series, providing flexibility for various vaping styles, whether you prefer DTL or Restricted Direct Lung (RDL) vaping. The advanced airflow system and high-quality materials of the UForce-X Tank ensure a smooth and satisfying vaping experience. Available in multiple colours, this tank can seamlessly integrate with any 510-thread mod, offering both functionality and aesthetic appeal. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Gunmetal",
+        "Black",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Gunmetal",
+      "sku": "1134399",
+      "price": 18.99
+    },
+    {
+      "title": "Black",
+      "sku": "1134400",
+      "price": 18.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1134401",
+      "price": 18.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-uforce-x-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-uforce-x-tank-black_1.jpg?v=1729064744",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-uforce-x-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-uforce-x-tank-gun-metal.jpg?v=1729064744",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-uforce-x-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-uforce-x-tank-black.jpg?v=1729064744",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-uforce-x-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-uforce-x-tank-silver.jpg?v=1729064744",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639311409476",
+  "slug": "strawberry-by-vapouriz-5050",
+  "title": "Vapouriz 50/50 Strawberry 10ml",
+  "url": "https://www.vapestore.co.uk/products/strawberry-by-vapouriz-5050",
+  "brand": "Vapouriz 50/50",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "A simple and succulent blend of perfectly-ripe strawberries.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1113850",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1113851",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1113849",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__strawberry-by-vapouriz-5050__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz--50-50-e-liquid-strawberry_10ml_1.jpg?v=1729034044",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__strawberry-by-vapouriz-5050__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vz-sy-03-50-parent_vapouriz5050_strawberry_10ml_2.png?v=1729034044",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.368Z"
+}

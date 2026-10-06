@@ -1,0 +1,292 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15578401210749",
+  "slug": "ske-cl2000-prefilled-pod-kit",
+  "title": "SKE CL2000 Prefilled Pod Kit",
+  "url": "https://www.vapestore.co.uk/products/ske-cl2000-prefilled-pod-kit",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The SKE Crystal CL2000 is built for simple, reliable MTL (mouth-to-lung) vaping in a light, durable device that exudes SKE’s distinctive colourful, crystalline style. An 850mAh rechargeable battery can be quickly recharged via USB, intuitive inhale activation provides fuss-free use, while the clear window lets you keep an eye on e-liquid levels at a glance. Each replaceable CL2000 refill pod combines a 1.8ml prefilled pod with a 2.2ml refill container that lock together and attach to the battery component, delivering up to around 2000 depending upon personal usage. The pods use preinstalled mesh coils and 20mg Nic Salt e-liquid for clear, consistent flavour, and rapid, effective nicotine relief. Available in multiple flavour editions across fruit, soda and menthol styles, the CL2000 range makes it easy to pick a profile that suits your tastebuds, while SKE’s collection of 20 Refill Pod flavours allow for switching up your flavours, or sticking with a favourite, when it’s time for a new pod and refill. How to Use the CL2000 Pod System 1. Remove seals from the 1.8ml pod and 2.2ml refill container. 2. Push the two sections together until they click to form the refill pod. 3. Insert the assembled pod into the device until it locks. 4. Charge via USB-C if needed. 5. Inhale on the mouthpiece to vape; replace the pod + refill when empty. SKE CL2000 Kit Flavours • Lemon and Lime Sharp Lemon and tangy Lime for a vibrant citrus vape. • Cherry Ice Ripe Cherry laced with crisp, cool Menthol. • Menthol Mojito Fresh Mint and zesty Lime with a layer of chilly Menthol. • Watermelon Ice Fresh, delicately sweet Watermelon over Ice. • Sour Pineapple Tangy Pineapple with a tart, sour snap. • Pink Lemonade Sparkling Lemonade with notes of mixed Red Berries. • Cola Ice Familiar cola soda flavour with an extra icy chill. • Watermelon Strawberry Juicy Watermelon meets ripe Strawberry. • Blueberry Raspberry Sweet Blueberry balanced by tangy Raspberry. • Strawberry Ice Juicy ripe Strawberry flavour laced with brisk icy finish. • Kiwi Passion Fruit Tart Kiwi meets tangy Passion Fruit. • Bubble Cherry Confectionery-inspired Bubblegum notes with Cherry. • Peach Ice Soft, juicy Peach over an icy base. • Banana Rich, smooth, creamy Banana flavour. • Menthol Classic, clean Menthol. • Fruit Gum Gummy confectionery-inspired Mixed Fruit flavour. • Lemon Sour Fudge Creamy Fudge contrasted with sharp Lemon. • Med Citrus Tart Warm, buttery pastry with the tangy kick of Lemon. Please Note: USB-C Cable Sold Separately Shop SKE CL2000 Refill Pods",
+  "tags": [
+    "2k Puffs",
+    "Battery-included",
+    "Cherry Ice",
+    "Kit-VS-Export",
+    "Lemon and Lime",
+    "Pineapple",
+    "Pink Lemonade",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Flavour",
+      "position": 1,
+      "values": [
+        "Lemon & Lime",
+        "Menthol Mojito",
+        "Cola Ice",
+        "Watermelon Strawberry",
+        "Cherry Ice",
+        "Blueberry Raspberry",
+        "Strawberry Ice",
+        "Kiwi Passion Fruit",
+        "Bubble Cherry",
+        "Peach Ice",
+        "Banana",
+        "Menthol",
+        "Fruit Gum",
+        "Pink Lemonade",
+        "Sour Pineapple",
+        "Lemon Sour Fudge",
+        "Med Citrus Tart",
+        "Watermelon Ice"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Lemon & Lime",
+      "sku": "1148734",
+      "price": 6.95
+    },
+    {
+      "title": "Menthol Mojito",
+      "sku": "1148736",
+      "price": 6.95
+    },
+    {
+      "title": "Cola Ice",
+      "sku": "1148740",
+      "price": 6.95
+    },
+    {
+      "title": "Watermelon Strawberry",
+      "sku": "1148741",
+      "price": 6.95
+    },
+    {
+      "title": "Cherry Ice",
+      "sku": "1148735",
+      "price": 6.95
+    },
+    {
+      "title": "Blueberry Raspberry",
+      "sku": "1148742",
+      "price": 6.95
+    },
+    {
+      "title": "Strawberry Ice",
+      "sku": "1148743",
+      "price": 6.95
+    },
+    {
+      "title": "Kiwi Passion Fruit",
+      "sku": "1148744",
+      "price": 6.95
+    },
+    {
+      "title": "Bubble Cherry",
+      "sku": "1148745",
+      "price": 6.95
+    },
+    {
+      "title": "Peach Ice",
+      "sku": "1148746",
+      "price": 6.95
+    },
+    {
+      "title": "Banana",
+      "sku": "1148747",
+      "price": 6.95
+    },
+    {
+      "title": "Menthol",
+      "sku": "1148748",
+      "price": 6.95
+    },
+    {
+      "title": "Fruit Gum",
+      "sku": "1148749",
+      "price": 6.95
+    },
+    {
+      "title": "Pink Lemonade",
+      "sku": "1148739",
+      "price": 6.95
+    },
+    {
+      "title": "Sour Pineapple",
+      "sku": "1148738",
+      "price": 6.95
+    },
+    {
+      "title": "Lemon Sour Fudge",
+      "sku": "1148750",
+      "price": 6.95
+    },
+    {
+      "title": "Med Citrus Tart",
+      "sku": "1148751",
+      "price": 6.95
+    },
+    {
+      "title": "Watermelon Ice",
+      "sku": "1148737",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-Lime-SKE-CL2000-Kit.jpg?v=1759420793",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Ice-SKE-CL2000-Kit.jpg?v=1759420831",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Menthol-Mojito-SKE-CL2000-Kit.jpg?v=1759420870",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-IceSKE-CL2000-Kit.jpg?v=1759420901",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SSour-Pineapple-SKE-CL2000-Kit.jpg?v=1759420926",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pink-Lemonade-SKE-CL2000-Kit.jpg?v=1759420954",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cola-Ice-SKE-CL2000-Kit.jpg?v=1759420979",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-Strawberry-SKE-CL2000-Kit.jpg?v=1759421031",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__009.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Raspberries-SKE-CL2000-Kit.jpg?v=1759421074",
+      "position": 9,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__010.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Ice-SKE-CL2000-Kit.jpg?v=1759421105",
+      "position": 10,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__011.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Kiwi-Passion-Fruit-SKE-CL2000-Kit.jpg?v=1759421145",
+      "position": 11,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__012.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Bubble-Cherry-SKE-CL2000-Kit.jpg?v=1759421176",
+      "position": 12,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__013.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Peach-Ice-SKE-CL2000-Kit.jpg?v=1759421227",
+      "position": 13,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__014.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Banana-SKE-CL2000-Kit.jpg?v=1759421278",
+      "position": 14,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__015.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Menthol-SKE-CL2000-Kit.jpg?v=1759421304",
+      "position": 15,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__016.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fruit-Gum-SKE-CL2000-Kit.jpg?v=1759421334",
+      "position": 16,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__017.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-Sour-fudge-SKE-CL2000-Kit.jpg?v=1759421370",
+      "position": 17,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-cl2000-prefilled-pod-kit__018.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Med-Citrus-Tart-SKE-CL2000-Kit.jpg?v=1759421404",
+      "position": 18,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.093Z"
+}

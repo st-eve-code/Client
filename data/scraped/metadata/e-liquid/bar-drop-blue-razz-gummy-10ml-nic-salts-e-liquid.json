@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15760208396669",
+  "slug": "bar-drop-blue-razz-gummy-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Blue Razz Gummy 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-blue-razz-gummy-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Blue Razz Gummy by Drop captures the nostalgic taste of confectionery-inspired favourites. This blend leads with the electrifying sweetness of blue raspberry, offering a vibrant and jammy fruit profile. The experience is rounded off with a sugary, chewy finish reminiscent of classic gummy sweets, creating a playful and satisfying vape for those with a sweet tooth. Crafted with a 40% VG / 60% PG ratio, this e-liquid enhances the sharp and sweet notes of the blue raspberry, delivering a more impactful taste than standard high-VG alternatives. Ideally paired with MTL (Mouth-to-Lung) pod kits, the nicotine salt formula ensures a smooth throat hit in 5mg, 10mg, or 20mg strengths, providing rapid satisfaction. Bar Drop Salts are brought to you by Drop and are manufactured right here in the UK. Drop’s collections focus on fabulously fruity flavours that are achingly authentic and blend familiar favourites with unique profiles.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152606",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152670",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152685",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-blue-razz-gummy-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Gummy-Bottle-Bar-Drop-10ml-Nic-salts.jpg?v=1767974053",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.456Z"
+}

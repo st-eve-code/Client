@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15941756911997",
+  "slug": "ivg-original-salts-sour-green-apple-10ml-e-liquid",
+  "title": "IVG Original Salts Sour Green Apple 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-original-salts-sour-green-apple-10ml-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Original Salts Sour Green Apple 10ml E-Liquid delivers a bright and clean vaping experience that focuses on the authentic, crisp nature of orchard fruit. This flavour accurately replicates the sharp, acidic bite of a Granny Smith Apple, providing a tangy inhale that remains consistent throughout. It is a sharp, refreshing profile that provides a clean, vibrant taste for those who prefer unadulterated, fruit-forward vapes without additional cooling or creamy notes. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The 50VG/50PG ratio provides an ideal balance of discreet vapour production and clear, intense flavour. IVG Original Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The IVG Original Salts collection is inspired by the brand’s most successful flavour profiles, offering vapers a dependable range of premium fruit, ice, and dessert blends. Beyond the sharp tang of Sour Green Apple, vapers can explore other stellar options like the citrusy Riberry Lemonade or the refreshing Strawberry Watermelon. Every e-liquid in this collection is designed to provide a high-quality, authentic experience for mouth-to-lung vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "IVG Original",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1157454",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1157474",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-original-salts-sour-green-apple-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sour-Green-Apple-10mg-IVG-Original-Salts.jpg?v=1782815788",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-original-salts-sour-green-apple-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sour-Green-Apple-20mg-IVG-Original-Salts.jpg?v=1782815796",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.344Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639647707460",
+  "slug": "juice-n-power-blueberry-pomegranate-eliquid-120ml",
+  "title": "Juice N Power Blueberry Pomegranate Power 100ml Shortfill E-liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-blueberry-pomegranate-eliquid-120ml",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Pomegranate Power from Juice N Power is an insanely pairing of classic blueberry and exotic pomegranate. The smooth, rich tang of fresh blueberries collide with the subtle sour notes of pomegranate for an incredible rush of fruity flavour. This product contains 100ml of e-liquid in a 120ml shortfill bottle, with space for 2 x 10ml nicotine shots to let you tailor your juice’s nicotine content. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. The e-liquid’s 70VG/30PG ratio makes it ideal for high-powered pod kits , vape mods and sub-ohm tanks.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1117024",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-blueberry-pomegranate-eliquid-120ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-100ml-blueberry-pomegranate.jpg?v=1729046008",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.615Z"
+}

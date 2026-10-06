@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639601701188",
+  "slug": "core-blue-slush-50-50-eliquid-ohm-brew",
+  "title": "Ohm Brew Core Blue Slush 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/core-blue-slush-50-50-eliquid-ohm-brew",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Slush from Ohm Brew’s Core range of Freebase e-liquids is a nostalgic sweet combo of rich blueberry and tangy raspberry with a sweet, syrupy slushy tang. Ohm Brew’s Core range recaptures the original magic of freebase nicotine e-liquids. Freebase nicotine is a form of nicotine with an alkaline formula, which offers more of a tactile ‘throat hit’ than nic salt e-liquids. Their throat sensation closely mimics the draw of a traditional cigarette, only the taste is far more delicious! Ohm Brew’s Core range of Freebase e-liquids are ideal for use in classic e-cigarette starter vape kits and pod kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 10mls",
+    "MTL/RDL",
+    "Ohm Brew Core",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "COR-10-BS-03",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "COR-10-BS-06",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "COR-10-BS-12",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "COR-10-BS-18",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__core-blue-slush-50-50-eliquid-ohm-brew__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm-brew-core-blue-slush.jpg?v=1729043772",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.444Z"
+}

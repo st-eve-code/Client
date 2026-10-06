@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639287095620",
+  "slug": "smok-v8-x-baby-x4-quad-core-sub-ohm-coils",
+  "title": "SMOK V8 X-Baby X4 Quad Core Sub-Ohm Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-v8-x-baby-x4-quad-core-sub-ohm-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 7.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "The Smok V8 X-Baby X4 Quad Core Sub-Ohm Coils are replacement coils for the Smok TFV8 X-Baby tank. These coils are designed to work between 30 - 70W but work best when used between 45 - 60W. At Vapestore we stock a large range of SMOK Products, including Smok E-cigarettes , Smok Tanks , Mods, Smok Coils and New Vape kits",
+  "tags": [
+    "compatible-with-219508",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "210437",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-v8-x-baby-x4-quad-core-sub-ohm-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/210437_smok_v8_x-baby_x4_quad_001_1.jpg?v=1729033055",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

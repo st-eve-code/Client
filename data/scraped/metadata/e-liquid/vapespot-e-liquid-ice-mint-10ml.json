@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639420952900",
+  "slug": "vapespot-e-liquid-ice-mint-10ml",
+  "title": "Vape Spot Ice Mint E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vapespot-e-liquid-ice-mint-10ml",
+  "brand": "Vape Spot",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.5,
+    "max": 1.5,
+    "currency": "GBP"
+  },
+  "description": "Ice Mint from Vapespot delivers a cool rush of minty refreshment, balanced with subtle menthol for an invigorating all-day vape. 50/50 e-liquids contain equal quantities of VG (vegetable glycerin) and PG (propylene glycol) for the perfect balance between flavour and vapour production. They’re ideal for use with starter kits and pod devices .",
+  "tags": [
+    "BRANDS",
+    "Default Category",
+    "E Liquid",
+    "E Liquid Deals",
+    "MTL/RDL",
+    "Outlet",
+    "Vape Deals",
+    "Vape Spot",
+    "Vape Spot 10ml Multibuy",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "1113696",
+      "price": 1.5
+    },
+    {
+      "title": "12mg",
+      "sku": "1113695",
+      "price": 1.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vapespot-e-liquid-ice-mint-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapespot-ice-mint-12mg-10ml.jpg?v=1729038994",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.633Z"
+}

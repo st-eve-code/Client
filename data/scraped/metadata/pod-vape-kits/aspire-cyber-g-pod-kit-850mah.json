@@ -1,0 +1,81 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "9639767441732",
+  "slug": "aspire-cyber-g-pod-kit-850mah",
+  "title": "Aspire Cyber G Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/aspire-cyber-g-pod-kit-850mah",
+  "brand": "Aspire",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Introducing the Aspire Cyber G vape kit - a compact and stylish starter vape kit created for all day long MTL (mouth-to-lung)) vaping. With its sleek, futuristic design revealing the advanced technology inside encased in a colourful, satin-smooth chassis, this kit is ideal for vapers who want an easy-to-use, low-maintenance device that also looks amazing. The Aspire Cyber G vape kit features an 850mAh built-in battery , offering longer usage on a single charge. In addition, the kit includes two refillable Aspire TG pods with fixed mesh coils, which eliminates the need for swapping coils. Just fill the pod with your favourite e-liquid and replace it when the coil expires. The Aspire Cyber G vape kit has both fire button and inhale activation, highlighted by LEDs either side of the fire button. Additionally, the button allows for easy switching between three power options, giving precise control over the amount of vapor produced and the intensity of the vape. Aspire’s advanced ASP chipset provides several safety features, including overheat, low voltage and short-circuit protection. Two Aspire TG pods are included in the kit, featuring a 0.8 Ohm and 1.0 Ohm coil, respectively. These pods feature a mesh build that heats up quickly, leading to faster vaporization of e-liquid and better flavour production. Refilling the pods is effortless too - remove the rubber stopper on the side to reveal the filling port and top up with your preferred e-liquid. For optimal results, we recommend pairing these pods with nic salt , 50/50 and classic High-PG e-liquids. Explore our wide range of vape liquid online and pick the perfect partner for this kit. Please note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1122534",
+    "compatible-with-1122535",
+    "Free 1 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Hunter Green",
+        "Amber Orange",
+        "Brown"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Hunter Green",
+      "sku": "1122519",
+      "price": 9.99
+    },
+    {
+      "title": "Amber Orange",
+      "sku": "1122517",
+      "price": 9.99
+    },
+    {
+      "title": "Brown",
+      "sku": "1122520",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-cyber-g-pod-kit-850mah__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-hunter-green-pod-vape-kit.jpg?v=1757414232",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-pod-kit-850mah__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-amber-orange-pod-vape-kit.jpg?v=1757414232",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-cyber-g-pod-kit-850mah__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-cyber-g-brown-pod-vape-kit.jpg?v=1729050637",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.500Z"
+}

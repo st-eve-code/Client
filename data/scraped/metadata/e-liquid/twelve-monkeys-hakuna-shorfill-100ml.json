@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15005857874301",
+  "slug": "twelve-monkeys-hakuna-shorfill-100ml",
+  "title": "Twelve Monkeys Hakuna Shorfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/twelve-monkeys-hakuna-shorfill-100ml",
+  "brand": "Twelve Monkeys Vapor",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Hakuna by Twelve Monkeys delivers a refreshing balance of crisp Apple and tart Cranberry, creating a layered fruit blend that is both sweet and slightly sharp. The juicy Apple notes provide a smooth and refreshing inhale, while the bold Cranberry adds a tart complexity that lingers on the exhale for a well-rounded and satisfying vape. Designed with a high-VG 70VG/30PG ratio, Hakuna is perfect for Sub-Ohm vape kits and high-powered DTL (direct-to-lung) devices, ensuring dense vapour production and full-bodied flavour. Supplied in a 100ml shortfill bottle with space for two 10ml nicotine shots, this e-liquid allows vapers to customise their nicotine strength to suit their preference. Twelve Monkeys is an award-winning Canadian e-liquid brand known for its innovative fruit blends, offering premium-quality ingredients and expertly crafted flavours for an exceptional vaping experience.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139165",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__twelve-monkeys-hakuna-shorfill-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Twelve_Monkeys_Hakuna_100ml_UK.jpg?v=1739286871",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.551Z"
+}

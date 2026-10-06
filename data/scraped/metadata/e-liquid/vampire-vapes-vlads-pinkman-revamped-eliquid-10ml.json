@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639766032708",
+  "slug": "vampire-vapes-vlads-pinkman-revamped-eliquid-10ml",
+  "title": "Vampire Vape Vlads VG Pinkman Revamped 10ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vapes-vlads-pinkman-revamped-eliquid-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman Revamped brings the legendary fruit profile to the Vlad's VG collection, specifically optimised for vapers who prefer a High-VG experience. This blend is defined by its signature foundation of sweet Red Berries, where the prominent taste of Strawberry and Raspberry creates a consistently juicy and vibrant inhale. The profile is elevated by the inclusion of zesty Citrus and Tropical Fruit notes. These subtle, tangy undertones provide the necessary balance to the berry sweetness, resulting in a complex and layered fruit vape that remains refreshing. This refined version ensures that the classic Pinkman character is delivered with even greater depth and clarity. Formulated with a 70VG/30PG ratio, this 10ml e-liquid is designed for use with sub-ohm vape kits and high-powered pod systems. The higher vegetable glycerin content ensures a smooth throat hit and significant vapour production, making it ideal for low-resistance coils (typically 0.8ohm or lower). Available in a 10ml bottle, it offers a portable and convenient way to enjoy this award-winning British flavour in a high-performance format.",
+  "tags": [
+    "10ml E-Liquids",
+    "DTL",
+    "High VG E-Liquid",
+    "pricebreak",
+    "VV Vlads"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1001179",
+      "price": 4.99
+    },
+    {
+      "title": "6mg",
+      "sku": "1001180",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vapes-vlads-pinkman-revamped-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vladsvg-pinkman-revamped-10ml_3932fd36-a945-4dea-9c69-e52c190607a0.jpg?v=1729050589",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vapes-vlads-pinkman-revamped-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vladsvg-pinkman-revamped-10ml_2.jpg?v=1729050589",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vapes-vlads-pinkman-revamped-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vladsvg-pinkman-revamped-10ml_1.jpg?v=1729050589",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.606Z"
+}

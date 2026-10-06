@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15261566435709",
+  "slug": "ske-crystal-blue-razz-gummy-nic-salt-e-liquid-10ml",
+  "title": "SKE Crystal Blue Razz Gummy Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-blue-razz-gummy-nic-salt-e-liquid-10ml",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "SKE Crystal Blue Razz Gummy Nic Salt captures the tangy sweetness of Blue Raspberry with a soft, confectionery-inspired finish. The Blue Raspberry flavour is bright and zesty, offering a sharp burst of berry on the inhale. This is followed by a sweet, chewy note that mimics the nostalgic taste of fruity gummies, adding texture and depth to the overall profile. This e-liquid strikes a playful balance between tangy and sweet, making it a great option for vapers who enjoy fruity flavours with a nostalgic twist. It's vibrant, slightly sour, and softened by its smooth finish, creating a moreish vape you can return to throughout the day. Blended at a 50VG/50PG ratio, this nic salt formula is ideal for MTL (mouth-to-lung) vaping with pod kits and vape pens. It's available in 10mg and 20mg nicotine strengths and offers a smooth throat hit and fast-acting nicotine delivery. SKE is renowned for delivering bold, satisfying flavours with sleek, user-friendly design. Their Crystal Bar disposables helped set a new standard for flavour clarity and convenience, and the SKE Crystal Nic Salt range continues that legacy \"offering the same popular flavours in a format compatible with a wide range of refillable pod kits and MTL vape devices. With a presence in over 50 countries, SKE remains at the forefront of vaping innovation.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142602",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142610",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-blue-razz-gummy-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/blue-razz-gummy-SKE-Crystal-Nic-Salts-10ml.jpg?v=1748531700",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.445Z"
+}

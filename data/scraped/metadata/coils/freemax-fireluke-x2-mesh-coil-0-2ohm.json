@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639350763844",
+  "slug": "freemax-fireluke-x2-mesh-coil-0-2ohm",
+  "title": "Freemax Fireluke x2 Mesh 0.2 Coil",
+  "url": "https://www.vapestore.co.uk/products/freemax-fireluke-x2-mesh-coil-0-2ohm",
+  "brand": "Freemax",
+  "productType": "Coils",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "These beautifully-crafted sub ohm coils are designed for use with the Freemax Fireluke Tank series and are rated at 0.2ohm for amazing flavour payoff and impressive vapour production when used between 40 and 80 watts. The Freemax Fireluke X2 coils are wicked with a unique blend of 90% flax cotton and 10% standard organic cotton for clear, unspoiled flavour which maintains its freshness far longer than standard cotton coils.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "FR-CO-FI-RE-0.2-MES",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-fireluke-x2-mesh-coil-0-2ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-fireluke-x2-mesh-0-2_1.jpg?v=1729035903",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

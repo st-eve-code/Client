@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639880229188",
+  "slug": "smok-m-replacement-coils",
+  "title": "SMOK M-Coil Mesh - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-m-replacement-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 8.49,
+    "max": 8.49,
+    "currency": "GBP"
+  },
+  "description": "The Smok M Coils are a testament to Smok's commitment to quality and innovation in the vaping industry. These coils are part of the acclaimed M-Coil series, known for their advanced mesh wire construction that ensures even heating and maximum flavour extraction. Each coil in this series is designed to provide a consistently pure and flavourful vaping experience, enhancing each puff with rich taste and ample vapour. Available in a pack of five, the Smok M Coils offer a range of resistance options to suit your vaping style: 0.4ohm mesh (19 - 22W): DTL . Ideal for those who enjoy a balance of flavour and vapour production. 0.6ohm mesh (15 - 18W): RDTL . Perfect for vapers seeking a moderate throat hit and excellent flavour. 0.8ohm mesh (11 - 14W): MTL . Best suited for a smooth and subtle vaping experience with a focus on flavour. Compatible with the Smok TECH247 Pods, these coils are designed for easy installation and hassle-free use, ensuring that your vaping sessions are as enjoyable as they are effortless. Whether you're a cloud chaser or a flavour enthusiast, the Smok M Coils provide the versatility and performance you need to tailor your vape to your exact preferences. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "CC DC List",
+    "compatible-with-1129088",
+    "compatible-with-1129091",
+    "MTL/DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1129095",
+      "price": 8.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1129096",
+      "price": 8.49
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1129097",
+      "price": 8.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-m-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-m-coil-0.8ohm-5pk_1.jpg?v=1729058695",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-m-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-m-coil--0.4ohm-5pk.jpg?v=1729058695",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-m-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-m-coil-0.6ohm-5pk.jpg?v=1729058695",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-m-replacement-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-m-coil-0.8ohm-5pk.jpg?v=1729058695",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.870Z"
+}

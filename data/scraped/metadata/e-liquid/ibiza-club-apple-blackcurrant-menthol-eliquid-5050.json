@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639747223876",
+  "slug": "ibiza-club-apple-blackcurrant-menthol-eliquid-5050",
+  "title": "Ibiza Club Apple & Blackcurrant Menthol 50/50  E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ibiza-club-apple-blackcurrant-menthol-eliquid-5050",
+  "brand": "Ibiza Club",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ibiza Club’s Apple & Blackcurrant Mentholn is a deliciously sweet and satisfying fruit cordial flavour, with the taste of crisp, fresh Green Apples layered with the sweetness of tart, tangy Blackcurrants and a cool exhal with a hint of menthol. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio delivers a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits, compact pod vape kits and pen vape kits. 50/50 e-liquids are the perfect choice for vapers seeking the best of all worlds from their e-liquids. This e-liquid offers a perfect balance of PG and VG. PG, or Propylene Glycol, is an e-liquid ingredient that’s used to carry flavour as well as providing that tactile, satisfying throat hit that makes vaping such an effective substitute for smoking. VG, of Vegetable Glycerin, produces more vapour than PG so better recreates the curls and clouds of smoke that smokers are familiar with from cigarettes. Ibiza Club celebrates summer all year round by creating wonderful E-Liquids that bring a little Mediterranean sunshine to some truly classic e-liquid flavours. These 50/50 e-juices create a party of flavour on your tastebuds with their perfect balance of flavour, vapour and throat hit and offer great value to experienced and non-experienced vapers alike. Why not try other classic flavours in Ibiza Club’s sun-soaked collection, including Cherry Menthol, Blue Raspberry and Apple and Blackcurrant.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "1121204",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1121210",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ibiza-club-apple-blackcurrant-menthol-eliquid-5050__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ibiza-club-apple-and-black-eliquid_1_1.jpg?v=1729049368",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ibiza-club-apple-blackcurrant-menthol-eliquid-5050__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ibiza-club-apple-and-black-eliquid.jpg?v=1729049368",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ibiza-club-apple-blackcurrant-menthol-eliquid-5050__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ibiza-club-apple-and-black-eliquid_1.jpg?v=1729049368",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.334Z"
+}

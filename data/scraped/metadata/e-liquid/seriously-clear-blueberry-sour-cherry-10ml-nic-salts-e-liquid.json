@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15820571017597",
+  "slug": "seriously-clear-blueberry-sour-cherry-10ml-nic-salts-e-liquid",
+  "title": "Seriously Clear Blueberry Sour Cherry 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/seriously-clear-blueberry-sour-cherry-10ml-nic-salts-e-liquid",
+  "brand": "Seriously Clear",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Seriously Clear Blueberry Sour Cherry is an intensely satisfying blend that masterfully balances sweet and tart dark fruits. The inhale brings the rich, authentic taste of ripe Blueberry, which is quickly met by the sharp, acidic snap of Sour Cherry on the exhale. This double-concentrated approach creates a dynamic and complex fruit profile, ensuring the contrast between sweet and sour remains vibrant and distinct. Mixed to a 50VG/50PG ratio, this nicotine salt e-liquid is optimised for low-powered MTL (Mouth-to-Lung) devices, such as pod vape kits and pen-style starter kits. The premium nicotine salt formulation provides a smooth throat hit and rapid nicotine satisfaction, making it a highly effective option for everyday use. For the best performance and clear flavour delivery, it is recommended to pair this e-liquid with coils or pods ranging between 0.8ohm and 1.2ohm. The Seriously Clear collection by the acclaimed UK mixologists at Doozy Vape Co. and Crystal Clear offers a premium range of double-concentrated \"bar salt\" e-liquids. Designed to provide maximum flavour intensity with a remarkably clean finish, this line focuses on sharp, vibrant fruit and sour profiles. Supplied in a 10ml bottle, this e-liquid is available in 5mg, 10mg, and 20mg strengths, providing a versatile and satisfying choice for your refillable device. Enjoy hassle-free vaping with a refillable pod vape or starter vape kit setup.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153806",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153812",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153818",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__seriously-clear-blueberry-sour-cherry-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Sour-Cherry-Seriously-Claer-10ml-nic-salts.jpg?v=1772031591",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.440Z"
+}

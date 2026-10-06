@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639381991748",
+  "slug": "riot-squad-e-liquid-cherry-fizzle",
+  "title": "Riot Squad Cherry Fizzle Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-e-liquid-cherry-fizzle",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Pucker up for an iconic e-liquid from Riot Squad. Sugary sweet with a sublime sour streak, this juice boasts rich, bold Cherry balanced with an invigorating sherbet tang. This convenient 50ml nicotine-free shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape to your liking. Its 70VG/30PG ratio makes it ideal for Sub-Ohm Vape Kits .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "RS-PG-50-CF-00-VG",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-e-liquid-cherry-fizzle__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/classics-50ml-cherry-fizzle.jpg?v=1729037404",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.639Z"
+}

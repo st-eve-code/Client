@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15454593745277",
+  "slug": "doozy-vape-co-infinity-blue-razz-mojito-50-50-shortfill-e-liquid-100ml",
+  "title": "Doozy Vape Co Infinity Blue Razz Mojito 50/50 Shortfill E-Liquid 100ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-blue-razz-mojito-50-50-shortfill-e-liquid-100ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Blue Razz Mojito by Doozy Infinity fuses tangy Blue Raspberry with the unmistakable zesty freshness of a sophisticated Mojito cocktail. The vibrant Blue Raspberry brings a sweet-sour burst up front, balanced by a zingy streak of Lime and a touch of herbal Mint, capturing the bright, refreshing spirit of a classic Mojito. A smooth wave of cool Ice on the exhale adds clarity and keeps the flavour sharp and beautifully defined from start to finish. This 50VG/50PG e-liquid is ideal for mouth-to-lung (MTL) vaping with pod kits, pens and compact refillable devices. The 120ml shortfill bottle contains 100ml of nicotine-free e-liquid, with enough space to add two 10ml nic shots for a customised strength. Doozy Infinity Podfills offer a satisfying way to enjoy 50/50 blends in larger bottles — perfect for fans of smooth throat hits and vibrant flavour.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "50/50 Shortfill",
+    "Infinity",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144402",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-blue-razz-mojito-50-50-shortfill-e-liquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Mojito-Doozy-Infinity-PodFill-100ml-Bottle.jpg?v=1754924309",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.544Z"
+}

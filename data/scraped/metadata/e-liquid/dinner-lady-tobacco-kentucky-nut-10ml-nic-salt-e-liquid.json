@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15034413973885",
+  "slug": "dinner-lady-tobacco-kentucky-nut-10ml-nic-salt-e-liquid",
+  "title": "Dinner Lady Tobacco Kentucky Nut 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-tobacco-kentucky-nut-10ml-nic-salt-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dinner Lady’s Bar Salts Kentucky Nut Tobacco is a rich and earthy blend that brings together the deep, smoky character of Kentucky Tobacco with the earthy sweetness of roasted Nuts. The bold, full-bodied tobacco flavour is complemented by a nutty warmth, creating a smooth and well-rounded vape with a subtly sweet finish. Part of the Bar Salts collection, Kentucky Nut Tobacco is designed to replicate the authentic, complex flavours often found in disposable vapes. Using a double-concentrated Nic Salt formula, this e-liquid ensures a lasting depth of flavour while delivering a consistently satisfying vape. Blended at 50VG/50PG, this e-liquid offers an excellent balance of vapour production and flavour clarity, making it ideal for MTL (mouth-to-lung) vaping. The nicotine salt formulation provides a smooth throat hit and rapid nicotine relief, making it best suited for use with MTL (mouth-to-lung) pod kits and classic vape starter devices. Since 2016, Dinner Lady has been crafting premium e-liquids that are now enjoyed in over 80 countries worldwide. Their commitment to high-quality ingredients and expertly developed blends continues to make them a trusted choice for vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1138612",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138620",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-tobacco-kentucky-nut-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DL-Bar-Salts-TOBACCO-Kentucky-Nut-10ml-10mg-GB.jpg?v=1740399775",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.490Z"
+}

@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15514820673917",
+  "slug": "innokin-plexus-go-pod-vape-kit",
+  "title": "Innokin Plexus Go Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-plexus-go-pod-vape-kit",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Plexus Go is a lightweight, classic pen-style pod kit designed for simple, all-day MTL (mouth-to-lung) vaping. A 1000mAh built-in battery delivers up to 16W with 0.01s inhale activation, so there are no buttons or settings to manage. The 2ml Plexus cartridge features a 360° transparent design and a clean top-sliding refill, plus a side airflow slider to fine-tune the draw from tight to slightly looser MTL. The kit includes a 0.8ohm mesh cartridge (best around 13–16W). Additional Plexus cartridges are available in 0.6ohm dual-mesh for a warmer, fuller draw and 1.2ohm mesh for a cooler, gentler inhale. Finished in stainless steel and pocket-friendly in size, Plexus Go is an easy choice for new vapers and anyone who wants a straightforward daily device. Colours: Sakura Pink, Frost Blue, Indigo Blue, Moonlight Silver, Midnight Black. Browse our vape juice and find the perfect flavour to match this kit. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1142856",
+    "compatible-with-1142857",
+    "compatible-with-1142858",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/DTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Frost Blue",
+        "Midnight Black",
+        "Indigo Blue",
+        "Moonlight Silver",
+        "Sakura Pink"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Frost Blue",
+      "sku": "1142844",
+      "price": 7.99
+    },
+    {
+      "title": "Midnight Black",
+      "sku": "1142841",
+      "price": 7.99
+    },
+    {
+      "title": "Indigo Blue",
+      "sku": "1142842",
+      "price": 7.99
+    },
+    {
+      "title": "Moonlight Silver",
+      "sku": "1142843",
+      "price": 7.99
+    },
+    {
+      "title": "Sakura Pink",
+      "sku": "1142845",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-plexus-go-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_GO_Frost_Blue.jpg?v=1757330408",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-go-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_GO_Midnight_Black.jpg?v=1757330408",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-go-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_GO_Indigo_Blue.jpg?v=1757330408",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-go-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_GO_Moonlight_Silver.jpg?v=1757330408",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-go-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-PLEXUS_GO_Sakura_Pink.jpg?v=1757330332",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.096Z"
+}

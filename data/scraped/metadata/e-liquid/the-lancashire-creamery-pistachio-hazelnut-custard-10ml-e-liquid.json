@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15335455850877",
+  "slug": "the-lancashire-creamery-pistachio-hazelnut-custard-10ml-e-liquid",
+  "title": "The Lancashire Creamery Pistachio & Hazelnut Custard 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/the-lancashire-creamery-pistachio-hazelnut-custard-10ml-e-liquid",
+  "brand": "The Lancashire Creamery",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pistachio and Hazelnut Custard by Lancashire Creamery is a decadent dessert blend that brings together rich, roasted Nut notes with silky-smooth Vanilla Custard. The Pistachio delivers a mellow, nutty warmth, while the Hazelnut adds deeper, toasted character to the base. These earthy tones are lifted by the soft sweetness of creamy Custard, creating a luxurious and well-rounded flavour profile that lingers on the tastebuds. This nicotine salt e-liquid provides a smooth, tactile throat hit with fast-absorbing nicotine. Blended at a 50VG/50PG ratio, it’s designed for mouth-to-lung (MTL) vaping with refillable pod vape kits , vape pens , and starter vape kits . Available in 5mg, 10mg, and 20mg strengths to suit a wide range of vapers. Lancashire Creamery e-liquids are proudly made in the UK and inspired by indulgent dessert traditions, offering premium-quality flavours for vapers with a taste for the rich and satisfying.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143187",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1143181",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143175",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-lancashire-creamery-pistachio-hazelnut-custard-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-lancashire-creamery-pistachio-hazelnut-custard-10ml-nicotine-salts.jpg?v=1751297585",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.454Z"
+}

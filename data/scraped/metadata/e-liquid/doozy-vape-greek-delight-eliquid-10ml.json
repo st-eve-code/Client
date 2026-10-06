@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639447298372",
+  "slug": "doozy-vape-greek-delight-eliquid-10ml",
+  "title": "Doozy Vape Co Greek Delight E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-greek-delight-eliquid-10ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "If you’ve ever sunk your teeth into the sweet, sticky, nutty delight that is the Greek speciality Baklava, then you may already have a clue as to the delicious pleasure that awaits in this irresistible eliquid from Doozy Vape. You’ll taste golden honey and chopped nuts, all wrapped in rich, buttery filo pastry. The 70% Vegetable Glycerine, 30% Propylene Glycol formula makes this eliquid ideal for sub-ohm vaping, producing mighty clouds on top of fantastic flavour and a smooth, comfortable, throat hit. Sub-ohm vaping generally requires the use of high-powered vape kits, including pod vape kits and pod mods with higher power outputs, some pen vape kits and advanced kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DTL",
+    "High VG E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "DV-DV-10-DS-GD-70-30-06-SO",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-greek-delight-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-co-greek-delight-e-liquid-10ml.jpg?v=1729040064",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.628Z"
+}

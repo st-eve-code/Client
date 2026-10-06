@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14874155483517",
+  "slug": "slushie-bar-xtra-pom-peach-punch-nic-salt-eliquid",
+  "title": "Slushie Bar Xtra Pom Peach Punch 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-xtra-pom-peach-punch-nic-salt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Slushie Bar Xtra Pom Peach Punch blends the vibrant sweetness of ripe Peach with the sharp tang of Pomegranate for a perfectly balanced fruit vape that’s bursting with flavour. The delicate yet juicy Peach flavour combines with the tart bite of Pomegranate to deliver a unique and satisfying vaping experience that’s ideal for vapers who enjoy bold, fruity blends with a touch of sweetness. Crafted with a 50VG/50PG ratio, Slushie Bar Xtra Nic Salts are designed for use with Mouth-to-Lung (MTL) vape kits and pod systems. Each e-liquid in the collection provides smooth throat hits and rapid nicotine relief, making them ideal for those seeking a satisfying alternative to traditional tobacco. Available in 10mg and 20mg nicotine strengths, these e-liquids are perfect for all-day vaping with a flavour-packed experience waiting in every puff.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1136648",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1136658",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-xtra-pom-peach-punch-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-pom-peach-punch_1_1.jpg?v=1732843038",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-pom-peach-punch-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-pom-peach-punch.jpg?v=1732843038",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-pom-peach-punch-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-pom-peach-punch_1.jpg?v=1732843038",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.488Z"
+}

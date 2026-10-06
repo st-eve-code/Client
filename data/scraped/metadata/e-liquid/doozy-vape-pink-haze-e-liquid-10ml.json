@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639446479172",
+  "slug": "doozy-vape-pink-haze-e-liquid-10ml",
+  "title": "Doozy Vape Co Pink Haze E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-pink-haze-e-liquid-10ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Doozy Vape Co.’s take on a Pink Lemonade is something to behold with the taste buds. Pink Haze is a super-summery beverage blend where authentic, tangy lemon is the shining star, balanced with other delicate citrus notes for a truly mouth-watering all-day vape. This liquids 70VG/30PG ratio makes it ideal for high-powered pod kits , vaping mods and sub-ohm tanks .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DTL",
+    "High VG E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "DV-DV-10-FR-PH-70-30-03-SO",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "DV-DV-10-FR-PH-70-30-06-SO",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-pink-haze-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-co-pink-haze-e-liquid-10ml_1.jpg?v=1729040028",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.629Z"
+}

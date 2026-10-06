@@ -1,0 +1,128 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15363721757053",
+  "slug": "freemax-rexa-lite-pod-vape-kit",
+  "title": "Freemax Rexa Lite Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/freemax-rexa-lite-pod-vape-kit",
+  "brand": "Freemax",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "Compact, capable and easy to use, the Freemax Rexa Lite Pod Vape Kit is a lightweight device that offers dependable performance for both mouth-to-lung (MTL) and restricted direct-lung (RDL) vaping. With a 1000mAh battery and a power output of up to 28W, the Rexa Lite is well-suited to everyday use with Nic Salt or 50/50 freebase e-liquids . Each kit comes with a 0.6ohm Rexa Duomax Pod, built with Freemax’s latest coil platform. The Duomax design combines parallel mesh coils with advanced tea fibre cotton for enhanced flavour and coil longevity, capable of delivering up to 100ml of Freebase or 60ml of Nic Salt e-liquid before needing replacement. A leak-resistant slide-to-fill top cap ensures refills are quick and clean. The Rexa Lite includes a side-mounted airflow slider that lets you customise the draw from tight to airy. A single button controls activation, with three LED indicators showing remaining battery life. Compact enough for travel and simple enough for beginners, this kit offers a smooth introduction to the Rexa platform and Duomax performance. Please Note: When filling your pod with vape juice for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil. Please Note: This kit does NOT come with a USB-C cable.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1141860",
+    "compatible-with-1141861",
+    "compatible-with-1141862",
+    "compatible-with-1141863",
+    "compatible-with-1141864",
+    "compatible-with-1141865",
+    "compatible-with-1141866",
+    "Free 1 TP Bar Salt",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Cyan Purple",
+        "Grey",
+        "Orange Argent",
+        "Pink",
+        "Blue",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Cyan Purple",
+      "sku": "1141816",
+      "price": 6.99
+    },
+    {
+      "title": "Grey",
+      "sku": "1141812",
+      "price": 6.99
+    },
+    {
+      "title": "Orange Argent",
+      "sku": "1141815",
+      "price": 6.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1141814",
+      "price": 6.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1141813",
+      "price": 6.99
+    },
+    {
+      "title": "Black",
+      "sku": "1141811",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-rexa-lite-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-lite-Cyan-Purple-min.jpg?v=1752156747",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-lite-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-lite-Black-min.jpg?v=1752156747",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-lite-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-lite-Gray-min.jpg?v=1752156747",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-lite-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-lite-Blue-min.jpg?v=1752156747",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-lite-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-lite-Pink-min.jpg?v=1752156747",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-lite-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-lite-Orange-Argent-min.jpg?v=1752156747",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.094Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639355253060",
+  "slug": "dinner-lady-e-liquid-melon-twist",
+  "title": "Dinner Lady Melon Twist Short Fill",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-e-liquid-melon-twist",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "You’re twisting my melon, man… This totally tropical tincture from Dinner Lady’s brand-new Fruits range is a twisted medley of creamy melon and fresh watermelon with a tangy gild of succulent kiwi. Light, bright and endlessly-refreshing, this melon mixture is as close as it gets to a bottled ray of sunshine and promises sweetly-scented clouds which are fit to burst with enticing, exotic flavour. The high-VG base of Melon Twist is ideal for sub ohm vaping and is supplied in a 50ml bottle with space for a 10ml nicotine shot of your choice. This allows you to customise your vape to suit your individual needs and lets you combine sweet satisfaction with moreish, melon-y madness.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DL-DL-50-TW-00-VG",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-e-liquid-melon-twist__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinner-lady-e-liquid-melon-twist.jpg?v=1729036080",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.640Z"
+}

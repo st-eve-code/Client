@@ -1,0 +1,96 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15666479464829",
+  "slug": "uwell-caliburn-g4-classic-pod-vape-kit",
+  "title": "Uwell Caliburn G4 Classic Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-g4-classic-pod-vape-kit",
+  "brand": "Uwell",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 22.95,
+    "max": 22.95,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Caliburn G4 Classic Pod Vape Kit blends premium engineering with practical performance in a sleek, lightweight design. Built from durable aluminium alloy, it houses a 1400 mAh high-density battery and supports up to 35 W of power for mouth-to-lung (MTL) and restricted direct-to-lung (RDL) vaping. A dual activation system lets you vape by either pressing the button or simply inhaling, while reversible airflow and a damping slider offer precise control over draw tightness. Inside, Uwell’s Twin Smart Vaping Sensors work with the Master Taste Engine chipset to deliver consistent output and detailed flavour, backed by U² Anti-Leak Technology for clean reliability. At the base, dynamic ambient lighting provides clear battery indication—green for high, blue for medium, red for low—and adds subtle visual feedback when locking, unlocking, or powering on. Compatible with Uwell Caliburn GPP pods featuring built-in FeCrAl mesh coils, the G4 Classic includes two top-fill pods (0.4 ohm and 0.9 ohm) for fast refills and dependable flavour delivery. USB-C 2 A charging restores power in under an hour for effortless all-day use. We Recommend using the following E-Liquid with these pods: 0.4ohm - Use High VG (Sub-Ohm) E-Liquid ONLY 0.9ohm - Use Nic salt or 50/50 (freebase) E-Liquids. Please use this pod with the included e-Liquids. Please Note: When filling your pod with vape liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1126620",
+    "compatible-with-1126621",
+    "compatible-with-1133446",
+    "compatible-with-1135358",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/DTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Abyss Blue",
+        "Classic Silver",
+        "Classic Black",
+        "Alpine Green"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Abyss Blue",
+      "sku": "1149342",
+      "price": 22.95
+    },
+    {
+      "title": "Classic Silver",
+      "sku": "1149339",
+      "price": 22.95
+    },
+    {
+      "title": "Classic Black",
+      "sku": "1149340",
+      "price": 22.95
+    },
+    {
+      "title": "Alpine Green",
+      "sku": "1149341",
+      "price": 22.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-g4-classic-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Abyss-Blue-Uwell-Caliburn-G4-Classic-pod-kit.jpg?v=1763114560",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-g4-classic-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Classic-Silver-Uwell-Caliburn-G4-Classic-pod-kit.jpg?v=1763114560",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-g4-classic-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Classic-Black-Uwell-Caliburn-G4-Classic-pod-kit.jpg?v=1763114560",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-g4-classic-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Alpine-Green-Uwell-Caliburn-G4-Classic-pod-kit.jpg?v=1763114560",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.092Z"
+}

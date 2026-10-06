@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639574634820",
+  "slug": "riot-squad-nic-salt-sub-lime",
+  "title": "Riot Squad Sub Lime Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-nic-salt-sub-lime",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Riot Squad Riot Salt Sub Lime Nic Salt E-Liquid is a zesty treat for the tastebuds. Add this Riot Salt vape juic e to your vape device and you won’t be disappointed . Each inhale of this Su b Lime Riot Salt by Riot Squad envelops your tastebuds in the taste of lemon and lime. This is a classic flavour given a refreshing modern lift . Riot Squad’s Sub Lime delivers an invigorating citrus rush that’s perfectly smooth yet sweet and sour. Riot Squad’s Riot Salt E-Liquids are formulated with hybrid nicotine, a unique and innovative blend of nicotine freebase and nicotine salts. The combination of the freebase and nicotine salt and 50/50 PG and VG ratio provides the perfect balance of flavour and smooth throat hit. Ensuring that each puff is as silky smooth as the last. If you love this flavour, then you are in luck. The Riot Squad vape juice collection has plenty more delectable Riot Salt flavours to try. Why not add to your Nic Salt E-Liquid collection and treat yourself to such flavours as Riot Squad Triple Mint Nic Salt E-Liquid or the Riot Squad Lemon Mint Nic Salt E-Liquid. At Vapestore we stock a wide range of vape juice flavours & E-Liquid types. Why not c heck out our full range including fantastic Multi-Buy E-Liquid Deals. Shop our Full Range of Multi-Buy Nicotine Salt E-Liquids. Or if you really can’t decide then why not take a look at all of our vape juices here.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1107716",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "RS-NS-10-SL-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "RS-10-SL-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-nic-salt-sub-lime__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-sublime_2.jpg?v=1729042379",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-nic-salt-sub-lime__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-sublime_3.jpg?v=1729042379",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-nic-salt-sub-lime__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-sublime_1.jpg?v=1729042379",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-nic-salt-sub-lime__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-sublime.jpg?v=1729042379",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.468Z"
+}

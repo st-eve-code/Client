@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14876999811453",
+  "slug": "vampire-vape-purple-craze-ice-10ml-nic-salt-e-liquid",
+  "title": "Vampire Vape Purple Craze Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-purple-craze-ice-10ml-nic-salt-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s Purple Craze Ice Nic Salt combines the iconic flavours of two fan-favourite e-liquids: Heisenberg and Pinkman. Purple Craze Ice merges Heisenberg’s cool menthol breeze and aniseed edge with the tangy, ripe red berries and sweet, jammy fruits of Pinkman, adding a more intense icy menthol kick to create a fresh and invigorating vape. This complex and instantly compelling flavour blend offers a perfect balance of rich fruity sweetness and frosty coolness, making it an excellent choice for vapers who love bold, icy flavours. With a 50VG/50PG ratio, Purple Craze Ice Nic Salts are crafted for mouth-to-lung (MTL) devices and pod kits, delivering a smooth throat hit and quick nicotine relief. Available in 10mg and 20mg strengths, the nicotine salt formulation ensures faster nicotine absorption, and a smoother vaping experience compared to traditional freebase nicotine, making it ideal for vapers seeking effective nicotine relief.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020",
+    "VV Purple Craze"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1131900",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1131901",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-purple-craze-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uk_vv_10ml-nicsalts_20mg_purplecraze-ice_1.jpg?v=1733064076",
+      "position": 1,
+      "width": 565,
+      "height": 565,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.492Z"
+}

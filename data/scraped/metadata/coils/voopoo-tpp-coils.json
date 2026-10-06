@@ -1,0 +1,97 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639452082500",
+  "slug": "voopoo-tpp-coils",
+  "title": "VooPoo TPP Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/voopoo-tpp-coils",
+  "brand": "VooPoo",
+  "productType": "Coils",
+  "price": {
+    "min": 6.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Drag-X TPP Pod Tank features a brand-new range of coils to join Voopoo's arsenal, The TPP series. These new TPP coils are incredibly unique, smooth and flavoursome coils made primarily for sub-ohm vapers but provide an amazing hit at higher wattages too: Recommend Wattage: TPP-DM1 0.15ohm Coil - 60w - 80w TPP-DM2 0.2ohm Coil - 40w - 60w TPP-DM3 Mesh 0.15Ohm: 80 - 100W TPP-DM4 Mesh 0.3Ohm: 32-40W",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "DM1 0.15ohm",
+        "DM2 0.2ohm",
+        "DM3 0.15ohm Mesh",
+        "DM4 0.3ohm Mesh"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "DM1 0.15ohm",
+      "sku": "VP-VP-CO-TPP-DM1-0.15- 3P",
+      "price": 7.49
+    },
+    {
+      "title": "DM2 0.2ohm",
+      "sku": "VP-VP-CO-TPP-DM2-0.2-3P",
+      "price": 7.49
+    },
+    {
+      "title": "DM3 0.15ohm Mesh",
+      "sku": "VP-CO-TPP-DM3-MSH-0.15-3P",
+      "price": 7.49
+    },
+    {
+      "title": "DM4 0.3ohm Mesh",
+      "sku": "VP-CO-TPP-DM4-MSH-0.3-3P",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-tpp-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_tpp_coil_dm1-0-15ohm-3pk_1.jpg?v=1729040265",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-tpp-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_tpp_coil_dm1-0-15ohm-3pk.jpg?v=1729040265",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-tpp-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_tpp_coil_dm2_0_2ohm_3pk.jpg?v=1729040265",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-tpp-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_tpp_coil_dm3_0_15ohm_3pk.jpg?v=1729040265",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-tpp-coils__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_tpp_coil_dm4_0_3ohm_3pk.jpg?v=1729040265",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.868Z"
+}

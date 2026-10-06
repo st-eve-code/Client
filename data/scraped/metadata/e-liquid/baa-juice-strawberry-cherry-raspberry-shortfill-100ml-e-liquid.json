@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15494128533885",
+  "slug": "baa-juice-strawberry-cherry-raspberry-shortfill-100ml-e-liquid",
+  "title": "Baa Juice Strawberry Cherry Raspberry Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-strawberry-cherry-raspberry-shortfill-100ml-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Strawberry Cherry Raspberry Shortfill blends three berry favourites into one rich vape. Strawberry sets the tone with its sweet, summery flavour, Cherry brings a juicy depth, and Raspberry adds a tangy lift. Together they create a balanced berry mix that stays vibrant from first puff to last. Supplied in a 120ml bottle with 100ml of nicotine-free e-liquid, there’s space for two nic shots if required. Blended at 50/50 ratio, this Shortfill is designed for MTL pod kits to produce a balanced vaping style with vibrant flavour. Baa Juice Shortfills use double-concentrated flavouring, ensuring a fruit blend that’s bold, well-defined and long-lasting.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144558",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-strawberry-cherry-raspberry-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-baa-juice-strawberry-cherry-raspberry-100ml.jpg?v=1756381761",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

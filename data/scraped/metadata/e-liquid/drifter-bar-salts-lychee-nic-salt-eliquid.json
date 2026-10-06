@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639868662084",
+  "slug": "drifter-bar-salts-lychee-nic-salt-eliquid",
+  "title": "Drifter Bar Salts Lychee 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/drifter-bar-salts-lychee-nic-salt-eliquid",
+  "brand": "Drifter",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Drifter Bar Salts Lychee is an exotic journey into the heart of one of Asia's most beloved and enigmatic fruits. This e-liquid captures the essence of lychee's uniquely sweet and floral taste, offering a vaping experience that's both light, luscious and refreshingly sweet. From the first inhale, the distinctive flavour of lychee envelops your senses, providing a taste that's akin to a blend of rose, grape, and pear. This sweet symphony is underscored by a subtle floral note, making each puff a delightfully exotic experience. The lychee flavour is authentic and well-rounded, making this e-liquid a perfect choice for those who love far-flung and naturally sweet tropical fruit flavours. Drifter's Bar Salts e-liquids are the perfect choice for starter vape kits and low-powered pod devices. Unlike regular freebase e-liquids, nicotine salts feature an alkaline formulation that allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids. Nicotine salt e-liquids provide near-instant relief from nicotine cravings because the nicotine is absorbed into the bloodstream faster. This makes them an ideal choice for recent ex-smokers or vapers seeking immediate, satisfying nicotine relief. Drifter's Bar Salts and Bar Juice collections offer mouth-watering e-liquids inspired by the most popular flavours found in disposable vapes. They're just as intensely delicious and satisfying as disposable vape flavours, but with the added benefit of being compatible with your own reusable vape device. This saves you money and reduces waste in the process. Why not try other incredible flavours from Drifter's Bar Salts and Bar Juice collections? From sweet and refreshing Cotton Candy Ice to classics like Cherry and Blue Razz Lemonade, whatever your taste in e-liquid, Drifter E-liquid has an incredible flavour waiting to light up your tastebuds.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1129188",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1129194",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__drifter-bar-salts-lychee-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-lychee-20mg-10ml-nic-salt-eliquid_1_1.jpg?v=1729057881",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-lychee-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-lychee-20mg-10ml-nic-salt-eliquid.jpg?v=1729057881",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-bar-salts-lychee-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/drifter-lychee-20mg-10ml-nic-salt-eliquid_1.jpg?v=1729057881",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.580Z"
+}

@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15577825542525",
+  "slug": "ivg-intense-salts-strawberry-kiwi-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Strawberry Kiwi 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-strawberry-kiwi-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Strawberry Kiwi pairs the juicy sweetness of ripe Strawberries with the sharp, exotic tang of Kiwi. The result is a lively fruit blend where smooth berry notes are lifted by a bright edge. Blended at 50VG/50PG, this Nic Salt e-liquid delivers consistent flavour, discreet vapour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths, Strawberry Kiwi is ideal for mouth-to-lung (MTL) pod kits, vape pens and starter devices. Part of the IVG Intense Salts range, Strawberry Kiwi presents a familiar pairing with clarity and freshness.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148480",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148512",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-strawberry-kiwi-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Strawberry-Kiwi-min.jpg?v=1759400712",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.541Z"
+}

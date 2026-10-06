@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15029109850493",
+  "slug": "ruthless-bar-salts-grape-heads-on-ice-10ml-e-liquid",
+  "title": "Ruthless Bar Salts Grape Heads On Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-bar-salts-grape-heads-on-ice-10ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ruthless Bar Salts Grape Heads on Ice delivers a bold and juicy Grape flavour with a crisp menthol twist. The deep, candy-like sweetness of ripe Grapes is balanced by a subtle tang, creating a rich yet refreshing profile. A cooling menthol finish enhances the experience, making each inhale smooth and satisfyingly chilled. Blended at 50VG/50PG, this e-liquid is optimised for MTL (mouth-to-lung) pod kits and starter devices, ensuring a well-balanced vape with consistent flavour and vapour production. The nicotine salt formulation provides a smooth throat hit and rapid nicotine absorption, making it an excellent choice for vapers who enjoy fruity profiles with a cool exhale. Ruthless are one of the most influential brands in American e-liquids, known for crafting bold and unique flavours that have inspired the industry for years. Their expertly blended shortfills and nic salts continue to be a favourite among vapers on both sides of the pond who prize high-quality, distinct and flavourful e-liquids that push the boundaries of what’s possible in vape juice.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1139303",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139319",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-bar-salts-grape-heads-on-ice-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ruthless-10ML_GrapeHeadsOnIce.jpg?v=1740072324",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.472Z"
+}

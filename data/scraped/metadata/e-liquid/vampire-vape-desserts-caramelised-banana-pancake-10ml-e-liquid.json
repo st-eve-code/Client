@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15124710654333",
+  "slug": "vampire-vape-desserts-caramelised-banana-pancake-10ml-e-liquid",
+  "title": "Vampire Vape Desserts Caramelised Banana Pancake 10ml  E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-desserts-caramelised-banana-pancake-10ml-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Caramelised Banana Pancake by Vampire Vape Desserts delivers the rich taste of golden banana slices seared in syrupy sugar, layered over a warm, buttery pancake base. This dessert-inspired e-liquid captures the familiar comfort of a classic pancake stack, pairing smooth banana flavour with notes of caramelised glaze and subtle pastry notes. Available in a choice of 0mg, 3mg, 6mg, 12mg, and 18mg freebase nicotine strengths, this e-liquid is designed for mouth-to-lung (MTL) vaping with starter kits, pod systems, and vape pens. The 3mg strength is blended at a balanced 50VG/50PG ratio, while the 6mg, 12mg, and 18mg strengths feature a 40VG/60PG ratio for a more pronounced throat hit and flavour. Each 10ml bottle is produced in the UK and fully TPD-compliant, offering a flavourful option for vapers who enjoy rich, dessert-themed profiles crafted by one of the UK’s most iconic e-liquid brands. Also available in High-VG Shortfills and DIY Concentrates.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Desserts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1138217",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1138219",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1138220",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1138221",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1138222",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-desserts-caramelised-banana-pancake-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/UK--Vampire-Vape--10ml-Freebase---Desserts-Collection---Carmelised-Banana-Pancake---Bottle.jpg?v=1743666601",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.440Z"
+}

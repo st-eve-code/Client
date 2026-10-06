@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14933774008701",
+  "slug": "pure-mist-silk-mist-10ml-e-liquid",
+  "title": "Pure Mist Silk Mist 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pure-mist-silk-mist-10ml-e-liquid",
+  "brand": "Pure Mist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pure Mist Silk Mist offers a smooth and mild tobacco flavour, perfectly suited for vapers who prefer a lighter, refined tobacco profile. Inspired by low-tar cigarettes, this e-liquid provides a familiar and satisfying vaping experience. The Pure Mist High-PG collection caters to different vaping styles with its tailored VG/PG ratios. The 3mg nicotine strength features a 50VG/50PG blend for balanced vapour and flavour, while the 0mg, 6mg, 12mg, and 18mg strengths use a high-PG 30VG/70PG ratio for a more intense flavour profile with discreet vapour. Designed for Mouth-to-Lung (MTL) devices, Pure Mist Silk Mist is made in the UK with high-quality ingredients to ensure consistent satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "b2b",
+    "High PG E-Liquid",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1094554",
+      "price": 2.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1009221",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1094557",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1094555",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1094556",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pure-mist-silk-mist-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/puremist-10ml-e-liquid-silkmist.jpg?v=1736502303",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.382Z"
+}

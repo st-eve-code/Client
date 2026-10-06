@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15735040246141",
+  "slug": "wick-liquor-ardour-shattered-10ml-nic-salts-e-liquid",
+  "title": "Wick Liquor Ardour Shattered 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/wick-liquor-ardour-shattered-10ml-nic-salts-e-liquid",
+  "brand": "Wick Liquor",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Wick Liquor Ardour Shattered brings a frosty edge to the deep berry Ardour blend. It features the same braised blackcurrant and raspberry puree base but adds a dash of Wick Liquor’s signature ice. The cooling effect sharpens the fruit notes, creating a crisp and refreshing berry vape. Manufactured in Staffordshire, Wick Liquor is a premium boutique brand famous for its \"big block\" approach to flavour, offering some of the most distinct and high-quality blends on the market. This Nic Salt version offers the same legendary taste in a smooth format. With a 50% VG / 50% PG blend, this e-liquid is perfectly balanced for mouth-to-lung (MTL) vaping. It is designed to pair flawlessly with low-wattage pod kits and starter vape kits, producing discreet vapour and exceptional flavour clarity. The nicotine salt formulation ensures a smooth throat hit and rapid satisfaction. Wick Liquor Nic Salts are available in 10mg and 20mg strengths. This 10ml e-liquid is TPD-compliant and features a childproof cap and tamper-evident seal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142170",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142171",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__wick-liquor-ardour-shattered-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ardour-Shattered-5050-20mg-Wick-Liqour-10ml.jpg?v=1766159917",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.333Z"
+}

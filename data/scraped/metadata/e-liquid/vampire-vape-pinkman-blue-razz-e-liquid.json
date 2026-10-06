@@ -1,0 +1,109 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639895400772",
+  "slug": "vampire-vape-pinkman-blue-razz-e-liquid",
+  "title": "Vampire Vape Pinkman Blue Razz 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-pinkman-blue-razz-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman Blue Razz E-Liquid takes the legendary Pinkman profile and adds a sharp, fruity twist. This blend is anchored by the signature Pinkman foundation of sweet Red Berries, merging the familiar taste of Strawberry and Raspberry with those characteristic zesty Citrus undertones. To this established classic, Vampire Vape infuses the bold, tangy taste of Blue Raspberry. The Blue Razz adds a \"slushy\" style sharpness that cuts through the sweeter red berry core, creating a complex fruit vape that balances sweetness with a distinct, refreshing tang. This 10ml freebase e-liquid is available in a versatile range of nicotine strengths, including 0mg, 3mg, 6mg, 12mg, and 18mg. Please note that Vampire Vape adjusts the VG/PG ratio depending on the nicotine strength selected: 3mg is mixed at 50VG/50PG, making it ideal for most starter kits and pod vape kits. 0mg, 6mg, 12mg, and 18mg are mixed at 40VG/60PG, which provides a sharper throat hit and is best suited for MTL (Mouth-to-Lung) starter kits and lower-powered devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Pinkman"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1127063",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1127066",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1127070",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1127074",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1127078",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-pinkman-blue-razz-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-blue-razz-18mg_1.jpg?v=1729059642",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-pinkman-blue-razz-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-blue-razz-3mg.jpg?v=1729059642",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-pinkman-blue-razz-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-blue-razz-6mg.jpg?v=1729059642",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-pinkman-blue-razz-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-blue-razz-12mg.jpg?v=1729059642",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-pinkman-blue-razz-e-liquid__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-blue-razz-18mg.jpg?v=1729059642",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.437Z"
+}

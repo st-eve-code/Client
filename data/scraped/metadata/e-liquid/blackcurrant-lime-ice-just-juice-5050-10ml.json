@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639667040580",
+  "slug": "blackcurrant-lime-ice-just-juice-5050-10ml",
+  "title": "Just Juice Blackcurrant & Lime Ice 10ml 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/blackcurrant-lime-ice-just-juice-5050-10ml",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blackcurrant Lime Ice from Just Juice is a perfectly balanced blend of sweet, sharp blackcurrants, spiked with a dash of zing lime and a refreshing blast of icy menthol for maximum refreshment. This premium e-liquid’s ratio of 50% Vegetable Glycerine (VG), 50% Propylene Glycol (PG) and 3mg, 6mg & 12mg nicotine strength delivers a perfect balance of clouds, vapour and flavour and is ideal for use with starter vape kits, compact pod vape kits and pen vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Just Juice Ice Range",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1117367",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1117368",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1117369",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__blackcurrant-lime-ice-just-juice-5050-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-ice-5050-blackcurrant-lime_1_1_1.jpg?v=1729046877",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__blackcurrant-lime-ice-just-juice-5050-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-ice-5050-blackcurrant-lime.jpg?v=1729046877",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__blackcurrant-lime-ice-just-juice-5050-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-ice-5050-blackcurrant-lime_1.jpg?v=1729046877",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__blackcurrant-lime-ice-just-juice-5050-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-ice-5050-blackcurrant-lime_1_1.jpg?v=1729046877",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.450Z"
+}

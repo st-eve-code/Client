@@ -1,0 +1,110 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639853719876",
+  "slug": "innokin-gomax-replacement-tank-0-19ohm",
+  "title": "Innokin GoMax Vape Tank",
+  "url": "https://www.vapestore.co.uk/products/innokin-gomax-replacement-tank-0-19ohm",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "Looking for a straightforward yet high-performance sub-ohm vaping solution? Meet the Innokin GoMax disposable tank, designed for the Innokin GoMax Tube vape kit. Built to generate incredible vapour and rich flavour, it offers an exceptional Direct-To-Lung (DTL) vaping experience with minimal hassle. The tank boasts a 2ml e-liquid capacity and a top-filling mechanism, allowing for straightforward refills without having to remove the tank from your mod. With its adjustable airflow on the base, you can customise your inhale to be as tight or as loose as you prefer. One of the standout features is the built-in Plex3D Matrix coil. This mesh coil is engineered to provide a superior flavour experience, thanks to its rapid heat-up time and excellent vapour production. The organic cotton wicking further ensures that each puff is full of flavour. The GoMax tank is designed to be disposable, taking the mess and fuss out of coil replacements. Once the coil is spent, simply replace the entire tank. It's a cost-effective and convenient approach to sub-ohm vaping, particularly for those always on the go. And when it comes to e-liquid compatibility, this tank excels with high VG e-liquids . We recommend opting for 70% VG blends or higher for the best possible experience. Overall, the Innokin GoMax disposable tank offers a simple yet satisfying way to enjoy high-performance vaping without the maintenance. Please note: When filling your fixed-coil tank with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1114591"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue",
+        "green",
+        "Pink",
+        "Black",
+        "Clear"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue",
+      "sku": "1114592",
+      "price": 2.49
+    },
+    {
+      "title": "green",
+      "sku": "1114593",
+      "price": 2.49
+    },
+    {
+      "title": "Pink",
+      "sku": "1114594",
+      "price": 2.49
+    },
+    {
+      "title": "Black",
+      "sku": "1114585",
+      "price": 2.49
+    },
+    {
+      "title": "Clear",
+      "sku": "1114595",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-gomax-replacement-tank-0-19ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gomax-tank-black_1.jpg?v=1729056792",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gomax-replacement-tank-0-19ohm__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gomax-tank-blue.jpg?v=1729056792",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gomax-replacement-tank-0-19ohm__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gomax-tank-green.jpg?v=1729056792",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gomax-replacement-tank-0-19ohm__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gomax-tank-pink.jpg?v=1729056792",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gomax-replacement-tank-0-19ohm__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gomax-tank-black.jpg?v=1729056792",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-gomax-replacement-tank-0-19ohm__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-gomax-tank-clear.jpg?v=1729056792",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

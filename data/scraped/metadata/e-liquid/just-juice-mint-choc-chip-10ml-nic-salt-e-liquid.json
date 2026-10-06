@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15272605155709",
+  "slug": "just-juice-mint-choc-chip-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Mint Choc Chip 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-mint-choc-chip-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Mint Choc Chip from the Just Juice Mint Range delivers a dessert-inspired blend of cooling Mint and smooth Chocolate. The inhale is fresh and creamy, evoking mint ice cream, while the exhale introduces sweet Chocolate notes for a satisfying contrast. A brisk Ice finish enhances the cooling sensation without overpowering the sweetness. Crafted with a 50VG/50PG ratio, this Nic Salt e-liquid is perfect for mouth-to-lung (MTL) vape kits and pod devices. Available in 5mg, 10mg and 20mg nicotine strengths, Just Juice Nic Salts offer a smoother throat hit and faster nicotine absorption, providing rapid relief from nicotine cravings. The Just Juice Mint Range is designed to bring the most refreshing and cooling flavours, perfect for those who enjoy a classic mint vape with premium flavour quality.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Just Juice Mint Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1142235",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142241",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142247",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-mint-choc-chip-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-MINT-CHOC-5MG.jpg?v=1748958567",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-mint-choc-chip-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-MINT-CHOC-10MG.jpg?v=1748958602",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-mint-choc-chip-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-MINT-CHOC-20MG.jpg?v=1748958631",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.382Z"
+}

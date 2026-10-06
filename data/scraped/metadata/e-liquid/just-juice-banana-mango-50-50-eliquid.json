@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639805649220",
+  "slug": "just-juice-banana-mango-50-50-eliquid",
+  "title": "Just Juice Banana & Mango 50/50 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-banana-mango-50-50-eliquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Just Juice's Banana & Mango e-liquid is an exquisite blend of two tantalising tropical fruits that will whisk you away to exotic shores from your very first vape. Rich, smooth, creamy, dreamy Banana is complemented by the juicy, sweet, vibrant flavour of luscious Mango, creating a flavour combo that’s absolutely irresistible. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio delivers a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits, compact pod vape kits and pen vape kits. 50/50 e-liquids are the perfect choice for vapers seeking the best of all worlds from their e-liquids. PG, or Propylene Glycol, is an e-liquid ingredient that’s used to carry flavour as well as providing that tactile, satisfying throat hit that makes vaping such an effective substitute for smoking. VG, or Vegetable Glycerin, produces more vapour than PG so better recreates the curls and clouds of smoke that smokers are familiar with from cigarettes. With a 50/50 ratio, these two ingredients can offer vapers the best of all worlds. With blends tailor-made to light up your tastebuds, UK E-liquid legends Just Juice create the tangiest, tastiest, fruitiest flavours around. The flavours are long-lasting, less allergenic and easier on the throat than many alternative e-liquids and come in 50/50, 50/50 and Shortfills.",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "E-liquid Multibuy 4 for £10",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1125555",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1125556",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1125557",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-banana-mango-50-50-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-banana-mango-10ml-5050-eliquid_1_1_1.jpg?v=1729053426",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-banana-mango-50-50-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-banana-mango-10ml-5050-eliquid.jpg?v=1729053426",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-banana-mango-50-50-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-banana-mango-10ml-5050-eliquid_1.jpg?v=1729053426",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-banana-mango-50-50-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-banana-mango-10ml-5050-eliquid_1_1.jpg?v=1729053426",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.408Z"
+}

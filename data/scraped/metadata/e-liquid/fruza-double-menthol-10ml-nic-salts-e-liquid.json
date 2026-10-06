@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15659238850941",
+  "slug": "fruza-double-menthol-10ml-nic-salts-e-liquid",
+  "title": "Fruza Double Menthol 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/fruza-double-menthol-10ml-nic-salts-e-liquid",
+  "brand": "Fruza",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Introducing Double Menthol by Fruza Nic Salts, a pure and powerful Menthol experience. This flavour is designed for those who appreciate a clean, crisp, and intensely refreshing vape. It delivers a punchy, brisk Menthol taste from inhale to exhale, with a sharp, cooling character that’s both simple and deeply satisfying. The Fruza Nic Salts range is crafted for vapers seeking clear, intense, and authentic flavours. Inspired by Japanese precision and artistry, each 10ml e-liquid features a double concentration of flavour, designed to provide a rich and punchy taste experience. With a 50% VG / 50% PG blend, this e-liquid is perfectly balanced for mouth-to-lung (MTL) vaping. It produces a discreet amount of vapour while carrying flavour exceptionally well. The nicotine salt formulation ensures a smooth throat hit, even at higher nicotine levels, providing satisfying and rapid nicotine relief. Fruza Nic Salts are available in 5mg, 10mg, and 20mg strengths, making them a versatile choice for a wide range of vapers. They are ideal for use in low-wattage pod vape kits and starter vape kits This 10ml e-liquid is TPD-compliant, featuring a childproof cap and a tamper-evident seal for your safety. All Fruza e-liquid is made in the UK with high-quality ingredients for a premium and reliable vape.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Fruza E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149721",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1149710",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1149731",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fruza-double-menthol-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-menthol-Fruza-10ml-nicotine-salts-min.jpg?v=1762792130",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.541Z"
+}

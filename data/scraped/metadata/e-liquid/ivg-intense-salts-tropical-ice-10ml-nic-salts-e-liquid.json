@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15575840489853",
+  "slug": "ivg-intense-salts-tropical-ice-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Tropical Ice 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-tropical-ice-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Tropical Ice blends sharp Kiwi, juicy Watermelon and crisp Green Apple, layered over a cooling Ice base. The combination delivers a balance of tangy and sweet notes, lifted by a refreshing chill. Blended at a 50VG/50PG ratio, this Nic Salt ensures consistent flavour delivery, discreet vapour production and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths, it’s well suited to mouth-to-lung (MTL) pod kits, vape pens and starter devices. Part of the IVG Intense Salts range, Tropical Ice offers a mix of exotic fruits with a cooling twist for fruit-and-menthol fans.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148463",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148495",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-tropical-ice-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Tropical-Ice-min.jpg?v=1759328600",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.542Z"
+}

@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15501484982653",
+  "slug": "pod-salt-nexus-white-chocolate-mocha-nic-salt-e-liquid-10ml",
+  "title": "Pod Salt Nexus White Chocolate Mocha Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/pod-salt-nexus-white-chocolate-mocha-nic-salt-e-liquid-10ml",
+  "brand": "Pod Salt",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pod Salt Nexus White Chocolate Mocha Nic Salt offers a rich, indulgent profile inspired by a café favourite. The roasted depth of Coffee provides a strong, aromatic base, softened by the creamy sweetness of White Chocolate. Together, they create a vape that tastes smooth, comforting, and satisfying, with both richness and sweetness in balance. Balanced at 50VG/50PG, this Nic Salt e-liquid is crafted for mouth-to-lung (MTL) vaping with vape starter kits , refillable vape kits , and vape pens . The nicotine salt formulation ensures fast absorption and a tactile yet comfortable throat hit, offering a reliable and flavourful vape experience. As part of the Pod Salt Nexus series, White Chocolate Mocha demonstrates the collection’s variety beyond fruit flavours. Produced in the UK with premium-grade ingredients, this blend reflects Pod Salt’s commitment to high-quality Nic Salt e-liquids.",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pod Salt Nexus",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1148194",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148204",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148214",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pod-salt-nexus-white-chocolate-mocha-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pod-Salt-Nexus-White-Chocolate-Mocha.jpg?v=1756802924",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.444Z"
+}

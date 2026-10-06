@@ -6,7 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "scrape": "tsx scripts/scrape/run.ts all",
+    "scrape:vape-kits": "tsx scripts/scrape/run.ts vape-kits",
+    "scrape:e-liquid": "tsx scripts/scrape/run.ts e-liquid",
+    "scrape:pod-vape-kits": "tsx scripts/scrape/run.ts pod-vape-kits",
+    "scrape:coils": "tsx scripts/scrape/run.ts coils",
+    "scrape:vape-tanks": "tsx scripts/scrape/run.ts vape-tanks"
   },
   "dependencies": {
     "axios": "^1.20.0",

@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639574962500",
+  "slug": "riotsquad-black-edition-ultra-peach-tea",
+  "title": "Riot Squad BLCK EDTN Ultra Peach Tea Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riotsquad-black-edition-ultra-peach-tea",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "There’s nothing like the cool, sweet and sunny refreshment of an authentic Iced Peach Tea, and Riot Squad have captured the beverage to perfection with their Ultra Peach Tea e-liquid, part of their Salts range. Riot Squad’s Riot Salt e-liquids are formulated with hybrid nicotine, a unique and innovative blend of freebase nicotine and nicotine salts. The combination of the freebase and salt nicotine gives the most realistic alternative to a cigarette to help people stop smoking successfully. A 50/50 PG and VG ratio provides the perfect balance of flavour and throat hit. Ideal for use in classic e-cigarette",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot BLCK EDTN"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1107825",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "RS-10-BE-UPT-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "RS-10-BE-UPT-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riotsquad-black-edition-ultra-peach-tea__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-master-2024_blkedtn-ultra-peach-tea.jpg?v=1729042409",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riotsquad-black-edition-ultra-peach-tea__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-master-2024_blkedtn-ultra-peach-tea_2.jpg?v=1729042409",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riotsquad-black-edition-ultra-peach-tea__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-master-2024_blkedtn-ultra-peach-tea_1.jpg?v=1729042409",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riotsquad-black-edition-ultra-peach-tea__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-master-2024_blkedtn-ultra-peach-tea_2_1.jpg?v=1729042409",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.622Z"
+}

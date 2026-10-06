@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639645315396",
+  "slug": "fizzy-lemon-doozy-legends-eliquid-100ml",
+  "title": "Doozy Vape Co Doozy Legends Fizzy lemon 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/fizzy-lemon-doozy-legends-eliquid-100ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Doozy Vape’s Fizzy Lemon perfectly captures those beloved sweetshop favourites, Lemon Sherbets, in vape form. Mouth-watering hard lemon candy melts away to a frisky fizz from punchy sherbet, creating a super-sweet and utterly moreish candy vape you’ll want to return to again and again. This convenient 100ml shortfill bottle really helps your favourite e-liquid go the distance and comes with 25ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. This e-liquid’s 70VG/30PG ratio makes it ideal for high-powered pod kits , mod vape kits and sub-ohm tanks .",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL",
+    "Legends"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1116521",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fizzy-lemon-doozy-legends-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-legends-fizzy-lemon.jpg?v=1729045881",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.615Z"
+}

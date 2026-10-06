@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639857881412",
+  "slug": "pod-salt-lychee-ice-nic-salt",
+  "title": "Pod Salt Core Lychee Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pod-salt-lychee-ice-nic-salt",
+  "brand": "Pod Salt",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Lychee Ice from Pod Salt’s Core Nic Salt range is a heavenly fruit flavour lifted on the exhale with a layer of bracing menthol. The sweet and delicate flavour of lychee is a natural choice for vaping, and one that offers an exotic taste of faraway shores. The addition of a subtle dash of menthol adds some cocktail cheer, making this flavour from Pod Salt an absolute delight for fruit fans. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit. Pod Salt’s Core range of nicotine salt e-liquid includes a wide variety of delicious and refreshing flavours. Each of their flavours are designed to deliver a fantastic vaping experience every time, in whichever strength and flavour combination that suits you the best. If you enjoy this flavour then there are several more delicious vapes to explore in Pod Salt’s fabulous Core collection of nic salt e-liquids. From tropical-tinged taste sensations like Cantaloupe Ice to refreshingly fruity and familiar Red Apple Ice and Cherry Ice and core classics like Fresh Mint and Mixed Berries Ice, Pod Salt’s Core e-liquids are flavours made to satisfy and delight every vaper.",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pod Salt Core",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "11mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1128184",
+      "price": 3.95
+    },
+    {
+      "title": "11mg",
+      "sku": "1107072",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1107073",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pod-salt-lychee-ice-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-core-lychee-ice-10ml-nic-salt-eliquid_1_1_1.jpg?v=1729057203",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pod-salt-lychee-ice-nic-salt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-core-lychee-ice-10ml-nic-salt-eliquid.jpg?v=1729057203",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pod-salt-lychee-ice-nic-salt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-core-lychee-ice-10ml-nic-salt-eliquid_1.jpg?v=1729057203",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pod-salt-lychee-ice-nic-salt__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-core-lychee-ice-10ml-nic-salt-eliquid_1_1.jpg?v=1729057203",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.385Z"
+}

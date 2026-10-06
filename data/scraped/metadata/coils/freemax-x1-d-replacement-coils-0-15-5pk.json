@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639673332036",
+  "slug": "freemax-x1-d-replacement-coils-0-15-5pk",
+  "title": "Freemax X1-D Mesh Coil 0.15ohm 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/freemax-x1-d-replacement-coils-0-15-5pk",
+  "brand": "Freemax",
+  "productType": "Coils",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "FreeMax’s X-series mesh coils feature FM COILTECH5.0/Double-D Mesh technology. This innovative approach to coil building uses a parallel mesh structure with two single mesh coils connected in parallel, which heats up e-liquid faster while keeping the coils stable, producing immaculate flavour and incredible clouds from your favourite e-liquid. This pack contain 5 x 0.15ohm X1-D coils, recommended wattage 40-80W",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1117216",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-x1-d-replacement-coils-0-15-5pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-x1-d-mesh-coil-0-15.jpg?v=1729047190",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

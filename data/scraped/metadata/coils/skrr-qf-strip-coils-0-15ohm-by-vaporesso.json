@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639335919940",
+  "slug": "skrr-qf-strip-coils-0-15ohm-by-vaporesso",
+  "title": "Vaporesso QF Strip Coils 0.15Ohm by Vaporesso",
+  "url": "https://www.vapestore.co.uk/products/skrr-qf-strip-coils-0-15ohm-by-vaporesso",
+  "brand": "Vaporesso",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "These supreme quality coils from Vaporesso are designed for use with the SKRR tank and promise to provide pure flavour and amazing cloud production. The coils feature an innovative strip design which allows for rapid, evenly-distributed heating and an organic core comprised of pure cotton and flax fibre. This combination makes for an extremely absorbent material which reduces steeping time and vastly improves flavour. The use of all-natural fibres also helps to extend the life of your coils whilst safeguarding against the unpleasantness of dry hits. These QF Strip coils are rated at 0.15ohm for sumptuous sub ohm vaping between 60 and 90 watts, but perform best between 70 and 85 watts.",
+  "tags": [
+    "compatible-with-VE-KT-LU-XE-XX-RAI",
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VE-CO-QF-ST-LU-015",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__skrr-qf-strip-coils-0-15ohm-by-vaporesso__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ve-co-qf-st-lu-015-vaporesso-qf-strip-coils-015ohm-by-vaporesso-3-pack.jpg?v=1729035119",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

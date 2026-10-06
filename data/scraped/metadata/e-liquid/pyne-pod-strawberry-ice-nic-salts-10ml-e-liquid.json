@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15944420622717",
+  "slug": "pyne-pod-strawberry-ice-nic-salts-10ml-e-liquid",
+  "title": "Pyne Pod Strawberry Ice Nic Salts 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-strawberry-ice-nic-salts-10ml-e-liquid",
+  "brand": "Pyne Pod",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pyne Pod NicSalts Strawberry Ice 10ml E-Liquid delivers a popular and refreshing fruit profile that feels classic and clean. This blend highlights the lush, vibrant sweetness of sun-ripened Strawberries, providing a smooth and juicy inhale. To elevate the experience, a crisp layer of Ice is added to the exhale, offering a brisk, frosty contrast that ensures the fruit notes remain sharp and clean throughout the entire vape. Available in 5mg, 10mg, and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Pyne Pod Nic Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Pyne Pod Nic Salts collection translates the intense, highly popular flavours of their renowned prefilled pods into a versatile 10ml format. Offering a more cost-effective and flexible alternative, the range covers a wide variety of tastes. Beyond the cooling sweetness of Strawberry Ice, vapers can explore other irresistible blends such as the dark, rich Blackberry Blackcurrant, the exotic Fruit Punch, or the refreshing Fresh Mint.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pyen Pod Nic Salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1158014",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1158038",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158059",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-strawberry-ice-nic-salts-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Ice-Pyne-Pod-10ml-Nic-Salts.jpg?v=1783009023",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.471Z"
+}

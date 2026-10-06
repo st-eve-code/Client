@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639882916164",
+  "slug": "elux-firerose-5000-strawberry-raspberry-nic-salt-e-liquid",
+  "title": "Elux Firerose 5000 Strawberry Raspberry 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elux-firerose-5000-strawberry-raspberry-nic-salt-e-liquid",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Raspberry from the Elux Firerose 5000 collection is a classic berry duo that brings together the best of summer’s fruits. The sweet and juicy flavour of ripe, succulent strawberries offers a familiar and comforting taste, reminiscent of summer days and sun-ripened berries. This sweetness is perfectly paired with the vibrant and slightly tart taste of raspberries, adding a refreshing and zingy twist to the blend. The combination of strawberries and raspberries creates a perfectly balanced and harmonious combinations of berry BFFs. The sweetness of the strawberries complements the tartness of the raspberries, resulting in a vape that is both invigorating and deeply satisfying. It's an excellent choice for vapers who crave a pure, unadulterated berry flavour. With a 50VG/50PG blend, Berry Bang ensures a perfectly balanced vape that’s ideal for those who enjoy both intense flavour and satisfying yet discreet cloud production. The Nicotine Salt formulation provides a silky smoothness of the vape and is suitable for use in any MTL (mouth-to-lung) vaping device. Discover the delicious world of Elux Firerose 5000 Nic Salt e-liquids. This captivating range is inspired by some of Elux’s most popular disposable vape flavours, offering the same intensity of flavour but with the versatility and convenience that comes from 10ml bottles for use with a wide variety of vape devices. Experience all dozen delicious Elux Firerose flavours available at Vapestore.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Firerose 5000",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1129113",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1129127",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-firerose-5000-strawberry-raspberry-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-firerose-5000-strawberry-raspberry-10ml-nic-salt-eliquid_1_1.jpg?v=1729058893",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-firerose-5000-strawberry-raspberry-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-firerose-5000-strawberry-raspberry-10ml-nic-salt-eliquid.jpg?v=1729058893",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-firerose-5000-strawberry-raspberry-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-firerose-5000-strawberry-raspberry-10ml-nic-salt-eliquid_1.jpg?v=1729058893",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.346Z"
+}

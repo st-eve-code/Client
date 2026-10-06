@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15272335049085",
+  "slug": "crystal-clear-apple-peach-nic-salts-10ml-e-liquid",
+  "title": "Crystal Clear Bar Salts Apple Peach Nic Salts 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/crystal-clear-apple-peach-nic-salts-10ml-e-liquid",
+  "brand": "Crystal Clear",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "SKE Crystal Strawberry Raspberry Nic Salt brings together two classic berry flavours for a vibrant, fruity vape. The sweet, sun-kissed notes of Strawberry provide a smooth base, while Raspberry adds a tangy edge that cuts through the sweetness with a pleasant sharpness. The result is a balanced, berry-led profile that's simple yet satisfying ideal for vapers who enjoy clean, fruit-centric flavours with a touch of tartness. It's a familiar but well-executed combination that holds up well as an all-day vape. Blended at a 50VG/50PG ratio, this nicotine salt e-liquid is designed for MTL (mouth-to-lung) devices such as pod kits and starter pens. Available in 10mg and 20mg strengths, it offers a smooth throat hit and fast nicotine absorption. SKE is renowned for delivering bold, satisfying flavours with sleek, user-friendly design. Their Crystal Bar disposables helped set a new standard for flavour clarity and convenience, and the SKE Crystal Nic Salt range continues that legacy offering the same popular flavours in a format compatible with a wide range of refillable pod kits and MTL vape devices. With a presence in over 50 countries, SKE remains at the forefront of vaping innovation.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142305",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "1142343",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__crystal-clear-apple-peach-nic-salts-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/apple-peach-Crystal-Clear-10ml-Nic-Salts-min.jpg?v=1748950422",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.507Z"
+}

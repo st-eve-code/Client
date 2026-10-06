@@ -1,0 +1,116 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639256392004",
+  "slug": "classic-tobacco-e-liquid-vpz",
+  "title": "Vapouriz Premium Classic Tobacco E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/classic-tobacco-e-liquid-vpz",
+  "brand": "Vapouriz Premium",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Rich, bold and deliciously smooth, Classic Tobacco is an endlessly satisfying and flavoursome e-liquid, and one that remains one of Vapouriz’ all-time bestselling flavours. The husky aroma, rich taste and pleasing throat hit make this e-liquid a great one for newer vapers to start with, while still satisfying any tobacco fan. Vapouriz E-Liquids are expertly-crafted by Vapouriz Labs UK to deliver intense flavour and stunning vapour production for your e-cigarette setup. Browse the full collection of Vapouriz Premium E-Liquids and pick up the perfect pairing for any Vape Kit , Starter Vape Kits or Compact Pod Vape Kit . We’ve got a selection of formulations to suit all styles of e-cigarette devices, including High-PG blends for classic vaping as well as Vapouriz Nicotine Salts and adaptable 50:50 Vape Juice options.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "AWARDS15",
+    "High PG E-Liquid",
+    "MTL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "VZ-CT-00",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1134850",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VZ-CT-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VZ-CT-12",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VZ-CT-18",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__classic-tobacco-e-liquid-vpz__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_classic_tobacco_10ml_eliquid.jpg?v=1729031703",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__classic-tobacco-e-liquid-vpz__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_classic_tobacco_10ml_eliquid_5.jpg?v=1729031703",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__classic-tobacco-e-liquid-vpz__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_classic_tobacco_10ml_eliquid_4.jpg?v=1729031703",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__classic-tobacco-e-liquid-vpz__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_classic_tobacco_10ml_eliquid_3.jpg?v=1729031703",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__classic-tobacco-e-liquid-vpz__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_classic_tobacco_10ml_eliquid_1.jpg?v=1729031703",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__classic-tobacco-e-liquid-vpz__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_classic_tobacco_10ml_eliquid_2.jpg?v=1729031703",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.321Z"
+}

@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "14907919892861",
+  "slug": "lost-vape-ub-max-replacement-coils",
+  "title": "Lost Vape UB Max Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-ub-max-replacement-coils",
+  "brand": "Lost Vape",
+  "productType": "Coils",
+  "price": {
+    "min": 6.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape UB Max Replacement Coils are expertly engineered to provide an incredible sub-ohm vaping experience with Lost Vape’s exceptional Centaurus Sub-Ohm Tank. These advanced mesh coils deliver exceptional performance, ensuring immaculate flavour and dense cloud production. Each coil utilises Lost Vape’s cutting-edge mesh technology, maximising the surface area for even and consistent heat distribution. This ensures a smooth, comfortable vape with bold flavour extraction that perfectly captures every nuance of your favourite High-VG vape juices. Available in three resistance levels, the UB Max coils cater to a range of power settings, allowing you to personalise your DTL (direct-to-lung) vaping experience: UB Max X1 (0.15ohm): Ideal for vaping at higher wattages, this coil delivers rich, warm vapour and great flavour production, performing best between 80-120W. UB Max X2 (0.2ohm): A balanced option for mid-range wattages, this coil performs best between 60-80W. UB Max X3 (0.3ohm): Perfect for moderate vaping, this coil provides a slightly cooler, flavour-rich experience, performing best between 40-60W. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "X1 - 0.15ohm",
+        "X2 - 0.2ohm",
+        "X3 - 0.3ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "X1 - 0.15ohm",
+      "sku": "1137768",
+      "price": 7.49
+    },
+    {
+      "title": "X2 - 0.2ohm",
+      "sku": "1137769",
+      "price": 6.49
+    },
+    {
+      "title": "X3 - 0.3ohm",
+      "sku": "1137770",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-ub-max-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ub-maxx-x1-0.15ohm.jpg?v=1734962916",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ub-max-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ub-maxx-x2-0.2ohm.jpg?v=1734962982",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ub-max-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ub-maxx-x3-0.3ohm.jpg?v=1734963035",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.868Z"
+}

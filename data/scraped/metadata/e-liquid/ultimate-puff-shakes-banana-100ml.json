@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639448510788",
+  "slug": "ultimate-puff-shakes-banana-100ml",
+  "title": "Ultimate Puff Shakes Banana Shortfill 0mg 100ml",
+  "url": "https://www.vapestore.co.uk/products/ultimate-puff-shakes-banana-100ml",
+  "brand": "Ultimate",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "Ultimate Puff Shakes range of shortfills delivers one of the most deliciously authentic banana shake eliquids we’ve ever come across. Rich, creamy and with a well-balanced syrupy Banana sweetness, this is easily an all-day vape you won’t be able to put down in a hurry. These shortfill bottles contain 100ml of nicotine-free liquid, with 20ml of extra space within the bottle to accommodate your nicotine shot of choice. This allows you to create a liquid with your own desired nicotine strength. Typically, adding 2 x 10ml nicotine shots to a 100ml shortfill will give you 120ml of 3mg e-liquid. Once you have added your preferred amount of nicotine, make sure to shake the contents of the short fill bottle well.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "UJ-UP-100-SH-BN-00-SF",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ultimate-puff-shakes-banana-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate_puff_shakes_banana.jpg?v=1729040128",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.626Z"
+}

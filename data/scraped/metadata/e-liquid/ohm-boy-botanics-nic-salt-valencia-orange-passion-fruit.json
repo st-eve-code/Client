@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639372489028",
+  "slug": "ohm-boy-botanics-nic-salt-valencia-orange-passion-fruit",
+  "title": "Ohm Boy Valencia Orange & Passion Fruit Nic Salt E-Liquid 20mg",
+  "url": "https://www.vapestore.co.uk/products/ohm-boy-botanics-nic-salt-valencia-orange-passion-fruit",
+  "brand": "Ohm Boy",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "A combination of Spanish sunshine and tropical tang, Ohm Boy’s Valencia Orange and Passionfruit is a mouth-watering fruit fusion. Bright, juicy oranges play off the exotic sweetness of passion fruit for a decadently fruity vape. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "OB-BOT-10-VO-PF-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-boy-botanics-nic-salt-valencia-orange-passion-fruit__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm_boy_botanics_nic_salt_valencia_orange_passionfruit.png?v=1729036967",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.498Z"
+}

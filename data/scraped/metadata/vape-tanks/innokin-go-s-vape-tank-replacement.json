@@ -1,0 +1,88 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639382516036",
+  "slug": "innokin-go-s-vape-tank-replacement",
+  "title": "Innokin Go S Tank",
+  "url": "https://www.vapestore.co.uk/products/innokin-go-s-vape-tank-replacement",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Go S Tank is a top-fill design tank that offers both convenience and affordability. Featuring a silicone seal for leak-proof protection and a specially designed coil with organic cotton and wood-pulp wicking, this tank produces intense and flavourful vapes every time. Fine-tune your experience with the airflow ring located at the base of the tank. Enjoy an endlessly satisfying vaping experience with the Innokin Go S Tank.",
+  "tags": [
+    "compatible-with-IN-KT-GO-MTL-KT-SIL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue",
+        "Pink",
+        "Black",
+        "Clear"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue",
+      "sku": "IN-TA-GO-MTL-TA-BLU",
+      "price": 3.49
+    },
+    {
+      "title": "Pink",
+      "sku": "IN-TA-GO-MTL-TA-PNK",
+      "price": 3.49
+    },
+    {
+      "title": "Black",
+      "sku": "1009512",
+      "price": 3.49
+    },
+    {
+      "title": "Clear",
+      "sku": "1143839",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-go-s-vape-tank-replacement__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-go-s-tank-black_1.jpg?v=1729037430",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-go-s-vape-tank-replacement__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_go_s_tank_blue_3.jpg?v=1729037430",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-go-s-vape-tank-replacement__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_go_s_tank_pink_3.jpg?v=1729037430",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-go-s-vape-tank-replacement__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-go-s-tank-black.jpg?v=1729037430",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.618Z"
+}

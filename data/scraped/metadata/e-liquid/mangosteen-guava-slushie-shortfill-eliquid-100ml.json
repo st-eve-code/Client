@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639717929284",
+  "slug": "mangosteen-guava-slushie-shortfill-eliquid-100ml",
+  "title": "Slushie Mega Mangosteen & Guava 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/mangosteen-guava-slushie-shortfill-eliquid-100ml",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Mangosteen Guava e-liquid from Slushie is a super-refreshing iced beverage flavour featuring Mangosteen which has a rich, juicy sweet flavour reminiscent of peach, tangy, tropical Guava and an ice-cool menthol finish. This convenient 100ml shortfill bottle helps ensure your favourite e-liquid really goes the distance and comes with 20ml of free space for the addition of one or two nicotine shots to tailor your juice’s nicotine content to your exact preference. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. This e-liquid’s 70VG/30PG ratio makes it ideal for high-powered pod kits, mods and sub-ohm tanks. Shortfill e-liquids are ideal for vapers who know what flavours and e-liquid brands they love and who always want a ready supply on hand. They offer a practical way to save money on your favourite e-liquids by reducing the need to frequently buy smaller quantities. Since their high-VG to PG ratio typically makes them suitable for use with high-powered devices, such vape kits often consume e-liquid faster than low-powered vape devices, so having a large bottle of your favourite e-liquid helps ensure you don’t run out too quickly. If you enjoy this flavour, there are plenty more Slushie flavours to try. Few e-liquid makers have mastered the icy joys of slushy flavours quite like Slushie, a UK company who are behind an irresistible line of e-liquids that blend mouth-watering fruit flavours with healthy doses of icy menthol for an unparalleled slushy vaping experience. They’re available in 100ml and 50ml shortfills as well as super-satisfying nic salts. Full of flavour and loaded with refreshment, grab a Slushie e-liquid and chill in style.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1118365",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mangosteen-guava-slushie-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-100ml-mangosteen-guava-slush.jpg?v=1729048347",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.612Z"
+}

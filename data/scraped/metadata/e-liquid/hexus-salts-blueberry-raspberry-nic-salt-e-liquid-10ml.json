@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15340835963261",
+  "slug": "hexus-salts-blueberry-raspberry-nic-salt-e-liquid-10ml",
+  "title": "Hexus Salts Blueberry Raspberry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hexus-salts-blueberry-raspberry-nic-salt-e-liquid-10ml",
+  "brand": "Hexus",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Raspberry by Hexus brings together two popular berry flavours in a smooth, fruity mix. The Blueberry adds a mellow, juicy sweetness, while the Raspberry sharpens the blend with a gentle tang. The result is a clean, well-rounded vape that's rich in flavour ideal for fans of classic fruit profiles. Formulated with nicotine salts, this e-liquid delivers fast-acting nicotine satisfaction and a smooth, comfortable throat hit. It's blended at a 50VG/50PG ratio, making it a great match for low-powered pod kits and vape pens. Explore the full Hexus Nic Salt range for fruity, fizzy and cooling flavours in 10mg and 20mg strengths made for MTL devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1143243",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143253",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hexus-salts-blueberry-raspberry-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BLUEBERRY-RASPBERRY-Hexus-Salts-20MG.jpg?v=1751465159",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.467Z"
+}

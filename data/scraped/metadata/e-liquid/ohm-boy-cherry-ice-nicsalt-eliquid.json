@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639806665028",
+  "slug": "ohm-boy-cherry-ice-nicsalt-eliquid",
+  "title": "Ohm Boy Cherry Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ohm-boy-cherry-ice-nicsalt-eliquid",
+  "brand": "Ohm Boy",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Cherry Ice from Ohm Boy is a big, bold Red Cherry flavour that’s intensely delicious and immensely satisfying. The addition of a layer of bracing Menthol brings a super-refreshing icy breeze to this delicious flavour making it an easy all-day vape for fruit lovers. Ohm Boy’s nic salt e-liquids feature a 50VG/50PG blend that strikes a perfect balance between flavour, vapour production, and throat hit. These e-liquids are available in both 10mg and 20mg nicotine strengths and their nicotine salt formula makes them ideal for use in e-cigarette starter vape kits and pod vape kit devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. Due to their unique alkaline formulation, Nicotine Salt e-liquids contain a higher concentration of nicotine compared to regular freebase e-liquids. They also deliver a smoother throat hit at higher nicotine concentrations and are absorbed faster into the bloodstream, providing rapid relief from nicotine cravings. As a result, these e-liquids are ideal for recent ex-smokers or vapers seeking fast, satisfying nicotine relief with a smooth throat hit. If you enjoy this flavour, why not explore others in this mouth-watering collection of fruity, frosty blends such as Guava Mango Kiwi Ice, Pink Lemonade Ice or Strawberry Banana Ice? Thanks to their unique and boundary-pushing flavours, Ohm Boy has become one of the most innovative e-liquid manufacturers in the UK. Their range of e-juices spans across fruit, candy, beverage and even coffee blends, each with a distinctive twist on traditional flavours, resulting in a delicious new realm of taste. Ohm Boy's e-liquids are complex and beguiling, with an unparalleled character that sets them apart from others in the market.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Cherry Ice",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1125481",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1125495",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-boy-cherry-ice-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm-boy-cherry-ice-10ml-nic-salt-eliquid_1_1.jpg?v=1729053559",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ohm-boy-cherry-ice-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm-boy-cherry-ice-10ml-nic-salt-eliquid.jpg?v=1729053559",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ohm-boy-cherry-ice-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm-boy-cherry-ice-10ml-nic-salt-eliquid_1.jpg?v=1729053559",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.328Z"
+}

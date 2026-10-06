@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639359611204",
+  "slug": "sigelei-sobra-coils-0-2ohm",
+  "title": "Sigelei Sobra Coils 0.25ohm - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/sigelei-sobra-coils-0-2ohm",
+  "brand": "Sigelei",
+  "productType": "Coils",
+  "price": {
+    "min": 8.49,
+    "max": 8.49,
+    "currency": "GBP"
+  },
+  "description": "Keep your Sigelei Shikra Chronus tank in tip top condition with these high-quality replacement coils. Rated at 0.25ohms for use with high-VG sub ohm e-liquids, the Sigelei Sobra coils promise exquisite flavour and billowing cloud production when used within the range of 40 and 80 watts.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1113518",
+      "price": 8.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__sigelei-sobra-coils-0-2ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sigelei-ms-h-0.2-ohm-coils-_5pk.jpg?v=1729036283",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.871Z"
+}

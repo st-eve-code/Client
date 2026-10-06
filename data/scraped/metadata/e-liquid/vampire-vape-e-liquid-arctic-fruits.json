@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639408140612",
+  "slug": "vampire-vape-e-liquid-arctic-fruits",
+  "title": "Vampire Vape Arctic Fruits 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-e-liquid-arctic-fruits",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Arctic Fruit E-Liquid from Vampire Vape is a delicious medley of mixed fruits infused with sweet and delicately spicy aniseed. The tangy sweetness of the fruits plays perfectly with the subtle spice of aniseed while a cool layer of menthol lifts the whole experience on the exhale for a delicious rush of flavour. Vampire Vape Arctic Fruits E-Liquid is the perfect flavour to start your day so don’t forget to add this to your basket before you check out. This E-Liquid from Vampire Vape offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. Please Note: that the 3mg nicotine strength contains 50VG/50PG while 0mg, 6mg, 12mg & 18mg nicotine strengths contain 40VG/60PG. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits , pen-vape kits and pod kits. If you love this delicious Vampire Vape E-Liquid 10ml, then why not check out the other equally moreish flavours from their collection. They have a multitude of delicious flavours to choose from to suit any vaper’s flavour requirements. Go ahead and try out their juicy fruit flavours, refreshing beverage , sweet bakery, confectionary and dessert flavours or even their classic Mint/Menthol and tobacco flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-AF-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-AF-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-VV-10-AF-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-e-liquid-arctic-fruits__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire_vape_arctic_fruits_10ml_e-liquid.jpg?v=1729038486",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.410Z"
+}

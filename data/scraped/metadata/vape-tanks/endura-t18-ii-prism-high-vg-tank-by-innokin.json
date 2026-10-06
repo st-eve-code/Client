@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639331660100",
+  "slug": "endura-t18-ii-prism-high-vg-tank-by-innokin",
+  "title": "Innokin Endura T18 II Prism Tank",
+  "url": "https://www.vapestore.co.uk/products/endura-t18-ii-prism-high-vg-tank-by-innokin",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "The Endura T18 II Prism from Innokin is a little tank that conceals tons of performance. The Prism is designed for use with both the Endura T18 E and the T18 II kits. Its 2ml e-liquid capacity will keep you well-supplied with your favourite e-liquid, whilst a 1.5ohm coil translates your liquid into delicious vapour which is surprisingly thick for such a sleek classic-style kit. Made from durable Pyrex and stainless steel, the Prism T18 II is extremely sturdy and robust despite its lightweight construction and is more than capable of withstanding the knocks and scrapes of day-to-day life. A handy magnetic cap ensures the mouthpiece remains free of lint and debris.",
+  "tags": [
+    "compatible-with-601326",
+    "compatible-with-IN-T18II-BL-KT"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Rainbow",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "IN-T18II-BL-TA",
+      "price": 10.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "IN-T18II-RA-TA",
+      "price": 10.99
+    },
+    {
+      "title": "Silver",
+      "sku": "IN-T18II-SI-TA",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__endura-t18-ii-prism-high-vg-tank-by-innokin__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/in-t18ii-si-ta-innokin-endura-t18-ii-prism-plus-ohm-tank-silver.jpg?v=1729034980",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__endura-t18-ii-prism-high-vg-tank-by-innokin__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/in-t18ii-bl-ta-innokin-endura-t18-ii-prism-plus-ohm-tank-black.jpg?v=1729034980",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__endura-t18-ii-prism-high-vg-tank-by-innokin__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/in-t18ii-ra-ta-innokin-endura-t18-ii-prism-plus-ohm-tank-rainbow.jpg?v=1729034980",
+      "position": 3,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__endura-t18-ii-prism-high-vg-tank-by-innokin__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/in-t18ii-si-ta-innokin-endura-t18-ii-prism-plus-ohm-tank-silver_1.jpg?v=1729034980",
+      "position": 4,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.622Z"
+}

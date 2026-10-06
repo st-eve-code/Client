@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639880393028",
+  "slug": "uwell-crown-x-replacement-coils",
+  "title": "Uwell Crown X Replacement Coils - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-crown-x-replacement-coils",
+  "brand": "Uwell",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Crown X Replacement Coils are compatible with the Uwell Crown X Pod System Kit and Uwell Crown X Empty Pod Cartridge, and are precision-engineered to provide quick heating and extended durability. Crafted with a premium heating element, each coil ensures efficient and even heat distribution, enhancing the flavour and vapour production of your favourite e-liquids. The mesh build of these sub-ohm coils further intensifies the flavour and vapour, making every puff a delight. The Uwell Crown X Coils come in two resistance options: 0.3ohm for a rich and airy DTL experience, and 0.6ohm for a balanced and flavour focused RDTL vape. These coils are sold in packs of four, ensuring you have a steady supply for a consistent and satisfying vaping journey. Whether you're a cloud chaser or a flavour enthusiast, the Uwell Crown X Coils provide the flexibility and performance to excel at both. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1129437",
+    "Delisted",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.3ohm",
+        "0.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.3ohm",
+      "sku": "1129428",
+      "price": 6.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1129429",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-crown-x-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-crown-x-coil-4pk_1_1.jpg?v=1729058719",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-crown-x-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-crown-x-coil-4pk.jpg?v=1729058719",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-crown-x-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-crown-x-coil-4pk_1.jpg?v=1729058719",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

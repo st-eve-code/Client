@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15263798002045",
+  "slug": "just-juice-bar-range-strawberry-kiwi-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Range Strawberry & Kiwi 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-range-strawberry-kiwi-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry and Kiwi from the Just Juice Bar Range delivers a classic fruit pairing with a cool edge. The inhale brings juicy, sun-ripened Strawberry notes, quickly followed by the tangy brightness of Kiwi. A clean layer of Ice rounds out the blend for a sweet yet refreshing finish that’s perfect for all-day vaping. This nicotine salt e-liquid provides rapid nicotine delivery with a smoother, more tactile throat hit than traditional freebase e-liquids. It’s blended at 60PG/40VG and available in 5mg, 10mg and 20mg strengths for MTL (mouth-to-lung) pod kits and vape pens. Made in the UK, Just Juice Bar Range Nic Salts are inspired by the vibrant sweetness and cooling intensity of disposable-style flavours, but delivered in a refillable 10ml format designed for long-term use. Please Note : All flavours in the Just Juice Bar Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1153432",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1142231",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142239",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142244",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-range-strawberry-kiwi-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-STRAWBERRY-Kiwi-5mg.jpg?v=1748603148",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-strawberry-kiwi-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-juice-BAR-Salts-STRAWBERRY-Kiwi-10MG.jpg?v=1748603183",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-strawberry-kiwi-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-STRAWBERRY-Kiwi-20MG.jpg?v=1748603389",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.382Z"
+}

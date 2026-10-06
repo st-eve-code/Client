@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003391459709",
+  "slug": "ruthless-loaded-cotton-candy-shortfill-100ml-e-liquid",
+  "title": "Ruthless Loaded  Cotton Candy Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-loaded-cotton-candy-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Cotton Candy by Ruthless captures the nostalgic delight of fresh, fairground-style Cotton Candy, delivering a light, sugary sweetness with a delicate caramelised finish. Soft, airy, and indulgently sweet, this e-liquid evokes the simple joy of spun sugar melting on the tongue, making for a smooth and endlessly satisfying, sweet vape. One of many incredible flavours found in the celebrated Ruthless Shortfill collection, Cotton Candy Pink features a 70VG/30PG ratio for dense vapour production and a well-rounded flavour experience. Designed for Sub-Ohm vape kits and advanced DTL (direct-to-lung) devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, allowing for a customisable nicotine strength. Ruthless has been at the forefront of e-liquid innovation for over a decade, crafting bold and imaginative flavours that continue to define the industry. Their dedication to premium ingredients and expert blending ensures a standout vaping experience in every bottle.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138932",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-loaded-cotton-candy-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/loaded_uk_100ml_COTTON_CANDY.jpg?v=1739289981",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.520Z"
+}

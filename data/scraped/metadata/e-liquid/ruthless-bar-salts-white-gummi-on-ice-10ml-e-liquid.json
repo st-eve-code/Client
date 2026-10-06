@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15029017084285",
+  "slug": "ruthless-bar-salts-white-gummi-on-ice-10ml-e-liquid",
+  "title": "Ruthless Bar Salts White Gummi On Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-bar-salts-white-gummi-on-ice-10ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ruthless Bar Salts White Gummi on Ice is a playful and nostalgic take on a classic confectionary experience, blending bright tropical fruit notes with a crisp menthol exhale. The fruity sweetness creates a smooth and juicy base, while an icy edge adds a pleasing contrast, keeping the flavour refreshingly light without overpowering that irresistible sugary sweetness. Crafted with a 50VG/50PG ratio, this e-liquid strikes a perfect balance between vapour production and flavour intensity, making it ideal for MTL (mouth-to-lung) pod kits and classic vape starter devices. The nicotine salt formulation delivers a silky-smooth throat hit and rapid nicotine satisfaction. Ruthless continues to push the boundaries of flavour innovation, crafting high-quality, standout blends that continue to shape modern vaping. The American brand's Bar Salts collection distils their signature approach to flavours into a nic salt format, tailored for today’s vapers and pod devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1139313",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139329",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-bar-salts-white-gummi-on-ice-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ruthless-10ML_WhiteGummiOnIce.jpg?v=1740067593",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.489Z"
+}

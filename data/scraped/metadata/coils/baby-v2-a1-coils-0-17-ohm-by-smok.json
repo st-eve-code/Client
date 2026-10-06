@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639324418372",
+  "slug": "baby-v2-a1-coils-0-17-ohm-by-smok",
+  "title": "SMOK Baby V2 A1 Coils 0.17 Ohm",
+  "url": "https://www.vapestore.co.uk/products/baby-v2-a1-coils-0-17-ohm-by-smok",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "These high-quality, high-performance sub ohm coils are designed for use with the Smok Baby V2 tank and offer unrivalled vapour production and flavour payoff. The A1 has a large hole inside the coil which is covered in robust mesh to allow for faster, more evenly-distributed heating for a deliciously-satisfying vape every time. At Vapestore we stock a large range of SMOK Products, including Smok E-cigarettes , Smok Tanks , Mods , Smok Coils and New Vape kits",
+  "tags": [
+    "compatible-with-SM-KT-RK-IS-XX-BLK",
+    "compatible-with-SM-SP-BR-KT",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-V2-A1-017",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baby-v2-a1-coils-0-17-ohm-by-smok__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sm-v2-a1-017_smok_baby_v2_a1_coils_017ohm_3pack_001.png?v=1729034630",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.870Z"
+}

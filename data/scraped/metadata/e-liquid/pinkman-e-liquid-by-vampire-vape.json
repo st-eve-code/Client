@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639265698116",
+  "slug": "pinkman-e-liquid-by-vampire-vape",
+  "title": "Vampire Vape Pinkman E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/pinkman-e-liquid-by-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman is one of the most recognisable names in the industry, celebrated for its vibrant and multi-layered fruit profile. This classic recipe is built upon a foundation of sweet Red Berries, where the juicy, familiar notes of Strawberry and Raspberry provide a consistent and naturally sweet inhale. The experience is defined by the addition of zesty Citrus and Tropical Fruit undertones. These subtle, tangy hints balance the sweetness of the berries, ensuring the flavour remains refreshing and complex. It is a well-rounded fruit blend that avoids becoming overly sugary, making it a reliable choice for an all-day vape. This 10ml freebase e-liquid is available in a wide range of nicotine strengths: 0mg, 3mg, 6mg, 12mg, and 18mg. Please note that Vampire Vape adjusts the VG/PG ratio to ensure the best performance for each strength: 3mg is mixed at 50VG/50PG, making it ideal for most starter kits and pod vape kits. 0mg, 6mg, 12mg, and 18mg are mixed at 40VG/60PG, which provides a sharper throat hit and is best suited for MTL (Mouth-to-Lung) starter kits and lower-powered devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Pinkman"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1001006",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "373127",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "373097",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "315699",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pinkman-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire_vape_pinkman_e-liquid_10ml.jpg?v=1729032098",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.338Z"
+}

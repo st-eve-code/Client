@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639617200452",
+  "slug": "just-juice-strawberry-caruba-50-50-eliquid",
+  "title": "Just Juice Strawberry & Curuba 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-strawberry-caruba-50-50-eliquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry & Curuba from Just Juice’s Exotic Fruit collection is a silky-sweet and deliciously smooth combination of luscious strawberries blended with Curuba, also known as banana passionfruit outside South America, which carries notes of passionfruit and peach with a delightful sour note on the exhale. The ratio of 50% Vegetable Glycerine, 50% Propylene Glycol delivers a perfect balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Just Juice Exotic Fruits",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "JC-JC-10-SC-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "JC-JC-10-SC-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "JC-JC-10-SC-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-strawberry-caruba-50-50-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-strawberry-curuba.jpg?v=1729044646",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.618Z"
+}

@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639598948676",
+  "slug": "pinkman-nic-salt-e-liquid-vampire-vape",
+  "title": "Vampire Vape Pinkman Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pinkman-nic-salt-e-liquid-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman Nic Salt E-Liquid brings one of the most celebrated names in the industry to a nicotine salt formulation. This iconic recipe is built on a vibrant foundation of sweet Red Berries, featuring the prominent and juicy taste of Strawberry and Raspberry on the inhale. The profile is distinguished by the addition of zesty Citrus and Tropical Fruit undertones. These subtle, tangy hints (often identified as a touch of Grapefruit) provide a necessary balance to the berry sweetness, ensuring the flavour remains refreshing and multi-layered. It is a well-rounded fruit blend that avoids becoming overly sugary, making it a reliable choice for an all-day vape. As a Nicotine Salt e-liquid, this 10ml bottle provides a much smoother throat hit than traditional freebase nicotine, even at higher strengths. Nicotine salts are designed for rapid absorption, providing quick satisfaction. With a balanced 50VG/50PG ratio, this e-liquid is perfectly optimised for use in low-powered starter kits, pod vape devices, and MTL (Mouth-to-Lung) tanks.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "VM-NS-10-PI-10-50",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "VM-NS-10-PI-20-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pinkman-nic-salt-e-liquid-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire_vape_pinkman_nic_salt_e-liquid.jpg?v=1729043700",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.351Z"
+}

@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639819379012",
+  "slug": "doozy-vape-seriously-fusionz-salty-tropical-ice-eliquid-nicsalt",
+  "title": "Doozy Vape Co Seriously Fusionz Salty Tropical Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-seriously-fusionz-salty-tropical-ice-eliquid-nicsalt",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Seriously Fusionz Salty’s Tropical Ice offers a chilled escape to a tropical paradise, featuring a vibrant mix of exotic fruits with a refreshing icy exhale. Immerse yourself in the lush sweetness of island fruits as an invigorating frosty note brings it all together. It's the perfect way to kick back and chill, island-style. Seriously Fusionz Salty e-liquids’ 50/VG/50PG formulation delivers the perfect balance of flavour and cloud production while the nicotine salt formulation ensures a super-smooth and comfortable throat sensation. These e-liquids are perfect for use in starter vape kits and low-powered pod devices. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. With nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. Experience the apex of vaping pleasure with Doozy Vape Co's Seriously Fusionz Salty collection, featuring a range of six uniquely inventive and exquisitely tasty fruit flavour blends precision engineered to light up your taste buds while satisfying pesky nicotine cravings. If you love this flavour, why not treat yourself to others in Doozy Vape Co’s Seriously Fusionz Salty collection? From sweet and juicy Fantasia Grape to luscious Tropical Ice and tangy White Peach Lemon, Seriously Fusionz Salty are about as delicious as e-liquids can get.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Seriously Fusionz"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1126700",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1126708",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1126716",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-seriously-fusionz-salty-tropical-ice-eliquid-nicsalt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/seriously_salty_tropical_ice_800x800_1_1_1.jpg?v=1729054435",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-vape-seriously-fusionz-salty-tropical-ice-eliquid-nicsalt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/seriously_salty_tropical_ice_800x800_7353b0cc-be09-4c45-ac43-d29ab3741759.jpg?v=1729054435",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-vape-seriously-fusionz-salty-tropical-ice-eliquid-nicsalt__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/seriously_salty_tropical_ice_800x800_1.jpg?v=1729054435",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-vape-seriously-fusionz-salty-tropical-ice-eliquid-nicsalt__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/seriously_salty_tropical_ice_800x800_1_1.jpg?v=1729054435",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.447Z"
+}

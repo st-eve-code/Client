@@ -1,0 +1,81 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15639585948029",
+  "slug": "riot-x-nic-salts-apple-blackcurrant-kiwi-10ml-e-liquid",
+  "title": "Riot X Nic Salts Apple Blackcurrant Kiwi 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-apple-blackcurrant-kiwi-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Apple Blackcurrant Kiwi by Riot X Nic Salts blends three distinct fruit notes for a bright, punchy vape. Crisp Apple comes through first, followed by the deeper, juicier taste of Blackcurrant. Kiwi adds a tangy finish, bringing a fresh twist to the blend. This e-liquid uses Riot’s Hybrid Nicotine formula, combining Nic Salt and freebase for fast satisfaction, a smooth inhale, and discreet vapour output. The 50VG/50PG ratio is designed for mouth-to-lung (MTL) vaping and works best with compact pod kits, vape pens, and starter devices. Riot X Nic Salts are made in the UK and developed for vivid fruit blends designed for low-powered refillable kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149404",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1149410",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1149416",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-apple-blackcurrant-kiwi-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Apple-Blackcurrant-_-Kiwi-Riot-X-Nic-Salts-10ML-5MG.jpg?v=1761741979",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-apple-blackcurrant-kiwi-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Apple-Blackcurrant-_-Kiwi-Riot-X-Nic-Salts-10ML-10MG.jpg?v=1761742019",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-apple-blackcurrant-kiwi-10ml-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Apple-Blackcurrant-_-Kiwi-Riot-X-Nic-Salts-10ML-20mg.jpg?v=1761742068",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.454Z"
+}

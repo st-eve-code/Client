@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15002983596413",
+  "slug": "ox-passion-cherry-peach-lemon-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Cherry Peach Lemon Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-cherry-peach-lemon-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Salts Cherry Peach Lemon combines the rich taste of Cherry with the juicy, sun-ripened sweetness of Peach and a lively twist of Lemon. The richness of cherry is softened by the juicy, velvety notes of peach, while a burst of zesty lemon adds a sharp and zesty finish. Blended in a 50VG/50PG ratio, this nicotine salt e-liquid is designed for mouth-to-lung (MTL) vaping, ensuring a consistently refined throat hit and vibrant flavour. Perfect for pod vape kits and starter devices, it provides fast nicotine absorption for a satisfying vape experience. Developed by Oxva, a trusted name in vaping technology, the OX Passion Salts range offers expertly crafted flavours designed to pair seamlessly with Oxva’s XLIM pod kits and other refillable vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132785",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139094",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-cherry-peach-lemon-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ox-Passion_0012_Cherry-Peach-Lemon.jpg?v=1739185011",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.442Z"
+}

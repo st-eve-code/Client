@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15454455038333",
+  "slug": "doozy-vape-co-infinity-pineapple-raspberry-nic-salt-e-liquid-10ml",
+  "title": "Doozy Vape Co Infinity Pineapple Raspberry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-pineapple-raspberry-nic-salt-e-liquid-10ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Raspberry by Doozy Infinity is a bright, juicy fruit combo that balances sweet and tangy notes with delightful results. The Pineapple comes through with its sharp and tangy, golden sweetness, while Raspberry adds a ruby red jammy depth that’s both vibrant and slightly tart. Together, they create a refreshing all-day vape that delivers deep flavour and reliable satisfaction. Blended at a 50VG/50PG ratio, this Nic Salt e-liquid is ideal for mouth-to-lung (MTL) devices such as refillable pod kits , pens and starter vapes . The nicotine salt formula allows for smooth, rapid absorption, even at higher strengths, helping curb cravings without sacrificing flavour. Available in 5mg, 10mg and 20mg nicotine strengths, the Doozy Infinity Nic Salt range combines bold fruit blends with discreet performance for everyday MTL vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Infinity",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1144392",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1144379",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1144386",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-pineapple-raspberry-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-RaspberryDoozy-Infinity-Salts-10ml.jpg?v=1754920865",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.470Z"
+}

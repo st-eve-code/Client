@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15852152422781",
+  "slug": "elf-bar-elfliq-blue-razz-cherry-nic-salt-e-liquid",
+  "title": "Elf Bar ElfLiq Blue Razz Cherry Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-blue-razz-cherry-nic-salt-e-liquid",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Elfliq Blue Razz Cherry is a deeply satisfying and intricately layered fruit medley designed for maximum flavour clarity. The blend weaves the classic, sweet taste of Blueberry and the sharp, electrifying bite of Raspberry on the inhale. This vibrant berry duo is then perfectly rounded off with the deep, dark, and intensely rich notes of Cherry on the exhale. Blended to a versatile 50VG/50PG ratio, this premium nicotine salt e-liquid is perfectly suited for both Mouth-to-Lung (MTL) and Restricted Direct-to-Lung (RDL) vaping. It performs exceptionally well when paired with refillable pod kits and classic vape pens using coils rated between 0.6ohm and 1.2ohm. The use of high-quality nicotine salts ensures a wonderfully smooth throat hit alongside rapid, effective satisfaction. The Elfliq collection brings world-renowned flavour expertise to a convenient 10ml format. Produced to strict regulatory standards and available in 5mg, 10mg, and 20mg nicotine strengths, this premium range allows you to experience intensely vivid and highly authentic fruit blends in your preferred refillable device.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "newelfliq",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1154008",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1154020",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1154014",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-blue-razz-cherry-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Cherry-Elf-bar-Elf-Liq-5mg.jpg?v=1776676824",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-blue-razz-cherry-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Cherry-Elf-bar-Elf-Liq-10mg.jpg?v=1776676827",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-blue-razz-cherry-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Cherry-Elf-bar-Elf-Liq-20mg.jpg?v=1776676830",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.342Z"
+}

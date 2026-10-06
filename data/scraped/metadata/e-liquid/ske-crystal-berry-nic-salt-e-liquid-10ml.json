@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15261509812605",
+  "slug": "ske-crystal-berry-nic-salt-e-liquid-10ml",
+  "title": "SKE Crystal Berry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-berry-nic-salt-e-liquid-10ml",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "SKE Crystal Berry Nic Salt delivers a sweet-tart medley of classic Mixed Berries. The flavour opens with the bright sweetness of ripe summer fruit, underpinned by subtle tangy notes that suggest hints of Raspberry, Blueberry and Blackberry. The profile is balanced and full of character, offering a clean, rounded vape that captures the essence of fresh-picked Berries. It's an ideal choice for berry lovers looking for an authentic, well-rounded flavour that's easy to enjoy all day. With no cooling element or confectionery tones, this blend keeps things focused on fruit with clarity and depth. This 50VG/50PG nicotine salt e-liquid is designed for MTL (mouth-to-lung) vaping with pod systems and vape pens. Available in both 10mg and 20mg strengths, it provides a smooth throat hit and faster nicotine delivery to satisfy more quickly. About SKE Crystal SKE is renowned for delivering bold, satisfying flavours with sleek, user-friendly design. Their Crystal Bar disposables helped set a new standard for flavour clarity and convenience, and the SKE Crystal Nic Salt range continues that legacy \"offering the same popular flavours in a format compatible with a wide range of refillable pod kits and MTL vape devices. With a presence in over 50 countries, SKE remains at the forefront of vaping innovation.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142600",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142608",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-berry-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/berry-SKE-Crystal-Nic-Salts-10ml.jpg?v=1748530924",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.424Z"
+}

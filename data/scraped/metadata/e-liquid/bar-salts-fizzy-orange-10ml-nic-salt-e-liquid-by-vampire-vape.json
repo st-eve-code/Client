@@ -1,0 +1,84 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14889636036989",
+  "slug": "bar-salts-fizzy-orange-10ml-nic-salt-e-liquid-by-vampire-vape",
+  "title": "Bar Salts Fizzy Orange 10ml Nic Salt E-Liquid by Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/bar-salts-fizzy-orange-10ml-nic-salt-e-liquid-by-vampire-vape",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Bar Salts Fizzy Orange captures the refreshing and vibrant taste of classic Orange soda, complete with a sparkling, fizzy sensation on the exhale. This bright and zesty e-liquid delivers a nostalgic and uplifting vape, perfect for fans of citrus-inspired flavours with a playful twist. With a 50VG/50PG ratio, Vampire Vape Bar Salts offer a seamless balance of flavour and vapour, making them ideal for Mouth-To-Lung (MTL) devices such as vape starter kits , refillable vapes and pod vape kits . Their nicotine salt formulation provides smooth throat hits and rapid nicotine relief, delivering the bold, concentrated flavours associated with disposable vape bars. As a more sustainable and cost-effective alternative to disposable vape bars, Bar Salts e-liquids come in a 10ml format, designed for use with reusable vape devices. Available in 0mg, 5mg, 10mg, and 20mg nicotine strengths, Fizzy Orange is an exciting option for adult smokers and vapers looking to explore bright and fizzy e-liquid profiles.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1136957",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1136958",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1136959",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1136960",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-salts-fizzy-orange-10ml-nic-salt-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Bar-Salts-Fizzy-Orange-10ml-nic-salts-e-liquid-5mg.jpg?v=1733929035",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-salts-fizzy-orange-10ml-nic-salt-e-liquid-by-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Bar-Salts-Fizzy-Orange-10ml-nic-salts-eliquid-10mg.jpg?v=1733929079",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-salts-fizzy-orange-10ml-nic-salt-e-liquid-by-vampire-vape__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Bar-Salts-Fizzy-Orange-10ml-nic-salt-e-liquid-20mg.jpg?v=1733929191",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.339Z"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15494029345149",
+  "slug": "baa-juice-fresh-orange-fizz-shortfill-100ml-e-liquid",
+  "title": "Baa Juice Fresh Orange Fizz Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-fresh-orange-fizz-shortfill-100ml-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Fresh Orange Fizz Shortfill delivers a bright burst of citrus flavour. Juicy Orange takes the lead with its sweet, zesty character, lifted by a fizzy edge that gives the vape an effervescent twist. The result is a sharp yet playful fruit blend that stays lively with every puff. Supplied in a 120ml bottle with 100ml of nicotine-free e-liquid, there’s space for two nic shots if required. Blended at 50/50 ratio, this Shortfill is designed for MTL pod kits to produce a balanced vaping style with vibrant flavour. Made with double-concentrated flavouring, Baa Juice Shortfills offer vivid, long-lasting taste, capturing fruit profiles with striking clarity.",
+  "tags": [
+    "100ml shortfill",
+    "50/50 Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144550",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-fresh-orange-fizz-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-baa-juice-fresh-orange-fizz-100ml.jpg?v=1756381348",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15454352605565",
+  "slug": "doozy-vape-co-infinity-blackcurrant-passion-ice-nic-salt-e-liquid-10ml",
+  "title": "Doozy Vape Co Infinity Blackcurrant Passion Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-blackcurrant-passion-ice-nic-salt-e-liquid-10ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blackcurrant Passion Ice by Doozy Infinity offers a striking combination of rich, dark fruit and exotic sweetness. Jammy Blackcurrant brings a deep, almost syrupy base, while Passionfruit cuts through with its tart, tropical character. The addition of Ice rounds out the flavour, delivering a cool, breezy finish that keeps the fruit blend tasting well-defined from first puff to last. This Nicotine Salt e-liquid is designed for mouth-to-lung (MTL) vaping and is blended at a 50VG/50PG ratio, making it ideal for low-powered pod kits , starter pens , and compact refillable devices . The nic salt formula ensures faster nicotine absorption and a more comfortable inhale compared to standard, high-strength freebase options. Available in 5mg, 10mg and 20mg nicotine strengths, Doozy Infinity Nic Salts are crafted to deliver complex, vibrant, and endlessly satisfying flavours of the sort Doozy Vape Co. are renowned for.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Infinity",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1144387",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1144374",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1144381",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-blackcurrant-passion-ice-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blackcurrant-Passion-IceDoozy-Infinity-Salts-10ml.jpg?v=1754918723",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.474Z"
+}

@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639652753732",
+  "slug": "edge-heizen-eliquid-5050",
+  "title": "Edge Heizen 50/50 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/edge-heizen-eliquid-5050",
+  "brand": "Edge",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.5,
+    "max": 2.5,
+    "currency": "GBP"
+  },
+  "description": "Heizen is a uniquely delicious blend of sweet, sharp blackcurrant and warm, spicy aniseed. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio delivers a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "Coming-Soon-Edge-Heizen-50/50-3mg",
+      "price": 2.5
+    },
+    {
+      "title": "6mg",
+      "sku": "1116074",
+      "price": 2.5
+    },
+    {
+      "title": "12mg",
+      "sku": "1116075",
+      "price": 2.5
+    },
+    {
+      "title": "18mg",
+      "sku": "1116076",
+      "price": 2.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__edge-heizen-eliquid-5050__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/edge-5050-heizen.jpg?v=1729046186",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.430Z"
+}

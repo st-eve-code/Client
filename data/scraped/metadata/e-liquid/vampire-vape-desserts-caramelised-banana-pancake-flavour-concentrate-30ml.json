@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15125051998589",
+  "slug": "vampire-vape-desserts-caramelised-banana-pancake-flavour-concentrate-30ml",
+  "title": "Vampire Vape Desserts Caramelised Banana Pancake Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-desserts-caramelised-banana-pancake-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Caramelised Banana Pancake Flavour Concentrate by Vampire Vape Desserts captures the rich taste of golden banana slices seared in syrupy sugar, layered over a warm, buttery pancake base. This sweet, breakfast-inspired flavour delivers smooth banana notes with caramelised glaze and subtle pastry undertones, making it an ideal concentrate for dessert lovers creating their own DIY e-liquids. This 30ml concentrate is designed for vapers who enjoy mixing their own e-liquids at home. Simply dilute with your preferred VG/PG base mix and, if required, nicotine shots to achieve your desired strength and consistency. Vampire Vape recommends a dilution rate of 15–20%, depending on personal flavour preference. Made in the UK and formulated with a 100% PG base, this flavour concentrate is not suitable for direct vaping. It must be mixed before use. Also available as a high-VG Shortfill and in Freebase 10ml format as part of the Vampire Vape Desserts collection. Please Note: This flavour concentrate is for mixing your own e-liquid and is not suitable for direct vaping or commercial use.",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Desserts"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138248",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-desserts-caramelised-banana-pancake-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire-Vape---UK---30ml-Concentrate---Carmelised-Banana-Pancake---Bottle.jpg?v=1743676791",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.529Z"
+}

@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15953448731005",
+  "slug": "direct-salts-strawberry-kiwi-10ml-e-liquid",
+  "title": "Direct Salts Strawberry Kiwi 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/direct-salts-strawberry-kiwi-10ml-e-liquid",
+  "brand": "Direct",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Direct Salts Strawberry Kiwi 10ml Nic Salt E-Liquid presents a classic and highly dependable everyday fruit blend. The experience begins with the soft, familiar sweetness of ripe Strawberry, establishing a rich and juicy foundation. This is expertly paired with the bright, slightly acidic zest of fresh Kiwi, which adds a vibrant and exotic edge to the exhale. This pairing delivers a wonderfully smooth and harmonious fruit experience from start to finish. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Direct Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Direct Salts collection offers vapers a dependable range of premium fruit, ice, and confectionery profiles. Providing a highly cost-effective and flexible option, this 10ml range covers a wide variety of tastes. Beyond the harmonious fruit layers of Strawberry Kiwi, vapers can explore other compelling options such as the exotic Fruity Juice, the brisk Pineapple Ice, or the sweet Gummy Bear.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Direct Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1158390",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158405",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__direct-salts-strawberry-kiwi-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/strawberry-kiwi-Direct-Salts-10ml-nic-salts-10mg.jpg?v=1783526936",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__direct-salts-strawberry-kiwi-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/strawberry-kiwi-Direct-Salts-10ml-nic-salts-20mg.jpg?v=1783526990",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.493Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639451754820",
+  "slug": "jack-rabbit-shortfill-custard-doughnut",
+  "title": "Jack Rabbit Custard Doughnut E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/jack-rabbit-shortfill-custard-doughnut",
+  "brand": "Jack Rabbit",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "A rich, squishy and sweet custard doughnut is the sort of indulgent treat we wish we could eat all day. This irresistible e-liquid from Jack Rabbit, however, gives you all the creamy, pastry flavour of a real doughnut but with none of the calories – only super-satisfying all day vaping bliss. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , mods and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "JR-JR-50-CD-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__jack-rabbit-shortfill-custard-doughnut__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/custard-doughnut-jack-rabbit-50ml-800px.jpg?v=1742898854",
+      "position": 1,
+      "width": 800,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.626Z"
+}

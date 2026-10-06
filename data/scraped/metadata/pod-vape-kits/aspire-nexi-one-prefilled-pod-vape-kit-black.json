@@ -1,0 +1,54 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "9640056062276",
+  "slug": "aspire-nexi-one-prefilled-pod-vape-kit-black",
+  "title": "Aspire Nexi One Prefilled Pod Vape Kit - Black",
+  "url": "https://www.vapestore.co.uk/products/aspire-nexi-one-prefilled-pod-vape-kit-black",
+  "brand": "Aspire",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 14.95,
+    "max": 14.95,
+    "currency": "GBP"
+  },
+  "description": "Please note: USB-C cable sold separately Introducing the Aspire Nexi One, a vape device that’s been ingeniously designed to mirror the classic appearance and feel of a traditional cigarette. This innovative kit includes an ultra-compact Nexi Vape Device and a powerful 400mAh Nexi Power Bank, providing a seamless blend of traditional nicotine delivery and modern vaping technology. The Nexi Device is activated by a simple draw and is equipped with a 60mAh battery, delivering a constant output of 3.6V. It features magnetic wireless charging technology, allowing for easy recharges using the accompanying Nexi Power Bank, which can fully recharge the device up to six times. The power bank itself is charged via its Type-C USB port, which gives the Nexi power bank the flexibility to charge other devices if required. Nexi Prefilled pods (sold separately) are available in a range of 6 uniquely satisfying tobacco flavours, such as Classic Tobacco and BlueMint Tobacco, ensuring that every user finds their perfect match. These pods feature a 1.2ml e-liquid capacity and provide up to 350 puffs. They feature a an integrated 1.6Ohm coil and are available in 20mg nicotine strengths.",
+  "tags": [
+    "350 Puffs",
+    "Battery-included",
+    "compatible-with-1132013",
+    "compatible-with-1132015",
+    "compatible-with-1132021",
+    "compatible-with-1132027",
+    "compatible-with-1133627",
+    "compatible-with-1133628",
+    "Kit-VS-Export"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1133626",
+      "price": 14.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nexi-one-prefilled-pod-vape-kit-black__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nexione-vape-kit-black.jpg?v=1729065320",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.477Z"
+}

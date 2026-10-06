@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912145220",
+  "slug": "ske-crystal-cherry-ice-nicsalt-e-liquid",
+  "title": "SKE Crystal Cherry Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-cherry-ice-nicsalt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Cherry Ice flavour SKE Crystal Nic Salts e-liquid perfects the classic taste of rich, juicy Cherries with the addition of a refreshing layer of brisk, icy menthol for SKE’s bestselling original Crystal Nic Salts collection now boasts new packaging and a reformulated recipe that makes those iconic flavours more delicious than ever before. The original 10 flavours are also joined by 15 brand new flavours sure to tempt the tastebuds of any vaper. If you love the flavours in SKE Crystal Bars, you can now enjoy them in a vast range of MTL (mouth-to-lung) devices such as classic e-cigarette starter vape kits and pod vape kit devices. Unlike traditional freebase e-liquids, nicotine salts unique formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than higher-strength freebase liquids. With nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a smart choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. What’s more, Crystal Nic Salts’ 50VG/50PG blend ensures the perfect balance of flavour and cloud production. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Cherry Ice",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132481",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132508",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-cherry-ice-nicsalt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-cherry-ice_1_1.jpg?v=1729060682",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-cherry-ice-nicsalt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-cherry-ice.jpg?v=1729060682",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-cherry-ice-nicsalt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-cherry-ice_1.jpg?v=1729060682",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.370Z"
+}

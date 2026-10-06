@@ -1,0 +1,59 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15029931278717",
+  "slug": "ruthless-bar-salts-blue-razz-strawzz-10ml-e-liquid",
+  "title": "Ruthless Bar Salts Blue Razz Strawzz 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-bar-salts-blue-razz-strawzz-10ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ruthless Bar Salts Blue Razz Strawzz delivers a dynamic mix of tart Blue Raspberry and sweet Strawberries, creating a bold and fruity vape with a perfect balance of tangy and juicy notes. The sharpness of Blue Raspberry comes through first, offering a bright, mouthwatering tang, followed by the soft, jammy sweetness of ripe Strawberries for a smooth and flavourful exhale. Blended at 50VG/50PG, this e-liquid is designed for MTL (mouth-to-lung) pod kits and starter devices, ensuring a smooth and consistent vape with satisfying vapour production. The nicotine salt formulation provides a comfortable throat hit and rapid nicotine absorption, making it an excellent choice for vapers who enjoy fruit-forward profiles with a vibrant edge. Ruthless is one of the most influential brands in American e-liquids, known for crafting bold and unique flavours that have inspired the industry for years. Their expertly blended shortfills and nic salts continue to be a favourite among vapers on both sides of the pond who prize high-quality, distinct, and flavourful e-liquids that push the boundaries of what’s possible in vape juice.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Blue Razz Lemonade",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1139301",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139317",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-bar-salts-blue-razz-strawzz-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ruthless-10ML_BlueRazzStrawzz.jpg?v=1740132256",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.325Z"
+}

@@ -1,0 +1,84 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14889596846461",
+  "slug": "bar-salts-cherry-raspberry-apple-10ml-nic-salt-e-liquid-by-vampire-vape",
+  "title": "Bar Salts Cherry Raspberry Apple 10ml Nic Salt E-Liquid by Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/bar-salts-cherry-raspberry-apple-10ml-nic-salt-e-liquid-by-vampire-vape",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Bar Salts Cherry Raspberry Apple combines the bold sweetness of Cherry, the tangy sharpness of Raspberry, and the crisp, fresh flavour of Apple to create a layered and vibrant vaping experience. With a tart edge on the exhale, this fruity blend is ideal for vapers who enjoy complex and refreshing flavour combinations. Crafted with a 50VG/50PG ratio, Vampire Vape Bar Salts deliver the perfect balance of flavour and vapour production, making them an excellent choice for Mouth-To-Lung (MTL) devices such as vape starter kits , pod kits and reusable vapes . The nicotine salt formulation ensures smooth throat hits and rapid nicotine satisfaction, mirroring the intense and concentrated flavours found in disposable vapes. As a sustainable alternative to disposable vape bars, Bar Salts e-liquids come in a 10ml format, offering a longer-lasting, eco-friendly vaping option. Available in 0mg, 5mg, 10mg, and 20mg nicotine strengths, Cherry Raspberry Apple is a versatile and flavourful choice for adult smokers and vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1136941",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1136942",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1136943",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1136944",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-salts-cherry-raspberry-apple-10ml-nic-salt-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Bar-Salts-Cherry-Raspberry-Apple-10ml-nic-salt-e-liquid-5mg.jpg?v=1733926570",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-salts-cherry-raspberry-apple-10ml-nic-salt-e-liquid-by-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Bar-Salts-Cherry-Raspberry-Apple-10ml-nic-salts-e-liquid-10mg.jpg?v=1733926640",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-salts-cherry-raspberry-apple-10ml-nic-salt-e-liquid-by-vampire-vape__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Bar-Salts-Cherry-Raspberry-Apple-10ml-nic-salts-e-liquid-20mg.jpg?v=1733926676",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.346Z"
+}

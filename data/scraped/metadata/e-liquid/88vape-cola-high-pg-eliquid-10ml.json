@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639873806660",
+  "slug": "88vape-cola-high-pg-eliquid-10ml",
+  "title": "88Vape Original Cola 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/88vape-cola-high-pg-eliquid-10ml",
+  "brand": "88Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.2,
+    "max": 1.2,
+    "currency": "GBP"
+  },
+  "description": "Formerly known as Red Cola Red Cola from 88Vape’s Original series is an exhilarating candy and soda blend that perfectly captures the tangy essence of a classic cola, enhanced with a candy-like sweetness and a cooling touch of menthol. This 10ml 70PG/30NG e-liquid is like a sip of your favourite soda, brimming with the nostalgic taste of cola and infused with additional layers of sugary complexity. From your first puff, the timeless taste of cola rushes to greet your tastebuds with its sharp, sweet, and slightly spicy notes. The cola experience is then elevated by a layer of candy sweetness, adding a delightful sugary twist that complements the soda base.This is chased by a cool breeze of menthol, which refreshes the palate and adds an invigorating finish to this dynamic blend. Red Cola is more than just an e-liquid; it's a celebration of classic flavours with a modern twist, making it an ideal choice for vapers who love soda and candy-inspired flavours with just a hint of menthol. This High-PG e-liquid from 88Vape offers a classic vape experience with its tactile and satisfying throat hit and intense flavour delivery. Its 70%PG/30VG content makes it ideal for low-powered starter kits, pen-vape kits and pod kits. We would not recommend using High-PG e-liquids with sub-ohm coils and more powerful vape devices. 88Vape are one of the most popular and bestselling vape brands in the UK. They have helped countless smokers make the switch to the far safer alternative of vaping with the help of delicious e-liquids at wallet-friendly prices.",
+  "tags": [
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "11mg",
+        "16mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "11mg",
+      "sku": "1128354",
+      "price": 1.2
+    },
+    {
+      "title": "16mg",
+      "sku": "1128363",
+      "price": 1.2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__88vape-cola-high-pg-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-red-cola-10ml-eliquid_1_1.jpg?v=1729058267",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__88vape-cola-high-pg-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-red-cola-10ml-eliquid.jpg?v=1729058267",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__88vape-cola-high-pg-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-red-cola-10ml-eliquid_1.jpg?v=1729058267",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.466Z"
+}

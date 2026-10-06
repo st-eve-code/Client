@@ -1,0 +1,195 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15500321620349",
+  "slug": "oxva-xlim-go-2-pod-vape-kit",
+  "title": "Oxva Xlim Go 2 Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/oxva-xlim-go-2-pod-vape-kit",
+  "brand": "Oxva",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 9.49,
+    "max": 9.49,
+    "currency": "GBP"
+  },
+  "description": "The OXVA Xlim Go 2 is a simple, dependable pod vape kit built for everyday use. A 1500mAh built-in battery supports automatic power adjustment up to 30W, while inhale activation keeps operation straightforward. An airflow slider lets you fine-tune the draw to suit MTL or RDL styles. The kit includes a refillable 2ml Xlim V3 top-fill pod with a built-in 0.8ohm mesh coil for clear flavour and easy maintenance. The device is also compatible with Xlim EZ pods, giving you a broader choice of coil options across MTL and RDL. A three-colour battery indicator provides charge feedback at a glance. When it’s time to top up, USB-C charging helps you get back to vaping quickly (cable not included). We Recommend paring the kit with 50/50 , Nic Salt or High PG E-Liquid Shop our vape juice collection to find flavours that go hand in hand with this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1123388",
+    "compatible-with-1123390",
+    "compatible-with-1123391",
+    "compatible-with-1127259",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Green Ripple",
+        "Black Shadow",
+        "Metal Silver",
+        "Metal Blue",
+        "Blue Ripple",
+        "Light Brown",
+        "Pink Ripple",
+        "Black Carbon",
+        "Weave Brown",
+        "Weave Black",
+        "Shell White",
+        "Shell Pink",
+        "Aurora Starry Purple",
+        "Aurora Pink Blue"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Green Ripple",
+      "sku": "1144680",
+      "price": 9.49
+    },
+    {
+      "title": "Black Shadow",
+      "sku": "1144677",
+      "price": 9.49
+    },
+    {
+      "title": "Metal Silver",
+      "sku": "1144678",
+      "price": 9.49
+    },
+    {
+      "title": "Metal Blue",
+      "sku": "1144679",
+      "price": 9.49
+    },
+    {
+      "title": "Blue Ripple",
+      "sku": "1144681",
+      "price": 9.49
+    },
+    {
+      "title": "Light Brown",
+      "sku": "1144676",
+      "price": 9.49
+    },
+    {
+      "title": "Pink Ripple",
+      "sku": "1144682",
+      "price": 9.49
+    },
+    {
+      "title": "Black Carbon",
+      "sku": "1144683",
+      "price": 9.49
+    },
+    {
+      "title": "Weave Brown",
+      "sku": "1158726",
+      "price": 9.49
+    },
+    {
+      "title": "Weave Black",
+      "sku": "1158727",
+      "price": 9.49
+    },
+    {
+      "title": "Shell White",
+      "sku": "1158725",
+      "price": 9.49
+    },
+    {
+      "title": "Shell Pink",
+      "sku": "1158724",
+      "price": 9.49
+    },
+    {
+      "title": "Aurora Starry Purple",
+      "sku": "1158722",
+      "price": 9.49
+    },
+    {
+      "title": "Aurora Pink Blue",
+      "sku": "1158723",
+      "price": 9.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Green-Ripple-OXVA-Xlim-Go-2-pod-kit.jpg?v=1757512994",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Shadow-OXVA-Xlim-Go-2-pod-kit.jpg?v=1757512994",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Metal-Silver-OXVA-Xlim-Go-2-pod-kit.jpg?v=1757512994",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Metal-Blue-OXVA-Xlim-Go-2-pod-kit.jpg?v=1757512994",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Light-Brown-Shadow-OXVA-Xlim-Go-2-pod-kit.jpg?v=1757512781",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pink-Ripple-OXVA-Xlim-Go-2-pod-kit.jpg?v=1757512789",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Carbon-OXVA-Xlim-Go-2-pod-kit.jpg?v=1757512795",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Ripple-OXVA-Xlim-Go-2-pod-kit.jpg?v=1757513419",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-go-2-pod-vape-kit__009.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/img-coming-soon-800x800.webp?v=1735828350",
+      "position": 9,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.055Z"
+}

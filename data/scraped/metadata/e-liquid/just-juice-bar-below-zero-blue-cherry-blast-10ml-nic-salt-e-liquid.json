@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15535149875581",
+  "slug": "just-juice-bar-below-zero-blue-cherry-blast-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Below Zero Blue Cherry Blast 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-below-zero-blue-cherry-blast-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Cherry Blast from the Just Juice Bar Below Zero Range is a punchy fruit blend that contrasts juicy sweetness with a cooling finish. Bold Blueberry delivers a deep, jammy base, while ripe Cherry layers in its bright, red-fruit richness. The flavour is sharpened by a blast of Ice, creating a vibrant and refreshing vape that’s bursting with character. Blended with nicotine salts, this e-liquid provides rapid satisfaction with a smooth throat feel, making it ideal for MTL (mouth-to-lung) devices such as pod kits and vape pens. Available in 5mg, 10mg and 20mg strengths, it offers options for both light and heavier nicotine preferences. Made in the UK at a 60PG/40VG ratio, Just Juice Bar Below Zero Range Nic Salts are designed for flavour clarity and subtle vapour, bringing disposable-inspired profiles into a convenient 10ml refill format. Please Note : All flavours in the Just Juice Bar Below Zero Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Cherry Ice",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1153439",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1148254",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148264",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148259",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-below-zero-blue-cherry-blast-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BAR-BELOW-ZERO-BLUE-CHERRY-BLAST-Just-Juice-Bar-Below-Zero-10ml.jpg?v=1758022795",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.441Z"
+}

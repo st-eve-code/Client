@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639563755844",
+  "slug": "zeus-juice-50ml-eliquid-the-animal",
+  "title": "Zeus Juice The Animal E-Liquid 50ml Shortfill",
+  "url": "https://www.vapestore.co.uk/products/zeus-juice-50ml-eliquid-the-animal",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 13.99,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "The Animal from Zeus Juice is a primal flavour experience that takes the UK vape maker’s iconic blackcurrant menthol, The Black, and instils it with the fresh citrus tang of juicy, ripe oranges. Orange really is the new Black! This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , box mod vapes and sub-ohm tanks .",
+  "tags": [
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "ZS-50-5G-TA-00-SF",
+      "price": 13.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__zeus-juice-50ml-eliquid-the-animal__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-the-animal-e-liquid-50ml-shortfill_1.jpg?v=1729042124",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.624Z"
+}

@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639741325636",
+  "slug": "elf-bar-elfliq-strawberry-snoow-nicsalt-10ml",
+  "title": "Elf Bar ElfLiq Strawberry Snoow Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-strawberry-snoow-nicsalt-10ml",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Snoow from Elfliq’s range of nic salt e-liquids is everything you want from a sweet and creamy treat on a hot summer’s day – or any day of the year. Deliciously rich and smooth, the tangy sweetness of a fresh strawberry coulis layered over luscious dairy ice cream is a flavour that never fails to put a smile on your face, and this fantastic Elfliq e-liquid makes for an easy and uplifting all-day vape. Elfliq e-liquids are Elf Bar’s most iconic flavours in 10ml bottles of nicotine salt e-liquid. With a 50% VG / 50% PG concentration, Elfliq liquids produce a discreet amount of flavour-rich vapour with a smooth, comfortable throat hit, and provide rapid relief from nicotine cravings. Elfliq nicotine salt e-liquids are available in 10mg or 20mg nicotine strength and are ideal for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1127906",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1120111",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1120120",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-strawberry-snoow-nicsalt-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-strawberry-snoow-5mg_d658ec27-9afc-479f-b5ed-ad2d0afcc18c.jpg?v=1776354759",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-strawberry-snoow-nicsalt-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-strawberry-snoow-10mg_5983fad1-4b5c-4c9a-80ba-3a4192198f25.jpg?v=1776354761",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-strawberry-snoow-nicsalt-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-strawberry-snoow-20mg.jpg?v=1776354765",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.382Z"
+}

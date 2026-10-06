@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639387398468",
+  "slug": "just-juice-e-liquid-berry-burst-lemonade",
+  "title": "Just Juice Berry Burst & Lemonade Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-e-liquid-berry-burst-lemonade",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "For a limited time only, you can enjoy two of Just Juice’s most popular flavours in a perfectly blended fusion of Berry Burst and Lemonade. The luxuriously sweet flavour of strawberries, blueberries and raspberries are tumbled into zingy, refreshing lemonade for an exclusive e-liquid that will linger long on the taste buds and memory. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Just Juice Fusion",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "11mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1119042",
+      "price": 3.95
+    },
+    {
+      "title": "11mg",
+      "sku": "JC-JC-10-BL-11-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "JC-JC-10-BL-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-e-liquid-berry-burst-lemonade__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-fusion-nic-salt-1_1.jpg?v=1729037653",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.426Z"
+}

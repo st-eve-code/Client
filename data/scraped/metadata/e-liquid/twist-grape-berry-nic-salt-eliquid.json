@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639954809156",
+  "slug": "twist-grape-berry-nic-salt-eliquid",
+  "title": "Twist Grape Berry 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/twist-grape-berry-nic-salt-eliquid",
+  "brand": "Twist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Grape Berry from Twist E-liquid’s Nic Salt collection delivers a delightful fusion of juicy grapes and mixed berries. This e-liquid offers a well-rounded fruit flavour, combining the sweet and slightly tart notes of berries with the rich, juicy essence of grapes. Perfect for vapers who enjoy a balanced and flavourful vape, Grape Berry provides a satisfying and refreshing experience. Twist Nic Salt e-liquids are expertly crafted with a balanced 50VG/50PG mix, tailored for mouth-to-lung (MTL) vaping devices and pod systems. With nicotine strengths of 10mg and 20mg, these e-liquids provide a smooth throat hit and rapid nicotine delivery, ideally suited for adult smokers and vapers in search of effective nicotine satisfaction. They are optimised for use in low-wattage MTL devices, including Pod Kits and Starter Kits. Hailing from Los Angeles, the award-winning Twist E-Liquid offers a wide selection of fruit, dessert, and tobacco flavours for adult smokers and vapers seeking an alternative to traditional tobacco products. Known for their authentic flavour profiles, Twist E-Liquid has become a leading brand in the United States. Authorized for sale by the U.S. Food & Drug Administration, Twist have now expanded to the UK and EU, continuing to bring their celebrated flavours to these regions while meeting local regulations and consumer preferences. Perfect for refillable pod devices and starter vape kits , designed for smooth, satisfying hits every session.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1133079",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1133096",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__twist-grape-berry-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/twist-grape-berry-20mg-ns_1.jpg?v=1729062617",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__twist-grape-berry-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/twist-grape-berry-10mg-ns.jpg?v=1729062617",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__twist-grape-berry-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/twist-grape-berry-20mg-ns.jpg?v=1729062617",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.565Z"
+}

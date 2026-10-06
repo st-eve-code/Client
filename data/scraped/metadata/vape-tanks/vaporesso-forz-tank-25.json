@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639442317636",
+  "slug": "vaporesso-forz-tank-25",
+  "title": "Vaporesso Forz 25 Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-forz-tank-25",
+  "brand": "Vaporesso",
+  "productType": "Tanks",
+  "price": {
+    "min": 19.99,
+    "max": 19.99,
+    "currency": "GBP"
+  },
+  "description": "The FORZ Tank 25 is built to withstand the most challenging conditions and is waterproof, shockproof, and dustproof. The tank is built from fibreglass plastic and soft rubber, with reinforced screws and a high strength Zinc Alloy bracket for strength and resistance to drops and shocks. The FORZ Tank 25 employs an innovative screw-to-fill cap for mess-free refilling, and changing coils is a breeze thanks to Pull and Push coils, while a silicone drip tip cover further protects the mouthpiece. The Forz Tank 25 is built for use with Vaporesso’s amazing sub-ohm GTR mesh coils which utilise anti-bacterial organic cotton, a larger airway, and an updated leak-proof structure to draw every last bit of flavour from your high-VG eliquids The Vaporesso is a rugged powerhouse that won’t let you down when it comes to durability, flavour and performance. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Freedojokit",
+    "Freedojopod"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VP-RS-TA-FZ-25-2ML",
+      "price": 19.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-forz-tank-25__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-forz-25-tank-2ml.jpg?v=1729039832",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.626Z"
+}

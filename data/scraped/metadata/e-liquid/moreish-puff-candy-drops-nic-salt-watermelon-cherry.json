@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639567753540",
+  "slug": "moreish-puff-candy-drops-nic-salt-watermelon-cherry",
+  "title": "Moreish Puff Candy Drops Watermelon Cherry Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/moreish-puff-candy-drops-nic-salt-watermelon-cherry",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "This delicious flavour from Moreish Puff’s Candy Drops nic salt range delivers the fresh, mellow sweetness of Watermelon with a sour kick of Cherry candy for an irresistible all-day vape. Moreish Puff’s Nic Salt e-liquid’s nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief and smooth throat hit provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salts E Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "MP-10-CD-WC-10-NS",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "MP-10-CD-WC-20-NS",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__moreish-puff-candy-drops-nic-salt-watermelon-cherry__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/mpsalts_0001_watermelon_cherry__candydropsnicsalt.jpg?v=1729042160",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.623Z"
+}

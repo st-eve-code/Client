@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639410270532",
+  "slug": "big-drip-e-liquids-raspberry-mojito-100ml",
+  "title": "Doozy Vape Co Big Drip Raspberry Mojito Shortfill E-Liquid 100ml",
+  "url": "https://www.vapestore.co.uk/products/big-drip-e-liquids-raspberry-mojito-100ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "A mouth-watering fruit cocktail, Raspberry Mojito is an eliquid from Big Drip (Doozy Vape) that delivers a juicy sweet hit of raspberry and sugarcane with a zesty citrus background for an irresistible all-day vape. This convenient 100ml shortfill bottle really helps your favourite e-liquid go the distance and comes with 25ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70VG/30PG ratio makes it ideal for high-powered pod kits , mods and sub-ohm tanks .",
+  "tags": [
+    "100ml shortfill",
+    "2 for £15",
+    "70/30 Shortfill",
+    "Big Drip",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DZ-BD-100-RM-00-VG",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__big-drip-e-liquids-raspberry-mojito-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/big-drip-50ml-raspberry-mojito.jpg?v=1729038577",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.634Z"
+}

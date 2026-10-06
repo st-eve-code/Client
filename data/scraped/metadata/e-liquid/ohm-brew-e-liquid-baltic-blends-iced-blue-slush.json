@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639390544196",
+  "slug": "ohm-brew-e-liquid-baltic-blends-iced-blue-slush",
+  "title": "Ohm Brew Baltic Blends Iced Blue Slush Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ohm-brew-e-liquid-baltic-blends-iced-blue-slush",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "There’s no beating a blue slush when it comes to lip-smacking refreshment. Here it’s realised to ultimate perfection by Ohm Brew, with sweet and tangy Raspberries and Blueberries on the inhale and an icy menthol exhale. Ohm Brew’s Baltic Blends range of 50ml cool shortfills are packed full of astonishing flavour but with an invigorating icy twist. Ideal for those looking for a cooler hit or for hotter days. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape to your liking. Its 70VG/30PG ratio makes it ideal for a wide range of Sub Ohm Vape Kits",
+  "tags": [
+    "2 for £15",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "EV-OI-50-BS-00-VG",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-brew-e-liquid-baltic-blends-iced-blue-slush__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm-brew-iced-blue-slush_11aa727d-3730-4b2e-8610-3a6bbfe51eed.jpg?v=1729037765",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.639Z"
+}

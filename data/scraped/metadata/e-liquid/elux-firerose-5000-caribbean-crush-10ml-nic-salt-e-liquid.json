@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15294591533437",
+  "slug": "elux-firerose-5000-caribbean-crush-10ml-nic-salt-e-liquid",
+  "title": "Elux Firerose 5000 Caribbean Crush 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elux-firerose-5000-caribbean-crush-10ml-nic-salt-e-liquid",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Firerose 5000 Caribbean Crush Nic Salt brings a taste of the tropics with a vivid blend of Pineapple and Mango. Bright, tangy Pineapple takes the lead, offering a vibrant kick of sweet tropical sharpness, while smooth, sweet Mango provides a rich counterpoint that softens the sharpness with delightful results. The combination is fresh, fruity and uplifting without being overly sweet, making it an ideal choice for fans of exotic blends. Formulated with a 50VG/50PG ratio, Caribbean Crush Nic Salt is designed for MTL (mouth-to-lung) vaping and delivers a tactile yet comfortable throat hit, rich flavour, and discreet yet satisfying vapour production. Suitable for refillable pod kits and vape pens, the Elux Firerose 5000 Nic Salt range offers a convenient way to enjoy signature Elux flavours in a versatile 10ml format.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Firerose 5000",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "Pineapple",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142936",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142944",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-firerose-5000-caribbean-crush-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/CARIBBEAN-CRUSH-Elux-Fire-Rose-10ml.jpg?v=1749725682",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.429Z"
+}

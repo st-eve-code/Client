@@ -1,0 +1,94 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15263857770877",
+  "slug": "just-juice-bar-range-vanilla-rhubarb-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Range Vanilla Rhubarb 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-range-vanilla-rhubarb-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vanilla Rhubarb from the Just Juice Bar Range blends tart, fruity Rhubarb with a soft, creamy Vanilla base. The bright, slightly tangy Rhubarb note hits first, followed by mellow Vanilla that smooths out the sharpness for a dreamy dessert-inspired vape. A layer of Ice provides a clean, frosty finish that rounds out the experience. This nicotine salt e-liquid is formulated at a 60PG/40VG ratio for mouth-to-lung (MTL) devices like pod kits and vape pens. Available in 5mg, 10mg and 20mg strengths, it delivers quick nicotine satisfaction with a smoother, more tactile throat hit than freebase options. Made in the UK, Just Juice Bar Range Nic Salts offer a chilled, flavour-forward vape experience in a compact 10ml format—ideal for fans of sweet-tart profiles with a cool twist. Please Note : All flavours in the Just Juice Bar Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1153435",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1142233",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142240",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142246",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-range-vanilla-rhubarb-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-VANILLA-RHUBARB-5mg.jpg?v=1748604569",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-vanilla-rhubarb-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-VANILLA-RHUBARB-10mg.jpg?v=1748604604",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-vanilla-rhubarb-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-VANILLA-RHUBARB-20mg.jpg?v=1748604706",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-vanilla-rhubarb-10ml-nic-salt-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vanilla-Rhubarb-Just-Juice-Bar-Zero-0mg-10-ml.jpg?v=1770912087",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.389Z"
+}

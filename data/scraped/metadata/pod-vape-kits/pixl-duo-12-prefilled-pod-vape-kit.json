@@ -1,0 +1,250 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15343080767869",
+  "slug": "pixl-duo-12-prefilled-pod-vape-kit",
+  "title": "PIXL Duo 12 Prefilled Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/pixl-duo-12-prefilled-pod-vape-kit",
+  "brand": "PIXL",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 9.49,
+    "max": 9.49,
+    "currency": "GBP"
+  },
+  "description": "The PIXL Duo 12 Prefilled Pod Kit is a dual-flavour vape system with a sleek, stylish, travel-friendly design that lets you switch between two prefilled flavours with a simple twist. Each device carries two replaceable pods, each with a 1ml e-liquid chamber and a 5ml refill reservoir, supporting up to 6000 puffs (depending upon personal vaping style. The rotating mouthpiece makes it easy to alternate between flavours on the go, while the Boost Mode enhances vapour and flavour delivery at the touch of a button. Powered by a rechargeable 850mAh battery and equipped with mesh coil technology, the PIXL Duo offers a smooth and satisfying MTL (mouth-to-lung) vape with every draw. It also features a safety lock, USB-C charging, and a clear display to monitor power levels. With 14 curated PIXL Duo 12 pod flavour editions to choose from, each Duo Kit pairs two PIXL complementary favourites into one pocket-friendly device. PIXL Duo 12 Kit Flavours Blue Edition Blueberry Razz + Blue Magic Cherry Edition Cherry Ice + Cherry Pop Fantasy Edition Mixed Fruits + Blueberry Burst Lemonade Edition Pink Lemonade + Blue Lemonade Lime Edition Lemon and Lime + Cola Lime Mint Edition Watermelon Mint + Strawberry Mint Pink Edition Pink Razz + Pixl Dust Purple Edition Grape Berry Burst + Mr Purp Raspberry Edition Raspberry Chew + Raspberry Mojito Red Edition Strawberry Blush + Strawberry Blood Orange Strawberry Edition Strawberry Burst + Strawberry Watermelon Tropical Edition Triple Melon + Triple Mango Watermelon Edition Watermelon Grape + Watermelon Peach Mango Yellow Edition Kiwi Banana + Strawberry Banana Please Note: This device does not come with a USB-C Cable Shop Pixl Duo 12 Refill Pods",
+  "tags": [
+    "6k Puffs",
+    "Kit-VS-Export",
+    "Lemon and Lime",
+    "Mango",
+    "Pink Lemonade",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Flavour",
+      "position": 1,
+      "values": [
+        "Blue Edition",
+        "Cherry Edition",
+        "Fantasy Edition",
+        "Lemonade Edition",
+        "Lime Edition",
+        "Mint Edition",
+        "Pink Edition",
+        "Purple Edition",
+        "Raspberry Edition",
+        "Red Edition",
+        "Strawberry Edition",
+        "Tropical Edition",
+        "Watermelon Edition",
+        "Yellow Edition"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue Edition",
+      "sku": "1143533",
+      "price": 9.49
+    },
+    {
+      "title": "Cherry Edition",
+      "sku": "1143534",
+      "price": 9.49
+    },
+    {
+      "title": "Fantasy Edition",
+      "sku": "1143537",
+      "price": 9.49
+    },
+    {
+      "title": "Lemonade Edition",
+      "sku": "1143535",
+      "price": 9.49
+    },
+    {
+      "title": "Lime Edition",
+      "sku": "1143531",
+      "price": 9.49
+    },
+    {
+      "title": "Mint Edition",
+      "sku": "1143536",
+      "price": 9.49
+    },
+    {
+      "title": "Pink Edition",
+      "sku": "1143543",
+      "price": 9.49
+    },
+    {
+      "title": "Purple Edition",
+      "sku": "1143542",
+      "price": 9.49
+    },
+    {
+      "title": "Raspberry Edition",
+      "sku": "1143539",
+      "price": 9.49
+    },
+    {
+      "title": "Red Edition",
+      "sku": "1143544",
+      "price": 9.49
+    },
+    {
+      "title": "Strawberry Edition",
+      "sku": "1143532",
+      "price": 9.49
+    },
+    {
+      "title": "Tropical Edition",
+      "sku": "1143540",
+      "price": 9.49
+    },
+    {
+      "title": "Watermelon Edition",
+      "sku": "1143541",
+      "price": 9.49
+    },
+    {
+      "title": "Yellow Edition",
+      "sku": "1143538",
+      "price": 9.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-blue-edition-800x800.jpg?v=1751548466",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-cherry-edition-800x800.jpg?v=1751548493",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-fantasy-edition-800x800.jpg?v=1751548607",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-lime-edition-800x800.jpg?v=1751548635",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-lime-edition-800x800_b88ff5a9-4633-4efb-add3-c270b6dffa95.jpg?v=1751548684",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-lemonade-edition-800x800.jpg?v=1751548693",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-lime-edition-800x800_e6dcffa5-40b8-4bdd-b341-3742f3b7cf4f.jpg?v=1751548703",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__008.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-mint-edition-800x800.jpg?v=1751548741",
+      "position": 8,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__009.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-pink-edition-800x800.jpg?v=1751548764",
+      "position": 9,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__010.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-purple-edition-800x800.jpg?v=1751548788",
+      "position": 10,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__011.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-raspberry-edition-800x800.jpg?v=1751548891",
+      "position": 11,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__012.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-red-edition-800x800.jpg?v=1751548999",
+      "position": 12,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__013.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-strawberry-edition-800x800.jpg?v=1751549024",
+      "position": 13,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__014.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-tropical-edition-800x800.jpg?v=1751549050",
+      "position": 14,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__015.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-watermelon-edition-800x800.jpg?v=1751549073",
+      "position": 15,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pixl-duo-12-prefilled-pod-vape-kit__016.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/duo12-device-yellow-edition-800x800.jpg?v=1751549099",
+      "position": 16,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.472Z"
+}

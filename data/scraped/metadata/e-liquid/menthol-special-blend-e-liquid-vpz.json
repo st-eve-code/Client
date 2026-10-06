@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639256621380",
+  "slug": "menthol-special-blend-e-liquid-vpz",
+  "title": "Vapouriz Premium Menthol Special Blend E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/menthol-special-blend-e-liquid-vpz",
+  "brand": "Vapouriz Premium",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Crisp, clean and offering a delicious balance of sweet, delicate spearmint, punchy peppermint and bracing menthol, Menthol Special Blend is a superbly crafted menthol e-liquid that has become a favourite among countless menthol fans. Super-refreshing, the rush of cool menthol is mellowed with the freshness of mint to sublime effect. Vapouriz E-Liquids are expertly-crafted by Vapouriz Labs UK to deliver intense flavour and stunning vapour production for your e-cigarette setup. Browse the full collection of Vapouriz Premium E-Liquids and pick up the perfect pairing for any Vape Kit , Starter Vape Kits or Compact Pod Vape Kit . We’ve got a selection of formulations to suit all styles of e-cigarette devices, including High-PG blends for classic vaping as well as Vapouriz Nicotine Salts and adaptable 50:50 Vape Juice options.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "High PG E-Liquid",
+    "MTL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "VZ-MS-00",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1134852",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VZ-MS-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VZ-MS-12",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VZ-MS-18",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__menthol-special-blend-e-liquid-vpz__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_menthol_special_blend_10ml-eliquid.jpg?v=1729031717",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.325Z"
+}

@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14888481096061",
+  "slug": "tidal-vape-vortex-lemon-lime-10ml-nic-salt-e-liquid",
+  "title": "Vortex Lemon & Lime 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/tidal-vape-vortex-lemon-lime-10ml-nic-salt-e-liquid",
+  "brand": "Tidal Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Tidal Vape Vortex Nic Salt Lemon & Lime delivers the bright tang of Lemon with the zesty kick of Lime, creating a clean and refreshing citrus vape. This simple yet bold flavour is perfect for vapers who enjoy crisp and tangy profiles with a vibrant finish. Crafted with a 50VG/50PG ratio, Lemon & Lime provides smooth vapour and full-bodied flavour, ideal for use with Mouth-To-Lung (MTL) pod kits and starter systems. The nicotine salt formulation ensures smooth throat hits and fast nicotine absorption, making it an excellent choice for everyday vaping. Tidal Vape Vortex Nic Salts are available in a 10ml format, offering a longer-lasting and more sustainable alternative to disposable vape bars. Available in 10mg and 20mg nicotine strengths, Lemon & Lime is a bright and zesty option for citrus lovers. Designed for refillable pod devices and starter vape devices , ensuring smooth, reliable performance.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137846",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137867",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tidal-vape-vortex-lemon-lime-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-10mg-lemon-lime-min.jpg?v=1733849006",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__tidal-vape-vortex-lemon-lime-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-20mg-lemon-lime-min.jpg?v=1733849043",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.522Z"
+}

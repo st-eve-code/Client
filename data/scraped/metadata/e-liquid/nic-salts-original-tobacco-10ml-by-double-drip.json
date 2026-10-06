@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639560937796",
+  "slug": "nic-salts-original-tobacco-10ml-by-double-drip",
+  "title": "Double Drip Nic Salts Original Tobacco 10ml",
+  "url": "https://www.vapestore.co.uk/products/nic-salts-original-tobacco-10ml-by-double-drip",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Double Drip Original Tobacco Nic Salt E-Liquid 10ml is a divine nicotine salt e-juice formulation. It’s perfect for any vaper seeking to replace traditional cigarettes and continue enjoying their favourite tobacco flavours. Whilst at the same time providing near instant relief for their nicotine cravings in each delicious silky-smooth throat hit. The Original Tobacco Nic Salt perfectly captures the heady satisfaction of a rich, authentic Virginia tobacco blend. The timeless flavour and warm, woody aromas meet your tastebuds on the inhale, mingling with delicate spicy notes on the exhale to produce an endlessly satisfying vape that manages to taste even better than the real thing! Double Drip Nic Salt’s 50VG/50PG blend provides the perfect balance of flavour and cloud production. The specially crafted nicotine salt solution makes it ideal for use in classic e-cigarettes, starter vape kits and pod vape devices. It’s the perfect e-juice option for recent ex-smokers or vapers seeking immediate, satisfying nicotine relief and a smooth throat hit provided by premium Nic Salts. Unlike regular freebase E-Liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine. Whilst delivering a smoother throat hit than higher-strength freebase liquids are capable of. With nicotine salt E-Liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic Salt E-Liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic Salts. If you love this Double Drip Nic Salt E-Liquid flavour then you are bound to enjoy others from the range. This e-juice range has lots of flavours available to suit all kinds of vaping needs, wants and desires. From classic fruit flavours to sweet bubbly drinks, you can be sure to find a Nic Salt flavour that suits your vaping needs. Go ahead why not treat yourself to a flavour that’s fabulously sweet and fruity , a lusciously sweet treat or a classic, refreshing and smooth taste?",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "VZ-DD-10-OT-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "VZ-DD-10-OT-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nic-salts-original-tobacco-10ml-by-double-drip__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/original-tobacco-double-drip-eliquid-10ml.jpg?v=1729042106",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nic-salts-original-tobacco-10ml-by-double-drip__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/original-tobacco-double-drip-eliquid-10ml_2.jpg?v=1729042106",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.348Z"
+}

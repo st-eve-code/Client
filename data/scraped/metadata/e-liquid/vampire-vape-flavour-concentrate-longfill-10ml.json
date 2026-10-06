@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639862206788",
+  "slug": "vampire-vape-flavour-concentrate-longfill-10ml",
+  "title": "Vampire Vape Heisenberg Longfill E-Liquid - 20ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-flavour-concentrate-longfill-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 6.79,
+    "max": 6.79,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape's iconic Heisenberg, the flavour that skyrocketed them to fame in the vaping world, is now available as a DIY concentrate. This award-winning mix features a burst of mixed berries with a cool menthol finish. It's a must-try for every vaper. Just mix it with your VG/PG base for the best taste. Remember, all Vampire Vape concentrates are 100% PG based. What are Longfills? Longfill e-liquids come with 20ml of flavour in a 60ml bottle, letting you add your preferred amount of nicotine shots and PG/VG. This means you have full control over the strength and ratio of your e-liquid. Unlike shortfills, which only go up to 3mg, Longfills can be mixed to 3mg, 6mg, 9mg, or 12mg strengths. How to Mix Your Longfill : Just open your bottle, add your nicotine shots, then top it up with PG/VG. Shake it well to mix, and it's ready to vape.",
+  "tags": [
+    "20ml Longfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128164",
+      "price": 6.79
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-flavour-concentrate-longfill-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_uk_20ml-longfill_heisenberg.jpg?v=1729057444",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.498Z"
+}

@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639398310212",
+  "slug": "salt-e-liquid-berry-bomb",
+  "title": "Salt Berry Bomb Nicotine Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/salt-e-liquid-berry-bomb",
+  "brand": "Salt",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Berry Bomb takes luscious ripe, red berry as its base note, then deftly folds in flavours of aniseed, liquorice and menthol for a sublime vape that fires up all the senses. Sweet and punchy on the inhale with a delightfully cool kick on the exhale. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "SA-LT-10-BB-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "SA-LT-10-BB-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__salt-e-liquid-berry-bomb__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/salt_berrybomb_800x800_cd5a7472-079b-4e67-a29d-9b927da782a4.jpg?v=1729038069",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.638Z"
+}

@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "15134164484477",
+  "slug": "innokin-zenith-m-vape-tank",
+  "title": "Innokin Zenith M Vape Tank",
+  "url": "https://www.vapestore.co.uk/products/innokin-zenith-m-vape-tank",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 16.99,
+    "max": 16.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Zenith M Tank is a 2ml TPD-compliant tank designed for vapers who value immaculate flavours, coil variety, and everyday ease of use. The Zenith M introduces Innokin’s TopSync system, combining top-fill and airflow control into a single rotating ring for smooth, intuitive adjustments. This tank is compatible with the full range of Innokin Z-Coils, offering support for a wide range of resistances from 0.3ohm to 1.6ohm. Whether you prefer a tight MTL draw or a more open RDL vape, the Zenith M allows you to fine-tune your vaping experience with ease. Built from stainless steel with a durable glass chamber, the Zenith M features a convenient top-fill mechanism, making refills quick and clean. The adjustable top airflow helps reduce leakage while providing precise draw control, and the coil replacement system is designed for minimal mess—simply unscrew the tank base to swap coils as needed. With its balanced airflow, versatile coil support, and simple, elegant design, the Innokin Zenith M Tank is an excellent option for vapers seeking a high-performance tank that pairs perfectly with the Coolfire Z80 Nex Mod and other 510-compatible devices. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Stainless Steel",
+        "Gunmetal Grey",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Stainless Steel",
+      "sku": "1140540",
+      "price": 16.99
+    },
+    {
+      "title": "Gunmetal Grey",
+      "sku": "1140541",
+      "price": 16.99
+    },
+    {
+      "title": "Black",
+      "sku": "1140542",
+      "price": 16.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-zenith-m-vape-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-Zenith-M-Tank_-2mL_Stainless-Steel.jpg?v=1744020552",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zenith-m-vape-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-Zenith-M-Tank_-2mL_Gunmetal.jpg?v=1744020578",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-zenith-m-vape-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-Zenith-M-Tank_-2mL_Black.jpg?v=1744020615",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

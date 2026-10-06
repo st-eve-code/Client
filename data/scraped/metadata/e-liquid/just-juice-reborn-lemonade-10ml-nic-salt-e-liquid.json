@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15978757915005",
+  "slug": "just-juice-reborn-lemonade-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Reborn Lemonade 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-reborn-lemonade-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Just Juice Reborn Lemonade 10ml Nic Salt E-Liquid delivers a brilliantly sharp and intensely refreshing beverage profile. The inhale provides the zesty, bright tartness of freshly squeezed Lemon, expertly balanced with a smooth, syrupy sweetness to replicate classic Lemonade. To complete the experience, a gentle cooling effect washes over the palate on the exhale, ensuring a crisp and revitalising vape. Available in 5mg, 10mg, and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth throat sensation to effectively manage nicotine intake. Formulated with a specific 40VG/60PG ratio, this e-liquid provides exceptional flavour clarity and a slightly more pronounced throat hit. It is designed to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Just Juice Reborn collection brings back a selection of original e-liquid flavours, refined and updated to deliver a highly concentrated, bar-style experience. Offering exceptional quality and familiarity, this range provides a dependable option for everyday use. Beyond the sparkling citrus notes of Lemonade, vapers can explore other revitalised profiles such as the crisp Apple & Pear on Ice or the sweet Blue Raspberry.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Just Juice Reborn Nic Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1158144",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1158138",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158133",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-reborn-lemonade-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/LEMONADE-REBORN-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744573",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-reborn-lemonade-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/REBORN-Lemonade-10MG-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744576",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-reborn-lemonade-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/REBORN-Lemonade-20MG-Just-Juice-Reborn-10ml-nic-salt.jpg?v=1785744579",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.438Z"
+}

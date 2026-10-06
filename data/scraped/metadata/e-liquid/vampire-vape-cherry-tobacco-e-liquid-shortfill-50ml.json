@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15551387369853",
+  "slug": "vampire-vape-cherry-tobacco-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape Cherry Tobacco E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-cherry-tobacco-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Koncept Cherry Tobacco Shortfill combines the rich depth of Tobacco with the bright sweetness of ripe Cherry. The Tobacco brings earthy body, while Cherry adds a fruity lift with a balance of sweetness and tartness. Blended at 70VG/30PG, this 50ml shortfill is tailored for direct-to-lung (DTL) vaping with sub-ohm kits, producing thick vapour and a smooth flavour experience. Each 60ml bottle contains 50ml of nicotine-free liquid, leaving space for one 10ml nicotine shot. Produced in the UK, Vampire Vape are widely recognised for their inventive blends and consistent quality. The Koncept series is crafted for sub-ohm vapers who enjoy bold, distinctive flavours in a high-VG format.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143043",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-cherry-tobacco-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco_50ml-Shortfill_flavour_Cherry-Tobacco.jpg?v=1758533841",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.487Z"
+}

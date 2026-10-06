@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14888426537341",
+  "slug": "tidal-vape-vortex-strawberry-ice-10ml-nic-salt-e-liquid",
+  "title": "Vortex Strawberry Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/tidal-vape-vortex-strawberry-ice-10ml-nic-salt-e-liquid",
+  "brand": "Tidal Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Tidal Vape Vortex Nic Salt Strawberry Ice delivers the luscious sweetness of ripe Strawberries perfectly balanced with a crisp, cooling menthol exhale. This refreshing blend provides a bright and uplifting vape, ideal for fruit lovers who enjoy a frosty twist. Crafted with a 50VG/50PG ratio, Tidal Vape Vortex nic salts are designed to balance rich flavour and smooth vapour production, making them ideal for Mouth-To-Lung (MTL) devices like pod kits and starter kits. The nicotine salt formulation ensures smooth throat hits and rapid nicotine satisfaction, delivering bold flavour without harshness. Tidal Vape Vortex Nic Salts offer a more sustainable and economical option compared to disposable vape bars, presented in a 10ml format for use with refillable vape devices. Available in 10mg and 20mg nicotine strengths, Strawberry Ice is a refreshing option for adult vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1156339",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1137836",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137857",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tidal-vape-vortex-strawberry-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-10mg-strawberry-ice-min.jpg?v=1733845203",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__tidal-vape-vortex-strawberry-ice-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vortex-10ml-20mg-strawberry-ice-min.jpg?v=1733845255",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.554Z"
+}

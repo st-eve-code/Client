@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639258587460",
+  "slug": "mango-raspberry-ice-cream-e-liquid-by-double-drip",
+  "title": "Double Drip Mango Raspberry Ice Cream E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/mango-raspberry-ice-cream-e-liquid-by-double-drip",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Mango Raspberry Ice Cream e-liquid by Double Drip delivers the superb taste of fresh mango with a tangy raspberry swirl and vanilla bean ice cream. Awaken your senses and refresh your taste buds. Double Drip Coil Sauce E-Liquid is a high-quality vape juice brand proudly manufactured right here in the United Kingdom. Browse the entire Double Drip range and find the perfect juice for your e-cigarette setup. Double Drip is available in a variety of formulations to suit a range of kits, including sub ohm (high-VG), 50/50 e-liquid , nicotine salt vape juice , and 50ml shortfills for use with starter vape kits , high-powered e cig kits, compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "DTL",
+    "High VG E-Liquid",
+    "Mango",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "DD-MR-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "DD-MR-06",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mango-raspberry-ice-cream-e-liquid-by-double-drip__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double_drip-mango-raspberry-ice-cream-10ml.jpg?v=1729031740",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.641Z"
+}

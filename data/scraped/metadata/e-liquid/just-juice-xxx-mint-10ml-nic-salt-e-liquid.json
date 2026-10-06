@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15272645558653",
+  "slug": "just-juice-xxx-mint-10ml-nic-salt-e-liquid",
+  "title": "Just Juice XXX Mint 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-xxx-mint-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "XXX Mint from the Just Juice Mint Range is an ultra-fresh triple Mint blend designed for maximum impact. A trio of bold Mint flavours combine to deliver a wave of icy intensity from the first puff to the last. The inhale is cool and clean, while the layered Mint notes build to a bracing finish that leaves a lingering chill. Formulated at a 60PG/40VG ratio and blended with nicotine salts, this e-liquid provides fast-absorbing nicotine and a smooth, tactile throat hit. It’s available in 5mg, 10mg and 20mg strengths and performs best in MTL (mouth-to-lung) pod kits and refillable vape pens. Crafted in the UK, Just Juice Mint Range Nic Salts are built for vapers who enjoy sharp, refreshing flavours with serious bite—perfect for anyone who wants an ice-cold vape without compromise.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Just Juice Mint Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1142248",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142249",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142250",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-xxx-mint-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-MINT-XXX-5MG.jpg?v=1748960049",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-xxx-mint-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-MINT-XXX-10MG.jpg?v=1748960066",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-xxx-mint-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-MINT-XXX-20MG.jpg?v=1748960085",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.379Z"
+}

@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639453425988",
+  "slug": "vampire-vapes-berry-menthol-10ml",
+  "title": "Vampire Vape Berry Menthol 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vapes-berry-menthol-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Indulge your taste buds with a tantalising treat of Berry Menthol by Vampire Vape. Where rich, sweet, jammy strawberries, raspberries, and blackberries collide with a hint of icy mint. Creating a perfect balance of fruity sweetness and refreshing coolness. Each luscious inhale of Berry Menthol unveils a medley of succulent raspberries, plump strawberries, and the rich complexity of luscious blackberries. Masterfully blended to deliver an exquisite burst of juicy goodness. Creating a mesmerising dance of flavours that will captivate your senses and take your palate on a journey of pure indulgence. Crafted by Vampire Vape, this Vampire Vape Berry Menthol E-Liquid has been designed to deliver maximum flavour and satisfying clouds by striking the ideal balance between PG and VG. When choosing the right Vampire Vape Juice nicotine strength for your vaping needs, it's important to know the VG/PG ratio. Please note: The 3mg nicotine strength has a 50VG/50PG ratio, whilst the 0mg, 6mg, 12mg, and 18mg nicotine strengths have a 40VG/60PG composition. These versatile Vampire Vape juice blends are compatible with a wide range of vape devices. But they truly shine when paired with low-powered starter kits, pen-vape kits, and pod kits. If you're captivated by the delectable flavours of this Berry Menthol by Vampire Vape, why not explore their other equally delicious E-Liquids. Such as their Vampire Vape Nic Salts or their Vampire Vape Bar Salts ranges? Their E-Liquid ranges cater to every vaper's unique flavour preferences. Ensuring there's always something new and exciting to discover. So whether you crave fruity delights, indulgent desserts, or refreshing menthol blends, you're sure to find the perfect vape juice to satisfy your taste buds and take your vaping to the next level.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1000348",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-BM-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-BM-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1000349",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VV-VV-10-BM-18",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vapes-berry-menthol-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-berry-menthol-10ml-e-liquid.jpg?v=1729040383",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.362Z"
+}

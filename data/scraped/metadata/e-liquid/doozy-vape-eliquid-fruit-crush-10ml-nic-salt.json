@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639402668356",
+  "slug": "doozy-vape-eliquid-fruit-crush-10ml-nic-salt",
+  "title": "Doozy Vape Co Fruit Crush 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-eliquid-fruit-crush-10ml-nic-salt",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The classic soft drink in vape form, Fruit Crush is bursting with juicy berry flavour layered over a cool and refreshing streak of crushed Ice. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "DZ-NS-10-VI-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "DZ-NS-10-VI-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-eliquid-fruit-crush-10ml-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozysalts_fruit_crush_800x800_c84f171c-cd4b-460e-a8b2-ea991b29528b.jpg?v=1729038270",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.636Z"
+}

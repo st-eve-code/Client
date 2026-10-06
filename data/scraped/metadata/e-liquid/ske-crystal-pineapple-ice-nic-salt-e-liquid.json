@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912603972",
+  "slug": "ske-crystal-pineapple-ice-nic-salt-e-liquid",
+  "title": "SKE Crystal Pineapple Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-pineapple-ice-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Ice from SKE Crystal Nic Salts e-liquid blends the tangy, tropical flavour of ripe pineapples with a chilling ice effect, creating a refreshingly sweet and cool vaping experience. This enticing mix is perfect for those hot days or whenever you need a quick tropical escape. Part of the enhanced Crystal Nic Salts collection, this e-liquid is formulated with nicotine salts to provide a smooth throat hit, making it an excellent choice for vapers who need a reliable nicotine fix without the harshness. The 50VG/50PG ratio ensures a good balance of flavour and cloud production, suitable for a range of MTL devices. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132491",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132518",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-pineapple-ice-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-pineapple-ice_1_1.jpg?v=1729060753",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.369Z"
+}

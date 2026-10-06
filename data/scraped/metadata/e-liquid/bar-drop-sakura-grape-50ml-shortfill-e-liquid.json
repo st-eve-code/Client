@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15826533843325",
+  "slug": "bar-drop-sakura-grape-50ml-shortfill-e-liquid",
+  "title": "Bar Drop Sakura Grape 50ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-sakura-grape-50ml-shortfill-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Sakura Grape delivers a unique and highly satisfying fruit profile with a touch of floral elegance. The blend leads with the rich, juicy sweetness of dark Grape, providing a deep and authentic fruit base. This is delicately enhanced by subtle, aromatic floral notes reminiscent of cherry blossom, adding a sophisticated twist to the classic grape flavour. The double-concentrated recipe ensures this intricate profile remains exceptionally vibrant. Formulated with a 50VG/50PG ratio, this e-liquid is specifically designed for MTL/RDL vaping. When paired with stater vape kits and low-wattage tanks, it produces small vapour clouds alongside exceptional flavour clarity. The even consistency ensures optimal wicking and performance in MTL/RDL devices, providing a smooth and satisfying experience. The Bar Drop Shortfill collection takes the intensely concentrated flavour profiles typically found in \"bar salt\" ranges and presents them in a 50%-VG format. Supplied as 50ml of nicotine-free e-liquid in a 60ml bottle, there is space to add a single 10ml nicotine shot, allowing you to easily create 60ml of 3mg e-liquid. This offers a cost-effective and highly flavoursome solution for sub-ohm vapers.",
+  "tags": [
+    "50/50 Shortfill",
+    "50ml Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1153846",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-sakura-grape-50ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sakura-Grape-Bar-Drop-50ml-E-Liquid.jpg?v=1772556472",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.504Z"
+}

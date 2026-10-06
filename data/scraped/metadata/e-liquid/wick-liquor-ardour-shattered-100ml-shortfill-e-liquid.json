@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15735097655677",
+  "slug": "wick-liquor-ardour-shattered-100ml-shortfill-e-liquid",
+  "title": "Wick Liquor Ardour Shattered 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/wick-liquor-ardour-shattered-100ml-shortfill-e-liquid",
+  "brand": "Wick Liquor",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 13.99,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "Wick Liquor Ardour Shattered brings a frosty edge to the deep berry Ardour blend. It features the same braised blackcurrant and raspberry puree base but adds a dash of Wick Liquor’s signature ice. The cooling effect sharpens the fruit notes, creating a crisp and refreshing berry vape. Supplied in a 120ml bottle, this 100ml shortfill leaves space for two 10ml nicotine shots. Adding two 18mg shots will create 120ml of 3mg e-liquid. Mixed with a High-VG 70% VG / 30% PG ratio, this e-liquid is optimised for sub-ohm vaping, producing dense clouds and delivering the depth of flavour Wick Liquor is famous for. Wick Liquor is a premium boutique brand from Staffordshire, renowned for their unique \"big block\" approach to flavour and complex, layered blends.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "ivgoffer"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1152520",
+      "price": 13.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__wick-liquor-ardour-shattered-100ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ardour-Shattered-Wick-Liquor-100ml-Shortfill.jpg?v=1766161505",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.538Z"
+}

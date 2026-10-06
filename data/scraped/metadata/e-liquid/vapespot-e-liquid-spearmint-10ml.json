@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639421280580",
+  "slug": "vapespot-e-liquid-spearmint-10ml",
+  "title": "Vape Spot Spearmint E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vapespot-e-liquid-spearmint-10ml",
+  "brand": "Vape Spot",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.5,
+    "max": 1.5,
+    "currency": "GBP"
+  },
+  "description": "A deliciously minty eliquid with mouth-watering notes of sweet candy. 50/50 e-liquids contain equal quantities of VG (vegetable glycerin) and PG (propylene glycol) for the perfect balance between flavour and vapour production. They’re ideal for use with starter kits and pod devices .",
+  "tags": [
+    "BRANDS",
+    "Default Category",
+    "E Liquid",
+    "E Liquid Deals",
+    "E-Liquids",
+    "MTL/RDL",
+    "Outlet",
+    "Vape Deals",
+    "Vape Spot",
+    "Vape Spot 10ml Multibuy",
+    "Vapespot 10ml Deals",
+    "Vapestore Categories",
+    "£1.50 E-Liquids/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "1113708",
+      "price": 1.5
+    },
+    {
+      "title": "12mg",
+      "sku": "1113707",
+      "price": 1.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vapespot-e-liquid-spearmint-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapespot-spearmint-12mg-10ml.jpg?v=1729039010",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.633Z"
+}

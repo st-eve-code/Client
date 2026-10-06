@@ -1,0 +1,121 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15992973394301",
+  "slug": "oxva-vprime-2-pod-vape-kit",
+  "title": "OXVA VPrime 2 Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/oxva-vprime-2-pod-vape-kit",
+  "brand": "Oxva",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 34.99,
+    "max": 34.99,
+    "currency": "GBP"
+  },
+  "description": "The OXVA VPrime 2 pod vape kit combines substantial battery capacity with highly responsive performance, making it a versatile choice for both direct-to-lung and restricted direct-to-lung vaping. Constructed for daily durability and ergonomic comfort, it houses a large 2600mAh built-in battery to provide reliable usage between charges. When a recharge is needed, the USB-C rapid charging system efficiently restores power to keep downtime to an absolute minimum. The device features a vibrant 0.98 inch Dynamic Smart Screen that clearly displays your battery life, puff count, and current settings at a glance. Rather than a manual wattage slider, the VPrime 2 utilises a streamlined dual-mode system. This allows you to easily switch between ECO mode for extended battery life and BOOST mode to access the maximum 60W output. You can tailor your draw further using the ergonomic adjustable airflow control, while the upgraded Ultra-Auto Draw technology ensures the device fires instantly upon inhalation without any delay. Supplied with the kit are two 2ml VPrime 2 cartridges, featuring built-in 0.4ohm and 0.6ohm Unitech 3.0 dual mesh coils. This advanced heating technology delivers consistently clear flavour and faster activation times. The 2ml pods utilise a highly practical top-fill system for quick, mess-free e-liquid top-ups. We recommend pairing the 0.4ohm pod with high-VG e-liquids, and the 0.6ohm pod with 50/50 or Nicotine Salt e-liquids for the best experience. Explore our vape juice and discover the perfect flavour for your device. We recommend using high VG (sub-Ohm) E-liquid with this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1136770",
+    "compatible-with-1136771",
+    "compatible-with-1136772",
+    "DTL",
+    "Free 2 Sub Ohm Liquids"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Mirage Blue",
+        "Shard Black",
+        "Mirage Purple",
+        "Shard Gold",
+        "Mirage Pink",
+        "Black Carbon"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Mirage Blue",
+      "sku": "1158998",
+      "price": 34.99
+    },
+    {
+      "title": "Shard Black",
+      "sku": "1158996",
+      "price": 34.99
+    },
+    {
+      "title": "Mirage Purple",
+      "sku": "1158994",
+      "price": 34.99
+    },
+    {
+      "title": "Shard Gold",
+      "sku": "1158999",
+      "price": 34.99
+    },
+    {
+      "title": "Mirage Pink",
+      "sku": "1158997",
+      "price": 34.99
+    },
+    {
+      "title": "Black Carbon",
+      "sku": "1158995",
+      "price": 34.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-vprime-2-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mirage-Blue-OXVA-Vprime-2-Pod-Kit.jpg?v=1786638239",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-2-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Shard-Gold-OXVA-Vprime-2-Pod-Kit.jpg?v=1786637881",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-2-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Shard-Black-OXVA-Vprime-2-Pod-Kit.jpg?v=1786637972",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-2-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mirage-Purple-OXVA-Vprime-2-Pod-Kit.jpg?v=1786638080",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-2-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mirage-Pink-OXVA-Vprime-2-Pod-Kit.jpg?v=1786638155",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-2-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Carbon-OXVA-Vprime-2-Pod-Kit.jpg?v=1786638413",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.443Z"
+}

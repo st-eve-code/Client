@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15767860674941",
+  "slug": "ox-passion-dragon-fruit-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Dragon Fruit Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-dragon-fruit-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Discover the unique taste of OX Passion Dragon Fruit, an exotic flavour profile that stands out from the crowd. It delivers the subtle, aromatic sweetness of authentic Dragon Fruit, offering a mellow and refreshing vape with hints of kiwi and pear. The OX Passion Nic Salt range is crafted by OXVA, a brand renowned for their high-performance vape kits. These e-liquids are formulated to deliver intense, concentrated flavour, making them an excellent choice for vapers who prioritise taste. With a 50% VG / 50% PG blend, this e-liquid is optimised for mouth-to-lung (MTL) vaping. It is designed to work flawlessly with low-wattage devices, particularly pod vape kits like the OXVA Xlim series, producing discreet vapour and exceptional flavour clarity. The nicotine salt formulation ensures a smooth throat hit and rapid nicotine satisfaction. OX Passion Nic Salts are available in 5mg, 10mg, and 20mg strengths, allowing you to tailor your vaping experience. This 10ml e-liquid is TPD-compliant and features a childproof cap and tamper-evident seal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1150075",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150063",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1150069",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-dragon-fruit-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DragonFruitOXPassionNicSalts10ml.jpg?v=1768818308",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.457Z"
+}

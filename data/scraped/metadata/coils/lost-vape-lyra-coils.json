@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639361216836",
+  "slug": "lost-vape-lyra-coils",
+  "title": "Lost Vape Lyra Coils",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-lyra-coils",
+  "brand": "Lost Vape",
+  "productType": "Coils",
+  "price": {
+    "min": 4.99,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "These mesh coils from Lost Vape are designed for use with the Lyra pod kit and feature a resistance of 0.6ohm: perfect for achieving fast, even heating and intense flavour payoff when used with any high-VG sub ohm e-liquid. Simply insert a new coil into the pod cartridge of your Lyra kit to enjoy instant enhanced performance and stunning vapour production. Lost Vape Lyra 1.2ohm Coils These classic coils from Lost Vape are intended for use with the convenient Lyra pod kit and feature a resistance range of 1.2ohm – ideal for use with classic, nic salt or 50:50 e-juices and achieving a satisfying mouth-to-lung vaping experience similar to that of a traditional tobacco cigarette. Simply insert a new coil into the pod cartridge of your Lyra kit to enjoy instant enhanced performance and thick, luscious vapour production.",
+  "tags": [
+    "compatible-with-discontinued-LV-KT-LY-RA-KT-BLK",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "LV-CO-LY-RA-5P-0.6",
+      "price": 7.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "LV-CO-LY-RA-5P-1.2",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-lyra-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-lyra-0-6.jpg?v=1729036414",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-lyra-coils__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-lyra-coils-0.6-mesh_1.png?v=1729036414",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-lyra-coils__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-lyra-coils-1.2_1.png?v=1729036414",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

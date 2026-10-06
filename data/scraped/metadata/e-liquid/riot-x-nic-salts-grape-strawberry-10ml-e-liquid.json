@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15034547667325",
+  "slug": "riot-x-nic-salts-grape-strawberry-10ml-e-liquid",
+  "title": "Riot X Nic Salts Grape Strawberry 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-grape-strawberry-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Grape Strawberry from Riot X delivers a captivating blend of two distinct yet complementary fruit flavours. The deep, dark juiciness of ripe grapes meets the bright, summery sweetness of strawberries, creating a lush and layered vape. The balance of rich berry and smooth grape ensures a satisfying inhale with a lingering fruitiness that keeps each puff fresh and full of character. Part of Riot Squad’s Riot X collection, this e-liquid is designed to replicate the intense, double-concentrated flavours found in the most popular single-use disposables. Supplied in a 10ml bottle, it’s an excellent choice for vapers switching from disposables to refillable MTL (mouth-to-lung) pod kits, delivering the same vivid taste with the added benefits of convenience and cost efficiency. Riot X Salt E-Liquids are made with Riot Squad’s Hybrid Nicotine blend, a combination of freebase nicotine and nicotine salts. This innovative mix, along with the 50PG/50VG ratio, ensures a well-balanced vape with vibrant flavour, a smooth throat hit, and satisfying vapour production. Please note: this flavour profile may contain hints of 'ice'.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1139254",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1139266",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139278",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-grape-strawberry-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Riot-X-grape-strawberry.jpg?v=1743492168",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.434Z"
+}

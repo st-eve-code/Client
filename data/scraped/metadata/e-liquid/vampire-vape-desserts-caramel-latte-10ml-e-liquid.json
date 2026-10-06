@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15124860502397",
+  "slug": "vampire-vape-desserts-caramel-latte-10ml-e-liquid",
+  "title": "Vampire Vape Desserts Caramel Latte 10ml  E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-desserts-caramel-latte-10ml-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Caramel Latte by Vampire Vape Desserts recreates the familiar warmth of your favourite coffee shop treat, combining deep, roasted Coffee flavour with a drizzle of sweet Caramel and a layer of smooth, steamed milk. This balanced vape offers depth and sweetness, making it an endlessly enjoyable all-day option for coffee and dessert flavour fans. Available in 0mg, 3mg, 6mg, 12mg, and 18mg freebase nicotine strengths, Caramel Latte is blended for mouth-to-lung (MTL) vaping with pod kits, starter devices, and vape pens. The 3mg strength features a 50VG/50PG ratio, while the 0mg, 6mg, 12mg, and 18mg options use a 40VG/60PG blend to provide enhanced flavour clarity and a more pronounced throat hit. Made in the UK and fully TPD-compliant, this e-liquid is part of Vampire Vape’s new Desserts collection — a range designed to bring indulgent dessert and café-inspired experiences to your everyday vape. Also available in High-VG Shortfills and DIY Concentrates.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Desserts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1138226",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1138229",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1138232",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1138235",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1138238",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-desserts-caramel-latte-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/UK-Vampire-Vape-10ml-Freebase---Desserts-Collection---Caramel-Latte---Bottle.jpg?v=1743670241",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.456Z"
+}

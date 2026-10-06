@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "9639610155332",
+  "slug": "aspire-flexus-q-pod-kit",
+  "title": "Aspire Flexus Q Pod Kit",
+  "url": "https://www.vapestore.co.uk/products/aspire-flexus-q-pod-kit",
+  "brand": "Aspire",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 18.99,
+    "max": 18.99,
+    "currency": "GBP"
+  },
+  "description": "Aspire Flexus Q Pod Kit Inspired by the simplicity and versatility of refillable pod kits and the discreet portability of disposables, the new Flexus Q pod kit from Aspire is a compact, lightweight and elegant pod kit that’s ideal for new vapers and experienced vapers alike. The Flexus Q features a 700mAh built-in battery which is charged in no time thanks to a Type-C USB charge port, reaching up to an 80% charge in 10 minutes. Aspire’s ASP chipset supports an array of safety protections and allows for three different wattage levels: soft, normal, and hard, and it can automatically detect the coil resistance and select the optimum wattage to deliver the best vaping experience. The kit can be operated via autodraw – simply take a puff as you would a traditional cigarette – or via the fire button. A sliding airflow control lets you tailor the intensity of every puff from a tight MTL (mouth-to-lung) vape to a richer RDL (restricted direct lung) vape. The refillable pods can be topped up with the side-fill port, and features a super-comfortable mouthpiece. The Flexus Q pods use the all new AF(Aspire Flexus) 0.6Ω & 1.0Ω vertical mesh coil, which heats more evenly to fully atomize the e-liquid, effectively enhancing both flavour and nicotine delivery. The Flexus Q is a low-powered device that’s perfect for use with Nic Salt , 50/50 and classic High-PG E-Liquids.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1135018",
+    "compatible-with-AS-CO-FLX-Q-AF-MSH-0.6-5P",
+    "compatible-with-AS-CO-FLX-Q-AF-MSH-1.0-5P",
+    "compatible-with-AS-RP-FLX-Q-2ML",
+    "Free 1 50/50 Liquid",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Aquamarine Gradient",
+        "Red",
+        "Sierra Blue"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Aquamarine Gradient",
+      "sku": "AS-KT-FLX-Q-PO-AQG",
+      "price": 18.99
+    },
+    {
+      "title": "Red",
+      "sku": "AS-KT-FLX-Q-PO-RE",
+      "price": 18.99
+    },
+    {
+      "title": "Sierra Blue",
+      "sku": "AS-KT-FLX-Q-PO-SB",
+      "price": 18.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-flexus-q-pod-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-q-aquamarine-gradient_1_323a751a-60b8-4eb5-b8fd-68ee358f5430.jpg?v=1729044287",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-flexus-q-pod-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-q-red_ca02a0b6-4441-4e50-a2ec-3ee5d22db3a4.jpg?v=1729044287",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-flexus-q-pod-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-q-sierra-blue_e6f26414-3020-4c07-94a4-6d27a99e7836.jpg?v=1729044287",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.501Z"
+}

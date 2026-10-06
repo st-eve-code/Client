@@ -1,0 +1,101 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15551797494141",
+  "slug": "lost-vape-galaxy-t360-pod-vape-kit",
+  "title": "Lost Vape Galaxy T360 Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-galaxy-t360-pod-vape-kit",
+  "brand": "Lost Vape",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Galaxy T360 is a compact pod kit that combines simple, draw-activated performance with a dazzling 360-degree “Galaxy” LED wraparound display. A built-in 1200mAh battery delivers up to 35W and you can choose between Single Mesh and Dual Mesh output modes to adjust warmth and vapour. A precise airflow slider supports everything from a tighter mouth-to-lung (MTL) pull to a looser restricted direct-to-lung (RDL) inhale. The panoramic LED wrap uses over 300 micro LEDs to create a seamless, full-body display around the device. It shows battery and mode status at a glance and includes quick controls via the single multi-function button: press once to wake the screen, three times to enter Power Saving, and five times to power on/off. The result is clear status lighting that’s easy to read in any orientation. The kit includes a 2ml URSA V3 top-fill pod fitted with an integrated 0.8ohm mesh coil for smooth flavour with 50/50 or nicotine salt e-liquids. The T360 also works with URSA V1 and V2 pods, giving you more resistance and draw options without changing device. USB-C charging and a supplied lanyard round out a pocket-ready design. Colours: Ocean Galaxy, Sakura Galaxy, Lava Galaxy. Shop our vape liquid uk collection to find flavours that go hand in hand with this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1142111",
+    "compatible-with-1142112",
+    "compatible-with-1142113",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit",
+    "RDL/MTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Sakura Galaxy",
+        "Ocean Galaxy",
+        "Lava Galaxy",
+        "Panda Beats",
+        "Panda Rhythm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Sakura Galaxy",
+      "sku": "1148338",
+      "price": 11.99
+    },
+    {
+      "title": "Ocean Galaxy",
+      "sku": "1148337",
+      "price": 11.99
+    },
+    {
+      "title": "Lava Galaxy",
+      "sku": "1148339",
+      "price": 11.99
+    },
+    {
+      "title": "Panda Beats",
+      "sku": "1151340",
+      "price": 11.99
+    },
+    {
+      "title": "Panda Rhythm",
+      "sku": "1151341",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-galaxy-t360-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sakura-Galaxy_Lost-Vape-Galaxy-T360_360_-Galaxy-Screen-Pod.jpg?v=1758550857",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-galaxy-t360-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ocean-Galaxy_Lost-Vape-Galaxy-T360_360_-Galaxy-Screen-Pod.jpg?v=1758551039",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-galaxy-t360-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lava-Galaxy_Lost-Vape-Galaxy-T360_360_-Galaxy-Screen-Pod.jpg?v=1758551103",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-galaxy-t360-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Panda_Beats-Lost-Vape-Galaxy-T360-Vape-Kit.jpg?v=1768481876",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.482Z"
+}

@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15152951001469",
+  "slug": "ox-passion-strawberry-vanilla-ice-cream-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Strawberry Vanilla Ice Cream Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-strawberry-vanilla-ice-cream-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Strawberry Vanilla Ice Cream blends smooth Vanilla with the sweet, fruity flavour of ripe Strawberry for a creamy dessert-inspired vape. The Vanilla base delivers a soft, velvety richness, while the Strawberry adds a bright, summery sweetness. Together, they create a satisfying and indulgent flavour that’s perfect for fans of creamy, well-balanced e-liquids. Blended at a 50VG/50PG ratio and infused with nicotine salts, this e-liquid offers smooth throat hits and rapid nicotine absorption. Designed for mouth-to-lung (MTL) vape kits, it performs best in pod systems, starter pens, and other low-powered refillable devices. Available in both 10mg and 20mg nicotine strengths, OX Passion Nic Salts offer bold, layered flavour profiles with a consistently smooth finish. Developed by Oxva, a trusted name in vaping hardware, these e-liquids are expertly crafted to pair seamlessly with Oxva XLIM pod kits and other refillable MTL vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140083",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140093",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-strawberry-vanilla-ice-cream-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-oxpassion-Strawberry-Vanilla-Ice-Cream-10ml-nic-salt.jpg?v=1744630751",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.546Z"
+}

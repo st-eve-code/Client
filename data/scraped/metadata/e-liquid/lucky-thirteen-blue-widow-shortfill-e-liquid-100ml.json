@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639868858692",
+  "slug": "lucky-thirteen-blue-widow-shortfill-e-liquid-100ml",
+  "title": "Lucky Thirteen Menthols Blue Widow 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/lucky-thirteen-blue-widow-shortfill-e-liquid-100ml",
+  "brand": "Lucky Thirteen",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Lucky Thirteen’s Blue Widow is an exquisitely complex flavour that dares to blend the iconic vape juice taste of Blue Raspberry with dash of Aniseed spice and a lash of invigorating Ice. This beguiling blend demonstrates Lucky Thirteen’s uncanny talent for novel flavour blends and provides a giddy thrill for vapers who love deliciously complex flavour combos. This product contains 100ml of e-liquid in a 120ml shortfill bottle, with space for 2 x 10ml nicotine shots to let you tailor your e juice’s nicotine content. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. The e-liquid’s 70VG/30PG ratio makes it ideal for high-powered pod kits , mod vapes and sub-ohm tanks , producing rich clouds and immaculate flavour.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1129286",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lucky-thirteen-blue-widow-shortfill-e-liquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lucky-thirteen-100ml-shortfill-bluewidow.jpg?v=1729057905",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.580Z"
+}

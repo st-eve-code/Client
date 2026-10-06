@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15228040839549",
+  "slug": "elux-legend-blackberry-ice-nic-salt-e-liquid-10ml",
+  "title": "Elux Legend Blackberry Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-blackberry-ice-nic-salt-e-liquid-10ml",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Legend Blackberry Ice Nic Salt delivers the jammy, sweet, and tangy flavour of ripe Blackberries paired with a crisp, cooling Ice finish. The deep berry notes offer a rich, juicy, full-bodied taste of forest fruits, while the subtle streak of icy element brings a clean, frosty sensation that enhances the overall freshness of the vape. Crafted with double-concentrated flavouring, the Elux Legend Nic Salt range is designed to offer a punchier, more intense taste experience that echoes Elux’s most recognisable blends. With its 50VG/50PG ratio and smooth nicotine salt formulation, Blackberry Ice is ideal for use with MTL (mouth-to-lung) pod kits and starter devices. It provides a well-rounded combination of flavour, vapour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142065",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142071",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-blackberry-ice-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elux-Legend-10ml-Blackberry-Ice.jpg?v=1747386180",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.387Z"
+}

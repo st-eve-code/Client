@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639430750532",
+  "slug": "phoenix-tears-zeus-5050-eliquid-10ml",
+  "title": "Zeus Juice Phoenix Tears 50/50 E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/phoenix-tears-zeus-5050-eliquid-10ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Clean, crisp and refreshing, Phoenix Tears by Zeus is a bracing breeze in e-liquid form from Zeus. The cooling menthol base is enhanced further with an invigorating layer of sweet peppermint and a zesty note of lemon on the exhale. The 50% VG, 50% PG ratio allows provides an optimal balance of clouds, vapour and sublime flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "ZS-ZS-10-PT-50-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "ZS-ZS-10-PT-50-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "ZS-ZS-10-PT-50-12",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__phoenix-tears-zeus-5050-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0007_3mg-zeus-juice-phoenix-tears-10ml-50vg-white_1.jpg?v=1729039404",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__phoenix-tears-zeus-5050-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0026_6mg-zeus-juice-phoenix-tears-10ml-50vg-white_1.jpg?v=1729039404",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__phoenix-tears-zeus-5050-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0016_12mg-zeus-juice-phoenix-tears-10ml-50vg-white_1.jpg?v=1729039404",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.631Z"
+}

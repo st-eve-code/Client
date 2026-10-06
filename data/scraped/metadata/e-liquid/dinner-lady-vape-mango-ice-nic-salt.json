@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639402111300",
+  "slug": "dinner-lady-vape-mango-ice-nic-salt",
+  "title": "Dinner Lady Mango Ice Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-vape-mango-ice-nic-salt",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The flavour that put Dinner Lady on the eliquid map, Lemon Tart is just as astonishing today as when it first appeared. A pin-sharp evocation of a delicious lemon tart, this eliquid captures the rich, zesty tang of creamy lemon curd and crisp, buttery pastry to perfection. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit. Details: 10ml Nicotine Salt E-Liquid Available in 10mg or 20mg nicotine strength 50VG/50PG (50%/50%)",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "DL-DL-10-MI-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "DL-DL-10-MI-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-vape-mango-ice-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-ice-mango-ice-salt-nicotine-10mg-uk.jpg?v=1729038243",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.496Z"
+}

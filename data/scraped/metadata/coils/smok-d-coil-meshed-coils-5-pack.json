@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "14874162594173",
+  "slug": "smok-d-coil-meshed-coils-5-pack",
+  "title": "SMOK D-Coils - 5 Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-d-coil-meshed-coils-5-pack",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 8.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok D-Coil Meshed Coil range is designed to deliver an exceptional direct-to-lung (DTL) and restricted direct-to-lung (RDL) vaping experience. Available in three sub-ohm resistances (0.15ohm, 0.23ohm, and 0.4ohm), these coils are perfect for use with the Smok TF-D Subtank and deliver powerful, consistent performance. 0.15ohm Meshed Coil: Rated for 55-65W (best at 60W) , this coil is a single meshed design that ensures quick ramp-up time and evenly distributed heat for bold flavour and dense vapour. Ideal for DTL vaping with high-VG e-liquids. 0.23ohm Meshed Coil: Rated for 45-55W (best at 50W), this dual meshed coil delivers robust flavour with a balanced, warm vape, making it ideal for both DTL and RDL vaping styles. 0.4ohm Meshed Coil: Rated for 25-35W (best at 25W), this single meshed coil is perfect for restricted direct-to-lung (RDL) vaping, producing slightly less vapour for a smooth yet pleasingly tactile draw. Each coil features an unslotted bottom design to minimise leakage, and the advanced mesh technology ensures rapid heating for a more enjoyable vape. Whether you're chasing clouds or seeking rich flavour, Smok D-Coils offer versatility, durability, and intense performance with every puff. We recommend using DTL high VG (Sub-Ohm) E-Liquid with these coils. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "0.4ohm",
+        "0.15ohm",
+        "0.23ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm",
+      "sku": "1136599",
+      "price": 9.99
+    },
+    {
+      "title": "0.15ohm",
+      "sku": "1136597",
+      "price": 8.99
+    },
+    {
+      "title": "0.23ohm",
+      "sku": "1136598",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-d-coil-meshed-coils-5-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-d-coils---5pk_1_1_1.jpg?v=1732843529",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-d-coil-meshed-coils-5-pack__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-d-coils---5pk.jpg?v=1732843529",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-d-coil-meshed-coils-5-pack__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-d-coils---5pk_1.jpg?v=1732843529",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-d-coil-meshed-coils-5-pack__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-d-coils---5pk_1_1.jpg?v=1732843529",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.870Z"
+}

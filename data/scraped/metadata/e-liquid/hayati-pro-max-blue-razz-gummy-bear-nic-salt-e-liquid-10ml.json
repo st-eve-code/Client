@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15109039587709",
+  "slug": "hayati-pro-max-blue-razz-gummy-bear-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Blue Razz Gummy Bear Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-blue-razz-gummy-bear-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Blue Razz Gummy Bear delivers a tangy-sweet blend that brings together the bold flavour of Blue Raspberry with a soft confectionery-inspired twist. The Blue Razz leads with its signature sharpness and juicy edge, followed by a smooth, sugary finish that captures the nostalgic taste of chewy fruit confectionery. It’s a punchy yet playful flavour, striking a satisfying balance between tart and sweet. Made with nicotine salts for faster nicotine satisfaction and a more comfortable throat hit, this e-liquid is ideal for MTL (mouth-to-lung) pod kits and starter devices. With its 50VG/50PG ratio, it offers consistent flavour and discreet vapour for everyday vaping. This flavour is part of the Hayati Pro Max Nic Salt range, inspired by Hayati’s own bestselling disposable vapes and now reimagined in a longer-lasting 10ml format—available in 10mg and 20mg nicotine strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140312",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140391",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-blue-razz-gummy-bear-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Gummy_Hayati-Pro-Max-Nic-Salts-10mg.jpg?v=1743178959",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.546Z"
+}

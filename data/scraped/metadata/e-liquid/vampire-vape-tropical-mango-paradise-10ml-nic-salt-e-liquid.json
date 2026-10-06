@@ -1,0 +1,67 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15275061739901",
+  "slug": "vampire-vape-tropical-mango-paradise-10ml-nic-salt-e-liquid",
+  "title": "Vampire Vape Tropical Mango Paradise 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-mango-paradise-10ml-nic-salt-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Mango Paradise Nic Salt from Vampire Vape’s Tropical collection brings a wave of tropical sunshine to your vape with a vibrant trio of ripe Mango, zesty Blood Orange and juicy Pineapple. The Mango offers a bright, juicy base that’s soft and rounded, while the Blood Orange adds a tart citrus burst with just a hint of bitter sweetness. Pineapple cuts through with its bright, juicy tang to keep the blend tasting rich and full of sunshine. Formulated with nicotine salts, this e-liquid provides faster-acting nicotine relief with a smoother inhale, making it ideal for mouth-to-lung (MTL) vaping using pod kits and starter devices. Available in 10mg and 20mg strengths to suit a range of preferences. Vampire Vape e-liquids are made in the UK and are renowned for their quality and creativity. The Tropical collection brings some exotic sunshine to their award-winning range. Also available in Freebase, Shortfill and Concentrate formats.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1141053",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1141057",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-mango-paradise-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Nic_Salts_Tropical_Collection_Mango_Paradise_10mg.jpg?v=1749028176",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-tropical-mango-paradise-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire_Vape_10ml_Nic_Salts_Tropical_Collection_Mango_Paradise_20mg.jpg?v=1749028204",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.483Z"
+}

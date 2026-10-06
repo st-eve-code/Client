@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14899846578557",
+  "slug": "brutal-drinks-mango-lassi-10ml-nic-salt-e-liquid",
+  "title": "Brutal Drinks Mango Lassi 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/brutal-drinks-mango-lassi-10ml-nic-salt-e-liquid",
+  "brand": "Brutal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Brutal Drinks’ Mango Lassi Nic Salt e-liquid captures the indulgent, creamy taste of the classic Indian drink with its combination of juicy, ripe Mango and smooth, tangy Yoghurt and the gentle, exotic spice of Cardamom. This luxuriously sweet and creamy blend is perfectly balanced, delivering a rich and refreshing vaping experience that fans of exotic flavours will adore. Created by Just Juice, the Brutal Drinks Nic Salts range features bold, drink-inspired blends that offer smooth nicotine satisfaction in a versatile 50VG/50PG format. Designed for Mouth-to-Lung (MTL) devices and pod kits, Mango Lassi Nic Salt provides a softer throat hit and fast-absorbing nicotine relief, making it ideal for everyday use. Part of the Brutal Drinks collection, Mango Lassi joins an exciting range of refreshing flavours inspired by popular drinks, including Pina Colada, Frozen Mojito, and Brutal Bull. Explore the collection to find your new favourite e-liquid.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Just Juice Brutal Drinks",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137539",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137544",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__brutal-drinks-mango-lassi-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BRUTAL-Drinks-MANGO-LASSI-10MG-min.jpg?v=1734523580",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__brutal-drinks-mango-lassi-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BRUTAL-Drinks-MANGO-LASSI-20mg-min.jpg?v=1734523610",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.521Z"
+}

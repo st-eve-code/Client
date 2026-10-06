@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639286440260",
+  "slug": "innokin-axiom-m21-replacement-coil",
+  "title": "Innokin AXIOM M21 Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/innokin-axiom-m21-replacement-coil",
+  "brand": "Innokin",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "Innokin AXIOM M21 coils are high-quality replacement coils for the Innokin AXIOM M21 vape tank - they're great if you're not into re-building your own coils. Composed of kanthal wire and fitted with organic cotton wicks, these coils will give that deep flavour and large clouds for a satisfying vaping experience.",
+  "tags": [
+    "Delisted",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.5ohm",
+        "0.65ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.5ohm",
+      "sku": "621010",
+      "price": 6.99
+    },
+    {
+      "title": "0.65ohm",
+      "sku": "621027",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-axiom-m21-replacement-coil__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/621010_innokin_axiomm21coils_05ohms_001.jpg?v=1729033028",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-axiom-m21-replacement-coil__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/621010_innokin_axiomm21coils_05ohms_001_1.jpg?v=1729033028",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-axiom-m21-replacement-coil__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/621010-innokin_axiom_replacementcoil_0.65ohm_001.jpg?v=1729033028",
+      "position": 3,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.874Z"
+}

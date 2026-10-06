@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639347749188",
+  "slug": "moreish-puff-vanilla-shakes-e-liquid-100ml",
+  "title": "Moreish Puff Vanilla Shakes 100ml",
+  "url": "https://www.vapestore.co.uk/products/moreish-puff-vanilla-shakes-e-liquid-100ml",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Moreish Puff’s Vanilla sub ohm e-juice is a milky mixture of decadent ice cream, sweetened milk and fresh, fragrant vanilla pods blended together to create a smooth, creamy sensation which keeps you coming back for second helpings! This Moreish Puff e-liquid is available in a handy 100ml shortfill bottle and is ideal for adding a nicotine shot to achieve your desired strength. Simply add your nic shot directly into the 100ml bottle to mirror your current nicotine consumption and enjoy this mouth-watering, moreish masterpiece!",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "MP-SH-100-VS-00-VG",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__moreish-puff-vanilla-shakes-e-liquid-100ml__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/e-liquid-moreish-puff-shakes-vanilla-shake-7312736354393_1000x_3ad48717-37d9-42b9-9402-af307098e36e.png?v=1729035698",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.640Z"
+}

@@ -1,0 +1,127 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639604388164",
+  "slug": "vaporesso-gti-mesh-coils",
+  "title": "Vaporesso GTI Mesh Coils - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-gti-mesh-coils",
+  "brand": "Vaporesso",
+  "productType": "Coils",
+  "price": {
+    "min": 9.49,
+    "max": 9.49,
+    "currency": "GBP"
+  },
+  "description": "These replacement Vaporesso GTI sub ohm mesh coils can be paired with many of Vaporesso’s bestselling vape kits and tanks, including the new Vaporesso iTank and the Vaporesso Target 100 and Target 200 kits. Their mesh coil build enhances the flavour of your favourite e-liquids while prolonging the life of the coil. GTi Mesh Coil 0.15ohm Recommended Wattage: 75-90W Compatible with: Vaporesso Target, Vaporesso iTank, iTank 2, iTank T, Armour Ultra Kit, Armour Max, Armour S GTi Mesh Coil 0.2ohm Recommended Wattage: 60-75W Compatible with: Vaporesso Target, Vaporesso iTank, iTank 2, iTank T, Armour Ultra Kit, Armour Max, Armour S GTi Mesh Coil 0.4ohm Recommended Wattage: 50-60W Compatible with: Vaporesso Target, Vaporesso iTank, iTank 2, iTank T, Armour Ultra Kit, Armour Max, Armour S GTi Mesh Coil 0.5ohm Recommended Wattage: 30-40W Compatible with: VVaporesso Target, Vaporesso iTank, iTank 2, iTank T, Armour Ultra Kit, Armour Max, Armour S GTi Mesh Coil 0.2ohm DM (Dual Mesh) Recommended Wattage: 60-75W Compatible with: Vaporesso Target, Vaporesso iTank, iTank 2, iTank T, Armour Ultra Kit, Armour Max, Armour S GTi Mesh Coil 0.4ohm DM (Dual Mesh) Recommended Wattage: 50-60W Compatible with: Vaporesso Target, Vaporesso iTank, iTank 2, iTank T, Armour Ultra Kit, Armour Max, Armour S Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL",
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.2ohm",
+        "0.4 ohm",
+        "0.15ohm",
+        "0.5ohm",
+        "0.2ohm DM",
+        "0.4ohm DM"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.2ohm",
+      "sku": "VPS-CO-GTI-MSH-0.2-5PK",
+      "price": 9.49
+    },
+    {
+      "title": "0.4 ohm",
+      "sku": "VPS-CO-GTI-MSH-0.4-5PK",
+      "price": 9.49
+    },
+    {
+      "title": "0.15ohm",
+      "sku": "1112037",
+      "price": 9.49
+    },
+    {
+      "title": "0.5ohm",
+      "sku": "1114502",
+      "price": 9.49
+    },
+    {
+      "title": "0.2ohm DM",
+      "sku": "1149400",
+      "price": 9.49
+    },
+    {
+      "title": "0.4ohm DM",
+      "sku": "1149401",
+      "price": 9.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-gti-mesh-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-gti-coils-x5_1_1.jpg?v=1729043960",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gti-mesh-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-gti-coils-x5.jpg?v=1729043960",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gti-mesh-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-gti-coils-x5_1.jpg?v=1729043960",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gti-mesh-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-gti-coils-x5_1_2.jpg?v=1729043960",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gti-mesh-coils__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-gti-coils-x5_1_2_1.jpg?v=1729043960",
+      "position": 5,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gti-mesh-coils__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/GTI-0.2_Dual_Mesh_Coil_5_Pack.jpg?v=1768308577",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-gti-mesh-coils__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/GTI-0.4_-Dual-Mesh-Coil-5-Pack.jpg?v=1768308588",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.868Z"
+}

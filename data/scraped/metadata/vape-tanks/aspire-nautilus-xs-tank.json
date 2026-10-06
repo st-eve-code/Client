@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639374848324",
+  "slug": "aspire-nautilus-xs-tank",
+  "title": "Nautilus XS Tank",
+  "url": "https://www.vapestore.co.uk/products/aspire-nautilus-xs-tank",
+  "brand": "Aspire",
+  "productType": "Tanks",
+  "price": {
+    "min": 22.99,
+    "max": 22.99,
+    "currency": "GBP"
+  },
+  "description": "The XS tank is the latest Aspire tank to carry the celebrated Nautilus moniker and it does its forebears proud. It features two big adjustable airflow ports at the top for quick and precise adjustments and a comfortable, heat-resistant drip tip. To keep the tank even cooler, the tank features a radial heat sink on the top to help dissipate heat build-up, making for a more pleasant vape while preserving the flavour of the juice. Refilling the XS is a breeze thanks to a removable, threaded top cap. The Nautilus XS tank enables users to enjoy MTL vaping with a Nautilus X 1.8ohm coil and sub-ohm, direct-to-lung vaping with a 0.7ohm Nautilus XS mesh coil. This means the Nautilus XS can be used with almost every kind of e-liquid, from MTL juices like 50/50 and nic salts to high VG , DTL e-liquids perfect with the 0.7ohm coils with provide a slightly restricted DTL vape. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "AS-TA-NT-XS-TA-BLK",
+      "price": 22.99
+    },
+    {
+      "title": "Silver",
+      "sku": "AS-TA-NT-XS-TA-SS",
+      "price": 22.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nautilus-xs-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nautilus-xs-tank-black.jpg?v=1729037106",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-xs-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nautilus-xs-tank-black_1.jpg?v=1729037106",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-xs-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nautilus-xs-tank-chrome_1.jpg?v=1729037106",
+      "position": 3,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.626Z"
+}

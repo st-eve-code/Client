@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15152875340157",
+  "slug": "ox-passion-blue-bubble-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Blue Bubble Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-blue-bubble-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Blue Bubble is a nostalgic fusion of sweet Blueberry and classic Bubblegum, creating a smooth and playful vape. The Blueberry note brings a burst of rich, juicy, berry sweetness, while the Bubblegum adds a chewy, confectionery finish that makes for a bright and satisfying flavour with plenty of character. Blended at a 50VG/50PG ratio and infused with nicotine salts, this e-liquid delivers smooth throat hits and rapid nicotine absorption, making it ideal for MTL (mouth-to-lung) devices. It performs best in pod systems, starter kits, and other low-powered vape pens. Available in both 10mg and 20mg nicotine strengths, OX Passion Nic Salts offer bold, layered flavour profiles with a consistently smooth finish. Developed by Oxva, a trusted name in vaping hardware, these e-liquids are expertly crafted to pair seamlessly with Oxva XLIM pod kits and other refillable MTL vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140080",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140090",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-blue-bubble-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxvaoxpassion-Blue-Bubble-10ml-nic-salt.jpg?v=1744629053",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.464Z"
+}

@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639609598276",
+  "slug": "unicorn-hoops-nic-salt-eliquids-ivg",
+  "title": "IVG  Unicorn Hoops Nic Salt E-Liquid 20mg",
+  "url": "https://www.vapestore.co.uk/products/unicorn-hoops-nic-salt-eliquids-ivg",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Unicorn Hoops is tantalising blend of plump marshmallows and wholesome, comforting cereal finished off with a splash of milk for a delicious breakfast vape. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "Delisted",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "IV-10-UH-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__unicorn-hoops-nic-salt-eliquids-ivg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ivg-10ml-nic-salt-unicorn-hoops.jpg?v=1729044247",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.618Z"
+}

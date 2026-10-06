@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15256449450365",
+  "slug": "riot-squad-bar-edtn-limited-edition-black-grape-glacier-10ml-nic-salt-e-liquid",
+  "title": "Riot Squad BAR EDTN Limited Edition Black Grape Glacier 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-bar-edtn-limited-edition-black-grape-glacier-10ml-nic-salt-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Black Grape Glacier from Riot Squad’s Bar Edition Limited Edition collection is a bold and bracing fruit profile that layers deep, jammy Black Grape over a crisp Ice backdrop. The Grape delivers rich, slightly tangy sweetness with a dark berry character, while the icy finish keeps the profile bright and balanced with every puff. Mint infused Formulated with nicotine salts for faster absorption and a more tactile yet comfortable throat hit, this e-liquid is perfect for use in low-powered MTL (mouth-to-lung) pod kits, starter vapes, and refillable vape pens. Choose from 5mg, 10mg or 20mg strengths to suit your preferences. Made in the UK, Riot Squad’s Bar Edition Nic Salt range captures the sweet, frosty flavour experience of disposables but in a refillable format that’s more versatile and better for long-term vaping. This Limited Edition Grape blend offers a striking and memorable vape, ideal for MTL users seeking strong flavour and clean performance.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot Bar EDTN",
+    "Riot Bar EDTN Limited Edition"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1142537",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142542",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142547",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-bar-edtn-limited-edition-black-grape-glacier-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Riot-bar-edtn-limited-edition-blackcurrant-grape-glacier-10ml.jpg?v=1748505329",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.545Z"
+}

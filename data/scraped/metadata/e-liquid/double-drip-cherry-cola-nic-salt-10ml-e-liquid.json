@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15244462948733",
+  "slug": "double-drip-cherry-cola-nic-salt-10ml-e-liquid",
+  "title": "Double Drip Cherry Cola Nic Salt 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-cherry-cola-nic-salt-10ml-e-liquid",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Double Drip Cherry Cola captures the unmistakable taste of a fizzy cola drink infused with a sweet burst of Cherry. The cola flavour delivers a tangy caramel base with subtle spice, while the Cherry adds a juicy red-fruit note that lifts the blend and gives it a nostalgic, soda-inspired twist. The result is a lively, flavourful vape with a clean, familiar and refreshing taste. Blended at a 50VG/50PG ratio, this nicotine salt e-liquid is ideal for MTL (mouth-to-lung) vape kits, including pod systems, starter pens and compact refillable devices. It offers smooth vapour, excellent flavour definition and a more comfortable throat hit thanks to its nic salt formulation. Available in 10mg and 20mg nicotine strengths, Double Drip Nic Salts are available in a wide range of bold and satisfying flavour profiles to suit everyday vaping. Double Drip are one of the most celebrated and influential e-liquid brands in the UK and the masterminds of some of the most iconic vape flavours ever made. Vibrant, authentic, and highly inventive flavours are a hallmark of all Double Drip vape juices, and this newest collection of truly timeless flavours in smooth, satisfying nic salts won’t disappoint.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140622",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140631",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-cherry-cola-nic-salt-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Cherry-Cola-Nic-Salt-10mg.jpg?v=1753776595",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__double-drip-cherry-cola-nic-salt-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Cherry-Cola-Nic-Salt-20mg.jpg?v=1753776598",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.365Z"
+}

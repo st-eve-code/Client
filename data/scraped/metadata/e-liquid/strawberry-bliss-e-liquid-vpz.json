@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639256785220",
+  "slug": "strawberry-bliss-e-liquid-vpz",
+  "title": "Vapouriz Premium Strawberry Bliss E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/strawberry-bliss-e-liquid-vpz",
+  "brand": "Vapouriz Premium",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Bliss from Vapouriz delivers a luscious, fruity rush of sweet, succulent strawberries. Unlike the sharp, syrupy sweetness of many other strawberry e-juices, Strawberry Bliss captures the soft, plump, juicy berries at their authentic, summery best for a deliciously fruity vape. Vapouriz E-Liquids are expertly-crafted by Vapouriz Labs UK to deliver intense flavour and stunning vapour production for your e-cigarette setup. Browse the full collection of Vapouriz Premium E-Liquids and pick up the perfect pairing for any Vape Kit , Starter Vape Kits or Compact Pod Vape Kit . We’ve got a selection of formulations to suit all styles of e-cigarette devices, including High-PG blends for classic vaping as well as Vapouriz Nicotine Salts and adaptable 50:50 Vape Juice options.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "High PG E-Liquid",
+    "MTL",
+    "pricebreak",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "VZ-SB-00",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1134855",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VZ-SB-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VZ-SB-12",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VZ-SB-18",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__strawberry-bliss-e-liquid-vpz__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_strawberry_bliss_10ml-eliquid.jpg?v=1729031724",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.349Z"
+}

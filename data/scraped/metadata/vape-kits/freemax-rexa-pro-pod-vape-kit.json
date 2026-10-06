@@ -1,0 +1,129 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15363818717565",
+  "slug": "freemax-rexa-pro-pod-vape-kit",
+  "title": "Freemax Rexa Pro Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/freemax-rexa-pro-pod-vape-kit",
+  "brand": "Freemax",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The Freemax Rexa Pro is the most advanced model in the Rexa series — a feature-packed pod vape kit that combines premium design with cutting-edge technology. At its core is a powerful 1300mAh battery supported by fast 2A USB-C charging, paired with smart vaping modes and a responsive 2.5-inch HD touchscreen. Designed for MTL (mouth-to-lung) and RDL (restricted direct-lung) styles, the Rexa Pro includes a 0.6ohm Duomax Pod featuring Freemax’s dual mesh coil with tea fibre cotton. The pod delivers long-lasting flavour across up to 100ml of Freebase or 60ml of Nic Salt e-liquid , and its slide-fill mechanism ensures simple, leak-resistant refilling. The Rexa Pro offers a smart multi-function suite with Bluetooth support for audio playback and animated UI effects that bring an interactive feel to your vape setup. The clean zinc-alloy frame and nano-coated internals add a premium touch to this highly functional pod kit. Please Note: When filling your pod with vape juice for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1141860",
+    "compatible-with-1141861",
+    "compatible-with-1141862",
+    "compatible-with-1141863",
+    "compatible-with-1141864",
+    "compatible-with-1141865",
+    "compatible-with-1141866",
+    "Exclude",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Pink",
+        "Gunmetal",
+        "White",
+        "Green",
+        "Gold",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Pink",
+      "sku": "1141848",
+      "price": 24.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1141845",
+      "price": 24.99
+    },
+    {
+      "title": "White",
+      "sku": "1141846",
+      "price": 24.99
+    },
+    {
+      "title": "Green",
+      "sku": "1141847",
+      "price": 24.99
+    },
+    {
+      "title": "Gold",
+      "sku": "1141849",
+      "price": 24.99
+    },
+    {
+      "title": "Black",
+      "sku": "1141844",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-rexa-pro-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-reax-pro-kit-Pink-min.jpg?v=1752160192",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-pro-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-reax-pro-kit-black-min.jpg?v=1752160192",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-pro-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-reax-pro-kit-Gunmetal-min.jpg?v=1752160192",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-pro-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-reax-pro-kit-White-min.jpg?v=1752160192",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-pro-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-reax-pro-kit-Green-min.jpg?v=1752160192",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-pro-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-reax-pro-kit-Gold-min.jpg?v=1752160100",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.065Z"
+}

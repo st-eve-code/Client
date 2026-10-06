@@ -1,0 +1,119 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15781002871165",
+  "slug": "innokin-foretex-pod-vape-kit",
+  "title": "Innokin Foretex Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-foretex-pod-vape-kit",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Foretex Pod Kit redefines the power-to-weight ratio for refillable pod systems. Designed for vapers who demand sub-ohm density and extended endurance without the bulk of a box mod, the Foretex integrates a colossal 2000mAh battery capacity into a chassis weighing just 58g. This high-density cell offers exceptional run-times, capable of supporting multi-day usage for the average vaper before requiring a recharge via the USB-C port. Constructed from aerospace-grade aluminium alloy, the device is built for durability while maintaining a refined, premium feel. It features an anti-fingerprint and anti-sweat coating to ensure the sleek aesthetic remains pristine during daily handling. Under the hood, the intelligent chipset provides Smart Adaptive Output, automatically detecting the coil resistance and optimizing the wattage—up to a maximum of 33W—for the perfect balance of flavour and vapour. The device offers precise airflow control, allowing users to fine-tune their experience from a restricted Mouth-to-Lung (MTL) draw to a dynamic Restricted Direct-to-Lung (RDL) inhale. It comes paired with the Foretex Pod series, utilizing mesh coil technology to ensure rapid heating and pure flavour reproduction. With its combination of raw capacity, intelligent power delivery, and lightweight ergonomics, the Innokin Foretex is a powerhouse for the mobile vaper. Please note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Battery-included",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Sky Blue",
+        "Mint Green",
+        "Pink",
+        "Lavender Purple",
+        "Midnight Black",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Sky Blue",
+      "sku": "1153067",
+      "price": 9.99
+    },
+    {
+      "title": "Mint Green",
+      "sku": "1153068",
+      "price": 9.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1153069",
+      "price": 9.99
+    },
+    {
+      "title": "Lavender Purple",
+      "sku": "1153070",
+      "price": 9.99
+    },
+    {
+      "title": "Midnight Black",
+      "sku": "1153071",
+      "price": 9.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1153066",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-foretex-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-foretex-sky-blue-800x800.jpg?v=1769690207",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-foretex-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-foretex-mint-green-800x800.jpg?v=1769690351",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-foretex-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-foretex-pink-800x800.jpg?v=1769690449",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-foretex-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-foretex-lavender-800x800.jpg?v=1769690522",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-foretex-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-foretex-black-800x800.jpg?v=1769690589",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-foretex-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-foretex-silver-800x800.jpg?v=1769690976",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.087Z"
+}

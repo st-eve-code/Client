@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14889680667005",
+  "slug": "dr-frost-arctic-blueberry-raspberry-10ml-nic-salt-e-liquid",
+  "title": "Dr Frost Arctic Blueberry Raspberry 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dr-frost-arctic-blueberry-raspberry-10ml-nic-salt-e-liquid",
+  "brand": "Dr Frost",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dr Frost Arctic Nic Salt Blueberry Raspberry Ice combines the juicy sweetness of Blueberries with the tart and tangy flavour of ripe Raspberries, perfectly finished with a bracing wave of menthol on the exhale. This deeply fruity and refreshing e-liquid delivers a well-balanced fruit flavour profile with a cool, crisp exhale, ideal for vapers who enjoy layered, fruity blends with a frosty finish. As part of Dr Frost’s Arctic Edition collection, this nicotine salt e-liquid features a double-concentrated Bar Salts flavour, designed to replicate the bold and intense taste associated with disposable vapes. Blended with a 50VG/50PG ratio, it’s perfect for use with Mouth-to-Lung (MTL) pod kits and low-powered devices, providing smooth throat hits and fast-acting nicotine satisfaction. Available in 5mg, 10mg, and 20mg nicotine strengths, Blueberry Raspberry Ice offers a versatile option for adult smokers and vapers seeking fruity flavours with an icy twist.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137880",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137888",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dr-frost-arctic-blueberry-raspberry-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Blueberry-Raspberry-Ice-10mg.jpg?v=1733931658",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dr-frost-arctic-blueberry-raspberry-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Blueberry-Raspberry-Ice-20mg.jpg?v=1733931687",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.501Z"
+}

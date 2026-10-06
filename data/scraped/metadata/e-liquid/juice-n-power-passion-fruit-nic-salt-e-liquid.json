@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639647609156",
+  "slug": "juice-n-power-passion-fruit-nic-salt-e-liquid",
+  "title": "Juice N Power Passion Fruit Power Salt 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-passion-fruit-nic-salt-e-liquid",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Passion Fruit Power Salt from Juice N Power is an exquisite tropical flavour with a delightfully sweet inhale and smooth exhale. Taste the sunshine with the deep, rich tang of fresh, ripe passion fruit. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1117045",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1117056",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-passion-fruit-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-10ml-passionfruit.jpg?v=1729046003",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.521Z"
+}

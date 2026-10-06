@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15389708353917",
+  "slug": "riot-x-nic-salts-mango-blackcurrant-gelato-10ml-e-liquid",
+  "title": "Riot X Nic Salts Mango & Blackcurrant Gelato 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-mango-blackcurrant-gelato-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Mango and Blackcurrant Gelato by Riot X is a rich and fruity blend that fuses tropical Mango with the tang of juicy Blackcurrants, smoothed over by a creamy Gelato base. The result is a vibrant vape with bold fruit flavour up front and a mellow dessert finish that lingers. This e-liquid is made with Riot Squad’s Hybrid Nicotine formulation, which combines freebase and nicotine salts to deliver quick satisfaction and a smooth, tactile throat hit. With a 50VG/50PG blend, it’s ideal for MTL (mouth-to-lung) kits including pod systems and vape pens. Each flavour in the Riot X range features double-concentrated flavour blends, offering the intense taste experience found in disposable-style e-liquids — but in a reusable format that offers more value and flexibility. Please note: this flavour profile may contain hints of 'ice'.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143842",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1143848",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143855",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-mango-blackcurrant-gelato-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Riot-X---Bottle---Mango-Blac-Currant-Gelato.jpg?v=1753107039",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.453Z"
+}

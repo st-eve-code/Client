@@ -1,0 +1,95 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639832879428",
+  "slug": "pukka-juice-raspberry-sherbet-50-50-eliquid",
+  "title": "Pukka Juice Raspberry Sherbet 10ml 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-raspberry-sherbet-50-50-eliquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Raspberry Sherbet from Pukka Juice is a delightfully playful candy flavour e-liquid that fuses the tang of Raspberries with the sugary sweetness of sherbet, ensuring a fun, fizzy and vibrant vaping experience. This delicious 50:50 E-Liquid from Pukka Juice offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. This type of e-liquid hits the sweet spot of plenty of flavour and impressive cloud production and work well in almost every type of vape kit, making it the most versatile type of e-liquid at Vapestore. 50:50 e-juices typically contain traditional Freebase nicotine, which offers the classic e-liquid experience. With Freebase e-liquids, the flavours are often more intense with a stronger, more tactile throat hit than you would find with nicotine salts, or high-VG e-liquids. This makes them a great choice for newer vapers seeking that familiar ‘smoking’ sensation. If you love this delicious Pukka Juice E-Liquid, then why not check out the other equally moreish flavours from their collection. There is a mouth-watering multitude of delicious flavours to choose from to suit any vaper’s flavour tastes. Go ahead and try out their juicy fruit flavours, refreshing beverages, wicked confectionary and decadent dessert flavours as well as frosty Mint/Menthol blends.",
+  "tags": [
+    "10ml Multi-Buys",
+    "50/50 E-Liquid",
+    "Default Category",
+    "E Liquid",
+    "E-Liquid 50pg 50vg",
+    "E-Liquid Bundles",
+    "FLAVOUR TYPE",
+    "Fruit",
+    "Fruit E-liquid Flavours",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "prime-1020",
+    "VAPE TYPE",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1126367",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1126376",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1126385",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-raspberry-sherbet-50-50-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pukka-juice-raspberry-sherbet-50-50-eliquid-10ml_1_1_1.jpg?v=1729055357",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pukka-juice-raspberry-sherbet-50-50-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pukka-juice-raspberry-sherbet-50-50-eliquid-10ml.jpg?v=1729055357",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pukka-juice-raspberry-sherbet-50-50-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pukka-juice-raspberry-sherbet-50-50-eliquid-10ml_1.jpg?v=1729055357",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pukka-juice-raspberry-sherbet-50-50-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pukka-juice-raspberry-sherbet-50-50-eliquid-10ml_1_1.jpg?v=1729055357",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.465Z"
+}

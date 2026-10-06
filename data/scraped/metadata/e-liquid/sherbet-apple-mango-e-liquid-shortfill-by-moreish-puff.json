@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639328317764",
+  "slug": "sherbet-apple-mango-e-liquid-shortfill-by-moreish-puff",
+  "title": "Moreish Puff Sherbet Apple & Mango E-Liquid Shortfill 100ml",
+  "url": "https://www.vapestore.co.uk/products/sherbet-apple-mango-e-liquid-shortfill-by-moreish-puff",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Moreish Puff’s Sherbet Apple & Mango features a sumptuous blend of crisp green apple and juicy exotic mango on the inhale, which moves aside for an exhale of ultra-sweet fizzy sherbet. This is a juice with a delicious, lingering flavour which delights the tongue long after you set down your vape.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "MP-SH-100-AM-00-VG",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__sherbet-apple-mango-e-liquid-shortfill-by-moreish-puff__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/e-liquid-moreish-puff-sherbet-apple-mango-7312460644441_1000x_14466d90-677c-4a24-96f0-4908d94a0cca.png?v=1729034781",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.641Z"
+}

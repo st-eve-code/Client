@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15501461258621",
+  "slug": "pod-salt-nexus-raspberry-gummy-nic-salt-e-liquid-10ml",
+  "title": "Pod Salt Nexus Raspberry Gummy Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/pod-salt-nexus-raspberry-gummy-nic-salt-e-liquid-10ml",
+  "brand": "Pod Salt",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pod Salt Nexus Raspberry Gummy Nic Salt recreates the tangy bite of Raspberries with a sweetshop-inspired twist. The Raspberry note is juicy and jam-like, offering both sharpness and depth, while a confectionery base adds a playful, sugary accent. The result is a flavour that tastes sweet yet punchy, with a finish that lingers on the tastebuds. Blended at 50VG/50PG, this Nic Salt is designed for mouth-to-lung (MTL) vaping with pod kits, vape pens, and starter devices. The nicotine salt formulation provides rapid absorption with a tactile yet comfortable throat hit, ensuring consistent flavour delivery with discreet vapour. Part of the Pod Salt Nexus line, Raspberry Gummy showcases the brand’s inventive approach to flavour. Every 10ml bottle is crafted in the UK using premium ingredients for reliable taste and performance.",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pod Salt Nexus",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1148191",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148201",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148211",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pod-salt-nexus-raspberry-gummy-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pod-Salt-Nexus-Raspberry-Gummy.jpg?v=1756801578",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.462Z"
+}

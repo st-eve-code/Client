@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639456080196",
+  "slug": "double-drip-apple-rhubarb-crumble-shortfill-e-liquid",
+  "title": "Double Drip Apple Rhubarb Crumble Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-apple-rhubarb-crumble-shortfill-e-liquid",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Double Drip’s Apple Rhubarb crumble is a rich and comforting hug in vape form, loaded with mouth-watering flavour. Sweet baked apples are balanced with the bright, sharp tang of fresh rhubarb, all layered over a rich, buttery crumble base for a deliciously decadent taste of home. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape to your liking. Its 70VG/30PG ratio makes it ideal for high-powered vape mod kits and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "80/20 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DD-AR-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-apple-rhubarb-crumble-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/apple-and-rhubarb-double-drip-eliquid.jpg?v=1729040439",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.457Z"
+}

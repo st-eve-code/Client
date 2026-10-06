@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15029002862973",
+  "slug": "ruthless-bar-salts-wild-berrylicious-10ml-e-liquid",
+  "title": "Ruthless Bar Salts Wild Berrylicious 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-bar-salts-wild-berrylicious-10ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ruthless Bar Salts Wild Berrylicious offers a mesmerising medley of forest fruits, combining sweet strawberries, tart raspberries, juicy blueberries, and bold blackberries. Each inhale delivers a deftly layered fusion of authentic berry flavours, striking a perfect balance between jammy sweetness and berry tang. The result is a full-bodied, fruity vape that stays indulgently smooth from start to finish. Blended with 50VG/50PG ratio, this e-liquid strikes a balance between vapour production and flavour intensity, making it ideal for MTL (mouth-to-lung) pod kits and classic vape starter devices. The nicotine salt formulation delivers a smooth throat hit and rapid nicotine satisfaction. Ruthless is one of the pioneers of American e-liquids, known for crafting bold and unique flavours that have influenced the industry for years. Their expertly blended shortfills continue to be a favourite among vapers looking for high-quality, distinct and flavourful e-liquids that push the boundaries of what’s possible in e-liquid.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1139314",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139330",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-bar-salts-wild-berrylicious-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ruthless-10ML_WildBerrylicious.jpg?v=1740066769",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.551Z"
+}

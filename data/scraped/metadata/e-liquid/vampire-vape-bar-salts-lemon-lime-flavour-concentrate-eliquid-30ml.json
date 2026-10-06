@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639911260484",
+  "slug": "vampire-vape-bar-salts-lemon-lime-flavour-concentrate-eliquid-30ml",
+  "title": "Bar Salts Lemon & Lime Flavour Concentrate 30ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-lemon-lime-flavour-concentrate-eliquid-30ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Experience the sharp and clean notes of Lemon Lime with this flavour concentrate from Vampire Vape’s Bar Salts range. This 30ml bottle provides a zesty and refreshing taste, perfect for vapers who appreciate a bright and tangy flavour profile in their DIY e-liquids. The concentrate allows for flexible e-liquid creation, letting you adjust the nicotine strength and VG/PG ratio by adding nicotine shots and a base mix according to your preferences. It’s an excellent choice for crafting a personalized vaping experience with a vibrant citrus kick. Please Note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes.",
+  "tags": [
+    "Flavour Concentrate",
+    "Lemon and Lime"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130739",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-lemon-lime-flavour-concentrate-eliquid-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_30ml-concentrates_lemon-_-lime.jpg?v=1729060596",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.488Z"
+}

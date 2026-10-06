@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639430357316",
+  "slug": "the-black-reloaded-zeus-5050-eliquid-10ml",
+  "title": "Zeus Juice Black Reloaded 50/50 E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/the-black-reloaded-zeus-5050-eliquid-10ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Black Reloaded takes Zeus’ signature Black eliquid and complements the rich sweetness of ripe dark berries and sharp blackcurrants with a delicate balance of fire and ice from aniseed and menthol. The 50% VG, 50% PG ratio allows provides an optimal balance of clouds, vapour and sublime flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "ZS-ZS-10-BR-50-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "ZS-ZS-10-BR-50-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "ZS-ZS-10-BR-50-12",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-black-reloaded-zeus-5050-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-black-reloaded-50-50-eliquid-10ml.jpg?v=1729039389",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__the-black-reloaded-zeus-5050-eliquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0012_3mg-zeus-juice-black-reloaded-10ml-50vg-white_1.jpg?v=1729039389",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__the-black-reloaded-zeus-5050-eliquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0002_6mg-zeus-juice-black-reloaded-10ml-50vg-white_1.jpg?v=1729039389",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__the-black-reloaded-zeus-5050-eliquid-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0021_12mg-zeus-juice-black-reloaded-10ml-50vg-white_1.jpg?v=1729039389",
+      "position": 4,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.631Z"
+}

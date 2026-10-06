@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15820508955005",
+  "slug": "seriously-clear-strawberry-sour-raspberry-10ml-nic-salts-e-liquid",
+  "title": "Seriously Clear Strawberry Sour Raspberry 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/seriously-clear-strawberry-sour-raspberry-10ml-nic-salts-e-liquid",
+  "brand": "Seriously Clear",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Seriously Clear Strawberry Sour Raspberry is a vibrant and tangy fruit blend that pairs two classic berry profiles. The inhale delivers the sweet, juicy taste of ripe Strawberry, which is immediately followed by a sharp, electrifying layer of Sour Raspberry on the exhale. The extra-concentrated formulation ensures this sweet and sour contrast remains crisp, punchy, and highly satisfying with every draw. Mixed to a 50VG/50PG ratio, this nicotine salt e-liquid is optimised for low-powered MTL (Mouth-to-Lung) devices, such as pod vape kits and pen-style starter kits. The premium nicotine salt formulation provides a smooth throat hit and rapid nicotine satisfaction, making it a highly effective option for everyday use. For the best performance and clear flavour delivery, it is recommended to pair this e-liquid with coils or pods ranging between 0.8ohm and 1.2ohm. The Seriously Clear collection by the acclaimed UK mixologists at Doozy Vape Co. and Crystal Clear offers a premium range of double-concentrated \"bar salt\" e-liquids. Designed to provide maximum flavour intensity with a remarkably clean finish, this line focuses on sharp, vibrant fruit and sour profiles. Supplied in a 10ml bottle, this e-liquid is available in 5mg, 10mg, and 20mg strengths, providing a versatile and satisfying choice for your refillable device. Your refillable vapes will perform at their best — ideal with any starter vape kit .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153803",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153810",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153816",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__seriously-clear-strawberry-sour-raspberry-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Sour-Raspberry-Seriously-Claer-10ml-nic-salts.jpg?v=1772029788",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.423Z"
+}

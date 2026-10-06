@@ -1,0 +1,52 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15454604460413",
+  "slug": "doozy-vape-co-infinity-strawberry-watermelon-50-50-shortfill-e-liquid-100ml",
+  "title": "Doozy Vape Co Infinity Strawberry Watermelon 50/50 Shortfill E-Liquid 100ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-strawberry-watermelon-50-50-shortfill-e-liquid-100ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Watermelon by Doozy Infinity brings together two summer staples in a juicy, sweet-tasting blend. Ripe Strawberry leads the way with its bright, jammy flavour, while Watermelon adds a gentle sweetness and lush, refreshing lift. The combination delivers a fruit vape that’s clean, rounded and irresistibly smooth, making it a great choice for an easy, all-day vape. Blended at a 50VG/50PG ratio, this MTL-friendly e-liquid is perfect for pod kits, vape pens and starter devices. The 120ml shortfill bottle includes 100ml of nicotine-free e-liquid, leaving space to add two 10ml nic shots for a tailored strength. Part of the Doozy Infinity Podfill range, this e-liquid is designed to deliver big flavour and smooth satisfaction in every puff.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "50/50 Shortfill",
+    "Infinity",
+    "MTL",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144404",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-strawberry-watermelon-50-50-shortfill-e-liquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Watermelon-Doozy-Infinity-PodFill-100ml-Bottle-Small.jpg?v=1754924637",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.544Z"
+}

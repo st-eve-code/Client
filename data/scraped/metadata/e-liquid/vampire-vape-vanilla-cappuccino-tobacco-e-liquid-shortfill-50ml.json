@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15551356109181",
+  "slug": "vampire-vape-vanilla-cappuccino-tobacco-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape Vanilla Cappuccino Tobacco E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-vanilla-cappuccino-tobacco-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Koncept Vanilla Cappuccino Tobacco Shortfill delivers a refined blend of earthy Tobacco, smooth Vanilla and aromatic Cappuccino. The Tobacco note anchors the flavour, softened by mellow Vanilla sweetness, while Cappuccino adds a roasted coffee edge for depth and warmth. This 70VG/30PG shortfill is designed for direct-to-lung (DTL) vaping with sub-ohm kits. Each 60ml bottle holds 50ml of nicotine-free e-liquid with room for a 10ml nicotine shot to customise the strength. Produced in the UK, Vampire Vape are known for quality and consistency. The Koncept series highlights bold, flavour-rich profiles in high-VG blends for sub-ohm vapers.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143041",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-vanilla-cappuccino-tobacco-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco_50ml-Freebase_flavour_Vanilla-Cappucino-Tobacco.jpg?v=1758533219",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.490Z"
+}

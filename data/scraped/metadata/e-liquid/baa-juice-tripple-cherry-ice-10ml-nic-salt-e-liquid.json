@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14901574500733",
+  "slug": "baa-juice-tripple-cherry-ice-10ml-nic-salt-e-liquid",
+  "title": "Baa Juice Triple Cherry Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-tripple-cherry-ice-10ml-nic-salt-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Nic Salt Triple Cherry Ice combines the deep, juicy sweetness of ripe Cherry with tangy sour notes, perfectly balanced by an icy menthol finish. This bold and refreshing blend delivers a smooth, layered vaping experience, ideal for fans of fruity flavours with a frosty twist. As part of the Baa Juice Bar Salts collection, this nicotine salt e-liquid features a double-concentrated flavour profile designed to replicate the bold and intense taste associated with single-use disposable vape bars. With a 50VG/50PG ratio, it’s perfect for Mouth-To-Lung (MTL) pod kits and starter devices, offering smooth throat hits and quick nicotine satisfaction. Available in 5mg, 10mg, and 20mg nicotine strengths, Triple Cherry Ice offers a versatile and economical alternative to single-use disposables, perfect for use with refillable vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "Cherry Ice",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1137656",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1137665",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137674",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-tripple-cherry-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/baa-juice-triple-cherry-ice-10ml-nicotine-salts-20mg.jpg?v=1734605501",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.552Z"
+}

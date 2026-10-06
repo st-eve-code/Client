@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639965163844",
+  "slug": "slushie-bar-salts-fresh-mint-nicsalt-eliquid",
+  "title": "Slushie Bar Salts Fresh Mint 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-salts-fresh-mint-nicsalt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Slushie Bar Salts' Fresh Mint is a refreshing dive into the cooling world of mint. This e-liquid brings the bold and rejuvenating taste of mint leaves straight to your palate, offering a crisp and clean vaping experience that invigorates with every puff. The flavour is pure, natural, and straightforward, capturing the essence of freshly picked mint leaves. The Fresh Mint e-liquid is perfect for those who seek simplicity and clarity in their vape. The minty freshness delivers a satisfyingly cool sensation, ideal for cleansing the palate or enjoying a brisk vape break. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the unique nicotine salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. If you enjoy this flavour, there are plenty more Slushie Bar Salts flavours to try. Few e-liquid makers have mastered the icy joys of slushy flavours quite like Slushie, a UK company who are behind an irresistible line of 50ml and 100ml shortfill and Nic Salts e-liquids that blend mouth-watering fruit flavours with healthy doses of icy menthol for an unparalleled slushy vaping experience. We’re also thrilled to stock Slushy Bar Salts: Nic Salt e-liquids that capture the intense flavour and satisfaction of your favourite disposable vape flavours in handy 10ml bottles for use with a wide variety of MTL (mouth-to-lung) vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127978",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1128010",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-salts-fresh-mint-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_ns_fresh_mint_1.jpg?v=1729063066",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-fresh-mint-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_fresh_mint.jpg?v=1729063066",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-fresh-mint-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_fresh_mint_1.jpg?v=1729063066",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.460Z"
+}

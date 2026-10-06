@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639385792836",
+  "slug": "eleaf-gt-coils-1-2ohm",
+  "title": "Eleaf GT Coils",
+  "url": "https://www.vapestore.co.uk/products/eleaf-gt-coils-1-2ohm",
+  "brand": "Eleaf",
+  "productType": "Coils",
+  "price": {
+    "min": 10.49,
+    "max": 10.49,
+    "currency": "GBP"
+  },
+  "description": "The new Eleaf engineered GT series coils feature a brand-new design which is thread-free and allows easy installing thanks to a plug-n-play style technique. The GT M 0.6ohm head is constructed using high-quality Kanthal mesh, which is more suitable for high level output suitable for RDL (restricted direct to lung) vaping. Wattage range: 10-25w The GT 1.2ohm head is constructed using 1.2ohm NiCr Coil, which is more suitable for mouth-to-lung (MTL) vaping. Wattage range: 7-14w",
+  "tags": [
+    "MTL/DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "UK-VB-GT-CL-0.6",
+      "price": 10.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "UK-VB-GT-CL-1.2",
+      "price": 10.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__eleaf-gt-coils-1-2ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-gt-coils-1-2.jpg?v=1729037550",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-gt-coils-1-2ohm__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-gt-coils-0-6_1.jpg?v=1729037550",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-gt-coils-1-2ohm__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-gt-coils-1-2_1.jpg?v=1729037550",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

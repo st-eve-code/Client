@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639795523908",
+  "slug": "imp-jar-sweet-strawberry-ice-eliquid-nicsalt",
+  "title": "Imp Jar Sweet Strawberry Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/imp-jar-sweet-strawberry-ice-eliquid-nicsalt",
+  "brand": "Imp Jar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Sweet Strawberry from Imp Jar captures the delightful sweetness of freshly-picked Strawberries with a cool hit of menthol. This flavour is a sweet, sun-ripened delight that fills your senses with its vibrant, fruity goodness. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production while the Nicotine Salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices and is available in 10mg and 20mg nicotine strength. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. Nicotine Salt e-liquids are absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. Imp Jar e-liquids replicate a wide array of delicious flavours made popular across numerous disposable vape devices, ranging from fruity delights, icy chills, sugary candies, to refreshing beverages. Offering 50ml of 0mg e-liquid in their shortfill range, Imp Jar allows for the addition of an 18mg nic shot to craft 60ml of nicotine-infused e-liquid. Imp Jar's Salts range also harnesses the power of nicotine salts, ensuring a gentle yet satisfying throat hit and fast relief from nicotine cravings.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1125118",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1125149",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__imp-jar-sweet-strawberry-ice-eliquid-nicsalt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Imp-Jar-10ml-10mg-Bottle-Sweet-Strawberry-min.jpg?v=1740491687",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__imp-jar-sweet-strawberry-ice-eliquid-nicsalt__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/imp-jar-sweet-strawberry-ice-10ml-nic-salt-eliquid_1_1.jpg?v=1740491687",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.521Z"
+}

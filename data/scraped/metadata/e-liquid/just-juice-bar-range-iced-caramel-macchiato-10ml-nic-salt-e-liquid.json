@@ -1,0 +1,102 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14899784679805",
+  "slug": "just-juice-bar-range-iced-caramel-macchiato-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Range Iced Caramel Macchiato 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-range-iced-caramel-macchiato-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Just Juice Bar Range Iced Caramel Macchiato Nic Salt e-liquid delivers the ultimate indulgence for coffee lovers. This exquisite blend combines the bold, roasted richness of freshly brewed coffee with the velvety sweetness of Caramel, perfectly complemented by a cool, icy exhale. Ideal for vapers who enjoy dessert-inspired flavours with a refreshing twist, this e-liquid provides a truly satisfying experience. With a 60PG/40VG ratio, this Nicotine Salt e-liquid is crafted for optimal performance in Mouth-to-Lung (MTL) devices and pod systems. The smooth Nic Salt formulation ensures rapid nicotine delivery and a comfortable throat hit, offering a satisfying and effective alternative to traditional tobacco products. Available in 5mg, 10mg, and 20mg nicotine strengths, Iced Caramel Macchiato makes for a luxurious all-day vape. Part of the Just Juice Bar Range, this collection brings the bold, concentrated flavours associated with disposable vapes into a more versatile and economical format for use with reusable vape devices. Other standout flavours in the range include Lychee & Mango, Spearmint, and Sour Blue Razz Lime. Please Note : All flavours in the Just Juice Bar Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg",
+        "0mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1137517",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1137523",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137527",
+      "price": 3.95
+    },
+    {
+      "title": "0mg",
+      "sku": "1153422",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-range-iced-caramel-macchiato-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Nic-Salt-ICED-CARAMEL-MACCHIATO-5MG.jpg?v=1734519616",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-iced-caramel-macchiato-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-Bar-range-Iced-Caramel-Macchiato-Details-01.jpg?v=1734519729",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-iced-caramel-macchiato-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-juice-BAR-nic-salt-ICED-CARAMEL-MACCHIATO-10MG.jpg?v=1734519729",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-iced-caramel-macchiato-10ml-nic-salt-e-liquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Nic-Salt-ICED-CARAMEL-MACCHIATO-20MG.jpg?v=1734519729",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-iced-caramel-macchiato-10ml-nic-salt-e-liquid__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Iced-Caramel-Macchiato-Just-Juice-Bar-Zero-0mg-10-ml.jpg?v=1770900419",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.381Z"
+}

@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640044593476",
+  "slug": "doozy-cherry-passion-seriously-tropical-nic-salt-eliquid",
+  "title": "Doozy Vape Co Seriously Tropical Cherry Passion 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/doozy-cherry-passion-seriously-tropical-nic-salt-eliquid",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Cherry Passion from the Doozy Seriously Tropical Nic Salt collection combines the rich, juicy taste of cherries with the tangy, exotic notes of passionfruit. This e-liquid delivers a well-balanced fruit flavour that's perfect for vapers who enjoy a mix of sweet and tart tastes. Doozy Seriously Tropical Nic Salt e-liquids are crafted with a 50VG/50PG ratio, making them perfect for mouth-to-lung (MTL) vape kits and pod devices. Available in 5mg, 10mg, and 20mg nicotine strengths, these Nicotine Salt e-liquids offer a smooth, comfortable throat hit and rapid nicotine delivery, ideal for adult smokers and vapers looking for effective nicotine relief that doesn’t compromise on flavour. Doozy Vape Co., based in the UK, are renowned for creating high-quality e-liquids in a staggering variety of exciting flavour profiles you won’t find anywhere else. Their Seriously Tropical Nic Salt collection brings together some of the most vibrant and tropical exotic fruit blends for a sweet, satisfying and sunny vaping experience. Discover the rest of the Seriously Tropical range at Vapestore and find your new favourite flavour today.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Seriously Tropical"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1134891",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1134901",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1134910",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-cherry-passion-seriously-tropical-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-seriously-tropical-salts-cherry-passion-nic-salt-10ml_1_1_1.jpg?v=1729064830",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-cherry-passion-seriously-tropical-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-seriously-tropical-salts-cherry-passion-nic-salt-10ml.jpg?v=1729064830",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-cherry-passion-seriously-tropical-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-seriously-tropical-salts-cherry-passion-nic-salt-10ml_1.jpg?v=1729064830",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-cherry-passion-seriously-tropical-nic-salt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-seriously-tropical-salts-cherry-passion-nic-salt-10ml_1_1.jpg?v=1729064830",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.475Z"
+}

@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639386284356",
+  "slug": "just-juice-e-liquid-mango-passion-fruit-10ml",
+  "title": "Just Juice Mango & Passion Fruit 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-e-liquid-mango-passion-fruit-10ml",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Just Juice’s 50VG/50PG blend of sweet ripe mango flavour swirled into delicately tangy passionfruit flavour. This e-liquid’s 50% VG, 50% PG ratio delivers vape experience with a perfect balance of flavour and cloud production and is ideally suited to pod kits and starter kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Mango",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "JC-JC-10-MP-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "JC-JC-10-MP-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "JC-JC-10-MP-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-e-liquid-mango-passion-fruit-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-mango-_-passionfruit-5050.jpg?v=1729037582",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-e-liquid-mango-passion-fruit-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-mango-_-passionfruit-5050_3.jpg?v=1729037582",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-e-liquid-mango-passion-fruit-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-mango-_-passionfruit-5050_2.jpg?v=1729037582",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-e-liquid-mango-passion-fruit-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-mango-_-passionfruit-5050_1.jpg?v=1729037582",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.639Z"
+}

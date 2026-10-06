@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639286636868",
+  "slug": "smok-tfv12-prince-q4-sub-ohm-coils",
+  "title": "SMOK TFV12 Prince-Q4 Sub Ohm Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-tfv12-prince-q4-sub-ohm-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "These SMOK TFV12 Prince replacement coils feature high-quality atomizer cores to maintain the performance of your sub ohm set up. Designed for use with the TFV12 Prince Tank. These coils have a 0.4ohm resistance for use between 40-100w (recommended 60-80w). At Vapestore we stock a large range of SMOK Products , including Smok E-cigarettes, Smok Tanks, Smok Coils and New Vape kits",
+  "tags": [
+    "compatible-with-601240",
+    "compatible-with-602766",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "601547",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-tfv12-prince-q4-sub-ohm-coils__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/601547_smok_tfv12_princeq4_001.png?v=1729033034",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.874Z"
+}

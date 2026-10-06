@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639399817540",
+  "slug": "pukka-juice-e-liquid-tropical-nicotine-salt",
+  "title": "Pukka Juice Tropical Nicotine Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-e-liquid-tropical-nicotine-salt",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Tropical by Pukka Juice is exactly as exotic and uplifting as it sounds, with a perfect blend of tangy passionfruit, juicy kiwifruit and refreshing watermelon. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "PU-KA-10-TR-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "PU-KA-10-TR-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-e-liquid-tropical-nicotine-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pukka-juice-nic-salts-tropical.jpg?v=1729038132",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.497Z"
+}

@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639315145028",
+  "slug": "v12-prince-mesh-coils-by-smok",
+  "title": "SMOK V12 Prince Mesh Coil",
+  "url": "https://www.vapestore.co.uk/products/v12-prince-mesh-coils-by-smok",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "The Smok V12 Prince Mesh coils are specifically designed for use with Smok TFV12 Prince tank, and features a unique mesh coil head for an intense, rich flavour. Their generous surface area allows for quicker heating and faster e-liquid absorption and leads to a smooth, satisfying vape. These coils perform best when vaped at 40-70 watts. Discover a wide selection of SMOK products at Vapestore, including top-quality Smok E-cigarettes , durable Smok Tanks , high-performance Mods , reliable Smok Coils , and the latest New Vape Kits .",
+  "tags": [
+    "compatible-with-601240",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "610358",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__v12-prince-mesh-coils-by-smok__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/610358_smok_v12prince_mesh_coils_0_15_ohm_001_a8f58ef4-0473-440d-9b06-2ceda4c25ca1.png?v=1729034167",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

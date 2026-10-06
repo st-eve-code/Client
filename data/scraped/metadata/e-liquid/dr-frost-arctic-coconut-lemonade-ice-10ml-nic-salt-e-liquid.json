@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14889689383293",
+  "slug": "dr-frost-arctic-coconut-lemonade-ice-10ml-nic-salt-e-liquid",
+  "title": "Dr Frost Arctic Coconut Lemonade Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dr-frost-arctic-coconut-lemonade-ice-10ml-nic-salt-e-liquid",
+  "brand": "Dr Frost",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dr Frost Arctic Nic Salt Coconut Lemonade Ice pairs the smooth, creamy notes of Coconut with the bright, zesty sparkle of Lemonade, finished with a crisp menthol exhale. This exotic and refreshing blend delivers a uniquely balanced flavour profile, perfect for vapers seeking bold, layered combinations of fruit and menthol. As part of Dr Frost’s Arctic Edition collection, this nicotine salt e-liquid features a double-concentrated Bar Salts flavour, delivering the same bold, intense taste found in disposable vapes. Crafted with a 50VG/50PG ratio, Coconut Lemonade Ice is designed for Mouth-to-Lung (MTL) pod kits and low-powered devices, providing smooth throat hits and rapid nicotine satisfaction. Available in 5mg, 10mg, and 20mg nicotine strengths, Coconut Lemonade Ice offers a versatile choice for adult smokers and vapers looking for exotic and refreshing flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137882",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137890",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dr-frost-arctic-coconut-lemonade-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Coconut-Lemonade-Ice-10mg.jpg?v=1733932218",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dr-frost-arctic-coconut-lemonade-ice-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dr-Frost-Arctic-Coconut-Lemonade-Ice-20mg.jpg?v=1733932252",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.501Z"
+}

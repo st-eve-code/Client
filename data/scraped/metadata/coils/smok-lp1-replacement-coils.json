@@ -1,0 +1,90 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639512342852",
+  "slug": "smok-lp1-replacement-coils",
+  "title": "SMOK LP1 Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/smok-lp1-replacement-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 8.49,
+    "max": 8.49,
+    "currency": "GBP"
+  },
+  "description": "These Replacement LP1 Coils from Smok deliver incredible flavour and cloud production and a super-satisfying MTL (mouth-to-lung) experience. The 0.8ohm Mesh Coil features an enhanced surface area, which improves the coil’s flavour and vapour production. The 0.8ohm Dual coil delivers a perfect balance of vapour and flavour and a sublime MTL experience that closely mimics the draw from a traditional cigarette. The Meshed 0.9ohm Coil features a meshed structure to enhance the smothness of flavour aswell as improved leak proof technology. Both coils are ideal for use with Classic/High PG , 50/50 and Nicotine Salts e-liquids. Compatibility Smok Novo 4 Pod Kit Smok Pozz Pro Pod Kit Smok Novo 4 Mini Pod Kit",
+  "tags": [
+    "compatible-with-SM-KT-NV-4-PO-WA",
+    "compatible-with-SM-KT-PZ-PRO-PO-SBA-Discontinued",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "LP1 Mesh 0.8ohm",
+        "LP1 MTL 0.8ohm",
+        "LP1 Meshed 0.9ohm",
+        "LP1 Meshed 1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "LP1 Mesh 0.8ohm",
+      "sku": "SM-CO-LP-1-MSH-0.8-5PK",
+      "price": 8.49
+    },
+    {
+      "title": "LP1 MTL 0.8ohm",
+      "sku": "SM-CO-LP-1-DC-0.8-5PK",
+      "price": 8.49
+    },
+    {
+      "title": "LP1 Meshed 0.9ohm",
+      "sku": "SM-CO-LP1-MSH-0.9-MTL-5P",
+      "price": 8.49
+    },
+    {
+      "title": "LP1 Meshed 1.2ohm",
+      "sku": "1105206",
+      "price": 8.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-lp1-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-lp1-mesh-0-8.jpg?v=1729041080",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-lp1-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-lp1-mesh-0-8_1.jpg?v=1729041080",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-lp1-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-lp1-metal-0-8_1.jpg?v=1729041080",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-lp1-replacement-coils__004.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lp1-0.9ohm_1.png?v=1729041080",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.869Z"
+}

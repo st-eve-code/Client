@@ -1,0 +1,126 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15134028988797",
+  "slug": "innokin-coolfire-z80-nex-pod-vape-kit",
+  "title": "Innokin Coolfire Z80 Nex Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-coolfire-z80-nex-pod-vape-kit",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 39.99,
+    "max": 39.99,
+    "currency": "GBP"
+  },
+  "description": "Please Note: Batteries are NOT included with this kit. The Innokin Coolfire Z80 Nex Kit is a compact and stylish sub-ohm vape kit that combines practical design with customisable performance. Powered by a single 18650 battery (sold separately), this device delivers up to 80W of output and is packed with smart features designed to enhance the vaping experience for DTL (direct-to-lung) and RDL (restricted direct-to-lung) users. The Coolfire Z80 Nex Mod features a crystal-clear 0.96” TFT screen for easy monitoring of settings, alongside an easy-access slide-lock switch that disables the fire button for added safety when carrying the device. The internal chipset features multiple safety protections, and ensures consistent power output and smooth vapour delivery, even at lower battery levels. Fast USB-C charging (5V/2A) keeps downtime to a minimum. Crowning the kit is the Zenith M Tank, a 2ml TPD-compliant tank that introduces Innokin’s innovative TopSync system. This integrated mechanism combines top-filling and airflow adjustment into a single rotating control ring, offering smooth airflow adjustments and mess-free refills with just a simple twist. Compatible with Innokin’s full Z-Coil range, the tank supports a wide spectrum of resistances and wattage preferences. Included in the box are a 0.3ohm coil (30–40W) and a 0.8ohm coil (14–17W), giving users the flexibility to explore rich, flavourful MTL vapour or a more restricted RDL draw with moderate cloud output. With its solid zinc alloy construction, leather grip detailing, and intuitive interface, the Innokin Coolfire Z80 Nex Kit is a dependable choice for sub-ohm vapers who value control, comfort, and a versatile coil selection. Discover premium liquid vape options to elevate your experience with this kit. We recommend using the following E-Liquid: Innokin Z Coil 0.8ohm - Use 50/50 , Nic Salt E-Liquid - Choose Bar Salts. Innokin Z Coil 0.3ohm - Use High VG (Sub-Ohm) E-Liquid - Choose Double Drip. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1006507",
+    "compatible-with-1103902",
+    "compatible-with-1123562",
+    "compatible-with-IN-CO-AD-PT-KT-0.48",
+    "compatible-with-IN-CO-AD-PT-KT-1.7",
+    "DTL/RDL",
+    "Free 3 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Gradient Blue",
+        "Silver",
+        "Turquoise",
+        "Black",
+        "Gunmetal",
+        "Purple"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Gradient Blue",
+      "sku": "1140525",
+      "price": 39.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1140526",
+      "price": 39.99
+    },
+    {
+      "title": "Turquoise",
+      "sku": "1140528",
+      "price": 39.99
+    },
+    {
+      "title": "Black",
+      "sku": "1140524",
+      "price": 39.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1140527",
+      "price": 39.99
+    },
+    {
+      "title": "Purple",
+      "sku": "1140529",
+      "price": 39.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Kit-Gradient-Blue.jpg?v=1744016428",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Kit-Black.jpg?v=1744016428",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Kit-Silver.jpg?v=1744016050",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Kit-Gunmetal.jpg?v=1744016146",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innookin-CoolFire-Z80-Nex-Kit-Turquoise.jpg?v=1744016207",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-z80-nex-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-CoolFire-Z80-Nex-Kit-Purple.jpg?v=1744016342",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.102Z"
+}

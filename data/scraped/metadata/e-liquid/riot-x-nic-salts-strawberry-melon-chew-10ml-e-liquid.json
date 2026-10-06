@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15034523419005",
+  "slug": "riot-x-nic-salts-strawberry-melon-chew-10ml-e-liquid",
+  "title": "Riot X Nic Salts Strawberry Melon Chew 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-strawberry-melon-chew-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Melon Chew from Riot X delivers a playful fusion of sweet, sun-ripened strawberries and juicy melon with a nostalgic chewy candy twist. The balance of berry brightness and the mellow, succulent melon notes creates a layered, satisfying vape with a soft, lingering sweetness. Part of Riot Squad’s Riot X collection, this e-liquid is crafted to replicate the bold, double-concentrated flavours found in the most popular single-use disposables. Supplied in a 10ml bottle, it’s an excellent option for vapers moving from disposables to refillable MTL (mouth-to-lung) pod kits, offering the same vivid taste experience with the added benefits of convenience and cost-efficiency. Riot X Salt E-Liquids are made with Riot Squad’s Hybrid Nicotine blend, a combination of freebase nicotine and nicotine salts. This innovative mix, along with the 50PG/50VG ratio, ensures a smooth yet flavourful inhale with a balanced throat hit and satisfying vapour production. Please note: this flavour profile may contain hints of 'ice'.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1139258",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1139270",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139282",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-strawberry-melon-chew-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/RIOT-X-Strawberry-melon-chew.jpg?v=1743492200",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.424Z"
+}

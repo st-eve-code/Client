@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15551406604669",
+  "slug": "vampire-vape-vanilla-cappuccino-tobacco-flavour-concentrate-30ml",
+  "title": "Vampire Vape Vanilla Cappuccino Tobacco Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-vanilla-cappuccino-tobacco-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Vanilla Cappuccino Tobacco Concentrate offers a layered mix of Tobacco, smooth Vanilla and rich Cappuccino for DIY e-liquid creation. The Tobacco base brings earthy depth, Vanilla softens with mellow sweetness, and Cappuccino introduces a roasted coffee edge. This 30ml flavour concentrate must be diluted before use and is designed for experienced mixers who want to build their own e-liquids. It provides complete flexibility over VG/PG ratios and nicotine content, making it ideal for custom recipes. Produced in the UK, Vampire Vape concentrates are valued by DIY vapers for their flavour quality and consistency.",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143045",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-vanilla-cappuccino-tobacco-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco_30ml--Concetrates_flavour_Vanilla-Cappuccino-Tobacco.jpg?v=1758534268",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.534Z"
+}

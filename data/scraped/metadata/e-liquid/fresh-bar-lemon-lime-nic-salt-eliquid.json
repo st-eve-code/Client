@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639831863620",
+  "slug": "fresh-bar-lemon-lime-nic-salt-eliquid",
+  "title": "Fresh Bar Salts Lemon & Lime 10ml Nic Salt E-Liquid By Pukka Juice",
+  "url": "https://www.vapestore.co.uk/products/fresh-bar-lemon-lime-nic-salt-eliquid",
+  "brand": "Fresh Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon & Lime from Fresh Bar unites two iconic citrus flavours, bringing together the sharp brightness of lemons with the crisp refreshment of limes. This e-liquid offers a tangy and invigorating taste journey, perfect for those seeking a pure, uplifting citrus experience. If you love the kind of intense, satisfying flavours found in the most popular disposable vape bars, then you’re bound to find them in Fresh Bars mouth-watering collection of Nic Salt 10ml e-liquids. They’re a more sustainable option over single-use disposable vapes, and can be used in a wide variety of vape kits. This premium Fresh Bar e-liquid’s 50VG/50PG ratio offers the perfect balance between flavour and cloud production, and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices with high-resistance coils. Unlike regular freebase e-liquids, nicotine salts’ unique alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than traditional high-strength, high-PG freebase liquids are capable of. Also, with nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings! Fresh Bar are a brand of e-liquids from vape masters Pukka Juice, an award-winning UK e-liquid company behind some of the most popular e-liquids today. From nic salts, to 50/50 e-liquids, Fresh Bar e-liquids draw inspiration from the most popular disposable vape bar flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1126472",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1126484",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fresh-bar-lemon-lime-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-salts-lemon-lime-10ml-nic-salt-eliquid_1_1.jpg?v=1729055201",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fresh-bar-lemon-lime-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-salts-lemon-lime-10ml-nic-salt-eliquid.jpg?v=1729055201",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fresh-bar-lemon-lime-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-salts-lemon-lime-10ml-nic-salt-eliquid_1.jpg?v=1729055201",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.586Z"
+}

@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639845364036",
+  "slug": "vg-vegetable-glycerin-vampire-vape",
+  "title": "Vampire Vape VG (Vegetable Glycerin) By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vg-vegetable-glycerin-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 4,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "This premium, UK-made Vegetable Glycerin (VG ) is an essential component of e-liquid and is colourless, odourless and provides the rich, dense clouds and a more comfortable throat than higher quantities of Propylene Glycol (PG). This Propylene Glycol is USP/EP pharmaceutical grade and is intended for use with DIY E-liquid production, Propylene Glycol, Nicotine Shots (if required) and Flavour Concentrates. Details Vegetable Glycerin (VG) Avalible In 250ml, 500ml, 1ltr Made in the UK",
+  "tags": [],
+  "options": [
+    {
+      "name": "Bottle Size",
+      "position": 1,
+      "values": [
+        "250ml",
+        "500ml",
+        "1 Litre"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "250ml",
+      "sku": "VV-250-VG-BM",
+      "price": 4
+    },
+    {
+      "title": "500ml",
+      "sku": "1000044",
+      "price": 6
+    },
+    {
+      "title": "1 Litre",
+      "sku": "1000045",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vg-vegetable-glycerin-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vg-eliquid-group_1.jpg?v=1729056277",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vg-vegetable-glycerin-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vegetable-glycerine_1e28857a-5822-4b4c-8ef6-88ee2f467ef7.jpg?v=1729056277",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vg-vegetable-glycerin-vampire-vape__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vegetable-glycerine_1.jpg?v=1729056277",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vg-vegetable-glycerin-vampire-vape__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-vegetable-glycerine_1_1.jpg?v=1729056277",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.452Z"
+}

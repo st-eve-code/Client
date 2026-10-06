@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15540283015549",
+  "slug": "vampire-vape-rum-tobacco-10ml-freebase-e-liquid",
+  "title": "Vampire Vape Rum Tobacco 10ml Freebase E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-rum-tobacco-10ml-freebase-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Rum Tobacco Freebase brings together the robust depth of Tobacco with a warming edge of spiced Rum for a distinctive and satisfying vape. The Tobacco delivers a full-bodied base with earthy, smoky tones, while the Rum adds a subtle sweetness and a hint of richness that lingers on the senses. This e-liquid is blended in either a 40VG/60PG or 50VG/50PG ratio depending on nicotine strength, ensuring clear flavour and a tactile yet comfortable throat hit. Designed for mouth-to-lung (MTL) vaping styles, it performs best with starter kits, vape pens, and refillable pod systems. Available in 0mg, 3mg, 6mg, 12mg, and 18mg nicotine strengths, Rum Tobacco gives you flexibility to choose the level that suits your preference. Vampire Vape are a UK-based e-liquid manufacturer known for their pioneering blends and consistent quality. Their Tobacco collection highlights rich and characterful profiles paired with intriguing accents, perfect for vapers who enjoy traditional notes with a twist.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1141472",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1141476",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1141480",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1141485",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1141489",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-rum-tobacco-10ml-freebase-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco_10ml-Freebase-Rum-Tobacco.jpg?v=1758189645",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.336Z"
+}

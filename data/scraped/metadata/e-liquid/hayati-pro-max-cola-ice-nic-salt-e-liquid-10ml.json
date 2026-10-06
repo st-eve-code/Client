@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15114985570685",
+  "slug": "hayati-pro-max-cola-ice-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Cola Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-cola-ice-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Cola Ice offers a cool take on a classic soda flavour. The taste is instantly reminiscent of a fizzy cola, followed by a brisk menthol layer that adds an icy chill on the exhale. The contrast between sweetness and frosty cool makes for a sharply refreshing vape that’s instantly familiar and endlessly satisfying. This nicotine salt e-liquid delivers swift nicotine satisfaction and a tactile yet comfortable throat hit, perfect for MTL (mouth-to-lung) vaping with pod kits and starter devices. The 50VG/50PG blend ensures clear flavour and discreet vapour production. This flavour is part of the Hayati Pro Max Nic Salt range, inspired by Hayati’s own bestselling disposable vapes and now reimagined in a longer-lasting 10ml format—available in 10mg and 20mg nicotine strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140336",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140397",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-cola-ice-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cola-Ice_Hayati-Pro-Max-Nic-Salts.jpg?v=1743411507",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.405Z"
+}

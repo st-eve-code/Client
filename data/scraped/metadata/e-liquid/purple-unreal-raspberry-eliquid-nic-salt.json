@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639635386692",
+  "slug": "purple-unreal-raspberry-eliquid-nic-salt",
+  "title": "Unreal Raspberry Purple Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/purple-unreal-raspberry-eliquid-nic-salt",
+  "brand": "Unreal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Unreal Raspberry’s ‘Purple’ is a mouth-watering blend of rich, sweet and juicy dark grapes and everyone’s favourite syrupy sweet and irresistibly fruity blue raspberry slushy flavour. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "UN-10-UR-PU-05-NS",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "UN-10-UR-PU-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "UN-10-UR-PU-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__purple-unreal-raspberry-eliquid-nic-salt__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/unreal-nic-salts-purple.png?v=1729045338",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.461Z"
+}

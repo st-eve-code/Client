@@ -1,0 +1,122 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639759282500",
+  "slug": "geekvape-z-subohm-tank-se-2ml",
+  "title": "Geekvape Z Subohm SE Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/geekvape-z-subohm-tank-se-2ml",
+  "brand": "Geekvape",
+  "productType": "Tanks",
+  "price": {
+    "min": 23.99,
+    "max": 23.99,
+    "currency": "GBP"
+  },
+  "description": "The GeekVape Z Sub-Ohm SE tank 2ml is a cloud-chaser’s dream and one of GeekVape’s most influential sub-ohm tanks. This Special Edition tank combines several innovative features with the welcome addition of a childproof lock that prevents little fingers from tampering with your tank. Located just below the cap, the lock button secures your tank while allowing for easy access to the refill ports, revealed by depressing the button and sliding the cap and mouthpiece out. The tank has a 2ml e-liquid capacity, and is protected by premium, solid materials to prevent the tank getting damaged. The GeekVape Z Sub-Ohm SE tank produces incredible flavour and vapour with the aid of an Industry-leading Leakproof Top Airflow Design. By placing the airflow control ring towards the top of the tank, both flavour and vapour are significantly improved over many similar sub-ohm tanks. The GeekVape Z Sub-Ohm SE tank is compatible with GeekVape’s astonishing Z series mesh coils, which have been upgraded to provide twice the lifespan of regular coils. Two Z coils are included with the tank, with a pre-installed: 0.15ohm coil (best at 70-85W) and a spare 0.4ohm coil (best at 50-60W). Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Gunmetal",
+        "Rainbow",
+        "Stainless Steel"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1118183",
+      "price": 23.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1118185",
+      "price": 23.99
+    },
+    {
+      "title": "Gold",
+      "sku": "1118184",
+      "price": 23.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1118186",
+      "price": 23.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "1118187",
+      "price": 23.99
+    },
+    {
+      "title": "Stainless Steel",
+      "sku": "1118182",
+      "price": 23.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-z-subohm-tank-se-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-z-sub-ohm-se-tank-rainbow_1.jpg?v=1729050151",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-tank-se-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-z-sub-ohm-se-tank-black.jpg?v=1729050151",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-tank-se-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-z-sub-ohm-se-tank-blue.jpg?v=1729050151",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-tank-se-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-z-sub-ohm-se-tank-gold.jpg?v=1729050151",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-tank-se-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-z-sub-ohm-se-tank-gunmetal.jpg?v=1729050151",
+      "position": 5,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-tank-se-2ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-z-sub-ohm-se-tank-rainbow.jpg?v=1729050151",
+      "position": 6,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-z-subohm-tank-se-2ml__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-z-sub-ohm-se-tank-ss.jpg?v=1729050151",
+      "position": 7,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

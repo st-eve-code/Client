@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15493800264061",
+  "slug": "baa-juice-cherry-cola-10ml-nic-salt-e-liquid",
+  "title": "Baa Juice Cherry Cola 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-cherry-cola-10ml-nic-salt-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Cherry Cola Nic Salt blends the bold taste of sparkling Cola with the juicy sweetness of ripe Cherry. The Cola base brings its familiar fizzy character, while the Cherry lifts the mix with rich, fruity depth, creating a lively and satisfying vape. Crafted as part of the Baa Juice Bar Salts collection, this nicotine salt e-liquid uses double-concentrated flavour to recreate the punchy taste associated with bar-style vapes. The 50VG/50PG blend is designed for Mouth-To-Lung (MTL) vaping, producing smooth flavour delivery, discreet vapour, and a comfortable throat hit. Available in 5mg, 10mg, and 20mg strengths, Baa Juice Cherry Cola Nic Salt is a fizzy favourite for use with refillable vapes and vape starter kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1144535",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1144515",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1144525",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-cherry-cola-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-baa-juice-cherry-cola-10ml-nicotine-salts.jpg?v=1756380745",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.476Z"
+}

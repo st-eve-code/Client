@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639816397124",
+  "slug": "aspire-pockex-replacement-coils",
+  "title": "Aspire PockeX Replacement Coils - 5 Pack",
+  "url": "https://www.vapestore.co.uk/products/aspire-pockex-replacement-coils",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "These Aspire PockeX Replacement Coils is made of SS316 stainless steel. It comes with 0.6ohm or 1.2ohm coil resistance delivering a MTL (mouth -to-lung) vape that is rich in flavour and gives a nice soft cloud. Build with the U-Tech coil technology, it will provide you with great flavour.",
+  "tags": [
+    "b2b",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1002393",
+      "price": 10.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "123761",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-pockex-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire_pockex-replacement-coils_06ohm_5pack.jpg?v=1729054165",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire_pockex-replacement-coils_06ohm_5pack_1.jpg?v=1729054165",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-x-5-1-2_ef94ef0a8b.jpg?v=1729054165",
+      "position": 3,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.868Z"
+}

@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639843266884",
+  "slug": "nasty-liq-lemon-lime-nicsalt-eliquid",
+  "title": "Nasty Liq Lemon Lime 10ml Nic Salt E-Liquid By Nasty Juice",
+  "url": "https://www.vapestore.co.uk/products/nasty-liq-lemon-lime-nicsalt-eliquid",
+  "brand": "Nasty Liq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Nasty Liq's Lemon Lime is a vibrantly tasty celebration of citrus and is a surprisingly refreshing e-liquid that pairs the sharp tang of lemon with the zingy zest of lime. The first draw floods your senses with a lemon's bright burst, its sharpness perfectly capturing the fruit's lively spirit. This is swiftly followed by the lime's vibrant tang, adding a second wave of citrus exhilaration that complements the lemon's punch. The dual citrus attack is like a sparkling beverage on a hot day, invigorating and deeply satisfying. As you continue to vape, you'll notice how the sweetness underpins the tart notes, ensuring the sharpness never overwhelms but instead refreshes. The result is a bright and lively vape that remains enjoyable long into the day, a testament to the careful crafting behind Nasty Liq's flavours. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. If you enjoy this flavour, there are plenty more delicious Nasty Liq flavours to try. Nasty Juice have fine-tuned their vape juices for optimised performance with the vast majority of MTL (mouth-to-lung) devices. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and many are also available in Nasty Juice’s super-convenient Nasty Bar disposable vape bars.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127943",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127961",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-liq-lemon-lime-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-lemon-lime-10ml-nic-salt-eliquid_1_1.jpg?v=1729056067",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-lemon-lime-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-lemon-lime-10ml-nic-salt-eliquid.jpg?v=1729056067",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-lemon-lime-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-lemon-lime-10ml-nic-salt-eliquid_1.jpg?v=1729056067",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.584Z"
+}

@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639402701124",
+  "slug": "doozy-vape-eliquid-lemon-berry-pie",
+  "title": "Doozy Vape Co Lemon Berry Pie Nicotine Salts",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-eliquid-lemon-berry-pie",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon Berry Pie is a luxuriously indulgent blend of sharp, sweet berries with zesty lemon notes layered with comforting buttery pastry. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "DZ-NS-10-LB-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "DZ-NS-10-LB-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-eliquid-lemon-berry-pie__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-co-lemon-berry-pie-nicotine-salts.jpg?v=1729038272",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.636Z"
+}

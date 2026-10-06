@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15454390845821",
+  "slug": "doozy-vape-co-infinity-blue-razz-mojito-nic-salt-e-liquid-10ml",
+  "title": "Doozy Vape Co Infinity Blue Razz Mojito Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-blue-razz-mojito-nic-salt-e-liquid-10ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Razz Mojito by Doozy Infinity fuses tangy Blue Raspberry with the unmistakable zesty freshness of a sophisticated Mojito cocktail. The vibrant Blue Raspberry brings a sweet-sour burst up front, balanced by a zingy streak of Lime and a touch of herbal Mint, capturing the bright, refreshing spirit of a classic Mojito. A smooth wave of cool Ice on the exhale adds clarity and keeps the flavour sharp and beautifully defined from start to finish. Blended at a 50VG/50PG ratio, this Nicotine Salt e-liquid is perfect for mouth-to-lung (MTL) vaping in refillable vape pod kits , vape pens and compact starter devices . The nic salt formulation delivers fast-acting nicotine relief with a smooth, comfortable throat hit, especially suited to those seeking a satisfying yet discreet vape. Available in 5mg, 10mg and 20mg strengths, the Doozy Infinity Nic Salt range continues Doozy Vape Co.’s reputation for crafting imaginative, layered flavours for everyday vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Infinity",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1144388",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1144375",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1144382",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-blue-razz-mojito-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-MojitoDoozy-Infinity-Salts-10ml-Small.jpg?v=1754919474",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.481Z"
+}

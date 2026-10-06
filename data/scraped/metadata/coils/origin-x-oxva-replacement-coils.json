@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639428817220",
+  "slug": "origin-x-oxva-replacement-coils",
+  "title": "Oxva Origin X Replacement Coils",
+  "url": "https://www.vapestore.co.uk/products/origin-x-oxva-replacement-coils",
+  "brand": "Oxva",
+  "productType": "Coils",
+  "price": {
+    "min": 9.49,
+    "max": 10.49,
+    "currency": "GBP"
+  },
+  "description": "The Origin X pod kit from Oxva is a sleek and versatile pod kit that uses Oxva’s UNI coils for incredible flavour and reliable performance. The 0.2, 0.3 and 0.5 Ohm UNI Mesh Coils allow for an exceptional DL (direct lung) sub-ohm experience ideal for High-VG E-Liquids, while the Oxva UNI 1.0 Ohm Coil provides an incredible MTL (mouth-to-lung) vape, especially when paired with High-PG , 50/50 and Nicotine Salt E-Liquids.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.2ohm",
+        "0.3ohm",
+        "0.5ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.2ohm",
+      "sku": "OX-OX-CO-0.2-5P",
+      "price": 9.49
+    },
+    {
+      "title": "0.3ohm",
+      "sku": "OX-OX-CO-0.3-5P",
+      "price": 9.49
+    },
+    {
+      "title": "0.5ohm",
+      "sku": "OX-OX-CO-0.5-5P",
+      "price": 10.49
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "OX-OX-CO-1.0-5P",
+      "price": 10.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__origin-x-oxva-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva_uni_replacement_coils_-_0.3ohm_mesh_coils_-_blister_pack_and_box.jpg?v=1729039314",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.870Z"
+}

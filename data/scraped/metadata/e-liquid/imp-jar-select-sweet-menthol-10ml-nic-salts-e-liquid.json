@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15707045593469",
+  "slug": "imp-jar-select-sweet-menthol-10ml-nic-salts-e-liquid",
+  "title": "Imp Jar Select Sweet Menthol 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/imp-jar-select-sweet-menthol-10ml-nic-salts-e-liquid",
+  "brand": "Imp Jar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Imp Jar Select Sweet Menthol is a refreshing and smooth blend. It combines the clean taste of cool mints with a distinct layer of sweetness, creating an icy flavour that is punchy without being harsh. The Imp Jar Select nic salt range utilise twice as much flavour concentrate as standard e-liquids for an intense flavour payoff which pairs perfectly with starter vape kits and refillable vapes . Launched in conjunction with Imp Jar's first pod vape kit, the Imp Jar Select, Imp Jar Select Nic Salts are available in 5mg, 10mg, and 20mg strengths, allowing you to tailor your vaping experience. This 10ml e-liquid is TPD-compliant and features a childproof cap and tamper-evident seal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1150186",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150148",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1150169",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__imp-jar-select-sweet-menthol-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sweet-Menthol-Imp-Jar-Select-5mg-10ml.jpg?v=1764950489",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.478Z"
+}

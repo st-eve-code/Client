@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639398637892",
+  "slug": "salt-e-liquid-pineapple-breeze",
+  "title": "Salt Pineapple Breeze Nicotine Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/salt-e-liquid-pineapple-breeze",
+  "brand": "Salt",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pineapple simply loves menthol, as proved beyond doubt with this exceptional nic salt eliquid from SALT. Bright, sweet and pleasantly tart, the Pineapple benefits wonderfully from the subtle streak of menthol that gives the juice a smooth, cool, refreshing note on the exhale. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "SA-LT-10-PB-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "SA-LT-10-PB-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__salt-e-liquid-pineapple-breeze__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/salt_pineapplebreeze_800x800_9f82c3aa-0a74-41a0-bfbc-fc3673a2e502.jpg?v=1729038083",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.637Z"
+}

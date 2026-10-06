@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15706780336509",
+  "slug": "imp-jar-select-rainbow-fruits-10ml-nic-salts-e-liquid",
+  "title": "Imp Jar Select Rainbow Fruits 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/imp-jar-select-rainbow-fruits-10ml-nic-salts-e-liquid",
+  "brand": "Imp Jar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Imp Jar Select Rainbow Fruits delivers a classic sweet shop flavour. It authentically captures the taste of popular mixed-fruit candy, offering a vibrant blend of fruity and sugary notes that is playful, sweet, and satisfying. The Imp Jar Select nic salt range utilise twice as much flavour concentrate as standard e-liquids for an intense flavour payoff which pairs perfectly with starter kits and refillable pod kits. Launched in conjunction with Imp Jar's first pod vape kit, the Imp Jar Select, Imp Jar Select Nic Salts are available in 5mg, 10mg, and 20mg strengths, allowing you to tailor your vaping experience. This 10ml e-liquid is TPD-compliant and features a childproof cap and tamper-evident seal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1150182",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150144",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1150165",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__imp-jar-select-rainbow-fruits-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rainbow-Fruits-Imp-Jar-Select-5mg-10ml.jpg?v=1764946794",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.513Z"
+}

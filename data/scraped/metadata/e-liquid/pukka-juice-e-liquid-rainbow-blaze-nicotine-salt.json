@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639399457092",
+  "slug": "pukka-juice-e-liquid-rainbow-blaze-nicotine-salt",
+  "title": "Pukka Juice Rainbow Blaze Nicotine Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-e-liquid-rainbow-blaze-nicotine-salt",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Rainbow Blaze nicotine salt e-liquid by Pukka Juice is a riot of juicy fruit candy flavours. The sugary sweetness is beautifully balanced with a gentle layer of menthol for a smooth, satisfying exhale. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquid Promotion",
+    "10ml Multi-Buys",
+    "BRANDS",
+    "Confectionary",
+    "Confectionery E-liquid Flavours",
+    "Default Category",
+    "E Liquid",
+    "FLAVOUR TYPE",
+    "Free5050DD",
+    "Fruit",
+    "Fruit E-liquid Flavours",
+    "Mint & Menthol E-liquid Flavours",
+    "Mint / Menthol",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Pukka Juice",
+    "VAPE TYPE",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1101222",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "PU-KA-10-RB-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-e-liquid-rainbow-blaze-nicotine-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pukka-juice-nic-salts-rainbow-blaze.jpg?v=1729038117",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.344Z"
+}

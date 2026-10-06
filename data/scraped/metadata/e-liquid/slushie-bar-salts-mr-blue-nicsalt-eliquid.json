@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639965458756",
+  "slug": "slushie-bar-salts-mr-blue-nicsalt-eliquid",
+  "title": "Slushie Bar Salts Mr Blue 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-salts-mr-blue-nicsalt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Mr Blue in the Slushie Bar Salts lineup is a deliciously sweet and satisfying e-liquid that perfectly captures the fun flavour of a blue raspberry slush. This blend combines the sweet and slightly tart notes of plump blueberries and tangy raspberries, resulting in a vibrant and exhilarating taste. Each inhale brings a burst of fruity sweetness, reminiscent of a refreshing slushie drink, ideal for satisfying those sweet cravings. The blend is more than just a simple fruit mix; it's an experience that conjures up memories of enjoying a cool, flavourful slush on a warm day. The balanced mix of blueberries and raspberries in this e-liquid offers a complex yet harmonious profile, making it an excellent choice for vapers seeking a blend that is both sweet and tangy, with an underlying slushie-inspired freshness. Slushie Bar Salts' Mr Blue is an inviting option for those who enjoy bold, fruity flavours This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the unique nicotine salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. If you enjoy this flavour, there are plenty more Slushie Bar Salts flavours to try. Few e-liquid makers have mastered the icy joys of slushy flavours quite like Slushie, a UK company who are behind an irresistible line of 50ml and 100ml shortfill and Nic Salts e-liquids that blend mouth-watering fruit flavours with healthy doses of icy menthol for an unparalleled slushy vaping experience. We’re also thrilled to stock Slushy Bar Salts: Nic Salt e-liquids that capture the intense flavour and satisfaction of your favourite disposable vape flavours in handy 10ml bottles for use with a wide variety of MTL (mouth-to-lung) vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127982",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1128014",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-salts-mr-blue-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_ns_mr_blue_1.jpg?v=1729063094",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-mr-blue-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_mr_blue.jpg?v=1729063094",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-mr-blue-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_mr_blue_1.jpg?v=1729063094",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.426Z"
+}

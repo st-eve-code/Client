@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763252347261",
+  "slug": "bar-drop-cola-ice-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Cola Ice 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-cola-ice-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Cola Ice by Drop offers the quintessential taste of a chilled soda. The inhale delivers the sugary, caramel-spice profile of traditional cola, accurate to the fizzy drink favorite. The experience is completed by a crisp blast of ice menthol on the exhale, simulating the sensation of a cold drink poured over ice cubes. This e-liquid features a 40% VG / 60% PG ratio, which enhances the \"fizz\" sensation and ensures the cola spices are sharp and distinct. Optimised for low-powered MTL (Mouth-to-Lung) devices, the nicotine salt blend offers a smooth throat hit in 5mg, 10mg, and 20mg strengths. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152613",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152650",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152692",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-cola-ice-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/cola-ice-Bar-Drop-10ml-Nic-salts.jpg?v=1768212665",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.346Z"
+}

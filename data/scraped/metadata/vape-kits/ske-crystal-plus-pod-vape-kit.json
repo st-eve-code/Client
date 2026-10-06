@@ -1,0 +1,110 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14930399658365",
+  "slug": "ske-crystal-plus-pod-vape-kit",
+  "title": "SKE Crystal Plus Prefilled Kit",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-plus-pod-vape-kit",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The SKE Crystal Plus pod kit is the perfect choice for vapers who want a convenient, pocket-sized device. Produced by the same company behind the hugely popular SKE Crystal Bar disposable vapes, this colourful, crystalline mod is designed for easy use and compatibility with Crystal Plus pre-filled pods (sold separately), which are available in a variety of SKE’s most popular flavours. The SKE Crystal Plus Mod features a 400-mAh battery for reliable all day use and can be recharged in very little time thanks to its USB-C charging (cable not incuded) . With inhale activation, you can start vaping the SKE Crystal Plus effortlessly without any complicated menus or awkward buttons to deal with. The SKE Crystal Plus Pod Kit comes with one pre-filled pod Aurora Blue/Yellow - Blue Razz Lemonade Pink - Pink Lemonade Aurora Red/Blue - Blueberry Sour Raspberry Aurora Red - Strawberry Burst Aurora Pink - Watermelon Ice Please Note: The Crystal Plus pod kit does not come with a USB-C charging cable. Shop SKE Crystal Plus Refill Pods",
+  "tags": [
+    "600 Puffs",
+    "AWARDS15",
+    "Battery-included",
+    "Blue Razz Lemonade",
+    "Crystal Plus",
+    "Kit-VS-Export",
+    "Pink Lemonade",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Flavour",
+      "position": 1,
+      "values": [
+        "Aurora Blue/Yellow + Blue Razz Lemonade",
+        "Aurora Pink + Strawberry Burst",
+        "Aurora Red/Blue + Blueberry Sour Raspberry",
+        "Aurora Red + Watermelon Ice",
+        "Pink + Pink Lemonade"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Aurora Blue/Yellow + Blue Razz Lemonade",
+      "sku": "1137716",
+      "price": 4.49
+    },
+    {
+      "title": "Aurora Pink + Strawberry Burst",
+      "sku": "1137719",
+      "price": 4.49
+    },
+    {
+      "title": "Aurora Red/Blue + Blueberry Sour Raspberry",
+      "sku": "1137718",
+      "price": 4.49
+    },
+    {
+      "title": "Aurora Red + Watermelon Ice",
+      "sku": "1137721",
+      "price": 4.49
+    },
+    {
+      "title": "Pink + Pink Lemonade",
+      "sku": "1137717",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-plus-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-crystal-plus-prefilled-pod-kit-aurora-blue-yellow-blue-razz-lemonade.jpg?v=1736269945",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-plus-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-Crystal-plus-prefilled-pod-kit-pink-pink-lemonade.jpg?v=1736270086",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-plus-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-crystal-plus-prefilled-pod-kit-aurora-red-blue-blueberry-sour-raspberry.jpg?v=1736270221",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-plus-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-crystal-plus-prefilled-pod-kit-aurora-pink-strawberry-burst.jpg?v=1736270327",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-plus-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-crystal-plus-prefilled-pod-kit-aurora-red-watermelon-ice.jpg?v=1736270396",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.091Z"
+}

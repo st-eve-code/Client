@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639431700804",
+  "slug": "vampire-vape-e-liquid-menthol-tobacco",
+  "title": "Vampire Vape Menthol Tobacco 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-e-liquid-menthol-tobacco",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Indulge in the rich and satisfying taste of your favourite Tobacco flavours with Vampire Vapes Menthol Tobacco E-Liquid 10ml, offering a perfect blend of warm, woody tobacco flavours infused with a cool and invigorating touch of menthol. On the inhale, relish the warm tobacco notes that deliver a smooth, silky throat hit. On the exhale, experience the refreshing burst of menthol that leaves you feeling revitalised. This masterful combination of flavours paired in this Vampire Vape Menthol Tobacco 10ml E-Liquid ensures that you can always enjoy the comforting and robust taste of tobacco, complemented by a satisfying and refreshing menthol kick. Add this Menthol Tobacco by Vampire vape to your collection today to discover the smoothest tobacco flavoured vape indulgence around. This 10ml Vampire Vape Menthol Tobacco E-Liquid offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. Making it the perfection option for vapers looking to enjoy the ultimate vape experience that’s delivered through a super smooth throat hit. Please Note: that the 3mg nicotine strength contains 50VG/50PG while 3mg, 6mg, 12mg & 18mg nicotine strengths contain 40VG/60PG. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits , pen-vape kits and pod kits. If you love this delicious Menthol Tobacco Vampire Vape E-Liquid 10ml, then why not check out the other equally moreish flavours from their collection. They have a multitude of delicious flavours to choose from to suit any vaper’s flavour requirements. Go ahead and try out their juicy fruit flavours, refreshing beverage , sweet bakery, confectionary and dessert flavours or even their classic Mint/Menthol and tobacco flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-MT-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-MT-06-60",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-VV-10-MT-12-60",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-e-liquid-menthol-tobacco__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-menthol-tobacco-10ml-e-liquid_1.jpg?v=1729039451",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.444Z"
+}

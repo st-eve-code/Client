@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15054547157373",
+  "slug": "the-lancashire-creamery-bread-butter-pudding-10ml-e-liquid",
+  "title": "The Lancashire Creamery Bread & Butter Pudding 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/the-lancashire-creamery-bread-butter-pudding-10ml-e-liquid",
+  "brand": "The Lancashire Creamery",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The Lancashire Creamery’s Bread & Butter Pudding captures the comforting flavours of this classic British dessert, layering golden-baked Pastry with sweet, buttery Custard and a dusting of warming Spices. The inhale delivers rich, buttery notes balanced by the soft, mellow sweetness of Custard, while a subtle hint of Spices rounds out the flavour, leaving a warm and deeply satisfying finish. This nic salt e-liquid delivers a smooth, comfortable throat hit and rapid nicotine relief, making it ideal for MTL (mouth-to-lung) vaping. The balanced 50% VG / 50% PG formula ensures a consistent flavour profile with discreet vapour production, perfect for use in pod systems, vape pens, and starter kits. Available in 5mg, 10mg, and 20mg nicotine strengths, this 10ml e-liquid provides an option for vapers who prefer a lower, moderate, or higher nicotine intake. The Lancashire Creamery is a UK-based brand dedicated to creating indulgent dessert-inspired vape juices, offering luxurious, well-balanced flavours designed to satisfy sweet-toothed vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1139477",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1139480",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139483",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-lancashire-creamery-bread-butter-pudding-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-lancashire-creamery-bread-butter-pudding-10ml-nicotine-salts.jpg?v=1741259918",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.440Z"
+}

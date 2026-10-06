@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15951509127549",
+  "slug": "direct-salts-cherry-ice-10ml-e-liquid",
+  "title": "Direct Salts Cherry Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/direct-salts-cherry-ice-10ml-e-liquid",
+  "brand": "Direct",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Direct Salts Cherry Ice 10ml Nic Salt E-Liquid captures the intense flavour of dark summer fruit alongside a distinctly frosty finish. The profile focuses on the deep, natural sweetness of rich Cherry, creating a full-bodied and juicy inhale. A crisp layer of Ice then washes over the palate on the exhale, providing a clean and refreshing contrast. This pairing provides a deeply satisfying and consistently brisk flavour experience. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Direct Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Direct Salts collection offers vapers a dependable range of premium fruit, ice, and confectionery profiles. Providing a highly cost-effective and flexible option, this 10ml range covers a wide variety of tastes. Beyond the bold chill of Cherry Ice, vapers can explore other compelling options such as the complex Strawberry Raspberry Cherry, the sweet Gummy Bear, or the sharp Blueberry Sour Raspberry.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Direct Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1158383",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158398",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__direct-salts-cherry-ice-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Ice-Direct-Salts-10ml-nic-salts-10mg.jpg?v=1783435995",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__direct-salts-cherry-ice-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Ice-Direct-Salts-10ml-nic-salts-20mg.jpg?v=1783436043",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.460Z"
+}

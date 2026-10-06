@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15244567839101",
+  "slug": "double-drip-cherry-ice-nic-salt-10ml-e-liquid",
+  "title": "Double Drip Cherry Ice Nic Salt 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-cherry-ice-nic-salt-10ml-e-liquid",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Double Drip Cherry Ice combines the bold, juicy flavour of ripe Cherry with a clean, cooling Menthol finish. The Cherry brings a rich, red-fruit sweetness with just a hint of tang, while the icy exhale adds freshness and balance to the overall profile. It’s a vibrant and satisfying vape that delivers a classic fruit-and-ice combination with clarity and depth. Formulated with nicotine salts for a smoother inhale and faster nicotine delivery, this e-liquid is blended at a 50VG/50PG ratio for optimum flavour and performance in MTL (mouth-to-lung) devices. It’s ideal for use with pod systems , refillable vapes , starter vape kits and other compact kits designed for lower-power vaping. Available in 10mg and 20mg nicotine strengths, Double Drip Nic Salts are available in a wide range of bold and satisfying flavour profiles to suit everyday vaping. Double Drip are one of the most celebrated and influential e-liquid brands in the UK and the masterminds of some of the most iconic vape flavours ever made. Vibrant, authentic, and highly inventive flavours are a hallmark of all Double Drip vape juices, and this newest collection of truly timeless flavours in smooth, satisfying nic salts won’t disappoint.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquid",
+    "Cherry Ice",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140628",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140637",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-cherry-ice-nic-salt-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Cherry-Ice-Nic-Salt-10mg.jpg?v=1753720060",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__double-drip-cherry-ice-nic-salt-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Cherry-Ice-Nic-Salt-20mg.jpg?v=1753720064",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.474Z"
+}

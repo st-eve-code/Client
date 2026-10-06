@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763267846525",
+  "slug": "bar-drop-fresh-mint-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Fresh Mint 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-fresh-mint-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Fresh Mint by Drop is a clean and botanical palate cleanser. It offers the authentic taste of garden mint, providing a green, leafy sweetness that is refreshingly simple. A subtle cooling menthol undertone enhances the herbal notes, creating a breezy and crisp vaping experience perfect for all-day use. This e-liquid features a 40% VG / 60% PG ratio, which ensures the crispness of the mint leaf flavour is preserved without being muted by excess thickener. Ideally suited for low-wattage MTL (Mouth-to-Lung) kits, the nicotine salt blend delivers a smooth, satisfying hit in 5mg, 10mg, or 20mg strengths. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152617",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152677",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152695",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-fresh-mint-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fresh-Mint-Bar-Drop-10ml-Nic-salts.jpg?v=1768294894",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.473Z"
+}

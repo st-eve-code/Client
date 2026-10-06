@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639541670212",
+  "slug": "pukka-juice-blue-pear-ice-50-50-e-liquid",
+  "title": "Pukka Juice Blue Pear Ice 10ml 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-blue-pear-ice-50-50-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice Blackcurrant Blue Pear Ice is bursting with sweet, jammy blueberry flavour, laced with smooth, mellow pear and layers of crushed ice for sublime refreshment. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio allows for a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquid Promotion",
+    "10ml Multi-Buys",
+    "50/50 E-Liquid",
+    "BRANDS",
+    "Default Category",
+    "E Liquid",
+    "E-Liquid 50pg 50vg",
+    "E-Liquid Bundles",
+    "FLAVOUR TYPE",
+    "Free5050DD",
+    "Fruit",
+    "Fruit E-liquid Flavours",
+    "Mint & Menthol E-liquid Flavours",
+    "Mint / Menthol",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "NEW IN",
+    "prime-1020",
+    "Pukka Juice",
+    "VAPE TYPE",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "PJ-10-BPI-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "PJ-10-BPI-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "PJ-10-BPI-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-blue-pear-ice-50-50-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pukka-juice-5050_94fba10e-cfaa-4217-8727-1ed37721fcba.jpg?v=1729041996",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.425Z"
+}

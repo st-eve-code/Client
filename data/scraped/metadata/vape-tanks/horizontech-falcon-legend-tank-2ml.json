@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639815872836",
+  "slug": "horizontech-falcon-legend-tank-2ml",
+  "title": "HorizonTech Falcon Legend Vape Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/horizontech-falcon-legend-tank-2ml",
+  "brand": "HorizonTech",
+  "productType": "Tanks",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The HorizonTech Falcon Legend Tank is the ultimate sub ohm vaping experience from HorizonTech. Built on the success of the hugely popular Falcon and Falcon 2 tanks, this precision-engineered tank takes sub-ohm vaping to the next level. Compatible with both HorizonTech M and F series coils from the original Falcon tanks, the Falcon Legend provides exceptional flavour and vapour production. With an improved airflow design, you can enjoy even denser clouds and more intense flavour. The tank comes equipped with newly added M8 and M6 coils, which boast a durable bamboo pulp cotton blend for extended coil life. They easily screw into the tank to prevent leaks, and with a convenient one-click spring-Loaded top-filling design, refilling your Falcon Legend has never been easier. Whether you're a flavour chaser or a cloud chaser, the Falcon Legend has got you covered. With a wide selection of coils to choose from, you can customize your vaping experience to get the most out of your favourite vape juice. Get ready to experience sub ohm vaping like never before with the HorizonTech Falcon Legend Tank. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Blue",
+        "Gunmetal",
+        "Rainbow",
+        "Stainless Steel"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1123777",
+      "price": 24.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1123781",
+      "price": 24.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1123780",
+      "price": 24.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "1123782",
+      "price": 24.99
+    },
+    {
+      "title": "Stainless Steel",
+      "sku": "1123776",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__horizontech-falcon-legend-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_legend_tank_black_1.jpg?v=1729054108",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-legend-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_legend_tank_black.jpg?v=1729054108",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-legend-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_legend_tank_blue.jpg?v=1729054108",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-legend-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_legend_tank_gunmetal.jpg?v=1729054108",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-legend-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_legend_tank_rainbow.jpg?v=1729054108",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-legend-tank-2ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_legend_tank_stainless_steel.jpg?v=1729054109",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

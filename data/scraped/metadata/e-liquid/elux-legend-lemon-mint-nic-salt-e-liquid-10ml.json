@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14882355708285",
+  "slug": "elux-legend-lemon-mint-nic-salt-e-liquid-10ml",
+  "title": "Elux Legend Lemon Mint Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-lemon-mint-nic-salt-e-liquid-10ml",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Legend's Lemon Mint Nic Salt delivers the perfect balance of zesty citrus and invigorating minty freshness. The tangy, bright notes of Lemon are paired with a cooling burst of Mint, creating a smooth and refreshing vape that’s ideal for fans of sharp, clean flavour profiles. Elux Legend Nic Salts are double-concentrated to replicate the bold, intense flavours of Elux’s bestselling disposable vapes. With a smooth nicotine salt formula, these e-liquids provide near-instant nicotine relief with minimal throat irritation, making them ideal for vapers seeking an effective and flavoursome experience. Blended with a 50VG/50PG ratio, Lemon Mint Nic Salt is perfect for use with Mouth-to-Lung (MTL) devices and refillable pod systems. Available in 10mg and 20mg strengths, this e-liquid is designed to deliver vibrant flavour and smooth satisfaction for adult smokers and vapers alike.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1137364",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137373",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-lemon-mint-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elux-Legend-Nic-Salt-10ml-LEMON-MINT.jpg?v=1733404483",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.397Z"
+}

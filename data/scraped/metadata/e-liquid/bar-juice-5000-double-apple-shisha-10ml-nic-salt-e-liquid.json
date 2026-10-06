@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15681733788029",
+  "slug": "bar-juice-5000-double-apple-shisha-10ml-nic-salt-e-liquid",
+  "title": "Bar Juice 5000 Double Apple Shisha 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-juice-5000-double-apple-shisha-10ml-nic-salt-e-liquid",
+  "brand": "Bar Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Double Apple Shisha from Bar Juice 5000 delivers a classic blend inspired by well-loved shisha-style flavours. Sweet Red Apple forms the base with its rounded, fruity warmth, while crisp Green Apple adds a brighter, tangier edge. A hint of gentle spice gives the mix extra depth, finishing with a clean layer of Ice for a refreshing exhale. Formulated with nicotine salts, this e-liquid provides quick nicotine absorption and a comfortable throat feel, ideal for MTL (mouth-to-lung) kits such as refillable vape kits and vape starter kits . Available in 5mg, 10mg and 20mg strengths, it caters to different vaping preferences. Made in the UK and blended at 50PG/50VG, Bar Juice 5000 Nic Salts showcase concentrated flavour with discreet vapour production, perfect for fruit-led profiles with a chilled finish.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149955",
+      "price": 3.49
+    },
+    {
+      "title": "10mg",
+      "sku": "1149960",
+      "price": 3.49
+    },
+    {
+      "title": "20mg",
+      "sku": "1149965",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-juice-5000-double-apple-shisha-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Apple-Shisha-5mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763638970",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-juice-5000-double-apple-shisha-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Apple-Shisha-10mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763639118",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-juice-5000-double-apple-shisha-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Apple-Shisha-20mg-Bar-Juice-5000-10ml-Nic-Salts.jpg?v=1763639287",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.427Z"
+}

@@ -1,0 +1,127 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15372473368957",
+  "slug": "freemax-rexa-s-pod-vape-kit",
+  "title": "Freemax Rexa S Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/freemax-rexa-s-pod-vape-kit",
+  "brand": "Freemax",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 13.99,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "The Freemax Rexa S is a feature-rich pod vape kit that brings customisation and performance to the Rexa platform. Designed for both mouth-to-lung (MTL) and restricted direct-lung (RDL) vaping, this stylish device delivers up to 30W of adjustable power from a built-in 1300mAh battery. The Rexa S includes a 0.6ohm Duomax Pod, powered by Freemax’s signature mesh coil and tea fibre cotton technology. This coil structure is designed to deliver up to 100ml of Freebase or 60ml of Nic Salt e-liquid with consistent flavour across each refill. A secure slide-to-fill top port keeps the pod sealed and mess-free, while the side airflow slider lets you tailor the draw to your preference. Unique to the Rexa S is a hidden HD display that blends seamlessly into the device. When activated, it reveals clear wattage and battery information without disrupting the clean exterior. A nano-coated internal layout enhances leak resistance, making this an ideal option for vapers who want smart performance in a sleek, compact format. Please Note: When filling your pod with vape liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1141860",
+    "compatible-with-1141861",
+    "compatible-with-1141862",
+    "compatible-with-1141863",
+    "compatible-with-1141864",
+    "compatible-with-1141865",
+    "compatible-with-1141866",
+    "Exclude",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "PIXL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Cyan",
+        "Blue",
+        "Olive Green",
+        "Red",
+        "Champagne",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Cyan",
+      "sku": "1141832",
+      "price": 13.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1141830",
+      "price": 13.99
+    },
+    {
+      "title": "Olive Green",
+      "sku": "1141831",
+      "price": 13.99
+    },
+    {
+      "title": "Red",
+      "sku": "1141833",
+      "price": 13.99
+    },
+    {
+      "title": "Champagne",
+      "sku": "1141829",
+      "price": 13.99
+    },
+    {
+      "title": "Black",
+      "sku": "1141828",
+      "price": 13.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-rexa-s-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-s-cyan-800x800.jpg?v=1752489024",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-s-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-s-black-800x800.jpg?v=1752489024",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-s-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-s-champagne-800x800.jpg?v=1752489024",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-s-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-s-blue-800x800.jpg?v=1752489024",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-s-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-s-olive-green-800x800.jpg?v=1752489024",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-rexa-s-pod-vape-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-rexa-s-red-800x800.jpg?v=1752489000",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.070Z"
+}

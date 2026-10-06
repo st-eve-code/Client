@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639337951556",
+  "slug": "s1-baby-v2-coils-3-pack-0-15ohm-by-smok",
+  "title": "SMOK S1 Baby V2 Single Mesh Sub Ohm Coils 0.15 Ohm",
+  "url": "https://www.vapestore.co.uk/products/s1-baby-v2-coils-3-pack-0-15ohm-by-smok",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "Specially designed for use with the Smok Stick series, these premium quality coils provide intense flavour and billowing clouds of vapour when used with low wattage settings. The innovative mesh design of these coils allows for close contact with the core, which makes for less steeping time, more flavour and a longer overall lifespan. Because of the S1’s single coil configuration, they consume significantly less power than coils with multiple configurations meaning you can vape with less output power and in turn enjoy extended battery life. The Smok S1 Baby coils are suitable for use between 40 and 80 watts but perform best when used between 60 and 70 watts. At Vapestore we stock a large range of SMOK Products, including Smok E-cigarettes , Smok Tanks , Mods , Smok Coils and New Vape kits",
+  "tags": [
+    "compatible-with-215333",
+    "compatible-with-602766",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-CO-BA-V2-S1-015",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__s1-baby-v2-coils-3-pack-0-15ohm-by-smok__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-s1-baby-v2-single-mesh-sub-ohm-0-15_b16c1c46-be95-472d-8d84-1d28f51cd5d5.jpg?v=1729035240",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.870Z"
+}

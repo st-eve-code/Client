@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15278975910269",
+  "slug": "vampire-vape-tropical-passionfruit-splash-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape Tropical Passionfruit Splash E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-tropical-passionfruit-splash-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Passionfruit Splash 50ml Shortfill from Vampire Vape’s Tropical collection blends the rich tang of Curuba with tropical Passionfruit and smooth Banana. Curuba introduces a bright, slightly sour top note with subtle peachy undertones, while Passionfruit layers in a vibrant sweetness and acidity. Banana mellows the mix with its creamy base, bringing balance to the fruit-forward blend. This shortfill is blended at 70VG/30PG for direct-to-lung (DTL) vaping with sub-ohm kits. Add a 10ml nicotine shot to tailor the strength to your preference. Vampire Vape e-liquids are made in the UK and renowned for their bold, flavour-rich recipes. The Tropical collection is an exotic twist on their award-winning lineup. Also available in Nic Salt, Freebase and Concentrate formats.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "VV Tropical"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141166",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-tropical-passionfruit-splash-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-Tropical-Collection-Passionfruit-Splash-50ml-Shortfills.jpg?v=1749542382",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.518Z"
+}

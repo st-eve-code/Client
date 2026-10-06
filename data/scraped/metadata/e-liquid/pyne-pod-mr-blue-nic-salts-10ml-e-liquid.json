@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15950015562109",
+  "slug": "pyne-pod-mr-blue-nic-salts-10ml-e-liquid",
+  "title": "Pyne Pod Mr Blue Nic Salts 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-mr-blue-nic-salts-10ml-e-liquid",
+  "brand": "Pyne Pod",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pyne Pod NicSalts Mr. Blue 10ml E-Liquid delivers a sophisticated and deeply satisfying berry fusion. The profile creates a complex foundation with a medley of rich Blue Raspberries, earthy Blackberries, and sweet Blueberries. This varied fruit combination provides a bright, succulent inhale, which is then flawlessly balanced by a subtle, cooling Menthol exhale. The result is a consistent and nuanced vape that offers a refreshing clarity without being overly icy. Available in 5mg, 10mg, and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Pyne Pod Nic Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Pyne Pod Nic Salts collection translates the intense, highly popular flavours of their renowned prefilled pods into a versatile 10ml format. Offering a more cost-effective and flexible alternative, the range covers a wide variety of tastes. Beyond the complex berry notes of Mr. Blue, vapers can explore other irresistible blends such as the sweet nostalgia of Blue Razz GB, the refreshing Cola Lime, or the tangy Blackberry Blackcurrant.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pyen Pod Nic Salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1158009",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1158033",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158054",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-mr-blue-nic-salts-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mr-Blue-Pyne-Pod-10ml-Nic-Salts.jpg?v=1783332405",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.353Z"
+}

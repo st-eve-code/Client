@@ -1,0 +1,125 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639741456708",
+  "slug": "geekvape-e100-replacement-pods-2ml",
+  "title": "Geekvape E100 Replacement Pod Tank 2ml - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/geekvape-e100-replacement-pods-2ml",
+  "brand": "Geekvape",
+  "productType": "Tanks",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "These replacement GeekVape E100 Pod Tanks from GeekVape are specially designed for use with the GeekVape Aegis Eteno mod and features a 2ml e-liquid capacity and a unique top-fill mechanism that all but eliminate leaks. The E100 Pod attaches to the Aegis Eteno with secure magnet but can easily be turned into a tank compatible with any other mod with a 510-connection and a 510 adaptor (sold separately) The GeekVape E100 Pod is compatible with GeekVape’s P series coils: precision-engineered mesh coils that deliver outstanding flavour and rich, dense clouds in a variety of resistances suitable for DTL (direct-to-lung) vaping. The pods are available in six eye-catching colours, so you can choose a pod that matches the style of your Aegis Eteno mod or mix and match colours to find your own style. The GeekVape E100 (Aegis Eteno) 100W Vape kit is a rugged and durable, high-powered vape device built for incredible DTL (direct-to-lung) sub-ohm vaping while still being compact and easy to travel with.",
+  "tags": [
+    "compatible-with-1119532",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Blue",
+        "Gold",
+        "Gunmetal",
+        "Rainbow",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1119538",
+      "price": 12.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1119541",
+      "price": 12.99
+    },
+    {
+      "title": "Gold",
+      "sku": "1119540",
+      "price": 12.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1119542",
+      "price": 12.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "1119543",
+      "price": 12.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1119539",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-e100-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-e100-rainbow_1.jpg?v=1729048995",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-e100-replacement-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-e100-pod-black.jpg?v=1729048995",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-e100-replacement-pods-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-e100-pod-blue.jpg?v=1729048995",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-e100-replacement-pods-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-e100-golden.jpg?v=1729048995",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-e100-replacement-pods-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-e100-pod-gunmetal.jpg?v=1729048995",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-e100-replacement-pods-2ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-e100-rainbow.jpg?v=1729048995",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-e100-replacement-pods-2ml__007.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-e100-replacement-pod-silver-2-pack.png?v=1729048995",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

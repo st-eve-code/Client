@@ -1,0 +1,119 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15501739393405",
+  "slug": "oxva-slim-stick-prefilled-pod-kits",
+  "title": "Oxva Slim Stick Prefilled Pod Kit",
+  "url": "https://www.vapestore.co.uk/products/oxva-slim-stick-prefilled-pod-kits",
+  "brand": "Oxva",
+  "productType": "Prefilled Pod Kits",
+  "price": {
+    "min": 7.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "The Oxva Slim Stick Prefilled Pod Kit combines a slim, portable design with the practicality of prefilled pods, making it a straightforward choice for everyday vaping. Its button-free operation and compact build keep things simple, while a strong 1500mAh battery provides reliable power throughout the day. The Slim Stick delivers a mouth-to-lung draw that feels smooth, yet satisfying and tactile, with inhale activation meaning you only need to puff to start vaping. A discreet LED indicator and gentle vibration feedback keep you informed of battery status without fuss, and recharging via USB-C takes under two hours (cable sold separately). Each kit includes a 2ml pod filled with 20mg nicotine salt e-liquid, offering up to 600 puffs. Once finished, the pod is replaced in seconds with a fresh cartridge — no refilling, coil changes or maintenance required. Replacement Oxva Slim Stick refill pods are also available separately, giving you the flexibility to continue vaping your favourite flavours conveniently and hassle-free. OXVA Slim Stick Prefilled Pod Kit Flavours • Kiwi Passion Fruit Tart Kiwi balanced with sweet Passion Fruit. • Watermelon Fresh, delicately sweet Watermelon. • Blueberry Rounded, juicy Blueberry. • Lychee Ice Sweet Lychee sharpened by a cool icy lift. • Lemon Lime Bright Lemon with a sharp Lime twist. • Mint Clean, refreshing Mint blend. With a wide flavour range, quick charging and a fuss-free design, the Oxva Slim Stick is well suited to vapers who want an uncomplicated yet satisfying pod kit they can rely on. Shop OXVA Slim Stick Refill Pods",
+  "tags": [
+    "600 Puffs",
+    "Kit-VS-Export",
+    "Lemon and Lime",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Flavour",
+      "position": 1,
+      "values": [
+        "Kiwi Passionfruit",
+        "Watermelon",
+        "Blueberry",
+        "Lychee Ice",
+        "Lemon Lime",
+        "Mint"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Kiwi Passionfruit",
+      "sku": "1144054",
+      "price": 7.49
+    },
+    {
+      "title": "Watermelon",
+      "sku": "1144055",
+      "price": 7.49
+    },
+    {
+      "title": "Blueberry",
+      "sku": "1144056",
+      "price": 7.49
+    },
+    {
+      "title": "Lychee Ice",
+      "sku": "1144057",
+      "price": 7.49
+    },
+    {
+      "title": "Lemon Lime",
+      "sku": "1144058",
+      "price": 7.49
+    },
+    {
+      "title": "Mint",
+      "sku": "1144059",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-slim-stick-prefilled-pod-kits__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-kit---black-and-kiwi-passionfruit_c9154092-44ca-4bc1-9eb2-e66989086c4e.jpg?v=1757512239",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-slim-stick-prefilled-pod-kits__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-kit---pink-and-watermelon_d37bffcc-386f-416c-a7f2-d08c79faca37.jpg?v=1757512250",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-slim-stick-prefilled-pod-kits__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-kit---blue-and-blueberry_32d22882-f610-4f11-9f35-df9e2f116a38.jpg?v=1757512264",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-slim-stick-prefilled-pod-kits__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-kit---gold-and-lychee-ice_0681e782-5102-4d4b-a6cc-8aa47af3f3b1.jpg?v=1757512285",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-slim-stick-prefilled-pod-kits__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-kit---purple-and-lemon-lime_cd2a9978-7ffa-46f1-8e68-2dbde856093e.jpg?v=1757512299",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-slim-stick-prefilled-pod-kits__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-kit---gray-and-mint_aeab3af6-cc7c-4470-bdd5-d538b0d394b7.jpg?v=1757512310",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.476Z"
+}

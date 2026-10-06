@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639811252548",
+  "slug": "elf-bar-elfliq-rhubarb-snoow-nicsalt-eliquid",
+  "title": "Elf Bar ElfLiq Rhubarb Snoow 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfliq-rhubarb-snoow-nicsalt-eliquid",
+  "brand": "Elf Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Rhubarb Snoow from ElfLiq is a deliciously nostalgic candy flavour that reimagines the classic Rhubarb & Custard boiled sweets for vaping. You get the bold, sharp, bittersweet tang of ripe Rhubarb on the inhale which softens delightfully into the smooth, creamy Vanilla Custard base. This perfectly balanced blend of flavours is a must-try for fans of iconic sweetshop treats. ElfLiq e-liquids are Elf Bar’s most iconic flavours in 10ml bottles of nicotine salt e-liquid. ElfLiq juices produce a discreet amount of flavour-rich vapour with a smooth, comfortable throat hit, and provide rapid relief from nicotine cravings. ElfLiq nicotine salt e-liquids are available in 10mg or 20mg nicotine strength and are ideal for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production, and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than traditional high-strength, high-PG freebase liquids are capable of. Also, with nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings! These 10ml e-liquids can be used in starter kits and pod kits and they allow you to enjoy your favourite flavours for far longer than a 2ml disposable vape device, all while reducing plastic waste. And because they share the same nicotine salt formulation as their disposable cousins, ElfLiq Nic Salts deliver all the satisfying relief from nicotine cravings along with a super-smooth throat hit for comfortable, effective and enjoyable all-day vaping.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1126050",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1126059",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfliq-rhubarb-snoow-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-rhubarb-snoow-10mg.jpg?v=1776353106",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-bar-elfliq-rhubarb-snoow-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfliq-rhubarb-snoow-20mg.jpg?v=1776353270",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.592Z"
+}

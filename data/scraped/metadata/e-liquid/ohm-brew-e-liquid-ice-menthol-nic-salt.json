@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639391461700",
+  "slug": "ohm-brew-e-liquid-ice-menthol-nic-salt",
+  "title": "Ohm Brew Ice Menthol 50/50 Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ohm-brew-e-liquid-ice-menthol-nic-salt",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Ohm Brew’s Iced Menthol is for menthol lovers who crave a touch of sweetness. The invigorating menthol blast is tempered to wonderful effect by a subtle peppermint candy note that makes this a beautifully rounded, and refreshing, menthol vape. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "EV-OB-NS-IM-06-50",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "EV-OB-NS-IM-12-50",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-brew-e-liquid-ice-menthol-nic-salt__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ice-menthol-18mg.png?v=1729037800",
+      "position": 1,
+      "width": 656,
+      "height": 656,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.449Z"
+}

@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15792545497469",
+  "slug": "ohm-brew-double-brew-strawberry-banana-10ml-nic-salt-e-liquid",
+  "title": "Ohm Brew Double Brew Strawberry Banana 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ohm-brew-double-brew-strawberry-banana-10ml-nic-salt-e-liquid",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Ohm Brew Double Brew Strawberry Banana captures the essence of a freshly blended smoothie. The sweetness of garden-fresh Strawberry hits the palate first, juicy and bright. This is seamlessly folded into the rich, creamy texture of Ripe Banana on the exhale, creating a velvety and comforting fruit vape that is consistently smooth. Formulated with a balanced 50% VG / 50% PG ratio, this e-liquid is versatile enough for both MTL (Mouth-to-Lung) and RDL (Restricted Direct-to-Lung) vaping. It pairs perfectly with coils ranging from 1.2ohm to 0.6ohm, ensuring consistent flavour and vapour production. The nicotine salt formula ensures a smooth throat hit and rapid satisfaction. Double Brew by the renowned UK mixologists Ohm Brew is a collection of double-concentrated nicotine salts designed to deliver maximum flavour intensity. Known as \"bar salts,\" these e-liquids are formulated with twice the flavour concentrate of standard blends, offering an intensely bold and vivid taste profile. Available in 5mg, 10mg, and 20mg strengths, Double Brew provides a smooth and satisfying vape experience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Ohm Brew Double Brew",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153283",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153241",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153263",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-brew-double-brew-strawberry-banana-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Banana-Ohm-Brew-Double-Brew-10ml-Nic-Salts-5mg.jpg?v=1770376411",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ohm-brew-double-brew-strawberry-banana-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Banana-Ohm-Brew-Double-Brew-10ml-Nic-Salts-10mg.jpg?v=1770376839",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ohm-brew-double-brew-strawberry-banana-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Banana-Ohm-Brew-Double-Brew-10ml-Nic-Salts-20mg.jpg?v=1770376977",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.494Z"
+}

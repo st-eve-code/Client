@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639278936388",
+  "slug": "blood-sukka-e-liquid-by-vampire-vape",
+  "title": "Vampire Vape Blood Sukka E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/blood-sukka-e-liquid-by-vampire-vape",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Unleash your cravings and embrace your inner vampire with each delectable draw of this Blood Sukka by Vampire Vape. Offering an explosion of delectable fruity flavours to surprise and delight your taste buds. With each refreshing draw, you can indulge in a burst of juicy cherries, succulent berries, and a medley of red fruits. Paired with sweet eucalyptus, aniseed for a full-bodied throat hit, and a refreshing touch of frosty menthol. Which adds layers of complexity and a cool, refreshing sensation to your vaping experience. So if you’re looking to get your Vamp on this is an E-Liquid sensation you don’t want to miss out on. Each bottle of thi s Blood Sukka Vampire Vape E-Liquid o ffers a balanced blend of PG (Propylene Glycol) and VG (Vegetable Glycerin). Ensuring that it can deliver maximum flavour and satisfying clouds. Please note: that the specific PG/VG ratio varies depending on the nicotine strength in each bottle of nicotine E Liquid. For the 3 mg nicotine strength, the E-Liquid has a 50VG/50PG ratio. Whilst the 0mg, 6mg, 12mg, and 18mg nicotine strengths contain a 40VG/60PG ratio. Blood Sukka by Vampire Vape i s a versatile blend that can be used with most vape devices to deliver a satisfying vaping experience. Making it ideal for use with low-powered starter kits, pen-vape kits, and pod kits. If you love this 10ml bottle of Vampire Vape juice, why not explore their other equally delicious popular flavours. Their iconic E-Liquid collection offers a broad range to choose from to suit a variety of vaping needs. So whether you're looking for your next seriously smooth nicotine salt Vampire Vape Nic Salt for a perfectly smooth throat hit. Or inspired to make your own vape juice blends with their Vampire Vape Flavour Concentrates. You're sure to find a vape juice flavour and type that suits your vaping needs.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "661142",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "661159",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "661166",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "661173",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__blood-sukka-e-liquid-by-vampire-vape__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire_vape_blood_sukka_e-liquid_10ml_1.jpg?v=1729032681",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__blood-sukka-e-liquid-by-vampire-vape__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/661142_vampirevape_10ml_bloodsukka_03_001.jpg?v=1729032681",
+      "position": 2,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.434Z"
+}

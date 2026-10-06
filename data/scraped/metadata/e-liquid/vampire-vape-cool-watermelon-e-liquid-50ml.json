@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639436190020",
+  "slug": "vampire-vape-cool-watermelon-e-liquid-50ml",
+  "title": "Vampire Vape Koncept Cool Watermelon E-Liquid ShortFill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-cool-watermelon-e-liquid-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Cool Watermelon from Vampire Vape’s Koncept collection lets vapers carry summer with them wherever they go, thanks to this eliquid’s incredibly refreshing, intense and juicy watermelon base. The luscious melon flavour carries a delightfully cool note on the exhale that simply has to be experienced to be appreciated. These short fill bottles contain 50ml of nicotine-free liquid, with 10ml of extra space within the bottle to accommodate your nicotine shot of choice. This allows you to create a liquid with your own desired nicotine strength. Typically, adding a 10ml nicotine shot to a 50ml short fill will give you 60ml of 3mg e-liquid. Once you have added your preferred amount of nicotine, make sure you shake the contents of the short fill bottle well.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Vampire Vape Koncept"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VV-VV-50-KC-CW-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-cool-watermelon-e-liquid-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/koncept-xix-by-vampire-vape-cool-watermelon-e-liquid-50ml-shortfill.jpg?v=1729039563",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.529Z"
+}

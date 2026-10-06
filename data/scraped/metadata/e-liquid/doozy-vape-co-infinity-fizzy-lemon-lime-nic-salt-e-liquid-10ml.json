@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15454397825405",
+  "slug": "doozy-vape-co-infinity-fizzy-lemon-lime-nic-salt-e-liquid-10ml",
+  "title": "Doozy Vape Co Infinity Fizzy lemon Lime Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-fizzy-lemon-lime-nic-salt-e-liquid-10ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Fizzy Lemon Lime by Doozy Infinity captures the sharp tang of fresh citrus with a lively, effervescent twist. Bright Lemon offers a sweet-sharp citrus base, balanced by the vibrant juiciness of Lime for a layered flavour that zings across the tastebuds. A fizzy finish rounds it all off, giving this unique blend a sparkle that lingers delightfully between draws. Formulated with nicotine salts, this e-liquid provides rapid satisfaction with a smooth, mellow inhale. Blended at a 50VG/50PG ratio, it’s well suited to low-powered MTL (mouth-to-lung) devices such as pod kits , pens , and compact refillable vapes . Available in 5mg, 10mg and 20mg strengths, the Doozy Infinity Nic Salt range offers imaginative flavour profiles with clean finishes and consistent satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Infinity",
+    "Lemon and Lime",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1144389",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1144376",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1144383",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-fizzy-lemon-lime-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fizzy-Lemon-LimeDoozy-Infinity-Salts-10ml.jpg?v=1754919722",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.476Z"
+}

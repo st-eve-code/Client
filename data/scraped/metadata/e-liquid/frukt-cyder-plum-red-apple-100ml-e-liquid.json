@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639382090052",
+  "slug": "frukt-cyder-plum-red-apple-100ml-e-liquid",
+  "title": "Frukt Cyder Plum & Red Apple 100ml E-liquid",
+  "url": "https://www.vapestore.co.uk/products/frukt-cyder-plum-red-apple-100ml-e-liquid",
+  "brand": "Frukt Cyder",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "A blend of classic English orchard fruits, this sparkling cider base carries luscious red apples and the mellow sweetness of ripe plums for an all-day vape that’s as comforting as it is refreshing. This convenient 100ml nicotine-free shortfill bottle comes with 20ml of free space for the addition of a nicotine shot to tailor your vape to your liking. Its 70VG/30PG ratio makes it ideal for high-powered sub-ohm tanks and mods.",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "PH-FC-RA-00-VG",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__frukt-cyder-plum-red-apple-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/frukt_plum_red_apple.jpg?v=1729037409",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.639Z"
+}

@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639446348100",
+  "slug": "phoenix-tears-zeus-eliquid-10ml",
+  "title": "Zeus Juice Phoenix Tears E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/phoenix-tears-zeus-eliquid-10ml",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Clean, crisp and refreshing, Phoenix Tears by Zeus is a bracing breeze in e-liquid form from Zeus. The cooling menthol base is enhanced further with an invigorating layer of sweet peppermint and a zesty note of lemon on the exhale. This liquids 70% VG 30% PG ratio makes it ideal for high-powered pod kits , vape mod kits and sub-ohm tanks .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DTL",
+    "High VG E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "ZS-ZS-10-PHT-70-30-03-SO",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "ZS-ZS-10-PHT-70-30-06-SO",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__phoenix-tears-zeus-eliquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-phoenix-tears-e-liquid-10ml.jpg?v=1729040021",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.629Z"
+}

@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639659012420",
+  "slug": "pinkman-flavour-concentrate-vampire-vape-10ml",
+  "title": "Vampire Vape Pinkman Flavour Concentrate 10ml",
+  "url": "https://www.vapestore.co.uk/products/pinkman-flavour-concentrate-vampire-vape-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman is one of the most recognisable profiles in the industry, now available in a 10ml flavour concentrate for DIY e-liquid creation. This legendary blend is anchored by a vibrant base of sweet Red Berries, where the familiar, juicy notes of Strawberry and Raspberry provide a consistent and naturally sweet foundation. The experience is defined by the inclusion of zesty Citrus and Tropical Fruit hints. These subtle, tangy undertones balance the sweetness of the berry mix to create a layered and complex profile that remains refreshing. By using this concentrate, you can recreate the authentic Pinkman taste while maintaining complete control over your final e-liquid's character. This 10ml bottle contains 100% PG-suspended flavour concentrate and is not ready to vape. To create your finished e-liquid, it must be diluted with a VG/PG base mix and nicotine shots if required. For the most balanced results, we recommend a mix ratio of 15-20% depending on your preferred flavour intensity. This high-quality UK-made concentrate is an essential ingredient for any mixer looking to craft a personalised version of this award-winning fruit blend.",
+  "tags": [
+    "Flavour Concentrate",
+    "pricebreak"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1086423",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pinkman-flavour-concentrate-vampire-vape-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-flavour-concentrate-10ml.jpg?v=1729046450",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.508Z"
+}

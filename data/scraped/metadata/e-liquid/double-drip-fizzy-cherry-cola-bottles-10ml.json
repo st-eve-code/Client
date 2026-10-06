@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639342637380",
+  "slug": "double-drip-fizzy-cherry-cola-bottles-10ml",
+  "title": "Double Drip Fizzy Cherry Cola Bottles E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/double-drip-fizzy-cherry-cola-bottles-10ml",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The flavour connoisseurs at Double Drip bring you our ultra-delicious candy-coated concoction in a handy 10ml bottle! Fizzy Cherry Cola Bottles is alive with tangy notes of ripe cherry and ever-so-slightly spiced cola, made even sweeter with a liberal dusting of sparkling sherbet sugar crystals. You’ll also notice subtle hints of cinnamon, cloves and nutmeg on the exhale, giving this vape a wonderfully-warming sensation as well as being vibrant, refreshing and super-sweet. So fill your paper bag with generous handfuls of Fizzy Cherry Cola Bottles before the sweetie jar is empty! Double Drip Coil Sauce E-Liquid is a high-quality vape juice brand proudly manufactured right here in the United Kingdom. Browse the entire Double Drip range and find the perfect juice for your e-cigarette setup. Double Drip is available in a variety of formulations to suit a range of kits, including sub ohm (high-VG), 50/50 e-liquid , nicotine salt vape juice , and 50ml shortfills for use with starter vape kits , high-powered e cig kits, compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "DTL",
+    "High VG E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "DD-FZ-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "DD-FZ-06",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-fizzy-cherry-cola-bottles-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-drip-fizzy-cherry-cola-bottles-eliquid-10ml.jpg?v=1729035497",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__double-drip-fizzy-cherry-cola-bottles-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-drip-fizzy-cherry-cola-bottles-eliquid-10ml_1.jpg?v=1729035497",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__double-drip-fizzy-cherry-cola-bottles-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-drip-fizzy-cherry-cola-bottles-eliquid-10ml_2.jpg?v=1729035497",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.382Z"
+}

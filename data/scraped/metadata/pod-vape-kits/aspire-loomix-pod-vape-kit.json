@@ -1,0 +1,107 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15883665047933",
+  "slug": "aspire-loomix-pod-vape-kit",
+  "title": "Aspire Loomix Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/aspire-loomix-pod-vape-kit",
+  "brand": "Aspire",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 17.99,
+    "max": 17.99,
+    "currency": "GBP"
+  },
+  "description": "Discover a truly premium vaping experience with the Aspire Loomix Pod Kit. Crafted from a highly durable zinc alloy, this sophisticated device houses an impressive 1500mAh built-in battery to effectively support extended, all-day vaping sessions. When a recharge is required, the 2A Type-C fast charging capability ensures minimal downtime, getting your device back to full power quickly and efficiently. The Loomix Kit is designed for ultimate user convenience, featuring a highly responsive auto-draw activation system that fires consistently as you inhale. To help you tailor your experience, the device includes an adjustable side airflow control alongside two intuitive power output settings: an \"ECO\" wattage level designed to conserve battery life, and a \"MAX\" wattage level for peak performance and thicker vapour. This complete kit includes a 2ml Aspire Loomix Pod featuring an integrated 0.8ohm meshed coil, delivering exceptional flavour clarity and a highly satisfying draw right out of the box. Thanks to its versatile design and extensive pod compatibility, the Loomix Kit can accommodate a wide range of vaping styles, making it an excellent choice for both beginners and experienced vapers alike. Explore our wide range of vape juice online and pick the perfect partner for this kit. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1150215",
+    "compatible-with-1150216",
+    "DTL",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Gunmetal",
+        "Purple Gold",
+        "Pearl White",
+        "Midnight Black",
+        "Blossom Pink"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Gunmetal",
+      "sku": "1154167",
+      "price": 17.99
+    },
+    {
+      "title": "Purple Gold",
+      "sku": "1154166",
+      "price": 17.99
+    },
+    {
+      "title": "Pearl White",
+      "sku": "1154165",
+      "price": 17.99
+    },
+    {
+      "title": "Midnight Black",
+      "sku": "1154164",
+      "price": 17.99
+    },
+    {
+      "title": "Blossom Pink",
+      "sku": "1158937",
+      "price": 17.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-loomix-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-loomix-gunmetal-800x800.jpg?v=1778169009",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-loomix-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-loomix-purple-gold-800x800.jpg?v=1778169254",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-loomix-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-loomix-pearl-white-800x800.jpg?v=1778169334",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-loomix-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-loomix-midnight-black-800x800.jpg?v=1778169465",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-loomix-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blossom-Pink-Aspire-Loomix-Pod-Vape-Kit.jpg?v=1791211097",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.485Z"
+}

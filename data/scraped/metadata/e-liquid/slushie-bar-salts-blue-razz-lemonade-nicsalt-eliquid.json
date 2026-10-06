@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639964705092",
+  "slug": "slushie-bar-salts-blue-razz-lemonade-nicsalt-eliquid",
+  "title": "Slushie Bar Salts Blue Razz lemonade 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-salts-blue-razz-lemonade-nicsalt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Razz Lemonade from Slushie Bar Salts is a wickedly sweet yet super-refreshing beverage flavour that balances the dark, syrupy delights of the iconic Blue Razz with a light and bubbly Lemonade base. The irresistible interplay of rich Blueberry and tangy Raspberry slide effortlessly into the zesty citrus of the lemonade, creating a flavour that is surprisingly complex yet utterly moreish and an easy and rewarding all-day vape. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the unique nicotine salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. If you enjoy this flavour, there are plenty more Slushie Bar Salts flavours to try. Few e-liquid makers have mastered the icy joys of slushy flavours quite like Slushie, a UK company who are behind an irresistible line of 50ml and 100ml shortfill and Nic Salts e-liquids that blend mouth-watering fruit flavours with healthy doses of icy menthol for an unparalleled slushy vaping experience. We’re also thrilled to stock new Slushy Bar Salts: Nic Salt e-liquids that capture the intense flavour and satisfaction of your favourite disposable vape flavours in handy 10ml bottles for use with a wide variety of MTL (mouth-to-lung) vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Blue Razz Lemonade",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127974",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1128006",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-salts-blue-razz-lemonade-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_ns_blue_razz_lemonade_1.jpg?v=1729063034",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-blue-razz-lemonade-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_blue_razz_lemonade.jpg?v=1729063034",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-blue-razz-lemonade-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_blue_razz_lemonade_1.jpg?v=1729063034",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.345Z"
+}

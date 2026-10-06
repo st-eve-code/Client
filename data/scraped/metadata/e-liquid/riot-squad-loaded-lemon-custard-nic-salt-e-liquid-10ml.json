@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14941126033789",
+  "slug": "riot-squad-loaded-lemon-custard-nic-salt-e-liquid-10ml",
+  "title": "Riot Squad Loaded Lemon Custard Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-loaded-lemon-custard-nic-salt-e-liquid-10ml",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Riot Squad’s Loaded Lemon Custard Nic Salt E-Liquid offers a classic custard experience given a new zest for life with the addition of an authentic sweet-sharp Lemon flavour. This timeless dessert blend has all the silky smooth satisfaction of custard with that irresistibly tart citrus edge, making it an essential addition to any fan of pudding flavours’ e-liquid collection. Riot Squad’s Riot Salt E-Liquids are formulated with Hybrid Nicotine, an innovative blend of traditional freebase nicotine and nicotine salts. The combination of the freebase and nicotine salt and 50/50 PG and VG ratio provides the perfect balance of flavour and throat hit and one of the most realistic alternatives to traditional tobacco products. At Vapestore we stock a wide range of vape juice flavours & E-Liquid types. Why not check out our full range including fantastic Multi-Buy E-Liquid Deals. Shop our Full Range of Multi-Buy Nicotine Salt E-Liquids.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1107713",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1107730",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1107747",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-loaded-lemon-custard-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/RIOT-BOTTLE-10ML-loaded-lemon-custard.jpg?v=1736853904",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.552Z"
+}

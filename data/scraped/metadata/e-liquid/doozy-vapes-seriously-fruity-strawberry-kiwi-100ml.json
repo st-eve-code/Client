@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639451984196",
+  "slug": "doozy-vapes-seriously-fruity-strawberry-kiwi-100ml",
+  "title": "Doozy Vape Co Seriously Fruity Strawberry Kiwi 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/doozy-vapes-seriously-fruity-strawberry-kiwi-100ml",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "This delightful combination of flavours tantalises your tastebuds with a perfect balance of fresh, luscious strawberry and the sweet, exotic tang of kiwifruit. This convenient 100ml shortfill bottle really helps your favourite e-liquid go the distance and comes with 25ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. This e-liquid’s 70VG/30PG ratio makes it ideal for high-powered pod kits , box mod vapes and sub-ohm tanks .",
+  "tags": [
+    "100ml shortfill",
+    "2 for £20",
+    "70/30 Shortfill",
+    "DTL",
+    "Seriously Fruity",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DV-SF-100-SK-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vapes-seriously-fruity-strawberry-kiwi-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/seriously-fruity-strawberry-kiwi_1.jpg?v=1729040256",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.626Z"
+}

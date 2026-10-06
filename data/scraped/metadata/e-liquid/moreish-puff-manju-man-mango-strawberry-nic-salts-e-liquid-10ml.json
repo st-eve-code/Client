@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15005265396093",
+  "slug": "moreish-puff-manju-man-mango-strawberry-nic-salts-e-liquid-10ml",
+  "title": "Moreish Puff Manju Man Mango Strawberry Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/moreish-puff-manju-man-mango-strawberry-nic-salts-e-liquid-10ml",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Moreish Puff Manju Man Mango Strawberry blends the lush, golden sweetness of ripe Mango with the soft, juicy character of fresh Strawberries. The tropical mango flavour is rich and velvety, while the strawberry adds a bright, summery depth, creating a smooth and well-balanced fruit vape with a refreshing finish. With its 50VG/50PG ratio, this nicotine salt e-liquid is designed for mouth-to-lung (MTL) vaping, delivering well-defined flavour with a consistently smooth throat hit. Perfect for pod vape kits , refillable vapes and vape starter kits , it provides rapid nicotine absorption for a satisfying and flavourful vape experience. Available in 5mg, 10mg, and 20mg nicotine strengths, Moreish Puff Manju Man Nic Salts offer a convenient option for vapers who prefer a balanced and flavourful vape in a compact format.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salts E Liquid",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1139074",
+      "price": 3.99
+    },
+    {
+      "title": "10mg",
+      "sku": "1139077",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "1139080",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__moreish-puff-manju-man-mango-strawberry-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Manju-Man-MangoStrawberry-5mg.jpg?v=1739269861",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__moreish-puff-manju-man-mango-strawberry-nic-salts-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Manju-Man-MangoStrawberry-10mg.jpg?v=1739270052",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__moreish-puff-manju-man-mango-strawberry-nic-salts-e-liquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Manju-Man-MangoStrawberry-20mg.jpg?v=1739270130",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.350Z"
+}

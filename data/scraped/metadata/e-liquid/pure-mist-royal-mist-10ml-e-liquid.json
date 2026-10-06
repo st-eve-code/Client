@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14933766144381",
+  "slug": "pure-mist-royal-mist-10ml-e-liquid",
+  "title": "Pure Mist Royal Mist 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pure-mist-royal-mist-10ml-e-liquid",
+  "brand": "Pure Mist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pure Mist Royal Mist delivers a classic tobacco flavour with smooth, savoury notes and subtle earthy tones. This well-balanced e-liquid is perfect for vapers who prefer traditional tobacco blends with a rich, authentic profile. The Pure Mist High-PG collection offers a variety of VG/PG ratios for different vaping preferences. The 3mg nicotine strength features a 50VG/50PG blend for balanced vapour and flavour, while the 0mg, 6mg, 12mg, and 18mg strengths use a high-PG 30VG/70PG ratio for a more pronounced flavour with discreet vapour. Crafted for Mouth-to-Lung (MTL) devices, Pure Mist Royal Mist is made in the UK with premium ingredients to ensure consistent quality and satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "b2b",
+    "High PG E-Liquid",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1094546",
+      "price": 2.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1009056",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1094549",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1094547",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1094548",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pure-mist-royal-mist-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/puremist-10ml-e-liquid-royal-mist.jpg?v=1736500708",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.438Z"
+}

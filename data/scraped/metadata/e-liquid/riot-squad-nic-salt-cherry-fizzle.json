@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639574470980",
+  "slug": "riot-squad-nic-salt-cherry-fizzle",
+  "title": "Riot Squad Cherry Fizzle Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-nic-salt-cherry-fizzle",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Upgrade your vaping experience with the Riot Squad Riot Salt Cherry Fizzle Nic Salt E-Liquid 10ml . Cherry Fizzle Riot Salt by Riot Squad delivers a sublime sweet & sour cherry flavour with a dash of sparkle in a super-smooth and satisfying N ic S alt formulation e nsuring that you can enjoy the flavours delivered through a silky-smooth throat hit with every puff you take. Making this C herry F izzle N ic S alt by R iot S quad 10ml a perfect addition for any vaper's nicotine salt collection. Riot Squad’s Riot Salt E-Liquids are formulated with hybrid nicotine, a unique and innovative blend of nicotine freebase and nicotine salts. The combination of the freebase and nicotine salt and 50/50 PG and VG ratio provides the perfect balance of flavour and throat hit. If you love this flavour, then you are in luck. The Riot Squad vape juice collection has plenty more Riot Salt flavours to explore at Vapestore. Why not add to your Nic Salt E-Liquid collection and treat yourself to such flavours as Riot Squad Bubblegun Nic Salt E-Liquid 10ml or the Riot Squad Cherry Fizzle Nic Salt E-Liquid 10ml. At Vapestore we stock a wide range of vape juice flavours & E-Liquid types. Why not c heck out our full range including fantastic Multi-Buy E-Liquid Deals. Shop our Full Range of Multi-Buy Nicotine Salt E-Liquids. Or if you really can’t decide then why not take a look at all of our E-Liquids here.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1107709",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "RS-NS-10-CF-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "RS-10-CF-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-nic-salt-cherry-fizzle__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-cherry-fizzle_3.jpg?v=1729042363",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-nic-salt-cherry-fizzle__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-cherry-fizzle.jpg?v=1729042363",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-nic-salt-cherry-fizzle__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-cherry-fizzle_2.jpg?v=1729042363",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-squad-nic-salt-cherry-fizzle__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-bottle-10ml-cherry-fizzle_1.jpg?v=1729042363",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.433Z"
+}

@@ -1,0 +1,122 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "9639931347268",
+  "slug": "smok-zrex-rf-pod-kit",
+  "title": "SMOK Zrex RF Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/smok-zrex-rf-pod-kit",
+  "brand": "SMOK",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The SMOK Zrex RF Pod Kit is designed to offer vapers a seamless and satisfying MTL (Mouth To Lung) vaping experience in a sleek and portable package. This kit features a built-in 500mAh battery that provides ample power for all-day vaping and is easily rechargeable via the included USB-C cable. The Zrex RF is equipped with a childproof lock, ensuring safety and peace of mind. Simply click the button on the base five times to unlock the device and start vaping. The device is inhale activated, allowing for a smooth and natural draw that mimics the sensation of smoking a traditional cigarette. The 2ml refillable pods are designed for convenience and ease of use. The side-fill design allows for quick and mess-free refills, while the built-in mesh coil heats the e-liquid evenly, delivering rich and pure flavours. When the coil reaches the end of its lifespan, simply replace the entire pod to continue enjoying your favourite e-liquids. The SMOK Zrex RF Pod Kit also features an LED battery indicator, so you always know when it's time to recharge. The compact design of the Zrex RF makes it perfect for on-the-go vaping, fitting comfortably in your pocket or bag. Whether you’re new to vaping or an experienced user, the SMOK Zrex RF Pod Kit offers a reliable and flavourful MTL vaping experience with the convenience and portability you need. Pod Details: Smok Zrex RF 0.8ohm Replacement pods we recommend paring with 50/50 or Nic Salt E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil. Please Note: This kit will require a USB Charging Cable. You can purchase a USB-C Charging Cable here.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1132316",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit",
+    "VS Export"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Red",
+        "Pink Silver",
+        "Purple Silver",
+        "Blue/Silver",
+        "Gunmetal"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1132308",
+      "price": 4.99
+    },
+    {
+      "title": "Red",
+      "sku": "1132309",
+      "price": 4.99
+    },
+    {
+      "title": "Pink Silver",
+      "sku": "1132310",
+      "price": 4.99
+    },
+    {
+      "title": "Purple Silver",
+      "sku": "1132311",
+      "price": 4.99
+    },
+    {
+      "title": "Blue/Silver",
+      "sku": "1132312",
+      "price": 4.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1132313",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-zrex-rf-pod-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-zrex-rf-black.jpg?v=1729061652",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-zrex-rf-pod-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-zrex-rf-blue-silver.jpg?v=1729061652",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-zrex-rf-pod-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-zrex-rf-red.jpg?v=1729061652",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-zrex-rf-pod-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-zrex-rf-pink-silver.jpg?v=1729061652",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-zrex-rf-pod-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-zrex-rf-purple-sliver.jpg?v=1729061652",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-zrex-rf-pod-kit__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-zrex-rf-gunmetal.jpg?v=1729061652",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.100Z"
+}

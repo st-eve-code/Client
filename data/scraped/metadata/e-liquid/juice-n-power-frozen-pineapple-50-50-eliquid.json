@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639790936388",
+  "slug": "juice-n-power-frozen-pineapple-50-50-eliquid",
+  "title": "Juice N Power Frozen Pineapple 10ml 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-frozen-pineapple-50-50-eliquid",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Frozen Pineapple from Juice N Power is a deliciously sweet and refreshing blast of tropical flavour. Experience the juiciest, tangy Pineapple flavour laced with ice-cold, refreshing Menthol. This premium e-liquid’s 50% VG/50PG % blend offers the perfect balance between flavour and cloud production, producing a discreet mount of delicious vapour with a variety of nicotine strengths to suit your personal preferences. PG, or Propylene Glycol, is the ingredient in e-liquid that best carries flavour and provides the tactile throat hit that smokers are used to. VG, or Vegetable Glycerin, is the ingredient in e-liquid that best produces vapour when heated by your vape device’s coil. Along with freebase nicotine, 50/50 e-liquids provide a super-satisfying vaping experience and are versatile enough that they can be used in a variety of vaping kits. If you enjoy this flavour then there are plenty of enticing profiles to explore from Juice N Power’s range of 50/50 e-liquids including delicious fruit flavours, sweet candy, and frosty menthols. Juice N Power are a UK e-liquid producer with a passion for creating bold, delicious flavours across nic salts, shortfills and 50/50 juices. Their juices surprise and delight with unique flavour pairings that use only the best ingredients for a premium quality vape every time.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1124871",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1124877",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1124883",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-frozen-pineapple-50-50-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-frozen-pineapple-10ml-5050-eliquid_1_1_1.jpg?v=1729052506",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__juice-n-power-frozen-pineapple-50-50-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-frozen-pineapple-10ml-5050-eliquid.jpg?v=1729052506",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__juice-n-power-frozen-pineapple-50-50-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-frozen-pineapple-10ml-5050-eliquid_1.jpg?v=1729052506",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__juice-n-power-frozen-pineapple-50-50-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/juice-n-power-frozen-pineapple-10ml-5050-eliquid_1_1.jpg?v=1729052506",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.487Z"
+}

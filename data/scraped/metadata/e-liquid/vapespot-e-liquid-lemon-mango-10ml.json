@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639421018436",
+  "slug": "vapespot-e-liquid-lemon-mango-10ml",
+  "title": "Vape Spot Lemon & Mango E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vapespot-e-liquid-lemon-mango-10ml",
+  "brand": "Vape Spot",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.5,
+    "max": 1.5,
+    "currency": "GBP"
+  },
+  "description": "Lemon and Mango from Vapespot is a sweet, sharp taste of pure sunshine with zingy lemon notes and bold, fresh, tropical fresh mango. 50/50 e-liquids contain equal quantities of VG (vegetable glycerin) and PG (propylene glycol) for the perfect balance between flavour and vapour production. They’re ideal for use with starter kits and pod devices .",
+  "tags": [
+    "BRANDS",
+    "Default Category",
+    "E Liquid",
+    "E Liquid Deals",
+    "E-Liquids",
+    "MTL/RDL",
+    "Outlet",
+    "Vape Deals",
+    "Vape Spot",
+    "Vape Spot 10ml Multibuy",
+    "Vapespot 10ml Deals",
+    "Vapestore Categories",
+    "£1.50 E-Liquids/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "1113698",
+      "price": 1.5
+    },
+    {
+      "title": "12mg",
+      "sku": "1113697",
+      "price": 1.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vapespot-e-liquid-lemon-mango-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapespot-lemon-mango-12mg-10ml.jpg?v=1729038997",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.430Z"
+}

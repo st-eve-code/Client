@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639805092164",
+  "slug": "freemax-mpro-m1-d-replacement-coils-0-15ohm",
+  "title": "Freemax M1-D Mesh Coil 0.15ohm - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/freemax-mpro-m1-d-replacement-coils-0-15ohm",
+  "brand": "Freemax",
+  "productType": "Coils",
+  "price": {
+    "min": 7.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "The Freemax M Mesh Coil are ideal for use with Freemax’s superb MPro tank series, which excel when paired with the Freemax Maxus 200W mods. These 0.15Ohm - M1-D mesh coils (50-80W, best 70W) boast FMCoilTech 5.0 technology, utilising Mesh Kanthal to elevate your vapour and flavour production to new heights. Compatible with the FreeMax M Pro 3 Tank, FreeMax M Pro 2 Tank and FreeMax M Pro Tank.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1125064",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-mpro-m1-d-replacement-coils-0-15ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-m1-d-mesh-m1-d-mesh-coil-0-15ohm-3pk.jpg?v=1729053356",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

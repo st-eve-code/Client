@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639971455300",
+  "slug": "yeti-summit-blue-raspberry-ice-nicsalt-eliquid",
+  "title": "Yeti Summit Series Blue Raspberry Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/yeti-summit-blue-raspberry-ice-nicsalt-eliquid",
+  "brand": "Yeti",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Raspberry Ice from Yeti’s Summit collection offers a vibrant and tangy Blue Raspberry flavour with an icy blast that's sure to delight fans of fruity vapes. This e-liquid combines the sweetness of ripe berries with a tart twist, creating a balanced and refreshing vape experience. Achieve the ideal balance of flavour, vapour, and throat hit with this premium e-liquid's 50VG/50PG blend This nic salt e-liquid is perfect for use with classic starter vape kits and pod vape devices. The nicotine salt solution ensures a swift and satisfying nicotine relief, making Yeti Nic Salts an effective alternative to traditional tobacco products. If you love intensely flavourful and incredibly icy e-liquids, then the Summit Series by Yeti E-Liquid is set to become your new favourite. This exciting collection offers 15 double-concentrated flavours, each packed with that arctic icy freshness that Yeti is renowned for. Available in convenient 10ml bottles with varying nicotine strengths, the Summit Series allows you to enjoy your favourite flavours for far longer, making it a cost-effective and environmentally friendly alternative to single-use disposable vapes.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1133305",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1133323",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1133347",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__yeti-summit-blue-raspberry-ice-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/yeti-nic-salt-blue-raspberry-ice_1_1_1.jpg?v=1729063324",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__yeti-summit-blue-raspberry-ice-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/yeti-nic-salt-blue-raspberry-ice.jpg?v=1729063324",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__yeti-summit-blue-raspberry-ice-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/yeti-nic-salt-blue-raspberry-ice_1.jpg?v=1729063324",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__yeti-summit-blue-raspberry-ice-nicsalt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/yeti-nic-salt-blue-raspberry-ice_1_1.jpg?v=1729063324",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.454Z"
+}

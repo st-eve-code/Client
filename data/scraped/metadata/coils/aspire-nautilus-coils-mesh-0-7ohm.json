@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639365935428",
+  "slug": "aspire-nautilus-coils-mesh-0-7ohm",
+  "title": "Aspire Nautilus 2S Mesh Coils 0.7ohm",
+  "url": "https://www.vapestore.co.uk/products/aspire-nautilus-coils-mesh-0-7ohm",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "These supreme quality Mesh coils from Aspire are designed for use with the Nautilus tank series and can be used with the K3, Nautilus Mini, Nautilus 2 and the brand-new Nautilus 2S mesh coils are rated at 0.7ohms, these coils facilitate direct-to-lung vaping whilst producing stunning flavour and intensely-thick vapour clouds.",
+  "tags": [
+    "compatible-with-AS-KT-ZE-LO-S2-BLU",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "AS-CO-NA-UL-MS-0.7",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nautilus-coils-mesh-0-7ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nautilus-0.7-ohm-coils-_4pk__2.jpg?v=1729036636",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.869Z"
+}

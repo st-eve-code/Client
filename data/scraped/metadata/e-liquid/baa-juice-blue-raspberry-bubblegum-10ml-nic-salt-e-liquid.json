@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14901602353533",
+  "slug": "baa-juice-blue-raspberry-bubblegum-10ml-nic-salt-e-liquid",
+  "title": "Baa Juice Blue Raspberry Bubblegum 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/baa-juice-blue-raspberry-bubblegum-10ml-nic-salt-e-liquid",
+  "brand": "Baa Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Baa Juice Nic Salt Blue Raspberry Bubblegum combines the tangy sweetness of Blue Raspberry with the nostalgic, sugary notes of classic Bubblegum. This playful and vibrant blend delivers a bold and satisfying vape, perfect for those who enjoy fruity flavours with a retro twist. As part of the Baa Juice Bar Salts collection, this nicotine salt e-liquid is crafted with a double-concentrated flavour profile, replicating the rich and intense taste of single-use disposable vape bars. With a 50VG/50PG ratio, it’s designed for Mouth-To-Lung (MTL) pod kits and starter devices, providing smooth throat hits and quick nicotine satisfaction. Available in 5mg, 10mg, and 20mg nicotine strengths, Blue Raspberry Bubblegum is a versatile and economical choice for vapers seeking bold, flavour-packed blends.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1137653",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1137662",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137671",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baa-juice-blue-raspberry-bubblegum-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/baa-juice-blue-raspberry-bubblegum-10ml-nicotine-salts-20mg.jpg?v=1734606636",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.466Z"
+}

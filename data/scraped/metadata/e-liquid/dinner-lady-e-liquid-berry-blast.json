@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639355154756",
+  "slug": "dinner-lady-e-liquid-berry-blast",
+  "title": "Dinner Lady Berry Blast Short Fill",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-e-liquid-berry-blast",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Blast off into a full-on fanfare of flavour with the booming berries of Berry Blast! Taken from Dinner Lady’s brand-new Fruits range, this high-VG e-juice is loaded with tender cherries mixed with tangy raspberries and promises to wage a war against bland flavour! The high-VG base of Berry Blast makes it ideal arsenal for your sub ohm setup whilst a generous 50ml bottle can accommodate a 10ml nicotine shot of your choice to tackle the irritation of cravings. Don’t wait to detonate this blistering berry blast!",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DL-DL-50-BB-00-VG",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-e-liquid-berry-blast__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinner-lady-e-liquid-berry-blast.jpg?v=1729036075",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.524Z"
+}

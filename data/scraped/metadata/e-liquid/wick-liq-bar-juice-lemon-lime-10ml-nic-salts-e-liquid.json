@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15734817423741",
+  "slug": "wick-liq-bar-juice-lemon-lime-10ml-nic-salts-e-liquid",
+  "title": "Wick Liq Bar Juice Lemon & Lime 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/wick-liq-bar-juice-lemon-lime-10ml-nic-salts-e-liquid",
+  "brand": "Wick Liquor",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Wick Liq Bar Juice Lemon and Lime is the ultimate citrus refreshment. It fuses the bright, zesty kick of yellow lemons with the sharper, tangier notes of green limes. This vibrant combination delivers a mouth-watering blast of citrus energy that cleanses the palate. The Wick Liq Bar Juice collection sees the Staffordshire flavour experts apply a \"double concentrate\" formulation to their premium blends. By doubling the flavour dosage, these \"Bar Salts\" deliver an exceptionally intense and consistent taste experience that remains rich and full-bodied, even when used in low-power starter kits and MTL (mouth-to-lung) pod devices. With a 50% VG / 50% PG blend, this e-liquid is optimised for mouth-to-lung (MTL) vaping. It is designed to pair flawlessly with refillable pod kits, producing discreet vapour and crystal-clear flavour. The nicotine salt formulation ensures a smooth throat hit and rapid satisfaction. Wick Liq Bar Juice Nic Salts are available in 5mg, 10mg, and 20mg strengths. This 10ml e-liquid is TPD-compliant and features a childproof cap and tamper-evident seal.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152532",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152552",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152572",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__wick-liq-bar-juice-lemon-lime-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-_-Lime-20mg-5050-20mg-Wick-Liq-Bar-Juice-10ml.jpg?v=1766154056",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.352Z"
+}

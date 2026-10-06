@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15551379046781",
+  "slug": "vampire-vape-rum-tobacco-e-liquid-shortfill-50ml",
+  "title": "Vampire Vape Rum Tobacco E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-rum-tobacco-e-liquid-shortfill-50ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Koncept Rum Tobacco Shortfill combines deep, earthy Tobacco with the warming sweetness of Rum. The Tobacco base provides rich body, while the Rum note introduces subtle caramel-like depth for a refined twist on a classic profile. Blended at 70VG/30PG, this 50ml shortfill is designed for direct-to-lung (DTL) vaping with sub-ohm devices, producing thick vapour and smooth flavour. Each 60ml bottle contains 50ml of nicotine-free liquid, leaving space for one 10ml nicotine shot to adjust the strength. Crafted in the UK, Vampire Vape are celebrated for their inventive flavours and reliable blends. The Koncept line highlights distinctive recipes in a high-VG format made for sub-ohm vapers.",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143040",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-rum-tobacco-e-liquid-shortfill-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco_50ml-Shortfill_flavour_Rum-Tobacco.jpg?v=1758533708",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.512Z"
+}

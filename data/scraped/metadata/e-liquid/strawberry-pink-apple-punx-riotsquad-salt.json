@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639528988996",
+  "slug": "strawberry-pink-apple-punx-riotsquad-salt",
+  "title": "Riot Squad Punx Strawberry & Pink Apple Nic salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/strawberry-pink-apple-punx-riotsquad-salt",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Punx by Riotsquad Strawberry & Pink Apple Nicsalt 10ml Strawberry & Pink Apple from Riot Squad is an outrageously fruity fusion of summer flavours. The juicy sweetness of plump summer strawberries plays beautifully with the fresh, crisp tang of Pink Lady apples, creating an irresistible vape that’s a must-have for fruit fans. Riot Squad’s Punx Nicotine Salt e-liquids are formulated with hybrid nicotine, an innovative blend of freebase nicotine and nicotine salts. The combination of the freebase and salt nicotine and 50/50 PG and VG ratio provides the perfect balance of flavour and throat hit and makes this eliquid ideal for use in classic e-cigarette starter vape kits and pod vape kit devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "RS-10-PNX-SPA-05-NS",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "RS-10-PNX-SPA-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "RS-10-PNX-SPA-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__strawberry-pink-apple-punx-riotsquad-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/riot-punx-strawberry-pink-apple-10ml-800x800.jpg?v=1747127314",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.624Z"
+}

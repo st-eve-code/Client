@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639517913412",
+  "slug": "nasty-juice-cush-man-50-50-10ml-e-liquid-1",
+  "title": "Nasty Juice Cush Man 50/50 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/nasty-juice-cush-man-50-50-10ml-e-liquid-1",
+  "brand": "Nasty Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "A legendary e-liquid from Nasty Juice, Cushman is a mango-based e-liquid that’s truly alive with flavour. The ripe, sunny mango explodes on your tastebuds before gently falling away beneath a soft and refreshing layer of cool mint. This e-liquid from Nasty Juice offers a perfect balance of PG and VG, providing immaculate flavour and rich, satisfying clouds. This e-liquid is versatile enough to be used with most vape devices but are ideal for low-powered starter kits , pen-vape kits and pod kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "Mango",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "NJ-10-CM-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "NJ-10-CM-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-juice-cush-man-50-50-10ml-e-liquid-1__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/cushmane-liquidbynastyjuice_600x600_4428dfdb-b858-4f0a-a989-8082d8f41444.jpg?v=1729041229",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.625Z"
+}

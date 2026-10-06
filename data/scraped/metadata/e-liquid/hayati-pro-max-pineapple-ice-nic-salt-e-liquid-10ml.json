@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15115089379709",
+  "slug": "hayati-pro-max-pineapple-ice-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Pineapple Ice Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-pineapple-ice-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Pineapple Ice blends the bold, tropical flavour of Pineapple with a clean hit of Menthol for a vape that’s sharp, juicy, and cooling. The Pineapple comes through with bright, tangy sweetness, while the Menthol introduces a frosty edge that lifts the flavour and enhances it with a crisp, tropical finish. This nicotine salt e-liquid is designed for fast-acting absorption and a smoother throat hit, perfect for MTL (mouth-to-lung) vaping using starter kits and pod systems. The 50VG/50PG formulation ensures satisfying flavour and discreet vapour output. This flavour is part of the Hayati Pro Max Nic Salt range, inspired by Hayati’s own bestselling disposable vapes and now reimagined in a longer-lasting 10ml format—available in 10mg and 20mg nicotine strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140344",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140406",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-pineapple-ice-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Ice_Hayati-Pro-Max-Nic-Salts.jpg?v=1743415455",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.394Z"
+}

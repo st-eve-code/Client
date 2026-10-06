@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639873577284",
+  "slug": "88vape-sour-raspberry-5050-eliquid-10ml-3mg",
+  "title": "88Vape Any Tank Sour Raspberry 10ml E-Liquid- 3mg",
+  "url": "https://www.vapestore.co.uk/products/88vape-sour-raspberry-5050-eliquid-10ml-3mg",
+  "brand": "88Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.2,
+    "max": 1.2,
+    "currency": "GBP"
+  },
+  "description": "Sour Raspberry from 88Vape’s Anytank series is an exhilarating e-liquid that marries the sweet, juicy berry flavours of Blueberries and Raspberries with a delightful sour kick. This 10ml 50/50 e-liquid offers a taste sensation that is both familiar and thrilling, perfect for vapers who crave a fruity, yet edgy vape experience. From your first puff, the rich, sweet and natural flavours of Blueberries greet your tastebuds, followed quickly by the ruby tang and juicy notes of Raspberries. The interplay between these berries is masterfully achieved, ensuring that no single flavour overpowers the other. The real twist comes with the sour finish, which adds an exciting kick to the overall flavour profile, invigorating the taste buds with every puff. This 50/50 e-liquid from 88Vape offers a perfect balance of PG and VG, providing delicious flavour, smooth throat yet tactile throat hit and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. 88Vape are one of the most popular and bestselling vape brands in the UK. They have helped countless smokers make the switch to the far safer alternative of vaping with the help of delicious e-liquids at wallet-friendly prices.",
+  "tags": [
+    "10ml E-Liquids",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128344",
+      "price": 1.2
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__88vape-sour-raspberry-5050-eliquid-10ml-3mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/88vape-5050-10ml-sour-raspberry.jpg?v=1729058250",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.426Z"
+}

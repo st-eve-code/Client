@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15002935329149",
+  "slug": "ox-passion-bru-pop-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Bru Pop Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-bru-pop-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Salts Bru Pop delivers a bold and nostalgic taste, capturing the unmistakable flavour of a classic Scottish soft drink. Bursting with deep caramelised fruit notes and a subtle citrus zing, this unique e-liquid offers a distinctive, sweet, and slightly spiced soda-inspired vape. With a 50VG/50PG blend, this nicotine salt e-liquid is tailored for mouth-to-lung (MTL) vaping, ensuring smooth nicotine delivery with well-defined flavour and a consistently satisfying throat hit. Designed for use with low-powered pod kits and starter devices, it provides rapid nicotine absorption for an enjoyable and convenient vaping experience. Produced by Oxva, a leader in vaping innovation, the OX Passion Salts collection brings expertly crafted flavours that are designed to pair seamlessly with Oxva’s XLIM pod kits and other refillable vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132788",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139092",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-bru-pop-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ox-Passion_0014_Bru-Pop.jpg?v=1739183216",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.552Z"
+}

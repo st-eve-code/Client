@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639667368260",
+  "slug": "wild-berries-aniseed-ice-just-juice-5050-10ml",
+  "title": "Just Juice Wild Berries & Aniseed Ice 10ml 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/wild-berries-aniseed-ice-just-juice-5050-10ml",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Wild Berries & Aniseed Ice from Just Juice is an expertly crafted blend of flavours that play off each other to perfection. For sweetness, there is a medley of tart, tangy, juicy berries. For spice, you’ll taste a warming note of aniseed in the background. And for a touch of refreshment, a cooling breeze of icy menthol. This is an e-liquid bursting with character and moreish infatuation. This premium e-liquid’s ratio of 50% Vegetable Glycerine (VG), 50% Propylene Glycol (PG) and 6mg nicotine strength delivers a perfect balance of clouds, vapour and flavour and is ideal for use with starter vape kits, compact pod vape kits and pen vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "Just Juice Ice Range",
+    "MTL/RDL",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1117392",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1117393",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1117395",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__wild-berries-aniseed-ice-just-juice-5050-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-ice-5050-wild-berries-aniseed_1_1_1.jpg?v=1729046918",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__wild-berries-aniseed-ice-just-juice-5050-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-ice-5050-wild-berries-aniseed.jpg?v=1729046918",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__wild-berries-aniseed-ice-just-juice-5050-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-ice-5050-wild-berries-aniseed_1.jpg?v=1729046918",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__wild-berries-aniseed-ice-just-juice-5050-10ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/just-juice-ice-5050-wild-berries-aniseed_1_1.jpg?v=1729046918",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.363Z"
+}

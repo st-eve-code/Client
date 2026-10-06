@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15820755566973",
+  "slug": "riot-x-nic-salts-strawberry-orange-crush-10ml-e-liquid",
+  "title": "Riot X Nic Salts Strawberry Orange Crush 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-strawberry-orange-crush-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Orange Crush by Riot X Nic Salts combines zesty citrus with sweet summer berries for a refreshing and well-rounded vape. The inhale features the bright, tangy notes of fresh Orange, delivering a sharp and vibrant citrus taste. This is perfectly complemented by the soft, juicy sweetness of ripe Strawberry on the exhale, creating a highly satisfying fruit profile from start to finish. This e-liquid features Riot's Hybrid Nicotine formula, which blends Nic Salt and freebase for quick satisfaction, a smooth throat feel, and modest vapour production. With its 50VG/50PG profile, this vape juice is best suited to mouth-to-lung (MTL) vaping and performs well with pod kits, refillable starter kits, and compact vape pens. Made in the UK, the Riot X Nic Salts range focuses on full-impact fruit blends designed for everyday use in low-powered refillable devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot X Nic salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153822",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153823",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153824",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-strawberry-orange-crush-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Orange-Crush-Riot-X-5mg-10ml-E-Liquid.jpg?v=1772036577",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-strawberry-orange-crush-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Orange-Crush-Riot-X-10mg-10ml-E-Liquid.jpg?v=1772036609",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-strawberry-orange-crush-10ml-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Orange-Crush-Riot-X-20mg-10ml-E-Liquid.jpg?v=1772036765",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.382Z"
+}

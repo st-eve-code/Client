@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639908933956",
+  "slug": "vampire-vape-bar-salts-blue-sour-raspberry-60-40-shortfill-eliquid-100ml",
+  "title": "Bar Salts Blue Sour Raspberry Shortfill E-Liquid 100ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-blue-sour-raspberry-60-40-shortfill-eliquid-100ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s Blue Sour Raspberry combines the bold, tangy flavours of blue raspberry with a sour twist, creating a zesty and mouth-puckering vape experience. This e-liquid is perfect for vapers who enjoy a sharp, flavourful burst of vibrant and tangy berry notes. Part of the Vampire Vape Bar Salts collection, this e-liquid is formulated in a 100ml shortfill bottle with a 60VG/40PG ratio. This mix provides an optimal balance for mouth-to-lung vaping, delivering a smooth draw with significant flavour intensity and satisfactory vapour production. It's particularly suited to vapers using MTL setups like pod kits, with coils of 0.6ohm or higher. Each bottle offers the convenience to add up to two 10ml nicotine shots, enabling customization of nicotine strength up to a 120ml of 3mg e-liquid, according to your preference. This flexibility makes it a versatile choice for both nicotine and non-nicotine users. Explore more of the Vampire Vape Bar Salts range for a variety of flavours that continue to redefine the e-liquid market, offering robust and satisfying tastes in a cost-effective and environmentally sustainable format.",
+  "tags": [
+    "100ml shortfill",
+    "60/40 Shortfill",
+    "Bar Salts",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130750",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-blue-sour-raspberry-60-40-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_ml1_bar-salts_100ml-shortfills_blue-sour-raspberry.jpg?v=1729060520",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.491Z"
+}

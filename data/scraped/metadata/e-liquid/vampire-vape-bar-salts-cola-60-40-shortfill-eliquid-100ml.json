@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9622426288452",
+  "slug": "vampire-vape-bar-salts-cola-60-40-shortfill-eliquid-100ml",
+  "title": "Bar Salts Cola Shortfill E-Liquid 100ml By Vampire Vape",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bar-salts-cola-60-40-shortfill-eliquid-100ml",
+  "brand": "Bar Salts",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 15.99,
+    "max": 15.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape’s Cola e-liquid brings the beloved, timeless taste of cola to your MTL vape kit. This flavour mimics the tangy and fizzy sensation of a cola drink, making it an ideal choice for vapers who love classic beverage flavours. With each puff, enjoy the nostalgic taste of cola. Included in the Vampire Vape Bar Salts range, this e-liquid is provided in a large 100ml shortfill bottle with a 60VG/40PG ratio. This formulation ensures a smooth vaping experience ideal for mouth-to-lung (MTL) devices and is optimised for coils of 0.8ohm or higher, balancing excellent flavour delivery with satisfying vapour production. The shortfill format offers flexibility, with space for up to two 10ml nicotine shots, allowing you to adjust the nicotine strength to your liking. This makes it easy to achieve up to 120ml of 3mg e-liquid, catering to those who prefer a customised nicotine level. Explore the full Vampire Vape Bar Salts collection to discover a variety of other flavours, all designed to replicate the intense and enjoyable taste profiles of disposable vapes in a more sustainable and economical way.",
+  "tags": [
+    "100ml shortfill",
+    "60/40 Shortfill",
+    "Bar Salts",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1130744",
+      "price": 15.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bar-salts-cola-60-40-shortfill-eliquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/VV_ML1_Bar-Salts_100ml-Shortfills_Cola.jpg?v=1728396055",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.511Z"
+}

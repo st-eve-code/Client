@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15942347915645",
+  "slug": "ivg-original-salts-strawberry-watermelon-10ml-e-liquid",
+  "title": "IVG Original Salts Strawberry Watermelon 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-original-salts-strawberry-watermelon-10ml-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Original Salts Strawberry Watermelon 10ml E-Liquid combines two of vaping’s most beloved fruits into a balanced, everyday blend. The sweet, rich notes of fresh Strawberries form a smooth foundation, while the light, crisp, and slightly cooling taste of Watermelon adds a refreshing lift. This combination ensures a consistent, well-rounded fruit profile that feels familiar yet distinct, making it an excellent all-day vape for those who prefer straightforward fruit flavours. Available in 10mg and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The 50VG/50PG ratio provides an ideal balance of discreet vapour production and clear, intense flavour. IVG Original Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The IVG Original Salts collection is inspired by the brand’s most successful flavour profiles, offering vapers a dependable range of premium fruit, ice, and dessert blends. Beyond the classic pairing of Strawberry Watermelon, vapers can explore other stellar options like the zest-forward Summer Blaze or the complex Forest Berries Ice. Every e-liquid in this collection is designed to provide a high-quality, authentic experience for mouth-to-lung vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "IVG Original",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1157458",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1157481",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-original-salts-strawberry-watermelon-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Watermelon-10mg-IVG-Original-Salts.jpg?v=1782818481",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-original-salts-strawberry-watermelon-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Watermelon-20mg-IVG-Original-Salts.jpg?v=1782818505",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.343Z"
+}

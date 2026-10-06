@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639927578948",
+  "slug": "lost-mary-maryliq-pineapple-ice-nic-salt-eliquid",
+  "title": "Lost Mary Maryliq Pineapple Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-maryliq-pineapple-ice-nic-salt-eliquid",
+  "brand": "Lost Mary",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Discover Maryliq: Lost Mary's iconic flavours as found in bestselling disposable vapes like the BM600, QM600 and AM600, are now available in 10ml nicotine salt e-liquids. Maryliq provides a discreet, yet richly flavoured vapour and a smooth throat hit, offering quick relief for your nicotine cravings. Available in 10mg & 20mg strengths, it's the ideal choice for recent quitters or those after immediate nicotine satisfaction. Unlike traditional high-PG freebase liquids, Maryliq's nic salts deliver a smoother throat hit and quicker nicotine absorption. Compatible with starter and pod vape kits, these 10ml bottles let you enjoy your favourite flavours longer than 2ml disposables, minimising plastic waste. Experience all-day vaping satisfaction and flavour with Maryliq Nic Salts. Chill out with Lost Mary Maryliq's Pineapple Ice, an e-liquid that delivers the essence of sun-ripened Pineapple with a refreshing Ice twist. From your first inhale, you're treated to the succulent sweetness of tropical Pineapple, instantly followed by a cool, icy exhale that revitalises your senses. It's like sipping on a frosty pineapple slush on a warm day—absolutely invigorating. This e-liquid's balanced 50% VG / 50% PG ratio means you'll enjoy a smooth throat hit along with flavourful vapour, making it an ideal choice for an all-day vape that's both refreshing and satisfying.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1131094",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127389",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-maryliq-pineapple-ice-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-pineapple-ice-10ml-nic-salt-eliquid_2.jpg?v=1729061437",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-maryliq-pineapple-ice-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-pineapple-ice-10ml-nic-salt-eliquid.jpg?v=1729061437",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-maryliq-pineapple-ice-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-maryliq-pineapple-ice-10ml-nic-salt-eliquid_1.jpg?v=1729061437",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.568Z"
+}

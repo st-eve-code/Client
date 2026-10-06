@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639843070276",
+  "slug": "nasty-liq-rainbow-candy-nicsalt-eliquid",
+  "title": "Nasty Liq Fruit Fusion 10ml Nic Salt E-Liquid By Nasty Juice",
+  "url": "https://www.vapestore.co.uk/products/nasty-liq-rainbow-candy-nicsalt-eliquid",
+  "brand": "Nasty Liq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Fruit Fusion ( Formerly known as Rainbow Candy ) from Nasty Juice’s new Nasty Liq range is a giddy medley of fabulous fruit flavours inspired by your favourite multi-coloured chewy sweets. Deliciously sweet, and irresistibly moreish, Fruit Fusion casts a spell from the very first puff. Is that the juicy sweetness of Strawberry you’re tasting? Or the sugary tang of Blackcurrant? That hit of zesty citrus has to be Lemon, or is it Lime? That’s definitely Orange I tasted then, wasn’t it? These are the questions and flights of fancy this exquisite flavour will take you, on as your tastebuds begin to tingle with the combined flavours of your favourite fruit candies. Fruit Fusion isn't just an e-liquid; it's a celebration. It's that feeling of finding a surprise sweet in your pocket when you least expect it—a burst of joy that lifts your spirits and turns the moment into something special. With its nicotine salt formulation, you can expect a smooth throat hit accompanying this cavalcade of flavour, making it perfect for your all-day vaping journey. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. If you enjoy this flavour, there are plenty more delicious Nasty Liq flavours to try. Nasty Juice have fine-tuned their vape juices for optimised performance with the vast majority of MTL (mouth-to-lung) devices. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and many are also available in Nasty Juice’s super-convenient Nasty Bar disposable vape bars.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127939",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127957",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-liq-rainbow-candy-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-rainbow-candy-10ml-nic-salt-eliquid_1_1.jpg?v=1729056041",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-rainbow-candy-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-rainbow-candy-10ml-nic-salt-eliquid.jpg?v=1729056041",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-rainbow-candy-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-rainbow-candy-10ml-nic-salt-eliquid_1.jpg?v=1729056041",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.584Z"
+}

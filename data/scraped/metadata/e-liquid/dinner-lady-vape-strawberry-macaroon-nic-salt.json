@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639402438980",
+  "slug": "dinner-lady-vape-strawberry-macaroon-nic-salt",
+  "title": "Dinner Lady Strawberry Macaroon Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-vape-strawberry-macaroon-nic-salt",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Imagine vaping that most iconic and delicious of French pastries, the Macaroon. Well now you can as Dinner Lady have expertly conjured the comforting, biscuity almond base baked with toasted coconut, with an indulgent streak of cream laced with sweet strawberry puree. C’est magnifique! This e-liquid’s nic salt formulation and perfectly balanced 50VG/50PG ratio makes it ideal for use in classic and starter e-cigarette kits or refillable pod systems , and its high nicotine content and smooth throat hit particularly suits recent ex-smokers who’ve swapped cigarettes for vaping.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "DL-DL-10-SM-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "DL-DL-10-SM-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-vape-strawberry-macaroon-nic-salt__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-desserts-strawberry-macaroon-salt-nicotine-20mg-uk_b9f0107e-9259-465a-bac9-6dc89e7a73cb.jpg?v=1729038258",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.636Z"
+}

@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15020210487677",
+  "slug": "dinner-lady-fruit-full-banana-ice-10ml-nic-salt-e-liquid",
+  "title": "Dinner Lady Fruit Full Banana Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-fruit-full-banana-ice-10ml-nic-salt-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dinner Lady’s Fruit Full Banana Ice is a creamy yet refreshing blend that combines the smooth sweetness of ripe Bananas with an uplifting icy finish. The naturally rich and velvety Banana flavour is lifted by a cool wave of Ice, creating a balanced vape that is both comforting and refreshing. Part of the Fruit Full Bar Salts collection, Banana Ice is designed to capture the layered, intense flavours often found in disposable vapes. Using a double-concentrated Nic Salt formula, this e-liquid ensures a deep, long-lasting flavour while delivering a consistently smooth vaping experience. Blended at 50VG/50PG, this e-liquid offers an excellent balance of vapour production and full-bodied taste, making it ideal for MTL (mouth-to-lung) vaping. The nicotine salt formulation provides a smooth throat hit and rapid nicotine satisfaction, making it best suited for use with pod kits and classic vape starter devices. Since 2016, Dinner Lady has been crafting premium e-liquids that are now enjoyed in over 80 countries worldwide. Their commitment to high-quality ingredients and expertly developed blends continues to make them a trusted choice for vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Banana Ice",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1138557",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1138573",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138589",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-fruit-full-banana-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DL-Bar-Salts-FRUITS-Banana-Ice-10ml-10mg-GB.jpg?v=1739812935",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.341Z"
+}

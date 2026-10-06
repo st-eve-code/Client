@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639346995524",
+  "slug": "aspire-nautilus-aio-coils-nic-salt-1-8ohm",
+  "title": "Aspire Nautilus AIO Nic Salt Coils 1.8ohm",
+  "url": "https://www.vapestore.co.uk/products/aspire-nautilus-aio-coils-nic-salt-1-8ohm",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 8.49,
+    "max": 8.49,
+    "currency": "GBP"
+  },
+  "description": "Constructed from high-quality nichrome, these Aspire Nautilus BVC coils offer incredible vapour production and deliciously-rich, clear flavour to instantly enhance the performance of your e-cigarette setup. Specially crafted for use in the Aspire Nautilus AIO pod kit, the Nautilus BVC coils are designed to be used alongside nic salt e-liquids and ensure that the flavour of the e-liquid is not compromised by the liquid’s high nicotine content. Although these Nautilus AIO coils perform best with nicotine salt e-liquids, they can in fact be used with any classic or 50:50 e-liquid and are rated at 1.8ohms for smooth and satisfying full-bodied flavour. The Nautilus nic salt coils are available in convenient packs of five to keep your cravings at bay for as long as possible and achieve the very best flavour payoff from your nic salt e-juice of choice.",
+  "tags": [
+    "compatible-with-AS-PD-NA-UT-SIL",
+    "compatible-with-SM-PO-RE-RE-PO-AIO",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "AS-CO-NA-UT-BVC",
+      "price": 8.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nautilus-aio-coils-nic-salt-1-8ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nautilus-aio-nic-salt-coils-pack-of-5.jpg?v=1729035652",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.872Z"
+}

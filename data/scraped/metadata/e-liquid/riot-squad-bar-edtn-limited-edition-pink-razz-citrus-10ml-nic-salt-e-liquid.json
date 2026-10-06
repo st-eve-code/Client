@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15256465047933",
+  "slug": "riot-squad-bar-edtn-limited-edition-pink-razz-citrus-10ml-nic-salt-e-liquid",
+  "title": "Riot Squad BAR EDTN Limited Edition Pink Razz Citrus 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-squad-bar-edtn-limited-edition-pink-razz-citrus-10ml-nic-salt-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pink Razz Citrus from Riot Squad’s Bar Edition Limited Edition series delivers a zingy blend of tangy-sweet Pink Raspberry and sharp, zesty Citrus. The Raspberry lends a bold, jammy sweetness, while the Citrus note cuts through with a sparkling brightness that adds clarity and complexity to the mix. Mint infused With its smooth nicotine salt formulation and fast-absorbing delivery, this e-liquid offers a tactile yet comfortable throat hit ideal for MTL (mouth-to-lung) vaping. It’s available in 5mg, 10mg and 20mg strengths, and performs best in low-powered pod systems, vape pens, and refillable starter kits. Riot’s Bar Edition Nic Salt range replicates the punchy, layered taste of popular disposable vape flavours in a more sustainable format. Pink Razz Citrus stands out for its sweet-tart sharpness and vibrant fruit pairing—ideal for vapers who prefer bold, juicy flavour with a twist.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Riot Bar EDTN",
+    "Riot Bar EDTN Limited Edition"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1142539",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142544",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142549",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-squad-bar-edtn-limited-edition-pink-razz-citrus-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Riot-bar-edtn-limited-edition-pink-razz-citrus-10ml.jpg?v=1748505289",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.545Z"
+}

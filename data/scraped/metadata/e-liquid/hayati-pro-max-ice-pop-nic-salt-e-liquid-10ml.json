@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15115081548157",
+  "slug": "hayati-pro-max-ice-pop-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Ice Pop Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-ice-pop-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Ice Pop captures the classic flavour of a frozen ice lolly with a blend of sweet mixed fruits and icy Menthol. Bright berry notes meet citrusy undertones, all layered over a brisk menthol chill that mimics the refreshing sensation of a fruity ice lolly. It's a vibrant, cooling vape that keeps things light and flavourful from the first puff to the last. Made with nicotine salts for rapid nicotine satisfaction and a smoother inhale, this e-liquid is ideal for MTL (mouth-to-lung) vaping with pod kits and starter devices. The 50VG/50PG ratio ensures clean, consistent vapour and dependable flavour delivery. This flavour is part of the Hayati Pro Max Nic Salt range, inspired by Hayati’s own bestselling disposable vapes and now reimagined in a longer-lasting 10ml format—available in 10mg and 20mg nicotine strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140343",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140405",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-ice-pop-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ice-Pop_Hayati-Pro-Max-Nic-Salts.jpg?v=1743414636",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.395Z"
+}

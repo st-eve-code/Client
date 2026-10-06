@@ -1,0 +1,85 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639613235524",
+  "slug": "flexus-q-coils-aspire",
+  "title": "Aspire Flexus AF Mesh Coils x 5",
+  "url": "https://www.vapestore.co.uk/products/flexus-q-coils-aspire",
+  "brand": "Aspire",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Inspired by the simplicity and versatility of refillable pod kits and the discreet portability of disposables, the new Flexus Q pod kit from Aspire is a compact, lightweight and elegant pod kit that’s ideal for new vapers and experienced vapers alike. The Flexus range use the AF (Aspire Flexus)0.4Ω, 0.6Ω & 1.0Ω vertical mesh coils, which heat more evenly to fully atomize the e-liquid, effectively enhancing both flavour and nicotine delivery. The Flexus range are low-powered devices that are perfect for use with nic salt , 50/50 and classic High-PG e-liquids. Coil Details: Aspire Flexus AF Mesh 0.4ohm Best Used Between 20-28W DTL Aspire Flexus AF Mesh 0.6ohm Best Used Between 15-18W RDTL Aspire Flexus AF Mesh 1.0ohm Best Used Between 12-15W MTL Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-AS-KT-FLX-Q-PO-FU",
+    "compatible-with-AS-RP-FLX-Q-2ML",
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.4 ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "AS-CO-FLX-Q-AF-MSH-0.6-5P",
+      "price": 6.99
+    },
+    {
+      "title": "0.4 ohm",
+      "sku": "1135018",
+      "price": 7.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "AS-CO-FLX-Q-AF-MSH-1.0-5P",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__flexus-q-coils-aspire__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-q-coils-0-6_1_93fd1d4f-b618-4bea-af58-226ad76a6ab6.jpg?v=1729044424",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__flexus-q-coils-aspire__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-q-coils-1-0.jpg?v=1729044424",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__flexus-q-coils-aspire__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-q-coils-0-6.jpg?v=1729044424",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__flexus-q-coils-aspire__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-q-coils-0-6_2.jpg?v=1729044424",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.868Z"
+}

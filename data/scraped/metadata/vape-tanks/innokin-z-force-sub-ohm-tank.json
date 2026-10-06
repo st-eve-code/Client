@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639790510404",
+  "slug": "innokin-z-force-sub-ohm-tank",
+  "title": "Innokin Z Force Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/innokin-z-force-sub-ohm-tank",
+  "brand": "Innokin",
+  "productType": "Tanks",
+  "price": {
+    "min": 16.99,
+    "max": 16.99,
+    "currency": "GBP"
+  },
+  "description": "Discover the ultimate vaping experience with the Innokin Z Force Sub-Ohm Tank. Boasting exceptional performance and unparalleled flavour, this cutting-edge tank is perfect for both beginners looking to take their first steps into sub-ohm vaping and advanced vapers alike. Built with high-quality stainless steel and Pyrex glass, the Z Force Tank is designed to withstand the rigors of daily use, ensuring long-lasting performance and reliability. Refilling your tank has never been easier or cleaner. With its secure top-fill system, simply slide the top cap to reveal the fill port, and you'll be able to top up your e-liquid without any mess or hassle. Personalize your vaping experience with the Z Force Tank's adjustable airflow control. Whether you prefer a tight draw or airy clouds, you can fine-tune the airflow to your liking for the perfect vape every time. The Z Force Tank is compatible with a variety of coil options, allowing you to experiment with different resistances and materials to find the perfect match for your vaping style. Innokin’s latest ZF coil series , compatible with the Z Force tank, are equipped with Innokin's innovative DuoPrime coil technology, which features a unique combination of mesh and wicking materials. This ensures rapid and even heating, delivering intense flavour and massive vapor production. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Stainless Steel",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Stainless Steel",
+      "sku": "1123556",
+      "price": 16.99
+    },
+    {
+      "title": "Black",
+      "sku": "1123557",
+      "price": 16.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-z-force-sub-ohm-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_z_force_2ml_tank_black_1_76ee0bc0-831e-47e8-82a7-5493b732eab6.jpg?v=1729052449",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-z-force-sub-ohm-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_z_force_2ml_tank_stainless_steel.jpg?v=1729052449",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-z-force-sub-ohm-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin_z_force_2ml_tank_black.jpg?v=1729052449",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

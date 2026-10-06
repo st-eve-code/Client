@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639773307204",
+  "slug": "vampire-vape-black-jack-nicsalt-eliquid",
+  "title": "Vampire Vape Black Jack Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-black-jack-nicsalt-eliquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Black Jack by Vampire Vape brings back the magical nostalgic taste of childhood sweets with its distinctive aniseed and liquorice flavour. This punchy e-liquid features a mildly spiced, sugar-coated aniseed profile complemented by a rich liquorice undertone. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production, and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. These Vampire Vape Nic Salt e-liquids are perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts along with a super-smooth throat hit. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. With nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1091631",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1091632",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-black-jack-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-nic-salts-eliquid-black-jack-10ml_1_1_1.jpg?v=1729051142",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-black-jack-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-nic-salts-eliquid-black-jack-10ml_1.jpg?v=1729051142",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-black-jack-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-nic-salts-eliquid-black-jack-10ml_1_1.jpg?v=1729051142",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.451Z"
+}

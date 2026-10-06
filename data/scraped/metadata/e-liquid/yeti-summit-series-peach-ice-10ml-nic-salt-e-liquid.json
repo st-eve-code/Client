@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15101714727293",
+  "slug": "yeti-summit-series-peach-ice-10ml-nic-salt-e-liquid",
+  "title": "Yeti Summit Series Peach Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/yeti-summit-series-peach-ice-10ml-nic-salt-e-liquid",
+  "brand": "Yeti",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Yeti Summit Peach Ice delivers the soft, sun-ripened sweetness of juicy Peach with a cooling Menthol lift. Each puff offers rich, velvety fruit flavour that’s intensely sweet on the inhale, then soft and smooth on the exhale, enhanced by an icy layer of frosty menthol that adds a clean contrast and lifts the profile beyond a simple fruit vape to something truly extraordinary. Made with nicotine salts for faster absorption and a tactile yet comfortable throat hit, this e-liquid is ideal for MTL (mouth-to-lung) vaping with low-powered pod systems and starter kits. Its 50VG/50PG ratio offers excellent flavour clarity and discreet vapour, perfect for all-day use. The Yeti Summit Series features a range of double-concentrated nicotine salts, each delivering bold fruit flavour with the signature icy edge that Yeti is known for. Available in 5mg, 10mg and 20mg strengths, these 10ml bottles provide a longer-lasting, more sustainable alternative to disposables.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1140514",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1140509",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140519",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__yeti-summit-series-peach-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Yeti-summit-series-10ml-nic-salt-Peach-Ice.jpg?v=1742981693",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.437Z"
+}

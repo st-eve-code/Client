@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639662387524",
+  "slug": "e-liquid-base-mix-70-30-500ml",
+  "title": "Vampire Vape Base Mix 70VG/30PG 500ml",
+  "url": "https://www.vapestore.co.uk/products/e-liquid-base-mix-70-30-500ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 7,
+    "max": 7,
+    "currency": "GBP"
+  },
+  "description": "This VG/PG base mix has a 70/30 ratio so you can easily make your own super flavourful sub ohm e-liquids at home using this base mix, e-liquid concentrates, and nicotine shots. This base mix makes e-liquid that's best suited to more powerful vape kits that can handle thicker liquids. This 500ml bottle comes pre-mixed and all you need to do is simply add whatever e-liquid flavour concentrates you want, and some nicotine shots if desired. Details: Vampire Vape Base Mix 70VG/30PG 500ml Just add flavour concentrates and nicotine shot (if required) Made in the UK",
+  "tags": [
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1007867",
+      "price": 7
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__e-liquid-base-mix-70-30-500ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire_vape_base_mix_70vg30pg_500ml.jpg?v=1729046628",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.488Z"
+}

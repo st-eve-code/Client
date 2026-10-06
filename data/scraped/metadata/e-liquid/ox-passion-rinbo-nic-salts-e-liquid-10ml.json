@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15873746338173",
+  "slug": "ox-passion-rinbo-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Rinbo Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-rinbo-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Rinbo is a vibrant celebration of confectionery flavours. This complex blend captures the essence of chewy rainbow sweets, offering a multi-layered profile packed with varied fruit notes. The inhale introduces a mix of sweet and tangy Candy flavours, while the exhale leaves a sugary, colourful finish that provides a truly fun and engaging vape. Formulated with a perfectly balanced 50% VG / 50% PG ratio, this e-liquid provides excellent versatility for Mouth-to-Lung (MTL) devices. It pairs flawlessly with coils ranging from 1.2ohm to 0.8ohm, ensuring crisp flavour clarity and discreet vapour. The Nicotine Salt blend ensures a silky throat hit and rapid satisfaction. Developed by OXVA, a highly respected name in vaping hardware, the OX Passion Salts range offers a premium selection of e-liquids. These specialised blends are crafted to operate flawlessly with modern refillable vape devices, delivering a highly consistent vape. Available in 5mg, 10mg, and 20mg strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1154526",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1154531",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1154536",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-rinbo-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rinbo-Ox-Passion-E-Liquid-10ml-5mg.jpg?v=1781253915",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ox-passion-rinbo-nic-salts-e-liquid-10ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rinbo-Ox-Passion-E-Liquid-10ml-10mg.jpg?v=1781253927",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ox-passion-rinbo-nic-salts-e-liquid-10ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Rinbo-Ox-Passion-E-Liquid-10ml-20mg.jpg?v=1781253963",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.411Z"
+}

@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639640465732",
+  "slug": "ibiza-club-mixed-berry-50-50-e-liquid",
+  "title": "Ibiza Club Mixed Berry 50/50 E-liquid",
+  "url": "https://www.vapestore.co.uk/products/ibiza-club-mixed-berry-50-50-e-liquid",
+  "brand": "Ibiza Club",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ibiza Club’s Mixed Berry is a sweet, sharp and deliciously smooth medley of ripe forest berries with a irresistible depth of flavour. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio delivers a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "3 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "prime-1020",
+    "prime-310"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "1115781",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1115787",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1115797",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ibiza-club-mixed-berry-50-50-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ibiza-club-mixed-berry.jpg?v=1729045613",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.438Z"
+}

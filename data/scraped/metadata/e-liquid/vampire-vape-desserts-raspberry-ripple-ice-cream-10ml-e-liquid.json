@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15124752662909",
+  "slug": "vampire-vape-desserts-raspberry-ripple-ice-cream-10ml-e-liquid",
+  "title": "Vampire Vape Desserts Raspberry Ripple Ice Cream 10ml  E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-desserts-raspberry-ripple-ice-cream-10ml-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Raspberry Ripple Ice Cream by Vampire Vape Desserts delivers the nostalgic taste of creamy vanilla ice cream swirled with sweet and tangy Raspberry sauce. This dessert-inspired e-liquid blends flavours of smooth, velvety ice cream with a rich, fruity swirl that adds a delightful sweet-tart contrast, reminiscent of the classic summer treat. Formulated for mouth-to-lung (MTL) vaping, this e-liquid is available in 0mg, 3mg, 6mg, 12mg, and 18mg freebase nicotine strengths. The 3mg strength features a 50VG/50PG ratio for a balanced experience, while the 0mg, 6mg, 12mg, and 18mg strengths offer a 40VG/60PG blend to deliver a slightly stronger throat hit and clearer flavour profile. Proudly made in the UK and fully TPD-compliant, Raspberry Ripple Ice Cream is part of the Vampire Vape Desserts range — a flavourful collection of e-liquids inspired by indulgent, familiar favourites. Also available in High-VG Shortfills and DIY Concentrates.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Desserts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1138225",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1138228",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1138231",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1138234",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1138237",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-desserts-raspberry-ripple-ice-cream-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/UK--Vampire-Vape-10ml-Freebase---Desserts-Collection---Raspberry-Ripple-Ice-Cream---Bottle.jpg?v=1743667930",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.440Z"
+}

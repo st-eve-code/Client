@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9640048951620",
+  "slug": "aspire-af-tank-2ml",
+  "title": "Aspire AF Vape Tank 2ml",
+  "url": "https://www.vapestore.co.uk/products/aspire-af-tank-2ml",
+  "brand": "Aspire",
+  "productType": "Tanks",
+  "price": {
+    "min": 21.99,
+    "max": 21.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire AF Tank is designed to offer a rich and full-flavoured vaping experience. This Direct-To-Lung (DTL) sub-ohm tank boasts a durable metal design and a 2ml e-liquid capacity, making it perfect for medium-wattage vaping. The push-to-fill sliding top filling mechanism ensures a hassle-free refill process, while the 360° airflow control allows for precise adjustments to suit your preferred draw and vaping style. Fully compatible with the Aspire AF Coil Series, the AF Tank is engineered to deliver authentic flavour notes from your favourite e-liquids. Available in Silver, Blue and Black, this tank seamlessly connects to any 510-threaded device meaning you can effortlessly pair it with your favourite mod. For added convenience, replacement glass elements are included in case of accidental drops. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Silver",
+        "Blue",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Silver",
+      "sku": "1133707",
+      "price": 21.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1133706",
+      "price": 21.99
+    },
+    {
+      "title": "Black",
+      "sku": "1133705",
+      "price": 21.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-af-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-af-tank-2ml-black_1.jpg?v=1729065025",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-af-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-af-tank-2ml-silver.jpg?v=1729065025",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-af-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-af-tank-2ml-blue.jpg?v=1729065025",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-af-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-af-tank-2ml-black.jpg?v=1729065025",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

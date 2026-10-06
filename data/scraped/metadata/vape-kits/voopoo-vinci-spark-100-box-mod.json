@@ -1,0 +1,121 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14930240078205",
+  "slug": "voopoo-vinci-spark-100-box-mod",
+  "title": "VooPoo Vinci Spark 100 Box Mod",
+  "url": "https://www.vapestore.co.uk/products/voopoo-vinci-spark-100-box-mod",
+  "brand": "VooPoo",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 29.99,
+    "max": 29.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Vinci Spark 100 Box Mod fuses stunning design flourishes with cutting-edge vaping technology, offering a premium sub-ohm experience in a compact, stylish design. Built from durable aluminium alloy, its classic, minimalist form factor is complemented by a magnetic side panel and dazzling starlight LED animations. With three customisable light modes—Shooting Stars, Starry Sky, and Rhythmic Arrows—this mod is as visually impressive as it is powerful. Powered by a single 18650 battery (sold separately), the Vinci Spark 100 delivers 5-100W of variable output, catering to DTL (direct-to-lung) and RDL (restricted direct-to-lung) vaping styles. At its core is Voopoo’s advanced GENE.AI 2.0 chipset, which features Smart Mode for automatic wattage adjustment, ECO Mode for extended battery efficiency, and RBA Mode for full customisation. A 0.96” TFT colour display and a responsive side firing button ensure effortless control and easy access to key vaping metrics. The Vinci Spark 100 Box Mod is compatible with a wide range of tanks, including Voopoo’s Uforce-X Nano Tank (sold separately). Whether paired with the Uforce-X Nano or another compatible tank, this mod delivers impeccable performance, versatility, and style. Perfect for sub-ohm enthusiasts, the Vinci Spark 100 is an exceptional choice for those seeking a blend of power, portability, and eye-catching design.",
+  "tags": [
+    "Box Mods",
+    "DTL",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "Mod-VS",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Metal Grey",
+        "Rose Red",
+        "Orange-Red Gradient",
+        "Blue",
+        "Silver",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Metal Grey",
+      "sku": "1137961",
+      "price": 29.99
+    },
+    {
+      "title": "Rose Red",
+      "sku": "1137959",
+      "price": 29.99
+    },
+    {
+      "title": "Orange-Red Gradient",
+      "sku": "1137958",
+      "price": 29.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1137957",
+      "price": 29.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1137962",
+      "price": 29.99
+    },
+    {
+      "title": "Black",
+      "sku": "1137960",
+      "price": 29.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-vinci-spark-100-box-mod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-spark-Silver-mod.jpg?v=1736351763",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-spark-100-box-mod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-spark--Metal-Gray-mod.jpg?v=1736351824",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-spark-100-box-mod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-spark-Black-mod.jpg?v=1736351872",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-spark-100-box-mod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-spark-Rose-Red-mod.jpg?v=1736352551",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-spark-100-box-mod__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-spark-Orange-red-Gradient-mos.jpg?v=1736352602",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-spark-100-box-mod__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-spark-Blue-mod.jpg?v=1736352838",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.101Z"
+}

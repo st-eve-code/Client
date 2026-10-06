@@ -1,0 +1,112 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639815938372",
+  "slug": "horizontech-falcon-replacement-coils",
+  "title": "HorizonTech Falcon Replacement Coils 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/horizontech-falcon-replacement-coils",
+  "brand": "HorizonTech",
+  "productType": "Coils",
+  "price": {
+    "min": 3.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "These replacement Falcon Mesh coils from HorizonTech boast a durable bamboo pulp & cotton or wood pulp & cotton blend for extended coil life. M-Dual 0.38 Ohm Mesh Coil best used between 70 to 80W (Double Coil) M1 0.15ohm Mesh Coil best used between 60 to 80W (Wood Pulp & Cotton) M2 0.16ohm Mesh Coil best used between 60 to 80W (Wood Pulp & Cotton) M6 0.15ohm Mesh Coil For Smooth Vapour 65 to 70W (Range Bamboo Pulp Cotton) M8 0.15ohm Mesh Coil For Massive Vapour 65 to 70W (Range Bamboo Pulp Cotton) Compatible with the HorizonTech Falcon Legend Tank - the ultimate sub ohm vaping experience from HorizonTech. Built on the success of the hugely popular Falcon tanks, this precision-engineered tank takes sub-ohm vaping to the next level.",
+  "tags": [
+    "compatible-with-1123776",
+    "compatible-with-619835",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "M1 0.15ohm",
+        "M2 0.16ohm",
+        "M-Duel 0.38ohm",
+        "M6 0.15ohm",
+        "M8 0.15ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "M1 0.15ohm",
+      "sku": "1007524",
+      "price": 6.99
+    },
+    {
+      "title": "M2 0.16ohm",
+      "sku": "645575",
+      "price": 3.99
+    },
+    {
+      "title": "M-Duel 0.38ohm",
+      "sku": "HT-FC-KG-MD-038",
+      "price": 8.99
+    },
+    {
+      "title": "M6 0.15ohm",
+      "sku": "1123783",
+      "price": 6.99
+    },
+    {
+      "title": "M8 0.15ohm",
+      "sku": "1123784",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__horizontech-falcon-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_coils_m8_0-15ohm-3pck_1.jpg?v=1729054121",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-replacement-coils__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/644011_horizon_falcon_m1_coil_001.png?v=1729054121",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-replacement-coils__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/645575_horizon_falcon_m2_coil_001.png?v=1729054121",
+      "position": 3,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-replacement-coils__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/falcon-m-dual-mesh-coil-0-38ohm_e412113d-0e7a-49ef-8a71-dd2b2c01a8b7.jpg?v=1729054121",
+      "position": 4,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-replacement-coils__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_coils_m6_0-15ohm-3pck.jpg?v=1729054121",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-falcon-replacement-coils__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon_tech_falcon_coils_m8_0-15ohm-3pck.jpg?v=1729054121",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.870Z"
+}

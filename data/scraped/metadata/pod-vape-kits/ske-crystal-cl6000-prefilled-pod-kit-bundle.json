@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15104771916157",
+  "slug": "ske-crystal-cl6000-prefilled-pod-kit-bundle",
+  "title": "SKE Crystal CL6000 Prefilled Kit Bundle",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-cl6000-prefilled-pod-kit-bundle",
+  "brand": "SKE Crystal",
+  "productType": "Bundle",
+  "price": {
+    "min": 21.95,
+    "max": 21.95,
+    "currency": "GBP"
+  },
+  "description": "The SKE Crystal CL6000 Prefilled Pod Kit delivers a high-performance vaping experience in a compact and stylish device, and with this EXCLUSIVE bundle offer, you can enjoy even more of your favourite Crystal flavours while saving money. This bundle includes the Crystal CL6000 device plus Three additional prefilled pods with refill containers, giving you extended use and exceptional value. The CL6000 features is a clever automatic refill system that draws e-liquid from a 10ml reservoir into the 2ml pod as you vape, eliminating the need for manual refills and keeping your experience smooth and consistent with minimal pod changes. Each pod features dual mesh coil technology, producing vibrant flavour, smooth vapour and a crisp, tactile draw with every puff, while the 800mAh rechargeable battery ensures you can vape for longer between charges. Designed for MTL (mouth-to-lung) vaping, the Crystal CL6000 pairs performance with portability thanks to its iconic, crystalline semi-translucent shell and lightweight construction. With USB-C fast charging, minimal downtime, and up to 6000 puffs per pod, this bundle is ideal for vapers who want style, simplicity, and serious staying power from their vape kit. Choose from a range of ten incredible SKE Crystal flavours in replacement pod packs, from fruity favourites to frosty blends—all using 20mg/ml nicotine salt e-liquid for smooth throat hits and fast nicotine delivery. Customise Your Bundle the way you want, choose your favourite kit flavour then select your two favourite Vape Pod+Refill Flavours.",
+  "tags": [
+    "24k Puffs",
+    "Battery-included",
+    "Crystal CL6000",
+    "Kit-VS-Export",
+    "Prefilled Bundle"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "price": 21.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-cl6000-prefilled-pod-kit-bundle__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-Crystal-cl6000-Bundle.jpg?v=1743067819",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.487Z"
+}

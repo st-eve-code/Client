@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639521517892",
+  "slug": "horizontech-sakerz-coils-3pack",
+  "title": "HorizonTech Sakerz Mesh Coils 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/horizontech-sakerz-coils-3pack",
+  "brand": "HorizonTech",
+  "productType": "Coils",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "HorizonTech’s advanced Sakerz Coil is a mesh coil specifically designed for the high-performance Sakerz Sub-ohm Tank. There are two different mesh coil builds that provide uniquely different vaping experiences: 0.16ohm mesh coil best vaped at 70W 0.17ohm 2-in-1 mesh coil best vaped at 70W. Easy to replace, simply remove the Sakerz Tank base, pull out the old coil and plug in a new one.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.16ohm",
+        "0.17ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.16ohm",
+      "sku": "HZ-CO-SK-MS-0.16-3P",
+      "price": 6.99
+    },
+    {
+      "title": "0.17ohm",
+      "sku": "HZ-CO-SK-2IN1-MS-0.17-3P",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__horizontech-sakerz-coils-3pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon-tech-sakerz-0-16.jpg?v=1729041362",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-sakerz-coils-3pack__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon-tech-sakerz-0-16_1.jpg?v=1729041362",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__horizontech-sakerz-coils-3pack__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/horizon-tech-sakerz-0-17_1.jpg?v=1729041362",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.869Z"
+}

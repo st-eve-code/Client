@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15263727452541",
+  "slug": "just-juice-bar-range-kiwi-cooler-10ml-nic-salt-e-liquid",
+  "title": "Just Juice Bar Range Kiwi Cooler 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/just-juice-bar-range-kiwi-cooler-10ml-nic-salt-e-liquid",
+  "brand": "Just Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Kiwi Cooler from the Just Juice Bar Range is a cool, zesty fruit blend that balances vibrant Green Kiwi with refreshing Cucumber and a bright burst of Lime. The inhale delivers the sweet-tangy Kiwi and the mellow green smoothness of Cucumber, while the Lime adds a subtle citrus twist. A clean Ice finish rounds out the blend with a crisp, frosty exhale. Crafted with nicotine salts for fast-acting nicotine delivery and a smooth yet tactile throat hit, this e-liquid performs best in MTL (mouth-to-lung) vape kits, including pod systems and vape pens. Available in 5mg, 10mg and 20mg strengths, it offers a flavour-packed vape with discreet vapour and minimal throat harshness. Just Juice Bar Range Nic Salts are made in the UK and blended at a 60PG/40VG ratio for a satisfying balance of flavour clarity and vapour. Inspired by popular disposable-style profiles, each flavour offers a chilled, fruit-driven vape in a refillable 10ml format. Please Note : All flavours in the Just Juice Bar Range feature a subtle hint of ice to enhance the flavour profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Just Juice Bar Range",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1153423",
+      "price": 3.95
+    },
+    {
+      "title": "5mg",
+      "sku": "1142229",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142236",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142242",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-bar-range-kiwi-cooler-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-KIWI-COOLER-5mg.jpg?v=1748601074",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-kiwi-cooler-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salt-KIWI-COOLER-10mg.jpg?v=1748601128",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-bar-range-kiwi-cooler-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Just-Juice-BAR-Salts-KIWI-COOLER-20mg.jpg?v=1748601155",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.434Z"
+}

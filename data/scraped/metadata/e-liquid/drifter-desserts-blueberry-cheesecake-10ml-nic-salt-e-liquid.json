@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15538084544893",
+  "slug": "drifter-desserts-blueberry-cheesecake-10ml-nic-salt-e-liquid",
+  "title": "Drifter Desserts Blueberry Cheesecake 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/drifter-desserts-blueberry-cheesecake-10ml-nic-salt-e-liquid",
+  "brand": "Drifter",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Cheesecake by Drifter Desserts captures the taste of a classic dessert with sweet, jammy Blueberries layered over a creamy Cheesecake base. Subtle biscuit notes complete the profile, delivering a vape that combines fruity sharpness with indulgent depth. Blended at a 50VG/50PG ratio, this Nic Salt e-liquid offers a tactile yet comfortable throat hit, discreet vapour, and smooth flavour release. It’s ideal for MTL (mouth-to-lung) vaping, working best with low-powered pod kits, vape pens, and starter devices. With 5mg, 10mg and 20mg strengths, it’s easy to choose the nicotine level that suits your needs. Made in the UK by Juice Sauz, the Drifter Desserts collection highlights expertly blended dessert flavours for vapers who enjoy rich and satisfying profiles. This e-liquid works seamlessly in both refillable vape kit and vape starter kit uk setups.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1148561",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1148545",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148553",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__drifter-desserts-blueberry-cheesecake-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Blueberry-Cheesecake-10ml-5mg.jpg?v=1758113989",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-desserts-blueberry-cheesecake-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Blueberry-Cheesecake-10ml-10mg.jpg?v=1758114003",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__drifter-desserts-blueberry-cheesecake-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drifter-Blueberry-Cheesecake-10ml-20mg.jpg?v=1758114061",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.543Z"
+}

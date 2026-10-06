@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639630373188",
+  "slug": "cola-vampire-vape-e-liquid",
+  "title": "Vampire Vape Cola 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/cola-vampire-vape-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Prepare to surprise and delight your senses with the Vampire Vape Cola 10ml E-Liquid. With each seriously smooth draw you can enjoy the refreshingly bubbly taste of classic cola flavours. Making this a sweet and tasty all-day vape. Whether you're looking to satisfy your cola cravings, or searching for a refreshing beverage flavour to add to your e-juice collection. This Cola by Vampire Vape E-Liquid 10ml could be the perfect choice for you. With each inhale of this Vampire Vape Cola E-Liquid, you can indulge in a refreshing blend of cinnamon, vanilla and hints of citrus splashed together. Capturing the great taste of everyone's favourite cola beverage. Upon exhale, an invigorating fizz sweeps across your taste buds, leaving a refreshing sensation that lingers. Creating a vape indulgence that is both nostalgic and satisfying. Crafted by Vampire Vape, this Cola by Vampire Vape has been designed to deliver maximum flavour and satisfying clouds by striking the ideal balance between PG and VG. Order the Classic cola Vampire Vape E-Liquid today to embrace the timeless taste of cola and take your vaping experience to new heights. When choosing the right Vampire Vape Juice nicotine strength for your vaping needs, it's important to know the VG/PG ratio. Please note: The 3 mg nicotine strength has a 50VG/50PG ratio, whilst the 0mg, 6mg, 12mg, and 18mg nicotine strengths have a 40VG/60PG composition. These versatile Vampire Vape juice blends are compatible with a wide range of vape devices. But they truly shine when paired with low-powered starter kits, pen-vape kits, and pod kits. If you're captivated by the delectable flavours of this Classic cola Vampire Vape E-Liquid 10ml, why not explore their other equally delicious E-Liquids. Such as their Vampire Vape Nic Salts or their Vampire Vape Bar Salts ranges? Their E-Liquid ranges cater to every vaper's unique flavour preferences. Ensuring there's always something new and exciting to discover. So whether you crave fruity delights, indulgent desserts, or refreshing menthol blends, you're sure to find the perfect vape juice to satisfy your taste buds and take your vaping to the next level.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "VV-10-CO-00-50",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "VV-10-CO-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-10-CO-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-10-CO-12-50",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VV-10-CO-18-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__cola-vampire-vape-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-cola-10ml-e-liquid.jpg?v=1729045165",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.395Z"
+}

@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15101690216829",
+  "slug": "yeti-summit-series-blue-lychee-ice-10ml-nic-salt-e-liquid",
+  "title": "Yeti Summit Series Blue Lychee Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/yeti-summit-series-blue-lychee-ice-10ml-nic-salt-e-liquid",
+  "brand": "Yeti",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Yeti Summit Blue Lychee Ice brings together two unique flavours in a distinctly compelling blend. The syrupy sweetness of Blue Raspberry is balanced by the lighter, tropical character of Lychee, creating a vibrant contrast that’s both punchy and refreshing. Finished with an icy menthol breeze, this nic salt delivers a cool, fruity vape with a clean finish. Made with nicotine salts, this e-liquid ensures swift nicotine delivery and a more comfortable throat hit, ideal for use with low-powered pod kits and MTL (mouth-to-lung) starter devices. The 50VG/50PG formulation provides a smooth, flavour-focused experience with discreet vapour and reliable consistency throughout the day. The Yeti Summit Series features double-concentrated nicotine salt e-liquids, each designed to deliver maximum flavour with a bracingly cool twist. Available in 5mg, 10mg and 20mg strengths, this convenient 10ml format offers an affordable and lower-waste alternative to single-use disposables—without compromising on quality.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1140511",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1140506",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140516",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__yeti-summit-series-blue-lychee-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Yeti-summit-series-10ml-nic-salt-Blue-Lychee-Ice.jpg?v=1742981751",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.328Z"
+}

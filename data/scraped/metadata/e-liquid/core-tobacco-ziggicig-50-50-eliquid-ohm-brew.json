@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639602061636",
+  "slug": "core-tobacco-ziggicig-50-50-eliquid-ohm-brew",
+  "title": "Ohm Brew Core Tobacco Ziggicig 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/core-tobacco-ziggicig-50-50-eliquid-ohm-brew",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 1.99,
+    "max": 1.99,
+    "currency": "GBP"
+  },
+  "description": "Tobacco Ziggicig from Ohm Brew’s Core range of Freebase e-liquids is a truly inventive and seductive tobacco vape. This smooth, sweet tea-cured tobacco makes for a truly rich and rewarding tobacco vape that delivers all-day satisfaction. Ohm Brew’s Core range recaptures the original magic of freebase nicotine e-liquids. Freebase nicotine is a form of nicotine with an alkaline formula, which offers more of a tactile ‘throat hit’ than nic salt e-liquids. Their throat sensation closely mimics the draw of a traditional cigarette, only the taste is far more delicious! Ohm Brew’s Core range of Freebase e-liquids are ideal for use in classic e-cigarette starter vape kits and pod kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 10mls",
+    "Delisted",
+    "MTL/RDL",
+    "Ohm Brew Core"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "COR-10-TZ-03",
+      "price": 1.99
+    },
+    {
+      "title": "6mg",
+      "sku": "COR-10-TZ-06",
+      "price": 1.99
+    },
+    {
+      "title": "12mg",
+      "sku": "COR-10-TZ-12",
+      "price": 1.99
+    },
+    {
+      "title": "18mg",
+      "sku": "COR-10-TZ-18",
+      "price": 1.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__core-tobacco-ziggicig-50-50-eliquid-ohm-brew__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm-brew-core-tobacco-ziggicig.jpg?v=1729043792",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.434Z"
+}

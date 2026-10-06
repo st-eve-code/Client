@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15639722885501",
+  "slug": "riot-x-nic-salts-strawberry-peach-pineapple-10ml-e-liquid",
+  "title": "Riot X Nic Salts Strawberry Peach Pineapple 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/riot-x-nic-salts-strawberry-peach-pineapple-10ml-e-liquid",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Peach Pineapple by Riot X Nic Salts delivers a smooth, sunny mix of soft fruit notes. Strawberry sets the tone with juicy sweetness. Peach adds a mellow, rounded stone-fruit softness. Pineapple brightens the finish with a light tropical lift. This e-liquid features Riot’s Hybrid Nicotine formula, combining Nic Salt and freebase for fast-acting satisfaction, a comfortable inhale, and discreet vapour. Its 50VG/50PG balance is designed for mouth-to-lung (MTL) vaping and works best with low-powered pod kits, vape pens and compact starter devices. Made in the UK, Riot X Nic Salts are blended for strong, distinctive fruit profiles that suit all-day MTL vaping in refillable devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple",
+    "prime-1020",
+    "Riot X Nic salts",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149408",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1149414",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1149420",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__riot-x-nic-salts-strawberry-peach-pineapple-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Peach-Pineapple-Riot-X-Nic-Salts-10ML-5MG.jpg?v=1761747709",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-strawberry-peach-pineapple-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Peach-Pineapple-Riot-X-Nic-Salts-10ML-10mg.jpg?v=1761747727",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__riot-x-nic-salts-strawberry-peach-pineapple-10ml-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Peach-Pineapple-Riot-X-Nic-Salts-10ML-20mg.jpg?v=1761747818",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.411Z"
+}

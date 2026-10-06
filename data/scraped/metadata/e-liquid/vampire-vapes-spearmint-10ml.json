@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639453819204",
+  "slug": "vampire-vapes-spearmint-10ml",
+  "title": "Vampire Vape Spearmint 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vapes-spearmint-10ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The timeless taste of spearmint chewing gum is captured to perfection in this exquisite e-liquid from Vampire Vape. Bursting with cool, refreshing flavour, this irresistible e-liquid carries gentle floral notes, a smooth, mild candy sweetness and an uplifting touch of menthol on the exhale. This e-liquid from Vampire Vape offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. Please note: that the 3mg nicotine strength contains 50VG/50PG while 3mg, 6mg, 12mg & 18mg nicotine strengths contain 40VG/60PG. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits , pen-vape kits and pod kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "VV-VV-10-SM-03",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "VV-VV-10-SM-06",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "VV-VV-10-SM-12",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "VV-VV-10-SM-18",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vapes-spearmint-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-spearmint-10ml-e-liquid.jpg?v=1729040406",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.455Z"
+}

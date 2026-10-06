@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15228062564733",
+  "slug": "elux-legend-blue-razz-cherry-nic-salt-e-liquid-10ml",
+  "title": "Elux Legend Blue Razz Cherry Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-blue-razz-cherry-nic-salt-e-liquid-10ml",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Legend Blue Razz Cherry Nic Salt brings together the tart sweetness of Blue Raspberry with the rich, juicy flavour of ripe Cherry. The result is a vivid fruit blend with tangy high notes and a smooth berry finish, capturing the sweet-sour contrast that makes this pairing so popular. Blended with double-concentrated flavouring, this e-liquid delivers the punchy intensity that defines the Elux Legend range, inspired by the brand’s most iconic blends. With a 50VG/50PG ratio and a smooth nicotine salt base, Blue Razz Cherry is ideal for use with MTL (mouth-to-lung) pod kits and starter devices. Expect satisfying flavour, discreet vapour, and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1142067",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142073",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-blue-razz-cherry-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elux-Legend-10ml-Blue-Razz-Cherry.jpg?v=1747386084",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.332Z"
+}

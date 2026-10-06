@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003363017085",
+  "slug": "ruthless-paradize-shortfill-100ml-e-liquid",
+  "title": "Ruthless Paradize Shortfill 100ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-paradize-shortfill-100ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Paradize by Ruthless is an inventively exotic fruit fusion that layers the tart tropical intensity of Passion Fruit with the juicy richness of ripe Peach and the fresh mellow sweetness of Pear. The result is a beautifully balanced e-liquid where tropical tang meets smooth, mellow fruit notes, creating a refreshing and uplifting vape with a pleasantly complex depth of flavour. Blended to perfection as part of the signature Ruthless Shortfill range, Paradize features a 70VG/30PG ratio for thick, flavour-rich vapour production and a smooth inhale. Designed for Sub-Ohm vape kits and advanced high-powered DTL (direct-to-lung) devices, it comes in a 100ml shortfill bottle with space for two 10ml nicotine shots, allowing for a customisable nicotine strength. Ruthless has long been at the forefront of the vaping industry, creating bold and distinctive e-liquids that stand apart from the rest. Their dedication to innovative flavour blends and premium-quality ingredients continues to push the boundaries of what’s possible in e-liquid.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138937",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-paradize-shortfill-100ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ruthless-100ml-shortfill-PARADIZE.jpg?v=1739197893",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.551Z"
+}

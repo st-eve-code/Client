@@ -1,0 +1,85 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639780221252",
+  "slug": "re-salt-tropical-breeze-eliquid-nicsalt-eliquid",
+  "title": "Re-Salt Tropical Breeze Nic Salt 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/re-salt-tropical-breeze-eliquid-nicsalt-eliquid",
+  "brand": "Re-Salt",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Tropical Breeze by Re-Salt is deliciously fruity and refreshing Tropical vape, loaded with exotic character. Fresh, tangy Pineapple and intensely sweet Passionfruit are layered with crushed ice for an exquisite and uplifting all-day vape. This premium e-liquid’s 50VG/50PG blend offers the perfect balance of flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. E-liquids formulated with nicotine salts are unique among vape products because unlike traditional freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than higher-strength freebase liquids. With nicotine salt e-liquids, the nicotine is absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. If you enjoy this flavour, there are plenty more delicious Re-Salt nic salt -liquid flavours to experience. Re-Salt e-liquids are crafted in the UK with premium nicotine salts for a smooth throat hit and immense satisfaction. Explore a diverse range of mouth-watering fruit, soda, dessert, menthol, and tobacco blends, perfectly balanced with 50% VG / 50 % PG for compatibility with a wide variety of pod vapes and MTL kits. With nicotine strengths ranging from 5mg to 10mg and 20mg, find your ideal intensity and elevate your vaping experience with Re-Salt.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1124315",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1124297",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1124283",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__re-salt-tropical-breeze-eliquid-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/re-salt-tropical-breeze-10ml-nic-salt-eliquid_1_1_1.jpg?v=1729051752",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__re-salt-tropical-breeze-eliquid-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/re-salt-tropical-breeze-10ml-nic-salt-eliquid.jpg?v=1729051752",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__re-salt-tropical-breeze-eliquid-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/re-salt-tropical-breeze-10ml-nic-salt-eliquid_1.jpg?v=1729051752",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__re-salt-tropical-breeze-eliquid-nicsalt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/re-salt-tropical-breeze-10ml-nic-salt-eliquid_1_1.jpg?v=1729051752",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.346Z"
+}

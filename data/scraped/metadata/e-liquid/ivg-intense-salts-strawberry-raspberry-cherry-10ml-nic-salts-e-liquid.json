@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15577832489341",
+  "slug": "ivg-intense-salts-strawberry-raspberry-cherry-10ml-nic-salts-e-liquid",
+  "title": "IVG Intense Salts Strawberry Raspberry Cherry 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ivg-intense-salts-strawberry-raspberry-cherry-10ml-nic-salts-e-liquid",
+  "brand": "IVG",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "IVG Intense Salts Strawberry Raspberry Cherry brings together three familiar fruits for a juicy blend. Sweet Strawberry forms the base, tart Raspberry adds a tangy lift, and rich Cherry rounds it off with depth and sweetness. This Nic Salt e-liquid is blended at 50VG/50PG, ensuring strong flavour, discreet vapour and a tactile yet comfortable throat hit. Available in 10mg and 20mg strengths, it’s best suited to mouth-to-lung (MTL) devices such as pod kits, vape pens and starter systems. Part of the IVG Intense Salts range, this trio combines three complementary fruits into one balanced profile.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1148481",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1148513",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-intense-salts-strawberry-raspberry-cherry-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-INTENSE-Salts-Strawberry-Raspberry-Cherry-min.jpg?v=1759400932",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.541Z"
+}

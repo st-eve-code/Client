@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "9639777173828",
+  "slug": "vaporesso-xros-3-nano-pod-kit",
+  "title": "Vaporesso Xros 3 Nano Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-xros-3-nano-pod-kit",
+  "brand": "Vaporesso",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "The Vaporesso XROS Nano pod kit is a good device for vapers who demand convenience and portability without sacrificing performance. This sleek and ultra-compact device is designed with simplicity in mind, making it easy for both novice and experienced vapers to enjoy their favourite e-liquids on-the-go. The XROS Nano features a built-in 1000mAh battery , providing long-lasting power for all-day vaping. The Nano’s Pulse mode ensures reliable firing and vapour output even with a low battery, while extending battery life for up to 48 hours on one charge . The device comes equipped with 2ml XROS 0.6ohm and 0.8ohm pod cartridges, which are easily refillable while the device itself is compatible with all of Vaporesso's renowned XROS series of fixed-coil pods for a spectrum of resistances and vaping styles. The pod’s feature Corex Heating Technology for incredible flavour and SSS Leak-resistant technology to ensure zero leaks and clean and simple refills. The Nano’s adjustable airflow system allows for a customizable vaping experience, letting you find your perfect draw, while the device's automatic draw- activated firing mechanism eliminates the need for any fire buttons or settings. The XROS Nano's ergonomic ‘matchbox’ design fits comfortably in the palm of your hand, making it a perfect option for vapers who are always on the move. When not in use, the handy included lanyard puts your XROS Nano always within easy reach. The device is available in a variety of eye-catching colours, allowing anyone to express their personal style while enjoying a super-satisfying vaping experience. We recommend using 50/50, Nic salt or high PG E-liquids Tip: To improve the performance and longevity of your pod's coils, always prime them with your chosen e-liquid before inserting into your pod or tank. 'Priming a coil' simply means wetting the exposed cotton or similar wicking material with a dab or two of e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your coil, attached it to your pod or tank, and filled up with e-liquid, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Battery-included",
+    "Delisted",
+    "Freedojokit",
+    "Freedojopod",
+    "Kit-Export",
+    "prime-refilkit",
+    "VS Export"
+  ],
+  "options": [
+    {
+      "name": "Colour",
+      "position": 1,
+      "values": [
+        "Bondi Blue",
+        "Black",
+        "Magenta Red",
+        "Lilac Purple",
+        "Olive Green"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Bondi Blue",
+      "sku": "1123227",
+      "price": 14.99
+    },
+    {
+      "title": "Black",
+      "sku": "1123221",
+      "price": 14.99
+    },
+    {
+      "title": "Magenta Red",
+      "sku": "1123224",
+      "price": 14.99
+    },
+    {
+      "title": "Lilac Purple",
+      "sku": "1123225",
+      "price": 14.99
+    },
+    {
+      "title": "Olive Green",
+      "sku": "1123230",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-xros-3-nano-pod-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-xros-3-nano-bondi-blue-pod-kit_1.jpg?v=1729051505",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xros-3-nano-pod-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-xros-3-nano-black-pod-kit.jpg?v=1729051505",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xros-3-nano-pod-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-xros-3-nano-magenta-red-pod-kit.jpg?v=1729051505",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xros-3-nano-pod-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-xros-3-nano-lilac-purple-pod-kit.jpg?v=1729051505",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xros-3-nano-pod-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-xros-3-nano-olive-green-pod-kit.jpg?v=1729051505",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.086Z"
+}

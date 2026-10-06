@@ -1,0 +1,102 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "9639597539652",
+  "slug": "eleaf-iore-lite-pod-kit",
+  "title": "Eleaf IORE LITE Pod Kit",
+  "url": "https://www.vapestore.co.uk/products/eleaf-iore-lite-pod-kit",
+  "brand": "Eleaf",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The new Eleaf IORE Lite pod kit delivers a rich and flavoursome MTL (mouth-to-lung) vape experience in a simple-to-use starter kit that requires the minimum of fuss. Super-compact and lightweight, the Eleaf IORE requires no more operation than taking a puff as you would a traditional cigarette, making the IORE a great choice for vapers who like to keep things simple. The sleek design comes wrapped in a soft-grip rubber finish, and a 350mAh battery delivers reliable all-day vaping supported by fast USB-C charging. The pod is refillable and holds 1.6ml of your favourite e-liquid and the built-in 1.20ohm coil can deliver up to 3000 puff before the whole pod needs replacing. The Eleaf IORE is an ideal starter kit for newer vapers or simply a great backup device that can easily slip into a pocket go wherever you do. Explore our vape juice uk and discover a delicious companion for this kit.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1109524",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL",
+    "prime-refilkit",
+    "VS Export"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Rubberised Red",
+        "Rubberised Cyan",
+        "Rubberised Black",
+        "Rubberised White"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Rubberised Red",
+      "sku": "EL-KT-IOR-LT-PO-RR",
+      "price": 9.99
+    },
+    {
+      "title": "Rubberised Cyan",
+      "sku": "EL-KT-IOR-LT-PO-RC",
+      "price": 9.99
+    },
+    {
+      "title": "Rubberised Black",
+      "sku": "EL-KT-IOR-LT-PO-RB",
+      "price": 9.99
+    },
+    {
+      "title": "Rubberised White",
+      "sku": "EL-KT-IOR-LT-PO-RW",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__eleaf-iore-lite-pod-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-ijust-iore-kit-cyan.jpg?v=1729043620",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-iore-lite-pod-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-ijust-iore-kit-red_1.jpg?v=1729043620",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-iore-lite-pod-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-ijust-iore-kit-cyan_1_1.jpg?v=1729043620",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-iore-lite-pod-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-ijust-iore-kit-black_1_1_1.jpg?v=1729043620",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-iore-lite-pod-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-ijust-iore-kit-white_2.jpg?v=1729043620",
+      "position": 5,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.501Z"
+}

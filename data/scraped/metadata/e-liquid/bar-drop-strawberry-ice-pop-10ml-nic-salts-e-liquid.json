@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763442532733",
+  "slug": "bar-drop-strawberry-ice-pop-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Strawberry Ice Pop 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-strawberry-ice-pop-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Strawberry Ice Pop by Drop is a nostalgic treat that recreates the taste of a classic frozen lolly. It features an intensified strawberry syrup flavour, sweet and vibrant, finished with a cooling ice effect that mimics the sensation of a frozen fruit treat on a hot day. Formulated with a 40% VG / 60% PG ratio, this blend ensures the sweet strawberry notes are delivered with high-definition clarity. Perfect for MTL (Mouth-to-Lung) vaping, it offers a smooth throat hit via its nicotine salt formula, available in 5mg, 10mg, and 20mg strengths. Bar Drop Salts is a range of nic salt e-liquids from UK manufacturer, Drop, that specialises in creating fruity flavours of astonishing authenticity and clarity.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152633",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152673",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152711",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-strawberry-ice-pop-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Ice-Pop-Bottle-Bar-Drop-10ml-Nic-salts.jpg?v=1768236582",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.470Z"
+}

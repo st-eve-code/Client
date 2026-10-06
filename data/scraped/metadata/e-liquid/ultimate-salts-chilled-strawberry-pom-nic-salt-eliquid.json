@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639764558148",
+  "slug": "ultimate-salts-chilled-strawberry-pom-nic-salt-eliquid",
+  "title": "Ultimate Salts Chilled Strawberry Pom Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ultimate-salts-chilled-strawberry-pom-nic-salt-eliquid",
+  "brand": "Ultimate",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Chilled Strawberry Pom from Ultimate Salt’s Chilled collection is a sweet and juicy fruit explosion with a frosty twist. You’ll taste freshly-picked, juicy strawberries blended with the sharp, exotic tang of pomegranate, all laced with a streak of ice-cold menthol for maximum refreshment. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production while the Nicotine Salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices and is available in 10mg and 20mg nicotine strength. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. Nicotine Salt e-liquids are absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. If you love this flavour, why not treat yourself to the others in Ultimate Salt’s Chilled collection? From tantalising tropical flavours like Chilled Mango to unique fusions like Chilled Strawberry Pom, whatever your taste in e-liquid, Ultimate Salts has a fabulously frosty flavour that’s just right for you.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1118234",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1118276",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ultimate-salts-chilled-strawberry-pom-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-chilled-strawberry-pom_1_1.jpg?v=1729050475",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-salts-chilled-strawberry-pom-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-chilled-strawberry-pom.jpg?v=1729050475",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-salts-chilled-strawberry-pom-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-chilled-strawberry-pom_1.jpg?v=1729050475",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.521Z"
+}

@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639543112004",
+  "slug": "pukka-juice-e-liquid-blue-pear-ice-nicotine-salt",
+  "title": "Pukka Juice Blue Pear Ice Nicotine Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-e-liquid-blue-pear-ice-nicotine-salt",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pukka Juice Blackcurrant Blue Pear Ice is bursting with sweet, jammy blueberry flavour, laced with smooth, mellow pear and layers of crushed ice for sublime refreshment. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml Multi-Buys",
+    "BRANDS",
+    "Cyber Monday E-Liquid 10ml",
+    "Cyber Monday E-Liquid Nic Salt Deals",
+    "Default Category",
+    "Free5050DD",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Pukka Juice",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1113347",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "PJ-10-BPI-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-e-liquid-blue-pear-ice-nicotine-salt__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ble-pear_ice-nic-salt.png?v=1729042005",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.463Z"
+}

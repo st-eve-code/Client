@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639970537796",
+  "slug": "slushie-bar-salts-blackberry-lemonade-nicsalt-eliquid",
+  "title": "Slushie Bar Salts Blackberry Lemonade 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-salts-blackberry-lemonade-nicsalt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Blackberry Lemonade from Slushie Bar Salts offers a tantalizing blend that combines the deep, sweet flavours of ripe Blackberries with the crisp, tangy zest of Lemonade. This Nic Salt e-liquid creates an invigorating and enjoyable vaping experience that's both fruity and refreshing. Upon inhaling, you're greeted with the lush, rich taste of Blackberries, bursting with natural sweetness and a hint of tartness. This is seamlessly complemented by the lively, zesty flavour of Lemonade, adding a refreshing twist to the e-liquid. The Lemonade accentuates the Blackberries' depth, resulting in a perfectly balanced blend that's both satisfying and thirst-quenching. This premium e-liquid’s 50VG/50PG blend hits the sweet spot between flavour and cloud production and the unique nicotine salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. If you enjoy this flavour, there are plenty more Slushie Bar Salts flavours to try. Few e-liquid makers have mastered the icy joys of slushy flavours quite like Slushie, a UK company who are behind an irresistible line of 50ml and 100ml shortfill and Nic Salts e-liquids that blend mouth-watering fruit flavours with healthy doses of icy menthol for an unparalleled slushy vaping experience. We’re also thrilled to stock Slushy Bar Salts: Nic Salt e-liquids that capture the intense flavour and satisfaction of your favourite disposable vape flavours in handy 10ml bottles for use with a wide variety of MTL (mouth-to-lung) vape kits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127998",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1128030",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-salts-blackberry-lemonade-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_ns_blackberry_lemonade_1.jpg?v=1729063260",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-blackberry-lemonade-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_blackberry_lemonade.jpg?v=1729063260",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-salts-blackberry-lemonade-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie_bar_salts_-_blackberry_lemonade_1.jpg?v=1729063260",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.562Z"
+}

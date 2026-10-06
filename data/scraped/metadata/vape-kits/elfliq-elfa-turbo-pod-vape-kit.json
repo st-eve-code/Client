@@ -1,0 +1,109 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "15292532818301",
+  "slug": "elfliq-elfa-turbo-pod-vape-kit",
+  "title": "ELFLIQ Elfa Turbo Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/elfliq-elfa-turbo-pod-vape-kit",
+  "brand": "Elf Bar",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The ElfLiq Elfa Turbo Kit is a compact refillable pod device built for convenience, portability, flavour, and everyday performance. Powered by a long-lasting 550mAh battery, it features two smart vaping modes: Turbo Mode (18W) delivers increased vapour and flavour, while Durable Mode (15W) offers a gentler output to help extend pod lifespan. Designed for MTL (mouth-to-lung) vaping, the Elfa Turbo Kit is compatible with all ELFA Series Pods — including both refillable and prefilled options. The included 2ml refillable pods feature integrated mesh coils and a secure bottom-fill system, making them easy to top up and replace. Choose between 0.8ohm pods for a warmer, more open draw, or 1.1ohm pods for a tighter, classic inhale. The sleek metal body is lightweight yet durable, with a soft-touch finish and a clean, minimalist design. A three-stage LED indicator keeps you informed of battery life, and USB-C fast charging provides a full recharge in around 30 minutes — supporting up to 850 puffs per charge. Available in five vibrant colourways, the Elfa Turbo is the ideal choice for vapers who want a reliable, versatile pod system with excellent flavour and no unnecessary complexity.",
+  "tags": [
+    "600 Puffs",
+    "Battery-included",
+    "compatible-with-1141923",
+    "compatible-with-1141924",
+    "Free 1 Liquid",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Aurora Black",
+        "Aurora Cyan",
+        "Black Knight",
+        "Aurora Purple",
+        "Aurora Gold"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Aurora Black",
+      "sku": "1141920",
+      "price": 6.99
+    },
+    {
+      "title": "Aurora Cyan",
+      "sku": "1141917",
+      "price": 6.99
+    },
+    {
+      "title": "Black Knight",
+      "sku": "1141916",
+      "price": 6.99
+    },
+    {
+      "title": "Aurora Purple",
+      "sku": "1141918",
+      "price": 6.99
+    },
+    {
+      "title": "Aurora Gold",
+      "sku": "1141919",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfliq-elfa-turbo-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aurora-Black-Elfliq-Elfa-Turbo-Kit.jpg?v=1749658416",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elfliq-elfa-turbo-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aurora-Gold-Elfliq-Elfa-Turbo-Kit.jpg?v=1749658416",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elfliq-elfa-turbo-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Knight-Elfliq-Elfa-Turbo-Kit.jpg?v=1749658238",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elfliq-elfa-turbo-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aurora-Cyan-Elfliq-Elfa-Turbo-Kit.jpg?v=1749658284",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elfliq-elfa-turbo-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Aurora-Purple-Elfliq-Elfa-Turbo-Kit.jpg?v=1749658357",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.099Z"
+}

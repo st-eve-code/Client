@@ -1,0 +1,87 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639612711236",
+  "slug": "ice-n-berg-nic-salt-seriously-salty-doozy-vape-co",
+  "title": "Doozy Vape Co Seriously Salty Ice N Berg Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ice-n-berg-nic-salt-seriously-salty-doozy-vape-co",
+  "brand": "Doozy Vape Co",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Doozy Vape Co.’s Seriously Salty Ice N Berg dares to blend juicy wild berries with a touch of fire and ice from aniseed and menthol, creating an absolutely irresistible taste sensation that’s at once spicy and complex yet sweet and accessible, and altogether ridiculously moreish. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Seriously Salty"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "DV-SSL-10-INB-05-NS",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "DV-SSL-10-INB-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "DV-SSL-10-INB-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ice-n-berg-nic-salt-seriously-salty-doozy-vape-co__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/doozy-vape-co-seriously-salty-ice-n-berg-nic-salt-e-liquid.jpg?v=1729044373",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ice-n-berg-nic-salt-seriously-salty-doozy-vape-co__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/seriously-salty-ice-n-berg_3.jpg?v=1729044373",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ice-n-berg-nic-salt-seriously-salty-doozy-vape-co__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/seriously-salty-ice-n-berg_2.jpg?v=1729044373",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ice-n-berg-nic-salt-seriously-salty-doozy-vape-co__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/seriously-salty-ice-n-berg_1.jpg?v=1729044373",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.477Z"
+}

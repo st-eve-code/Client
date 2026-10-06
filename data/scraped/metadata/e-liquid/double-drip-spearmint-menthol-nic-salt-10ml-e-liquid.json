@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15244543361405",
+  "slug": "double-drip-spearmint-menthol-nic-salt-10ml-e-liquid",
+  "title": "Double Drip Spearmint Menthol Nic Salt 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-spearmint-menthol-nic-salt-10ml-e-liquid",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Double Drip Spearmint Menthol delivers a fresh and breezy mint vape with a sweet herbal twist. Spearmint takes the lead with its light, cooling flavour and smooth, subtle sweetness, while the Menthol layer deepens the chill for a cooler, more refreshing finish. It’s a crisp, clean-tasting, lightly sweet vape that’s ideal for those who enjoy a bright mint flavour without the overpowering intensity of pure menthol. This nic salt e-liquid is blended at a 50VG/50PG ratio for excellent performance in MTL (mouth-to-lung) devices such as refillable vape pod kits , vape pens , and compact starter kits . The nicotine salt formulation provides fast-acting relief with a smoother, more comfortable throat hit than traditional freebase e-liquids. Available in 10mg and 20mg nicotine strengths, Double Drip Nic Salts are available in a wide range of bold and satisfying flavour profiles to suit everyday vaping. Double Drip are one of the most celebrated and influential e-liquid brands in the UK and the masterminds of some of the most iconic vape flavours ever made. Vibrant, authentic, and highly inventive flavours are a hallmark of all Double Drip vape juices, and this newest collection of truly timeless flavours in smooth, satisfying nic salts won’t disappoint.",
+  "tags": [
+    "10ml E-Liquids",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140627",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140636",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-spearmint-menthol-nic-salt-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Bottle_Spearmint-Nic-Salt-10mg.jpg?v=1753720093",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__double-drip-spearmint-menthol-nic-salt-10ml-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-Spearmint-Nic-Salt-20mg.jpg?v=1753720096",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.363Z"
+}

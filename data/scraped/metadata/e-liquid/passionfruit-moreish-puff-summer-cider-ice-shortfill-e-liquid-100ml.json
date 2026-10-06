@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639694958916",
+  "slug": "passionfruit-moreish-puff-summer-cider-ice-shortfill-e-liquid-100ml",
+  "title": "Moreish Puff Summer Cider On Ice Passionfruit 100ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/passionfruit-moreish-puff-summer-cider-ice-shortfill-e-liquid-100ml",
+  "brand": "Moreish Puff",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "Passionfruit Moreish Puff Summer Cider on Ice captures the crisp, cool refreshment of a deliciously dry apple cider on a summer’s day, with a tropical twist from rich, sweet, exotic passionfruit for even more irresistible flavour, finished with a burst of icy menthol for ultimate refreshment. Summer Cider on Ice is a fantastic new range of e-liquids from Moreish Puff inspired by the merriment and refreshment associated with that beloved summer beverage, cider. Each Moreish Puff Summer Cider on Ice e-liquid features a distinctly delicious fruit flavour paired with a crisp, dry apple cider and shot through with an extra refreshing layer of menthol. This convenient 100ml shortfill bottle helps ensure your favourite e-liquid really goes the distance and comes with 20ml of free space for the addition of a nicotine shot to tailor your juice’s nicotine content to your exact preference. For example, adding 2 x 10ml, 18mg nic shots will create 120ml of 3mg e-liquid. This e-liquid’s 70VG/30PG ratio makes it ideal for high-powered pod kits, mods and sub-ohm tanks . Shortfills are ideal for vapers who know what flavours and e-liquid brands they love and always want a ready supply on hand. They offer a practical way to save money on your favourite e-liquids by reducing the need to frequently buy smaller quantities. Since their high-VG to PG ratio typically makes them suitable for use with high-powered devices, such vape kits often consume e-liquid faster than low-powered vape devices, so having a large bottle of your favourite e-liquid helps ensure you don’t run out too quickly.",
+  "tags": [
+    "100ml shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1117116",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__passionfruit-moreish-puff-summer-cider-ice-shortfill-e-liquid-100ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/moreish-puff-summer-cider-on-ice-passionfruit.jpg?v=1729047736",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.613Z"
+}

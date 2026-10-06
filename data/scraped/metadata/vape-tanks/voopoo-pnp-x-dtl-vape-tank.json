@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639848739140",
+  "slug": "voopoo-pnp-x-dtl-vape-tank",
+  "title": "VooPoo PnP X Pod Vape Tank (DTL)",
+  "url": "https://www.vapestore.co.uk/products/voopoo-pnp-x-dtl-vape-tank",
+  "brand": "VooPoo",
+  "productType": "Tanks",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo PnP X Tank (DTL version) is a sub-ohm tank designed for vapers who insist of rich, intense flavours and impressive cloud production. Made from a combination of PCTG and Stainless Steel, this tank is both durable and stylish. It has a 2ml e-liquid capacity offering ample space for your favourite high-VG e-liquids. Refilling is hassle-free, thanks to the tank’s side-filling design. You can easily top up your e-liquid without any mess. The tank is compatible with all of Voopoo’s PnP X series coils, giving you a wide array of options to customize your vaping experience. Included in the tank are two coils: a 0.15 Ohm coil, ideal for a full-bodied Direct-To-Lung (DTL) inhale, best used between 60-80W, and a 0.3 Ohm coil, which provides a versatile Mouth-To-Lung (MTL) or Restricted Direct-To-Lung (RDTL) experience, optimal between 32-40W with 50% VG e-liquids. The PnP X Tank DTL version comes equipped with a DTL drip tip, designed to enhance the inhalation process and maximize the flavour and vapour production. This tank is an excellent choice for those who enjoy deep and flavourful DTL vaping sessions. Launched with the Voopoo Drag X2 and S2 pod kits, the PnP X Pod tank’s 510 connector makes it compatible with a wide variety of vape mods. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1128085",
+    "Delisted"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1128075",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-pnp-x-dtl-vape-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-pod-tank-dtl_black_1.jpg?v=1729056493",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-dtl-vape-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-pod-tank-dtl_silver.jpg?v=1729056493",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-dtl-vape-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-pod-tank-dtl_grey.jpg?v=1729056493",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-dtl-vape-tank__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-pod-tank-dtl_black.jpg?v=1729056493",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.622Z"
+}

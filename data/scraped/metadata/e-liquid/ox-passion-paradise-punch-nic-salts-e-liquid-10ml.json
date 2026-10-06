@@ -1,0 +1,59 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15003074232701",
+  "slug": "ox-passion-paradise-punch-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Paradise Punch Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-paradise-punch-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Salts Paradise Punch delivers a vibrant medley of tropical fruits, blending the lush sweetness of ripe Mango and juicy Pineapple with a burst of citrusy Orange. The inhale unfolds with rich, sun-ripened mango and golden pineapple, while the exhale is lifted by the bright zest of orange, creating a refreshingly smooth and balanced vape. Blended in a 50VG/50PG ratio, this nicotine salt e-liquid is designed for mouth-to-lung (MTL) vaping, providing a smooth throat hit and layered, well-defined flavour. Perfect for pod vape kits and starter devices, it ensures rapid nicotine absorption for a consistently satisfying vape experience. Developed by Oxva, a trusted name in vaping technology, the OX Passion Salts range features expertly crafted flavours designed to pair seamlessly with Oxva’s XLIM pod kits and other refillable vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132775",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139098",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-paradise-punch-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ox-Passion_0008_Paradise-Punch.jpg?v=1739187887",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.552Z"
+}

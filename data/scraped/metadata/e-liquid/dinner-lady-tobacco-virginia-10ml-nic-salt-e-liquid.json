@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15034395754877",
+  "slug": "dinner-lady-tobacco-virginia-10ml-nic-salt-e-liquid",
+  "title": "Dinner Lady Tobacco Virginia 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-tobacco-virginia-10ml-nic-salt-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Dinner Lady’s Bar Salts Virginia Tobacco delivers a rich yet delicately balanced take on a timeless tobacco blend. The mildly sweet and grassy character of Virginia Tobacco is elevated by subtle citrus and hay notes, while undertones of toasted Almond and Oak lend a warm, earthy depth. A final touch of smooth Vanilla rounds out the profile, creating a layered and refined tobacco experience. Part of the Bar Salts collection, Virginia Tobacco is designed to replicate the full-bodied and authentic flavours often found in disposable vapes. Using a double-concentrated Nic Salt formula, this e-liquid ensures a long-lasting, satisfying vape while delivering a consistently smooth inhale. Blended at 50VG/50PG, this e-liquid provides an excellent balance of vapour production and rich flavour, making it ideal for MTL (mouth-to-lung) vaping. The nicotine salt formulation offers a smooth throat hit and rapid nicotine satisfaction, making it best suited for pod kits and classic vape starter devices. Since 2016, Dinner Lady has been crafting premium e-liquids that are now enjoyed in over 80 countries worldwide. Their dedication to high-quality ingredients and expertly developed blends continues to make them a trusted choice for vapers.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1138615",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138623",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-tobacco-virginia-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DL-Bar-Salts-TOBACCO-Virginia-10ml-10mg-GB.jpg?v=1740398598",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.457Z"
+}

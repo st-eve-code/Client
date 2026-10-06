@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639530627396",
+  "slug": "tecc-gt-coils-1-2ohm-2-pack",
+  "title": "TECC GT 1.2 Coils - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/tecc-gt-coils-1-2ohm-2-pack",
+  "brand": "TECC",
+  "productType": "Coils",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Designed for use with the TECC Specter tank 2ml, these replacement 1.2ohm coils deliver incredible flavour and longevity. These 1.2ohm GT coils offer a super-satisfying mouth-to-lung style vape full of flavour. These coils are also push-to-fit making them easy to install into the TECC Specter Tank with zero mess. The TECC GT Coils are especially suited for MTL vaping when paired with Classic/High PG , 50/50 and Nicotine Salts e-liquids. Features Compatible with TECC Specter Tank 2ml",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "TE-CO-GT-1.2-2P",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tecc-gt-coils-1-2ohm-2-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tecc-gt-1-2.jpg?v=1729041918",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

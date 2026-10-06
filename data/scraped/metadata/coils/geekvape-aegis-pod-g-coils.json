@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639414104388",
+  "slug": "geekvape-aegis-pod-g-coils",
+  "title": "Geekvape G Series Coils",
+  "url": "https://www.vapestore.co.uk/products/geekvape-aegis-pod-g-coils",
+  "brand": "Geekvape",
+  "productType": "Coils",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Enjoy next-level MTL (Mouth-to-lung) style vaping with GeekVape’s G Series coils. Designed to deliver discreet yet satisfying vapour and rich flavour thanks to their modular design and high-performance Kanthal mesh coils. Compatible with Geek Vape Wenax Stylus kit and Aegis Pod Best used with High-PG , 50/50 and Nicotine Salt E-Liquids. Previously labelled G coil ST / G coil Pod Formula / Aegis Pod coils",
+  "tags": [
+    "compatible-with-1111895",
+    "compatible-with-1111897-ap2",
+    "compatible-with-GV-PD-AG-IS-RAI",
+    "Delisted",
+    "MTL",
+    "prime-repodscoils",
+    "SALE"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "GV-CO-AG-PD-MS-0.6-5P",
+      "price": 4.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1104025",
+      "price": 4.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "GV-CL-AE-PD-KT-1.2",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-aegis-pod-g-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-g-series-1-2.jpg?v=1729038692",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-pod-g-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-g-series-1-2_1.jpg?v=1729038692",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-aegis-pod-g-coils__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-g-series-coils-0-6_1.jpg?v=1729038692",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.871Z"
+}

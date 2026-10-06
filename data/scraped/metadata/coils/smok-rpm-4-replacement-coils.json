@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "15883162354045",
+  "slug": "smok-rpm-4-replacement-coils",
+  "title": "SMOK RPM 4 Replacement Coils - 5pk",
+  "url": "https://www.vapestore.co.uk/products/smok-rpm-4-replacement-coils",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "Enhance your daily vaping experience with the Smok RPM 4 Meshed Coils, expertly designed to deliver consistent flavour and reliable vapour production for a variety of compatible SMOK kits. Featuring advanced mesh coil technology, these high-quality replacement coils heat e-liquid evenly to provide improved flavour clarity and noticeably smoother draws. Available in two distinct resistance variants, these coils cater to different vaping preferences. The 0.6ohm mesh coil is ideal for a consistently balanced restricted direct-to-lung (RDL) vape with moderate vapour output. Alternatively, the 0.15ohm mesh coil is explicitly designed for increased vapour production and a much more powerful direct-to-lung (DTL) experience. Engineered for straightforward installation and long-lasting performance, the RPM 4 coils provide a dependable solution for maintaining peak performance in your device. Perfect for pairing with the original Smok RPM 4 Pod Kit, the newer Nord 6 Kit using top-fill pods, or any future SMOK device designed for the RPM 4 coil series, these premium coils offer the flexibility and quality required for everyday vaping.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.15ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1154684",
+      "price": 10.99
+    },
+    {
+      "title": "0.15ohm",
+      "sku": "1154683",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-rpm-4-replacement-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/RPM-4-Meshed-0.6-smok-coil.jpg?v=1778858362",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rpm-4-replacement-coils__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/RPM-4-Meshed-coil-0.15ohm-5pk.jpg?v=1778858365",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.869Z"
+}

@@ -1,0 +1,85 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639841300804",
+  "slug": "fresh-bar-fresh-menthol-mojito-50-50-eliquid",
+  "title": "Fresh Bar 50/50 Fresh Menthol Mojito 10ml E-Liquid By Pukka Juice",
+  "url": "https://www.vapestore.co.uk/products/fresh-bar-fresh-menthol-mojito-50-50-eliquid",
+  "brand": "Fresh Bar",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Fresh Menthol Mojito from Fresh Bar is a zingy, zesty, tastebud-tingling cocktail of Fresh Mint, sunny Lime and bubbly Soda that offers a more sophisticated and flavoursome take on fresh e-liquid flavours like Menthol and Mint. It’s crisp, bright mint and sweet lime blend is light and refreshing in all the right ways. This delicious 50:50 E-Liquid from Fresh Bar offers a perfect balance of PG and VG, providing maximum flavour and satisfying clouds. They are versatile enough to be used with most vape devices but are ideal for low-powered starter kits, pen-vape kits and pod kits. This type of e-liquid hits the sweet spot of plenty of flavour and impressive cloud production and work well in almost every type of vape kit, making it the most versatile type of e-liquid at Vapestore. 50:50 e-liquids typically contain traditional Freebase nicotine, which offers the classic e-liquid experience. With Freebase e-liquids, the flavours are often more intense with a stronger, more tactile throat hit than you would find with nicotine salts, or high-VG e-liquids. This makes them a great choice for newer vapers seeking that familiar ‘smoking’ sensation. Fresh Bar are a brand of e-liquids from vape masters Pukka Juice, an award-winning UK e-liquid company behind some of the most popular e-liquids today. From nic salts, to 50/50 e-liquids, Fresh Bar e-liquids draw inspiration from the most popular disposable vape bar flavours.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1126835",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1126839",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1126843",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fresh-bar-fresh-menthol-mojito-50-50-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-50-50-10ml-eliquid-fresh-menthol-mojito_1_1_1.jpg?v=1729055987",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fresh-bar-fresh-menthol-mojito-50-50-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-50-50-10ml-eliquid-fresh-menthol-mojito.jpg?v=1729055987",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fresh-bar-fresh-menthol-mojito-50-50-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-50-50-10ml-eliquid-fresh-menthol-mojito_1.jpg?v=1729055987",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fresh-bar-fresh-menthol-mojito-50-50-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fresh-bar-50-50-10ml-eliquid-fresh-menthol-mojito_1_1.jpg?v=1729055987",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.584Z"
+}

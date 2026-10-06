@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "15500270502269",
+  "slug": "vaporesso-xtank-t-vape-tank",
+  "title": "Vaporesso XTank T Vape Tank",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-xtank-t-vape-tank",
+  "brand": "Vaporesso",
+  "productType": "Tanks",
+  "price": {
+    "min": 16.99,
+    "max": 16.99,
+    "currency": "GBP"
+  },
+  "description": "TThe Vaporesso XTank T is a compact 2ml tank designed primarily for mouth-to-lung vaping with simple refilling and tight control over airflow. Measuring 51.7mm x 22.4mm, it sits neatly on most 510-threaded mods while delivering a refined, leak-resistant experience. Refilling is handled from the top, and a precise top airflow ring helps minimise seepage while letting you tailor your draw from a tighter MTL inhale to a slightly looser MTL/RDL style. The tank uses the popular GTX coil platform (mesh options built around Vaporesso’s COREX heating design) for even heating and clean flavour. Two mesh coils are included to suit different preferences: the 1.2ohm coil is ideal with 50/50 or nicotine salt e-liquids for a classic MTL draw, while the 0.6ohm coil provides a looser MTL or RDL vape with lower-strength 50/50 e-liquid. A straight drip tip, spare O-rings and a refilling silicone plug are supplied for easy setup and maintenance. Replacement 2ml glass is available separately. Please Note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1098712",
+    "compatible-with-1116449",
+    "compatible-with-1143153",
+    "compatible-with-1143154",
+    "compatible-with-1143155",
+    "compatible-with-VA-CL-TA-GET-CL-0.2M",
+    "compatible-with-VA-CL-TA-GET-CL-0.3M",
+    "compatible-with-VP-CO-GTX-MSH-0.6-5P",
+    "DTL/RDL/MTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver",
+        "Grey"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1144708",
+      "price": 16.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1144709",
+      "price": 16.99
+    },
+    {
+      "title": "Grey",
+      "sku": "1144710",
+      "price": 16.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-xtank-t-vape-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Vaporesso-XTank-T-2ml.jpg?v=1756731199",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xtank-t-vape-tank__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Silver-Vaporesso-XTank-T-2ml.jpg?v=1756731222",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xtank-t-vape-tank__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grey-Vaporesso-XTank-T-2ml.jpg?v=1756731244",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.623Z"
+}

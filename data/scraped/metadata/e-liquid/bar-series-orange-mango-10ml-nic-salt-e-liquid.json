@@ -1,0 +1,79 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15335431602557",
+  "slug": "bar-series-orange-mango-10ml-nic-salt-e-liquid",
+  "title": "Bar Series Orange & Mango 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-series-orange-mango-10ml-nic-salt-e-liquid",
+  "brand": "Bar Series",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Orange and Mango by Bar Series brings together two vibrant fruits for a sweet, sun-soaked vape. The Orange flavour is bright and juicy with just a hint of citrus tang, while Mango adds smooth tropical depth and soft natural sweetness. The result is a rounded fruit blend that's easy-going and full of character, perfect for vapers who enjoy rich, tropical profiles. Formulated with nicotine salts, this e-liquid delivers a smooth, yet tactile throat hit and rapid nicotine uptake. It's blended at a 50VG/50PG ratio, making it ideal for mouth-to-lung (MTL) vaping with pod kits and starter devices. Explore Bar Series' wide range of flavours, which includes fruit blends, confectionery, icy menthols and many more exciting profiles crafted with extra-concentrated flavour for intense taste. Bar Series e-liquids cater to all vapers by offering 5mg, 10mg and 20mg nic salts designed to perform perfectly in your favourite pod kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1142815",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1142821",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1142827",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-series-orange-mango-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Orange-Mango-box-bottle-5mg-Bar-Series-10ml-Bar-Series-10ml.jpg?v=1751296748",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-series-orange-mango-10ml-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Orange-Mango-box-bottle-10mg-Bar-Series-10ml.jpg?v=1751296767",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-series-orange-mango-10ml-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Orange-Mango-box-bottle-20mg-Bar-Series-10ml.jpg?v=1751296785",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.449Z"
+}

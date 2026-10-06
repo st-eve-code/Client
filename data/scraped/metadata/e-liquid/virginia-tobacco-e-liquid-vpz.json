@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639256949060",
+  "slug": "virginia-tobacco-e-liquid-vpz",
+  "title": "Vapouriz Premium Virginia Tobacco E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/virginia-tobacco-e-liquid-vpz",
+  "brand": "Vapouriz Premium",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "For bold, satisfying tobacco flavour, few e-liquids come close to Vapouriz’s classic Virginia Tobacco e-liquid. The rich, woody notes of authentic rolling tobacco ride above an immensely satisfying exhale that’s easy on the throat and makes for an endlessly rewarding all-day vape for tobacco fans. Vapouriz E-Liquids are expertly-crafted by Vapouriz Labs UK to deliver intense flavour and stunning vapour production for your e-cigarette setup. Browse the full collection of Vapouriz Premium E-Liquids and pick up the perfect pairing for any Vaping Kit , Starter Vape Kits or Compact Pod Vape Kit . We’ve got a selection of formulations to suit all styles of e-cigarette devices, including High-PG blends for classic vaping as well as Vapouriz Nicotine Salts and adaptable 50:50 Vape Juice options.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "High PG E-Liquid",
+    "MTL",
+    "pricebreak",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "discontinued-VZ-VT-00",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1106225",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1106223",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1106224",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__virginia-tobacco-e-liquid-vpz__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vapouriz_premium_virginia_tobacco_10ml-eliquid.jpg?v=1729031729",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.342Z"
+}

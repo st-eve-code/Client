@@ -1,0 +1,64 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15788767543677",
+  "slug": "ohm-brew-double-brew-banana-ice-10ml-nic-salt-e-liquid",
+  "title": "Ohm Brew Double Brew Banana Ice 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ohm-brew-double-brew-banana-ice-10ml-nic-salt-e-liquid",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Ohm Brew Double Brew Banana Ice offers a smooth tropical experience with a cool twist. The profile is dominated by the velvety sweetness of Ripe Banana, capturing a foam-sweet creaminess on the inhale. This rich fruit base is swiftly countered by a wave of Ice Menthol on the exhale, ensuring the vape remains crisp and refreshing rather than heavy. Formulated with a balanced 50% VG / 50% PG ratio, this e-liquid is versatile enough for both MTL (Mouth-to-Lung) and RDL (Restricted Direct-to-Lung) vaping. It pairs perfectly with coils ranging from 1.2ohm to 0.6ohm, ensuring consistent flavour and vapour production. The nicotine salt formula ensures a smooth throat hit and rapid satisfaction. Double Brew by the renowned UK mixologists Ohm Brew is a collection of double-concentrated nicotine salts designed to deliver maximum flavour intensity. Known as \"bar salts,\" these e-liquids are formulated with twice the flavour concentrate of standard blends, offering an intensely bold and vivid taste profile. Available in 5mg, 10mg, and 20mg strengths, Double Brew provides a smooth and satisfying vape experience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Ohm Brew Double Brew",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1153267",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1153225",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1153245",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-brew-double-brew-banana-ice-10ml-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Banana-Ice-Ohm-Brew-Double-Brew-10ml-Nic-Salt-20mg.jpg?v=1770225406",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.478Z"
+}

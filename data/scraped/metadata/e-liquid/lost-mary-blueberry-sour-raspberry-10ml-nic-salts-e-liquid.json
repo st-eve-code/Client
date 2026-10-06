@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15682324922749",
+  "slug": "lost-mary-blueberry-sour-raspberry-10ml-nic-salts-e-liquid",
+  "title": "Lost Mary Blueberry Sour Raspberry 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-blueberry-sour-raspberry-10ml-nic-salts-e-liquid",
+  "brand": "Lost Mary",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "A standout flavour, Blueberry Sour Raspberry by Lost Mary delivers a superb balance of fruit notes. The rich, jammy sweetness of Blueberry provides a perfect base for the sharp, tangy, and zesty kick of Sour Raspberry, creating a vibrant and mouth-watering vape. Lost Mary Nic Salts are crafted to deliver the same intense and popular flavours the brand is famous for. This 10ml e-liquid collection is perfect for vapers seeking a reliable, flavour-packed experience in a refillable format. With a 50% VG / 50% PG blend, this e-liquid is perfectly balanced for mouth-to-lung (MTL) vaping. It produces a discreet amount of vapour and carries flavour exceptionally well. The nicotine salt formulation ensures a smooth throat hit, even at higher strengths, providing satisfying and rapid nicotine relief. Lost Mary Nic Salts are available in 5mg, 10mg, and 20mg strengths, making them a versatile choice for a wide range of vapers. They are ideal for use in low-wattage pod vape kits , refillable pod vapes and beginner-friendly starter vape kits . This 10ml e-liquid is TPD-compliant, featuring a childproof cap and a tamper-evident seal for your safety.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1149318",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1149298",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1149277",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-blueberry-sour-raspberry-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Sour-Raspberry-Lost-Mary-Nic-Salts-E-Liquid-5mg.jpg?v=1763654573",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-blueberry-sour-raspberry-10ml-nic-salts-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Sour-Raspberry-Lost-Mary-Nic-Salts-E-Liquid-10mg.jpg?v=1763654573",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-blueberry-sour-raspberry-10ml-nic-salts-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Sour-Raspberry-Lost-Mary-Nic-Salts-E-Liquid-20mg.jpg?v=1763654573",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.374Z"
+}

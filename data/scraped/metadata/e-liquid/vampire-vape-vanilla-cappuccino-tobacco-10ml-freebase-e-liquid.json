@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15540322533757",
+  "slug": "vampire-vape-vanilla-cappuccino-tobacco-10ml-freebase-e-liquid",
+  "title": "Vampire Vape Vanilla Cappuccino Tobacco 10ml Freebase E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-vanilla-cappuccino-tobacco-10ml-freebase-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Vanilla Cappuccino Tobacco Freebase delivers a sophisticated fusion of rich Tobacco with the creamy sweetness of Vanilla and the roasted depth of Cappuccino. The Tobacco provides a robust foundation, while Vanilla softens the edges with a mellow sweetness. Cappuccino adds a warming coffee undertone, rounding out the blend with aromatic depth. This e-liquid is available in both 40VG/60PG and 50VG/50PG ratios depending on strength, offering pronounced flavour and a tactile yet comfortable throat hit. Best suited to mouth-to-lung (MTL) vaping, it pairs seamlessly with pod kits, starter kits, and vape pens. With nicotine strengths ranging from 0mg to 18mg, this versatile blend caters to a wide range of preferences. Crafted in the UK, Vampire Vape are celebrated for their inventive recipes and consistent quality. The Tobacco collection combines traditional profiles with refined twists for vapers seeking something more distinctive than a standard Tobacco e-liquid.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "High PG E-Liquid",
+    "MTL/RDL",
+    "pricebreak",
+    "prime-1020",
+    "VV Tobacco"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1141473",
+      "price": 3.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1141477",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1141481",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1141486",
+      "price": 3.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1141491",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-vanilla-cappuccino-tobacco-10ml-freebase-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-tobacco-10ml-Freebase-Vanilla-Cappucino-Tobacco.jpg?v=1758191238",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.457Z"
+}

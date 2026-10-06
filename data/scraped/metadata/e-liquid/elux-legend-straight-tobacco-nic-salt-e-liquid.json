@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639940227396",
+  "slug": "elux-legend-straight-tobacco-nic-salt-e-liquid",
+  "title": "Elux Legend Straight Tobacco Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/elux-legend-straight-tobacco-nic-salt-e-liquid",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Elux Legend's Straight Tobacco offers a classic tobacco flavour that is both rich and robust. This e-liquid captures the authentic taste of traditional tobacco, making it an excellent choice for those who enjoy a straightforward and familiar tobacco vaping experience. The deep and earthy notes of tobacco provide a smooth and consistent flavour that is perfect for all-day vaping. Elux Legend Nic Salts e-liquids are available in 10mg or 20mg nicotine strengths, making them ideal for adult ex-smokers or vapers seeking the swift and satisfying nicotine relief provided by nic salts. Each flavour is crafted using premium ingredients to ensure a clean and authentic taste with every puff. Nicotine salts in Elux Legend Nic Salts provide a smoother and more immediate form of nicotine relief compared to traditional freebase nicotine. Nic salts are absorbed into the bloodstream faster, providing quick and efficient nicotine relief without any harshness or throat irritation. Designed for use with pod systems and other low-wattage MTL (mouth-to-lung) devices, Elux Legend Nic Salts provide a more concentrated and flavourful vaping experience. They are the ideal choice for adult vapers seeking a high-quality, smooth, and satisfying nicotine experience coupled with great flavours. Try the Elux Legend Nic Salts line today and experience the next level of vaping satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Legend",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132987",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132995",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-legend-straight-tobacco-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux_legend_nic_salt_-_straight_tobacco_1_1.jpg?v=1729062096",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-legend-straight-tobacco-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux_legend_nic_salt_-_straight_tobacco.jpg?v=1729062096",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-legend-straight-tobacco-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux_legend_nic_salt_-_straight_tobacco_1.jpg?v=1729062096",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.387Z"
+}

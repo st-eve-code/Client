@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14874155909501",
+  "slug": "slushie-bar-xtra-twin-cherry-breeze-nic-salt-eliquid",
+  "title": "Slushie Bar Xtra Twin Cherry Breeze 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/slushie-bar-xtra-twin-cherry-breeze-nic-salt-eliquid",
+  "brand": "Slushie",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Slushie Bar Xtra Twin Cherry Breeze combines the sweet, juicy taste of ripe Cherries with a subtle sour twist and a refreshing Menthol breeze. This flavour offers a perfectly balanced cherry vape, with the sweetness of the fruit enhanced by a cool, breezy finish for an invigorating and satisfying experience. Ideal for vapers who enjoy fruit and menthol blends, Twin Cherry Breeze delivers a clean and refreshing vape that can be enjoyed all day long. Crafted with a 50VG/50PG ratio, Slushie Bar Xtra Nic Salts are designed for use with Mouth-to-Lung (MTL) vape kits and pod systems. Each e-liquid in the collection provides smooth throat hits and rapid nicotine relief, making them ideal for those seeking a satisfying alternative to traditional tobacco. Available in 10mg and 20mg nicotine strengths, these e-liquids are perfect for all-day vaping with a flavour-packed experience waiting in every puff.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1136651",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1136661",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__slushie-bar-xtra-twin-cherry-breeze-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-twin-cherry-breeze_1_1.jpg?v=1732843059",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-twin-cherry-breeze-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-twin-cherry-breeze.jpg?v=1732843059",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__slushie-bar-xtra-twin-cherry-breeze-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/slushie-bar-extra-10ml-twin-cherry-breeze_1.jpg?v=1732843059",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.515Z"
+}

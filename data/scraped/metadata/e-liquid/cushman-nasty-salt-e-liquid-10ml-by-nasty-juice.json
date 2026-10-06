@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639330349380",
+  "slug": "cushman-nasty-salt-e-liquid-10ml-by-nasty-juice",
+  "title": "Nasty Juice Cushman Nasty Salt E Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/cushman-nasty-salt-e-liquid-10ml-by-nasty-juice",
+  "brand": "Nasty Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Cush Man from Nasty Juice boasts notes of ripe, juicy mango set against a mellow wave of menthol. With each vape you’ll notice the outrageous fruitiness of the inhale making way for a cool breath of mint on the exhale, delivering perfectly-balanced, impossible to put down flavour every single time. Refreshing, sweet and dangerously flavoursome! The Nasty Juice nic salt series is ideal for use with refillable pod kits, but can also be used with any mouth-to-lung tank with a high resistance coil. Their ability to deliver nicotine to the blood stream far more quickly than standard nicotine-containing e-liquids makes for an immediately satisfying vape and an ideal choice for anyone looking for an effective smoking cessation aid. Because nic salts are absorbed into the bloodstream so easily and quickly, you should notice the ‘rush’ of nicotine far more immediately than with standard e liquids – even those with a high nicotine content. This provides an immediate feeling of satisfaction, and offers effective, long-lasting relief from cravings. This liquid is perfect for refillable vape and vape starter kit users. At Vapestore we stock a wide range of Nasty Juice E-Liquids including 50ml high vg juice , nicotine salt e-liquids and 10ml multipacks . Be sure to check out our full range of vape juice and read our helpful guides.",
+  "tags": [
+    "10ml E-Liquids",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "NJ-NS-10-CM-10-NS",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "NJ-NS-10-CM-20-NS",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__cushman-nasty-salt-e-liquid-10ml-by-nasty-juice__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nj-ns-10-cm-20-ns_nastyjuice_salts_cushman_10ml_20mg_001_1.png?v=1729034912",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__cushman-nasty-salt-e-liquid-10ml-by-nasty-juice__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nj-ns-10-cm-10-ns_nastyjuice_salts_cushman_10ml_10mg_001.png?v=1729034912",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__cushman-nasty-salt-e-liquid-10ml-by-nasty-juice__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nj-ns-10-cm-20-ns_nastyjuice_salts_cushman_10ml_20mg_001.png?v=1729034912",
+      "position": 3,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.641Z"
+}

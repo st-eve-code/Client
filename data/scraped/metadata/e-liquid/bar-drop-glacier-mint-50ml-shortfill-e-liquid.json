@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15826356568445",
+  "slug": "bar-drop-glacier-mint-50ml-shortfill-e-liquid",
+  "title": "Bar Drop Glacier Mint 50ml Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-glacier-mint-50ml-shortfill-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Glacier Mint offers a brisk and deeply refreshing vape that focuses entirely on clean, botanical notes. The profile features the sweet, herbal taste of fresh Mint, delivering a bright and aromatic foundation. This is enhanced by an intensely cool finish, creating a frosty sensation that clears the palate. The double-concentrated recipe ensures this minty profile remains consistently crisp and vibrant throughout the day. Formulated with a 50VG/50PG ratio, this e-liquid is specifically designed for MTL/RDL vaping. When paired with stater vape kits and low-wattage tanks, it produces small vapour clouds alongside exceptional flavour clarity. The even consistency ensures optimal wicking and performance in MTL/RDL devices, providing a smooth and satisfying experience. The Bar Drop Shortfill collection takes the intensely concentrated flavour profiles typically found in \"bar salt\" ranges and presents them in a 50%-VG format. Supplied as 50ml of nicotine-free e-liquid in a 60ml bottle, there is space to add a single 10ml nicotine shot, allowing you to easily create 60ml of 3mg e-liquid. This offers a cost-effective and highly flavoursome solution for sub-ohm vapers.",
+  "tags": [
+    "50/50 Shortfill",
+    "50ml Shortfill",
+    "MTL/RDL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1153845",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-glacier-mint-50ml-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Glacier-Mint-Bar-Drop-50ml-E-Liquid.jpg?v=1772538797",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.490Z"
+}

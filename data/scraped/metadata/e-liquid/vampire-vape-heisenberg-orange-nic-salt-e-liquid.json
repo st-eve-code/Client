@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639974011204",
+  "slug": "vampire-vape-heisenberg-orange-nic-salt-e-liquid",
+  "title": "Vampire Vape Heisenberg Orange 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-heisenberg-orange-nic-salt-e-liquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape's Heisenberg Orange Nic Salt offers a vibrant mix of Heisenberg’s iconic red berry and menthol blend and sweet, sunny citrus. Experience that award-winning flavour fusion of tart, tangy, juicy Red Berries crusted with crisp, clean, refreshing Ice enhanced with the addition of fresh, sunny Orange flavour. It’s classic Heisenberg like you’ve never experienced before! Crafted for those seeking an exhilarating twist on the classic Heisenberg, this premium Nic Salt e-liquid provides an optimal balance of flavour and cloud production with its 50VG/50PG blend, making it perfect for classic e-cigarette starter kits and pod vape devices. Ideal for new vapers or those desiring quick, satisfying nicotine relief, Heisenberg Orange Nic Salt offers a super-smooth throat hit and rapid nicotine delivery. Thanks to the nicotine salts' alkaline formulation, this e-liquid allows for a higher nicotine concentration while ensuring a smoother experience than is achievable with traditional high-strength freebase nicotine. The nicotine is absorbed more quickly into the bloodstream, providing near-instant relief from nicotine cravings. Discover more new twists on Heisenberg with Heisenberg Grape, Gum and Cola Nic Salt flavours!",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "prime-1020",
+    "VV Heisenberg"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1129148",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1129154",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_10ml_nic-salts_heisenberg_orange_20mg_1_b5f2c240-c41b-4b64-8e5a-7a66b7a4c86f.jpg?v=1729063470",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_10ml_nic-salts_heisenberg_orange_10mg.jpg?v=1729063470",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-heisenberg-orange-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv_10ml_nic-salts_heisenberg_orange_20mg.jpg?v=1729063470",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.356Z"
+}

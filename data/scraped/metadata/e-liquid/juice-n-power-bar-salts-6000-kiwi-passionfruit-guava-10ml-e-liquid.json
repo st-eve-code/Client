@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15028666237309",
+  "slug": "juice-n-power-bar-salts-6000-kiwi-passionfruit-guava-10ml-e-liquid",
+  "title": "Juice N Power Bar Salts 6000+ Kiwi Passionfruit Guava 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/juice-n-power-bar-salts-6000-kiwi-passionfruit-guava-10ml-e-liquid",
+  "brand": "Juice N Power",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Juice N Power Bar Salts 6000+ Kiwi Passionfruit Guava delivers a vibrant fusion of tropical fruit flavours. Juicy Kiwi brings a tangy-sweet bite, perfectly balanced by the exotic tartness of Passionfruit and the mellow, aromatic notes of Guava. The result is a bold and refreshing vape with layers of bright, tropical flavour. Blended for mouth-to-lung (MTL) vaping, this nicotine salt e-liquid provides a satisfying throat hit with optimised nicotine absorption. Its 50/50 VG/PG ratio ensures excellent flavour clarity and discreet vapour production, making it a great match for pod kits and vape starter kits. Juice N Power Bar Salts 6000+ e-liquids offer a cost-effective and sustainable alternative to single-use disposable vapes, bringing popular flavours to a refillable format. Available in 10mg and 20mg nicotine strengths, each bottle features a childproof cap and an easy-fill nozzle for convenience.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1138855",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1138889",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__juice-n-power-bar-salts-6000-kiwi-passionfruit-guava-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/JNP-bar-salts-6000_-10ml-nic-salts-Kiwi-Passionfruit-Guava.jpg?v=1740053264",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.498Z"
+}

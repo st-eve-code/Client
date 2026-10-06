@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639888683332",
+  "slug": "ultimate-puff-cherry-cola-soda-nic-salt-eliquid",
+  "title": "Ultimate Salts Soda Cherry Cola 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ultimate-puff-cherry-cola-soda-nic-salt-eliquid",
+  "brand": "Ultimate",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Cherry Cola from Ultimate Puff’s Soda Collection is a mouth-watering soda-inspired e-juice that carries the classic taste of a sweet, fruity and deliciously tangy Cherry Cola with a cool and refreshing soda lift on the exhale. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production while the Nicotine Salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices and is available in 10mg and 20mg nicotine strength. Unlike regular freebase e-liquids, nicotine salts’ alkaline formulation allows for a higher concentration of nicotine while delivering a smoother throat hit than high-strength freebase liquids are capable of. Nicotine Salt e-liquids are absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings. This makes Nic salt e-liquids a great choice for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by Nic salts. If you love this flavour, why not treat yourself to others in Ultimate Puff’s Soda Salts collection? From deliciously tangy Lemon and Lime Soda to unique blends like Mango Cola Soda, whatever your taste in e-liquid, Ultimate Puff’s Soda range has a bubbly beverage flavour that’s just right for you.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1118237",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1118279",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ultimate-puff-cherry-cola-soda-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-soda-cherry-cola_1_1.jpg?v=1729059304",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-puff-cherry-cola-soda-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-soda-cherry-cola.jpg?v=1729059304",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-puff-cherry-cola-soda-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-puff-salts-10ml-soda-cherry-cola_1.jpg?v=1729059304",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.505Z"
+}

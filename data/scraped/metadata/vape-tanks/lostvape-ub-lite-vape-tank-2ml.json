@@ -1,0 +1,94 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639762788676",
+  "slug": "lostvape-ub-lite-vape-tank-2ml",
+  "title": "Lost Vape UB LIte Tank",
+  "url": "https://www.vapestore.co.uk/products/lostvape-ub-lite-vape-tank-2ml",
+  "brand": "Lost Vape",
+  "productType": "Tanks",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape UB Lite Tank , released with the Lost Vape Thelema Mini vape starter kit, is a versatile sub-ohm tank designed for use with Lost Vape’s improved UB Lite mesh coils, available in a range of resistances. The kit includes 1 x UB Lite L7 0.3 Ohm Mesh Coil for a rich and cloudy DTL (direct-to-lung) vape, and 1 x UB Lite L10 0.6 Ohm Mesh Coil for a RDTL (restricted direct-to-lung) / MTL (mouth-to-lung) hybrid-style vape. The kit includes two different drip tips – an MTL drip tip and a DTL drip tip – to help you get the most out of your preferred vaping style The UB Lite Tank features an innovative sliding top cap that reveals an upgraded fill port for easy, leak-free refills, and switching coils is made simple with an intuitive push-to-fit design. We recommend nic salt and high-PG e-liquids for use with the 0.6ohm UB Lite coil, and 50/50 and high-VG e-liquids for use with the 0.3ohm UB Lite coil. With its 510 connection, the Lost Vape UB Lite Tank be used with any compatible 510 Mod. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Gunmetal",
+        "Sapphire Blue",
+        "Stainless Steel"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1121294",
+      "price": 10.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1121295",
+      "price": 10.99
+    },
+    {
+      "title": "Sapphire Blue",
+      "sku": "1121297",
+      "price": 10.99
+    },
+    {
+      "title": "Stainless Steel",
+      "sku": "1121296",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lostvape-ub-lite-vape-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ublite-tank-sapphire-blue_1.jpg?v=1729050343",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lostvape-ub-lite-vape-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ublite-tank-black.jpg?v=1729050343",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lostvape-ub-lite-vape-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ublite-tank-gunmetal.jpg?v=1729050343",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lostvape-ub-lite-vape-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ublite-tank-sapphire-blue.jpg?v=1729050343",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lostvape-ub-lite-vape-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ublite-tank-stainless-steel.jpg?v=1729050343",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.624Z"
+}

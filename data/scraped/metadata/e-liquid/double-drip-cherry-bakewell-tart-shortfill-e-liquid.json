@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639454605636",
+  "slug": "double-drip-cherry-bakewell-tart-shortfill-e-liquid",
+  "title": "Double Drip Cherry Bakewell Tart Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/double-drip-cherry-bakewell-tart-shortfill-e-liquid",
+  "brand": "Double Drip",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "A classic tea-time treat gets the Double Drip treatment in this incredible e-liquid rich in sweet, comforting flavour. Just like a real cherry bakewell tart, this irresistible e-juice captures the taste of crisp, buttery pastry and light, fluffy sponge layered with sugary-sweet icing, tangy raspberry jam and rich notes of cherry. Sweet, satisfying and more than a little decadent, this exquisite e-liquid from the Double Drip range is a little taste of heaven in every vape. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape to your liking. Its 80VG/20PG ratio makes it ideal for high-powered vape mod kits and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "80/20 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DD-CB-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-cherry-bakewell-tart-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-drip-e-liquid-cherry-bakewell-tart-shortfill-e-liquid.jpg?v=1729040436",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.626Z"
+}

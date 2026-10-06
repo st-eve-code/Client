@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639439892804",
+  "slug": "jack-rabbit-strawberry-cheesecake-50ml",
+  "title": "Jack Rabbit Strawberry Cheesecake E-Liquid Shortfill 50ml",
+  "url": "https://www.vapestore.co.uk/products/jack-rabbit-strawberry-cheesecake-50ml",
+  "brand": "Jack Rabbit",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "What could be more delicious and indulgent than a rich and creamy cheesecake over a crumbly biscuit base, laced with a sweet and tangy, fresh strawberry syrup? One taste of this amazing dessert eliquid from Jack Rabbit and you’ll be hooked. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , vape mods and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "JR-JR-50-JRV-SC-00-SF",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__jack-rabbit-strawberry-cheesecake-50ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/jack_rabbit_jm_0011_strawberry-cheesecake-jack-rabbit-50ml-800px.jpg?v=1729039713",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.630Z"
+}

@@ -1,0 +1,96 @@
+{
+  "site": "vapestore",
+  "category": "vape-kits",
+  "id": "14901886484861",
+  "slug": "lost-vape-centaurus-n200-vape-kit",
+  "title": "Lost Vape Centaurus N200 Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-centaurus-n200-vape-kit",
+  "brand": "Lost Vape",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 42.99,
+    "max": 42.99,
+    "currency": "GBP"
+  },
+  "description": "Please Note: Batteries are NOT included with this kit. The Lost Vape Centaurus N200 Kit combines stunning aesthetics with cutting-edge technology to deliver a premium vaping experience for advanced vapers. Encased in luxurious, nature-inspired transparent matte shells with a durable zinc alloy frame, the Centaurus N200 Kit offers timeless style and robust performance. Powered by dual 18650 batteries (sold separately) and equipped with the advanced LOST VAPE Quest 2.0 chipset, the N200 Kit delivers a powerful 200W max output. Featuring dynamic wattage control and multiple vaping modes, including Normal and DIY, this kit is designed for unprecedented customization and versatility. A clear 0.96” TFT screen provides a crisp interface for monitoring key settings, while an on/off toggle switch and multifunctional button make navigation intuitive. The kit includes the Centaurus Sub Ohm Tank, a 2ml TPD-compliant tank engineered to maximise vapour and flavour production. Paired with two UB Max coils—0.15ohm (pre-installed) and 0.2ohm—this tank is ideal for direct-to-lung (DTL) vaping with high-VG e-liquids. A spare glass tube and easy top-fill system further enhance convenience and durability. Designed for experienced vapers, the Lost Vape Centaurus N200 Kit balances luxury, versatility, and power in one sleek device. With safety features like low battery, short-circuit, and overheat protections, this kit offers reliable performance for all-day sub-ohm vaping. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1137768",
+    "compatible-with-1137769",
+    "compatible-with-1137770",
+    "DTL/RDL",
+    "Free Shortfill",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Crystal Cave",
+        "Grey Rock",
+        "Desert Dusk",
+        "Night Sakura"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Crystal Cave",
+      "sku": "1137342",
+      "price": 42.99
+    },
+    {
+      "title": "Grey Rock",
+      "sku": "1137339",
+      "price": 42.99
+    },
+    {
+      "title": "Desert Dusk",
+      "sku": "1137340",
+      "price": 42.99
+    },
+    {
+      "title": "Night Sakura",
+      "sku": "1137341",
+      "price": 42.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-centaurus-n200-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N200-kit-crystal-cave.jpg?v=1734623079",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n200-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N200-kit-grey-rock.jpg?v=1734623079",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n200-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N200-kit-desert-dusk.jpg?v=1734623079",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-centaurus-n200-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Centaurus-N200-kit-night-sakura.jpg?v=1734623079",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:32:17.087Z"
+}

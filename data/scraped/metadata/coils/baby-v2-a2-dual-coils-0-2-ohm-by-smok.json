@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639325860164",
+  "slug": "baby-v2-a2-dual-coils-0-2-ohm-by-smok",
+  "title": "SMOK Baby V2 A2 Dual Coils 0.2 Ohm",
+  "url": "https://www.vapestore.co.uk/products/baby-v2-a2-dual-coils-0-2-ohm-by-smok",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 8.49,
+    "max": 8.49,
+    "currency": "GBP"
+  },
+  "description": "The Smok Baby V2 A2 sub ohm coils are designed for use with the Smok Baby V2 tank and boast an innovate two-hole design. The holes are covered in Cobra mesh which offers increased airflow and huge clouds bursting with pure, rich flavour. The perfect accompaniment to your sub ohm setup. At Vapestore we stock a large range of SMOK Products, including Smok E-cigarettes , Smok Tanks , Mods , Smok Coils and New Vape kits",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-V2-A2-02",
+      "price": 8.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__baby-v2-a2-dual-coils-0-2-ohm-by-smok__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-baby-v2-a2-dual-0-2.jpg?v=1729034724",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.871Z"
+}

@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15114968859005",
+  "slug": "hayati-pro-max-mango-peach-pineapple-nic-salt-e-liquid-10ml",
+  "title": "Hayati Pro Max Mango Peach Pineapple Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-mango-peach-pineapple-nic-salt-e-liquid-10ml",
+  "brand": "Hayati",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Hayati Pro Max Mango Peach Pineapple brings together three tropical favourites in a sunny, fruit-forward blend. Ripe Mango delivers soft, tropical sweetness, Peach adds a mellow, juicy lift, and Pineapple cuts through with a bright tang that balances the mix with just enough sharpness. The result is a smooth yet punchy fruit medley that captures the warmth and vibrancy of tropical fruit. Formulated with nicotine salts, this e-liquid ensures fast-acting nicotine absorption, and a more comfortable throat hit, making it ideal for MTL (mouth-to-lung) vaping with starter kits and pod systems. Its 50VG/50PG ratio provides well-rounded flavour and consistent vapour production. This flavour is part of the Hayati Pro Max Nic Salt range, inspired by Hayati’s own bestselling disposable vapes and now reimagined in a longer-lasting 10ml format—available in 10mg and 20mg nicotine strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pineapple"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140333",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140394",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-mango-peach-pineapple-nic-salt-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mango-Peach-Pineapple_Hayati-Pro-Max-Nic-Salts.jpg?v=1743410884",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.353Z"
+}

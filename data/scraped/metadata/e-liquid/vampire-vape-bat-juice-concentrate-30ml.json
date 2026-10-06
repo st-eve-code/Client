@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639814234436",
+  "slug": "vampire-vape-bat-juice-concentrate-30ml",
+  "title": "Vampire Vape Bat Juice Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-bat-juice-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Unravel the mystery behind Vampire Vape’s top-secret Bat Juice, a luscious concoction overflowing with sun-ripened fruit essences. Tangled within this tantalizing blend is an irresistible medley of succulent berries, meticulously harmonized with a delicate whisper of aniseed for a revitalizing and invigorating throat hit. Add to VG/PG DIY Mixing Products for optimum flavour. All Vampire Vape flavour concentrates are 100% PG based. Please note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes. Details 100% PG Based 0mg E-liquid Add to a VG/PG base e-liquid mix Mix your own e-liquids, just the way you like Made in the UK",
+  "tags": [
+    "Flavour Concentrate"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1007751",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-bat-juice-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-bat_juice-30ml-concentrates.jpg?v=1729054014",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.525Z"
+}

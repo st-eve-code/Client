@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639406043460",
+  "slug": "pukka-juice-raspberry-menthol-50-50-e-liquid",
+  "title": "Pukka Juice Raspberry Menthol 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-raspberry-menthol-50-50-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "A sublime pairing of fresh, ripe raspberries with a refreshing streak of menthol for a deliciously sweet and refreshing all-day vape. The 50% Vegetable Glycerine, 50% Propylene Glycol ratio allows for a sublime balance of clouds, vapour and flavour and is ideal for use with starter vape kits , compact pod vape kits and pen vape kits .",
+  "tags": [
+    "10ml E-Liquid Promotion",
+    "10ml Multi-Buys",
+    "50/50 E-Liquid",
+    "BRANDS",
+    "Default Category",
+    "E Liquid",
+    "E-Liquid 50pg 50vg",
+    "FLAVOUR TYPE",
+    "Free5050DD",
+    "Fruit",
+    "Fruit E-liquid Flavours",
+    "Mint & Menthol E-liquid Flavours",
+    "Mint / Menthol",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "NEW IN",
+    "prime-1020",
+    "Pukka Juice",
+    "VAPE TYPE",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "PU-KA-10-RM-03-50",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "PU-KA-10-RM-06-50",
+      "price": 3.95
+    },
+    {
+      "title": "12mg",
+      "sku": "PU-KA-10-RM-12-50",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-raspberry-menthol-50-50-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pj-raspberry-menthol_b6024bd3-83f7-47e0-bb9e-1abc53d46445.jpg?v=1729038366",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.475Z"
+}

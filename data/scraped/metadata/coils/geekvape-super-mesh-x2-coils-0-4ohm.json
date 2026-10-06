@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639451066692",
+  "slug": "geekvape-super-mesh-x2-coils-0-4ohm",
+  "title": "Geekvape Supermesh X2 coil 0.4ohm",
+  "url": "https://www.vapestore.co.uk/products/geekvape-super-mesh-x2-coils-0-4ohm",
+  "brand": "Geekvape",
+  "productType": "Coils",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "The bestselling Cerberus sub-ohm tank from Geekvape can handle any high-VG eliquid you throw at it and comes with adjustable airflow, a mess-free top-fill system and is compatible with GeekVape’s super mesh coils for long-lasting, incredible flavour and cloud production. The new and improved Supermesh X2 coils are designed for use with the Cerberus tank and feature larger wick ports and a 0.4ohm resistance for incredible flavour, performance and lifespan. For sub-ohm vaping with High-VG e-liquid.",
+  "tags": [
+    "compatible-with-GV-KT-AG-MI-XX-BLK",
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "GV-AG-MT-SM-0.4",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-super-mesh-x2-coils-0-4ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape_supermesh_x2_0.4.jpg?v=1729040192",
+      "position": 1,
+      "width": 344,
+      "height": 499,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

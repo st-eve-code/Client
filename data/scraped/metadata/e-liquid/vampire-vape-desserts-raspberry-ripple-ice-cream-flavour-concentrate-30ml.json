@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15125178417533",
+  "slug": "vampire-vape-desserts-raspberry-ripple-ice-cream-flavour-concentrate-30ml",
+  "title": "Vampire Vape Desserts Raspberry Ripple Ice Cream Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-desserts-raspberry-ripple-ice-cream-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Raspberry Ripple Ice Cream Flavour Concentrate by Vampire Vape Desserts recreates the nostalgic taste of creamy vanilla ice cream swirled with sweet and tangy Raspberry sauce. This DIY flavour concentrate balances velvety ice cream notes with a bright fruity ripple, offering a dessert-inspired profile with a smooth yet playful twist. Ideal for mixing your own e-liquids at home, this 30ml concentrate must be diluted with a VG/PG base and nicotine if required. Vampire Vape recommends a dilution rate of 15–20%, depending on your personal taste preference. Made in the UK and formulated with a 100% PG base, Raspberry Ripple Ice Cream is not suitable for direct vaping. It must be mixed before use. Also available as a Freebase 10ml and high-VG Shortfill in the Vampire Vape Desserts collection.",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Desserts"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138250",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-desserts-raspberry-ripple-ice-cream-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vampire-Vape---UK---30ml-Concentrate---Raspberry-Ripple-Ice-Cream---Bottle.jpg?v=1743680330",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.524Z"
+}

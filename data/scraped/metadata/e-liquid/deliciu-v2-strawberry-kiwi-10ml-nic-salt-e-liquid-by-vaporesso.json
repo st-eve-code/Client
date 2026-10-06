@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640076804420",
+  "slug": "deliciu-v2-strawberry-kiwi-10ml-nic-salt-e-liquid-by-vaporesso",
+  "title": "Deliciu V2 Strawberry Kiwi 10ml Nic Salt E-Liquid by Vaporesso",
+  "url": "https://www.vapestore.co.uk/products/deliciu-v2-strawberry-kiwi-10ml-nic-salt-e-liquid-by-vaporesso",
+  "brand": "Deliciu",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Deliciu V2 Strawberry Kiwi Nic Salt is a deliciously balanced mix of juicy, sun-ripened strawberries and tangy, tropical kiwi. The sweetness of the strawberries is perfectly complemented by the tartness of the kiwi, creating a refreshing and vibrant vape that’s ideal for fruit lovers. With each inhale, you’ll experience a burst of fruity goodness, followed by a smooth and satisfying exhale. Formulated with a 50VG/50PG ratio, Deliciu V2 Nic Salts are ideal for mouth-to-lung (MTL) vape kits and pod devices. The enhanced formulation ensures smoothness and rich flavour with every puff. Available in 10mg and 20mg nicotine strengths, these nicotine salts provide rapid nicotine relief and a smoother throat hit compared to traditional freebase e-liquids. The Deliciu V2 range from Vaporesso revamps the original line up of bestselling flavours with a heightened focus on quality and flavour precision, delivering improved profiles based on customer feedback. Designed for compatibility with a wide range of low-powered MTL devices, Deliciu V2 Nic Salts deliver exceptionally authentic flavours and consistent, enjoyable vaping.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DELICIU15",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1136255",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1136231",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__deliciu-v2-strawberry-kiwi-10ml-nic-salt-e-liquid-by-vaporesso__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/deliciu-strawberry-kiwi-10mg-e-liquid_1.jpg?v=1729066059",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__deliciu-v2-strawberry-kiwi-10ml-nic-salt-e-liquid-by-vaporesso__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/deliciu-strawberry-kiwi-20mg-e-liquid.jpg?v=1729066059",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__deliciu-v2-strawberry-kiwi-10ml-nic-salt-e-liquid-by-vaporesso__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/deliciu-strawberry-kiwi-10mg-e-liquid.jpg?v=1729066059",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.399Z"
+}

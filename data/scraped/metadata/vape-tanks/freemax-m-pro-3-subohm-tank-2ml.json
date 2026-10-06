@@ -1,0 +1,94 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639805256004",
+  "slug": "freemax-m-pro-3-subohm-tank-2ml",
+  "title": "Freemax M Pro 3 Tank",
+  "url": "https://www.vapestore.co.uk/products/freemax-m-pro-3-subohm-tank-2ml",
+  "brand": "Freemax",
+  "productType": "Tanks",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The M Pro 3 Tank from Freemax is a sub-ohm vaper’s dream that builds on the exemplary design and performance of the company’s previous M Pro tanks as well as the bestselling Fireluke Sub-Ohm Tank. Its durable stainless steel chassis can take some punishment while delivering immaculate flavour and vapour production with Freemax’s advanced mesh coils. The advanced yet user-friendly Freemax M Pro 3 tank sports an intuitive and mess-free top fill mechanism. Simply slide the top cap to the side to expose the e-liquid port for quick and convenient refills. Additionally, two mesh coils boasting FMCoilTech 5.0 technology and utilising multiple pieces of mesh Kanthal come included, elevating your vapour and flavour production to new heights. Flexibility is key with the MPro 3 tank, compatible with both Freemax M Pro 3 Coils and MPro 2 904L coils , adding yet another dimension of customisability to your vaping experience. Regardless of your coil choice, we recommend pairing them with e-liquids with a VG concentration of 70% or higher for optimal performance. Its 510-connaction means you can attach the M Pro 3 tank to any compatible vape mod, though we would recommend that the dazzling, feature-packed Freemax Maxus 2 200w mod the tank launched with for a uniform, stylish look and unbeatable performance. With the Freemax M Pro 3, Freemax once more redefines the sub-ohm vape tank with an unbeatable fusion of design, performance, flavour and vapour production. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Gunmetal",
+        "Blue",
+        "Rainbow"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1125058",
+      "price": 24.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1125059",
+      "price": 24.99
+    },
+    {
+      "title": "Blue",
+      "sku": "1125060",
+      "price": 24.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "1125061",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-m-pro-3-subohm-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-m-pro-3-tank-rainbow-2ml_1.jpg?v=1729053377",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-m-pro-3-subohm-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-m-pro-3-tank-black-2ml.jpg?v=1729053377",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-m-pro-3-subohm-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-m-pro-3-tank-gunmetal-2ml.jpg?v=1729053377",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-m-pro-3-subohm-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-m-pro-3-tank-blue-2ml.jpg?v=1729053377",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-m-pro-3-subohm-tank-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-m-pro-3-tank-rainbow-2ml.jpg?v=1729053377",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.625Z"
+}

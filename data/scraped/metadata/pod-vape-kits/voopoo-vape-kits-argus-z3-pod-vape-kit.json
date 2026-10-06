@@ -1,0 +1,124 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "16041613984125",
+  "slug": "voopoo-vape-kits-argus-z3-pod-vape-kit",
+  "title": "VooPoo Argus Z3 Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/voopoo-vape-kits-argus-z3-pod-vape-kit",
+  "brand": "VooPoo",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 7.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Argus Z3 pod vape kit delivers an ultra-portable and lightweight setup engineered for everyday convenience. Weighing just 41.6g, the device is crafted from durable materials with tactile finishes, sitting comfortably in the palm for effortless daily carry. Inside its compact frame sits a high-density 1100mAh integrated battery, providing dependable all-day power with stable voltage output to keep performance consistent even when the charge begins to drop. At the heart of the Argus Z3 is Voopoo's innovative Multi-Ohm cartridge technology. Rather than needing multiple separate pods, the included cartridge integrates dual internal heating cores. Rotating the pod 180 degrees seamlessly alternates between a 0.7ohm resistance for a slightly looser draw and a 1.0ohm resistance for a tighter mouth-to-lung vape. Monitoring your setup is simple thanks to the interactive 4-stage LED energy bar. The indicator confirms remaining battery life in 25 percent increments, while illuminating blue for 0.7ohm and green for 1.0ohm to give instant visual feedback. Operating the device requires no manual adjustment or complicated menus, using responsive auto-draw activation that fires the instant you inhale. The Argus Z3 also maintains full backwards compatibility with the entire Argus pod series, giving vapers access to both top-fill and side-fill alternatives. For optimal flavour delivery and coil longevity, we recommend pairing the Argus Z3 with 50/50 freebase e-liquids or Nicotine Salts.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1140558",
+    "compatible-with-1140559",
+    "compatible-with-1140560",
+    "Free 1 TP Bar Salt",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blazing Orange",
+        "Carbon Black",
+        "Coral Pink",
+        "Denim Blue",
+        "Grass Green",
+        "Pearl white"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blazing Orange",
+      "sku": "1163310",
+      "price": 7.49
+    },
+    {
+      "title": "Carbon Black",
+      "sku": "1163308",
+      "price": 7.49
+    },
+    {
+      "title": "Coral Pink",
+      "sku": "1163311",
+      "price": 7.49
+    },
+    {
+      "title": "Denim Blue",
+      "sku": "1163313",
+      "price": 7.49
+    },
+    {
+      "title": "Grass Green",
+      "sku": "1163312",
+      "price": 7.49
+    },
+    {
+      "title": "Pearl white",
+      "sku": "1163309",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-vape-kits-argus-z3-pod-vape-kit__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BlazingOrangeVooPooArgusZ3Kit.png?v=1790349377",
+      "position": 1,
+      "width": 3000,
+      "height": 3000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vape-kits-argus-z3-pod-vape-kit__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/CarbonBlackVooPooArgusZ3Kit.png?v=1790349378",
+      "position": 2,
+      "width": 3000,
+      "height": 3000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vape-kits-argus-z3-pod-vape-kit__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/CoralPinkVooPooArgusZ3Kit.png?v=1790349376",
+      "position": 3,
+      "width": 3000,
+      "height": 3000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vape-kits-argus-z3-pod-vape-kit__004.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/DenimBlueVooPooArgusZ3Kit.png?v=1790349376",
+      "position": 4,
+      "width": 3000,
+      "height": 3000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vape-kits-argus-z3-pod-vape-kit__005.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/GrassGreenVooPooArgusZ3Kit.png?v=1790349376",
+      "position": 5,
+      "width": 3000,
+      "height": 3000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vape-kits-argus-z3-pod-vape-kit__006.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/PearlWhiteVooPooArgusZ3Kit.png?v=1790349376",
+      "position": 6,
+      "width": 3000,
+      "height": 3000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.433Z"
+}

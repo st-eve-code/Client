@@ -1,0 +1,58 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15029112144253",
+  "slug": "ruthless-bar-salts-frozen-exotic-mango-on-ice-10ml-e-liquid",
+  "title": "Ruthless Bar Salts Frozen Exotic Mango On Ice 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ruthless-bar-salts-frozen-exotic-mango-on-ice-10ml-e-liquid",
+  "brand": "Ruthless",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ruthless Bar Salts Frozen Exotic Mango on Ice delivers a luscious blend of ripe, tropical Mango with a crisp menthol finish. The sun-kissed sweetness of Mango brings a smooth and juicy flavour, balanced by a delicate tang that keeps each puff refreshing. A wave of cooling menthol enhances the exhale, leaving a clean and frosty finish that makes this an ideal choice for fruit and menthol lovers alike. Blended at 50VG/50PG, this e-liquid is optimised for MTL (mouth-to-lung) pod kits and starter devices, ensuring a smooth and consistent vape with satisfying vapour production. The nicotine salt formulation provides a comfortable throat hit and rapid nicotine absorption for a flavour-packed all-day vape. Ruthless has established itself as a leader in bold and high-quality e-liquid formulations, offering expertly crafted blends that continue to set industry standards. Their nic salt range brings these signature flavours into a format designed for modern vaping needs.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Mango",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1139302",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139318",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ruthless-bar-salts-frozen-exotic-mango-on-ice-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ruthless-10ML_FrozenExoticMangoOnIce.jpg?v=1740072539",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.478Z"
+}

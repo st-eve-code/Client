@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15335470694781",
+  "slug": "the-lancashire-creamery-butterscotch-ice-cream-deluxe-10ml-e-liquid",
+  "title": "The Lancashire Creamery Butterscotch Ice Cream Deluxe 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/the-lancashire-creamery-butterscotch-ice-cream-deluxe-10ml-e-liquid",
+  "brand": "The Lancashire Creamery",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Butterscotch Ice Cream Deluxe by Lancashire Creamery is a rich and indulgent dessert vape, pairing smooth Vanilla Ice Cream with golden, buttery Butterscotch. The Butterscotch offers deep caramelised sweetness with a mellow, warming edge, while the Ice Cream note softens the blend with creamy lightness. Together they create a well-rounded flavour that’s both luxurious and comforting, perfect for those who prefer dessert flavours with depth and balance. Formulated with nicotine salts for fast-acting nicotine delivery and a smooth, tactile throat hit, this e-liquid is blended at a 50VG/50PG ratio. It’s designed for use in low-powered pod kits, vape pens, and starter devices. Available in 5mg, 10mg, and 20mg nicotine strengths to suit a range of preferences. Lancashire Creamery crafts all its e-liquids in the UK, with a focus on authentic dessert flavours that deliver warmth, comfort, and lasting satisfaction in every puff.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143188",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1143182",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143176",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__the-lancashire-creamery-butterscotch-ice-cream-deluxe-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-lancashire-creamery-butterscotch-ice-cream-dexule-10ml-nicotine-salts.jpg?v=1751297991",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.544Z"
+}

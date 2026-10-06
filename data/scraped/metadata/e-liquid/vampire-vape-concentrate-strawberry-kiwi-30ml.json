@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639655964996",
+  "slug": "vampire-vape-concentrate-strawberry-kiwi-30ml",
+  "title": "Vampire Vape Strawberry & Kiwi Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-concentrate-strawberry-kiwi-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "This excellent combination of two fruits infuses refreshing kiwis with sharp and sweet strawberries to deliver a delicious mixture of fruit flavours. The two fruits complement each other effortlessly, giving your tastebuds a total treat with the balanced flavour profile. PG Based Flavour Concentrate to be used only in E-Liquid. Dilute to suit the user, between 15-20% depending on required flavour strength. Contents approx 30ml. All flavours made from the highest quality ingredients and made in the UK in a clean room from creation to bottling. All come with batch numbers and expiry dates. Sample liquids held for future testing to ensure the highest quality product. If it doesn’t pass QC it doesn’t go out the door. This is not intended to be vaped on its own. These concentrates are for personal use and not to be used for commercial purposes. Details 100% PG Based Add to a VG/PG base e-liquid mix Made in the UK",
+  "tags": [
+    "Flavour Concentrate",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1007733",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-concentrate-strawberry-kiwi-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-30ml-concentrate-strawberri-kiwi_1.jpg?v=1729046390",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.516Z"
+}

@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15054245495165",
+  "slug": "future-juice-cereal-milk-10ml-e-liquid",
+  "title": "Future Juice Cereal & Milk 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/future-juice-cereal-milk-10ml-e-liquid",
+  "brand": "Future Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Future Juice’s Cereal & Milk is a classic breakfast-inspired blend that captures the familiar taste of golden, crunchy Cereal soaked in creamy Milk. The malty sweetness of toasted Cereal brings a comforting depth, while the smooth, milky undertones recreate the satisfying flavour of a fresh bowl of cereal enjoyed to the last drop. The result is a nostalgic and well-balanced vape that’s perfect for any time of day. This nic salt e-liquid is formulated to provide a smooth throat hit and fast nicotine satisfaction, making it ideal for MTL (mouth-to-lung) vaping. With a balanced 50% VG / 50% PG ratio, it offers consistent flavour and subtle vapour production—perfect for pod kits, vape pens, and beginner devices. Available in 5mg, 10mg, and 20mg nicotine strengths, this 10ml e-liquid suits vapers looking for anything from light to stronger nicotine intake. Future Juice is a UK-based brand dedicated to producing bold, satisfying flavours by combining classic profiles with modern twists, delivering high-quality e-liquids made for everyday vaping enjoyment.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1143185",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1143179",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1143173",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__future-juice-cereal-milk-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/w-20mg-cereal-milk-future-juice-10ml-nicotine-salts_1277ac1c-6d98-46ee-b54b-4bafba56be6e.jpg?v=1765807388",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.457Z"
+}

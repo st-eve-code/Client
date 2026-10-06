@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639895761220",
+  "slug": "vampire-vape-pinkman-blue-razz-flavour-concentrate-30ml",
+  "title": "Vampire Vape Pinkman Blue Razz Flavour Concentrate 30ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-pinkman-blue-razz-flavour-concentrate-30ml",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Pinkman Blue Razz Flavour Concentrate allows DIY mixers to create their own custom e-liquid, infusing the legendary Pinkman profile with a sharp, fruity twist. This concentrate combines the iconic Pinkman base of sweet Red Berries and subtle Citrus notes with the bold, tangy taste of Blue Raspberry. The result is a complex and layered flavour profile where the Strawberry and Raspberry foundation is lifted by the zesty kick of Blue Razz. It offers a balance of sweetness and sharpness, making it an excellent choice for vapers who enjoy a vibrant fruit mix that doesn't become overpowering. Designed for use in DIY e-liquids, this 30ml bottle contains 100% PG-suspended flavour concentrate. It is not ready to vape and must be diluted with your preferred VG/PG base mix. Vampire Vape recommends a mix ratio of 15-20% depending on your desired flavour strength. This high-quality concentrate is made in the UK and serves as a versatile ingredient for both new and experienced mixers looking to tailor their vaping experience. Please note: This flavour concentrate is not intended to be vaped on its own. These concentrates are for personal use and are not to be used for commercial purposes. Details 100% PG Based 0mg E-liquid Add to a VG/PG base e-liquid mix Mix your own e-liquids, just the way you like Made in the UK",
+  "tags": [
+    "Flavour Concentrate",
+    "VV Pinkman"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1127083",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-pinkman-blue-razz-flavour-concentrate-30ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vampire-vape-pinkman-blue-razz-concentrate.jpg?v=1729059682",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.522Z"
+}

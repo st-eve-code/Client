@@ -1,0 +1,88 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639827898692",
+  "slug": "ohm-brew-double-brew-kiwi-passionfruit-guava-nicsalt-eliquid",
+  "title": "Ohm Brew Double Brew Kiwi Passionfruit Guava 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/ohm-brew-double-brew-kiwi-passionfruit-guava-nicsalt-eliquid",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Kiwi Passionfruit Guava from Double Brew is an exotic journey into the heart of tropical fruit flavour. The tangy twist of Kiwi dances harmoniously with the sweet, exotic notes of Passionfruit and Guava, creating a flavourful getaway in every puff. This premium e-liquid’s 50VG/50PG blend hits the perfect sweet spot between flavour and cloud production, while the Nicotine Salt solution makes it ideal for use in classic e-cigarette starter kits and pod devices. They’re best used with high-resistance coils (0.8ohm-1.2ohm) for both RDL (restricted direct-to-lung) and MTL (mouth-to-lung) vaping experiences. Nic Salts are perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts. Nicotine salts differ from regular freebase e-liquids thanks to their alkaline formulation, allowing for a higher nicotine concentration. Nicotine from Nic Salt e-liquids is absorbed into the bloodstream faster, offering almost instantaneous relief from nicotine cravings. The unique magic of Nic Salts means that you’ll enjoy a super-smooth, comfortable throat hit despite the higher nicotine concentration. Double Brew, from legendary vape-makers Ohm Brew, are a collection of sixteen double concentrate nic salts that will push you beyond your wildest flavour fantasies. They use twice the brew for twice the flavour, resulting in a unique vaping experience that’s twice as satisfying as any Nic Salt e-liquid you’ve ever tasted. Treat your tongue to double the deliciousness with Double Brew Nic Salts available in 5mg, 10mg and 20mg nic strengths.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Ohm Brew Double Brew",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1126743",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1126761",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1126779",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ohm-brew-double-brew-kiwi-passionfruit-guava-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-brew-bar-series-kiwi-passionfruit-guava-10ml-nic-salt_1_1_1.jpg?v=1729054935",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ohm-brew-double-brew-kiwi-passionfruit-guava-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-brew-bar-series-kiwi-passionfruit-guava-10ml-nic-salt.jpg?v=1729054935",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ohm-brew-double-brew-kiwi-passionfruit-guava-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-brew-bar-series-kiwi-passionfruit-guava-10ml-nic-salt_1.jpg?v=1729054935",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ohm-brew-double-brew-kiwi-passionfruit-guava-nicsalt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/double-brew-bar-series-kiwi-passionfruit-guava-10ml-nic-salt_1_1.jpg?v=1729054935",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.586Z"
+}

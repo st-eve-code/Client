@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639997604164",
+  "slug": "bar-series-blueberry-swirl-nic-salt-eliquid",
+  "title": "Bar Series Desserts Blueberry Swirl 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-series-blueberry-swirl-nic-salt-eliquid",
+  "brand": "Bar Series",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Series Desserts Blueberry Swirl is a decadent treat for vapers who enjoy a rich, dessert-inspired vape. The profile opens with the lush, juicy taste of ripe Blueberries, providing a naturally sweet fruit foundation. This is elegantly swirled with smooth, velvety notes of Cheesecake and rich Cream on the exhale, creating a balanced and indulgent flavour experience that is satisfying without being overly heavy. Formulated with a balanced 50% VG / 50% PG ratio, this Nic Salt e-liquid offers excellent versatility. It is suitable for use in standard MTL (Mouth-to-Lung) starter kits as well as RDL (Restricted Direct-to-Lung) pod devices, performing optimally with coils ranging from 1.2ohm to 0.6ohm. The Nicotine Salt formulation ensures a silky-smooth throat hit and rapid satisfaction, available in 5mg, 10mg, and 20mg strengths. The Bar Series Desserts collection is designed to deliver high-impact flavour. These UK-made e-liquids utilise extra-concentrated ingredients to provide a bold, \"bar-style\" taste profile in a refillable format. Whether you prefer fruity, icy, or dessert blends, Bar Series offers a robust vaping experience for every palate.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "Bar Salts E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1133758",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1133805",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1133850",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-series-blueberry-swirl-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-desserts-blueberry-swirl-eliquid_1_1_1.jpg?v=1729063964",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-series-blueberry-swirl-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-desserts-blueberry-swirl-eliquid.jpg?v=1729063964",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-series-blueberry-swirl-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-desserts-blueberry-swirl-eliquid_1.jpg?v=1729063964",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__bar-series-blueberry-swirl-nic-salt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/bar-series-desserts-blueberry-swirl-eliquid_1_1.jpg?v=1729063964",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.428Z"
+}

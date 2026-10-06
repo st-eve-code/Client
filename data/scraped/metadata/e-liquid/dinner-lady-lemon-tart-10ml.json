@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639447331140",
+  "slug": "dinner-lady-lemon-tart-10ml",
+  "title": "Dinner Lady Lemon Tart E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-lemon-tart-10ml",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "The proof really is in the pudding with this zesty, zing vape! Dinner Lady’s Lemon Tart 10ml Sub Ohm E-Liquid captures the moreish taste of your favourite Lemon Tart desert . Don’ t miss out, treat your tastebuds to the tangy taste of zesty lemon curd layered sumptuously over mountains of sweet gooey meringue. An exhale of warm and comforting buttery baked pastry makes this a firm favourite amongst lovers of all things sweet. Grab yourself a slice of decadent Lemon Tart before its reduced to crumb s ! The 70% Vegetable Glycerine, and 30% Propylene Glycol formula make this E-Liquid ideal for sub-ohm vaping, producing mighty clouds on top of fantastic flavour and a smooth, comfortable, throat hit. Sub-ohm vaping generally requires the use of high-powered vape kits, including pod vape kits and pod mods with higher power outputs, some pen vape kits and advanced kits . If you love this Lemon Tart Sub Ohm E-Liquid 10ml then why not check out more of Di nner Lady’s delicious E-Liquids? Their collection of E-Liquids covers a wide variety of flavours from fruit, menthol, fizzy drinks and more. So why not treat yourself to the moreish fruit flavoured Dinner Lady Peach Mint Iced Tea Shortfill E-Liquid . Or enjoy a bubbly treat with the Dinner Lady Cola Shades Shortfill E-Liquid.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "DTL",
+    "High VG E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "DL-DL-10-LT-70-30-03-SO",
+      "price": 3.95
+    },
+    {
+      "title": "6mg",
+      "sku": "DL-DL-10-LT-70-30-06-SO",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-lemon-tart-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-desserts-lemon-tart-3070-3mg-uk.jpg?v=1729040067",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.628Z"
+}

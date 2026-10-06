@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639912014148",
+  "slug": "ske-crystal-blue-razz-lemonade-nic-salt-e-liquid",
+  "title": "SKE Crystal Blue Razz Lemonade Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-blue-razz-lemonade-nic-salt-e-liquid",
+  "brand": "SKE Crystal",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Razz Lemonade flavour SKE Crystal Nic Salts e-liquid delivers a vibrant mix of tangy Blue Raspberry slushy flavour infused with the sharp taste of bubbly Lemonade, creating a lively and refreshing vaping experience. This unique combination is part of the enhanced SKE Crystal Nic Salts line, which now includes more flavours and an improved formula for even more enjoyable vaping. Thanks to its nicotine salt formulation, this e-liquid is perfect for those looking for fast-acting nicotine satisfaction with a smoother throat hit, making it ideal for transitioning smokers and those who prefer mouth-to-lung vaping. The 50VG/50PG ratio is optimized for a great balance between flavour capture and cloud production, compatible with most MTL devices. Whether you're out in the sun or just looking for a cool, fruity vape, Blue Razz Lemonade offers a delicious vape experience. Explore all 25 flavours in the SKE Crystal Nic Salt collection to find your perfect vape for your setup. SKE are the creators of the hugely popular SKE Crystal Bar 600 disposable vape, a super-convenient single-use vape bar encased in a dazzling crystal chassis. SKE have since expanded their range with the SKE Crystal Plus pre-filled pod kit as well as this ever-evolving collection of Nicotine Salt 10ml e-liquids for use with many kinds of vape kit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "Blue Razz Lemonade",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1132478",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1132505",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-blue-razz-lemonade-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blue-razz-lemonade_1_1.jpg?v=1729060658",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-blue-razz-lemonade-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blue-razz-lemonade.jpg?v=1729060658",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ske-crystal-blue-razz-lemonade-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-nic-salts-blue-razz-lemonade_1.jpg?v=1729060658",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.370Z"
+}

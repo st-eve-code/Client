@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "14932503036285",
+  "slug": "pure-mist-cola-10ml-e-liquid",
+  "title": "Pure Mist Cola 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pure-mist-cola-10ml-e-liquid",
+  "brand": "Pure Mist",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Pure Mist Cola delivers the unmistakable taste of a classic Cola drink, complete with a sweet, fizzy taste. This smooth and refreshing e-liquid captures the nostalgic flavour of your favourite soda, making it a great choice for fans of sweet and sparkling blends. The Pure Mist High-PG collection offers a variety of VG/PG ratios to cater to different preferences. The 3mg nicotine strength features a 50VG/50PG blend for balanced vapour and flavour production, while the 0mg, 6mg, 12mg, and 18mg strengths use a high-PG 30VG/70PG ratio for a more pronounced flavour with discreet vapour. Designed for use with Mouth-to-Lung (MTL) devices, Pure Mist Cola provides a flavour-packed option for adult vapers. Made in the UK with premium ingredients, this e-liquid delivers consistent quality and satisfaction.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "b2b",
+    "High PG E-Liquid",
+    "MTL"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1094510",
+      "price": 2.95
+    },
+    {
+      "title": "3mg",
+      "sku": "1009213",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1094513",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1094511",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "1094512",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pure-mist-cola-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/puremist-10ml-eliquid-cola.jpg?v=1736437160",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.428Z"
+}

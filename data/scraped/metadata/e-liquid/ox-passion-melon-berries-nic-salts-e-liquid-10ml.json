@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15152930652541",
+  "slug": "ox-passion-melon-berries-nic-salts-e-liquid-10ml",
+  "title": "Ox Passion Melon Berries Nic Salts E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/ox-passion-melon-berries-nic-salts-e-liquid-10ml",
+  "brand": "Ox Passion",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "OX Passion Melon Berries is a smooth and fruity blend of sweet Melon and mixed Red Berries. The Melon delivers a light, juicy base, while the berry mix adds a punch of ripe sweetness with subtle tangy undertones. Together, they create a mellow yet flavour-packed vape that’s ideal for fruit lovers seeking a clean, rounded finish. This nicotine salt e-liquid is blended at a 50VG/50PG ratio and designed for mouth-to-lung (MTL) vaping. It delivers fast-acting nicotine satisfaction and a smooth throat hit, making it ideal for pod kits, refillable pens, and compact starter devices. Available in both 10mg and 20mg nicotine strengths, OX Passion Nic Salts offer bold, layered flavour profiles with a consistently smooth finish. Developed by Oxva, a trusted name in vaping hardware, these e-liquids are expertly crafted to pair seamlessly with Oxva XLIM pod kits and other refillable MTL vape devices.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1140082",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140092",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ox-passion-melon-berries-nic-salts-e-liquid-10ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-oxpassion-Melon-Berries-10ml-nic-salt.jpg?v=1744630168",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.358Z"
+}

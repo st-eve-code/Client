@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639399620932",
+  "slug": "pukka-juice-lime-lemonade-nicotine-salt-e-liquid",
+  "title": "Pukka Juice Lime Lemonade Nicotine Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pukka-juice-lime-lemonade-nicotine-salt-e-liquid",
+  "brand": "Pukka Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Lime Lemonade by Pukka Juice is a nostalgic pairing of lemon and lime soda for a classic, refreshing taste that’s sweet, sharp and incredibly refreshing. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquid Promotion",
+    "10ml Multi-Buys",
+    "BRANDS",
+    "Confectionary",
+    "Confectionery E-liquid Flavours",
+    "Default Category",
+    "E Liquid",
+    "FLAVOUR TYPE",
+    "Fruit",
+    "Fruit E-liquid Flavours",
+    "Mix & Match E-liquid Bundles",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Pukka Juice",
+    "VAPE TYPE",
+    "Vapestore Categories"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1101220",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1101221",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pukka-juice-lime-lemonade-nicotine-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pukka-juice-nic-salts-lime-lemonade.jpg?v=1729038125",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.456Z"
+}

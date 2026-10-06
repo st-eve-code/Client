@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639398375748",
+  "slug": "salt-e-liquid-dragons-dream",
+  "title": "Salt Dragons Dream Nicotine Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/salt-e-liquid-dragons-dream",
+  "brand": "Salt",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "A tropical e-juice with a mouth-watering twist, Dragon’s Dream takes the mellow sweetness of exotic dragonfruit and layers over tangy, sweet blueberry for a perfectly balanced, and utterly delicious vape. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the nicotine salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape devices. Perfect for recent ex-smokers or vapers seeking the immediate, satisfying nicotine relief provided by nic salts with a super-smooth throat hit.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "SA-LT-10-DD-10-NS",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "SA-LT-10-DD-20-NS",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__salt-e-liquid-dragons-dream__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/salt_dragonsdream_800x800_239d9f9a-dca5-422a-95ad-34159db6128c.jpg?v=1729038071",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.637Z"
+}

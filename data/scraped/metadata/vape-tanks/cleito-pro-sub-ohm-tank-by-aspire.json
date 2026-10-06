@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "vape-tanks",
+  "id": "9639313113412",
+  "slug": "cleito-pro-sub-ohm-tank-by-aspire",
+  "title": "Aspire Cleito Pro Sub Ohm Tank",
+  "url": "https://www.vapestore.co.uk/products/cleito-pro-sub-ohm-tank-by-aspire",
+  "brand": "Aspire",
+  "productType": "Tanks",
+  "price": {
+    "min": 24.99,
+    "max": 24.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Cleito Pro Tank builds upon the legacy of the iconic Cleito series, delivering a superior sub-ohm vaping experience with new features designed for ease of use and exceptional performance. This updated version retains the user-friendly top-fill system and quick-change coil functionality that made the original Cleito tank a favourite among vapers, while introducing enhanced features for improved flavour and vapour production. The Cleito Pro Tank boasts an innovative adjustable triple airflow system, allowing for precise control over airflow to customise your vaping experience. Its wider coil compatibility ensures versatility, supporting the 0.5ohm pre-installed coil, standard Cleito coils (0.2ohm and 0.4ohm), and 0.16ohm Cleito Exo Coils. These coils, paired with the tank’s design, deliver bold flavour, dense clouds, and a smooth vaping experience with reduced risk of dry hits or leakage. With a durable stainless steel and Pyrex glass construction, the Cleito Pro Tank is built to last. Its compact size and sleek design make it an excellent choice for vapers seeking high performance in a portable format. Whether upgrading from an earlier Cleito model or exploring sub-ohm vaping for the first time, the Cleito Pro Tank offers exceptional flavour, convenience, and style.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Rainbow",
+        "Silver"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "124508",
+      "price": 24.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "125611",
+      "price": 24.99
+    },
+    {
+      "title": "Silver",
+      "sku": "125321",
+      "price": 24.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__cleito-pro-sub-ohm-tank-by-aspire__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/125611_aspire_cleito_pro_subohmtank_rainbow_001.png?v=1729034128",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__cleito-pro-sub-ohm-tank-by-aspire__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/124508_aspire_cleito_pro_subohmtank_black_001.png?v=1729034128",
+      "position": 2,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__cleito-pro-sub-ohm-tank-by-aspire__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/125611_aspire_cleito_pro_subohmtank_rainbow_001_1.png?v=1729034128",
+      "position": 3,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__cleito-pro-sub-ohm-tank-by-aspire__004.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/125321_aspire_cleito_pro_subohmtank_silver_001.png?v=1729034129",
+      "position": 4,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:48:38.626Z"
+}

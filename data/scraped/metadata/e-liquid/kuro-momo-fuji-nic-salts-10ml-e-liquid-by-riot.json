@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15941480710525",
+  "slug": "kuro-momo-fuji-nic-salts-10ml-e-liquid-by-riot",
+  "title": "Kuro Momo Fuji Nic Salts 10ml E-Liquid  By Riot",
+  "url": "https://www.vapestore.co.uk/products/kuro-momo-fuji-nic-salts-10ml-e-liquid-by-riot",
+  "brand": "Riot Squad",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Kuro Momo Fuji Nic Salt E-Liquid by Riot Labs offers a deeply layered and sophisticated vaping experience inspired by traditional Japanese ingredients. This expertly crafted blend captures the essence of a serene orchard, leading with the luscious, velvety sweetness of White Peach. A crisp bite of Fuji Apple adds a refreshing fruitiness, while a subtle infusion of Shiso Leaf introduces a uniquely aromatic, botanical complexity. A clean layer of Crushed Ice on the exhale completes the experience. The result is a superbly balanced profile that offers a mature, nuanced alternative to standard fruit e-liquids. Available in 5mg, 10mg, and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The versatile 50VG/50PG ratio provides an ideal balance of discreet vapour production and clear, intense flavour. Kuro Nicotine Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The wider Kuro collection by Riot Labs takes inspiration from modern Japanese food and drink culture to offer a uniquely crafted range of e-liquids. Moving beyond standard profiles, the collection invites vapers to explore premium blends such as the sophisticated Umeshu Plum, the zesty Tokyo Mule, or the complex, floral notes of Sakura Nights. Each carefully balanced e-liquid provides a distinct flavour journey for those seeking a highly original, premium vape.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "b2b",
+    "Bar Salts E-Liquids",
+    "Kuro Nic Salts",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1157836",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1157844",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1157852",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__kuro-momo-fuji-nic-salts-10ml-e-liquid-by-riot__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Momo-Fuji-Kuro-Nic-Salts-10ml-By-Riot.jpg?v=1782732674",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.432Z"
+}

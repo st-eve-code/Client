@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639843692868",
+  "slug": "nasty-liq-fizzy-cherry-nicsalt-eliquid",
+  "title": "Nasty Liq Fizzy Cherry 10ml Nic Salt E-Liquid By Nasty Juice",
+  "url": "https://www.vapestore.co.uk/products/nasty-liq-fizzy-cherry-nicsalt-eliquid",
+  "brand": "Nasty Liq",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Indulge in the effervescent charm of Nasty Liq's Fizzy Cherry, a delightful e-liquid that brings the lively essence of a fizzy cherry soda to your vaping experience. Imagine the invigorating pop of a freshly opened cherry-flavoured soda, the bubbles tickling your nose as the scent of tangy cherries tempts your senses. As you inhale, the initial burst of cherry is vivid and bright, with a sweetness that's reminiscent of the syrupy depth found in your favourite cherry soda. The effervescence of this flavour is masterfully captured in the tangy finish that follows, mimicking the sensation of carbonation dancing across your tongue. It's a playful and exhilarating taste that's perfectly balanced—never too sweet, but always satisfyingly tangy. This sparkling cherry delight is designed to bring a smile with every puff, as if each cloud were infused with the joyful spirit of a celebratory toast. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between flavour and cloud production and the Nic salt solution makes it ideal for use in classic e-cigarette starter vape kits and pod vape kit devices. If you enjoy this flavour, there are plenty more delicious Nasty Liq flavours to try. Nasty Juice have fine-tuned their vape juices for optimised performance with the vast majority of MTL (mouth-to-lung) devices. They feature exceptional flavours and flavour blends across fruits, sweets, desserts and tobacco and many are also available in Nasty Juice’s super-convenient Nasty Bar disposable vape bars.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1127951",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1127969",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-liq-fizzy-cherry-nicsalt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-fizzy-cherry-10ml-nic-salt-eliquid_1_1.jpg?v=1729056119",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-fizzy-cherry-nicsalt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-fizzy-cherry-10ml-nic-salt-eliquid.jpg?v=1729056119",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nasty-liq-fizzy-cherry-nicsalt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nasty-juice-nastyliq-fizzy-cherry-10ml-nic-salt-eliquid_1.jpg?v=1729056119",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.583Z"
+}

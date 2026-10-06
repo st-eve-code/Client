@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "coils",
+  "id": "9639324320068",
+  "slug": "v12-prince-dual-mesh-coil-0-2ohm-by-smok",
+  "title": "SMOK V12 Prince Dual Mesh Coil 0.2 Ohm",
+  "url": "https://www.vapestore.co.uk/products/v12-prince-dual-mesh-coil-0-2ohm-by-smok",
+  "brand": "SMOK",
+  "productType": "Coils",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The V12 Prince mesh coils from Smok are designed for use with the Smok TFV12 tank series and feature an increased surface area for faster heating time and stunningly-clear flavour. These coils are rated for use between 70-120 watts but perform best at 85-105 watts. Explore the latest SMOK products at Vapestore, offering a comprehensive range of Smok E-cigarettes , durable Smok Tanks , state-of-the-art Mods , premium Smok Coils , and the newest Vape Kits .",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-PR-ME-02",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__v12-prince-dual-mesh-coil-0-2ohm-by-smok__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-v12-prince-dual-mesh-coil-0-2-ohm.jpg?v=1729034624",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:45:56.873Z"
+}

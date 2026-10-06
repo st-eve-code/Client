@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15763795607933",
+  "slug": "bar-drop-sweet-blackcurrant-10ml-nic-salts-e-liquid",
+  "title": "Bar Drop Sweet Blackcurrant 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/bar-drop-sweet-blackcurrant-10ml-nic-salts-e-liquid",
+  "brand": "Bar Drop",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Bar Drop Salts Sweet Blackcurrant by Drop is a rich, dark berry flavour dedicated to simplicity and depth. It offers the intense, juicy taste of ripe blackcurrants, reminiscent of a classic fruit cordial. The profile is bold and jammy, providing a consistent and satisfying sweetness throughout the vape. This e-liquid features a 40% VG / 60% PG ratio, which ensures the deep purple berry notes are preserved without being muted by excess thickener. Ideally suited for low-wattage MTL (Mouth-to-Lung) kits, the nicotine salt blend delivers a smooth, satisfying hit in 5mg, 10mg, or 20mg strengths. Manufactured by UK brand Drop, Bar Drop Salts range of nic salt e-liquids focus on fruity flavours that are endlessly popular as well as a few unique profiles you won’t find anywhere else.",
+  "tags": [
+    "10ml E-Liquids",
+    "5 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1152638",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152668",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152716",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__bar-drop-sweet-blackcurrant-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sweet-blackcurrant-bottle-Bar-Drop-10ml-Nic-salts.jpg?v=1768296002",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.469Z"
+}

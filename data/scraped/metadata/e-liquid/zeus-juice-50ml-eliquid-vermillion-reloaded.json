@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639563034948",
+  "slug": "zeus-juice-50ml-eliquid-vermillion-reloaded",
+  "title": "Zeus Juice Vermillion Reloaded E-Liquid 50ml Shortfill",
+  "url": "https://www.vapestore.co.uk/products/zeus-juice-50ml-eliquid-vermillion-reloaded",
+  "brand": "Zeus Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 13.99,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "“The lifeblood of the gods, the colour of the divine.” Such is power of vermilion, it’s a wonder that Zeus Juice have bottled this divine source at all, but bottled it they have in their delicious Vermilion Reloaded shortfill. Rich, juicy Cherries are given a loft from bracing menthol to create a flavoursome and unforgettable e-liquid. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70% VG 30% PG ratio makes it ideal for high-powered pod kits , box mods and sub-ohm tanks .",
+  "tags": [
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "ZS-50-5G-VM-00-SF",
+      "price": 13.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__zeus-juice-50ml-eliquid-vermillion-reloaded__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/zeus-juice-vermilion-reloaded-e-liquid-50ml-shortfill.jpg?v=1729042119",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.624Z"
+}

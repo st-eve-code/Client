@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9640053244228",
+  "slug": "nasty-salt-sicko-blue-nic-salt-eliquid-10mg",
+  "title": "Nasty Juice Sicko Blue 10ml Nic Salt E-Liquid - 10mg",
+  "url": "https://www.vapestore.co.uk/products/nasty-salt-sicko-blue-nic-salt-eliquid-10mg",
+  "brand": "Nasty Juice",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Nasty Salt Sicko Blue combines the iconic berry-infused tang of Blue Raspberry with a medley of Mixed Berries and a subtle hint of cool mint for a rich, refreshing and fruity vape experience. This e-liquid offers a complex, well-rounded flavour profile, perfect for vapers who enjoy a sweet, intensely fruity vape with a cool finish. Nasty Salt Nicotine Salt e-liquids are expertly crafted with a 50VG/50PG mix, making them ideal for mouth-to-lung (MTL) vape kits and pod devices. Available in 10mg nicotine strength, these e-liquids provide a smooth throat hit and fast-acting nicotine relief, making them an excellent choice for adult smokers and vapers seeking an alternative to traditional tobacco products. Made in Malaysia, Nasty Juice is renowned for its bold and innovative flavours, and the Nasty Salt range brings their most popular profiles into the world of nicotine salts. Discover a wide range of flavours and e-liquid types and experience the premium quality that has made Nasty Juice a favourite among vapers worldwide.",
+  "tags": [
+    "10ml E-Liquids",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1101070",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nasty-salt-sicko-blue-nic-salt-eliquid-10mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sicko-blue-nic-salt-eliquid-by-nasty-salt-nasty-juice.jpg?v=1729065165",
+      "position": 1,
+      "width": 700,
+      "height": 700,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.558Z"
+}

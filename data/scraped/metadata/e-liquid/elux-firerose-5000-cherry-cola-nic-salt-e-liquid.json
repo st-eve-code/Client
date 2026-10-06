@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639882719556",
+  "slug": "elux-firerose-5000-cherry-cola-nic-salt-e-liquid",
+  "title": "Elux Firerose 5000 Cherry Cola 10ml Nic Salt E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/elux-firerose-5000-cherry-cola-nic-salt-e-liquid",
+  "brand": "Elux",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Cherry Cola from the Elux Firerose 5000 collection is a delightful homage to the iconic soda flavour, enhanced with a layer of sweet cherry. The familiar taste of cola, with its rich, tangy and effervescent qualities, forms the foundation of this flavour, offering a comforting and classic vape. This is beautifully complemented by the addition of cherry, which introduces a layer of sweetness and fruitiness, enhancing the overall depth and appeal of the flavour. This fusion of cola and cherry creates a balanced and enjoyable vaping experience, capturing the essence of a beloved beverage with a fruity twist. It's perfect for vapers who appreciate a soda-inspired flavour with a touch of fruity sweetness, offering a taste that is both familiar and excitingly different. With a 50VG/50PG blend, Berry Bang ensures a perfectly balanced vape that’s ideal for those who enjoy both intense flavour and satisfying yet discreet cloud production. The Nicotine Salt formulation provides a silky smoothness of the vape and is suitable for use in any MTL (mouth-to-lung) vaping device. Discover the delicious world of Elux Firerose 5000 Nic Salt e-liquids. This captivating range is inspired by some of Elux’s most popular disposable vape flavours, offering the same intensity of flavour but with the versatility and convenience that comes from 10ml bottles for use with a wide variety of vape devices. Experience all dozen delicious Elux Firerose flavours available at Vapestore.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Elux Firerose 5000",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "offer-vvmax-5",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1129108",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1129122",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elux-firerose-5000-cherry-cola-nic-salt-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-fireose-5000-cherry-cola-10ml-nic-salt-eliquid_1_1.jpg?v=1729058858",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-firerose-5000-cherry-cola-nic-salt-e-liquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-fireose-5000-cherry-cola-10ml-nic-salt-eliquid.jpg?v=1729058858",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elux-firerose-5000-cherry-cola-nic-salt-e-liquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elux-fireose-5000-cherry-cola-10ml-nic-salt-eliquid_1.jpg?v=1729058858",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.577Z"
+}

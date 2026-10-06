@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15290989019517",
+  "slug": "doozy-vape-co-infinity-pod-vape-kit",
+  "title": "Doozy Vape Co Infinity Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-pod-vape-kit",
+  "brand": "Doozy Vape Co",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Doozy Infinity Pod Kit is an incredibly compact, lightweight and beginner-friendly vape device designed for smooth MTL (mouth-to-lung) vaping with minimal setup. Featuring effortless inhale activation, a built-in 650mAh battery, and a satisfying, fixed airflow, this kit offers a reliable and fuss-free experience ideal that makes it ideal for everyday use. The Infinity Kit is pre-fitted with a 0.8ohm refillable pod, designed for use with silky smooth Nic Salts or perfectly balanced 50/50 e-liquids. The pod features an integrated coil and a secure bottom-fill mechanism that helps reduce leaks while making refills quick and simple. The fixed-coil design means there are no messy coil changes: just replace the pod when needed. A discreet LED battery indicator keeps you informed of remaining power, while USB-C charging ensures fast recharging with minimal downtime. With its palm-sized, pocket-friendly form factor and easy-to-use operation, the Infinity Kit is a great choice for newer vapers or more experienced users seeking a compact backup device. Please Note: This kit dose not come with a USB-C charging cable. We Recommend using the following E-Liquid with these pods: 0.8ohm - Use Nic salt or 50/50 (freebase) E-Liquids Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1142597",
+    "Free 1 50/50 Liquid",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue",
+        "Pink",
+        "Grey"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue",
+      "sku": "1142592",
+      "price": 7.99
+    },
+    {
+      "title": "Pink",
+      "sku": "1142593",
+      "price": 7.99
+    },
+    {
+      "title": "Grey",
+      "sku": "1142594",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Doozy-InfinityPodKit.jpg?v=1749569149",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-vape-co-infinity-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pink-Doozy-InfinityPodKit.jpg?v=1749569193",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__doozy-vape-co-infinity-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grey-Doozy-InfinityPodKit.jpg?v=1749569276",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.492Z"
+}

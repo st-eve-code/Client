@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639406207300",
+  "slug": "dinner-lady-black-orange-crush-shortfill-e-liquid",
+  "title": "Dinner Lady Black Orange Crush Shortfill E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/dinner-lady-black-orange-crush-shortfill-e-liquid",
+  "brand": "Dinner Lady",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 11.99,
+    "max": 11.99,
+    "currency": "GBP"
+  },
+  "description": "Part of Dinner Lady’s Ice range, Black Orange Crush is a delicious fusion of sweet and tart blackcurrants and juicy oranges, with a beguiling layer of crushed ice for a mouth-watering, refreshing all-day vape. This convenient 50ml shortfill bottle comes with 10ml of free space for the addition of a nicotine shot to tailor your vape’s nicotine content to your exact preference. Its 70VG/30PG ratio makes it ideal for high-powered pod kits , mods and sub-ohm tanks .",
+  "tags": [
+    "2 for £20",
+    "50ml Shortfill",
+    "70/30 Shortfill",
+    "DTL"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "DL-DL-50-BO-00-VG",
+      "price": 11.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dinner-lady-black-orange-crush-shortfill-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dinnerlady-ice-black-orange-crush-3070-shortfill-_snv_-uk.jpg?v=1729038373",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.636Z"
+}

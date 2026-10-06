@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15950261518717",
+  "slug": "pyne-pod-fizzy-cherry-nic-salts-10ml-e-liquid",
+  "title": "Pyne Pod Fizzy Cherry Nic Salts 10ml E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-fizzy-cherry-nic-salts-10ml-e-liquid",
+  "brand": "Pyne Pod",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pyne Pod NicSalts Fizzy Cherry 10ml E-Liquid captures the bold, sweet taste of a popular sparkling beverage. This expertly crafted profile leads with the deep, juicy, and unmistakable taste of dark Cherry, providing a robust fruit inhale. To prevent the cherry notes from becoming too heavy, a sharp, sparkling Fizz sensation is woven throughout the exhale, creating an effervescent and lively finish that keeps the experience engaging and revitalising. Available in 5mg, 10mg, and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Pyne Pod Nic Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Pyne Pod Nic Salts collection translates the intense, highly popular flavours of their renowned prefilled pods into a versatile 10ml format. Offering a more cost-effective and flexible alternative, the range covers a wide variety of tastes. Beyond the sparkling fruit notes of Fizzy Cherry, vapers can explore other irresistible blends such as the sweet and tart Blueberry Raspberry, the refreshing Fresh Mint, or the layered complexity of Mr Blue.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "Pyen Pod Nic Salts"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1158001",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1158026",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1158047",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-fizzy-cherry-nic-salts-10ml-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fizzy-Cherry-Pyne-Pod-10ml-Nic-Salts.jpg?v=1783354197",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.460Z"
+}

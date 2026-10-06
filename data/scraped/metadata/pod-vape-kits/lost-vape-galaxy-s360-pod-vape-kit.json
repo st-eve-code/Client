@@ -1,0 +1,67 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15552003965309",
+  "slug": "lost-vape-galaxy-s360-pod-vape-kit",
+  "title": "Lost Vape Galaxy S360 Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-galaxy-s360-pod-vape-kit",
+  "brand": "Lost Vape",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 10.99,
+    "max": 10.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Galaxy S360 brings the series’ distinctive 360-degree Galaxy LED wrap to a pocket-friendly box design. It’s draw-activated for simple use and powered by an impressive 1400mAh built-in battery with an adjustable 5–35W range. Single Mesh and Dual Mesh modes let you tune warmth and vapour to suit your preference. Around the chassis, more than 300 micro-LEDs create a dazzling continuous status display that’s visible from any angle. A small multi-function button provides quick shortcuts for screen wake, power saving and power on/off, so it’s easy to check and manage the device at a glance. The kit pairs with a 2ml URSA V3 top-fill pod fitted with an integrated 0.8ohm mesh coil, ideal for 50/50 freebase or nicotine salt e-liquids. An airflow slider lets you set a tighter mouth-to-lung (MTL) draw or open things up for a looser restricted direct-to-lung (RDL) inhale. The S360 is cross-compatible with URSA V1 and V2 pods, giving you more resistance and draw options without changing device. USB-C charging and a lanyard complete the everyday setup. Browse our vape juice and find the perfect flavour to match this kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1142111",
+    "compatible-with-1142112",
+    "compatible-with-1142113",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "prime-refilkit",
+    "RDL/MTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Mystic Galaxy",
+        "Ignite Galaxy"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Mystic Galaxy",
+      "sku": "1148333",
+      "price": 10.99
+    },
+    {
+      "title": "Ignite Galaxy",
+      "sku": "1148334",
+      "price": 10.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-galaxy-s360-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mystic-Galaxy_Lost-Vape-Galaxy-S360_360_-Galaxy-Screen-Pod-2025.jpg?v=1758551677",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-galaxy-s360-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Ignite-Galaxy_Lost-Vape-Galaxy-S360_360_-Galaxy-Screen-Pod.jpg?v=1758551748",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.482Z"
+}

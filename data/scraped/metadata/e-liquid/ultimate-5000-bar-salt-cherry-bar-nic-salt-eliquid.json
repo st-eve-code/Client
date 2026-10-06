@@ -1,0 +1,88 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639886455108",
+  "slug": "ultimate-5000-bar-salt-cherry-bar-nic-salt-eliquid",
+  "title": "Ultimate 5000 Bar Salt Cherry Bar 10ml E-Liquid By Ultimate Juice",
+  "url": "https://www.vapestore.co.uk/products/ultimate-5000-bar-salt-cherry-bar-nic-salt-eliquid",
+  "brand": "Ultimate",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Savour the deep, rich cherry flavour with Ultimate 5000 Bar Salt's Cherry Bar. This e-liquid captures the essence of ripe cherries, offering a smooth, flavourful vape that's both comforting and delightfully sweet. It's an indulgent treat for those who love the timeless taste of cherry, providing a classic vape experience with a luxurious twist. This premium e-liquid’s 50VG/50PG blend offers the perfect balance between rich flavour and ample cloud production, while the Nicotine Salt solution makes it ideal for use in classic e-cigarette starter kits and pod vape devices. Available in 10mg and 20mg nicotine strengths, it caters to both moderate and high nicotine preferences. Nicotine salts’ unique alkaline formulation allows for a higher concentration of nicotine without the harshness, delivering a smoother throat hit compared to high-strength freebase liquids. They are absorbed into the bloodstream faster, providing near-instant relief from nicotine cravings, making Nic salt e-liquids a superior choice for recent ex-smokers or vapers seeking immediate satisfaction. Inspired by the intense and super-satisfying flavours of the brand’s bestselling Ultimate Bar disposable vape devices, the Ultimate 5000 Bar Salt range includes a collection of 20 irresistible flavours that span classic favourites as well as exciting new blends, ensuring a premium vaping experience for every palate.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "prime-1020",
+    "Ultimate 5000"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1130954",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1130976",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1130999",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ultimate-5000-bar-salt-cherry-bar-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-5000-bar-saltscherry-bar_1_1_1_1.jpg?v=1729059087",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-5000-bar-salt-cherry-bar-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-5000-bar-saltscherry-bar_1.jpg?v=1729059087",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-5000-bar-salt-cherry-bar-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-5000-bar-saltscherry-bar_1_1.jpg?v=1729059087",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ultimate-5000-bar-salt-cherry-bar-nic-salt-eliquid__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ultimate-5000-bar-saltscherry-bar_1_1_1.jpg?v=1729059087",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.430Z"
+}

@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "9639601930564",
+  "slug": "core-raspberry-sorbet-50-50-eliquid-ohm-brew",
+  "title": "Ohm Brew Core Raspberry Sorbet 50/50 E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/core-raspberry-sorbet-50-50-eliquid-ohm-brew",
+  "brand": "Ohm Brew",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Raspberry Sorbet from Ohm Brew’s Core range of Freebase e-liquids conjures a heavenly raspberry sorbet, finished with a touch of zesty lemon, rounded off with a dash of roasted vanilla, sprinkled with pure cane sugar. Ohm Brew’s Core range recaptures the original magic of freebase nicotine e-liquids. Freebase nicotine is a form of nicotine with an alkaline formula, which offers more of a tactile ‘throat hit’ than nic salt e-liquids. Their throat sensation closely mimics the draw of a traditional cigarette, only the taste is far more delicious! Ohm Brew’s Core range of Freebase e-liquids are ideal for use in classic e-cigarette starter vape kits and pod kits .",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "50/50 10mls",
+    "MTL/RDL",
+    "Ohm Brew Core",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "12mg",
+        "18mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "COR-10-RS-03",
+      "price": 2.95
+    },
+    {
+      "title": "6mg",
+      "sku": "COR-10-RS-06",
+      "price": 2.95
+    },
+    {
+      "title": "12mg",
+      "sku": "COR-10-RS-12",
+      "price": 2.95
+    },
+    {
+      "title": "18mg",
+      "sku": "COR-10-RS-18",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__core-raspberry-sorbet-50-50-eliquid-ohm-brew__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ohm-brew-core-raspberry-sorbet.jpg?v=1729043785",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.464Z"
+}

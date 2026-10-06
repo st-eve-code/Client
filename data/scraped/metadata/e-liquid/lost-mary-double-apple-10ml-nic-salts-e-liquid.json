@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15943209058685",
+  "slug": "lost-mary-double-apple-10ml-nic-salts-e-liquid",
+  "title": "Lost Mary Double Apple 10ml Nic Salts E-Liquid",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-double-apple-10ml-nic-salts-e-liquid",
+  "brand": "Lost Mary",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Lost Mary Double Apple 10ml Nic Salt E-Liquid captures the authentic, sun-ripened essence of a classic orchard. This profile masterfully pairs the sugary, candy-like sweetness of juicy Red Apples with the sharp, acidic bite of crisp Green Apples. The resulting blend offers a layered fruit experience that remains consistently balanced, providing a refreshingly clean taste that is ideal for those who prefer straightforward, high-quality fruit vapes. Available in 5mg, 10mg, and 20mg nicotine strengths, this premium nicotine salt formulation ensures rapid delivery and a smooth, comfortable throat sensation to effectively manage nicotine intake. The balanced 50VG/50PG ratio provides an ideal combination of clear, intense flavour and discreet vapour production. Lost Mary Nic Salts are designed specifically to perform reliably with low-wattage mouth-to-lung hardware, including refillable pod vape kits and classic starter vape kits. The Lost Mary Nic Salts collection delivers the same intense and globally popular flavours that made their single-use devices famous, now in a convenient 10ml refillable format. Beyond the orchard-fresh Double Apple, vapers can explore other vibrant options within the range, such as the juicy Green Grape or the tangy Strawberry Cherry Raspberry. It is the perfect choice for those seeking a premium, flavour-packed experience in a more cost-effective format. Compatible with refillable pod vape or vape starter kit UK devices for smooth hits.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "Bar Salts E-Liquid",
+    "MTL/RDL",
+    "Nic Salt E-Liquid"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1157872",
+      "price": 3.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1157866",
+      "price": 3.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1157860",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-double-apple-10ml-nic-salts-e-liquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Apple-Lost-Mary-Nic-Salts-10ml.jpg?v=1782909367",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.391Z"
+}

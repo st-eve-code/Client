@@ -1,0 +1,111 @@
+{
+  "site": "vapestore",
+  "category": "pod-vape-kits",
+  "id": "15055299314045",
+  "slug": "innokin-endura-v-pro-pod-vape-kit",
+  "title": "Innokin Endura V Pro Pod Vape Kit",
+  "url": "https://www.vapestore.co.uk/products/innokin-endura-v-pro-pod-vape-kit",
+  "brand": "Innokin",
+  "productType": "Vape Kit",
+  "price": {
+    "min": 13.99,
+    "max": 13.99,
+    "currency": "GBP"
+  },
+  "description": "Experience incredible versatility and performance with the Innokin Endura V Pro Pod Vape Kit, a premium pod system crafted for both MTL (mouth-to-lung) and RDL (restricted direct-to-lung) vaping enthusiasts. With its sophisticated minimalist design and compact yet robust construction, this pod kit delivers a perfect balance of style, functionality and portability that fits seamlessly into any lifestyle. The Endura V Pro houses an impressive 1200mAh battery that provides exceptional longevity, offering up to three days of consistent vaping between charges. The intelligent auto-optimising system adjusts output power based on the installed pod, delivering up to 30W of perfectly calibrated power without requiring technical adjustments or menu navigation. The intuitive RGB battery indicator and crisp 0.85” TFT colour screen offers at-a-glance power status and more, while USB Type-C fast charging ensures minimal downtime. For extra security, the device also offers a manual locking switch to prevent misfires. Equipped with Innokin's innovative VCAP pod system featuring a pre-installed 0.6ohm mesh coil, the Endura V produces remarkably rich, authentic flavour with every draw. The intuitive top-filling mechanism with zero-leak technology minimises mess and maximises convenience, making daily use a true pleasure. The kit's versatile nature makes it suitable for use with both nic salt and freebase e-liquids, adapting effortlessly to your preferred vaping style. The Endura V truly offers a customisable airflow control system, featuring a precision three-hole inlet slider that allows precise adjustment of your draw. This thoughtful design enables vapers to fine-tune their experience from a tight, flavourful MTL draw to a looser, satisfying RDL hit. Compatible with the entire range of Innokin VCAP pods (available in 0.6ohm, 0.8ohm and 1.2ohm resistances), this remarkably versatile kit adapts to your preferences while maintaining the outstanding flavour production and vapour quality that Innokin is known for. How to set up the Endura V Pro Pod Vape Kit",
+  "tags": [
+    "Battery-included",
+    "compatible-with-1138094",
+    "compatible-with-1138095",
+    "compatible-with-1138096",
+    "compatible-with-1140581",
+    "Free 1 Bar Salts",
+    "Kit-Export",
+    "Kit-VS-Export",
+    "MTL/RDL",
+    "prime-refilkit"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Blue Silver",
+        "White",
+        "Black",
+        "Pink-Purple",
+        "Green Gradient"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Blue Silver",
+      "sku": "1139361",
+      "price": 13.99
+    },
+    {
+      "title": "White",
+      "sku": "1139357",
+      "price": 13.99
+    },
+    {
+      "title": "Black",
+      "sku": "1139358",
+      "price": 13.99
+    },
+    {
+      "title": "Pink-Purple",
+      "sku": "1139359",
+      "price": 13.99
+    },
+    {
+      "title": "Green Gradient",
+      "sku": "1139360",
+      "price": 13.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-endura-v-pro-pod-vape-kit__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Endura-V-pro-Kit_Blue-Silver.jpg?v=1741281183",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-v-pro-pod-vape-kit__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Endura-V-pro-Kit_White.jpg?v=1741281183",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-v-pro-pod-vape-kit__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Endura-V-pro-Kit_Black.jpg?v=1741281183",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-v-pro-pod-vape-kit__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Endura-V-pro-Kit_Pink-Purple.jpg?v=1741281183",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-endura-v-pro-pod-vape-kit__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Endura-V-pro-Kit_Green-Gradient.jpg?v=1741281183",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T13:50:52.488Z"
+}

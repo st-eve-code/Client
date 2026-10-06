@@ -1,0 +1,80 @@
+{
+  "site": "vapestore",
+  "category": "e-liquid",
+  "id": "15821427507581",
+  "slug": "vampire-vape-max-double-apple-nic-salt-eliquid",
+  "title": "Vampire Vape MAX Double Apple Nic Salt E-Liquid 10ml",
+  "url": "https://www.vapestore.co.uk/products/vampire-vape-max-double-apple-nic-salt-eliquid",
+  "brand": "Vampire Vape",
+  "productType": "E-Liquid",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Vampire Vape Max Double Apple is a robust and classic fruit combination that celebrates orchard flavours with a bolder, sweeter approach. It harmonises the mellow, sweet notes of crunchy Red Apple with the sharp, tart bite of Green Apple to create a layered and highly authentic profile. Formulated to deliver flavour that doesn't fade, this balanced blend ensures an intense, consistent taste from the first puff to the last, with no drop-off halfway through the bottle. Mixed to a balanced 50VG/50PG ratio, this nicotine salt e-liquid features a pod-perfected formula specifically designed for modern MTL (mouth-to-lung) pod systems, keeping the flavour incredibly vivid even at lower power settings. Furthermore, this balanced formulation is designed to provide cleaner coil performance, reducing residue to help your coils last much longer while ensuring a beautifully smooth throat hit. The Vampire Vape Max series from the renowned UK mixologists at Vampire Vape offers a new collection of sweeter, fuller flavours crafted to strict UK regulatory standards. Packaged in a 10ml bottle, this e-liquid is available in 5mg, 10mg and 20mg nicotine strengths, allowing you to select the ideal level of swift, satisfying relief for your daily vape.",
+  "tags": [
+    "10ml E-Liquids",
+    "4 for £10",
+    "MTL/RDL",
+    "Nic Salt E-Liquid",
+    "pricebreak",
+    "VV MAX",
+    "VVMAX"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "5mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg",
+      "sku": "1154567",
+      "price": 2.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1152869",
+      "price": 2.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1152889",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-vape-max-double-apple-nic-salt-eliquid__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-AppleVampire-Vape-Max-10ml-E-Liquid.jpg?v=1774016779",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-max-double-apple-nic-salt-eliquid__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-max-double-apple-5mg-800x800.jpg?v=1780062313",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vampire-vape-max-double-apple-nic-salt-eliquid__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vv-max-double-apple-5mg-800x800_43432b37-16dd-45c0-bb3a-b75eb6e01bc1.jpg?v=1780062457",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-06T14:24:12.404Z"
+}
