@@ -4,27 +4,27 @@ import { useState } from "react";
 import Link from "next/link";
 import type { ShopCategory } from "@/lib/catalog";
 
+interface Section {
+  title: string;
+  items: ShopCategory[];
+}
+
+function buildSections(categories: ShopCategory[]): Section[] {
+  const sections: Section[] = [];
+  for (const category of categories) {
+    const title = category.section ?? "Products";
+    const section = sections.find((s) => s.title === title);
+    if (section) section.items.push(category);
+    else sections.push({ title, items: [category] });
+  }
+  return sections;
+}
+
 export function MobileNav({ categories }: { categories: ShopCategory[] }) {
   const [open, setOpen] = useState(false);
 
-  const groups = [
-    ...(categories.some((c) => c.group === "vapestore")
-      ? [
-          {
-            title: "Vape Store",
-            items: categories.filter((c) => c.group === "vapestore"),
-          },
-        ]
-      : []),
-    ...(categories.some((c) => c.group === "weedmaps")
-      ? [
-          {
-            title: "Cannabis",
-            items: categories.filter((c) => c.group === "weedmaps"),
-          },
-        ]
-      : []),
-  ];
+  const vapestore = categories.filter((c) => c.group === "vapestore");
+  const weedmaps = categories.filter((c) => c.group === "weedmaps");
 
   return (
     <div className="md:hidden">
@@ -57,14 +57,46 @@ export function MobileNav({ categories }: { categories: ShopCategory[] }) {
             >
               Shop all categories
             </Link>
-            <div className="mt-5 space-y-5">
-              {groups.map((group) => (
-                <div key={group.title}>
+            <div className="mt-5 space-y-6">
+              {vapestore.length ? (
+                <div>
                   <p className="mb-2 text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
-                    {group.title}
+                    Vape Store
+                  </p>
+                  <div className="space-y-4">
+                    {buildSections(vapestore).map((section) => (
+                      <div key={section.title}>
+                        <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-muted)]">
+                          {section.title}
+                        </p>
+                        <ul className="space-y-1">
+                          {section.items.map((category) => (
+                            <li key={category.slug}>
+                              <Link
+                                href={`/shop/${category.slug}`}
+                                onClick={() => setOpen(false)}
+                                className="flex items-center justify-between gap-3 rounded-[var(--radius-8)] px-2 py-2 text-sm font-bold text-[var(--color-text-primary)] hover:bg-[var(--color-bg-surface)] transition-colors duration-[var(--duration-base)]"
+                              >
+                                <span>{category.label}</span>
+                                <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
+                                  {category.count}
+                                </span>
+                              </Link>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ) : null}
+              {weedmaps.length ? (
+                <div>
+                  <p className="mb-2 text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
+                    Cannabis
                   </p>
                   <ul className="space-y-1">
-                    {group.items.map((category) => (
+                    {weedmaps.map((category) => (
                       <li key={category.slug}>
                         <Link
                           href={`/shop/${category.slug}`}
@@ -80,7 +112,7 @@ export function MobileNav({ categories }: { categories: ShopCategory[] }) {
                     ))}
                   </ul>
                 </div>
-              ))}
+              ) : null}
             </div>
           </div>
         </div>

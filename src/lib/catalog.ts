@@ -117,6 +117,32 @@ export function priceLabel(item: CatalogItem): string {
 export const WM_SITE = "weedmaps-com";
 export const WM_PREFIX = "wm-";
 
+export const VAPESTORE_SECTIONS: Record<string, string> = {
+  "vape-kits": "Kits & Devices",
+  "pod-vape-kits": "Kits & Devices",
+  "vape-tanks": "Pods, Tanks & Coils",
+  coils: "Pods, Tanks & Coils",
+  "refillable-pods": "Pods, Tanks & Coils",
+  "prefilled-pods": "Pods, Tanks & Coils",
+  "e-liquid": "E-Liquids",
+  "nicotine-pouches": "Alternatives",
+  "nicotine-gum": "Alternatives",
+  "vape-accessories": "Accessories",
+};
+
+const VAPESTORE_CATEGORY_ORDER: Record<string, number> = {
+  "vape-kits": 1,
+  "pod-vape-kits": 2,
+  "vape-tanks": 3,
+  coils: 4,
+  "refillable-pods": 5,
+  "prefilled-pods": 6,
+  "e-liquid": 7,
+  "nicotine-pouches": 8,
+  "nicotine-gum": 9,
+  "vape-accessories": 10,
+};
+
 const WEEDMAPS_LABELS: Record<string, string> = {
   flower: "Flower",
   buds: "Buds",
@@ -142,6 +168,7 @@ export interface ShopCategory {
   label: string;
   site: string;
   group: "vapestore" | "weedmaps";
+  section?: string;
   source?: string;
   count: number;
   images: number;
@@ -286,6 +313,7 @@ export async function getCategories(): Promise<ShopCategory[]> {
       label: c.label,
       site: c.site,
       group: "vapestore",
+      section: VAPESTORE_SECTIONS[c.category],
       source: c.source,
       count: c.count,
       images: c.images,
@@ -317,7 +345,15 @@ export async function getCategories(): Promise<ShopCategory[]> {
     }
   }
 
-  return categories;
+  return categories.sort((a, b) => {
+    if (a.group !== b.group) return a.group === "vapestore" ? -1 : 1;
+    if (a.group === "vapestore") {
+      return (
+        (VAPESTORE_CATEGORY_ORDER[a.slug] ?? 999) - (VAPESTORE_CATEGORY_ORDER[b.slug] ?? 999)
+      );
+    }
+    return a.label.localeCompare(b.label);
+  });
 }
 
 export interface CategoryPage {

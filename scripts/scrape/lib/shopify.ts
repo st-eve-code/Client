@@ -49,8 +49,10 @@ export interface ShopifyCollectionSpec {
   site: { id: string; baseUrl: string };
   category: string;
   label: string;
-  /** collection handle under baseUrl/collections/<handle> */
-  collection: string;
+  /** single collection handle under baseUrl/collections/<handle> */
+  collection?: string;
+  /** one or more collection handles; products are unioned and de-duplicated by handle */
+  collections?: string[];
   /** max pages to walk; each page holds up to PAGE_SIZE products */
   maxPages?: number;
 }
@@ -59,17 +61,21 @@ const PAGE_SIZE = 250;
 
 async function fetchCollectionProducts(
   baseUrl: string,
-  collection: string,
+  handles: string[],
   maxPages: number
 ): Promise<ShopifyProduct[]> {
-  const all: ShopifyProduct[] = [];
-  for (let page = 1; page <= maxPages; page++) {
-    const url = `${baseUrl}/collections/${collection}/products.json?limit=${PAGE_SIZE}&page=${page}`;
-    const data = await fetchJson<{ products: ShopifyProduct[] }>(url);
-    all.push(...data.products);
-    if (data.products.length < PAGE_SIZE) break;
+  const byHandle = new Map<string, ShopifyProduct>();
+  for (const collection of handles) {
+    for (let page = 1; page <= maxPages; page++) {
+      const url = `${baseUrl}/collections/${collection}/products.json?limit=${PAGE_SIZE}&page=${page}`;
+      const data = await fetchJson<{ products: ShopifyProduct[] }>(url);
+      for (const p of data.products) {
+        if (!byHandle.has(p.handle)) byHandle.set(p.handle, p);
+      }
+      if (data.products.length < PAGE_SIZE) break;
+    }
   }
-  return all;
+  return [...byHandle.values()];
 }
 
 function toItem(
@@ -124,8 +130,13 @@ function toItem(
 export function createShopifyCollectionScraper(
   spec: ShopifyCollectionSpec
 ): CategoryScraper {
-  const { site, category, label, collection } = spec;
+  const { site, category, label, collection, collections } = spec;
   const maxPages = spec.maxPages ?? 40;
+  const handles = collection ? [collection] : collections ?? [];
+
+  if (!handles.length) {
+    throw new Error(`[${site.id}/${category}] spec requires collection or collections`);
+  }
 
   return {
     category,
@@ -133,10 +144,11 @@ export function createShopifyCollectionScraper(
     site: site.id,
     async run(): Promise<CategoryIndex> {
       await ensureCategory(category);
-      const source = `${site.baseUrl}/collections/${collection}`;
+      const primary = handles[0];
+      const source = `${site.baseUrl}/collections/${primary}`;
 
-      console.log(`[${site.id}/${category}] fetching products from ${source}`);
-      const products = await fetchCollectionProducts(site.baseUrl, collection, maxPages);
+      console.log(`[${site.id}/${category}] fetching products from ${handles.join(", ")}`);
+      const products = await fetchCollectionProducts(site.baseUrl, handles, maxPages);
       console.log(`[${site.id}/${category}] ${products.length} products`);
 
       const items = products.map((p) => toItem(site.id, category, site.baseUrl, p));

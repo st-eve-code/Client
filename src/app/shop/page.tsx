@@ -1,19 +1,40 @@
 import type { Metadata } from "next";
 import { getCategories } from "@/lib/catalog";
+import type { ShopCategory } from "@/lib/catalog";
 import { CategoryCard } from "@/components/CategoryCard";
 
 export const metadata: Metadata = {
   title: "Shop by Category",
 };
 
+interface CategoryGroup {
+  title: string;
+  categories: ShopCategory[];
+}
+
+function buildGroups(categories: ShopCategory[]): CategoryGroup[] {
+  const groups: CategoryGroup[] = [];
+  let current: CategoryGroup | null = null;
+  for (const category of categories) {
+    const key = category.group === "weedmaps" ? "Cannabis" : category.section ?? "Products";
+    if (!current || current.title !== key) {
+      current = { title: key, categories: [] };
+      groups.push(current);
+    }
+    current.categories.push(category);
+  }
+  return groups;
+}
+
 export default async function ShopPage() {
   const categories = await getCategories();
   const totalProducts = categories.reduce((n, c) => n + c.count, 0);
-  const updatedAt = categories
-    .map((c) => c.updatedAt)
-    .filter(Boolean)
-    .sort()
-    .pop();
+  let updatedAt: string | undefined;
+  for (const c of categories) {
+    if (!c.updatedAt) continue;
+    if (!updatedAt || c.updatedAt > updatedAt) updatedAt = c.updatedAt;
+  }
+  const groups = buildGroups(categories);
 
   return (
     <section className="bg-[var(--color-bg-canvas)]">
@@ -45,10 +66,19 @@ export default async function ShopPage() {
           </div>
         </div>
 
-        {categories.length ? (
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-5 gap-y-6">
-            {categories.map((category) => (
-              <CategoryCard key={category.slug} category={category} />
+        {groups.length ? (
+          <div className="space-y-10">
+            {groups.map((group) => (
+              <div key={group.title}>
+                <h2 className="mb-4 text-xs font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
+                  {group.title}
+                </h2>
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-5 gap-y-6">
+                  {group.categories.map((category) => (
+                    <CategoryCard key={category.slug} category={category} />
+                  ))}
+                </div>
+              </div>
             ))}
           </div>
         ) : (

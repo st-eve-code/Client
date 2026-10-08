@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# excluded scraped data dirs (never catalogued / stale smoke tests)
+/data/scraped/metadata/streetcocaineshop-com/
+/data/scraped/metadata/dmtshopping-com/
+/data/scraped/metadata/kindkushdispensary-com/
+/data/scraped/metadata/vapestore-co-uk/
+/data/scraped/images/streetcocaineshop-com__*
+/data/scraped/images/dmtshopping-com__*
+/data/scraped/images/kindkushdispensary-com__*
+/data/scraped/images/vapestore-co-uk__*
+
+# stale early-scrape copy under scripts/ (holds drug-site leftovers only)
+/scripts/data/scraped/
