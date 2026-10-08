@@ -117,6 +117,10 @@ export function priceLabel(item: CatalogItem): string {
 export const WM_SITE = "weedmaps-com";
 export const WM_PREFIX = "wm-";
 
+// ── vapestore-co-uk flat-array site ──────────────────────────────────────────
+export const VS2_SITE = "vapestore-co-uk";
+export const VS2_PREFIX = "vs2-";
+
 export const VAPESTORE_SECTIONS: Record<string, string> = {
   "vape-kits": "Kits & Devices",
   "pod-vape-kits": "Kits & Devices",
@@ -163,11 +167,40 @@ const WEEDMAPS_LABELS: Record<string, string> = {
   seeds: "Seeds",
 };
 
+// ── vapestore-co-uk (WooCommerce flat-array) types ───────────────────────────
+interface VS2Image {
+  url: string;
+  alt?: string;
+  local?: string | null;
+  webp_local?: string | null;
+}
+
+interface VS2Product {
+  slug: string;
+  name?: string;
+  site?: string;
+  category: string;
+  price_min?: number;
+  price_max?: number;
+  currency?: string;
+  available?: boolean;
+  vendor?: string;
+  tags?: string[];
+  description?: string;
+  description_html?: string;
+  short_description?: string;
+  images?: VS2Image[];
+  variants?: ShopVariant[];
+  collections?: string[];
+  source_url?: string;
+  scraped_at?: string;
+}
+
 export interface ShopCategory {
   slug: string;
   label: string;
   site: string;
-  group: "vapestore" | "weedmaps";
+  group: "vapestore" | "weedmaps" | "vs2";
   section?: string;
   source?: string;
   count: number;
@@ -292,6 +325,65 @@ function normalizeWeedmapsDetail(p: WeedmapsProduct): ShopProduct {
   };
 }
 
+// ── vapestore-co-uk helpers ───────────────────────────────────────────────────
+
+async function readVS2Index(): Promise<VS2Product[]> {
+  try {
+    const data = await fs.readJson(path.join(METADATA_DIR, VS2_SITE, "index.json"));
+    return Array.isArray(data) ? data : [];
+  } catch {
+    return [];
+  }
+}
+
+function normalizeVS2(p: VS2Product, category: string): CatalogItem {
+  const images: CatalogImage[] = (p.images ?? [])
+    .filter((im) => im.local != null || im.url)
+    .map((im, i) => ({
+      file: baseName(im.webp_local || im.local || im.url),
+      url: im.url,
+      position: i + 1,
+      downloaded: Boolean(im.webp_local ?? im.local),
+    }));
+  return {
+    site: VS2_SITE,
+    category,
+    id: p.slug,
+    slug: p.slug,
+    title: p.name ?? p.slug,
+    url: p.source_url ?? `https://www.vapestore.co.uk/products/${p.slug}`,
+    brand: p.vendor,
+    price:
+      p.price_min === undefined && p.price_max === undefined
+        ? undefined
+        : {
+            min: p.price_min ?? p.price_max ?? 0,
+            max: p.price_max ?? p.price_min ?? 0,
+            currency: p.currency ?? "GBP",
+          },
+    description: (p.description_html || p.description || "").replace(/<[^>]+>/g, ""),
+    tags: p.tags ?? [],
+    images,
+    scrapedAt: p.scraped_at ?? "",
+  };
+}
+
+function normalizeVS2Detail(p: VS2Product): ShopProduct {
+  const category = VS2_PREFIX + (p.category || "misc");
+  const base = normalizeVS2(p, category);
+  return {
+    ...base,
+    description_html: p.description_html,
+    collections: p.collections,
+    variants: (p.variants ?? []).map((v) => ({
+      title: v.title,
+      sku: v.sku,
+      price: v.price,
+      available: v.available,
+    })),
+  };
+}
+
 export async function getCategories(): Promise<ShopCategory[]> {
   const categories: ShopCategory[] = [];
 
@@ -345,8 +437,40 @@ export async function getCategories(): Promise<ShopCategory[]> {
     }
   }
 
+  // vapestore-co-uk flat-array site (vape-tanks scraped separately)
+  const vs2Products = await readVS2Index();
+  if (vs2Products.length) {
+    const byCategory = new Map<string, VS2Product[]>();
+    for (const p of vs2Products) {
+      const list = byCategory.get(p.category) ?? [];
+      list.push(p);
+      byCategory.set(p.category, list);
+    }
+    for (const [cat, products] of byCategory) {
+      const firstWithImage = products.find((p) => p.images?.some((im) => im.local));
+      const coverImage = firstWithImage?.images?.find((im) => im.local);
+      categories.push({
+        slug: VS2_PREFIX + cat,
+        label: prettyCategorySlug(cat),
+        site: VS2_SITE,
+        group: "vs2",
+        section: VAPESTORE_SECTIONS[cat],
+        count: products.length,
+        images: products.reduce((n, p) => n + (p.images?.filter((im) => im.local).length ?? 0), 0),
+        coverFile: coverImage ? baseName(coverImage.webp_local || coverImage.local || coverImage.url) : undefined,
+        updatedAt: products[0]?.scraped_at,
+      });
+    }
+  }
+
   return categories.sort((a, b) => {
-    if (a.group !== b.group) return a.group === "vapestore" ? -1 : 1;
+    if (a.group !== b.group) {
+      if (a.group === "vapestore") return -1;
+      if (b.group === "vapestore") return 1;
+      if (a.group === "vs2") return -1;
+      if (b.group === "vs2") return 1;
+      return 0;
+    }
     if (a.group === "vapestore") {
       return (
         (VAPESTORE_CATEGORY_ORDER[a.slug] ?? 999) - (VAPESTORE_CATEGORY_ORDER[b.slug] ?? 999)
@@ -360,7 +484,7 @@ export interface CategoryPage {
   slug: string;
   label: string;
   site: string;
-  group: "vapestore" | "weedmaps";
+  group: "vapestore" | "weedmaps" | "vs2";
   total: number;
   page: number;
   pageSize: number;
@@ -393,6 +517,27 @@ export async function getCategory(
       pageSize,
       pages,
       items: products.slice(start, start + pageSize).map((p) => normalizeWeedmaps(p, category)),
+    };
+  }
+
+  if (category.startsWith(VS2_PREFIX)) {
+    const cat = category.slice(VS2_PREFIX.length);
+    const products = (await readVS2Index()).filter((p) => p.category === cat);
+    if (!products.length) return null;
+    const total = products.length;
+    const pages = Math.max(1, Math.ceil(total / pageSize));
+    const current = clampPage(page, pages);
+    const start = (current - 1) * pageSize;
+    return {
+      slug: category,
+      label: prettyCategorySlug(cat),
+      site: VS2_SITE,
+      group: "vs2",
+      total,
+      page: current,
+      pageSize,
+      pages,
+      items: products.slice(start, start + pageSize).map((p) => normalizeVS2(p, category)),
     };
   }
 
@@ -433,6 +578,22 @@ export async function getShopProduct(
       return null;
     }
   }
+
+  if (category.startsWith(VS2_PREFIX)) {
+    try {
+      const raw = (await fs.readJson(
+        path.join(METADATA_DIR, VS2_SITE, "products", `${slug}.json`)
+      )) as VS2Product;
+      return normalizeVS2Detail(raw);
+    } catch {
+      // fall back to flat index lookup
+      const products = await readVS2Index();
+      const found = products.find((p) => p.slug === slug);
+      if (!found) return null;
+      return normalizeVS2Detail(found);
+    }
+  }
+
   try {
     return (await fs.readJson(path.join(METADATA_DIR, category, `${slug}.json`))) as ShopProduct;
   } catch {

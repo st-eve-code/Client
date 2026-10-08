@@ -50,7 +50,7 @@ export default async function CategoryPage({
 
         <div className="mt-6 mb-8">
           <p className="mb-2 text-sm font-bold uppercase tracking-widest text-[#5eb047]">
-            {data.group === "weedmaps" ? "Cannabis" : "Vape Store"}
+            {data.group === "weedmaps" ? "Cannabis" : data.group === "vs2" ? "Vape Tanks" : "Vape Store"}
           </p>
           <h1 className="text-[var(--text-heading-lg)] leading-[var(--leading-heading-lg)] font-extrabold text-[var(--color-text-primary)]">
             {data.label}

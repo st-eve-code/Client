@@ -1,6 +1,12 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getShopProduct, priceLabel, weedmapsCategoryLabel, WM_PREFIX } from "@/lib/catalog";
+import {
+  getShopProduct,
+  priceLabel,
+  weedmapsCategoryLabel,
+  WM_PREFIX,
+  VS2_PREFIX,
+} from "@/lib/catalog";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { ProductGallery } from "@/components/ProductGallery";
 
@@ -27,6 +33,23 @@ function currencySymbol(currency?: string): string {
   }
 }
 
+function humanCategoryLabel(category: string): string {
+  if (category.startsWith(WM_PREFIX)) {
+    return weedmapsCategoryLabel(category.slice(WM_PREFIX.length));
+  }
+  if (category.startsWith(VS2_PREFIX)) {
+    return category
+      .slice(VS2_PREFIX.length)
+      .split("-")
+      .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+      .join(" ");
+  }
+  return category
+    .split("-")
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ");
+}
+
 export default async function ProductPage({
   params,
 }: {
@@ -39,17 +62,16 @@ export default async function ProductPage({
     notFound();
   }
 
-  const categoryLabel = category.startsWith(WM_PREFIX)
-    ? weedmapsCategoryLabel(category.slice(WM_PREFIX.length))
-    : category
-        .split("-")
-        .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-        .join(" ");
+  const categoryLabel = humanCategoryLabel(category);
 
-  const paragraphs = (product.description ?? "")
-    .split(/\n+/)
-    .map((p) => p.trim())
-    .filter(Boolean);
+  // Prefer rich HTML description; fall back to plain-text paragraphs.
+  const hasHtml = Boolean(product.description_html?.trim());
+  const paragraphs = hasHtml
+    ? []
+    : (product.description ?? "")
+        .split(/\n+/)
+        .map((p) => p.trim())
+        .filter(Boolean);
 
   return (
     <section className="bg-[var(--color-bg-canvas)]">
@@ -81,7 +103,7 @@ export default async function ProductPage({
               {product.title}
             </h1>
 
-            {product.images.length ? (
+            {product.images.length > 0 ? (
               <p className="mt-1 text-sm text-[var(--color-text-muted)]">
                 {product.images.length} image{product.images.length > 1 ? "s" : ""}
               </p>
@@ -98,7 +120,10 @@ export default async function ProductPage({
                 </h2>
                 <ul className="divide-y divide-[var(--color-border)] overflow-hidden rounded-[var(--radius-8)] border border-[var(--color-border)]">
                   {product.variants.map((variant, i) => (
-                    <li key={variant.sku ?? variant.title ?? i} className="flex items-center justify-between gap-3 bg-white px-3 py-2 text-sm">
+                    <li
+                      key={variant.sku ?? variant.title ?? i}
+                      className="flex items-center justify-between gap-3 bg-white px-3 py-2 text-sm"
+                    >
                       <span className="font-bold text-[var(--color-text-primary)]">
                         {variant.title ?? "Standard"}
                       </span>
@@ -121,27 +146,36 @@ export default async function ProductPage({
               </div>
             ) : null}
 
-            <div className="mt-6 flex flex-wrap gap-2">
-              {product.tags.map((tag) => (
-                <span
-                  key={tag}
-                  className="rounded-[var(--radius-pill)] border border-[var(--color-border)] bg-white px-3 py-1 text-xs font-bold text-[var(--color-text-muted)]"
-                >
-                  {tag}
-                </span>
-              ))}
-            </div>
+            {product.tags.length > 0 ? (
+              <div className="mt-6 flex flex-wrap gap-2">
+                {product.tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="rounded-[var(--radius-pill)] border border-[var(--color-border)] bg-white px-3 py-1 text-xs font-bold text-[var(--color-text-muted)]"
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            ) : null}
 
-            {paragraphs.length ? (
+            {(hasHtml || paragraphs.length > 0) ? (
               <div className="mt-8">
-                <h2 className="mb-2 text-sm font-bold uppercase tracking-widest text-[var(--color-text-muted)]">
+                <h2 className="mb-3 text-sm font-bold uppercase tracking-widest text-[var(--color-text-muted)]">
                   Description
                 </h2>
-                <div className="space-y-3 text-[var(--text-body)] leading-[var(--leading-body)] text-[var(--color-text-primary)]">
-                  {paragraphs.map((p, i) => (
-                    <p key={i}>{p}</p>
-                  ))}
-                </div>
+                {hasHtml ? (
+                  <div
+                    className="prose prose-sm max-w-none text-[var(--color-text-primary)] [&_a]:text-[#2563eb] [&_a]:underline [&_strong]:font-bold"
+                    dangerouslySetInnerHTML={{ __html: product.description_html! }}
+                  />
+                ) : (
+                  <div className="space-y-3 text-[var(--text-body)] leading-[var(--leading-body)] text-[var(--color-text-primary)]">
+                    {paragraphs.map((p, i) => (
+                      <p key={i}>{p}</p>
+                    ))}
+                  </div>
+                )}
               </div>
             ) : null}
 

@@ -24,6 +24,7 @@ export function MobileNav({ categories }: { categories: ShopCategory[] }) {
   const [open, setOpen] = useState(false);
 
   const vapestore = categories.filter((c) => c.group === "vapestore");
+  const vs2 = categories.filter((c) => c.group === "vs2");
   const weedmaps = categories.filter((c) => c.group === "weedmaps");
 
   return (
@@ -65,6 +66,38 @@ export function MobileNav({ categories }: { categories: ShopCategory[] }) {
                   </p>
                   <div className="space-y-4">
                     {buildSections(vapestore).map((section) => (
+                      <div key={section.title}>
+                        <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-muted)]">
+                          {section.title}
+                        </p>
+                        <ul className="space-y-1">
+                          {section.items.map((category) => (
+                            <li key={category.slug}>
+                              <Link
+                                href={`/shop/${category.slug}`}
+                                onClick={() => setOpen(false)}
+                                className="flex items-center justify-between gap-3 rounded-[var(--radius-8)] px-2 py-2 text-sm font-bold text-[var(--color-text-primary)] hover:bg-[var(--color-bg-surface)] transition-colors duration-[var(--duration-base)]"
+                              >
+                                <span>{category.label}</span>
+                                <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
+                                  {category.count}
+                                </span>
+                              </Link>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ) : null}
+              {vs2.length ? (
+                <div>
+                  <p className="mb-2 text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
+                    Vape Tanks
+                  </p>
+                  <div className="space-y-4">
+                    {buildSections(vs2).map((section) => (
                       <div key={section.title}>
                         <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-muted)]">
                           {section.title}

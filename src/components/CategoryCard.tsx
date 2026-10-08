@@ -22,7 +22,7 @@ export function CategoryCard({ category }: { category: ShopCategory }) {
           <div className="aspect-[4/3] w-full bg-[#d3fdc7]" />
         )}
         <span className="absolute left-2 top-2 rounded-[var(--radius-pill)] bg-white/90 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-[var(--color-text-muted)]">
-          {category.group === "weedmaps" ? "Cannabis" : "Vape Store"}
+          {category.group === "weedmaps" ? "Cannabis" : category.group === "vs2" ? "Vape Tanks" : "Vape Store"}
         </span>
       </div>
       <div className="flex items-center justify-between gap-3 p-3">
