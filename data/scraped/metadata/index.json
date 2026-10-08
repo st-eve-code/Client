@@ -1,15 +1,26 @@
 {
-  "updatedAt": "2026-10-06T14:24:30.999Z",
+  "updatedAt": "2026-10-08T17:28:08.810Z",
   "categories": [
     {
       "category": "vape-kits",
       "label": "Vape Kits",
       "site": "vapestore",
       "source": "https://www.vapestore.co.uk/collections/vape-kits-mods-vape-kits",
-      "count": 298,
-      "images": 3003,
-      "scrapedAt": "2026-10-06T13:32:18.863Z",
+      "count": 299,
+      "images": 3015,
+      "scrapedAt": "2026-10-08T17:28:01.647Z",
       "path": "data/scraped/metadata/vape-kits",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "pod-vape-kits",
+      "label": "Pod Vape Kits",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/pod-vape-kits",
+      "count": 240,
+      "images": 2574,
+      "scrapedAt": "2026-10-08T17:28:08.757Z",
+      "path": "data/scraped/metadata/pod-vape-kits",
       "imagesPath": "data/scraped/images"
     },
     {
@@ -21,17 +32,6 @@
       "images": 6352,
       "scrapedAt": "2026-10-06T14:24:30.960Z",
       "path": "data/scraped/metadata/e-liquid",
-      "imagesPath": "data/scraped/images"
-    },
-    {
-      "category": "pod-vape-kits",
-      "label": "Pod Vape Kits",
-      "site": "vapestore",
-      "source": "https://www.vapestore.co.uk/collections/pod-vape-kits",
-      "count": 239,
-      "images": 2562,
-      "scrapedAt": "2026-10-06T13:50:54.172Z",
-      "path": "data/scraped/metadata/pod-vape-kits",
       "imagesPath": "data/scraped/images"
     },
     {
@@ -54,6 +54,61 @@
       "images": 278,
       "scrapedAt": "2026-10-06T13:50:17.930Z",
       "path": "data/scraped/metadata/vape-tanks",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "refillable-pods",
+      "label": "Refillable Pods",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/vape-tanks-vape-tanks-refillable-pods",
+      "count": 180,
+      "images": 393,
+      "scrapedAt": "2026-10-08T17:25:34.238Z",
+      "path": "data/scraped/metadata/refillable-pods",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "prefilled-pods",
+      "label": "Prefilled Pods",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/e-liquid-vape-type-refills-and-pods-e-liquid",
+      "count": 964,
+      "images": 994,
+      "scrapedAt": "2026-10-08T17:27:32.129Z",
+      "path": "data/scraped/metadata/prefilled-pods",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "nicotine-pouches",
+      "label": "Nicotine Pouches",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/nicotine-pouches",
+      "count": 193,
+      "images": 340,
+      "scrapedAt": "2026-10-08T17:25:02.299Z",
+      "path": "data/scraped/metadata/nicotine-pouches",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "nicotine-gum",
+      "label": "Nicotine Gum & Strips",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/nicotine-gum",
+      "count": 9,
+      "images": 9,
+      "scrapedAt": "2026-10-08T17:24:14.595Z",
+      "path": "data/scraped/metadata/nicotine-gum",
+      "imagesPath": "data/scraped/images"
+    },
+    {
+      "category": "vape-accessories",
+      "label": "Vape Accessories",
+      "site": "vapestore",
+      "source": "https://www.vapestore.co.uk/collections/vape-accessories",
+      "count": 45,
+      "images": 80,
+      "scrapedAt": "2026-10-08T17:24:32.256Z",
+      "path": "data/scraped/metadata/vape-accessories",
       "imagesPath": "data/scraped/images"
     }
   ]
