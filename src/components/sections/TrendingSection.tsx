@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import {
   readCategoryIndex,
   readItem,
@@ -9,13 +10,14 @@ import {
 } from "@/lib/catalog";
 
 const LIMIT = 12;
+const CATEGORY = "vape-kits";
 
 export async function TrendingSection() {
-  const index = await readCategoryIndex("vape-kits");
+  const index = await readCategoryIndex(CATEGORY);
   const entries = index?.items.slice(0, LIMIT) ?? [];
 
   const items: Array<CatalogItem | null> = await Promise.all(
-    entries.map((entry) => readItem("vape-kits", entry.slug))
+    entries.map((entry) => readItem(CATEGORY, entry.slug))
   );
   const shown = items.filter((item): item is CatalogItem => Boolean(item));
 
@@ -36,18 +38,18 @@ export async function TrendingSection() {
             </h2>
           </div>
           <div className="flex items-center gap-2">
-            <button
-              type="button"
+            <Link
+              href={`/shop/${CATEGORY}`}
               className="rounded-[var(--radius-pill)] bg-[#d3fdc7] px-4 py-2 text-sm font-bold text-[#111f2a] border border-[#5eb047]"
             >
               Trending
-            </button>
-            <a
-              href="#"
+            </Link>
+            <Link
+              href="/shop/e-liquid"
               className="inline-block rounded-[var(--radius-pill)] border border-[var(--color-border)] px-4 py-2 text-sm font-bold text-[#111f2a] hover:bg-[#eef5fa] transition-colors duration-[var(--duration-base)]"
             >
               E-Liquids
-            </a>
+            </Link>
           </div>
         </div>
 
@@ -55,9 +57,9 @@ export async function TrendingSection() {
           {shown.map((item) => {
             const image = cover(item);
             return (
-              <a
+              <Link
                 key={item.slug}
-                href={item.url}
+                href={`/shop/${CATEGORY}/${item.slug}`}
                 className="group flex flex-col"
               >
                 <div className="relative mb-3 overflow-hidden rounded-[var(--radius-8)] bg-white">
@@ -83,7 +85,7 @@ export async function TrendingSection() {
                 <span className="text-sm font-bold text-[var(--color-text-primary)]">
                   {priceLabel(item)}
                 </span>
-              </a>
+              </Link>
             );
           })}
         </div>

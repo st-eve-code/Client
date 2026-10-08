@@ -1,0 +1,74 @@
+{
+  "slug": "stiiizy-sun-cake-white-label-7g",
+  "name": "ZOOKIES - 3.5G",
+  "site": "weedmaps-com",
+  "category": "buds",
+  "price_min": 18,
+  "price_max": 18,
+  "currency": "USD",
+  "price_range": "$18.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [
+    "Diesel",
+    "Earthy",
+    "Euphoric",
+    "Flowery",
+    "Focused",
+    "Giggly",
+    "Happy",
+    "Hybrid",
+    "Lift Your Spirits",
+    "Nutty",
+    "Pepper",
+    "Pine",
+    "Pungent",
+    "Relaxed",
+    "Skunk",
+    "Sleepy",
+    "Sweet",
+    "Sweet",
+    "THC",
+    "Tropical",
+    "Uplifted",
+    "Vanilla",
+    "Zookies"
+  ],
+  "description": "Zookies is a hybrid with an earthy profile and subtle diesel undertones.\n\nSTIIIZY white label is sun-grown cannabis carefully cultivated to the highest standard. Nurtured by the earth and kissed by the sun, STIIIZY White Label is the perfect full spectrum expression of cannabis as it was meant to be. Flowers this flawless could only come from mother nature, and STIIIZY.",
+  "description_html": "Zookies is a hybrid with an earthy profile and subtle diesel undertones.<br><br>STIIIZY white label is sun-grown cannabis carefully cultivated to the highest standard. Nurtured by the earth and kissed by the sun, STIIIZY White Label is the perfect full spectrum expression of cannabis as it was meant to be. Flowers this flawless could only come from mother nature, and STIIIZY.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.weedmaps.com/products/000/489/174/avatar/1780326098-1767393659-3-5g_white.png",
+      "alt": "ZOOKIES - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-sun-cake-white-label-7g__000.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-sun-cake-white-label-7g__000.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/ouik7xrnn66sa0blfud2l67mprx2/5496769_3311753_1974187_uni_white_label_3-5g.png",
+      "alt": "ZOOKIES - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-sun-cake-white-label-7g__001.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-sun-cake-white-label-7g__001.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/l77dgv2d24dvf0pbwaee9tyk112r/5496767_3311755_1974185_ca_zookies_white_label_3-5g.png",
+      "alt": "ZOOKIES - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-sun-cake-white-label-7g__002.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-sun-cake-white-label-7g__002.webp"
+    }
+  ],
+  "variants": [
+    {
+      "id": 207292104,
+      "title": "1/8 oz",
+      "price": 18,
+      "sku": "207292104",
+      "available": true
+    }
+  ],
+  "collections": [
+    "flower"
+  ],
+  "source_url": "https://weedmaps.com/brands/stiiizy/products/stiiizy-sun-cake-white-label-7g",
+  "scraped_at": "2026-10-08T12:17:03.990Z"
+}

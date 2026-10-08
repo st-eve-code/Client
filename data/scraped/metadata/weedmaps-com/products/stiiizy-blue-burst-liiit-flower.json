@@ -1,0 +1,55 @@
+{
+  "slug": "stiiizy-blue-burst-liiit-flower",
+  "name": "TRIANGLE SHERBERT - 3.5G",
+  "site": "weedmaps-com",
+  "category": "buds",
+  "price_min": 18,
+  "price_max": 18,
+  "currency": "USD",
+  "price_range": "$18.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [
+    "Citrus",
+    "Hybrid",
+    "THC",
+    "Triangle Sherbert"
+  ],
+  "description": "Triangle Sherbert is a hybrid with a citrus-forward profile and subtle earthy undertones.\n\nSTIIIZY white label is sun-grown cannabis carefully cultivated to the highest standard. Nurtured by the earth and kissed by the sun, STIIIZY White Label is the perfect full spectrum expression of cannabis as it was meant to be. Flowers this flawless could only come from mother nature, and STIIIZY.",
+  "description_html": "Triangle Sherbert is a hybrid with a citrus-forward profile and subtle earthy undertones.<br><br>STIIIZY white label is sun-grown cannabis carefully cultivated to the highest standard. Nurtured by the earth and kissed by the sun, STIIIZY White Label is the perfect full spectrum expression of cannabis as it was meant to be. Flowers this flawless could only come from mother nature, and STIIIZY.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.weedmaps.com/products/000/188/107/avatar/1780326098-1767393961-3-5g_white.png",
+      "alt": "TRIANGLE SHERBERT - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-burst-liiit-flower__000.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-burst-liiit-flower__000.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/kbschev79exd6nzey99c48o0gxj3/5496895_3304808_1662202_uni_white.png",
+      "alt": "TRIANGLE SHERBERT - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-burst-liiit-flower__001.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-burst-liiit-flower__001.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/2eemwrmuihxryah9o9otvf6ndonm/5496894_3304811_1662198_az_triangle_sherbert_white_label_3-5g.png",
+      "alt": "TRIANGLE SHERBERT - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-burst-liiit-flower__002.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-burst-liiit-flower__002.webp"
+    }
+  ],
+  "variants": [
+    {
+      "id": 207292103,
+      "title": "1/8 oz",
+      "price": 18,
+      "sku": "207292103",
+      "available": true
+    }
+  ],
+  "collections": [
+    "flower"
+  ],
+  "source_url": "https://weedmaps.com/brands/stiiizy/products/stiiizy-blue-burst-liiit-flower",
+  "scraped_at": "2026-10-08T12:17:03.789Z"
+}

@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export function HeroSection() {
   return (
     <section className="bg-[var(--color-bg-canvas)]">
@@ -15,18 +17,18 @@ export function HeroSection() {
             disposable vapes
           </p>
           <div className="flex flex-wrap gap-4">
-            <a
-              href="#"
+            <Link
+              href="/shop"
               className="inline-flex items-center justify-center rounded-[var(--radius-8)] border border-[#5eb047] bg-[#d3fdc7] px-6 py-3 text-base font-bold text-[#111f2a] transition-all duration-[var(--duration-moderate)] ease-[var(--ease-custom-1)] hover:bg-[#91f974]"
             >
               Shop All Categories
-            </a>
-            <a
-              href="#"
+            </Link>
+            <Link
+              href="/shop/e-liquid"
               className="inline-flex items-center justify-center rounded-[var(--radius-8)] bg-[#111f2a] text-white font-bold text-base px-6 py-3 transition-all duration-[var(--duration-moderate)] ease-[var(--ease-custom-1)] hover:opacity-90"
             >
               Shop Now
-            </a>
+            </Link>
           </div>
         </div>
       </div>

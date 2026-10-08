@@ -1,0 +1,60 @@
+{
+  "slug": "nameless-genetics-mega-wellness",
+  "name": "Mega Wellness OG® 3.5g",
+  "site": "weedmaps-com",
+  "category": "buds",
+  "price_min": 62,
+  "price_max": 62,
+  "currency": "USD",
+  "price_range": "$62.00",
+  "available": true,
+  "vendor": "Nameless Genetics",
+  "tags": [
+    "Citrus",
+    "Diesel",
+    "Earthy",
+    "Euphoric",
+    "Indica",
+    "Mega Wellness OG",
+    "Relaxed",
+    "Sleepy",
+    "Sweet",
+    "Uplifted"
+  ],
+  "description": "Nameless Genetics' Mega Wellness OG® is their exclusive version of OG Kush, a multi-award winning bud that's a favorite of concentrate makers for competition. Rich in smelly fuel-citrus aromas, this terpene-rich flower induces a heavy couchlock with euphoric uplifting elements.",
+  "description_html": "<p></p><p>Nameless Genetics' Mega Wellness OG® is their exclusive version of OG Kush, a multi-award winning bud that's a favorite of concentrate makers for competition. Rich in smelly fuel-citrus aromas, this terpene-rich flower induces a heavy couchlock with euphoric uplifting elements.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.weedmaps.com/products/000/023/051/avatar/1758748869-megawellnessog.png",
+      "alt": "Mega Wellness OG® 3.5g",
+      "local": "data\\scraped\\images\\weedmaps-com__nameless-genetics-mega-wellness__000.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__nameless-genetics-mega-wellness__000.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/nasxn6d6mivb3mgzs4tpnrmttibg/1523444_a48d8232-e29d-4fee-b914-a27fa0104b89.jpeg",
+      "alt": "Mega Wellness OG® 3.5g",
+      "local": "data\\scraped\\images\\weedmaps-com__nameless-genetics-mega-wellness__001.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__nameless-genetics-mega-wellness__001.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/0jfti9n5xwoymzhhb90g5bdljr77/1523443_fc9ed6fc-556a-40a3-8654-ba4828676c55.jpeg",
+      "alt": "Mega Wellness OG® 3.5g",
+      "local": "data\\scraped\\images\\weedmaps-com__nameless-genetics-mega-wellness__002.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__nameless-genetics-mega-wellness__002.webp"
+    }
+  ],
+  "variants": [
+    {
+      "id": null,
+      "title": "each",
+      "price": 62,
+      "available": true
+    }
+  ],
+  "collections": [
+    "flower"
+  ],
+  "source_url": "https://weedmaps.com/brands/nameless-genetics/products/nameless-genetics-mega-wellness",
+  "scraped_at": "2026-10-08T12:17:05.599Z"
+}

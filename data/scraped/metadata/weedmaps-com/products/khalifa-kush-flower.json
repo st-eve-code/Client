@@ -1,0 +1,79 @@
+{
+  "slug": "khalifa-kush-flower",
+  "name": "Khalifa Kush",
+  "site": "weedmaps-com",
+  "category": "buds",
+  "price_min": 53,
+  "price_max": 53,
+  "currency": "USD",
+  "price_range": "$53.00",
+  "available": true,
+  "vendor": "Khalifa Kush",
+  "tags": [
+    "Creative",
+    "Depression",
+    "Diesel",
+    "Earthy",
+    "Energetic",
+    "Euphoric",
+    "Focus",
+    "Focused",
+    "Get Active",
+    "Happy",
+    "Hybrid",
+    "Khalifa Kush",
+    "Lemon",
+    "Lift Your Spirits",
+    "Lime",
+    "Motivate Your Mind",
+    "Pepper",
+    "Pine",
+    "Relaxed",
+    "Sleepy",
+    "Stress",
+    "THC",
+    "Uplifted"
+  ],
+  "description": "Khalifa Kush's signature strain \"KK\" was created for Wiz himself back in 2012, tailored specifically for his personal tastes, and held closely within his private stashes in LA. In 2016 the first line of Khalifa Kush products were released to the public, and has been expanding across the US ever since. It's the best representation of an Indica Dominant Hybrid OG — a strong, well balanced, all day smoke. It has a classic terpene profile that is loud and potent. The flavor is a blend of Piney Kush, OG Fuel and Gassy Incense. The smoke is smooth and the high has no ceiling.",
+  "description_html": "<p></p><p>Khalifa Kush's signature strain <strong>\"KK\" </strong>was created for Wiz himself back in 2012, tailored specifically for his personal tastes, and held closely within his private stashes in LA. In 2016 the first line of Khalifa Kush products were released to the public, and has been expanding across the US ever since. It's the best representation of an Indica Dominant <strong>Hybrid OG</strong> — a strong, well balanced, all day smoke. It has a classic terpene profile that is loud and potent. The flavor is a blend of<strong> Piney Kush, OG Fuel and Gassy Incense</strong>. The smoke is smooth and the high has no ceiling.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.weedmaps.com/products/000/230/254/avatar/1659654550-kk-_no_warning_-flower_jar_render__3000x3000_.png",
+      "alt": "Khalifa Kush",
+      "local": "data\\scraped\\images\\weedmaps-com__khalifa-kush-flower__000.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__khalifa-kush-flower__000.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/yiyir3h093msg72vm278kmj61vgm/1054366_kk-_no_warning_-flower_jar_render__3000x3000_.png",
+      "alt": "Khalifa Kush",
+      "local": "data\\scraped\\images\\weedmaps-com__khalifa-kush-flower__001.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__khalifa-kush-flower__001.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/0zlw402ucwgpxt5j0bo8fys4ol0z/1054420_220413_khalifakush_12.jpg",
+      "alt": "Khalifa Kush",
+      "local": "data\\scraped\\images\\weedmaps-com__khalifa-kush-flower__002.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__khalifa-kush-flower__002.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/hyw52atdioxyp2g3t79g8q8smffj/1054421_2khalifakush_floracal_121521_4.jpg",
+      "alt": "Khalifa Kush",
+      "local": "data\\scraped\\images\\weedmaps-com__khalifa-kush-flower__003.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__khalifa-kush-flower__003.webp"
+    }
+  ],
+  "variants": [
+    {
+      "id": null,
+      "title": "each",
+      "price": 53,
+      "available": true
+    }
+  ],
+  "collections": [
+    "flower"
+  ],
+  "source_url": "https://weedmaps.com/brands/khalifa-kush/products/khalifa-kush-flower",
+  "scraped_at": "2026-10-08T12:17:05.345Z"
+}

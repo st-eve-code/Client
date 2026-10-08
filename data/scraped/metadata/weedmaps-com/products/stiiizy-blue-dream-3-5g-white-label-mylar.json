@@ -1,0 +1,63 @@
+{
+  "slug": "stiiizy-blue-dream-3-5g-white-label-mylar",
+  "name": "BLUE DREAM - 3.5G",
+  "site": "weedmaps-com",
+  "category": "buds",
+  "price_min": 18,
+  "price_max": 18,
+  "currency": "USD",
+  "price_range": "$18.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [
+    "Anxiety",
+    "Berry",
+    "Blue Dream",
+    "Blueberry",
+    "Creative",
+    "Earthy",
+    "Euphoric",
+    "Happy",
+    "Pain",
+    "Relaxed",
+    "Stress",
+    "Uplifted"
+  ],
+  "description": "Blue Dream is a sativa with a berry profile and subtle citrus undertones, shaped by its Blueberry and Haze lineage.\n\nSTIIIZY white label is sun-grown cannabis carefully cultivated to the highest standard. Nurtured by the earth and kissed by the sun, STIIIZY White Label is the perfect full spectrum expression of cannabis as it was meant to be. Flowers this flawless could only come from mother nature, and STIIIZY.",
+  "description_html": "Blue Dream is a sativa with a berry profile and subtle citrus undertones, shaped by its Blueberry and Haze lineage.<br><br>STIIIZY white label is sun-grown cannabis carefully cultivated to the highest standard. Nurtured by the earth and kissed by the sun, STIIIZY White Label is the perfect full spectrum expression of cannabis as it was meant to be. Flowers this flawless could only come from mother nature, and STIIIZY.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.weedmaps.com/products/000/632/671/avatar/1788972714-ca_3-5g_wht-mylar_front_sativa_bluedream_3000x3000.png",
+      "alt": "BLUE DREAM - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-dream-3-5g-white-label-mylar__000.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-dream-3-5g-white-label-mylar__000.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/8eynk2rgo82sgh0j2frvckpk8e56/ca_3-5g_wht-mylar_front_sativa_bluedream_3000x3000.png",
+      "alt": "BLUE DREAM - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-dream-3-5g-white-label-mylar__001.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-dream-3-5g-white-label-mylar__001.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/pqd2f2kragsykcm2bj254anz6kar/5496346_3609463_8b91e87ec0d84f815014f0bf97bab327.png",
+      "alt": "BLUE DREAM - 3.5G",
+      "local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-dream-3-5g-white-label-mylar__002.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__stiiizy-blue-dream-3-5g-white-label-mylar__002.webp"
+    }
+  ],
+  "variants": [
+    {
+      "id": 207292113,
+      "title": "1/8 oz",
+      "price": 18,
+      "sku": "207292113",
+      "available": true
+    }
+  ],
+  "collections": [
+    "flower"
+  ],
+  "source_url": "https://weedmaps.com/brands/stiiizy/products/stiiizy-blue-dream-3-5g-white-label-mylar",
+  "scraped_at": "2026-10-08T12:17:06.098Z"
+}

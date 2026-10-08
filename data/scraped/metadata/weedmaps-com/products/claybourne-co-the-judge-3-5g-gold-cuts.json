@@ -1,0 +1,50 @@
+{
+  "slug": "claybourne-co-the-judge-3-5g-gold-cuts",
+  "name": "The Judge (3.5g) - Gold Cuts",
+  "site": "weedmaps-com",
+  "category": "buds",
+  "price_min": 51.5,
+  "price_max": 51.5,
+  "currency": "USD",
+  "price_range": "$51.50",
+  "available": true,
+  "vendor": "Claybourne Co.",
+  "tags": [
+    "Coffee",
+    "Diesel",
+    "Indica",
+    "Plum",
+    "Pungent",
+    "The Judge"
+  ],
+  "description": "Exclusive and unique genetics from Claybourne’s breeding and selection program. Gold Cuts are hand-trimmed on the stem, using minimal touch processing for maximum trichome preservation.\n_____\n\nWe call this strain “The Judge” because it frickin’ rules. The Judge is an indica with a distinct diesel aroma juxtaposed by its coffee and plum flavor. The pungent smell, coming from its Chem Dawg lineage, is offset by the fact it’s our highest testing strain ever, proving that The Judge is indeed stern, but more than fair.\n\nLineage: Kush, Chem Dawg, Sour Diesel.\nProfile: Diesel, Funk, Pungent.",
+  "description_html": "<p></p><p>Exclusive and unique genetics from Claybourne’s breeding and selection program. Gold Cuts are hand-trimmed on the stem, using minimal touch processing for maximum trichome preservation.</p><p>_____</p><p><br></p><p>We call this strain “The Judge” because it frickin’ rules. The Judge is an indica with a distinct diesel aroma juxtaposed by its coffee and plum flavor. The pungent smell, coming from its Chem Dawg lineage, is offset by the fact it’s our highest testing strain ever, proving that The Judge is indeed stern, but more than fair.</p><p><br></p><p>Lineage: Kush, Chem Dawg, Sour Diesel.</p><p>Profile: Diesel, Funk, Pungent.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.weedmaps.com/products/000/264/210/avatar/1746207372-claybourne_goldcuts_rebrand_menu-thejudge.jpg",
+      "alt": "The Judge (3.5g) - Gold Cuts",
+      "local": "data\\scraped\\images\\weedmaps-com__claybourne-co-the-judge-3-5g-gold-cuts__000.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__claybourne-co-the-judge-3-5g-gold-cuts__000.webp"
+    },
+    {
+      "url": "https://images.weedmaps.com/p1xnvnb8njafv79jq8bnym87njpi/4407481_claybourne_goldcuts_rebrand_menu-thejudge.jpg",
+      "alt": "The Judge (3.5g) - Gold Cuts",
+      "local": "data\\scraped\\images\\weedmaps-com__claybourne-co-the-judge-3-5g-gold-cuts__001.webp",
+      "webp_local": "data\\scraped\\images\\weedmaps-com__claybourne-co-the-judge-3-5g-gold-cuts__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "id": null,
+      "title": "each",
+      "price": 51.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "flower"
+  ],
+  "source_url": "https://weedmaps.com/brands/claybourne-co/products/claybourne-co-the-judge-3-5g-gold-cuts",
+  "scraped_at": "2026-10-08T12:17:03.962Z"
+}
