@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639452377412",
+  "slug": "voopoo-pnp-pod-tank",
+  "title": "VooPoo PnP Pod Vape Tank",
+  "url": "https://www.vapestore.co.uk/products/voopoo-pnp-pod-tank",
+  "brand": "VooPoo",
+  "productType": "Tanks",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Voopoo continue to redefine vaping devices, and their latest innovation offers an exciting fusion of tank and pod that gives vapers unparalleled performance and versatility. The PnP tank has been built for use with the Voopoo Drag X , Drag 3 and Drag S devices, as a replacement pod. But the utility of the PnP tank goes far beyond that, as a 510 tank with the included metal base plate adaptor that can be used with any compatible device Made from durable PCTG materials with a super-comfortable mouthpiece and sublime airflow, they’re incredibly simple to use: a bottom refill system makes topping up your e-liquid a clean and fuss-free process and compatibility with all of Voopoo’s range of excellent PnP (Plug and Play) coils makes swapping out a new coil as easy as push to fit. The PnP coils offer multiple resistances to help you find the perfect vape.",
+  "tags": [
+    "Delisted",
+    "DTL/RDL/MTL"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "VP-PNP-PD-TA-VP-BLK",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-pnp-pod-tank__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-tank-black.jpg?v=1729040298",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

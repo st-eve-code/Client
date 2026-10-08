@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14898390237565",
+  "slug": "uwell-viscore-milky-strawberry-pod-refill-20mg",
+  "title": "Uwell Viscore Milky Strawberry Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-milky-strawberry-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Viscore Prefilled Pod & Refill in Milky Strawberry combines the ripe sweetness of strawberries with a creamy milk note, offering a sweet and mellow vape. Designed for the Uwell Viscore 8000 Prefilled Pod Vape Kit, this pack includes a 2ml prefilled pod and a 10ml refill container for extended convenience and value. Equipped with a 0.8ohm mesh coil, the pod delivers rich flavour and smooth vapour, ideal for mouth-to-lung (MTL) vaping. The refill container ensures quick and hassle-free top-ups, providing up to 8000 puffs, depending on personal usage. Preloaded with 20mg/ml nicotine salt e-liquid, the pod offers a silky throat hit and rapid nicotine absorption, making it a great choice for adult vapers seeking a satisfying and long-lasting vaping experience. Replace the pod and refill container when empty to continue enjoying the cool, fruity Strawberry Ice flavour.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137429",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-milky-strawberry-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Uwell-viscore-8000-prefilled-pod-refill-Milky-STRAWBERRY.jpg?v=1767955962",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.383Z"
+}

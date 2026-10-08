@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15655205929341",
+  "slug": "elfbar-joinone-pineapple-ice-prefilled-pod-refill",
+  "title": "Elf Bar JoinOne Pineapple Ice Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/elfbar-joinone-pineapple-ice-prefilled-pod-refill",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.95,
+    "max": 7.95,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Ice serves up a bright, tropical Pineapple profile with a tangy sweetness, finished by a crisp, icy Menthol lift. The fruit note leads with juicy intensity, while the frosty finish keeps the flavour lively and refreshing across every puff. Each JoinOne Prefilled Pod + Refill arrives ready to use with 2ml pod and 10ml refill container of 20mg Nic Salt e-liquid and an integrated dual-mesh coil for consistent flavour delivery. Simply assemble then slide into the Mini Battery and snap it onto the larger battery (the one with the HD Screen) adjust the kit’s airflow to suit a tighter or looser mouth-to-lung (MTL) draw. When the pod is empty, simply replace it with a fresh one — no refilling or coil changes required. This pod keeps maintenance simple while offering clean, flavour in a compact format.",
+  "tags": [
+    "2ml + 10ml",
+    "ELFBAR JoinOne15",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148787",
+      "price": 7.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-joinone-pineapple-ice-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Ice-ELFBAR-JoinOne15-prefilled-Pod.jpg?v=1762534934",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.343Z"
+}

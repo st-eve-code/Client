@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639937147204",
+  "slug": "voopoo-argus-e40-refillable-pods",
+  "title": "VooPoo Argus E40 Replacement pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/voopoo-argus-e40-refillable-pods",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Argus E40 Refillable Pods are the perfect companion for your Voopoo Argus E40 Pod Kit, providing a seamless and satisfying MTL (Mouth To Lung), RDL (Restricted Direct-to-Lung), or DTL (Direct-To-Lung) vaping experience. The side-fill design of the Argus E40 pods ensures that refilling is quick, intuitive, and mess-free. Simply open the side port and fill the pod with your preferred e-liquid. The built-in mesh coil technology heats the e-liquid evenly, delivering rich and authentic flavours with every puff. When the coil reaches the end of its lifespan, replacing the entire pod is a breeze, ensuring that you can continue to enjoy a consistent and flavourful vaping experience. These refillable pods are designed specifically for the Voopoo Argus E40 Pod Kit, ensuring a perfect fit and optimal performance. The 0.3ohm pod is ideal for those who prefer a DTL vaping experience with High-VG E-Liquids, providing rich flavour and dense vapour. The 0.45ohm pod offers a balanced RDL experience, while the 0.6ohm pod is perfect for a smooth MTL draw with 50/50 E-Liquids. These pods allow you to fine-tune your vaping setup to match your desired style and nicotine strength, providing a consistent and satisfying vape every time. Voopoo Argus E40 0.3ohm pods DTL - We Recommend paring with High VG E-Liquids. Voopoo Argus E40 0.45ohm pods RDTL - We Recommend paring with 50/50 or Nic Salt E-Liquids. Voopoo Argus E40 0.6ohm Pods MTL - We Recommend paring with 50/50 or Nic Salt E-Liquids. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.3ohm",
+        "0.45ohm",
+        "0.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.3ohm",
+      "sku": "1132832",
+      "price": 4.49
+    },
+    {
+      "title": "0.45ohm",
+      "sku": "1132833",
+      "price": 4.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1132834",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-argus-e40-refillable-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-argus-e40-0.3-pods_1.jpg?v=1729061974",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-e40-refillable-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-argus-e40-0.3-pods.jpg?v=1729061974",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-e40-refillable-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-argus-e40-0.45-pods.jpg?v=1729061974",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-e40-refillable-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-argus-e40-0.6-pods.jpg?v=1729061974",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

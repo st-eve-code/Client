@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179048911229",
+  "slug": "pyne-pod-2in1-mango-peach-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Mango Peach Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-mango-peach-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Mango Peach Pod Pack for the Pyne Pod 2-in-1 Kit brings together two sunny tropical favourites in one rich and velvety flavour profile. Sweet, sun-ripened Mango delivers a juicy and fragrant base, while soft Peach adds a deeper sweetness and ripe stone fruit character. Each 2ml pod is prefilled with 20mg nicotine salt e-liquid and is ready to click into place on the Pyne Pod 2-in-1 device. The pods use a magnetic connection and work with the twistable mouthpiece system that lets you switch between flavours on demand. With two pods in each pack, Mango Peach is ideal for refreshing your Edition kit or experimenting with your own custom flavour pairings.",
+  "tags": [
+    "2 x 2ml",
+    "Mango",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141648",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-mango-peach-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-mango-peach.jpg?v=1745574117",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

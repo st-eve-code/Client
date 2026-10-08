@@ -1,0 +1,99 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639734083908",
+  "slug": "vaporesso-luxe-q-and-qs-replacement-pod",
+  "title": "Vaporesso Luxe Q & QS Replacement Pods 2ml - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-luxe-q-and-qs-replacement-pod",
+  "brand": "Vaporesso",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Luxe Q & QS is a simple yet satisfying device that offers long battery life in a super-portable, stylish pod kit. These refillable pods come pre-installed with either a 0.8ohm mesh coil for a slightly airier, restricted DL (direct lung) sensation, or a 1.0ohm coil for an intense and flavoursome MTL (mouth-to-lung) sensation. Both the pods and coils deliver immaculate flavour and when it’s time to refill, the leakproof SSS technology and top-filling port ensures mess-free top-ups. When the coil reaches the end of its life you simply replace the whole pod. Ideal for use with Classic/High PG , 50/50 , Nicotine Salts e-liquids . Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Freedojokit",
+    "Freedojopod",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm - 4 Pack",
+        "0.8ohm - 4 Pack",
+        "1.0ohm - 4 Pack",
+        "1.2ohm - 4 Pack"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm - 4 Pack",
+      "sku": "1118696",
+      "price": 7.99
+    },
+    {
+      "title": "0.8ohm - 4 Pack",
+      "sku": "1125339",
+      "price": 7.99
+    },
+    {
+      "title": "1.0ohm - 4 Pack",
+      "sku": "1118698",
+      "price": 7.99
+    },
+    {
+      "title": "1.2ohm - 4 Pack",
+      "sku": "1125340",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-luxe-q-and-qs-replacement-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso_luxe_qs_replacement_pods_1_1.jpg?v=1729048738",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-luxe-q-and-qs-replacement-pod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso_luxe_qs_replacement_pods.jpg?v=1729048738",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-luxe-q-and-qs-replacement-pod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso_luxe_qs_replacement_pods_1.jpg?v=1729048738",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-luxe-q-and-qs-replacement-pod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso_luxe_qs_replacement_pods_1_2.jpg?v=1729048738",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-luxe-q-and-qs-replacement-pod__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso_luxe_qs_replacement_pods_1_2_1.jpg?v=1729048738",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15540129333629",
+  "slug": "hayati-pro-max-blue-razz-gb-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Blue Razz GB Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-blue-razz-gb-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hayati Pro Max Plus 6000 Blue Razz GB Prefilled Pod combines the tangy sweetness of Blue Raspberry with the smooth, sugary taste of Bubblegum. The result is a playful, fruity blend that balances sharp berry notes with a light confectionery edge. Each Hayati Pro Max Prefilled Pod includes a 2ml draw-activated pod that is automatically topped up by a built-in 10ml refill reservoir, providing a total of 12ml of 20mg Nic Salt e-liquid. This design removes the need for messy bottle refills or coil changes, making flavour swaps simple and clean. With up to 6000 puffs (approx.) per pod, dual mesh coil technology ensures consistent vapour and flavour delivery throughout. Just insert into the Hayati Pro Max Kit and enjoy a flavour that lasts. Check out our range of Hayati Pro Max Plus 6000 Pods to find your next favourite flavour.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148524",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-blue-razz-gb-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-GB_Hayati-Pro-Max_-Pods-min.jpg?v=1758184498",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.366Z"
+}

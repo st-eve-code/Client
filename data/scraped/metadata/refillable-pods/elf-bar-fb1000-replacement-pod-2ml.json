@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639661142340",
+  "slug": "elf-bar-fb1000-replacement-pod-2ml",
+  "title": "Elf Bar FB1000 Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-fb1000-replacement-pod-2ml",
+  "brand": "Elf Bar",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "The Elf Bar FB1000 Pod Kit pod kit is a versatile vape device designed to be simple to use and compact enough to take anywhere. This replacement, refillable 2ml Elf FB1000 pod connects to the battery component with strong magnets and is easy to remove to replace coils and refill with e-liquid from the bottom of the pod. The pods use Elf’s EBC 0.8ohm mesh coils for incredible flavour and longevity Features For use with Elf Bar FB1000 refillable pod kit 2ml Capacity Compatible with Elf Bar EBC 0.8ohm Mesh Coils",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1111638",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-fb1000-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elf-bar-fb1000-replacement-pod.jpg?v=1729046553",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

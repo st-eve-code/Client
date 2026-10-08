@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15502093648253",
+  "slug": "ivg-smart-max-mixed-berries-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Mixed Berries Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-mixed-berries-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Mixed Berries IVG Smart Max Prefilled Pod delivers a rich blend of berry flavours in one convenient pod. Juicy, sweet, and tangy notes combine for a full-bodied vape that’s both familiar and satisfying. Each pack contains a 2ml pod prefilled with 20mg nicotine salt e-liquid, along with a 10ml refill reservoir that automatically tops up the pod as you vape. Capable of producing up to 12,000 puffs depending on usage, this refill system keeps your kit running smoothly without the need for manual filling or coil changes. Fitted with mesh coil technology, the pod ensures smooth vapour and bold flavour delivery from start to finish. Made exclusively for use with the IVG Smart Max 12K Prefilled Pod Vape Kit, installation is quick and easy — just click the pod into place and continue vaping. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "IVG Smart Max Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144665",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-mixed-berries-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SMART-MAX-Refill-Mixed-Berries.jpg?v=1756824629",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.344Z"
+}

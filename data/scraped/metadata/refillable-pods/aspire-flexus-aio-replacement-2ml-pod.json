@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639822917956",
+  "slug": "aspire-flexus-aio-replacement-2ml-pod",
+  "title": "Aspire Flexus AIO Empty Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/aspire-flexus-aio-replacement-2ml-pod",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 1.79,
+    "max": 1.79,
+    "currency": "GBP"
+  },
+  "description": "A blend of pod kit and classic vape mod, the stylish and highly versatile Aspire Flexus AIO is reliable, efficient and durable pod kit with fire button and auto draw activation, 3 Power Levels, Rotational Airflow and compatibility with Aspire’s AF Mesh Coils. This replacement refillable pod has a 2ml e-liquid capacity and offers a hassle-free refilling process. Simply unscrew the mouthpiece to access the fill port, without needing to remove the pod from the device. The pod is compatible with Aspire’s renowned AF coil series, which offers a range of resistances to suit any vaping style. Whether you prefer MTL or RDTL vaping, the Flexus AIO and its compatible pod and coils will provide an immensely satisfying vape tailored to your preferences. Just add your favourite e-liquid and enjoy a stellar vaping experience.",
+  "tags": [
+    "CC DC List",
+    "Delisted",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1126200",
+      "price": 1.79
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-flexus-aio-replacement-2ml-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-aio-2ml-empty-replacement-pod.jpg?v=1729054659",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

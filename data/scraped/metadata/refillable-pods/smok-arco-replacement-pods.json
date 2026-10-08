@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15291621147005",
+  "slug": "smok-arco-replacement-pods",
+  "title": "SMOK Arco Replacement Pods - 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-arco-replacement-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Smok Arco Replacement Pods are designed for use with the Smok Arco Digi Pod Vape Kit , offering a mess-free, flavour-rich experience with no coil swaps required. Each pod is pre-fitted with a mesh coil and features a secure side-fill system and leak-resistant construction for reliable daily use. Choose from four resistances to match your preferred vaping style: • 0.4ohm: Loose RDL draw with rich vapour output (25W optimal). Best with High-VG or low-nicotine 50/50 e-liquids. • 0.6ohm: Versatile RDL or open MTL draw (21W optimal). Ideal for 50/50 freebase or 10mg Nic Salts. • 0.8ohm: Tighter MTL draw with pronounced flavour (16W optimal). Best with Nic Salts or 50/50 e-liquid . • 1.1ohm: Smooth, tight MTL draw with discreet vapour and satisfying nicotine delivery (10W optimal). Best with higher-strength Nic Salts. The built-in coil design means no coil changes—simply refill and replace the pod when needed. All pods are TPD-compliant with a 2ml e-liquid capacity. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1142448",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1142449",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-arco-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Arco-digi-kit-2ml-pod-front-side.jpg?v=1749631796",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.394Z"
+}

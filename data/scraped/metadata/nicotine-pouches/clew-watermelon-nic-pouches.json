@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15297777795453",
+  "slug": "clew-watermelon-nic-pouches",
+  "title": "Clew Watermelon Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/clew-watermelon-nic-pouches",
+  "brand": "Clew",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Clew Watermelon Nicotine Pouches offer a sweet, fruity experience with the familiar taste of ripe Watermelon. These slim pouches deliver a smoke-free, discreet way to enjoy nicotine without tobacco, vapour, or odour. Manufactured in the USA using high-purity nicotine and food-grade ingredients, each can contains 20 slim pouches available in 5mg, 10mg, 15mg and 20mg strengths. Ideal for pouch users who prefer a fruit-inspired flavour profile. To use, simply place a pouch under your upper lip. It releases nicotine gradually over 30 to 45 minutes for a clean, mess-free experience. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "5mg to 20mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "5mg  / Pouch",
+        "10mg / Pouch",
+        "15mg / Pouch",
+        "20mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg  / Pouch",
+      "sku": "1142883",
+      "price": 3.95
+    },
+    {
+      "title": "10mg / Pouch",
+      "sku": "1142890",
+      "price": 3.95
+    },
+    {
+      "title": "15mg / Pouch",
+      "sku": "1142897",
+      "price": 3.95
+    },
+    {
+      "title": "20mg / Pouch",
+      "sku": "1142904",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__clew-watermelon-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon10mg_Clew-Nicotine-Pouches.jpg?v=1750761801",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-watermelon-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon20mg_Clew-Nicotine-Pouches.jpg?v=1750761810",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-watermelon-nic-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ClewNicotinePouches_ad098e02-9523-42ba-b83e-881ba1a2f847.jpg?v=1750761765",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.916Z"
+}

@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639832453444",
+  "slug": "innokin-klypse-replacement-pods",
+  "title": "Innokin Klypse Replacement Pods 2ml - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/innokin-klypse-replacement-pods",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Klypse Zip vape kit is a great choice for vapers after an incredibly portable and lightweight kit. With its integrated 650mAh battery, this device promises sustained vaping sessions before requiring a recharge. Inspired by the design of classic cigarette lighters, it includes a protective mouthpiece cover that safeguards against dust, lint and debris. These replacement refillable 2ml pods are easily filled from the side. Their integrated coil design eliminates the hassle of tricky coil replacements - just switch out the entire pod once the coil begins to lose flavour. The coil features a mesh structure, which quickly heats a greater amount of e-liquid, enhancing the flavour even further. With a resistance of 1.2 Ohms and 0.8ohms, it pairs excellently with 50/50 e-liquids , nicotine salts , or higher PG alternatives for an incredible MTL (mouth-to-lung) experience. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "0.6ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1121943",
+      "price": 4.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1127435",
+      "price": 4.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1124473",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-klypse-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/klypse_zip_pod_0.8-ohm_800x800_1.jpg?v=1729055282",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-klypse-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/klypse_zip_pod_1.2-ohm_800x800_b09362ab-d6d0-4611-a495-68555d0bb466.jpg?v=1729055282",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-klypse-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/klypse_zip_pod_0.8-ohm_800x800_958dd962-df48-4b18-8686-1c42e739a397.jpg?v=1729055282",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-klypse-replacement-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-klypse-pod_0.6ohm-3pk.jpg?v=1729055282",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

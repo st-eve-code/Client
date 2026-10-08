@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639608549700",
+  "slug": "voopoo-ito-replacement-pod-2ml",
+  "title": "VooPoo ITO Replacement pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-ito-replacement-pod-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "The 2ml ITO pods feature improved leak prevention, e-liquid visibility and a side-filling system. The Voopoo Doric 20 is compatible with all ITO series coils and features three events for a smooth and satisfying draw. Please note: Coils are not included and must be purchased separately.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VP-RP-ITO-2ML-2P",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-ito-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-ito-pods-x2.jpg?v=1729044197",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

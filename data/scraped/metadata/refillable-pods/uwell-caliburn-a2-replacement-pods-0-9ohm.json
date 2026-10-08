@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639585612100",
+  "slug": "uwell-caliburn-a2-replacement-pods-0-9ohm",
+  "title": "Uwell Caliburn A2 Replacement pods 0.9ohm - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-a2-replacement-pods-0-9ohm",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 9.49,
+    "max": 9.49,
+    "currency": "GBP"
+  },
+  "description": "With its distinctive blend of style, performance and simplicity the new Caliburn A2 kit remains a king among pod kits. These replacement pods connect to the Caliburn A2 kit for a simple, secure connection and a tighter airflow ensures a richer, more intense vape than the original Caliburn pods. These 2ml pods can be refilled by removing the cap which helps to prevent leaks and debris collecting in the mouthpiece. The pods include a 0.9ohm coil built-in, so with no coil changes to fuss with, simply replace the whole pod when it begins to lose flavour.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "UW-RP-CL-A2-UN2-MSH-0.9-2ML-4P",
+      "price": 9.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-a2-replacement-pods-0-9ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell_caliburn_a2_replacement_pods_0.9_ohm_4pk.jpg?v=1729042925",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

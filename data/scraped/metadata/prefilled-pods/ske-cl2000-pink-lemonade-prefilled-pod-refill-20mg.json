@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15580816376189",
+  "slug": "ske-cl2000-pink-lemonade-prefilled-pod-refill-20mg",
+  "title": "SKE CL2000 Pink Lemonade Prefilled Pod + Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/ske-cl2000-pink-lemonade-prefilled-pod-refill-20mg",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Pink Lemonade blends zesty Lemonade with a sweet touch of Red Berries for a lively, soda-inspired vape. The citrus adds a fizz-like tang and the berries bring gentle sweetness for an easy all-day mix. Each CL2000 replacement pack contains a 1.8ml prefilled pod and a 2.2ml refill container. Click them together, fit to your CL2000 device and enjoy consistent flavour from the mesh coil and 20mg Nic Salt e-liquid, with up to 2000 puffs per pack depending on use. To replace: remove seals, click the pod and refill together, then push the assembled unit into the device until it locks. When both sections are empty, dispose of them responsibly and fit a fresh CL2000 pod + refill.",
+  "tags": [
+    "2ml + 10ml",
+    "Pink Lemonade",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148718",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-cl2000-pink-lemonade-prefilled-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pink-Lemonade-SKE-CL2000-Pods.jpg?v=1759508750",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.354Z"
+}

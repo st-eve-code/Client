@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639587414340",
+  "slug": "smok-nord-4-replacement-pod",
+  "title": "SMOK Nord 4 Replacement Pod",
+  "url": "https://www.vapestore.co.uk/products/smok-nord-4-replacement-pod",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "With the arrival of the Nord 4, Smok has released the most powerful, feature-packed Nord yet, bursting with performance, innovation and functionality. The Nord 4 features an incredible 2000mAh internal battery that supports a maximum power output of 80W, which when paired with Smok’s sub-ohm RPM 2 and RPM coils delivers unprecedented cloud and flavour production to a compact device that still fits smoothly and discreetly into any pocket or compartment. These replacement Smok Nord 4 pods come with a side-fill port with a silicone stopper, which allows for fast, fuss-free e-liquid refilling. The RPM 2 pod is compatible with Smok’s range of high-performance, long-lasting RPM2 Mesh coils which provide a rich and flavoursome DTL (direct-to-lung) vape, with incredible cloud production. The RPM pod is compatible with Smok’s entire range of Smok’s high-performance, long-lasting RPM coils which provide a sublime, airy MTL (mouth-to-lung) sensation, that’s rich in flavour and perfect for use with Nic Salt, High-PG and 50/50 E-Liquids. Please Note: Coils are not included and must be purchased separately.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Pod Type",
+      "position": 1,
+      "values": [
+        "RPM - Pod Only",
+        "RPM 2 - Pod Only"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "RPM - Pod Only",
+      "sku": "SM-SM-RP-NRD-4-RPM-0.4-3P",
+      "price": 3.99
+    },
+    {
+      "title": "RPM 2 - Pod Only",
+      "sku": "SM-SM-RP-NRD-4-RP-M2-0.16-3P",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-nord-4-replacement-pod__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/microsoftteams-image_16.png?v=1729043042",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-nord-4-replacement-pod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-nord-4-replacement-rpm-pod.jpg?v=1729043042",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-nord-4-replacement-pod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nord-4-replacement-rpm2-pods_1.jpg?v=1729043042",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.394Z"
+}

@@ -1,0 +1,89 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15930888618365",
+  "slug": "uwell-caliburn-gpp-alpha-replacement-pods-4-pack",
+  "title": "Uwell Caliburn GPP Alpha Replacement Pods - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-gpp-alpha-replacement-pods-4-pack",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Caliburn GPP Alpha replacement pods represent a significant step up in cartridge engineering and endurance. Supplied in a practical pack of four, these 2ml capacity pods are built to keep your device running perfectly for longer. They feature a massive upgrade in coil longevity compared to previous iterations, capable of vaporising up to 50ml of e-liquid and providing up to 17 refills* before a replacement is required. Maintaining your setup is incredibly simple thanks to the highly accessible top-fill port. You can cleanly replenish your e-liquid by simply snapping off the mouthpiece, entirely removing the need to detach the cartridge from the battery unit. Inside, the premium built-in coils are designed to deliver consistently accurate flavour and smooth vapour production right down to the very last drop. Offering fantastic versatility, the GPP Alpha pods are available in 0.4ohm, 0.6ohm, 0.9ohm, and 1.2ohm resistances. This broad selection ensures a perfectly tailored experience for both restricted direct-to-lung (RDTL) and mouth-to-lung (MTL) vapers. Fully compatible with the Uwell Caliburn G3, G4, and G5 kits, these pods perform exceptionally well with both nicotine salts and standard freebase e-liquids. *Refill lifespan is an estimate provided by the manufacturer and will vary depending on your usage habits and chosen e-liquid. Best used with 50/50 and Nic Salt E-liquids Pod Details: Uwell Caliburn GPP Alpha 0.4ohm RDTL Use High VG (Sub-Ohm) Liquids Uwell Caliburn GPP Alpha 0.6ohm RDTL Use 50/50 (freebase) or Nic Salt E-Liquid Uwell Caliburn GPP Alpha 0.9ohm MTL Use 50/50 (freebase) or Nic Salt E-Liquid Uwell Caliburn GPP Alpha 1.2ohm MTL Use High PG, 50/50 (freebase) E-Liquid Please Note: The 0.4ohm and 0.6ohm pods are low resistance pods with a maximum output of 25w and are not suited for high VG E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.6ohm",
+        "0.9ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1155493",
+      "price": 9.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1155501",
+      "price": 9.99
+    },
+    {
+      "title": "0.9ohm",
+      "sku": "1155504",
+      "price": 9.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1155506",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-gpp-alpha-replacement-pods-4-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/2.0-ml--0.4-_-Uwell-Caliburn-Alpha-Pods-4pk.jpg?v=1782117188",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-gpp-alpha-replacement-pods-4-pack__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/2.0-ml-0.6-_-Uwell-Caliburn-Alpha-Pods-4pk.jpg?v=1782117192",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-gpp-alpha-replacement-pods-4-pack__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/2.0-ml--v-0.9-_-Uwell-Caliburn-Alpha-Pods-4pk.jpg?v=1782117200",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-gpp-alpha-replacement-pods-4-pack__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/2.0_ml_1.2_Uwell_Caliburn_Alpha_Pods_4pk.jpg?v=1782117206",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

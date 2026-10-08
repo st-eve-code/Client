@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639439565124",
+  "slug": "voopoo-uforce-t2-replacement-glass-3pack",
+  "title": "VooPoo Uforce Glass Tube2ml - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/voopoo-uforce-t2-replacement-glass-3pack",
+  "brand": "VooPoo",
+  "productType": "Accessories",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "Replacement Glass tube for Voopoo UForce T2 sub-ohm tank 3 pack",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VP-VP-GL-U-FC-3PK-2ML",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-uforce-t2-replacement-glass-3pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo_uforce_glass_tube_2ml_3pk_pa_72.jpg?v=1729039699",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

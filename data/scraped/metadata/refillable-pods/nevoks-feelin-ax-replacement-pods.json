@@ -1,0 +1,97 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639910965572",
+  "slug": "nevoks-feelin-ax-replacement-pods",
+  "title": "Nevoks Feelin AX A1 Replacement Pods 2ml - 3 Pods",
+  "url": "https://www.vapestore.co.uk/products/nevoks-feelin-ax-replacement-pods",
+  "brand": "Nevoks",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Nevoks Feelin AX Replacement Pods are designed for use with the Nevoks Feelin AX Vape Kit, offering you a range of resistance options to customize your vaping experience. Whether you prefer mouth-to-lung (MTL), direct-to-lung (DTL), or restricted direct-to-lung (RDTL) vaping, these pods cater to all styles with options including 0.4ohm, 0.6ohm, 0.8ohm, and 1.2ohm. Each pod holds up to 2ml of your favourite e-liquid, with a convenient side-fill or top-fill system that makes refills quick and mess-free. These pods integrate smoothly with the Nevoks Feelin AX device, ensuring consistent performance and excellent flavour and vapour production. Packaged in a set of three, these replacement pods allow you to always have a fresh coil ready to go, extending the life of your device and maintaining the quality of your vape. Ideal for vapers who appreciate precision and reliability, the Nevoks Feelin AX Replacement Pods help keep your device performing at its best. The Nevoks A1 Replaplacement 2ml Pods are Side Fill & Top Fill please see below: Nevoks A1 0.4ohm Side Fill ( Rubber bung) Nevoks A1 0.6ohm Side Fill (Rubber bung) Nevoks A1 0.8ohm Top Fill (Snap off top) Nevoks A1 1.2ohm Top Fill (Snap off top) Please note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.6ohm",
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1130936",
+      "price": 4.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1130937",
+      "price": 4.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1130938",
+      "price": 4.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1130939",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nevoks-feelin-ax-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nevoks-a1-replacement-pods-0.8ohm-2ml-3pk_1_1.jpg?v=1729060578",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nevoks-feelin-ax-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nevoks-a1-replacement-pods-0.4ohm-2ml-3pk.jpg?v=1729060578",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nevoks-feelin-ax-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nevoks-a1-replacement-pods-0.6ohm-2ml-3pk.jpg?v=1729060578",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nevoks-feelin-ax-replacement-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nevoks-a1-replacement-pods-0.8ohm-2ml-3pk.jpg?v=1729060578",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nevoks-feelin-ax-replacement-pods__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nevoks-a1-replacement-pods-1.2ohm-2ml-3pk.jpg?v=1729060578",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

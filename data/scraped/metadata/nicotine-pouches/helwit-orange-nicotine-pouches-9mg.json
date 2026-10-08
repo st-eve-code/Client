@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15343301001597",
+  "slug": "helwit-orange-nicotine-pouches-9mg",
+  "title": "Helwit Orange Nicotine Pouches 9mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-orange-nicotine-pouches-9mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Orange Nicotine Pouches offer a bright, citrus-forward flavour that’s both tangy and smooth. The taste captures the essence of ripe Orange with a rounded sweetness that lingers gently on the senses. It’s a refreshing departure from the usual mint profiles, offering something a little fruitier without being overpowering. Each pouch contains 9mg of nicotine, making it a solid choice for regular users who want satisfying nicotine delivery in a discreet format. Made from soft plant-based fibres, the slim pouches are comfortable to wear and release nicotine gradually, without any smoke, vapour or odour. Clean, portable and refreshingly different. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "9mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg/pouch",
+      "sku": "1143089",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-orange-nicotine-pouches-9mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Orange-HelwitNicotinePouch.jpg?v=1751555756",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.910Z"
+}

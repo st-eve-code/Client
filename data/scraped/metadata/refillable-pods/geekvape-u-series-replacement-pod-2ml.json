@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639732347204",
+  "slug": "geekvape-u-series-replacement-pod-2ml",
+  "title": "Geekvape U series Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/geekvape-u-series-replacement-pod-2ml",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Geekvape U series is a sleek and sophisticated yet simple to use and highly portable vape device that’s ideal for beginners, or any vaper who just wants a discreet, convenient and stylish pod kit to carry with them. The Geekvape U refillable pods incorporates a fixed coil. When your pod loses its flavour, you simply replace it with a new refillable U pod. The 2ml pod features a leak-resistant silicone seal on the side for easy refills, and is best used with nic salt , 50/50 and classic High-PG e-liquids.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.7ohm",
+        "1.1ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.7ohm",
+      "sku": "1116747",
+      "price": 5.99
+    },
+    {
+      "title": "1.1ohm",
+      "sku": "1119005",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-u-series-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-sonder-u-replacement-pods_1_1.jpg?v=1729048691",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-u-series-replacement-pod-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-sonder-u-replacement-pods.jpg?v=1729048691",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-u-series-replacement-pod-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-sonder-u-replacement-pods_1.jpg?v=1729048691",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

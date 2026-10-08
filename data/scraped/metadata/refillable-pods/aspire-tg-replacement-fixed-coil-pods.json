@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639767867716",
+  "slug": "aspire-tg-replacement-fixed-coil-pods",
+  "title": "Aspire TG Replacement Fixed Coil Pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/aspire-tg-replacement-fixed-coil-pods",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Cyber G vape kit is a compact and stylish starter vape kit created for all day-long MTL (mouth-to-lung) vaping. With its sleek, futuristic design revealing the advanced technology inside encased in a colourful, satin-smooth chassis, this kit is ideal for vapers who want an easy-to-use, low-maintenance device that also looks amazing. These replacement Aspire TG 2ml pods are compatible with the Aspire Cyber G pod kit and feature fixed coils with a mesh build that heats up quickly, allowing for faster vaporisation of e-liquid and improved flavour production. Refilling the pods is effortless too - remove the rubber stopper on the side to reveal the filling port and top up with your preferred e-liquid. For optimal results, we recommend pairing these pods with nic salt , 50/50 and classic High-PG e-liquids.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1122535",
+      "price": 3.49
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1122534",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-tg-replacement-fixed-coil-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire_tg_pod_1.0ohm_2pk_1_1_1.jpg?v=1729050645",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-tg-replacement-fixed-coil-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire_tg_pod_1.0ohm_2pk_1.jpg?v=1729050645",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-tg-replacement-fixed-coil-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire_tg_pod_1.0ohm_2pk_1_1.jpg?v=1729050645",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

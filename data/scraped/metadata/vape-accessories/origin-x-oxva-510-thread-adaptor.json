@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639428981060",
+  "slug": "origin-x-oxva-510-thread-adaptor",
+  "title": "Oxva Origin X 510 Thread Adapter",
+  "url": "https://www.vapestore.co.uk/products/origin-x-oxva-510-thread-adaptor",
+  "brand": "Oxva",
+  "productType": "Accessories",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "The Origin X pod kit from Oxva is a sleek and versatile pod kit that uses Oxva’s UNI coils for incredible flavour and reliable performance. The Origin X pods utilise Oxva’s excellent UNI coils for amazing flavour and an external 18650 battery provides reliable power and longevity. Comfortable to use and highly-portable, the Origin X by Oxva is a discreet yet powerful pod kit ideal for vapers of all levels. The Origin 510 Thread Adapter Connector has been designed specifically for Origin X Pod Vape Kit and allows you to transform your Origin X Pod Vape Kit into a normal 510 thread box mod kit to use different tanks.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "OX-OX-AD-OR-X-510",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__origin-x-oxva-510-thread-adaptor__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva_origin_x_510_adapter_-_side_view.jpg?v=1729039322",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

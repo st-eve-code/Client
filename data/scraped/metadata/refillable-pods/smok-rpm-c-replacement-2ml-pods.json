@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639782973764",
+  "slug": "smok-rpm-c-replacement-2ml-pods",
+  "title": "SMOK RPM C Empty Replacement Pods 2ml - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-rpm-c-replacement-2ml-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Experience versatile and powerful vaping with the Smok RPM C pod kit, designed for both MTL and DTL vaping styles . The RPM C is powered by a long-lasting 1650mAh battery and is compatible with Smok’s RPM 2 coils, allowing you to choose the perfect coil resistance to suit your preferred style. This pack of 3 replacement 2ml RPM C pods is designed specifically for the SMOK RPM C kit. With an intuitive sliding top filling system, you can easily refill your pod by opening the top slide to reveal the filling port. Compatibility with RPM 2 coils allows for both MTL and DTL vaping styles, making it easy to experiment for different vaping experiences.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1123488",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-rpm-c-replacement-2ml-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-c-replacement-pod-2ml-3pk.jpg?v=1729051946",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

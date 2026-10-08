@@ -1,0 +1,101 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14902016278909",
+  "slug": "geekvape-j-replacement-vape-pods",
+  "title": "Geekvape J Replacement Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/geekvape-j-replacement-vape-pods",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "GeekVape J Replacement Pods are precision-engineered for use with the GeekVape Digi Pro and Digi Max Pod Kits, delivering exceptional flavour, versatility, and convenience. Each pod holds 2ml of e-liquid and features an integrated coil design, removing the need for separate coil changes. This makes the J Pods a perfect choice for vapers seeking a straightforward and reliable option. With their leak-resistant top-fill system, these pods are easy to refill and ensure a mess-free experience. Available in four resistances—0.4ohm, 0.6ohm, 0.8ohm, and 1.2ohm—these pods cater to a variety of vaping preferences. The 0.4ohm and 0.6ohm pods are tailored for restricted direct-to-lung (RDL) vaping, offering dense vapour and bold flavour with 50/50 or high-VG e-liquids. For mouth-to-lung (MTL) enthusiasts, the 0.8ohm and 1.2ohm pods deliver a satisfying, tighter draw that works beautifully with 50/50 and nicotine salt e-liquids. GeekVape J Replacement Pods attach securely to your device with a strong magnetic base, providing a stable and seamless vaping experience. Whether you prefer bold vapour or a smoother, more discreet draw, these pods are an ideal companion for all vaping styles. Pod Details: 0.2ohm DTL- This pod is ONLY Compatible with the Digi Max Kit - Use High VG (Sub-Ohm) E-liquid ONLY. 0.3ohm DM (Dual Mesh) RDL - Use High VG (Sub-Ohm) E-liquid ONLY. 0.4ohm RDL - Use High VG (Sub-Ohm) E-liquid ONLY. 0.6ohm RDL/MTL - Use Nic Salts or 50/50 Freebase E-Liquid. 0.8ohm MTL - Use Nic Salts or 50/50 Freebase E-Liquid. 1.2ohm MTL - Use 50/50 Freebase or High PG E-Liquid. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.2ohm",
+        "0.3ohm DM",
+        "0.4ohm",
+        "0.6ohm",
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.2ohm",
+      "sku": "1149522",
+      "price": 6.99
+    },
+    {
+      "title": "0.3ohm DM",
+      "sku": "1148084",
+      "price": 6.99
+    },
+    {
+      "title": "0.4ohm",
+      "sku": "1137710",
+      "price": 6.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1137711",
+      "price": 6.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1137712",
+      "price": 6.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1137713",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-j-replacement-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/j-cartridge-0.4-800x800.jpg?v=1734625163",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-j-replacement-vape-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/j-cartridge-0.6-800x800.jpg?v=1734625202",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-j-replacement-vape-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/j-cartridge-0.8-800x800.jpg?v=1734625227",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-j-replacement-vape-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/j-cartridge-1.2-800x800.jpg?v=1734625253",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

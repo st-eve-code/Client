@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639456309572",
+  "slug": "voopoo-tpp-replacement-pod-2ml",
+  "title": "VooPoo TPP Replacement pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-tpp-replacement-pod-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Designed for Voopoo’s incredible Drag X Plus and Drag 3 vape kits, the Voopoo TPP Pod tank is an easy to use and mess-free pod tank hybrid built for maximum flavour and clouds, especially when paired with Voopoo’s game-changing TPP coils. Simple-to-use, the TPP Pod attaches to your device with strong magnets, and replacing coils are a breeze thanks to the TPP coils pull-and-plug design. To refill, simply open the silicone seal at the bottom and top up with e-liquid. The comfortable mouthpiece feels great on the lips and the tinted chamber means you can check your eliquid levels at a glance. The TPP coils use VooPoo's new patented technology, increasing the atomisation area inside of the coils, as well as improving the heating speed. Please note: These replacement pods do not come with the 510 base connector.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver",
+        "Gun Metal Grey"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "VP-VP-RP-TPP-BLK-2ML-2P",
+      "price": 5.99
+    },
+    {
+      "title": "Silver",
+      "sku": "VP-VP-RP-TPP-SIL-2ML-2P",
+      "price": 5.99
+    },
+    {
+      "title": "Gun Metal Grey",
+      "sku": "VP-VP-RP-TPP-GM-2ML-2P",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-tpp-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-tpp-twin-black.jpg?v=1729040453",
+      "position": 1,
+      "width": 750,
+      "height": 750,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-tpp-replacement-pod-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-tpp-twin-black_1.jpg?v=1729040453",
+      "position": 2,
+      "width": 750,
+      "height": 750,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-tpp-replacement-pod-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-tpp-twin-silver_1.jpg?v=1729040453",
+      "position": 3,
+      "width": 750,
+      "height": 750,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-tpp-replacement-pod-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-tpp-twin-gunmetal_1.jpg?v=1729040453",
+      "position": 4,
+      "width": 750,
+      "height": 750,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

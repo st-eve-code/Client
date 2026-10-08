@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639514341700",
+  "slug": "smok-morph-40-replacement-rpm-pods",
+  "title": "SMOK Morph 40 Replacement Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-morph-40-replacement-rpm-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "The SMOK Morph Pod 40 kit is a seamless blend of comfort, style and performance that’s suitable for all kinds of vaper. These replacement SMOK RPM refillable pods come with a 2ml e-liquid capacity and a top-fill design, while strong magnets keep the pod firmly attached at all times. These pods are compatible with SMOK’s bestselling RPM Coils . Ranging from 0.3 to 1.2ohm resistance, the coils offer varied builds across mesh, dual coil, triple coil and quartz configurations for a variety of MTL and DL experiences.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-RP-MPH-PO-40-2ML-3PK",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-morph-40-replacement-rpm-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-morph-pod-40-replacement-pod-cartridge.jpg?v=1729041098",
+      "position": 1,
+      "width": 650,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

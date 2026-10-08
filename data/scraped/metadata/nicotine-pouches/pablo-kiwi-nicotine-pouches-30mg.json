@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "9640053178692",
+  "slug": "pablo-kiwi-nicotine-pouches-30mg",
+  "title": "Pablo Exclusive Kiwi Nicotine Pouches - 30mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/pablo-kiwi-nicotine-pouches-30mg",
+  "brand": "Pablo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Pablo Kiwi Nicotine Pouches bring a tangy, fruity twist to strong nicotine satisfaction. With the juicy bite of Kiwi and 30mg of nicotine per pouch, they offer a flavour-packed experience in a clean, tobacco-free format. Designed for ease and discretion, these slim pouches release nicotine gradually without any smoke or vapour. Just place one under the upper lip and enjoy controlled satisfaction on your terms. Kiwi is a sharp, bright addition to Pablo’s line-up—perfect for users who enjoy fruit flavours with a slightly tart edge. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH Please Note: These nicotine pouches are 30mg of nicotine per pouch.",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1135492",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pablo-kiwi-nicotine-pouches-30mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pablo-exclusive-nicotine-pouch-50mg-kiwi-12g.jpg?v=1729065160",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.907Z"
+}

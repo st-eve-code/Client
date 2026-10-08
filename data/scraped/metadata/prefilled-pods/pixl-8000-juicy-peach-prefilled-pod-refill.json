@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342807908733",
+  "slug": "pixl-8000-juicy-peach-prefilled-pod-refill",
+  "title": "PIXL 8000 Juicy Peach Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-juicy-peach-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Juicy Peach delivers a smooth, sweet flavour that captures the taste of ripe summer Peaches. Simple, juicy and fragrant — this one’s all about soft fruit satisfaction. The pod contains 2ml of 20mg nicotine salt e-liquid and connects to a 10ml refill reservoir. With the PIXL 8000 Prefilled Pod Vape Kit, it offers up to 8000 puffs. Mesh coil tech ensures smooth flavour all the way through. Designed for draw-activated MTL vaping with Boost Mode available, Juicy Peach is an easygoing and popular choice from the PIXL 8000 range.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143508",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-juicy-peach-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-juicy-peach-800x800.jpg?v=1751546931",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.377Z"
+}

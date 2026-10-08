@@ -1,0 +1,52 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15290378486141",
+  "slug": "ske-bar-pineapple-peach-mango-prefilled-vape-pod",
+  "title": "SKE Bar Pineapple Peach Mango Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-pineapple-peach-mango-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for the SKE Bar Prefilled Pod Kit, this tropical pod blends juicy Pineapple, soft Peach and sweet Mango. The result is a smooth, sunny vape thatâ's rich in tropical fruit flavour from start to finish. Each pod includes 2ml of 20mg nicotine salt and mesh coil technology for reliable MTL performance. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Mango",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142643",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-pineapple-peach-mango-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Peach-Mango-SKE-Bar-Prefilled-Pod.jpg?v=1749544221",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.375Z"
+}

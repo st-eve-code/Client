@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639655047492",
+  "slug": "voopoo-ito-x-pod-2ml",
+  "title": "VooPoo ITO X Replacement Pod",
+  "url": "https://www.vapestore.co.uk/products/voopoo-ito-x-pod-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "This pack of replacement Voopoo ITO-X pods are designed for use with the Voopoo Drag Q vape kit and Voopoo’s ITO mesh coils , which attach easily to the pod with their push-to-fit design. The pods feature a comfortable, ergonomic AIO drip tip, and can contain 2ml of your favourite e-liquid. Depending on the resistance of the coil that you use, they can provide a discreet and flavoursome MTL (mouth-to-lung) vape or a RDTL (restricted-direct-to-lung) draw with more vapour. With Voopoo’s ITO coils installed, this pod is ideal for use with nic salt , 50/50 and classic High-PG e-liquids.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Silver",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Silver",
+      "sku": "1116482",
+      "price": 5.49
+    },
+    {
+      "title": "Black",
+      "sku": "1116483",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-ito-x-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-drag-ito-x-black_1.jpg?v=1729046347",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-ito-x-pod-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-drag-ito-x-silver.jpg?v=1729046347",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-ito-x-pod-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-drag-ito-x-black.jpg?v=1729046347",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

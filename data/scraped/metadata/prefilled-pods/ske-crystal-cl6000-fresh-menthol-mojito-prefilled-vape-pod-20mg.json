@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15134698865021",
+  "slug": "ske-crystal-cl6000-fresh-menthol-mojito-prefilled-vape-pod-20mg",
+  "title": "SKE Crystal CL6000 Fresh Menthol Mojito Prefilled Vape Pod - 20mg",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-cl6000-fresh-menthol-mojito-prefilled-vape-pod-20mg",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The SKE Crystal CL6000 Prefilled Pod Pack in Fresh Menthol Mojito recreates the cooling zest of the classic cocktail. This vibrant blend layers bright Lime and cooling Mint with a subtle hint of sweet, muddled Sugar for a sharply refreshing vape. A crisp Menthol finish rounds out the experience, making it a great choice for vapers who enjoy a cool, citrus-inspired profile. Each pack contains a 2ml prefilled pod and a 10ml refill container, exclusively designed for the SKE Crystal CL6000 Prefilled Pod Kit. Together, they deliver up to 6000 puffs (depending on personal usage) of consistent flavour and vapour. The pod uses dual mesh coil technology for enhanced flavour definition and smooth vapour delivery. Combined with an automatic refill mechanism and leak-resistant design, the system is simple and mess-free to use. Filled with 20mg/ml nicotine salt e-liquid, the pod delivers rapid nicotine absorption and a tactile yet comfortable throat hit for MTL (mouth-to-lung) vaping. Replace the pod and refill container when empty to continue enjoying this cool, mint-laced flavour.",
+  "tags": [
+    "2ml + 10ml",
+    "Crystal CL6000",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139184",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-cl6000-fresh-menthol-mojito-prefilled-vape-pod-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ske-cl6000-fresh-menthol-mojito-pod.jpg?v=1744032107",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.380Z"
+}

@@ -1,0 +1,54 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15989006303613",
+  "slug": "nordic-spirit-mini-raspberry-nicotine-pouches",
+  "title": "Nordic Spirit Mini Raspberry Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-mini-raspberry-nicotine-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 4.5,
+    "max": 4.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Mini Raspberry Nicotine Pouches bring a bright, fruity alternative to traditional mint options. Delivering a sweet and tangy taste profile, this pouch captures the succulent character of ripe Raspberry with a crisp, clean finish. Equipped with an updated moist formulation, these pouches deliver flavour and nicotine rapidly compared to traditional dry variants. The increased moisture content ensures a softer feel against the gum and an efficient, responsive release as soon as the pouch is parked under the lip. The redesigned slim container provides a sleek, modern profile that fits comfortably into any pocket. Made with soft, tobacco-free plant fibres, each mini pouch provides a gentle Mellow 4mg strength, offering a reliable, smoke-free experience with maximum discretion. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "4mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "4mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "4mg / pouch",
+      "sku": "1162102",
+      "price": 4.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-mini-raspberry-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Raspberry-Mini-MELLOW-Nordic-Spirit-Mini.jpg?v=1786455679",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-mini-raspberry-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Raspberry-Mini-MELLOW-Open-Nordic-Spirit-Mini.jpg?v=1786455678",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.896Z"
+}

@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639420625220",
+  "slug": "smok-fetch-pro-replacement-pod-rpm",
+  "title": "SMOK SMOK Fetch Pro RPM Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-fetch-pro-replacement-pod-rpm",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Fetch Pro is one of the most powerful and versatile pod kits around, and these replacement 2ml pods are for the RPM coils for their incredible MTL (mouth-to-lung) experience. The refillable pods come with adjustable airflow, unique for devices of this kind, and connect firmly to the mod with strong magnets and can be used with coils from across Smok’s RPM Series, meaning the Fetch Pro can be tailored to suit the preference of any MTL or DTL vaper.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-RP-PO-FP-RPM-3P-2ML",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-fetch-pro-replacement-pod-rpm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-fetch-pro-replacement-pod-uk-510x510_jpg.jpg?v=1729038981",
+      "position": 1,
+      "width": 570,
+      "height": 400,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

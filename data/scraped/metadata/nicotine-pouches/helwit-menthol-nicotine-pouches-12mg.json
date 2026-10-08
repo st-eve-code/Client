@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15343343239549",
+  "slug": "helwit-menthol-nicotine-pouches-12mg",
+  "title": "Helwit Menthol Nicotine Pouches 12mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-menthol-nicotine-pouches-12mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Menthol Nicotine Pouches offer a clean, refreshing menthol experience with a bold cooling sensation and extra-strong nicotine delivery. The flavour is brisk and uncluttered - ideal for pouch users who enjoy a direct, no-nonsense mint profile that stays sharp from start to finish. Each pouch contains 12mg of nicotine and is made from soft, plant-based materials designed to fit comfortably under the lip. The slow-release design delivers nicotine consistently and discreetly, with no smoke, vapour or odour. Helwit Menthol is produced in Sweden using sustainable, climate-compensated methods, and makes a strong, refreshing choice for those who want reliable flavour and a pronounced nicotine kick. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "12mg",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "12mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "12mg/pouch",
+      "sku": "1143098",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-menthol-nicotine-pouches-12mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Menthol-HelwitNicotinePouch.jpg?v=1751557254",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.917Z"
+}

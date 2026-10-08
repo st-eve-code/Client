@@ -1,0 +1,52 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14987009819005",
+  "slug": "vaporesso-dojo-blast-2000-go-pineapple-sunrise-prefilled-pod-refill",
+  "title": "Vaporesso DOJO Blast 2000 Go Pineapple Sunrise Prefilled Pod & Refill",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-dojo-blast-2000-go-pineapple-sunrise-prefilled-pod-refill",
+  "brand": "Vaporesso",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for use with the Dojo Blast 2000 Go Prefilled Pod Kit, the Dojo Blast 2000 Go Prefilled Pod & Refill offers a seamless, hassle-free way to enjoy incredible flavours boosted by Vaporesso’s signature COREX 2.0 Mesh Coil technology. Each pack includes a 2ml prefilled pod and a 2ml auto-refilling e-liquid container, providing up to 2,000 puffs of satisfying mouth-to-lung (MTL) vaping. Pineapple Sunrise delivers a tropical medley of juicy Pineapple layered with tangy and exotic tropical fruits, creating a vibrant and refreshingly sweet vape. The combination of 20mg nic salt and Vaporesso’s COREX 2.0 Mesh Coil heating technology ensures rapid nicotine relief and a consistently rich and flavourful experience with every draw. Each Dojo Blast 2000 Go Prefilled Pod & Refill is designed for effortless installation—simply insert the pod into the device, attach the refill container, and vape. How to Use: 1. Remove all packaging 2. Remove the red silicone covers from the base and top of the refill pod 3. Attach the 2ml pod to the 2ml refill 4. Insert the combined pod into the Dojo Blast device, twisting to secure 5. Inhale to vape—no buttons or setup required. 6. When finished, replace with a fresh pod+refill pack.",
+  "tags": [
+    "2 x 2ml",
+    "Freedojokit",
+    "Freedojopod",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1138190",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-dojo-blast-2000-go-pineapple-sunrise-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dojo-blast-2000-go-prefilled-pods-PINEAPPLE-SUNRISE.jpg?v=1738677396",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.357Z"
+}

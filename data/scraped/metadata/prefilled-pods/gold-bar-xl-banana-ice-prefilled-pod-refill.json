@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15356167127421",
+  "slug": "gold-bar-xl-banana-ice-prefilled-pod-refill",
+  "title": "Gold Bar XL Banana Ice Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/gold-bar-xl-banana-ice-prefilled-pod-refill",
+  "brand": "Gold Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Gold Bar XL Refill Kit in Banana Ice delivers the smooth taste of ripe Banana with a refreshing Menthol twist. Each pack includes a 2ml prefilled pod and an attached 10ml refill reservoir, filled with 20mg nicotine salt e-liquid. Together, they extend your vaping time with consistent flavour and a satisfying mouth-to-lung (MTL) experience. Designed for the Gold Bar XL Prefilled Pod Kit, this refill combo offers convenience and great flavour without the need to refill manually. The built-in mesh coil inside the pod enhances flavour clarity and vapour output, while the closed format makes swapping flavours quick and mess-free.",
+  "tags": [
+    "2ml + 10ml",
+    "Banana Ice",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142271",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__gold-bar-xl-banana-ice-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BANANA-ICE-Gold-Bar-XL-Refill-pack.jpg?v=1751968234",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.376Z"
+}

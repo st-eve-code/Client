@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15340418531709",
+  "slug": "helwit-cola-nicotine-pouches-7mg",
+  "title": "Helwit Cola Nicotine Pouches 7mg / pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-cola-nicotine-pouches-7mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Cola Nicotine Pouches capture the classic taste of cola soda in a discreet, tobacco-free format. The flavour is sweet with gentle spiced notes, offering a nostalgic soft-drink-inspired profile that's easy-going and instantly recognisable. Each pouch delivers 7mg of nicotine and is crafted from soft, plant-based fibres for all-day comfort under the lip. With no smoke, vapour or odour, Helwit pouches offer a clean, portable way to enjoy nicotine wherever you are. Made in Sweden using climate-compensated production, this pouch combines a timeless flavour with a fresh, modern format ideal for everyday use. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "7mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "7mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "7mg/pouch",
+      "sku": "1143081",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-cola-nicotine-pouches-7mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cola-HelwitNicotinePouch.jpg?v=1751452989",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.920Z"
+}

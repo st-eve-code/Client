@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14898285674877",
+  "slug": "uwell-viscore-blueberry-sour-raspberry-pod-refill-20mg",
+  "title": "Uwell Viscore Blueberry Sour Raspberry Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-blueberry-sour-raspberry-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Viscore Prefilled Pod & Refill in Blueberry Sour Raspberry delivers a delightful blend of sweet blueberries and tangy sour raspberries, creating a bold and refreshing vape. Designed for the Uwell Viscore 8000 Prefilled Pod Vape Kit, this pack features a 2ml prefilled pod and a 10ml refill container, offering exceptional value and convenience. Equipped with a 0.8ohm mesh coil, the pod provides smooth vapour and vibrant flavour, making it perfect for mouth-to-lung (MTL) vaping. The refill container ensures easy top-ups, extending the pod's usability for up to 8000 puffs, depending on personal usage. Preloaded with 20mg/ml nicotine salt e-liquid, the pod delivers a smooth throat hit and rapid nicotine absorption, ideal for adult vapers seeking a long-lasting and satisfying vaping experience. Replace the pod and refill container when empty to continue enjoying the fruity, tangy Blueberry Sour Raspberry flavour.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137428",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-blueberry-sour-raspberry-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Uwell-Viscore-8000-prefilled-pod-refill-BLUEBERRY-SOUR-RASPBERRY.jpg?v=1734434137",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.383Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15221991047549",
+  "slug": "titan-x-cola-freeze-prefilled-pod-refills",
+  "title": "Titan X Cola Freeze Prefilled Pod + Refills",
+  "url": "https://www.vapestore.co.uk/products/titan-x-cola-freeze-prefilled-pod-refills",
+  "brand": "Titan",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Titan X Refill Kit in Cola Freeze is designed for use with the Titan X Prefilled Pod Vape Kit. This practical refill pack includes a 2ml prefilled mouthpiece pod and three 5ml flavour-matched auto-refill capsules, providing an easy, flavourful vaping experience without the hassle of manual refilling. Just click the pod and capsules into place on your Titan X device and you’re ready to vape. Cola Freeze captures the classic taste of fizzy Cola with a refreshing menthol twist. Sweet and subtly spiced, with a crisp cooling exhale, this nostalgic flavour is balanced by a smooth nicotine salt formulation for a comfortable mouth-to-lung (MTL) vape and rapid nicotine relief. With a pre-installed mesh coil for optimal flavour delivery and vapour production, the Titan X Refill Kit pairs perfectly with the Titan X device’s smart auto-refill system, delivering up to approximately 10,000 puffs per refill cycle (usage-dependent).",
+  "tags": [
+    "2ml + 15ml",
+    "Delisted",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1140880",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__titan-x-cola-freeze-prefilled-pod-refills__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/The-Titan-X-Refill-pods-cola-freeze.jpg?v=1747046209",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.378Z"
+}

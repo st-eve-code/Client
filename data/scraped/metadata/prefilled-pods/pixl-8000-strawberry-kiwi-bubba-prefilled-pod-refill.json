@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15667328844157",
+  "slug": "pixl-8000-strawberry-kiwi-bubba-prefilled-pod-refill",
+  "title": "PIXL 8000 Strawberry Kiwi Bubba Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-strawberry-kiwi-bubba-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Kiwi Bubba PIXL 8000 Prefilled Pod fuses bright Strawberry and tangy Kiwi with a sweet confectionery-style finish for a fun, fruity vape with a nostalgic edge. The balance of crisp fruit and mellow sweetness makes this one of the most moreish blends in the PIXL 8000 range. Each 2ml pod contains 20mg nicotine salt e-liquid for smooth satisfaction and rapid relief. Designed for use with the PIXL 8000 Prefilled Pod Vape Kit, it connects to a 10ml refill reservoir that automatically replenishes the pod as you vape—delivering up to 8000 puffs per kit with zero mess or manual refills. Mesh coil technology keeps flavour bright and consistent, while the MTL draw ensures a comfortable, discreet inhale.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1149536",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-strawberry-kiwi-bubba-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Kiwi-Bubba-Pixl-8000-Prefilled-pod-W2F.jpg?v=1763131964",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.360Z"
+}

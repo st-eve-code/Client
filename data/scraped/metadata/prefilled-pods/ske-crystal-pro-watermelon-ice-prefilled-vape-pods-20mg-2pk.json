@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15025078305149",
+  "slug": "ske-crystal-pro-watermelon-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "SKE Crystal Pro Watermelon Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-pro-watermelon-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: These pods are not compatible with the SKE BAR device. Designed for use with the SKE Crystal Pro 600 Prefilled Pod Kit, these SKE Crystal Pro 600 Prefilled Pods provide a convenient and cost-effective way to enjoy outstanding flavour without the waste of disposable vapes. Each prefilled pod delivers up to 600 puffs, depending on individual usage, and contains 2ml of 20mg nic salt e-liquid, ensuring a smooth and satisfying mouth-to-lung (MTL) vape with fast nicotine absorption. Watermelon Ice delivers the refreshing taste of sun-ripened watermelon, bursting with juicy sweetness and a light, crisp edge. The addition of an icy exhale rounds off the flavour, enhancing its cooling and refreshing sensation, making for a smooth and well-balanced vape. Swapping pods is effortless—simply remove the empty pod and insert a fresh one. Whether you're looking for an alternative to disposables or a hassle-free way to continue enjoying your favourite SKE Crystal Pro 600 flavours, these prefilled pods offer a mess-free and flavour-packed experience.",
+  "tags": [
+    "2 x 2ml",
+    "Crystal Pro",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138971",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-pro-watermelon-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-Crystal-Pro-Prefilled-pods-Watermelon-Ice.jpg?v=1739976182",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.303Z"
+}

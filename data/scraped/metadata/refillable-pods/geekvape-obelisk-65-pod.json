@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639613792580",
+  "slug": "geekvape-obelisk-65-pod",
+  "title": "Geekvape Obelisk 65 Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/geekvape-obelisk-65-pod",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Geekvape Obelisk 65 Pods hold 2ml of your favourite e-liquid. The clear glass design of the Oblisk 65 Pods allows you to see how much e-juice you have left and when to top up for a satisfying all-day-vape. Vape easy with the Obelisk 65 Pod’s top-fill design and leak-proof protection, you won’t waste a drop of your favourite e-liquid! The Geekvape Obelisk 65 Pods deliver a smooth MTL vaping experience with full flavour and vapour. Each pack containes 1 replacement pod that is Compatible with your Geekvape Obelisk 65 Pod Kit. The pod sits securely in the device with the aid of super strong magnets and each pod features top airflow to for a MTL (mouth-to-lung) style vape.",
+  "tags": [
+    "Delisted",
+    "DTL",
+    "prime-repodscoils",
+    "SALE"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "GV-RP-OB-65-2ML-1P",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-obelisk-65-pod__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/obelisk-65-pod.png?v=1729044480",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

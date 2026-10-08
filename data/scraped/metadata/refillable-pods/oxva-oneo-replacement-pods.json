@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639835140420",
+  "slug": "oxva-oneo-replacement-pods",
+  "title": "Oxva Oneo Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/oxva-oneo-replacement-pods",
+  "brand": "Oxva",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 7.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "Step up your vaping game with the OXVA ONEO and these Replacement Fixed-Coil Pods, fitted with revolutionary Unicoil technology. These game-changing pods ensure a virtually leak-free experience, making sure that not a single drop of your prized e-liquid goes to waste. From the seasoned DTL vaper to those who favour a tighter MTL draw, the ONEO replacement pods have got you covered. Take your pick from three resistance levels, each designed to cater to different power needs: Don't settle for anything less than tailored perfection. With the OXVA ONEO Replacement Pods, you can fine-tune your vaping adventure to meet your every need. 0.4OHM: Perfect for a smooth DTL hit at 28-34W - High VG 70% best used with this pod. 0.6OHM: A balanced experience RDL at 20-26W - Nic Salts best used with this pod. 0.8OHM: For a more intense MTL feel, ideal at 14-18W Nic Salts Or 50/50 E-Liquid best used with this pod. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1126563",
+      "price": 7.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1126564",
+      "price": 7.49
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1126565",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-oneo-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-oneo-replacement-pod-2ml-3pk_1_1_1.jpg?v=1729055490",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-oneo-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-oneo-replacement-pod-2ml-3pk.jpg?v=1729055490",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-oneo-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-oneo-replacement-pod-2ml-3pk_1.jpg?v=1729055490",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-oneo-replacement-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-oneo-replacement-pod-2ml-3pk_1_1.jpg?v=1729055490",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

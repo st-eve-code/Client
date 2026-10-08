@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342649377149",
+  "slug": "pixl-8000-black-cherry-prefilled-pod-refill",
+  "title": "PIXL 8000 Black Cherry Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-black-cherry-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Black Cherry PIXL 8000 Prefilled Pod delivers a rich, authentic Cherry flavour with juicy, darker fruit tones for a super-satisfying fruit vape experience. If you love a classic Cherry flavour with a little more mystique, then look no further than PIXL’s Black Cherry. This prefilled pod contains 2ml of 20mg nicotine salt e-liquid for a smooth and satisfying throat hit with fast-acting nicotine absorption. Designed exclusively for the PIXL 8000 Prefilled Pod Vape Kit, each pod is paired with a 10ml refill reservoir that connects securely to the device, enabling the pod to automatically refill itself until the reservoir is empty — supporting up to 8000 puffs per kit. The 2ml pod uses mesh coil technology for consistent vapour and flavour from start to finish. It’s designed for MTL (mouth-to-lung) vaping, producing smooth, satisfying draws with minimal maintenance. Simply insert the pod into your PIXL 8000 device, activate Boost Mode with a double-tap if preferred, and vape. Black Cherry is just one of over 25 distinctive flavours available in the PIXL 8000 range, each offering effortless vaping and vibrant character.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143516",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-black-cherry-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-black-cherry-800x800.jpg?v=1751547290",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.377Z"
+}

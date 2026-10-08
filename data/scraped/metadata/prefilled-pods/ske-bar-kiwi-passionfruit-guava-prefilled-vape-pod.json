@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15289346654589",
+  "slug": "ske-bar-kiwi-passionfruit-guava-prefilled-vape-pod",
+  "title": "SKE Bar Kiwi Passionfruit Guava Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-kiwi-passionfruit-guava-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for the SKE Bar Prefilled Pod Kit, this flavour brings a tangy medley of exotic fruits in every puff. Kiwi Passion Fruit Guava delivers juicy Guava and tart Passion Fruit with a crisp Kiwi liftâ€”ideal for tropical fruit lovers. The pod includes 2ml of 20mg nic salt and uses mesh coil technology for consistent, satisfying MTL vaping. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142633",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-kiwi-passionfruit-guava-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Kiwi-Passion-Fruit-Guava-SKE-Bar-Prefilled-Pod.jpg?v=1749486033",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.351Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15658951115133",
+  "slug": "innokin-kwik-35k-cola-ice-prefilled-pod-refill",
+  "title": "Innokin Kwik 35K Cola Ice Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/innokin-kwik-35k-cola-ice-prefilled-pod-refill",
+  "brand": "Innokin",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 8.95,
+    "max": 8.95,
+    "currency": "GBP"
+  },
+  "description": "Cola Ice recreates the familiar taste of classic Cola, blending sweet soda flavour with a refreshing hint of ice. The result is a smooth, fizzy profile that’s bright and satisfying to vape. Each pack includes a 2ml prefilled pod and 10ml refill container designed for the Innokin Kwik 35K. The mesh-coil pod maintains clear flavour throughout, while the auto-feed dual chamber prevents dry hits. Browse the full flavour collection of Innokin Kwik 35k Pods today. How to Set Up Innokin Kwik 35K Prefilled Pod Step 1 Insert the prefilled pod into the Kwik 35K device until it clicks. Step 2 Fit the 10ml refill container securely into the base compartment. Step 3 Inhale on the mouthpiece to vape. Replace the pod pack once both chambers are empty. ✅ You're all set!",
+  "tags": [
+    "2ml + 10ml",
+    "Innokin Kwik 35K",
+    "Pink Lemonade",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1148025",
+      "price": 8.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-kwik-35k-cola-ice-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cola-Ice-Innokin-Kwik-35k-prefilled-pod.jpg?v=1762787208",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.357Z"
+}

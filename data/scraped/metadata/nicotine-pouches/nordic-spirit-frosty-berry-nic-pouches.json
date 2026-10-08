@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15241325871485",
+  "slug": "nordic-spirit-frosty-berry-nic-pouches",
+  "title": "Nordic Spirit Frosty Berry Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-frosty-berry-nic-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Frosty Berry Nicotine Pouches offer a delightfully well-balanced combination of crisp, cool Peppermint laced with subtle notes of juicy, ripe Berry, offering a clean and flavourful alternative to traditional nicotine products. These pouches release a fresh, slightly tangy, berry flavour profile that tastes rich, smooth and satisfying every time. Slim and discreet, each pouch is crafted from soft plant-based fibres for a comfortable fit under the lip, delivering a steady nicotine release without any smoke, vapour or odour. Frosty Berry is available in both Strong (9mg), Extra Strong (11mg) and Max (17mg) options to suit different preferences, making it a versatile choice for on-the-go use or anytime nicotine satisfaction. Nicotine Ranges Strong (9mg/Pouch) - this is best for regular users. Extra Strong (11mg/Pouch) - this is suited for more experienced users Max (17mg/Pouch) - this is suited for more experienced users How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "9mg to 17mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "11mg / Pouch",
+        "17mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1142567",
+      "price": 6.5
+    },
+    {
+      "title": "11mg / Pouch",
+      "sku": "1142555",
+      "price": 6.5
+    },
+    {
+      "title": "17mg / Pouch",
+      "sku": "1149979",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-frosty-berry-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Frosty-Berry-Strong-Nordic-Spirit-Nicotine-Pouches_15fcbde8-08c4-48c9-bd61-8fec4c80b7b8.jpg?v=1773743499",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-frosty-berry-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Frosty-Berry-X-Strong-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773743499",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-frosty-berry-nic-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/frosty-berry-max-Nordic-Spirit-Nic-Pouch.jpg?v=1773743499",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.897Z"
+}

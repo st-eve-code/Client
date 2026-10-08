@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522606252413",
+  "slug": "lost-mary-bm600-grape-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Grape Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-grape-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Grape delivers a juicy burst of classic Grape flavour, rich with lush dark fruit character and just a hint of tang. Smooth and sweet without being overpowering, this is a clean, rounded flavour that will appeal to anyone who enjoys familiar, fruity profiles with plenty of depth. Each pod is prefilled with 2ml of 20mg nicotine salt e-liquid and designed for use with the Lost Mary BM600 Prefilled Pod Kit. The nic salt formulation provides a smooth MTL (mouth-to-lung) draw with fast-acting nicotine satisfaction. Each twin pack contains two pods, offering up to 600 puffs per pod depending on vaping style. Once a pod is depleted, simply replace it with a fresh one to continue enjoying uninterrupted flavour.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142720",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-grape-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grape-Lost-Mary-BM600-Prefilled-Pods.jpg?v=1757595069",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.309Z"
+}

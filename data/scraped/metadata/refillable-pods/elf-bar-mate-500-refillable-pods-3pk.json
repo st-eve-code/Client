@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639665992004",
+  "slug": "elf-bar-mate-500-refillable-pods-3pk",
+  "title": "Elf Bar Mate 500 Refillable Pods (3 Pack)",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-mate-500-refillable-pods-3pk",
+  "brand": "Elf Bar",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "Designed exclusively for use with the Elf Bar Mate 500 pod kit, these re-fillable pods contain 1.6ml of your favourite e-liquid. Combined with the Elf Bar Mate 500 rechargeable pod kit, these pods help reduce waste over disposable vape bars while still delivering the amazing flavour and effortless convenience of a fully-disposable elf bar kit. A fixed 1.2ohm coil inside the pod allows for an intensely flavoursome vape and a satisfying MTL (mouth-to-lung) experience, especially when paired with high-PG, 50/50 and nicotine salts eliquids. To attach the pod, simply remove the Elf Bar Mate 500 Refillable Pod from its air-sealed container and insert into the top of the Elf Bar Mate 500 battery component. There are no buttons to press or settings to adjust with the Elf Bar Mate 500 - you can start vaping delicious flavour immediately. And when your pod does begin to lose flavour, simply dispose of the pod and replace with a new one.",
+  "tags": [
+    "compatible-with-ELF-KT-ELF-BR-MT-500-PO-APU",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1116877",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-mate-500-refillable-pods-3pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elf-mate-500-refillable-pod-3pk.jpg?v=1729046790",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

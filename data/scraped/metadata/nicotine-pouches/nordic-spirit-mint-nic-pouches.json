@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15241624191357",
+  "slug": "nordic-spirit-mint-nic-pouches",
+  "title": "Nordic Spirit Mint Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-mint-nic-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Mint Nicotine Pouches feature a cool, straightforward Mint profile that’s crisp and refined without being overpowering. The flavour offers a clean, slightly herbal Mint sensation that delivers consistent freshness throughout use, making it a dependable everyday option for fans of classic Mint. Each pouch is slim, discreet and made from soft plant-based fibres that sit comfortably under the lip. Available in three nicotine strengths—Regular (6mg), Strong (9mg) and Extra Strong (11mg)—this pouch delivers steady nicotine satisfaction with no smoke, vapour or odour. The Mint flavour stays cool and consistent from start to finish, providing a smooth and balanced experience. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "9mg to 11mg",
+    "AWARDS15"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch",
+        "11mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1142564",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1142573",
+      "price": 6.5
+    },
+    {
+      "title": "11mg / pouch",
+      "sku": "1142558",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-mint-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mint-Reg-Nordic-Spirit-Nicotine-Pouches_934bf7a9-b20f-45e7-bfaf-6c359d61f3bf.jpg?v=1773743938",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-mint-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mint-Strong-Nordic-Spirit-Nicotine-Pouches_81b1e73b-bf15-437d-8684-658bafa7c22f.jpg?v=1773743941",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-mint-nic-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mint-X-Strong-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773743944",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.891Z"
+}

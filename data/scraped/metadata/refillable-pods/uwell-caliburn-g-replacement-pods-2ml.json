@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639431569732",
+  "slug": "uwell-caliburn-g-replacement-pods-2ml",
+  "title": "Uwell Caliburn G Replacement Pods 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-g-replacement-pods-2ml",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Caliburn G represents a welcome improvement to an already terrific pod kit, one that offers more versatility and performance without sacrificing any of the original’s simplicity or discreet style. These replacement 2ml pods for the Caliburn G add a dual airflow system that allows you to choose between a tighter, more restricted vape similar to a cigarette and a looser, airier vape, simply by adjusting the direction of the pod when you insert it into the mod. The pods are compatible with the Caliburn G’s exclusive coils: in 0.8ohms and 1.0ohms, sold separately.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "UW-UW-RP-CL-G-2P",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-g-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/calliburn-g-replacement-pods_1.jpg?v=1729039446",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

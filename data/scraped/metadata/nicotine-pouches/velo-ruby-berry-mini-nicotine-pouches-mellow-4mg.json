@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15554374467965",
+  "slug": "velo-ruby-berry-mini-nicotine-pouches-mellow-4mg",
+  "title": "Velo Ruby Berry Mini Nicotine Pouches - Mellow (4mg)",
+  "url": "https://www.vapestore.co.uk/products/velo-ruby-berry-mini-nicotine-pouches-mellow-4mg",
+  "brand": "Velo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 5.5,
+    "max": 5.5,
+    "currency": "GBP"
+  },
+  "description": "Velo Mini Ruby Berry Nicotine Pouches capture the bright taste of Strawberry with a gentle acidic edge for a flavour that tastes fruity, rounded and subtly tangy. The balance of sweetness and acidity makes Ruby Berry a distinctive berry choice in the Mini collection. Each can contains 15 slim pouches made from plant-based fibres, designed for a discreet and comfortable fit under the lip. Nicotine is released steadily without smoke, vapour or odour, offering a convenient and portable way to enjoy flavour and nicotine. Produced in Europe, Velo nicotine pouches are available in a wide range of flavours and strengths. Velo Mini cans contain 15 pouches and this Ruby Berry edition provides a Mild 4mg nicotine strength, ideal for those who prefer a gentler experience. Nicotine Ranges: Mellow - 4mg to 6mg this is best for new users. Original - 6mg to 11mg this is best for regular users. Intense - 8mg to 17mg this is suited for more experienced users How to Use: Place one pouch under your upper lip and leave it in place for 20–40 minutes while the flavour and nicotine release gradually. When finished, remove the pouch and dispose of it responsibly. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "4mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "4mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "4mg / pouch",
+      "sku": "1148640",
+      "price": 5.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__velo-ruby-berry-mini-nicotine-pouches-mellow-4mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Velo-Ruby-Berry_edd8b10c-c4c7-4e9b-9143-86f04f810d26.jpg?v=1758642063",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.920Z"
+}

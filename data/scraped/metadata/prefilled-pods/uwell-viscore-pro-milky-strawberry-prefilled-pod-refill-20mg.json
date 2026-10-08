@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15505698226557",
+  "slug": "uwell-viscore-pro-milky-strawberry-prefilled-pod-refill-20mg",
+  "title": "Uwell Viscore Pro+ Milky Strawberry Prefilled Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-pro-milky-strawberry-prefilled-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Milky Strawberry Uwell Viscore Pro+ Prefilled Pod offers a smooth, dessert-inspired flavour. Ripe Strawberry is blended with a creamy milk note for a sweet and mellow profile that’s indulgent yet easy to vape throughout the day. Each pack includes one 2ml Prefilled Pod prefilled with 20mg nicotine salt e-liquid and one 10ml Refill Pod that automatically tops up the pod during use. Capable of up to 20,000 puffs depending on your style, this system removes the need for refills or coil changes. Equipped with a 0.8ohm mesh coil, the pod provides clear flavour and smooth vapour every time. Made exclusively for the Uwell Viscore Pro+ Prefilled Pod Kit, setup is quick and mess-free: simply click the pod and refill into place and you’re ready to go.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148049",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-pro-milky-strawberry-prefilled-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Milky-Strawberry-Viscore-Pro-_-Prefilled-pods.jpg?v=1756992676",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.369Z"
+}

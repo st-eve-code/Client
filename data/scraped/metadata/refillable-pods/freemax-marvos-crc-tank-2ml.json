@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639678738756",
+  "slug": "freemax-marvos-crc-tank-2ml",
+  "title": "Freemax Marvos CRC Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/freemax-marvos-crc-tank-2ml",
+  "brand": "Freemax",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Freemax Marvos CRC Pod 2ml pod has been designed for use with the Freemax Marvox X 100W vape kit and the newly designed MS-D coils from Freemax. Durable and comfortable to use, the CRC pod employs a smooth 810-style drip tip. The pod features a convenient top-fill design to prevent leaks and has been rated ISO 8317 Child Resistant Certified (CRC) for extra security. To top up with e-liquid simply lift and slide the top cap and then fill the pod, super. Best suited to high-VG sub-ohm e-liquids. The pod is compatible with Freemax MS-D coils which use Freemax Coiltech 4.0 technology for awesome flavour and cloud production when used with the Marvos kit and the Marvos CRC pod, and swapping coils is as simple as push-to-fit.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver",
+        "Gunmetal"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1124547",
+      "price": 5.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1124548",
+      "price": 5.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1124549",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-marvos-crc-tank-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-marvos-crc-replacement-pod-gunmetal_1.jpg?v=1729047425",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-marvos-crc-tank-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-marvos-crc-replacement-pod-black.jpg?v=1729047425",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-marvos-crc-tank-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-marvos-crc-replacement-pod-silver.jpg?v=1729047425",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-marvos-crc-tank-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax-marvos-crc-replacement-pod-gunmetal.jpg?v=1729047425",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

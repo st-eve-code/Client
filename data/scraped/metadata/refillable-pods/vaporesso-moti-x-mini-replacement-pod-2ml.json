@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639653835076",
+  "slug": "vaporesso-moti-x-mini-replacement-pod-2ml",
+  "title": "Vaporesso Moti X Mini Replacement Pod 2ml 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-moti-x-mini-replacement-pod-2ml",
+  "brand": "Vaporesso",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The new X Mini pod kit is an exciting collaboration between vape pioneers Vaporesso and Moti. The X Mini is an incredibly compact RDTL (Restricted Direct to Lung) pod device with a stylish open-circuit design, a long-lasting internal 1150mAh battery, intelligent coil recognition and a form factor that fits snugly in the palm of your hand. This replacement 2ml pod enables adjustable airflow by simply rotating the pod in the device. The X Mini pod is compatible with Vaporesso X Moti X35 coils, whose unique honeycomb mesh design delivers an incredible RDTL (Restricted Direct to Lung) vape experience, every time. The coils are best paired with high-VG e-liquids.",
+  "tags": [
+    "CC DC List",
+    "Delisted",
+    "DTL",
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1115994",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-moti-x-mini-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-moti-x-mini-pods.jpg?v=1729046264",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

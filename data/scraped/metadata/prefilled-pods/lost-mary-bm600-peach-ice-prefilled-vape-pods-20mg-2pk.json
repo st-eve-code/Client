@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15552282100093",
+  "slug": "lost-mary-bm600-peach-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Peach Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-peach-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Peach Ice Lost Mary BM600 Prefilled Pods deliver the juicy sweetness of ripe Peach lifted by a brisk icy note. This pairing balances smooth fruit flavour with a refreshing edge, ideal for all-day enjoyment. Each pack contains two 2ml pods prefilled with 20mg nicotine salt e-liquid, offering up to 600 puffs per pod depending on use. Their smooth mouth-to-lung (MTL) draw provides consistent satisfaction without the need for refills or coil changes. Made for the Lost Mary BM600 Prefilled Pod Kit, installation is quick and mess-free: just click a pod into place and enjoy clean flavour and vapour production.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148283",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-peach-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Peach-Ice-Lost-Mary-BM600-Prefilled-Pods.jpg?v=1758555218",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.327Z"
+}

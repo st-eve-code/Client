@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15424559481213",
+  "slug": "lost-vape-ursa-v3-replacement-pods",
+  "title": "Lost Vape Ursa V3 Replacement Pods",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-ursa-v3-replacement-pods",
+  "brand": "Lost Vape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The Lost Vape Ursa V3 Replacement Pods are designed for convenience and consistent performance, offering an easy and mess-free way to keep your Ursa device topped up with your favourite e-liquids. Available in three coil resistances (0.6ohm, 0.8ohm and 1.0ohm), these refillable pods cater to a range of vaping styles from MTL (mouth-to-lung) to RDL (restricted direct-to-lung). Each pod features a 2ml capacity with a side-fill design sealed by a silicone stopper for clean, leak-resistant refilling. The built-in coil design means no coil changes are needed—just replace the pod when performance begins to fade. A comfortable drip tip and adjustable airflow system allow you to fine-tune your draw for a tailored vape every time. Compatible with the Ursa Pocket Kit and all Ursa Nano Pod Kits, these pods work best with 50/50 or nicotine salt e-liquids depending on the coil resistance selected. Lost Vape Ursa V2 0.6ohm RDL - We recommend paring this pod with 50/50,Nic Salt, or high PG E-Liquid Lost Vape Ursa V2 0.8ohm MTL - We Recommend paring this pod with 50/50, Nic Salt or high PG E-Liquid Lost Vape Ursa V2 1.0ohm MTL - We Recommend paring this pod with 50/50 or high PG E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1142111",
+      "price": 6.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1142112",
+      "price": 6.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1142113",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-ursa-v3-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ursa-pod-0.6-800x800.jpg?v=1753892333",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-v3-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ursa-pod-0.8-800x800.jpg?v=1753892347",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-ursa-v3-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-vape-ursa-pod-1.0-800x800.jpg?v=1753892408",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

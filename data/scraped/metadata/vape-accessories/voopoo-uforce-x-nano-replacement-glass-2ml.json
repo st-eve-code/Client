@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "14932187906429",
+  "slug": "voopoo-uforce-x-nano-replacement-glass-2ml",
+  "title": "VooPoo Uforce-X Nano Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-uforce-x-nano-replacement-glass-2ml",
+  "brand": "VooPoo",
+  "productType": "Accessories",
+  "price": {
+    "min": 1.99,
+    "max": 1.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Uforce-X Nano Tank Replacement Glass is the perfect accessory for maintaining and extending the life of your Uforce-X Nano Tank. Intended to replace broken or damaged glass, this 2ml straight replacement glass ensures your tank remains functional and ready for daily use. Made from high-quality, heat-resistant materials, this replacement glass ensures a reliable, leak-resistant fit while providing easy visibility of your e-liquid levels. Its transparent design allows for effortless, at-a-glance monitoring, making refilling and vaping convenient and seamless. Whether you need a backup or a replacement, the Voopoo Uforce-X Nano Tank Replacement Glass is an essential spare part for vapers who value reliability and consistent performance. Compatible exclusively with the Voopoo Uforce-X Nano Tank, this replacement glass helps ensure uninterrupted, high-quality vaping sessions.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137969",
+      "price": 1.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-uforce-x-nano-replacement-glass-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Uforce-x-nano-tank-Straight-Glass-2ml_66498943-5cae-4092-aca7-de1002ab4d92.jpg?v=1736422119",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

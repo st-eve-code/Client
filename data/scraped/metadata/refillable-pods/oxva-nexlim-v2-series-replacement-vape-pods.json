@@ -1,0 +1,67 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15936350224765",
+  "slug": "oxva-nexlim-v2-series-replacement-vape-pods",
+  "title": "Oxva Nexlim V2 Series Replacement Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/oxva-nexlim-v2-series-replacement-vape-pods",
+  "brand": "Oxva",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "Maintain optimal performance in your OXVA Nexlim or Nexlim GO device with these official V2 replacement pods. Designed for everyday reliability, these 2ml capacity cartridges feature a super-practical top-fill system, allowing you to replenish your e-liquid cleanly and efficiently without removing the pod from your device. To provide complete peace of mind, OXVA has engineered these pods with a robust 5-layer leak-proof structure to prevent unwanted spills and condensation. At the core of the Nexlim V2 pods is OXVA’s next-generation dual mesh coil technology. Powered by the advanced Unitech 2.0 system, these integrated coils heat your e-liquid with remarkable consistency, delivering exceptionally accurate flavour and smooth atomisation. Built for endurance, OXVA states that these durable coils can provide up to 15 refills* before a replacement is required, making them a highly cost-effective choice for daily vaping. To cater to your specific preferences, the pods are available in three distinct resistances. The 0.6ohm option (20W to 40W) is perfect for a restricted direct-to-lung (RDL) draw with increased vapour production. Alternatively, the 0.8ohm (12W to 32W) and 1.2ohm (10W to 25W) options are specifically tailored for a traditional mouth-to-lung (MTL) experience, working flawlessly with standard 50/50 and nicotine salt e-liquids. Each pack contains three replacement pods. *Refill lifespan is an estimate provided by the manufacturer and will vary depending on your usage habits and chosen e-liquid. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1156004",
+      "price": 8.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1156005",
+      "price": 8.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1156006",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-nexlim-v2-series-replacement-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/OxvaNexlim2pods3pack.jpg?v=1782382793",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-nexlim-v2-series-replacement-vape-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/OxvaNexlim2pods3pk.jpg?v=1782382822",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

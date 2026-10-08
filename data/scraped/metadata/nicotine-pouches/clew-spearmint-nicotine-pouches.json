@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15297901298045",
+  "slug": "clew-spearmint-nicotine-pouches",
+  "title": "Clew Spearmint Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/clew-spearmint-nicotine-pouches",
+  "brand": "Clew",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Clew Spearmint Nicotine Pouches deliver a soft, cooling flavour with the sweet edge typical of classic Spearmint. These slim, discreet pouches provide steady nicotine release in a smoke-free, odourless format. Each can includes 20 slim pouches made in the USA with purified nicotine and food-grade ingredients. With strengths of 5mg, 10mg, 15mg and 20mg available, Clew Spearmint is suited to a wide range of nicotine users. To use, place one pouch under your top lip. It will gradually release nicotine over 30 to 45 minutes before you dispose of it responsibly. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "5mg to 20mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "5mg / Pouch",
+        "10mg / Pouch",
+        "15mg / Pouch",
+        "20mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg / Pouch",
+      "sku": "1142886",
+      "price": 3.95
+    },
+    {
+      "title": "10mg / Pouch",
+      "sku": "1142893",
+      "price": 3.95
+    },
+    {
+      "title": "15mg / Pouch",
+      "sku": "1142900",
+      "price": 3.95
+    },
+    {
+      "title": "20mg / Pouch",
+      "sku": "1142907",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__clew-spearmint-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spearmint10mg_Clew-Nicotine-Pouches.jpg?v=1750761750",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-spearmint-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spearmint20mg_Clew-Nicotine-Pouches.jpg?v=1750761755",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-spearmint-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ClewNicotinePouches_ad098e02-9523-42ba-b83e-881ba1a2f847.jpg?v=1750761765",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.921Z"
+}

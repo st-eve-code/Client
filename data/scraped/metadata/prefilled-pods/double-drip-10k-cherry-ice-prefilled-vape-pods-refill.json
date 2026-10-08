@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15288801100157",
+  "slug": "double-drip-10k-cherry-ice-prefilled-vape-pods-refill",
+  "title": "Double Drip 10K Cherry Ice Prefilled Vape Pods + Refill",
+  "url": "https://www.vapestore.co.uk/products/double-drip-10k-cherry-ice-prefilled-vape-pods-refill",
+  "brand": "Double Drip",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "This Double Drip 10K Prefilled Pod & Refill Pack is made for use with the Double Drip 10K Pod Kit, offering a quick and easy way to replenish your kit with no refilling or coil swaps. Each pack includes a 2ml pod and 10ml bottle of 20mg nicotine salt e-liquid, delivering up to 10,000 puffs with smooth, reliable vapour performance. Cherry Ice delivers a juicy Cherry base topped with a crisp, brisk Menthol finish. The rich, ruby fruit note is balanced beautifully by the clean chill of Ice, creating a sharp yet sweet vape that’s ideal for fans of fruity menthol flavours. To switch flavours or replace your used pod, simply insert the new ones and let the auto-refill system keep the vape flowing. A no-fuss option for flavour lovers who value convenience.",
+  "tags": [
+    "2ml + 10ml",
+    "Cherry Ice",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1141124",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-10k-cherry-ice-prefilled-vape-pods-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-10k-Cherry-Ice-Pods.jpg?v=1753719788",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.319Z"
+}

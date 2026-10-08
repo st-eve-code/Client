@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639597244740",
+  "slug": "smok-tfv9-extension-chimney-piece",
+  "title": "SMOK TFV9 extension chimney",
+  "url": "https://www.vapestore.co.uk/products/smok-tfv9-extension-chimney-piece",
+  "brand": "SMOK",
+  "productType": "Accessories",
+  "price": {
+    "min": 1.99,
+    "max": 1.99,
+    "currency": "GBP"
+  },
+  "description": "Chimney adpator for TFV9 Extension glasses",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-SM-CH-TF-V9-6ML",
+      "price": 1.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-tfv9-extension-chimney-piece__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smoktfv9chimneyadapter_600x_62b695df-a157-4cf8-8a47-e7384f853504.jpg?v=1729043597",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

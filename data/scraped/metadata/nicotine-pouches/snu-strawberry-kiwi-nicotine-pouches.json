@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "14874165019005",
+  "slug": "snu-strawberry-kiwi-nicotine-pouches",
+  "title": "SNU Strawberry Kiwi Nic Pouches by Bar Juice",
+  "url": "https://www.vapestore.co.uk/products/snu-strawberry-kiwi-nicotine-pouches",
+  "brand": "SNU",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "SNU Strawberry Kiwi Nicotine Pouches offer a smooth and sweet Strawberry flavour balanced by a juicy Kiwi exhale. The profile is soft and fruity with a tropical twist, making it ideal for those who enjoy sweet flavours with a refreshing twist. Crafted in Sweden by Bar Juice 5000, these slim, discreet pouches release nicotine gradually with no smoke, vapour or odour. Each can features a scented lid so you can preview the flavour before opening, adding a sensory element to the experience. To use, place a single pouch under your upper lip and leave it in place as it slowly dissolves and releases nicotine. Remove the pouch when the sensation fades and dispose of it responsibly. Nicotine Ranges: Low - 9mg this is best suited for new users Medium - 12mg this is suited for more experienced users High - 18mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "12mg to 18mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "12mg / Pouch",
+        "18mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1137388",
+      "price": 3.99
+    },
+    {
+      "title": "12mg / Pouch",
+      "sku": "1137394",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / Pouch",
+      "sku": "1137400",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__snu-strawberry-kiwi-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-strawberry-kiwi-9mg-nicotine-pouch-3_1.jpg?v=1732843728",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-strawberry-kiwi-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-strawberry-kiwi-12mg-nicotine-pouch-3_1.jpg?v=1732843728",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-strawberry-kiwi-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-strawberry-kiwi-18mg-nicotine-pouch-3_1.jpg?v=1732843728",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-strawberry-kiwi-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-strawberry-kiwi-9mg-nicotine-pouch-3.jpg?v=1732843728",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-strawberry-kiwi-nicotine-pouches__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-strawberry-kiwi-12mg-nicotine-pouch-3.jpg?v=1732843728",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-strawberry-kiwi-nicotine-pouches__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-strawberry-kiwi-18mg-nicotine-pouch-3.jpg?v=1732843728",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-strawberry-kiwi-nicotine-pouches__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-nic-pouch-strawberry-kiwi.jpg?v=1732843728",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.901Z"
+}

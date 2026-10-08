@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15236964057469",
+  "slug": "hula-7000-pineapple-prefilled-vape-pod-refill",
+  "title": "Hula 7000 Pineapple Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hula-7000-pineapple-prefilled-vape-pod-refill",
+  "brand": "Hula",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hula 7000 Pineapple Prefilled pod delivers a burst of tropical sweetness, blending the rich, golden notes of ripe pineapple. The balance of juicy pineapple creates a smooth yet lively vape, perfect for those who enjoy, exotic flavours. These Hula Prefilled Replacement Pods are designed for use with the Hula Prefilled Pod System Kit, offering a quick and convenient way to replace or swap flavours without the need for refilling or coil changes. Each pod contains 12ml of 20mg nicotine salt e-liquid, with a 2ml draw-activated pod that is automatically topped up by a built-in 10ml refill reservoir. Delivering up to 7000 puffs (approx.), these pods feature dual mesh coil technology for consistently smooth flavour and vapour. Simply insert the pod into your Hula device, and enjoy long-lasting performance with minimal fuss. Available in 10 satisfying flavours, these replacement pods are perfect for keeping your vape fresh and flavourful.",
+  "tags": [
+    "2ml + 10ml",
+    "Hula 7000",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1142198",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hula-7000-pineapple-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Hula-Pineapple-Pod-Commerce.jpg?v=1747756642",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.338Z"
+}

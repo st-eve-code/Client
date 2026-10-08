@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639437566276",
+  "slug": "geekvape-zeus-tank-glass-2ml",
+  "title": "Geekvape Zeus Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/geekvape-zeus-tank-glass-2ml",
+  "brand": "Geekvape",
+  "productType": "Accessories",
+  "price": {
+    "min": 1,
+    "max": 1,
+    "currency": "GBP"
+  },
+  "description": "Replacement Glass 2ml for Geek Vape Zeus tank",
+  "tags": [
+    "CC DC List",
+    "compatible-with-GV-TA-ZE-US-TA-GMT"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "GV-GV-GL-ZE-US-2ML",
+      "price": 1
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-zeus-tank-glass-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/replacement_glass_zeus_2ml.jpg?v=1729039609",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.061Z"
+}

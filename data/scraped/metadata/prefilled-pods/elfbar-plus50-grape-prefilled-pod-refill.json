@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15467054727549",
+  "slug": "elfbar-plus50-grape-prefilled-pod-refill",
+  "title": "Elf Bar Plus50 Grape Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/elfbar-plus50-grape-prefilled-pod-refill",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Grape from the Elf Bar Plus50 pod range delivers a bold burst of juicy flavour with deep, candy-like sweetness and a subtle tang. This rich, full-bodied Grape blend makes for an intensely satisfying vape that remains clean and balanced throughout. Each pod contains 2ml of 20mg Nic Salt e-liquid and comes paired with a 10ml refill tank for easy top-ups and long-lasting flavour. Designed for use with the Elf Bar Plus50 Kit, these pods feature mesh coil technology for a consistently smooth and flavoursome mouth-to-lung (MTL) vape.",
+  "tags": [
+    "2ml + 10ml",
+    "5000 Puffs Pod",
+    "6000 Puffs Pod",
+    "Elfbar Plus50",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143829",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-plus50-grape-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grape-Elf-Bar-Plus50-Prefilled-Pods.jpg?v=1755517551",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.374Z"
+}

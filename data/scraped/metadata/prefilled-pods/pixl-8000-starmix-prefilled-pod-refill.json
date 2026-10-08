@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342924038525",
+  "slug": "pixl-8000-starmix-prefilled-pod-refill",
+  "title": "PIXL 8000 Starmix Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-starmix-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Starmix from PIXL 8000 brings together a mix of gummy-inspired confectionery flavours with a streak of cool Menthol. It’s sweet, chewy and refreshing — a vape that delivers both fun and freshness. Prefilled with 2ml of 20mg nicotine salt e-liquid and paired with a 10ml refill reservoir, this pod supports up to 8000 puffs when used with the PIXL 8000 Prefilled Pod Vape Kit. Mesh coil technology ensures smooth and flavourful vapour from first puff to last. Draw-activated and designed for MTL vaping with optional Boost Mode, Starmix is a great choice for vapers who enjoy sweet-shop flavours with a cool twist.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143522",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-starmix-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-starmix-800x800.jpg?v=1751546599",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.376Z"
+}

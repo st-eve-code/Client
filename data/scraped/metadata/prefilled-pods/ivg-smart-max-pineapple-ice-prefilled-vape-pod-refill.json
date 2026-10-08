@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15373372457341",
+  "slug": "ivg-smart-max-pineapple-ice-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Pineapple Ice Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-pineapple-ice-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Pineapple Ice combines sweet tropical Pineapple with a streak of cool Menthol for a fresh, fruity vape. The Pineapple note is juicy and tangy with a bright finish, while the icy layer brings lift and balance to the overall flavour. Each pod pack includes a 2ml pod prefilled with 20mg nicotine salt e-liquid, alongside a separate 10ml refill reservoir. Once connected, the refill automatically tops up the pod during use and can support up to 10,000 puffs per kit depending on vaping style. There’s no need for refilling or coil changes. This pod uses mesh coil technology for smooth MTL performance and consistent flavour. Designed for use with the IVG Smart Max Prefilled Pod Vape Kit. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "IVG Smart Max Prefilled Pods",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg",
+        "10mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143294",
+      "price": 6.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150650",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-pineapple-ice-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smart-max-refill-pineapple-ice-800x800.jpg?v=1752505668",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.327Z"
+}

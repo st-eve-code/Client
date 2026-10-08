@@ -1,0 +1,54 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "14874165838205",
+  "slug": "fogstar-energy-fs3800-18650-battery",
+  "title": "Fogstar Energy FS3800 18650 3800mAh Battery",
+  "url": "https://www.vapestore.co.uk/products/fogstar-energy-fs3800-18650-battery",
+  "brand": "Fogstar",
+  "productType": "Battery",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The Fogstar Energy FS3800 18650 Battery is a dependable choice for vapers seeking long-lasting power for low to medium-output devices. With a high 3800mAh capacity and a continuous discharge rate of 10A, this battery is ideal for extended vaping sessions. Designed with safety and durability in mind, the FS3800 18650 is a flat-top, non-protected battery that is ideal for use in regulated devices equipped with built-in safety features, such as vape kits, allowing it to deliver optimal performance without compromise. Always verify compatibility with your device before use. As part of Fogstar’s trusted Energy series, the FS3000 undergoes stringent testing to meet high-quality standards. To ensure safe operation, recharge the battery using a dedicated Lithium-Ion charger, regularly inspect wraps and insulators for damage, and replace any compromised batteries immediately. Additional Information • Only use according to the manufacturer’s instructions. • Lithium-Ion cells should be charged on a dedicated charger rated specifically for Lithium-Ion cells. • Never leave a battery unattended whilst charging. • Keep away from animals and children. • Wraps and insulators should be periodically inspected for tears or damage. If a battery has a damaged wrap, it should be repaired or disposed of immediately. • Batteries usually have a cycle life of between 200-500 cycles (this varies with manufacturer) before noticeable capacity drop-off. Batteries should be recycled at this time. • Do not crush, incinerate or modify.",
+  "tags": [
+    "Battery-included"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137039",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fogstar-energy-fs3800-18650-battery__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fogstar-energy-fs3000-3000mah-battery.jpg?v=1740668865",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fogstar-energy-fs3800-18650-battery__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fogstar-energy-18650-fs3000-battery.jpg?v=1740668865",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

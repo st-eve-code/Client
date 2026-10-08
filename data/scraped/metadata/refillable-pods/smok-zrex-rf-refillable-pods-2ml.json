@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639931445572",
+  "slug": "smok-zrex-rf-refillable-pods-2ml",
+  "title": "SMOK Zrex RF Replacement Pods 0.8ohm 2ml - 3 Pods",
+  "url": "https://www.vapestore.co.uk/products/smok-zrex-rf-refillable-pods-2ml",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The SMOK Zrex RF Refillable Pods are the perfect companion for your SMOK Zrex RF Pod Kit, providing a seamless and satisfying MTL (Mouth To Lung) vaping experience. Each pod boasts a 2ml e-liquid capacity, allowing you to enjoy your favourite e-liquids without the need for constant refills. The side-fill design of the Zrex RF pods ensures that refilling is quick, easy, and mess-free. Simply open the side port and fill the pod with your preferred e-liquid. The built-in mesh coil technology heats the e-liquid evenly, delivering rich and authentic flavours with every puff. When the coil reaches the end of its lifespan, replacing the entire pod is a breeze, ensuring that you can continue to enjoy a consistent and flavourful vaping experience. These refillable pods are designed specifically for the SMOK Zrex RF Pod Kit, ensuring a perfect fit and optimal performance. Whether you’re a new vaper or an experienced user, the SMOK Zrex RF Refillable Pods offer the convenience and quality you need for an enjoyable MTL vaping experience. Please note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1132316",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-zrex-rf-refillable-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-zrex-rf-pods-3pack.jpg?v=1729061657",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

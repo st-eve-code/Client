@@ -1,0 +1,90 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15297927315837",
+  "slug": "clew-coffee-nicotine-pouches",
+  "title": "Clew Coffee Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/clew-coffee-nicotine-pouches",
+  "brand": "Clew",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Clew Coffee Nicotine Pouches deliver a smooth, roasted Coffee flavour in a clean and tobacco-free format. Whether you're starting the day or need a boost on the go, these slim pouches offer satisfying nicotine release with no smoke or odour. Each can contains 20 pouches made in the USA with food-grade ingredients and high-purity nicotine. Available in four strengths—5mg, 10mg, 15mg and 20mg—Clew Coffee suits a wide range of preferences, from mild to strong. Use is simple: place one pouch under your upper lip and let it sit for 30 to 45 minutes. The result is steady nicotine delivery in a comfortable, discreet format you can rely on. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "5mg to 20mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "5mg / pouch",
+        "10mg / pouch",
+        "15mg / pouch",
+        "20mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg / pouch",
+      "sku": "1142888",
+      "price": 3.95
+    },
+    {
+      "title": "10mg / pouch",
+      "sku": "1142895",
+      "price": 3.95
+    },
+    {
+      "title": "15mg / pouch",
+      "sku": "1142902",
+      "price": 3.95
+    },
+    {
+      "title": "20mg / pouch",
+      "sku": "1142909",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__clew-coffee-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-coffee-5mg-800x800.jpg?v=1751897219",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-coffee-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-coffee-10mg-800x800.jpg?v=1751897242",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-coffee-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-coffee-15mg-800x800.jpg?v=1751897267",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-coffee-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-coffee-20mg-800x800.jpg?v=1751897293",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.912Z"
+}

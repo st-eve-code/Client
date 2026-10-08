@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639924105540",
+  "slug": "voopoo-galaxy-pods-2-pack",
+  "title": "VooPoo Doric Galaxy Replacement Pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/voopoo-galaxy-pods-2-pack",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "Elevate your vaping with Voopoo Galaxy Pods, designed specifically for the Voopoo Doric Galaxy Pen. These pods come equipped with a 1.2ohm or 0.7ohm integrated mesh coil, delivering an exceptional Mouth-To-Lung (MTL) experience, making every puff a flavourful journey. Each pod in this pack of two features a 2ml e-liquid capacity with a convenient side-filling design, ensuring easy refills without any mess. The pods' construction includes a POM drip tip, optimized for MTL vaping, providing a comfortable and satisfying draw that mimics the feel of traditional smoking. Compatibility is key, and these pods seamlessly fit with your Voopoo Doric Galaxy Pen. Whether you're a seasoned vaper or new to the scene, these pods provide an efficient and enjoyable vaping experience, enhancing the flavours of your favourite e-liquids . Make the most out of your Voopoo Doric Galaxy Pen with these Galaxy Pods. Their integrated mesh coils guarantee a consistent and flavourful vape, while their design ensures a leak-free and convenient experience. These pods are compatible with the Voopoo Doric Galaxy and Doric Galaxy S1 pod vape kits.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.7ohm",
+        "1.2Ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.7ohm",
+      "sku": "1132386",
+      "price": 4.49
+    },
+    {
+      "title": "1.2Ohm",
+      "sku": "1129382",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-galaxy-pods-2-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-doric-galaxy-s1-replacement-pod-0-7ohm-2pk_1.jpg?v=1729061309",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-galaxy-pods-2-pack__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-doric-galaxy-replacement-pod-1.2ohm-2pk.jpg?v=1729061309",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-galaxy-pods-2-pack__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-doric-galaxy-s1-replacement-pod-0-7ohm-2pk.jpg?v=1729061309",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

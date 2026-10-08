@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15375821472125",
+  "slug": "ivg-savr-3000-blue-sour-raspberry-prefilled-vape-pod-refill",
+  "title": "IVG Savr 3000 Blue Sour Raspberry Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-savr-3000-blue-sour-raspberry-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Sour Raspberry IVG Savr 3000 Prefilled Pods serve up tangy Blue Raspberry with a sharp sour edge. The result is a bright, zingy vape that hits the sweet-and-sour spot just right. Each refill pack includes a 2ml prefilled pod and a 4ml refill reservoir. Once assembled, the refill mechanism automatically keeps the pod topped up as you vape, offering up to 3000 puffs depending on draw length and usage style. How to Set Up IVG Savr Prefilled Pod's Step 1: Unpack the Device Remove the cap from the mouthpiece. Take out the silicone stopper from the pod. Step 2: Prepare the Refill Peel off the red sticker. Remove the rubber stop. Step 3: Connect the Pod Align the refill with the pod. Press until you hear a click. Step 4: Insert into Device Slide the full pod-and-refill unit into the Savr device. Step 5: Prime the Coil Wait a few minutes to let the coil fully saturate. ✅ Ready to Vape! Inhale to activate and enjoy.",
+  "tags": [
+    "2ml + 4ml",
+    "IVG Savr Prefilled Pods",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143379",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-savr-3000-blue-sour-raspberry-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-SAVR-Pods-Blue-Sour-Raspberry.jpg?v=1752592364",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.341Z"
+}

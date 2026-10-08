@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14989490553213",
+  "slug": "voopoo-vinci-pnp-x-replacement-pods-2ml",
+  "title": "VooPoo Vinci PNP-X Replacement Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-vinci-pnp-x-replacement-pods-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Vinci PnP-X Empty Pod brings versatility and performance to your Vinci E120 kit, offering both Mouth-to-Lung (MTL) and Direct-to-Lung (DTL) options to match your preferred vaping style. Each pod is precision-engineered from durable PCTG and PC materials, ensuring consistent performance and excellent clarity for easy e-liquid monitoring. Built specifically for the Vinci E120 kit, these 2ml pods feature a convenient top-fill system that makes refilling quick and straightforward. The MTL pod variant pairs perfectly with PnP X coils in 0.6ohm, 0.8ohm, and 1.0ohm resistances, creating a satisfying experience ideal for nic salts and 50/50 e-liquids . For those who prefer direct-lung vaping, the DTL version accommodates PnP X coils in 0.15ohm, 0.2ohm, and 0.3ohm resistances, optimised for rich vapour production with high-VG e-liquids . Each pack includes two replacement pods, offering excellent value while ensuring you always have a spare ready. The pods feature a robust magnetic connection and sealed design that maintains consistent performance throughout their lifespan. Please Note: These pods DO NOT come with coils.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "MTL",
+        "DTL"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "MTL",
+      "sku": "1138343",
+      "price": 4.99
+    },
+    {
+      "title": "DTL",
+      "sku": "1138342",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-vinci-pnp-x-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-vinci-pnp-x-MTL-replacement-pods-2ml-2pk.jpg?v=1738751121",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-pnp-x-replacement-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-vinci-pnp-x-DTL-replacement-pod-2ml-2pk.jpg?v=1738751170",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

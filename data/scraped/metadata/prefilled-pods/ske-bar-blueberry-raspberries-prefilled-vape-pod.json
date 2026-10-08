@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15289334333821",
+  "slug": "ske-bar-blueberry-raspberries-prefilled-vape-pod",
+  "title": "SKE Bar Blueberry Raspberries Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-blueberry-raspberries-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Made for the SKE Bar Prefilled Pod Kit, this fruity pod blends soft, juicy Blueberries with the sweet-tart flavour of Raspberries. Expect a bright, fruity vape with notes of sharpness and sweetness in perfect balance. Each pod contains 2ml of 20mg nicotine salt and mesh coil technology for smooth, flavourful MTL performance. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142632",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-blueberry-raspberries-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Raspberries-SKE-Bar-Prefilled-Pod-min.jpg?v=1749485880",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.353Z"
+}

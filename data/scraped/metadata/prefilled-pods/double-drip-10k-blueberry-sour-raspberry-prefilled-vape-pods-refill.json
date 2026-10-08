@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15288727077245",
+  "slug": "double-drip-10k-blueberry-sour-raspberry-prefilled-vape-pods-refill",
+  "title": "Double Drip 10K Blueberry Sour Raspberry Prefilled Vape Pods + Refill",
+  "url": "https://www.vapestore.co.uk/products/double-drip-10k-blueberry-sour-raspberry-prefilled-vape-pods-refill",
+  "brand": "Double Drip",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "This Pod & Refill Pack is designed exclusively for use with the Double Drip 10K Prefilled Pod Kit, offering a low-fuss way to replace your pod and extend your vaping time. Each pack includes a 2ml prefilled pod and a 10ml refill bottle of 20mg nicotine salt e-liquid, capable of delivering up to 10,000 puffs per kit with consistent vapour production and flavour. Blueberry Sour Raspberry fuses rich, jammy Blueberry with a sharp twist of tangy Sour Raspberry for a dynamic fruit flavour that delivers a bold sweet-and-sour punch with every puff. To refresh your device, just insert the new pod and refill—no refilling or coil changes needed. It's the cleanest, easiest way to keep your favourite flavour going strong.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1141122",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-10k-blueberry-sour-raspberry-prefilled-vape-pods-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-10k-Blueberry-Sour-Pods.jpg?v=1753719831",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.311Z"
+}

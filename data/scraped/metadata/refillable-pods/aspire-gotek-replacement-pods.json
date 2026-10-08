@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639872528708",
+  "slug": "aspire-gotek-replacement-pods",
+  "title": "Aspire Gotek Replacement Pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/aspire-gotek-replacement-pods",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Gotek-X and Gotek Pro are a truly unique vape kit designed for ease of use, portability and immensely satisfying and flavoursome MTL (mouth-to-lung) vaping with the option to enjoy RDTL (restricted-direct-to-lung) vaping with the aid of an adjustable airflow control. The Aspire Gotek replacement pods can contain 2ml of your favourite e-liquid and can be refilled simply and cleanly using the side-fill port. The pod contains an integrated 0.8ohm AF mesh coil or 0.6ohm AF mesh coil ( Only Compatible with the Gotek Pro Kit ) that delivers exceptional flavour with the Aspire Gotek X’s max power output of 13W. The Aspire Gotek X pods are perfect for use with nic salt , 50/50 and classic High-PG e-liquids. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Aspire Gotek Series Kits",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "0.6ohm Gotek Pro Only"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1119787",
+      "price": 3.49
+    },
+    {
+      "title": "0.6ohm Gotek Pro Only",
+      "sku": "1128600",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-gotek-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-gotek-x-replacement-pod-0.8ohm-2-pack_1_1.jpg?v=1729058170",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-gotek-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-gotek-x-replacement-pod-0.8ohm-2-pack.jpg?v=1729058170",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-gotek-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-gotek-x-replacement-pod-0.8ohm-2-pack_1.jpg?v=1729058170",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.392Z"
+}

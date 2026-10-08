@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639245119812",
+  "slug": "tank-usb-charger-lead-2014-packaging",
+  "title": "Vapouriz Premium Vapouriz USB Charging Lead",
+  "url": "https://www.vapestore.co.uk/products/tank-usb-charger-lead-2014-packaging",
+  "brand": "Vapouriz Premium",
+  "productType": "Battery Charger",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "A USB Charging Lead which is ideal as a replacement lead to charge your Vapouriz Tank. The lead can be used with the majority of Vapouriz products. To use, simply clip with USB to a USB charging point and screw in the Vapouriz Tank Battery and leave to charge. Update: When using this charger the green light on the charger will not turn off when the battery on the device is fully charged, The green light on the device will turn off to indicate that the battery is fully charged and is ready to be disconnected.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "250164",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__tank-usb-charger-lead-2014-packaging__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1415026528_38.jpg?v=1729031298",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

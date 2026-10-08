@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15541192065405",
+  "slug": "nordic-spirit-melon-fresh-nicotine-pouches",
+  "title": "Nordic Spirit Melon Fresh Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-melon-fresh-nicotine-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Melon Fresh Nicotine Pouches deliver a light yet exotic taste of ripe Melon with a delicate sweetness and a clean, refreshing finish. Balanced and fruity, this pouch provides a simple, clear flavour profile that’s both smooth and satisfying. Slim and discreet, each pouch is made from soft, plant-based fibres for a comfortable fit under the lip. The updated moist formulation allows for a softer texture and quicker flavour release, while nicotine is delivered steadily without smoke, vapour, or odour. The redesigned can is slimmer and features a more premium finish for everyday convenience. Available in Regular (6mg) and Strong (9mg) strengths, Nordic Spirit Melon Fresh offers a versatile option for those who prefer bright, fruity flavours. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "6mg to 9mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1148326",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1148330",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-melon-fresh-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Melon-Fresh-Reg-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773743859",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-melon-fresh-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Melon-Fresh-Strong-Nordic-Spirit-Nicotine-Pouches_168030ee-2d88-4d39-8abc-1139feb1bb0d.jpg?v=1773743862",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.900Z"
+}

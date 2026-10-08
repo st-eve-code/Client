@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639785824580",
+  "slug": "uwell-caliburn-ironfist-l-replacement-pods",
+  "title": "Uwell Caliburn & Ironfist L Replacement Pod 2ml - 2Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-ironfist-l-replacement-pods",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Caliburn & Ironfist L pod kit is a lightweight and versatile pod kit that packs serious attitude and performance into its unique matchbox-style, modified SBS (side-by-side) form factor. It is the perfect device for vapers who require a simple, lightweight and convenient vape kit that doesn’t sacrifice on flavour. The refillable Caliburn & Ironfist L pod boasts an ample 2ml e-liquid capacity, ensuring longer vaping sessions without the need for constant refills. The convenient side-filling design makes topping up your e-liquid a breeze. The pod is compatible with replaceable UN2 Meshed-H mesh coils, familiar from the Caliburn G model, that heat up your e-liquid at an accelerated rate for even better flavour. When the coil loses its flavour simply replace the coil, while retaining the pod. For the best results, we recommend pairing the included coils with a nic salt, 50% VG e-liquid or higher PG options. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1124257",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-ironfist-l-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-ironfist-l-pod-2ml-2pk.jpg?v=1729052209",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

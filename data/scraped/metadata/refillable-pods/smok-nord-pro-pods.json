@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639614218564",
+  "slug": "smok-nord-pro-pods",
+  "title": "SMOK Nord Pro Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-nord-pro-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Nord Pro pods are compatible with the Smok Nord Pro pod kit. The iconic Smok Nord has got an upgrade, with the new Nord Pro Pod Kit which offers a multitude of improvements over the classic Nord pod kit to create the ultimate MTL (mouth-to-lung) pod kit. The Nord Pro offers even more customization, with two air inlets affecting the airflow differently depending on which direction you attach the pod. The Smok Nord Pro Pods are to be used in combination with the Smok Nord Pro coils that are simply designed with a push-fit installation that makes changing coils quick and easy. What’s more the Nord Pro introduces more security with the addition of a child lock on the pod. The same iconic ‘duck-bill’ mouthpiece carries over to the Nord Pro kit, and the Nord Pro comes in a variety of colours and styles to suit you. With the Nord Pro comes a brand-new line of Smok Nord Pro pods yet the Nord Pro is compatible with Smok’s original Nord range of coils as well as the new Nord Pro Coils .",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-RP-NRD-PRO-2ML-3P",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-nord-pro-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nord_pro_pod_800x800_b2b40f5b-61bc-4705-8898-574eef4600aa.jpg?v=1729044502",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

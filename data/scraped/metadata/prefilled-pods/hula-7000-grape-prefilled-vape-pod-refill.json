@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522023768445",
+  "slug": "hula-7000-grape-prefilled-vape-pod-refill",
+  "title": "Hula 7000 Grape Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hula-7000-grape-prefilled-vape-pod-refill",
+  "brand": "Hula",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hula 7000 Grape Prefilled pod delivers a rich, fruity flavour with the full sweetness of ripe Grape. Its smooth, rounded profile brings out the deep, jammy notes of the fruit, offering a vape that feels both familiar and satisfying for fans of classic single-fruit flavours. Designed exclusively for the Hula Prefilled Pod System Kit, these replacement pods combine simplicity with performance. Each unit includes a 2ml draw-activated pod that is kept topped up automatically by a built-in 10ml refill reservoir, ensuring you never have to handle messy refills or swap coils. With a total of 12ml of 20mg Nic Salt e-liquid per unit, expect up to 7000 puffs (approx.) supported by dual mesh coil technology. Just insert the pod into your Hula device and enjoy long-lasting flavour consistency with minimal effort. Available in 20 satisfying flavours, these replacement pods are perfect for keeping your vape fresh and flavourful.",
+  "tags": [
+    "2ml + 10ml",
+    "Hula 7000",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1148410",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hula-7000-grape-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Hula-Grape-Pod.jpg?v=1757582664",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.347Z"
+}

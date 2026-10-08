@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639913390404",
+  "slug": "vaporesso-xros-corex-2-mesh-pods",
+  "title": "Vaporesso Xros Series Corex 2.0 Version Replacement 2ml Pods - 4 Pods",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-xros-corex-2-mesh-pods",
+  "brand": "Vaporesso",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Vaporesso XROS Series Corex 2.0 Mesh Pods represent a significant advancement in Vaporesso’s pod technology and are tailored to enhance your vaping experience more than ever. Each pod in this 4-pack is equipped with the latest Corex 2.0 technology, which utilises a refined morph mesh grid that optimises temperature matching. This innovation ensures rapid heating and a burst of flavour, effectively increasing aroma production by 30% and vapour output by 15%. The upgraded cotton within each pod not only enhances flavour delivery but also increases the lifespan of the pod by 30%, making each session more enjoyable and cost-effective. Designed with a top-filling system and integrating SSS Leak-Resistant Technology, these pods simplify the refilling process while preventing leaks, ensuring a clean and hassle-free experience. With a 2ml e-liquid capacity and available in resistances of 0.4, 0.6, 0.8, 1.0, and 1.2 ohms, these pods offer versatility to accommodate both MTL and DTL vaping preferences. Compatible with the Vaporesso XROS Pro, XROS 4, and XROS Mini vape kits, these replacement pods are ideal for vapers seeking to customize their vaping experience with reliable, high-quality components. Pod Details: XROS PRO ONLY: 0.4ohm Corex 2.0 Coil best 30W - We Recommend Using High VG (sub-ohm) E-liquid, nic salt liquids may cause the pod to leak. 0.6ohm Corex 2.0 coil best 21W - We Recommend Using Nic Salt, 50/50, High VG (sub-ohm) E-Liquid 0.8ohm Corex 2.0 coil best 16W - We Recommend Using Nic Salt, 50/50, High VG (sub-ohm) E-Liquid 1.0ohm Corex 2.0 best 12W - We Recommend Using High PG, 50/50 E-Liquid 1.2ohm Corex 2.0 coil best 10W - We Recommend Using High PG, 50/50 E-Liquid Compatible with: Vaporesso Xros Mini , Xros 2 , Xros nano , Xros 3 , Xros 3 mini , Xros 3 Nano , Xros Cube , Xros 4 , Xros 4 Mini , and Xros Pro.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4ohm",
+        "0.6ohm",
+        "0.8ohm",
+        "1.0ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm",
+      "sku": "1132014",
+      "price": 7.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1132016",
+      "price": 7.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1132017",
+      "price": 7.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1132018",
+      "price": 7.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1132019",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-xros-corex-2-mesh-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/xros_series_corex_2.0_pods_4pk.jpg?v=1729060820",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.391Z"
+}

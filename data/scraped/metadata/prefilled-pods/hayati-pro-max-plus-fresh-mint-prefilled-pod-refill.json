@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15649375453565",
+  "slug": "hayati-pro-max-plus-fresh-mint-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Fresh Mint Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-fresh-mint-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Fresh Mint delivers a clean, cool Mint flavour with a lightly sweet undertone for a crisp, refreshing vape. It’s bright and cooling without harshness, ideal for those who enjoy a smooth, minty inhale and exhale. Each Hayati Pro Max + Prefilled Pod is supplied as a 2ml prefilled pod attached to a 10ml refill reservoir, giving 12ml total of 20mg Nic Salt e-liquid. No refilling or coil changes required—just connect to the Hayati Pro Max + Prefilled Pod Kit and vape. The dual mesh coil ensures steady vapour output and clean flavour for up to 6000 puffs (approx.). Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149099",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-fresh-mint-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fresh-Mint_Hayati-Pro-Max_-Pods-min.jpg?v=1762248510",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.363Z"
+}

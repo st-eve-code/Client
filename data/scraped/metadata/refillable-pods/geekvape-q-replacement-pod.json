@@ -1,0 +1,90 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639783235908",
+  "slug": "geekvape-q-replacement-pod",
+  "title": "Geekvape Q Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/geekvape-q-replacement-pod",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Geek Vape Sonder Q vape kit is a sleek and sophisticated yet simple to use and highly portable vape device that’s ideal for beginners, or any vaper who just wants a discreet, convenient and stylish pod kit to carry with them. The Top-Filling Geekvape Q refillable 2ml pods incorporate your choice of fixed 0.6ohm, 0.8ohm or 1.2ohm coils, and the newer, side-filling 0.4ohm pod - ideal for RDL vaping - all allow for a wide range of vaping styles. When your pod loses its flavour, you simply replace it with a new refillable Q pod. The 2ml pod features a leak-resistant silicone seal on the side for easy refills, and is best used with nic salt , 50/50 and classic High-PG e-liquids. Compatible with Geek Vape Sonder Q and Geekvape Wenax Q Pod Kit Pod Details: 0.4ohm Side-Fill pods use High VG (Sub-Ohm) E-Liquid Only 0.6ohm Top-Fill pods use Nic Salts or 50/50 E-Liquids 0.8ohm Top-Fill pods use 50/50, Nic Salts E-Liquids 1.2ohm Top-Fill pods use 50/50 or High PG E-Liquids Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Geekvape Sonder Series",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4ohm Side-Fill",
+        "0.6ohm Top-Fill",
+        "0.8ohm Top-Fill",
+        "1.2ohm Top-Fill"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm Side-Fill",
+      "sku": "1136393",
+      "price": 5.99
+    },
+    {
+      "title": "0.6ohm Top-Fill",
+      "sku": "1123744",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm Top-Fill",
+      "sku": "1123742",
+      "price": 5.99
+    },
+    {
+      "title": "1.2ohm Top-Fill",
+      "sku": "1123743",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-q-replacement-pod__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/3f3abe86-3d1f-4d1a-ac65-4182d889dc80.png?v=1739186274",
+      "position": 1,
+      "width": 540,
+      "height": 540,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-q-replacement-pod__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-q-replacement-pods-3pk.jpg?v=1739186274",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-q-replacement-pod__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-q-replacement-pods-3pk_1.jpg?v=1739186274",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-q-replacement-pod__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-q-replacement-pods-3pk_1_1.jpg?v=1739186274",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.392Z"
+}

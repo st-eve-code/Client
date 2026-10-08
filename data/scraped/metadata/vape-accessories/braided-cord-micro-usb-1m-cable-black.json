@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639614382404",
+  "slug": "braided-cord-micro-usb-1m-cable-black",
+  "title": "Braided Cord Micro USB Cable 1M - Black",
+  "url": "https://www.vapestore.co.uk/products/braided-cord-micro-usb-1m-cable-black",
+  "brand": "Vapestore",
+  "productType": "Accessories",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Connect your vape devices with this Braided Micro USB to USB Cable 1M in black.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "RM-CA-URB-BC-MUSB-1M-BLK",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__braided-cord-micro-usb-1m-cable-black__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uz-muu-1-bk_001-jpg.jpg?v=1729044514",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

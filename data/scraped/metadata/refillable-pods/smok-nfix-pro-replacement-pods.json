@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639638106436",
+  "slug": "smok-nfix-pro-replacement-pods",
+  "title": "SMOK NFix Pro Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-nfix-pro-replacement-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The NFix Pro pod kit from Smok is better than ever and is ideal for all vapers after the perfect fusion of portability, power and simplicity. The Smok NFix Pro refillable 2ml pods are compatible with Smok’s hugely popular LP1 coils , and together they produce an MTL (mouth-to-lung) style vape that has immaculate flavour and rich, yet discreet, cloud production – ideal for use with Nic Salt , 50/50 and classic High-PG E-Liquids. Features Refillable pod E-liquid Capacity: 2ml Compatible with Smok LP1 MTL Coils For use with Smok NFix Pro pod kit What’s in the Box? 3 x replacement 2ml Pods for Smok NFix Pro pod",
+  "tags": [
+    "compatible-with-1114675-nfix-pro",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1114684",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-nfix-pro-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-nfix-pro-pods-x3.jpg?v=1729045525",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

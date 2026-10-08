@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639760298308",
+  "slug": "voopoo-vinci-3-replacement-pods-2ml",
+  "title": "VooPoo Vinci 3 Replacement Pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/voopoo-vinci-3-replacement-pods-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Vinci 3 is the latest addition to the legendary Vinci family of Pod Mod Kits. With a powerful 1800mAh internal battery , 5-50W power output , and compatibility with Voopoo's entire PnP coil range, this device is perfect for experienced vapers and beginners alike. These replacement 2ml refillable pods are designed so that you can top up with e-liquid without having to remove it from the device thanks to its simple top-filling design. The pods attach to the Vinci 3 mod with the aid of strong magnets. The Voopoo Vinci 3 is compatible with all of Voopoo’s PnP series coils, offering you nearly endless vaping possibilities with a wide choice of resistances. Please note: To improve the performance and longevity of your new Coils, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "CC DC List",
+    "compatible-with-1122266",
+    "Delisted",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1122270",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-vinci-3-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-3-empty-pod-2ml.jpg?v=1729050222",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

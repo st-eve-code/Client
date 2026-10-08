@@ -1,0 +1,59 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15689215639933",
+  "slug": "voopoo-argus-snap-replacement-pods-2ml",
+  "title": "VooPoo Argus Snap Replacement Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-argus-snap-replacement-pods-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The VooPoo Argus Snap Cartridges represent the latest innovation in the Argus Pod system, providing a superior blend of performance, ease of use, and flavour consistency. Designed to be fully compatible with the Argus P3 and the wider Argus device family, these pods hold a 2ml e-liquid capacity and feature an integrated mesh coil build. A major feature of these V2 pods is the top-fill system, allowing for quick and clean refills without removing the pod from the device. This design, combined with VooPoo’s Liquid-Seal Shield, significantly enhances leak resistance and keeps the pod cleaner over time. The integrated mesh coil utilises iCOSM CODE 2.0 technology, engineered to optimise flavour delivery and extend coil lifespan, offering consistent performance for up to 100ml of e-liquid (manufacturer claim). Each pack contains three replacement pods, ensuring you have reliable spares to maintain your Argus kit's peak flavour and performance. These pods are Compatible with VooPoo Argus Series Kits Pod Details DTL 0.4ohm ARGUS Snap Pod 18W - 30W, We recommend using High VG ( Sub-Ohm) E-liquid Only MTL 0.7ohm ARGUS Snap Pod 14W - 18W, We recommend using 50/50 , Nic Salt E-Liquid MTL 1.0ohm Argus Snap Pod 10W - 14W, We recommend using 50/50 , Nic Salt or High PG E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "1.0ohm",
+        "0.7ohm",
+        "0.4 ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.0ohm",
+      "sku": "1149839",
+      "price": 6.99
+    },
+    {
+      "title": "0.7ohm",
+      "sku": "1149840",
+      "price": 6.99
+    },
+    {
+      "title": "0.4 ohm",
+      "sku": "1149841",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-argus-snap-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ARGUS-Snap-Cartridge-3-pack.jpg?v=1764669854",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

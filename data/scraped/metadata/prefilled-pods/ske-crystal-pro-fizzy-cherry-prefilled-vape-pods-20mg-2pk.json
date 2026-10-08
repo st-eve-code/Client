@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15024794534269",
+  "slug": "ske-crystal-pro-fizzy-cherry-prefilled-vape-pods-20mg-2pk",
+  "title": "SKE Crystal Pro Fizzy Cherry  Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-pro-fizzy-cherry-prefilled-vape-pods-20mg-2pk",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: These pods are not compatible with the SKE BAR device. Designed for use with the SKE Crystal Pro 600 Prefilled Pod Kit, these SKE Crystal Pro 600 Prefilled Pods provide a convenient way to enjoy signature flavours without the waste and expense of disposable vapes. Each prefilled pod delivers up to 600 puffs, depending on individual usage, and contains 2ml of 20mg nic salt e-liquid, ensuring a smooth and satisfying mouth-to-lung (MTL) vape with rapid nicotine relief. Fizzy Cherry captures the sweet and tangy flavour of ripe cherries, lifted by an effervescent fizz that adds a playful, sherbet-like twist. A bright and lively vape, this flavour delivers a nostalgic confectionery-inspired taste with a crisp, refreshing exhale. Swapping pods is effortless—simply remove the empty pod and click a fresh one into place. Whether you’re looking for an easy-to-use alternative to disposables or a reliable way to continue enjoying your favourite SKE Crystal Pro 600 flavours, these prefilled pods provide a mess-free and flavour-packed solution.",
+  "tags": [
+    "2 x 2ml",
+    "Crystal Pro",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138963",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-pro-fizzy-cherry-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-Crystal-Pro-Prefilled-pods-Fizzy-Cherry.jpg?v=1739968248",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.321Z"
+}

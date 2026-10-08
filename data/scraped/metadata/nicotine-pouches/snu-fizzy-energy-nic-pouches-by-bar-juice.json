@@ -1,0 +1,90 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15971305030013",
+  "slug": "snu-fizzy-energy-nic-pouches-by-bar-juice",
+  "title": "SNU Fizzy Energy Nic Pouches by Bar Juice",
+  "url": "https://www.vapestore.co.uk/products/snu-fizzy-energy-nic-pouches-by-bar-juice",
+  "brand": "SNU",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "SNU Fizzy Energy Nicotine Pouches deliver an intense and highly refreshing nicotine experience that is perfect for those seeking a dynamic, tobacco-free alternative. Created by Bar Juice 5000, known for their high-quality e-liquids, SNU brings premium nicotine quality with a nod to Swedish smokeless tobacco tradition. The Fizzy Energy flavour is light, juicy, and perfect for those who enjoy a refreshing twist, available in four nicotine strengths: 9mg, 12mg, 18mg, and an extra-strong 45mg, to match your preferred level. The Fizzy Energy flavour captures the unmistakable, tangy taste of a classic fruit-flavoured sports drink. It provides a sharp, sweet profile with a sparkling edge that tingles on the tastebuds, ensuring a consistently vibrant and lively taste from start to finish. Each pouch is soft, slim, and designed for discreet placement under the lip, ensuring a steady nicotine release without smoke, vapour, or odour. Ideal for any environment, SNU Fizzy Energy offers a clean, mess-free solution for nicotine enjoyment. The \"scented can\" allows you to rub the lid to release a hint of the vibrant fruit-flavoured sports drink aroma, giving a preview of the refreshing flavour within. SNU combines the heritage of Swedish pouch design with a tobacco-free formula, making Fizzy Energy a modern and convenient option for users. Nicotine Ranges: Low - 9mg this is best suited for new users Medium - 12mg this is suited for more experienced users High - 18mg this is suited for more experienced users Extra Strong - 45mg this is suited for more experienced users ONLY How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "12mg to 18mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "12mg / Pouch",
+        "18mg / Pouch",
+        "45mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1158516",
+      "price": 3.99
+    },
+    {
+      "title": "12mg / Pouch",
+      "sku": "1158520",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / Pouch",
+      "sku": "1158522",
+      "price": 3.99
+    },
+    {
+      "title": "45mg / Pouch",
+      "sku": "1158523",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__snu-fizzy-energy-nic-pouches-by-bar-juice__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SNU-FIZZY-ENERGY-9mg-Nicotine-Pouch.jpg?v=1784817935",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-fizzy-energy-nic-pouches-by-bar-juice__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SNU-FIZZY-ENERGY-12mg-Nicotine-Pouch.jpg?v=1784817968",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-fizzy-energy-nic-pouches-by-bar-juice__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SNU-FIZZY-ENERGY-18mg-Nicotine-Pouch.jpg?v=1784818049",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-fizzy-energy-nic-pouches-by-bar-juice__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SNU-FIZZY-ENERGY-60mg-Nicotine-Pouch.jpg?v=1784818204",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.899Z"
+}

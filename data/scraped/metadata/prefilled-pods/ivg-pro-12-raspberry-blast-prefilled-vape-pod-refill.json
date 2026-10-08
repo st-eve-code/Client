@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15769562907005",
+  "slug": "ivg-pro-12-raspberry-blast-prefilled-vape-pod-refill",
+  "title": "IVG Pro 12 Raspberry Blast Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-pro-12-raspberry-blast-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Raspberry Blast captures the intense essence of summer berries in a vibrant and punchy profile. The flavour focuses on the sharp, tangy zing of fresh Raspberry, delivering a mouth-watering burst of fruitiness on the inhale. It offers a lively and dynamic vaping experience that balances natural sweetness with a satisfyingly tart edge. Each refill pack includes a 2ml pod prefilled with 20mg nicotine salt e-liquid, plus a separate 10ml refill reservoir that connects easily to the pod. Once assembled, the refill system automatically tops up the pod as you vape — no refilling, no coil changes, and up to 12,000 puffs per kit depending on usage. Mesh coil technology ensures smooth MTL vapour and consistent flavour, while the click-fit design makes setup simple and spill-free. Designed exclusively for use with the IVG Pro 12 Prefilled Pod Vape Kit. Try all flavours with our full IVG Pro 12 pods range . How To Setup IVG Pro 12 Pod + Refill: Step 1 Remove the prefilled pod and refill container from the packaging. Step 2 Remove any safety stickers from the components. Step 3 Insert the pod securely into the device. Step 4 Attach the refill container to the side of the device. Step 5 Turn the device upside down to transfer e-liquid from the refill container to the pod. Step 6 Allow a few minutes for the coil to saturate before vaping. ✅ You're all set!",
+  "tags": [
+    "2ml + 10ml",
+    "IVG Pro 12 Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143667",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-pro-12-raspberry-blast-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-Pro-12---Refill-Box-Raspberry-Blast.jpg?v=1768917091",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.315Z"
+}

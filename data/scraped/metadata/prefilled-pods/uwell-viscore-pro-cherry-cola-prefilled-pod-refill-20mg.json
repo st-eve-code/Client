@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15505610080637",
+  "slug": "uwell-viscore-pro-cherry-cola-prefilled-pod-refill-20mg",
+  "title": "Uwell Viscore Pro+ Cherry Cola Prefilled Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-pro-cherry-cola-prefilled-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Cherry Cola Uwell Viscore Pro+ Prefilled Pod captures the unmistakable taste of a classic soda. Sweet, tangy Cherry blends with fizzy Cola notes for a lively flavour that’s instantly recognisable and easy to enjoy all day. Each pack contains one 2ml Prefilled Pod preloaded with 20mg nicotine salt e-liquid and one 10ml Refill Pod that automatically tops up the pod as you vape. Together, they provide long-lasting use with up to 20,000 puffs depending on your style. Fitted with a 0.8ohm mesh coil, the pod ensures smooth vapour and clear, consistent flavour throughout. Designed exclusively for the Uwell Viscore Pro+ Prefilled Pod Kit, installation is quick and mess-free: simply click the pod and refill into place and you’re ready to go.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148045",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-pro-cherry-cola-prefilled-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Cola-Viscore-Pro-_-Prefilled-pods.jpg?v=1756991121",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.369Z"
+}

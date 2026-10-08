@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15334672302461",
+  "slug": "elfbar-dual-10k-lemon-edition-prefilled-pod-refill",
+  "title": "Elf Bar Dual 10K Lemon Edition Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/elfbar-dual-10k-lemon-edition-prefilled-pod-refill",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon Edition Pre Filled Pods for the Elf Bar Dual 10K are packed with tart citrus punch. One pod blends sharp Lemon with tangy Lime for a clean, zesty vape, while the other brings Sour Pineapple Lemonade - a tropical blend with a fizzy citrus twist. Backed by the Dual 10K auto-refill system, both pods stay topped up with no mess or hassle. This edition is a top pick for fans of sour, citrus-forward vapes with a tropical slant. How to Use: 1. Remove the Sticker and Read the Instructions 2. Remove the Silicone Parts and the Bottom Sticker 3. Press both containers securely into place 4. Install the pod into the Dual 10K device to use",
+  "tags": [
+    "2 x 2ml",
+    "Elfbar Dual 10k",
+    "Lemon and Lime",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1142793",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-dual-10k-lemon-edition-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-Edition-Edition-Elf-Bar-Dual-10K-Prefilled-pods.jpg?v=1751272978",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.364Z"
+}

@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639653245252",
+  "slug": "geekvape-aegis-boost-2-replacement-pod-2ml",
+  "title": "Geekvape Aegis Boost 2 Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/geekvape-aegis-boost-2-replacement-pod-2ml",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "This convenient replacement pod is designed for use with the Aegis Boost 2 Pod Mod kit, providing up to 2ml of capacity for your e-liquid of choice. The innovative pod employs ultrasonic technology to ensure a leak free seal and eliminate condensation and snaps firmly into place with strong magnets.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1116018",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-aegis-boost-2-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-aegis-boost-2-pods.jpg?v=1729046221",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

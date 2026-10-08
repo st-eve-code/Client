@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "15500286001533",
+  "slug": "vaporesso-xtank-t-replacement-glass-2ml",
+  "title": "Vaporesso XTank T Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-xtank-t-replacement-glass-2ml",
+  "brand": "Vaporesso",
+  "productType": "Accessories",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "This official 2ml replacement glass is designed specifically for the Vaporesso XTank T tank. It restores your tank’s capacity and is a straightforward swap if the original glass becomes cracked or damaged. The precise fit helps maintain the tank’s leak-resistant structure when installed with the correct seals. For best results, power off your device, remove the tank from the mod and ensure the O-rings are in good condition before fitting the new glass. Re-seat the seals carefully and check for a snug fit before refilling.",
+  "tags": [
+    "compatible-with-1144708",
+    "compatible-with-1144709",
+    "compatible-with-1144710",
+    "Freedojokit",
+    "Freedojopod"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144711",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-xtank-t-replacement-glass-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/3ml-Vaporesso-XTank-T-Replacement-glass.jpg?v=1756731484",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

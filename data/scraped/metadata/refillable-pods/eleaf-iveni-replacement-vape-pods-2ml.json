@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15236448584061",
+  "slug": "eleaf-iveni-replacement-vape-pods-2ml",
+  "title": "Eleaf iVeni Replacement Vape Pods - 2ml",
+  "url": "https://www.vapestore.co.uk/products/eleaf-iveni-replacement-vape-pods-2ml",
+  "brand": "Eleaf",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Eleaf iVeni Replacement Pods are designed for use with the Eleaf iVeni Pod Vape Kit and provide a simple, reliable way to refresh your device. Each pod has a 2ml e-liquid capacity and is fitted with an integrated mesh coil for improved flavour and vapour production. These refillable pods feature a convenient side-fill design, allowing you to top up with e-liquid quickly and easily without removing the pod from your device. The integrated coil means no messy coil changes—just replace the pod when performance begins to drop. Eleaf iVeni Pods are available in three resistances to suit your preferred vaping style and e-liquid type: • 0.4ohm – Suitable for a looser, RDL-style vape with high-VG e-liquids • 0.6ohm – Balanced option for RDL or looser MTL vaping • 0.8ohm – Best for a tighter, MTL-style vape with Nic Salts or 50/50 e-liquid Whether you’re after a warm, airy vape or a more focused draw, these mesh coil pods make it easy to tailor your experience to match. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4ohm",
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm",
+      "sku": "1142086",
+      "price": 4.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1142087",
+      "price": 4.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1142088",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__eleaf-iveni-replacement-vape-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-iveni-04ohm-pod-x2.jpg?v=1747749885",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-iveni-replacement-vape-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-iveni-06ohm-pod-x2.jpg?v=1747749887",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__eleaf-iveni-replacement-vape-pods-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-iveni-08ohm-pod-x2.jpg?v=1747749890",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

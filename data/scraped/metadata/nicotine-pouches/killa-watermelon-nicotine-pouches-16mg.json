@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "9640054292804",
+  "slug": "killa-watermelon-nicotine-pouches-16mg",
+  "title": "Killa Watermelon Nic Pouches - 13.2mg / pouch",
+  "url": "https://www.vapestore.co.uk/products/killa-watermelon-nicotine-pouches-16mg",
+  "brand": "Killa",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Killa Watermelon Nicotine Pouches deliver the sweet and refreshing taste of watermelon, providing a vibrant nicotine experience. Each pouch contains 13.2mg of nicotine, making it a balanced choice for adult users who prefer a satisfying and steady nicotine release. The Watermelon flavour offers a juicy and fruity taste, delivering a smooth, long-lasting experience. These pouches are entirely tobacco-free, offering a clean and convenient alternative to traditional nicotine products. The discreet design of Killa Watermelon pouches makes them ideal for use in various settings, whether you're on the move, at work, or in a social environment where traditional nicotine use isn’t feasible. Killa Nicotine Pouches are crafted with a focus on consistency and quality, ensuring a reliable nicotine experience. Simply place a pouch between your upper lip and gum, and enjoy a steady release of nicotine for up to 30 minutes. With 20 pouches per pack, Killa Watermelon offers a practical and refreshing option for those who enjoy a fruity twist while relieving nicotine cravings. How to Use: 1 Place a pouch between your upper lip and gum for a steady nicotine release for up to 30min. 2 Place the used nicotine pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "13mg",
+    "nordicminiofferfruit",
+    "prime-1020",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1135475",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__killa-watermelon-nicotine-pouches-16mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/killa-nicotine-pouch-watermelon.jpg?v=1751294053",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.916Z"
+}

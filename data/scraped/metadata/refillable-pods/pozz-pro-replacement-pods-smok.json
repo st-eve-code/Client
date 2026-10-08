@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639618969924",
+  "slug": "pozz-pro-replacement-pods-smok",
+  "title": "SMOK Pozz Pro Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/pozz-pro-replacement-pods-smok",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The new Smok Pozz Pro is a stylish, simple to use, yet surprisingly versatile pod kit. The refillable pods feature a comfortable mouthpiece and can hold 2ml of your favourite e-liquid, using the convenient side port to top up your pod. We recommend using 50/50 , high-PG or nicotine salt e-liquids with the Smok Pozz Pro. The Smok Pozz Pro uses Smok’s LP1 coils [not included], which feature a mesh build for improved longevity and immaculate flavour.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-RP-PZ-PRO-2ML-3P",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pozz-pro-replacement-pods-smok__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pozz_pro_pods.png?v=1729044743",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15917543817597",
+  "slug": "vaporesso-dojo-blast-pod-refill-for-10k-or-30k-device-vimberry",
+  "title": "Vaporesso DOJO Blast Pod & Refill For 10K or 30K Device – Vimberry",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-dojo-blast-pod-refill-for-10k-or-30k-device-vimberry",
+  "brand": "Vaporesso",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: Compatible with Vaporesso Dojo Blast 10K & 30K Kit Only Refresh your Vaporesso Dojo Blast 10K vape kit with the Vimberry Prefilled Pod & Refill Pack. This convenient replacement pack includes a 2ml prefilled pod and an 8ml refill container, both filled with 20mg nicotine salt e-liquid in a rich, dark berry beverage blend. Vimberry expertly blends the deep, tart notes of Blackcurrant with the sweet, bright tang of fresh Raspberry, all set against a rich Cordial base. This complex and fruity profile provides a highly authentic, nostalgic taste with a deeply satisfying finish. Each pod and refill pack is designed for the Dojo Blast 10K device, while also being fully compatible with the Vaporesso Dojo Blast 30K prefilled pod kit. Offering up to 10,000 puffs* per pack, it is powered by Vaporesso's dual mesh coil and COREX 2.0 technology. The transparent pod design makes it easy to track your e-liquid levels, while the Smart Liq-Cycle system ensures steady coil saturation for consistently excellent flavour. *Puff count is an estimate and depends on the length of draw on each use. Explore all 22 flavours from the Vaporesso Dojo Blast collection here at Vapestore.",
+  "tags": [
+    "2ml + 8ml",
+    "Freedojokit",
+    "Freedojopod",
+    "offer-vaporesso-20",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1155422",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-dojo-blast-pod-refill-for-10k-or-30k-device-vimberry__001.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/dojo-blast-10k-vimberry-pod.webp?v=1780579295",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.302Z"
+}

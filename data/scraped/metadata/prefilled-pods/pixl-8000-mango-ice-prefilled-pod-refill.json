@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342817739133",
+  "slug": "pixl-8000-mango-ice-prefilled-pod-refill",
+  "title": "PIXL 8000 Mango Ice Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-mango-ice-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Mango Ice from PIXL 8000 blends lush, juicy Mango with a streak of cool Menthol for a fruity vape with a refreshing finish. It’s tropical, sweet, and satisfyingly brisk. This pod contains 2ml of 20mg nicotine salt e-liquid and is supplied with a 10ml refill reservoir. Used with the PIXL 8000 Prefilled Pod Vape Kit, this setup provides up to 8000 puffs. Mesh coil technology supports smooth, flavourful vapour throughout. Designed for MTL vaping with draw activation and Boost Mode compatibility, Mango Ice is an ideal choice for fans of fruity vapes with a cool exhale.",
+  "tags": [
+    "2ml + 10ml",
+    "Mango",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143499",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-mango-ice-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-mango-ice-800x800.jpg?v=1751546887",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.331Z"
+}

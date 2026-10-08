@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15024719069565",
+  "slug": "ske-crystal-pro-cola-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "SKE Crystal Pro Cola Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-pro-cola-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: These pods are not compatible with the SKE BAR device. Designed for use with the SKE Crystal Pro 600 Prefilled Pod Kit, these SKE Crystal Pro 600 Prefilled Pods offer a hassle-free way to enjoy the brand’s signature flavours in a more sustainable format. Each prefilled pod delivers up to 600 puffs, depending on individual usage, and contains 2ml of 20mg nic salt e-liquid, ensuring a smooth, flavourful mouth-to-lung (MTL) draw with rapid nicotine absorption. Cola Ice recreates the unmistakable taste of classic cola, blending deep caramelised sweetness with hints of citrus and spice for an authentic flavour. A crisp cooling exhale enhances the profile, delivering a refreshingly fizzy sensation that lingers with every puff. Swapping pods is effortless—simply remove the empty pod and replace it with a fresh one. Whether you're looking for an alternative to disposables or a convenient way to continue enjoying your favourite SKE Crystal Pro 600 flavours, these prefilled pods provide an easy and mess-free vaping experience.",
+  "tags": [
+    "2 x 2ml",
+    "Crystal Pro",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138962",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-pro-cola-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-Crystal-Pro-Prefilled-pods-Cola-Ice.jpg?v=1739966183",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.295Z"
+}

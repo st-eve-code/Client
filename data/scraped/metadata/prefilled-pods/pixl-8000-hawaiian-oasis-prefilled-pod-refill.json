@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342802731389",
+  "slug": "pixl-8000-hawaiian-oasis-prefilled-pod-refill",
+  "title": "PIXL 8000 Hawaiian Oasis Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-hawaiian-oasis-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Hawaiian Oasis is a vibrant tropical blend of sweet Mango, tangy Passionfruit, juicy Pineapple and a streak of cool Menthol. This flavour brings sunshine to every puff with its bright, fruit-packed character. The pod comes prefilled with 2ml of 20mg nicotine salt e-liquid and is paired with a 10ml refill reservoir. When used with the PIXL 8000 Prefilled Pod Vape Kit, this setup supports up to 8000 puffs with consistent vapour output via mesh coil technology. Designed for MTL vaping, the pod is draw-activated and simple to use. Boost Mode can be activated for increased vapour production. Hawaiian Oasis is a standout tropical option in the PIXL 8000 range.",
+  "tags": [
+    "2ml + 10ml",
+    "Mango",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143504",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-hawaiian-oasis-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-hawaiian-oasis-800x800.jpg?v=1751546951",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.336Z"
+}

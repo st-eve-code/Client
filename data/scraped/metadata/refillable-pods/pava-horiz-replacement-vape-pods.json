@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14975263932797",
+  "slug": "pava-horiz-replacement-vape-pods",
+  "title": "Pava Horiz Replacement Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/pava-horiz-replacement-vape-pods",
+  "brand": "Pava",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The PAVA Horiz Replacement Pods are precision-engineered for use with the stunning PAVA Horiz Pod Kit, offering an exceptional vaping experience for MTL (mouth-to-lung) and RDL (restricted direct-to-lung) styles. With a convenient 2ml e-liquid capacity and a leak-resistant side-fill design, these pods ensure effortless and mess-free refills. Each pod offers a 2ml e-liquid capacity and is equipped with pre-installed mesh coils for optimised flavour and vapour production. Available in resistances of 0.6ohm and 0.8ohm, these pods cater to a variety of vaping preferences. The 0.6ohm pods are ideal for a smooth, flavourful RDL experience with moderate vapour production, while the 0.8ohm pods deliver a tighter MTL draw with crisp, clean flavour and a satisfying throat hit. Built with premium PCTG materials, these pods are durable, lightweight, and heat-resistant, maintaining exceptional e-liquid quality and taste. Each pack includes three replacement pods, ensuring you always have spares to keep your PAVA Horiz Ultra performing at its best. We Recommend using Nic Salts or 50/50 E-Liquids with these pods. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1138781",
+      "price": 7.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1138782",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pava-horiz-replacement-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pava-horiz-ultra-0-6-Pods-3pk.jpg?v=1738227592",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__pava-horiz-replacement-vape-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pava-horiz-ultra-0-8-Pods-3pk.jpg?v=1738227630",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

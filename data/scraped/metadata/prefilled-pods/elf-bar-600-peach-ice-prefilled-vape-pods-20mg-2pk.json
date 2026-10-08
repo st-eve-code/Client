@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15492506943869",
+  "slug": "elf-bar-600-peach-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "Elf Bar 600 Peach Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-600-peach-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Elf Bar 600 Peach Ice Prefilled Pods bring a refreshing fruit-and-ice blend to the Elf Bar 600 Prefilled Pod Kit. Each pod contains 2ml of 20mg nicotine salt e-liquid and provides up to 600 puffs, with a smooth MTL vaping experience. The flavour layers juicy, sweet Peach with an icy breeze on the exhale, offering a bright and cooling vape that remains satisfying throughout. Pods are quick to swap—simply click in a fresh one when empty for hassle-free vaping.",
+  "tags": [
+    "2 x 2ml",
+    "Elfbar 600",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143162",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-600-peach-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Peach-Ice-Elf-Bar-600-Prefilled-pods.jpg?v=1756378260",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.372Z"
+}

@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522463187325",
+  "slug": "hula-7000-watermelon-peach-mango-prefilled-vape-pod-refill",
+  "title": "Hula 7000 Watermelon Peach Mango Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hula-7000-watermelon-peach-mango-prefilled-vape-pod-refill",
+  "brand": "Hula",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hula 7000 Watermelon Peach Mango Prefilled pod brings three sun-soaked fruits into harmony. Fresh, delicately sweet Watermelon meets soft, juicy Peach and the tropical depth of ripe Mango, creating a smooth, tropical fruit profile that feels bright yet rounded. These replacement pods are made for the Hula Prefilled Pod System Kit, offering an easy, mess-free way to explore new flavours. Each unit contains a 2ml draw-activated pod, automatically replenished by the 10ml refill reservoir, for a total of 12ml of 20mg Nic Salt e-liquid. Delivering up to 7000 puffs (approx.), the pod’s dual mesh coil technology keeps flavour consistent and vapour satisfying. Insert into your Hula device and enjoy a layered tropical blend with minimal effort.",
+  "tags": [
+    "2ml + 10ml",
+    "Hula 7000",
+    "Mango",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1148417",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hula-7000-watermelon-peach-mango-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Hula-WatermelonPeachMango-Pod.jpg?v=1757590898",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.346Z"
+}

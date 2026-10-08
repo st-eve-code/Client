@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639872495940",
+  "slug": "aspire-veynom-replacement-pod-2ml",
+  "title": "Aspire Veynom Replacement Empty Pod",
+  "url": "https://www.vapestore.co.uk/products/aspire-veynom-replacement-pod-2ml",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 1.25,
+    "max": 1.25,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Veynom Replacement Pods are designed to complement your Aspire Veynom EX or LX Kit. Each pod boasts a 2ml e-liquid capacity, ensuring you enjoy extensive vaping sessions with less frequent refills. Crafted from durable PCTG material, these pods are resilient and long-lasting. Featuring a convenient threaded top-fill system, refilling these pods is hassle-free and mess-free. Simply unscrew the top cap to access the filling port, add your favourite e-liquid, and you're ready to resume vaping with minimal downtime. These replacement pods are compatible with the acclaimed BP Mesh Coils , known for their exceptional flavour production and cloud creation. The press-fit coil installation makes swapping coils straightforward and efficient, ensuring a fresh and optimal vaping experience every time. The magnetic pod connection ensures a secure and stable attachment to your Veynom device, enhancing both safety and ease of use. Whether you're at home or on the go, these replacement pods are an indispensable accessory for any Aspire Veynom user.",
+  "tags": [
+    "CC DC List",
+    "MTL/DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128485",
+      "price": 1.25
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-veynom-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-veynom-empty-pod-2ml.jpg?v=1729058166",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

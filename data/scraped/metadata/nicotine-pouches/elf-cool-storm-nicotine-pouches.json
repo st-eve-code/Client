@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15322510918013",
+  "slug": "elf-cool-storm-nicotine-pouches",
+  "title": "ELF Cool Storm Nicotine pouches",
+  "url": "https://www.vapestore.co.uk/products/elf-cool-storm-nicotine-pouches",
+  "brand": "Elf Bar",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "ELF Cool Storm Nicotine Pouches offer a smoother take on the classic mint profile. Delivering a gently cooling mint flavour with a fresh, slightly sweet finish, these pouches are ideal for users who prefer a more mellow but still refreshing pouch experience. Tobacco-free and discreet, Cool Storm pouches sit comfortably under the upper lip and steadily release nicotine for up to 45 minutes. With no smoke, vapour, or lingering odour, they’re well suited to use at work, while travelling, or in any setting where discretion is key. Each can contains 20 slim pouches and includes a catch lid for storing used pouches. Choose from 6mg, 12mg or 20mg strengths depending on your preferred level of nicotine satisfaction. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg/pouch",
+        "12mg/pouch",
+        "20mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg/pouch",
+      "sku": "1142917",
+      "price": 3.99
+    },
+    {
+      "title": "12mg/pouch",
+      "sku": "1142924",
+      "price": 3.99
+    },
+    {
+      "title": "20mg/pouch",
+      "sku": "1142930",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-cool-storm-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cool-Storm-_-6mg-Elf-Nicotine-Pouch.jpg?v=1750775450",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-cool-storm-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cool-Storm-_-12mg-Elf-Nicotine-Pouch.jpg?v=1750775473",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-cool-storm-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cool-Storm-_-20mg-Elf-Nicotine-Pouch.jpg?v=1750775506",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.921Z"
+}

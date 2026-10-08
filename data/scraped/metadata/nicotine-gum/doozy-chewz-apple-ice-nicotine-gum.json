@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-gum",
+  "id": "14941647077757",
+  "slug": "doozy-chewz-apple-ice-nicotine-gum",
+  "title": "Doozy Chewz Apple Ice Nicotine Gum",
+  "url": "https://www.vapestore.co.uk/products/doozy-chewz-apple-ice-nicotine-gum",
+  "brand": "Doozy Vape Co",
+  "productType": "Nicotine Gum",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Doozy Chewz Apple Ice Nicotine Gum features the tangy bite of Green Apple with a subtle cooling edge. The profile is fruity and refreshing, making it a distinctive option for users who enjoy sharper flavours. With 6mg of nicotine per piece, the gum provides a gradual release that helps maintain steady satisfaction. It’s a clean and discreet way to enjoy nicotine at any time of day. Start by chewing a piece gently to release the flavour and nicotine. Chew intermittently to prolong the experience, and discard once the gum becomes tasteless. 1 pc - 2mg 2 pc - 4mg 3 pc - 6mg 4 pc - 8mg How to Use: Nicotine Gum To use Doozy Chewz Nicotine Gum, chew a piece slowly until you feel a tingling sensation. Once the tingling starts, “park” the gum between your cheek and gum to allow the nicotine to absorb effectively. Alternate between chewing and parking until the tingling subsides, typically within 30 minutes. For best results, avoid chewing continuously. Do not exceed the recommended maximum of 20 pieces (40mg) per day. Dispose of used gum responsibly.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137230",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-chewz-apple-ice-nicotine-gum__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Doozy-Chewz-nicotine-gum-Apple-Ice.jpg?v=1736865386",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:13.455Z"
+}

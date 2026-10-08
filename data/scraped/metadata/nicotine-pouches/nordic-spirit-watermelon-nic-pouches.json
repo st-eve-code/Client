@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15241651388797",
+  "slug": "nordic-spirit-watermelon-nic-pouches",
+  "title": "Nordic Spirit Watermelon Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-watermelon-nic-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Watermelon Nicotine Pouches deliver a fresh, subtly sweet Watermelon flavour with a clean, delicate taste. Light and fruity without being overly sweet, this flavour offers a refreshing twist that is easy to enjoy throughout the day. Each pouch is made from soft plant-based fibres and fits discreetly under the lip, providing a slow, consistent release of nicotine with no smoke, vapour or odour. Available in Regular (6mg) and Strong (9mg) strengths, Watermelon offers a balanced experience that stays smooth and flavourful from start to finish—ideal for users who want a bright fruit note in a subtle, tobacco-free format. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "6mg to 9mg",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1142566",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1142575",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-watermelon-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-Reg-Nordic-Spirit-Nicotine-Pouches_eeaf905b-6d4c-439c-95c3-c6c5a5679383.jpg?v=1773744866",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-watermelon-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-Strong-Nordic-Spirit-Nicotine-Pouches_acb15bc8-1423-4ec1-92d7-d82c5e68c183.jpg?v=1773744871",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.896Z"
+}

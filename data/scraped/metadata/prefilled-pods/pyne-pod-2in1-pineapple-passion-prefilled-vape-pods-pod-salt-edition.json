@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179189715325",
+  "slug": "pyne-pod-2in1-pineapple-passion-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Pineapple Passion Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-pineapple-passion-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Pineapple Passion Pod Pack for the Pyne Pod 2-in-1 Kit combines two tropical favourites for a rich and exotic fruit blend. Sweet Pineapple lays the groundwork with its vibrant, tangy juiciness, while Passionfruit adds a more complex layer of sharp, aromatic depth. Together, they create a tropical medley that’s sweet, tart, and intensely satisfying. Each pod is prefilled with 2ml of 20mg nicotine salt e-liquid and made to fit the Pyne Pod 2-in-1 device. The pods connect magnetically and work with the device’s twist-activated dual pod system, allowing quick and seamless flavour changes. With two pods per pack, Pineapple Passion is a dynamic, fruit-forward option that pairs beautifully with cooling, mint, or citrus flavours.",
+  "tags": [
+    "2 x 2ml",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141652",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-pineapple-passion-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-pineapple-passion.jpg?v=1745578701",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

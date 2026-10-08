@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639746076996",
+  "slug": "voopoo-pnp-replacement-pod-ii-2ml",
+  "title": "VooPoo PNP Replacement Pod II - Black",
+  "url": "https://www.vapestore.co.uk/products/voopoo-pnp-replacement-pod-ii-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "These replacement Voopoo PnP II 2ml Pods feature a leak-resistant side-filling design. The pod clicks is compatible with the Voopoo Drag E60, H40 and H80S vape kits and fits securely into place in both with the aid of strong magnets. When inserted into either the Voopoo Drag E60, H40S and H80S vape kits, the Voopoo PnP II Pod acts as an adjustable airflow, letting you adjust the draw by turning the pod in place, changing the airflow from light and airy to tight and intense. To reveal the fill ports, simply twist off the mouthpiece. The Voopoo PnP II Pod is compatible with all of Voopoo’s incredible PnP coils , so you have a wide spectrum of resistances to experiment with to achieve your perfect vape.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1125645",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-pnp-replacement-pod-ii-2ml__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-drag-e60-replacement-pod-2ml-2pk.png?v=1729049290",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

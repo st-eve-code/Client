@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522670805373",
+  "slug": "lost-mary-bm600-lemon-lime-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Lemon Lime Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-lemon-lime-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon Lime delivers a classic sharp citrus blend that’s both zesty and refreshing. The Lemon brings a tangy sharpness, while Lime adds a vibrant, slightly sweeter citrus note to round out the flavour. Together, they create a bright, punchy vape that’s ideal for vapers who enjoy bold, sunny profiles. Each twin pack includes two 2ml prefilled pods filled with 20mg nicotine salt e-liquid, providing a smooth MTL draw and fast nicotine delivery. These pods are designed exclusively for the Lost Mary BM600 Prefilled Pod Kit. Each pod delivers up to 600 puffs depending on your usage. When one runs out, just click in a replacement to carry on vaping.",
+  "tags": [
+    "2 x 2ml",
+    "Lemon and Lime",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142726",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-lemon-lime-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-Lemon-LimePrefilled-Vape-Pods-20mg---2PK.jpg?v=1757604248",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.328Z"
+}

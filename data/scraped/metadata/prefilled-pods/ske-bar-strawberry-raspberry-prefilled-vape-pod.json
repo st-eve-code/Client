@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15290390282621",
+  "slug": "ske-bar-strawberry-raspberry-prefilled-vape-pod",
+  "title": "SKE Bar Strawberry Raspberry Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-strawberry-raspberry-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Raspberry for the SKE Bar Prefilled Pod Kit blends two classic berry notes in a sweet, tangy vape. Expect juicy Strawberry and tart Raspberry in a simple, satisfying fruit profile thatâ's easy to enjoy all day. Each 2ml pod includes 20mg nic salt and mesh coil tech for consistently smooth MTL vaping. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142650",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-strawberry-raspberry-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Raspberry-SKE-Bar-Prefilled-Pod-min.jpg?v=1749545717",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.354Z"
+}

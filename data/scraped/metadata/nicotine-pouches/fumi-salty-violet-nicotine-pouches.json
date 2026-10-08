@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15392995869053",
+  "slug": "fumi-salty-violet-nicotine-pouches",
+  "title": "FUMI Salty Violet Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/fumi-salty-violet-nicotine-pouches",
+  "brand": "FUMI",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "FUMi Salty Violet Nicotine Pouches offer a distinctive flavour pairing of floral-sweet Violet and gentle Liquorice. Unusual but accessible, this aromatic pouch is ideal for users who enjoy a more unconventional profile. The slim, all-white pouches fit discreetly under the lip and gradually release flavour and nicotine for up to 30 minutes. With no smoke, vapour or odour, they’re a clean and versatile choice for regular use. Choose from 4mg (Regular) or 8mg (Strong) strengths. Each can contains 20 pouches made from plant-based materials and produced to high standards by Helix AB in Sweden. Nicotine Range: Regular - 4mg this is best for new users. Extra Strong - 11mg this is suited for more experienced users. How To Use Nicotine Pouches: Please Note: DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "4mg to 8mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Regular (4mg per pouch)",
+        "Strong (8mg per pouch)"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Regular (4mg per pouch)",
+      "sku": "1143793",
+      "price": 6.49
+    },
+    {
+      "title": "Strong (8mg per pouch)",
+      "sku": "1143788",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fumi-salty-violet-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FUMi-FRONT-Salty-Violet.jpg?v=1753201019",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.917Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "9640077033796",
+  "slug": "deliciu-mate-raspberry-key-lime-prefilled-vape-pods-20mg",
+  "title": "Deliciu Mate Raspberry Key Lime Prefilled Vape Pods - 20mg",
+  "url": "https://www.vapestore.co.uk/products/deliciu-mate-raspberry-key-lime-prefilled-vape-pods-20mg",
+  "brand": "Deliciu",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Keep your Vaporesso Deliciu Mate vaping experience fresh and flavourful with the Raspberry Key Lime Prefilled Pods. Designed for convenience and ease of use, this pack includes two 2ml prefilled pods filled with 20mg nic salt e-liquid. Together, they offer a seamless vaping experience with the tangy and sweet blend of raspberry and key lime flavours. The Raspberry Key Lime flavour provides a balanced and refreshing vaping experience, perfect for those who enjoy a mix of tangy and sweet fruit flavours. Each pod is equipped with Vaporesso's advanced COREX 2.0 mesh coil technology, ensuring dense, flavourful vapour from the first puff to the last. These prefilled pods are exclusively compatible with the Vaporesso Deliciu Mate device, making it easy to switch flavours without the hassle of refilling. Simply replace your used pod with a new one and continue enjoying your vape.",
+  "tags": [
+    "2 x 2ml",
+    "DELICIU15",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1134772",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__deliciu-mate-raspberry-key-lime-prefilled-vape-pods-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/deliciu-mate-pod-raspberry-key-lime.jpg?v=1729066071",
+      "position": 1,
+      "width": 565,
+      "height": 565,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.357Z"
+}

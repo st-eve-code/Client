@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15505912234365",
+  "slug": "uwell-viscore-pro-fresh-mint-prefilled-pod-refill-20mg",
+  "title": "Uwell Viscore Pro+ Fresh Mint Prefilled Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-pro-fresh-mint-prefilled-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Fresh Mint Uwell Viscore Pro+ Prefilled Pod delivers a cool, clean flavour that’s bright and uplifting. The herbal mint taste is crisp yet smooth, making it a simple and refreshing option for vapers who prefer uncluttered profiles. Each pack contains one 2ml Prefilled Pod filled with 20mg nicotine salt e-liquid and one 10ml Refill Pod that keeps the pod topped up as you vape. Capable of providing up to 20,000 puffs depending on use, the system removes the need for coil replacements or messy refills. With a 0.8ohm mesh coil inside, the pod produces steady vapour and consistent flavour from beginning to end. Made exclusively for the Uwell Viscore Pro+ Prefilled Pod Kit, installation is quick and mess-free: simply click the pod and refill into place and you’re ready to vape.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148059",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-pro-fresh-mint-prefilled-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fresh-Mint-Viscore-Pro-_-Prefilled-pods.jpg?v=1756998732",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.367Z"
+}

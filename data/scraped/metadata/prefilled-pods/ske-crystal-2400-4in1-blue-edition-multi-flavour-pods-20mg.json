@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "9639870005572",
+  "slug": "ske-crystal-2400-4in1-blue-edition-multi-flavour-pods-20mg",
+  "title": "SKE Crystal 2400 4in1 Blue Edition Prefilled Vape Pods 20mg",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-2400-4in1-blue-edition-multi-flavour-pods-20mg",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.95,
+    "max": 7.95,
+    "currency": "GBP"
+  },
+  "description": "Indulge in the diverse flavours of the SKE Crystal 2400 4 in 1 Blue Edition Multi-Flavour replacement pods, available only at Vapestore. This pack features Blueberry Sour Raspberry, Blueberry Raspberries, Cola Ice, and Blueberry Peach, each providing a distinct and enjoyable vaping experience. With Nic-Salt infused pods, you're assured of rich flavours and satisfying nicotine hits suitable for MTL vaping. These replacement pods are perfectly compatible with the SKE Crystal 4in1 Rechargeable Pod Kit, incorporating a rotating mechanism for effortless flavour switching within the kit.",
+  "tags": [
+    "4 x 2ml",
+    "compatible-with-1129211",
+    "Crystal 2400",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1129519",
+      "price": 7.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-2400-4in1-blue-edition-multi-flavour-pods-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ske-crystal-4in1-pods-blue-edition.jpg?v=1729058045",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.389Z"
+}

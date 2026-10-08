@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639604322628",
+  "slug": "vaporesso-itank-replacement-glass-2ml",
+  "title": "Vaporesso iTank Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-itank-replacement-glass-2ml",
+  "brand": "Vaporesso",
+  "productType": "Accessories",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "These handy replacement pieces allow you to replace the glass of a broken or damaged iTank without having to buy an entirely new tank.",
+  "tags": [
+    "compatible-with-VPS-TA-IT-GRY",
+    "Freedojokit",
+    "Freedojopod"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VPS-GL-IT-2ML",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-itank-replacement-glass-2ml__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/itank-replacement-glass-2ml.png?v=1729043950",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

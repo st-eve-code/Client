@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15331497935229",
+  "slug": "elfbar-dual-10k-strawberry-edition-prefilled-pod-refill",
+  "title": "Elf Bar Dual 10K Strawberry Edition Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/elfbar-dual-10k-strawberry-edition-prefilled-pod-refill",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Edition Pre Filled Pods bring two takes on this classic fruit to the Elf Bar Dual 10K. One pod delivers crisp, refreshing Strawberry Ice, while the other combines ripe Strawberry with mellow Kiwi for a smoother, rounded finish. The built-in 5ml refill design ensures both pods stay topped up with no mess or hassle thanks to the kit auto-refill system. It a great pick for fans of fruity vapes that balance sweet and fresh notes. How to Use: 1. Remove the Sticker and Read the Instructions 2. Remove the Silicone Parts and the Bottom Sticker 3. Press both containers securely into place 4. Install the pod into the Dual 10K device to use",
+  "tags": [
+    "2 x 2ml",
+    "Elfbar Dual 10k",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1142782",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-dual-10k-strawberry-edition-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Edition-Elf-Bar-Dual-10K-Prefilled-pods.jpg?v=1751038249",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.365Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15288858837373",
+  "slug": "double-drip-10k-strawberry-raspberry-cherry-ice-prefilled-vape-pods-refill",
+  "title": "Double Drip 10K Strawberry Raspberry Cherry Ice Prefilled Vape Pods + Refill",
+  "url": "https://www.vapestore.co.uk/products/double-drip-10k-strawberry-raspberry-cherry-ice-prefilled-vape-pods-refill",
+  "brand": "Double Drip",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for use with the Double Drip 10K Prefilled Pod Kit, this Pod & Refill Pack is the easiest way to keep your device topped up with a bold, fruity flavour. Each pack contains a 2ml prefilled pod and a 10ml refill bottle of 20mg nicotine salt e-liquid, delivering up to 10,000 puffs per kit (depending on use) with smooth, satisfying vapour. Strawberry Raspberry Cherry Ice is a vibrant medley of ripe Strawberries, tangy Raspberries and rich, dark Cherry, all finished with a clean, cooling wave of Menthol. It's a lively blend that balances berry sweetness with a crisp, icy twist. To refresh your flavour, simply insert the new pod and refill bottle and let the auto-refill mechanism handle the rest—no refilling, no coil swaps, no mess.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1141129",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__double-drip-10k-strawberry-raspberry-cherry-ice-prefilled-vape-pods-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Drip-10k-Strawberry-Rasp-Cherry-Pods.jpg?v=1753719696",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.317Z"
+}

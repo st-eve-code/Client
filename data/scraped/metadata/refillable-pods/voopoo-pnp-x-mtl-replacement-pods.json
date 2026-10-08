@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639848870212",
+  "slug": "voopoo-pnp-x-mtl-replacement-pods",
+  "title": "VooPoo PnP X Replacement Pods (MTL) - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/voopoo-pnp-x-mtl-replacement-pods",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo PnP X Cartridge MTL is specifically crafted for Mouth-To-Lung vapers using the stunning Voopoo PnP X Pod Kit. These replacement pods are designed to deliver a premium MTL experience, emphasizing flavour and a satisfying throat hit. Sold in convenient packs of two, these cartridges ensure you're always ready to go with a fresh pod at hand. The pods in this pack feature a 2ml e-liquid capacity, providing ample space for your preferred MTL e-liquids. The pods are designed for use with the Voopoo PnP X Pod Kit, ensuring a secure magnetic connection and optimal performance. These MTL pods are compatible with PnP X Coils, giving you the freedom to choose your preferred PnP coil resistance based on your preferred vaping style and e-liquid choice. Whether you're at home, at work, or on the go, the Voopoo PnP X Cartridge MTL pods offer a convenient and easy way to enjoy your MTL vaping sessions. Their straightforward design makes replacing pods hassle-free, ensuring a clean and efficient vaping experience every time. Please Note: These pods are ONLY compatible with Voopoo Drag S2 pod vape kit and Voopoo Drag X2 pod vape kit",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Silver",
+        "Grey",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Silver",
+      "sku": "1128078",
+      "price": 6.49
+    },
+    {
+      "title": "Grey",
+      "sku": "1128079",
+      "price": 6.49
+    },
+    {
+      "title": "Black",
+      "sku": "1128080",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-pnp-x-mtl-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-cartridge-mtl_black_1.jpg?v=1729056501",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-mtl-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-cartridge-mtl_silver_1.jpg?v=1729056501",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-mtl-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-cartridge-mtl_grey_1.jpg?v=1729056501",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-mtl-replacement-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-pnp-x-cartridge-mtl_black.jpg?v=1729056501",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

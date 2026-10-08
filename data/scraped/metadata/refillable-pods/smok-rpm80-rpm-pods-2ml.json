@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639458079044",
+  "slug": "smok-rpm80-rpm-pods-2ml",
+  "title": "SMOK RPM80 RPM Replacement Pods 3pack",
+  "url": "https://www.vapestore.co.uk/products/smok-rpm80-rpm-pods-2ml",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok RPM80 fuses powerful output and advanced features with the compact versatility of Pod Mods. The RPM80 vape kit provides more versatility and performance than ever thanks to the vastly improved power output and facility to swap out an 18650 battery whenever required. The RPM80 Pro comes with two refillable pods to use in whichever way best suits your vaping style. The new RPM80 Pro RGC Pod is the first Smok refillable pod to come with adjustable airflow. The RPM80 Pro is compatible with all of Smok’s RPM pods offering limitless possibilities to tailor you vape to your preferred style.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-SM-RP-RPM-80-RPM-PO-3P",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-rpm80-rpm-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm80-rpm-pods.jpg?v=1729040545",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342953529725",
+  "slug": "pixl-8000-strawberry-watermelon-prefilled-pod-refill",
+  "title": "PIXL 8000 Strawberry Watermelon Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-strawberry-watermelon-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Watermelon is a sweet, juicy blend of two favourite fruit flavours. Ripe Strawberry meets refreshing Watermelon in a mellow vape with summery character. This pod is prefilled with 2ml of 20mg nicotine salt e-liquid and includes a 10ml refill reservoir for use with the PIXL 8000 Prefilled Pod Vape Kit. Together, they deliver up to 8000 puffs with consistent mesh coil flavour. Designed for MTL vaping, this draw-activated pod is simple to use and features Boost Mode for fuller clouds. Strawberry Watermelon is perfect for those who like a smooth, easygoing fruit vape.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143498",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-strawberry-watermelon-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-strawberry-watermelon-800x800_6162e3d8-a32e-48d2-a4e6-d2651eff7292.jpg?v=1751546502",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.342Z"
+}

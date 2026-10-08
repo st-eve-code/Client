@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179022303613",
+  "slug": "pyne-pod-2in1-fresh-mint-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Fresh Mint Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-fresh-mint-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Fresh Mint Pod Pack for the Pyne Pod 2-in-1 Kit delivers a crisp and cooling mint profile that’s clean and smooth from the first puff to the last. The flavour balances gentle sweetness with a crisp, refreshing mint with a smooth and balanced chill.. Each pod contains 2ml of 20mg nicotine salt e-liquid and is made for the Pyne Pod 2-in-1 device. Pods attach securely via a magnetic connection and are fully compatible with the twist-activated dual-pod system. With two pods per pack, Fresh Mint is a versatile option that complements both fruity and ice-based flavours for a well-rounded vape experience.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141644",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-fresh-mint-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-fresh-mint.jpg?v=1745573249",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

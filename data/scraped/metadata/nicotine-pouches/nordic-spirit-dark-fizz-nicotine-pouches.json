@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15537490362749",
+  "slug": "nordic-spirit-dark-fizz-nicotine-pouches",
+  "title": "Nordic Spirit Dark Fizz Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-dark-fizz-nicotine-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Dark Fizz Nicotine Pouches combine sweet-spiced Cinnamon with smooth Vanilla and a bright streak of Citrus for a taste that’s both distinctive and satisfying. This balance of warm spice, creamy depth, and zesty sharpness creates a memorable flavour profile with a unique twist. Slim, discreet, and made from soft plant-based fibres, these pouches fit comfortably under the lip and deliver nicotine steadily without smoke, vapour, or odour. An updated moist formulation ensures a softer texture and quicker flavour release, while the redesigned can offers a slimmer shape with a premium finish. Available in Regular (6mg) and Strong (9mg) strengths, Nordic Spirit Dark Fizz provides a versatile option for those seeking a more complex pouch flavour. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "6mg to 9mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1148324",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1148328",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-dark-fizz-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dark-Fizz-Reg-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773743118",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-dark-fizz-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dark-Fizz-Strong-Nordic-Spirit-Nicotine-Pouches_0370ea94-4904-4dec-99f2-44f71e60aef8.jpg?v=1773743223",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.897Z"
+}

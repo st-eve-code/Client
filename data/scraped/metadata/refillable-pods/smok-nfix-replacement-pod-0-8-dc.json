@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639445070148",
+  "slug": "smok-nfix-replacement-pod-0-8-dc",
+  "title": "SMOK NFIX DC 0.8ohm Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-nfix-replacement-pod-0-8-dc",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The new NFIX pod kit from SMOK blends cutting-edge style with reliability, performance and simplicity. These replacement pods come with a fixed 0.8ohm coil and are available in a dual coil and mesh coil. Easy to refill, the pods use a silicon seal to prevent leakage.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-SM-RP-NF-IX-DC-0.8",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-nfix-replacement-pod-0-8-dc__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-nfix-replacement-pod-x3.jpg?v=1729039928",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

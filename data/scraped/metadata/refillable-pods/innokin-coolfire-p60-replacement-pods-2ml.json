@@ -1,0 +1,73 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15427328311677",
+  "slug": "innokin-coolfire-p60-replacement-pods-2ml",
+  "title": "Innokin Coolfire P60 Replacement Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/innokin-coolfire-p60-replacement-pods-2ml",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Coolfire P60 Replacement Pods are designed for use with the Coolfire P60 Pod Vape Kit, offering reliable performance and easy refilling in a compact 2ml format. Each pod features an integrated PZP Max mesh coil for enhanced flavour and smooth vapour production. These pods are available in three resistance options to suit a wide range of vaping styles: • The 0.8ohm pod is ideal for mouth-to-lung (MTL) vaping with a tighter draw and lower power output (12–14W). Best used with 50/50 , Bar Salts or Nic Salts E-Liquid • The 0.6ohm pod provides a balanced restricted direct-to-lung (RDL) experience at 18–23W. Best used with 50/50, Bar Salts or Nic Salts E-Liquid • The 0.4ohm pod is perfect for direct-to-lung (DTL) vaping, supporting higher power levels of 40–60W. Best used with High VG (sub-ohm) E-Liquid Each pod includes a convenient top-fill mechanism and leak-resistant design, making them easy to refill and maintain. These are fixed-coil pods—once the coil reaches the end of its lifespan, simply replace the entire pod. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1143626",
+    "compatible-with-1143627",
+    "compatible-with-1143628",
+    "compatible-with-1143629",
+    "compatible-with-1143630",
+    "compatible-with-1143631",
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4ohm - 2pk",
+        "0.6ohm - 2pk",
+        "0.8ohm - 2pk"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm - 2pk",
+      "sku": "1143634",
+      "price": 4.99
+    },
+    {
+      "title": "0.6ohm - 2pk",
+      "sku": "1143635",
+      "price": 4.99
+    },
+    {
+      "title": "0.8ohm - 2pk",
+      "sku": "1143636",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-coolfire-p60-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-Coolfire-p60-refillable-pods-2ml-_0.4_-0.6.jpg?v=1754317954",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-coolfire-p60-replacement-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-Coolfire-p60-refillable-pods-2ml-_0.8.jpg?v=1754317967",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.394Z"
+}

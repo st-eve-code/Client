@@ -1,0 +1,89 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15930944487805",
+  "slug": "uwell-caliburn-gpp-replacement-pods-4-pack",
+  "title": "Uwell Caliburn GPP Replacement Pods - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-gpp-replacement-pods-4-pack",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Caliburn GPP Integrated Coil replacement pods offer a seamless and highly reliable vaping experience for users of the acclaimed Caliburn G series. Supplied in a convenient pack of four, these 2ml cartridges have superseded the original G3 pods, bringing enhanced performance and longevity to your daily setup. Built with premium materials, they feature a soft-touch TPU mouthpiece for maximum comfort during every draw. Engineered for exceptional reliability, these advanced pods utilise ultrasonic welding and a unique U-shaped airflow channel. This combination significantly improves air tightness to deliver incredibly smooth vapour while drastically reducing the chance of leakage. Furthermore, Uwell's proprietary Pro-FOCS flavour optimisation technology works to accurately capture and enhance the intricate notes of your chosen e-liquids, ensuring a consistently vibrant taste from the first puff to the last. Available in a comprehensive range of FeCrAl meshed resistances (0.4ohm, 0.6ohm, 0.9ohm, and 1.2ohm), the GPP cartridges easily accommodate both restricted direct-to-lung (RDTL) and mouth-to-lung (MTL) vaping styles. They feature a highly practical top-fill design, allowing you to replenish your vape juice cleanly without detaching the pod from your battery. Fully compatible with the Caliburn G3, G4, and G5 device series, they perform flawlessly with both nicotine salts and standard freebase e-liquids. Best used with 50/50 and Nic Salt E-liquids Pod Details: Uwell Caliburn GPP 0.4ohm RDTL Use High VG (Sub-Ohm) Liquids Uwell Caliburn GPP 0.6ohm RDTL Use 50/50 (freebase) or Nic Salt E-Liquid Uwell Caliburn GPP 0.9ohm MTL Use 50/50 (freebase) or Nic Salt E-Liquid Uwell Caliburn GPP 1.2ohm MTL Use High PG, 50/50 (freebase) E-Liquid Please Note: The 0.4ohm and 0.6ohm pods are low resistance pods with a maximum output of 25w and are not suited for high VG E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.6ohm",
+        "0.9ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1153842",
+      "price": 9.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1154350",
+      "price": 9.99
+    },
+    {
+      "title": "0.9ohm",
+      "sku": "1152746",
+      "price": 9.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1153449",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-gpp-replacement-pods-4-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/2.0-ml-0.4-_-Uwell-Caliburn-GPP-Pods-4pk_b578d56f-db5c-4c6d-af73-88a3c392390f.jpg?v=1782118282",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-gpp-replacement-pods-4-pack__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/2.0-ml-0.6-_-Uwell-Caliburn-GPP-Pods-4pk_1d1c8dc6-2570-49f5-9627-ad07b112ed90.jpg?v=1782118286",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-gpp-replacement-pods-4-pack__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/2.0-ml-0.9-_-Uwell-Caliburn-GPP-Pods-4pk_e5d8b817-95b7-4e83-83b2-f1380016b8b8.jpg?v=1782118289",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-gpp-replacement-pods-4-pack__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/2.0-ml-1.2-_-Uwell-Caliburn-GPP-Pods-4pk.jpg?v=1782118293",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

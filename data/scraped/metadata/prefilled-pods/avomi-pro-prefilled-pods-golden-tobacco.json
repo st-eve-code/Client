@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15905136279933",
+  "slug": "avomi-pro-prefilled-pods-golden-tobacco",
+  "title": "Avomi PRO Prefilled Pods - Golden Tobacco",
+  "url": "https://www.vapestore.co.uk/products/avomi-pro-prefilled-pods-golden-tobacco",
+  "brand": "Avomi",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Golden Tobacco delivers a smooth, roasted profile with an earthy depth, creating a classic and highly authentic vape experience that is perfect for those who enjoy traditional flavours. Each pack contains two 2ml prefilled pods, providing a combined total of 4ml of e-liquid and up to 2000 puffs per pack. Filled with a premium 20mg nicotine salt formula, these pods deliver a smooth throat hit and rapid absorption for instant satisfaction. Designed exclusively for the Avomi Pro Prefilled Starter Kit, these pods utilise advanced mesh coil technology to ensure rapid, even heating. This guarantees pristine flavour reproduction and a highly consistent Mouth-to-Lung (MTL) draw from the first inhale to the last. When a pod is empty, simply swap it out for a fresh one to keep your device running at peak performance.",
+  "tags": [
+    "1000 Puffs",
+    "2000 Puffs",
+    "Avomi PRO",
+    "b2b287",
+    "MTL",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1153344",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__avomi-pro-prefilled-pods-golden-tobacco__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Golden-Tobacco-Avomi-Pro-Pods.jpg?v=1779885435",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.343Z"
+}

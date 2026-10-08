@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "15587383837053",
+  "slug": "xtar-mc4s-charger",
+  "title": "Xtar MC4S Charger",
+  "url": "https://www.vapestore.co.uk/products/xtar-mc4s-charger",
+  "brand": "Xtar",
+  "productType": "Battery Charger",
+  "price": {
+    "min": 12.99,
+    "max": 12.99,
+    "currency": "GBP"
+  },
+  "description": "The Xtar MC4S is a compact, four-slot charger designed for everyday battery care. Each bay is independently controlled, so you can charge a mix of chemistries and sizes at the same time. The charger automatically allocates current — delivering up to 1A to two bays, or 0.5A across all four — to balance speed with cell health. A USB-C input (5V, up to 2.1A) means it works with common phone adapters and power banks. The MC4S supports most 3.6/3.7V Li-ion formats (from 10440 up to 26650) and 1.2V Ni-MH/Ni-Cd sizes (AAA through C). It can charge two 26650s plus two unprotected 21700 cells simultaneously; protected 21700/20700 cells are not supported. A 0V activation function can help recover over-discharged cells, while seven onboard protections — anti-reverse, over-charge, output over-current, short-circuit, over-voltage, over-load and over-temperature — add peace of mind. Simple per-bay LED indicators show charging status at a glance. For best performance, use a quality 5V/2A (or higher) USB wall adapter. A USB-A to USB-C cable is included.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143203",
+      "price": 12.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__xtar-mc4s-charger__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/xtar_mc4s_charger.png?v=1759930997",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

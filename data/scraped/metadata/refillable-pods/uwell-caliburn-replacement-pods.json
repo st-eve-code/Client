@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639365902660",
+  "slug": "uwell-caliburn-replacement-pods",
+  "title": "Uwell Caliburn Replacement Pods",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-replacement-pods",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Uwell CALIBURN Pods are a set of food-grade plastic pods featuring a 2.0mL refillable pod, a top fill system, 1.4ohm Pod Coil Resistance and a top cap drip tip mouthpiece. Uwell Caliburn Replacement Pod",
+  "tags": [
+    "compatible-with-UW-KT-CA-LL-BN-RAI",
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "UW-PD-CA-LL-BN-4PK",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/caliburn-pod-cartridge-_4pk.jpg?v=1729036634",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

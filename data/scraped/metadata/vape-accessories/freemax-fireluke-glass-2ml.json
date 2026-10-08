@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639437140292",
+  "slug": "freemax-fireluke-glass-2ml",
+  "title": "Freemax Fireluke 2 / Fireluke M Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/freemax-fireluke-glass-2ml",
+  "brand": "Freemax",
+  "productType": "Accessories",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "Replacement 2ml Glass 2ml for Freemax Fireluke 2 / Fireluke M",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "FR-FR-GL-FL-2-M-2ML",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-fireluke-glass-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fireluke_glass_2.jpg?v=1729039593",
+      "position": 1,
+      "width": 653,
+      "height": 653,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

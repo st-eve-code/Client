@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15022663958909",
+  "slug": "lost-mary-bm600-pineapple-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Pineapple Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-pineapple-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Designed exclusively for the Lost Mary BM600 Prefilled Pod Kit, these replacement pods allow you to continue enjoying the same effortless vaping experience without replacing your entire device. Each pack contains two prefilled 2ml disposable pods with 20mg nic salt e-liquid for a smooth, comfortable throat hit and rapid nicotine relief. With each pod delivering up to 600 puffs (depending on personal usage and vaping style), these convenient replacements offer an easy way to keep your device topped up with your favourite Lost Mary flavours. Simply remove the old pod, click in a new one, and enjoy a consistently satisfying vape. The Pineapple Ice flavour delivers the sweet, golden juiciness of ripe pineapple, perfectly balanced with a crisp, cooling exhale. The irresistible tropical tang is complemented by a refreshing chill, creating a consistently smooth yet bold and uplifting vape experience. Ideal for vapers who love exotic fruit flavours with an icy twist, the Lost Mary BM600 Prefilled Pods provide a convenient and cost-effective way to enjoy the signature Lost Mary BM600 range.",
+  "tags": [
+    "2 x 2ml",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138920",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-pineapple-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-prefilled-Pods-Pineapple-Ice.jpg?v=1739895807",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.302Z"
+}

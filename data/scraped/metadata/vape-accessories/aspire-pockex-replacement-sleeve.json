@@ -1,0 +1,164 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639261864260",
+  "slug": "aspire-pockex-replacement-sleeve",
+  "title": "Aspire PockeX Replacement Sleeve",
+  "url": "https://www.vapestore.co.uk/products/aspire-pockex-replacement-sleeve",
+  "brand": "Aspire",
+  "productType": "Tanks",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "These handy sleeves allow you to replace the glass of a broken or damaged PockeX without having to buy an entirely new unit. Available in four attractive colours to suit every style.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Rose Gold",
+        "Silver",
+        "White",
+        "Gold Gradient",
+        "Grey Gradient",
+        "Pink Gradient",
+        "Red Black Gradient",
+        "Black/White"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1004006",
+      "price": 3.99
+    },
+    {
+      "title": "Rose Gold",
+      "sku": "314814",
+      "price": 3.99
+    },
+    {
+      "title": "Silver",
+      "sku": "314821",
+      "price": 3.99
+    },
+    {
+      "title": "White",
+      "sku": "314807",
+      "price": 3.99
+    },
+    {
+      "title": "Gold Gradient",
+      "sku": "AS-RS-PC-EX-GG",
+      "price": 3.99
+    },
+    {
+      "title": "Grey Gradient",
+      "sku": "AS-RS-PC-EX-GRG",
+      "price": 3.99
+    },
+    {
+      "title": "Pink Gradient",
+      "sku": "AS-RS-PC-EX-PG",
+      "price": 3.99
+    },
+    {
+      "title": "Red Black Gradient",
+      "sku": "AS-RS-PC-EX-RG",
+      "price": 3.99
+    },
+    {
+      "title": "Black/White",
+      "sku": "AS-RS-PC-EX-BWG",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-black_1.jpg?v=1729031972",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-black.jpg?v=1729031972",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-pink.jpg?v=1729031972",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-silver.jpg?v=1729031972",
+      "position": 4,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-white.jpg?v=1729031972",
+      "position": 5,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__006.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-gold-gradient.png?v=1729031972",
+      "position": 6,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__007.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-grey-gradient.png?v=1729031972",
+      "position": 7,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__008.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-white-pink-gradient.png?v=1729031972",
+      "position": 8,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__009.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-red-gradient.png?v=1729031972",
+      "position": 9,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pockex-replacement-sleeve__010.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pockex-sleeve-black-white_1.png?v=1729031972",
+      "position": 10,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

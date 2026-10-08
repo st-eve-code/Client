@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "15587274391933",
+  "slug": "xtar-vc4sl-charger",
+  "title": "Xtar VC4SL Charger",
+  "url": "https://www.vapestore.co.uk/products/xtar-vc4sl-charger",
+  "brand": "Xtar",
+  "productType": "Battery Charger",
+  "price": {
+    "min": 22.49,
+    "max": 22.49,
+    "currency": "GBP"
+  },
+  "description": "The VC4SL is an intelligent amalgamation of the XP4C and VC2 chargers, and can recognise and safely charge specific batteries. With the ability to monitor and display charging current, voltage and battery capacity of both Ni-MH and Li-ion batteries simultaneously, the VC4 offers reliable performance and user peace of mind. Powered by USB or DC USB wall adaptor plugs.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148920",
+      "price": 22.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__xtar-vc4sl-charger__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/XTARVC4SL.jpg?v=1759757781",
+      "position": 1,
+      "width": 860,
+      "height": 860,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

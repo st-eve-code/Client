@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15667389923709",
+  "slug": "pixl-8000-blue-razz-cotton-prefilled-pod-refill",
+  "title": "PIXL 8000 Blue Razz Cotton Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-blue-razz-cotton-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Razz Cotton PIXL 8000 Prefilled Pod combines the tangy, fruity edge of Blue Raspberry with a fluffy confectionery-style sweetness for a nostalgic yet modern vape experience. The result is a smooth, rounded blend that balances bright fruit flavour with a sugary finish. Each pod contains 2ml of 20mg nicotine salt e-liquid and connects to a 10ml refill reservoir in the PIXL 8000 Prefilled Pod Vape Kit, automatically replenishing the pod as you vape. Expect up to 8000 puffs per kit with consistent flavour and no manual refilling. Mesh coil technology maintains flavour purity and smooth vapour production with a satisfying MTL draw.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1149538",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-blue-razz-cotton-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Cotton-Pixl-8000-Prefilled-pod-W2F.jpg?v=1763133241",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.360Z"
+}

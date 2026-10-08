@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15356419965309",
+  "slug": "gold-bar-xl-oasis-prefilled-pod-refill",
+  "title": "Gold Bar XL Oasis Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/gold-bar-xl-oasis-prefilled-pod-refill",
+  "brand": "Gold Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Gold Bar XL Refill Kit in Oasis blends juicy Watermelon, crisp Apple and sweet Strawberry into a vibrant fruit trio, rounded off with a subtle coolness on the exhale. It's a smooth and uplifting flavour that balances sweetness with a gentle chill. Each refill pack contains a 2ml prefilled pod and a 10ml refill reservoir, preloaded with 20mg nicotine salt e-liquid for a consistently satisfying mouth-to-lung (MTL) vape. Exclusively compatible with the Gold Bar XL Prefilled Pod Kit, this all-in-one refill system is simple to use and built for dependable flavour. The pods integrated mesh coil ensures smooth vapour and steady performance throughout. Once finished, replace the pod and refill with another from the wide Gold Bar XL flavour collection.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142282",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__gold-bar-xl-oasis-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/OASISGold-Bar-XL-Refill-pack.jpg?v=1751973179",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.344Z"
+}

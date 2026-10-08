@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639756005700",
+  "slug": "voopoo-vinci-v2-replacement-pods",
+  "title": "VooPoo Vinci V2 Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/voopoo-vinci-v2-replacement-pods",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The upgraded Vinci Series V2 Pod cartridges are compatible with all of Voopoo’s celebrated Vinci series pod kits and feature a silver ion coated anti-bacterial mouthpiece for a more hygienic experience. Voopoo have also made several other improvements to the pod, all in the service of great flavour and improved airflow. The Vinci Series V2 Pods are more leakproof than ever, feature crossed fill ports to balance air pressure, an integrated airway structure, double-layer silicone rings and a condensate isolating chamber. The Vinci Series V2 Pod Cartridge feature an e-liquid capacity of 2ml, and use a closed-system, fixed coil pod structure with a non-removable coil of 0.8ohms or 1.2ohms for a convenient, flavoursome and supremely satisfying MTL (mouth-to-lung) vaping experience. Once your pod has reached the end of its life, simply replace with a new one. This pack contains 3 x replacement pods Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1119717",
+      "price": 6.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1119718",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-vinci-v2-replacement-pods__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-v2-replacement-pod-0.8ohm_1.png?v=1729049974",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-v2-replacement-pods__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-v2-replacement-pod-0.8ohm.png?v=1729049974",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-v2-replacement-pods__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vinci-v2-replacement-pod-1.2ohm.png?v=1729049974",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

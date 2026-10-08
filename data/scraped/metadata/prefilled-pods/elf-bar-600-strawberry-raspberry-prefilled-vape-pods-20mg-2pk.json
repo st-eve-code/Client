@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15501516308861",
+  "slug": "elf-bar-600-strawberry-raspberry-prefilled-vape-pods-20mg-2pk",
+  "title": "Elf Bar 600 Strawberry Raspberry Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-600-strawberry-raspberry-prefilled-vape-pods-20mg-2pk",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "These Strawberry Raspberry Prefilled Pods are designed for the Elf Bar 600 Prefilled Pod Kit, offering a fruity, mess-free way to enjoy vaping. Each pack includes two 2ml pods, each filled with 20mg nicotine salt e-liquid and capable of up to 600 puffs depending on use. With inhale activation, these pods provide a straightforward mouth-to-lung (MTL) draw that feels familiar and reliable. The flavour combines juicy, ripe Strawberry with the tangy edge of Raspberry, creating a berry blend that tastes sweet, bright, and balanced. Simple yet satisfying, it’s a flavour that’s easy to enjoy all day. When one pod is finished, replacement is quick and fuss-free — just click in a new one and continue.",
+  "tags": [
+    "2 x 2ml",
+    "Elfbar 600",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144640",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-600-strawberry-raspberry-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Raspberry-Elf-Bar-600-Prefilled-pods.jpg?v=1756804225",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.370Z"
+}

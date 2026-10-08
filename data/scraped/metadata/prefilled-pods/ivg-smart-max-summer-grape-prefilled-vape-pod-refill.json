@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15502141423997",
+  "slug": "ivg-smart-max-summer-grape-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Summer Grape Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-summer-grape-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Summer Grape IVG Smart Max Prefilled Pod delivers a refreshing grape blend with a smooth finish. Juicy Red Grapes bring rich sweetness, while Green Grapes add a lighter, tangy edge for a flavour that’s bright and balanced. Each pack includes a 2ml pod prefilled with 20mg nicotine salt e-liquid, along with a 10ml refill reservoir that automatically keeps the pod topped up. Together, they’re designed to support up to 12,000 puffs depending on usage, with no messy refills or coil changes required. With mesh coil technology, the pod produces clear, consistent flavour and smooth vapour throughout use. Made exclusively for the IVG Smart Max 12K Prefilled Pod Vape Kit, setup takes only seconds — just click the pod into place and you’re ready to go. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "IVG Smart Max Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144671",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-summer-grape-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SMART-MAX-Refill-Summer-Grape.jpg?v=1756826063",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.366Z"
+}

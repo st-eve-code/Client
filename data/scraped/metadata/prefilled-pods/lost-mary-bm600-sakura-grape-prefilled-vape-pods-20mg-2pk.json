@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15552375456125",
+  "slug": "lost-mary-bm600-sakura-grape-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Sakura Grape Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-sakura-grape-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Sakura Grape Lost Mary BM600 Prefilled Pods offer a floral twist on a classic grape flavour. Juicy, sweet Grape provides the base, while a subtle Sakura note adds a fragrant lift, creating a smooth yet distinctive vape. Each pack includes two 2ml pods prefilled with 20mg nicotine salt e-liquid, offering up to 600 puffs per pod depending on use. With a smooth mouth-to-lung (MTL) draw, these pods provide consistent flavour without coil changes or refilling. Made exclusively for the Lost Mary BM600 Prefilled Pod Kit, the pods are quick to install: just click one into the device and enjoy a unique fruit-and-floral blend.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148291",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-sakura-grape-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sakura-Grape-Lost-Mary-BM600-Prefilled-Pods.jpg?v=1758556496",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.366Z"
+}

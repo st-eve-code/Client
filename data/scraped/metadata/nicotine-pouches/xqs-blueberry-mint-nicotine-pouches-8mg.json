@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15618872574333",
+  "slug": "xqs-blueberry-mint-nicotine-pouches-8mg",
+  "title": "XQS Blueberry Mint Nicotine Pouches - 8mg/Pouch",
+  "url": "https://www.vapestore.co.uk/products/xqs-blueberry-mint-nicotine-pouches-8mg",
+  "brand": "XQS",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "XQS Blueberry Mint tastes fruity and clean, pairing sweet Blueberry with a cool Mint edge that keeps the profile clear and balanced. Each slim, all‑white pouch sits neatly under the lip and releases nicotine gradually without smoke, vapour or noticeable odour. This can contains 20 pouches in 8mg (Strong). Developed by XQS, a Swedish pouch specialist focused on flavour-led, tobacco‑free options, the range offers familiar combinations in a simple, discreet format. Nicotine Ranges: Strong - 8mg this is suited for more experienced users How to Use: Place one pouch under your upper lip and leave it in place for 20–40 minutes while the flavour and nicotine release gradually. When finished, remove the pouch and dispose of it responsibly. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "8mg",
+    "nordicminiofferfruit",
+    "nordicminioffermint"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "8mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "8mg",
+      "sku": "1148984",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__xqs-blueberry-mint-nicotine-pouches-8mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/blueberry-mint-8mg-XQS-Nicotine-Pouches.jpg?v=1760965752",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.919Z"
+}

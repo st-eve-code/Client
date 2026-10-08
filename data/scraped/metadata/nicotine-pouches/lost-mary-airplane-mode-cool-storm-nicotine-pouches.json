@@ -1,0 +1,84 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "9640054980932",
+  "slug": "lost-mary-airplane-mode-cool-storm-nicotine-pouches",
+  "title": "Lost Mary Airplane Mode Cool Storm Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-airplane-mode-cool-storm-nicotine-pouches",
+  "brand": "Lost Mary",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Cool Storm Nicotine Pouches by Lost Mary deliver a refreshing mint flavour with a smooth, gently sweet undertone. a mellow yet fresh and delicately sweet for fans of classic mint blends with an extra-cool finish. These slim-format pouches offer a clean, tobacco-free experience and are designed for comfort and ease of use throughout the day. Discreet and portable, they’re ideal for settings where smoking or vaping isn’t possible Place a pouch under your upper lip and allow it to sit for up to 30 minutes while the nicotine releases gradually. The fast-absorbing formula starts working in around 15 seconds and leaves no smoke, vapour or residue behind. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "9mg to 30mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "9mg / pouch",
+        "18mg / pouch",
+        "30mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / pouch",
+      "sku": "1134862",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / pouch",
+      "sku": "1134868",
+      "price": 3.99
+    },
+    {
+      "title": "30mg / pouch",
+      "sku": "1134874",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-airplane-mode-cool-storm-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-cool-storm-9mg_1.jpg?v=1729065243",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-cool-storm-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-cool-storm-18mg.jpg?v=1729065243",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-cool-storm-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-cool-storm-30mg.jpg?v=1729065243",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-cool-storm-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-cool-storm-9mg.jpg?v=1729065243",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.922Z"
+}

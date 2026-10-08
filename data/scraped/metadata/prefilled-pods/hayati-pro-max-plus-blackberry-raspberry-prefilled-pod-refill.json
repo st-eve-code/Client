@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15649536115069",
+  "slug": "hayati-pro-max-plus-blackberry-raspberry-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Blackberry Raspberry Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-blackberry-raspberry-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Blackberry Raspberry combines rich, dark Blackberry flavour with a bright Raspberry edge for a balanced sweet-and-tart blend. It’s a smooth, layered berry vape with a clean finish and subtle freshness. Each Hayati Pro Max + Prefilled Pod includes a prefilled 2ml pod attached to a 10ml refill reservoir, giving 12ml of 20mg Nic Salt e-liquid. No coil changes or refilling required—simply attach to the Hayati Pro Max + Prefilled Pod Kit and vape. A dual mesh coil ensures consistent performance and clear flavour for up to 6000 puffs (approx.). Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149086",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-blackberry-raspberry-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blackberry-Raspberry_Hayati-Pro-Max_-Pods-min.jpg?v=1762253439",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.363Z"
+}

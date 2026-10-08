@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639613202756",
+  "slug": "flexus-q-replacement-pod-aspire",
+  "title": "Aspire Flexus Q Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/flexus-q-replacement-pod-aspire",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 1.99,
+    "max": 1.99,
+    "currency": "GBP"
+  },
+  "description": "Inspired by the simplicity and versatility of refillable pod kits and the discreet portability of disposables , the new Flexus Q pod kit from Aspire is a compact, lightweight and elegant pod kit that’s ideal for new vapers and experienced vapers alike. This single replacement refillable pod can be topped up with the side-fill port, and features a super-comfortable mouthpiece. The Flexus Q pods use the AF (Aspire Flexus) 0.6Ω & 1.0Ω vertical mesh coils, which heat more evenly to fully atomize the e-liquid, effectively enhancing both flavour and nicotine delivery. The Flexus Q is a low-powered device that’s perfect for use with Nic Salt , 50/50 and classic High-PG E-Liquids. Please Note: Coils are not included and must be purchased separately.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "AS-RP-FLX-Q-2ML",
+      "price": 1.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__flexus-q-replacement-pod-aspire__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-q-pod.jpg?v=1729044416",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

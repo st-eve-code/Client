@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15501970538877",
+  "slug": "oxva-slim-stick-classic-tobacco-prefilled-vape-pods",
+  "title": "Oxva Slim Stick Classic Tobacco Prefilled Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/oxva-slim-stick-classic-tobacco-prefilled-vape-pods",
+  "brand": "Oxva",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "These Classic Tobacco Prefilled Pods for the Oxva Slim Stick Prefilled Pod Kit deliver a familiar, robust flavour in a ready-to-use design. Each pod is prefilled with 2ml of 20mg nicotine salt e-liquid and offers up to 600 puffs with a smooth, satisfying mouth-to-lung draw. The flavour recreates the earthy, full-bodied taste of traditional Tobacco, making it an approachable choice for vapers who prefer straightforward, tobacco-inspired blends. Each pod contains a built-in coil for consistent flavour and vapour production, while the sealed design ensures quick and mess-free replacements. Supplied in a pack of two, these pods are ideal for Slim Stick users who want a reliable, tobacco-style vape with minimal effort.",
+  "tags": [
+    "2 x 2ml",
+    "OXVA Slimstick",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144076",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-slim-stick-classic-tobacco-prefilled-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-pods---classic-tobacco.jpg?v=1757511656",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.337Z"
+}

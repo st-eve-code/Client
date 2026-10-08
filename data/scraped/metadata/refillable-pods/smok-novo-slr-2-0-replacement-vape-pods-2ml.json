@@ -1,0 +1,81 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15992909300093",
+  "slug": "smok-novo-slr-2-0-replacement-vape-pods-2ml",
+  "title": "SMOK Novo SLR 2.0 Replacement Vape Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-slr-2-0-replacement-vape-pods-2ml",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Novo SLR 2.0 Mesh Pods offer a highly reliable and leak-resistant solution for your daily vaping needs. Designed to hold 2ml of your chosen e-liquid, these replacement pods feature a highly convenient snap-off top-fill mechanism. This design allows you to quickly and cleanly top up the reservoir without ever needing to remove the pod from your battery device. Integrated within each pod is Smok's advanced SLR 2.0 mesh heating technology. This ensures a rapid, even heat distribution that delivers exceptionally clear flavour and a prolonged coil lifespan. Because the coils are built directly into the pods, daily maintenance is incredibly straightforward. Once the vapour production drops or the flavour begins to fade, you simply dispose of the entire pod and attach a fresh one. Available in three distinct resistances, these pods cater to a variety of vaping preferences. Choose the 1.0ohm option (9 to 12W) for a discreet, cigarette-like mouth-to-lung draw, the 0.8ohm (11.5 to 15W) for a slightly looser mouth-to-lung experience, or the 0.6ohm (15.5 to 20W) for a smooth restricted direct-to-lung inhale. 0.6ohm DM - What sets this specific pod apart is the integration of an advanced 0.6ohm dual mesh coil. Operating at a higher wattage range of 21 to 30W compared to the standard single mesh version, the dual mesh structure provides a much larger heating surface area. This results in incredibly fast ramp-up times, significantly enhanced vapour production, and a deeply rich flavour profile from your chosen e-liquid. We highly recommend pairing these pods with 50/50 freebase e-liquids or Nicotine Salts for the best possible results. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "0.6ohm DM",
+        "0.6ohm",
+        "0.8ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm DM",
+      "sku": "1158864",
+      "price": 6.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1158861",
+      "price": 6.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1158862",
+      "price": 6.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1158863",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-slr-2-0-replacement-vape-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/NOVO-POD_SLR-2.0_-0.6_-Meshed.jpg?v=1786635057",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-slr-2-0-replacement-vape-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/NOVO-POD_SLR-2.0_-0.8_-Meshed.jpg?v=1786635577",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-slr-2-0-replacement-vape-pods-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/NOVO-POD_SLR-2.0_-1.0_-Dual-Meshed.jpg?v=1786635600",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.391Z"
+}

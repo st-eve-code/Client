@@ -1,0 +1,99 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639939703108",
+  "slug": "vaporesso-luxe-x-corex-2-0-mesh-pods",
+  "title": "Vaporesso Luxe X Corex 2.0 Replacement Pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-luxe-x-corex-2-0-mesh-pods",
+  "brand": "Vaporesso",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "The Vaporesso LUXE X Corex 2.0 Mesh Pods are designed to provide a premium vaping experience with the LUXE X2 Pod Kit. Each pack contains two 2ml refillable pods, utilising Vaporesso's advanced COREX 2.0 technology. This technology combines Morph Mesh and COREX Cotton, ensuring rich and consistent flavour with extended pod life. These pods are available in four resistance options to suit different vaping preferences: • 0.3ohm: Best for DTL (direct-to-lung) vaping, delivering dense vapour and intense flavour. • 0.4ohm: Ideal for a balanced RDTL (restricted direct-to-lung) experience with robust flavour. • 0.6ohm: Perfect for a looser MTL (mouth-to-lung) draw, offering a satisfying throat hit. • 0.8ohm: Provides a tighter MTL draw for smooth and flavourful hits. The pods feature a leak-resistant design and a convenient bottom-fill system, making refilling quick and mess-free. Compatible with 50/50, High-PG, and Nic Salt E-Liquids, these pods are versatile and reliable for daily use. We recommend paring these pods with the following E-Liquid: 0.3ohm and 0.4ohm pair with High VG (sub-ohm) E-Liquid. 0.6ohm and 0.8ohm pair with 50/50 or Nic Salt E-Liquids. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.3ohm",
+        "0.4 ohm",
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.3ohm",
+      "sku": "1132921",
+      "price": 5.49
+    },
+    {
+      "title": "0.4 ohm",
+      "sku": "1132922",
+      "price": 5.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1132923",
+      "price": 5.49
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1132924",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-luxe-x-corex-2-0-mesh-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-luxe-x2-corex-2-pods_1_1_1_1.jpg?v=1729062059",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-luxe-x-corex-2-0-mesh-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-luxe-x2-corex-2-pods.jpg?v=1729062059",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-luxe-x-corex-2-0-mesh-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-luxe-x2-corex-2-pods_1.jpg?v=1729062059",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-luxe-x-corex-2-0-mesh-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-luxe-x2-corex-2-pods_1_1.jpg?v=1729062059",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-luxe-x-corex-2-0-mesh-pods__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-luxe-x2-corex-2-pods_1_1_1.jpg?v=1729062059",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.392Z"
+}

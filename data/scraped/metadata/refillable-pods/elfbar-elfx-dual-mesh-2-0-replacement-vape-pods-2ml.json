@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15868463219069",
+  "slug": "elfbar-elfx-dual-mesh-2-0-replacement-vape-pods-2ml",
+  "title": "Elf Bar ELFX Dual Mesh 2.0 Replacement Vape Pods 2ml - 3 Pods",
+  "url": "https://www.vapestore.co.uk/products/elfbar-elfx-dual-mesh-2-0-replacement-vape-pods-2ml",
+  "brand": "Elf Bar",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "The Elf Bar Elfx 2.0 Replacement Pods are engineered to deliver a highly consistent and flavoursome vape. Designed specifically for the Elfx device series, these pods incorporate advanced internal structures to maximise both performance and everyday convenience. At the core of each 2ml pod is a vertical dual mesh coil crafted from high-quality FeCrAl alloy. Utilizing QUAQ DURA technology, the dual meshes take turns heating during each draw. This alternating cycle reduces stress on the wicking material, significantly extending the lifespan of the pod while ensuring even vaporisation and a rich flavour profile from the first to the final puff. The widened bottom electrode further improves conductivity for a stable, reliable power output. Maintaining your setup is straightforward thanks to the snap-off top-fill system, which allows you to top up your e-liquid without removing the pod from the device. A comprehensive 5A layer leakproof design, combined with an internal V-shaped auto-reflux structure, actively prevents condensation build up and keeps your device clean and dry. Available in 0.6ohm or 0.8ohm resistances, these pods are ideal for use with 50/50 and Nicotine Salt e-liquids. To ensure optimal performance, always prime the coil by allowing the e-liquid to saturate the cotton for five to ten minutes before first use. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1154348",
+      "price": 8.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1154349",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-elfx-dual-mesh-2-0-replacement-vape-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.6_-Elfbar-Elfx-2.0-pod-3-pack.jpg?v=1776694789",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elfbar-elfx-dual-mesh-2-0-replacement-vape-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.8_-Elfbar-Elfx-2.0-pod-3-pack.jpg?v=1776694944",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.394Z"
+}

@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15241641591165",
+  "slug": "nordic-spirit-spearmint-nic-pouches",
+  "title": "Nordic Spirit Spearmint Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-spearmint-nic-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Spearmint Nicotine Pouches offer a lighter, sweeter take on Mint, with soft herbal notes and a smooth cooling finish. Milder than Peppermint or Menthol, Spearmint provides a clean, fresh flavour that’s easy to enjoy at any time of day—making it a great choice for those who prefer a more subtle mint experience. Each pouch is slim, discreet and made from soft plant-based fibres for comfort and ease of use. Available in Regular (6mg), Strong (9mg) and Extra Strong (11mg) options, Spearmint delivers a slow, steady nicotine release without any smoke, vapour or odour. It’s a flavour that remains gentle but distinct throughout use. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "9mg to 11mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch",
+        "11mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1142565",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1142574",
+      "price": 6.5
+    },
+    {
+      "title": "11mg / pouch",
+      "sku": "1142559",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-spearmint-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spearmint-Reg-Nordic-Spirit-Nicotine-Pouches_497d45c9-170a-4066-b3b4-efda282c72b3.jpg?v=1773744103",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-spearmint-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spearmint-Strong-Nordic-Spirit-Nicotine-Pouches_af71e8fd-93cf-43c0-bb8d-d04458c080a3.jpg?v=1773744107",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-spearmint-nic-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spearmint-X-Strong-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773744111",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.894Z"
+}

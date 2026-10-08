@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15392945209725",
+  "slug": "fumi-zingy-ginger-nicotine-pouches",
+  "title": "FUMI Zingy Ginger Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/fumi-zingy-ginger-nicotine-pouches",
+  "brand": "FUMI",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "FUMi Zingy Ginger Nicotine Pouches offer a flavour that stands apart—warming Ginger with a subtle hint of Cola-style sweetness for a gently spiced, slightly unusual experience. Smooth and satisfying, it’s ideal for pouch users who enjoy something different from standard fruit or mint profiles. Each slim, all-white pouch sits discreetly under the lip and delivers a gradual release of nicotine and flavour over up to 30 minutes. With no smoke, vapour or odour, FUMi pouches provide a clean, versatile alternative to other nicotine formats. Choose between 4mg (Regular) and 8mg (Strong) strengths depending on your preference. Each can contains 20 pouches, made from soft plant-based fibres and manufactured in Sweden by Helix AB. Nicotine Range: Regular - 4mg this is best for new users. Extra Strong - 11mg this is suited for more experienced users. How To Use Nicotine Pouches: Please Note: DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "4mg to 8mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Regular (4mg per pouch)",
+        "Strong (8mg per pouch)"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Regular (4mg per pouch)",
+      "sku": "1143791",
+      "price": 6.49
+    },
+    {
+      "title": "Strong (8mg per pouch)",
+      "sku": "1143786",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fumi-zingy-ginger-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FUMi-FRONT-Zingy_Ginger.jpg?v=1753200430",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.917Z"
+}

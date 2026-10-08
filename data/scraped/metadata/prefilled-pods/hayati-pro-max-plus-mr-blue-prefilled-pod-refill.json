@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15647437324669",
+  "slug": "hayati-pro-max-plus-mr-blue-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Mr Blue Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-mr-blue-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hayati Pro Max Plus 6000 Blue Sour Raspberry Prefilled Pod blends the sweetness of ripe Blueberry with the sharper tang of Sour Raspberry. The combination creates a lively berry flavour where rich Blueberry depth is lifted by the bright, tart edge of Raspberry, giving a distinctive fruit profile with extra bite. Tailored for the Hayati Pro Max Pod Kit, each pod carries a 2ml draw-activated pod that draws automatically from the built-in 10ml refill pod. Together, this provides 12ml of 20mg Nic Salt e-liquid, with no bottle refills or coil changes required. Delivering up to 6000 puffs (approx.), the dual mesh coil ensures steady vapour and flavour from beginning to end. Insert into your Hayati Pro Max device for a consistent, straightforward vape. Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149106",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-mr-blue-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mr-Blue_Hayati-Pro-Max_-Pods-min.jpg?v=1762186177",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.364Z"
+}

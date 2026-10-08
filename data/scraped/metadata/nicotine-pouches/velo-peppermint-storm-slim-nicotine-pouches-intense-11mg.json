@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15554953773437",
+  "slug": "velo-peppermint-storm-slim-nicotine-pouches-intense-11mg",
+  "title": "Velo Peppermint Storm Slim Nicotine Pouches - Intense (11mg)",
+  "url": "https://www.vapestore.co.uk/products/velo-peppermint-storm-slim-nicotine-pouches-intense-11mg",
+  "brand": "Velo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Velo Slim Peppermint Storm Nicotine Pouches deliver an invigorating blend of cooling Menthol lifted by a crisp Peppermint note, producing a flavour that tastes sharp, fresh and bracing. The combination of layered mint tones provides a clear and impactful pouch experience. Each can contains 20 slim pouches made from plant-based fibres, designed for a discreet and comfortable fit under the lip. Nicotine is released steadily without smoke, vapour or odour, making them a convenient option for on-the-go use. Produced in Europe, Velo nicotine pouches are available in a wide variety of flavour profiles and strengths. Peppermint Storm is presented here in a Medium 10.9mg strength, striking a balance between smooth delivery and a more potent release. Nicotine Ranges: Mellow - 4mg to 6mg this is best for new users. Original - 6mg to 11mg this is best for regular users. Intense - 8mg to 17mg this is suited for more experienced users How to Use: Place one pouch under your upper lip and leave it in place for 20–40 minutes while the flavour and nicotine release gradually. When finished, remove the pouch and dispose of it responsibly. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "10mg",
+    "nordicminioffermint"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Intense 11mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Intense 11mg",
+      "sku": "1148647",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__velo-peppermint-storm-slim-nicotine-pouches-intense-11mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Velo-Peppermint-Storm.jpg?v=1758641813",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__velo-peppermint-storm-slim-nicotine-pouches-intense-11mg__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Velo-Peppermint-Storm-Open.jpg?v=1758641815",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.901Z"
+}

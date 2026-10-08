@@ -1,0 +1,100 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14874163478909",
+  "slug": "oxva-vprime-replacement-pods-2ml",
+  "title": "Oxva VPrime Replacement Vape Pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/oxva-vprime-replacement-pods-2ml",
+  "brand": "Oxva",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "The OXVA VPrime Replacement Pods are designed to complement the performance of your OXVA VPrime Pod Kit, delivering exceptional flavour and vapour production thanks to their built-in mesh coils. Each pod has a 2ml e-liquid capacity and comes in three different resistances, allowing you to choose the perfect pod for your preferred vaping style, whether it’s mouth-to-lung (MTL), restricted direct-to-lung (RDTL), or direct-to-lung (DTL) vaping. Each pack contains two replacement pods, and the mesh coil technology ensures consistent heating and excellent flavour with every puff. The top-fill design makes refilling simple and mess-free, while the pods’ leak-resistant construction ensures a clean vaping experience. The 0.2ohm pod is ideal for sub-ohm DTL vaping, providing large clouds and intense flavour when paired with high-VG e-liquids. Best used at higher wattages, this pod is perfect for those who enjoy a bolder, more open draw. The 0.4ohm pod is suited for RDTL vaping, striking a balance between cloud production and flavour. Compatible with 50/50 or high-VG e-liquids, this pod provides a satisfying draw with smooth vapour and rich flavour notes. For those who prefer a tighter, MTL vaping style, the 0.6ohm pod is a great option. It works best with 50/50 e-liquids and nic salts, delivering a more discreet vapour production and a smoother throat hit, making it perfect for vapers looking for a more cigarette-like experience. Pod Details: We recommend paring these pods with the following E_liquid: 0.2ohm (DTL) : Best for high-VG e-liquids, works well at higher wattages, producing large clouds and bold flavour. 0.4ohm (RDTL) : Suitable for both high-VG and 50/50 e-liquids , offering a balanced vape between cloud production and flavour. 0.6ohm (MTL): Best used with 50/50 e-liquids or nic salts for a smooth throat hit and discreet vapour production. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "DTL",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "0.2ohm",
+        "0.4ohm",
+        "0.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.2ohm",
+      "sku": "1136770",
+      "price": 5.49
+    },
+    {
+      "title": "0.4ohm",
+      "sku": "1136771",
+      "price": 5.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1136772",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-vprime-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-vprime-0.2-tpd-front.jpg?v=1732843615",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-replacement-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-vprime-0.4-tpd-front.jpg?v=1732843615",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-replacement-pods-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-vprime-0.6-tpd-front_1.jpg?v=1732843615",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-replacement-pods-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-vprime-0.4-tpd-front_1.jpg?v=1732843615",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-replacement-pods-2ml__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-vprime-0.2-tpd-front_1.jpg?v=1732843615",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vprime-replacement-pods-2ml__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-vprime-0.6-tpd-front.jpg?v=1732843615",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

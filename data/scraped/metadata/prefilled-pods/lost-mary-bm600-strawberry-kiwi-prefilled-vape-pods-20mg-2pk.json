@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522660254077",
+  "slug": "lost-mary-bm600-strawberry-kiwi-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Strawberry Kiwi Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-strawberry-kiwi-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Kiwi pairs the soft sweetness of ripe Strawberry with the tangy brightness of Kiwi for a fruity vape that’s both smooth and zesty. The blend is well-balanced, with the mellow Strawberry laying a sweet foundation and the Kiwi adding a lively twist. It’s an easy-going yet flavourful profile ideal for all-day vaping. These pods are designed for use with the Lost Mary BM600 Prefilled Pod Kit. Each 2ml pod contains 20mg nicotine salt e-liquid, providing a smooth MTL (mouth-to-lung) draw and fast-acting nicotine satisfaction. Each pod delivers up to 600 puffs depending on usage. Once a pod is finished, simply replace it with a new one to continue enjoying your chosen flavour.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142725",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-strawberry-kiwi-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-Strawberry-Kiwi-Prefilled-Vape-Pods-20mg---2PK.jpg?v=1757604275",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.314Z"
+}

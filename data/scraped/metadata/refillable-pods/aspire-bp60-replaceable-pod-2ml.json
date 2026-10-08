@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639420199236",
+  "slug": "aspire-bp60-replaceable-pod-2ml",
+  "title": "Aspire BP60 Replacement Pod",
+  "url": "https://www.vapestore.co.uk/products/aspire-bp60-replaceable-pod-2ml",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "Featuring an internal 1400mAh battery that can fire up to 60w, the BP60 pod kit from Aspire is perfectly tuned for incredible flavour and performance. The replacement 2ml pod for the Aspire BP60 features a comfortable drip tip and is protected by a durable cap. Filling is simple thanks to a silicone-seal side port and the whole pod connects firmly to the mod with strong magnets. Adjustable airflow helps you dial in on your perfect vape. Compatible with Aspire’s BP60 coils, vapers can enjoy a smooth, satisfying MTL (mouth-to-lung) experience with the 0.6ohm Dual coils and high-PG eliquids, or a rich DL (direct-lung) vape with the 0.3ohm Mesh coils and high-VG eliquids.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "AS-RP-PO-BP-60",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-bp60-replaceable-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/royal-flush-vape-aspire-bp60-replacement-pod_350x350_9dac322c-3342-464c-83ec-53d13625ca0a.jpg?v=1729038965",
+      "position": 1,
+      "width": 350,
+      "height": 350,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

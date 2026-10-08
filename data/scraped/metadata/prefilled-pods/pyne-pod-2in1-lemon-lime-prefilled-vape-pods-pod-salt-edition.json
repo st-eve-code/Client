@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179027382653",
+  "slug": "pyne-pod-2in1-lemon-lime-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Lemon Lime Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-lemon-lime-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Lemon Lime Pod Pack for the Pyne Pod 2-in-1 Kit brings a punchy blend of citrus flavours with just the right amount of zest. Sharp Lemon leads with bright, tart freshness, while the Lime adds a slightly sweeter citrus lift for balance. The result is a crisp, clean vape that’s as vibrant as it is refreshing. Each pod is prefilled with 2ml of 20mg nicotine salt e-liquid and made exclusively for the Pyne Pod 2-in-1 device. The magnetic connection and twist-to-switch dual pod system make swapping flavours smooth and intuitive. With two pods in every pack, Lemon Lime offers a bright, palate-cleansing vape that works beautifully on its own or alongside fruit, mint, or beverage-inspired flavours.",
+  "tags": [
+    "2 x 2ml",
+    "Lemon and Lime",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141646",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-lemon-lime-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-lemon-lime.jpg?v=1745573443",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

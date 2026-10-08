@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15289238225277",
+  "slug": "ske-bar-pink-lemonade-prefilled-vape-pod",
+  "title": "SKE Bar Pink Lemonade Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-pink-lemonade-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "This Pink Lemonade pod for the SKE Bar Prefilled Pod Kit offers a fruity spin on a classic citrus soda. Expect fizzy Lemonade with a sweet Berry twist bright, tangy, and ideal for vapers who enjoy sweet-and-sharp flavour profiles. Each pod includes 2ml of 20mg nic salt and mesh coil tech for consistently smooth MTL vaping. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142627",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-pink-lemonade-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pink-Lemonade-SKE-Bar-Prefilled-Pod.jpg?v=1749484683",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.376Z"
+}

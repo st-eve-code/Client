@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14942632968573",
+  "slug": "aspire-veynom-air-empty-replacement-pod",
+  "title": "Aspire Veynom Air Empty Replacement Pod",
+  "url": "https://www.vapestore.co.uk/products/aspire-veynom-air-empty-replacement-pod",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 1.99,
+    "max": 1.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Veynom Air Replacement Pods are the ideal choice for vapers who want the convenience of having additional pods for their Aspire Veynom Air Vape Kit. These replacement pods feature a 2ml e-liquid capacity and are designed with a bottom-filling system that makes refilling clean and hassle-free. The food-grade PCTG construction ensures durability and safety, while the translucent black design allows you to easily monitor your e-liquid levels. These pods are compatible with Aspire’s BP series coils , offering exceptional flexibility in vaping styles. Whether you prefer MTL (mouth-to-lung), RDTL (restricted direct-to-lung), or DTL (direct-to-lung) vaping, the wide variety of compatible BP coils ensures that you can tailor your experience to your preference. Simply choose the appropriate BP coil for your desired wattage and airflow combination. The Aspire Veynom Air Replacement Pods come in a pack of two and are built without pre-installed coils, allowing you to customise your vape with the coil resistance of your choice. For best results, pair these pods with Aspire’s high-performance BP mesh coils, available in multiple resistances for rich flavour and satisfying vapour production.",
+  "tags": [
+    "CC DC List",
+    "Delisted",
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1136203",
+      "price": 1.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-veynom-air-empty-replacement-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Veynom-Air-2ml-without-coil.jpg?v=1736932071",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

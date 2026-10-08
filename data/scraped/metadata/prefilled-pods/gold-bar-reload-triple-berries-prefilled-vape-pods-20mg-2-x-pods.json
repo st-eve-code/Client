@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15478124282237",
+  "slug": "gold-bar-reload-triple-berries-prefilled-vape-pods-20mg-2-x-pods",
+  "title": "Gold Bar Reload Triple Berries Prefilled Vape Pods 20mg - 2 x Pods",
+  "url": "https://www.vapestore.co.uk/products/gold-bar-reload-triple-berries-prefilled-vape-pods-20mg-2-x-pods",
+  "brand": "Gold Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 1.99,
+    "max": 1.99,
+    "currency": "GBP"
+  },
+  "description": "Gold Bar Reload Triple Berries Prefilled Pods deliver a vibrant medley of Strawberry, Blueberry and Raspberry for a sweet-tart vape with real depth. The Strawberry adds juicy brightness, while the Blueberry offers a rich base, and the Raspberry rounds things off with a gentle tang. Each pod contains 2ml of 20mg nicotine salt e-liquid and is built with mesh coil technology to ensure consistent vapour and flavour with every draw. These pods are designed for use with the Gold Bar Reload Pod Kit, offering a fuss-free MTL experience with no refilling or coil changes. It’s an ideal choice for vapers who enjoy well-balanced fruit blends that don’t overpower, with layers of flavour that stay fresh throughout.",
+  "tags": [
+    "2 x 2ml",
+    "Gold Bar Reload",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1142024",
+      "price": 1.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__gold-bar-reload-triple-berries-prefilled-vape-pods-20mg-2-x-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Gold-Bar-Reload-Triple-Berry-Prefilled-Pods-x2.jpg?v=1755680010",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.299Z"
+}

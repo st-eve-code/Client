@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15620906418557",
+  "slug": "smok-tfos-replacement-pod",
+  "title": "SMOK TFOS Replacement Pod - 0.8ohm 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-tfos-replacement-pod",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Keep your SMOK TFOS pod vape kit performing at its best with these refillable 2ml pods. Each pod features a side-fill port for quick top-ups and an integrated 0.8ohm mesh coil tuned for a smooth draw and clear flavour. They’re ideal for MTL through to a lighter RDL inhale, and pair best with 50/50 freebase or nicotine salt e-liquids. Replace the pod when flavour fades or the coil has worn out. We recommend pairing this pod with 50/50 (freebase) or Nic Salts E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1148306",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-tfos-replacement-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok_tfos_pods_2pk.jpg?v=1763052545",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14990526251389",
+  "slug": "avomi-cliq-prefilled-vape-pod-refill-spearmint",
+  "title": "Avomi CLIQ Prefilled Vape Pod + Refill -  Spearmint",
+  "url": "https://www.vapestore.co.uk/products/avomi-cliq-prefilled-vape-pod-refill-spearmint",
+  "brand": "Avomi",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "The Avomi Cliq Prefilled Pods offer a seamless and flavourful vaping experience when combined with the Avomi Cliq Prefilled Pod Kit. Each pack includes a 2ml prefilled pod paired with a 10ml refill e-liquid container, both loaded with Nicotine Salt (20mg) E-liquid, to ensure extended use while providing consistently smooth vapour, fresh flavour, and rapid nicotine relief. The pod incorporates Avomi’s premium mesh coil technology to enhance flavour intensity and vapour production, while the push-to-refill system allows for easy and mess-free reloading. Simply combine the pod with the 10ml refill container and attach both to your Avomi Cliq device to enjoy up to 6000 puffs of satisfying MTL (mouth-to-lung) vaping with every draw. Spearmint delivers a naturally sweet and cooling mint flavour, delivering a bright and refreshing inhale, followed by a cool, lingering minty finish. This refreshing blend provides a clean and satisfying vape with every puff. Once your pod and refill is empty, simply swap them out for a fresh Avomi Cliq Prefilled Pod + Refill pack, View the full range of Avomi Cliq Prefilled pod kits & Refill Pods",
+  "tags": [
+    "2ml + 10ml",
+    "Avomi Cliq Pod",
+    "AWARDS15",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1158500",
+      "price": 5.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1137815",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__avomi-cliq-prefilled-vape-pod-refill-spearmint__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/UK---AVOMI---CLIQ---PODS---Spearmint.jpg?v=1739180706",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.294Z"
+}

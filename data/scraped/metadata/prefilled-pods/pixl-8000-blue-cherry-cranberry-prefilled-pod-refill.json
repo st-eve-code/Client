@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342679916925",
+  "slug": "pixl-8000-blue-cherry-cranberry-prefilled-pod-refill",
+  "title": "PIXL 8000 Blue Cherry Cranberry Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-blue-cherry-cranberry-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Blue Cherry Cranberry from PIXL 8000 blends tangy Cranberry with sweet-tart Blueberry and bold Cherry for a flavour that’s both juicy and sharp. This triple-berry blend brings together a crisp edge with a rich fruit depth, making it a standout in the PIXL collection. The pod arrives prefilled with 2ml of 20mg nicotine salt e-liquid, offering a smooth throat hit and rapid nicotine absorption. Paired with a 10ml refill reservoir, the pod delivers up to 8000 puffs when used with the PIXL 8000 Prefilled Pod Vape Kit. Mesh coil technology ensures each puff delivers consistent vapour and flavour. This pod is built for MTL (mouth-to-lung) vaping, providing a low-maintenance, draw-activated experience. Just pop it into your PIXL 8000 device, enable Boost Mode with a double-tap, and enjoy. Blue Cherry Cranberry is part of PIXL’s broad flavour lineup—each one offering its own unique twist.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143521",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-blue-cherry-cranberry-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-blue-cherry-cranberry-800x800.jpg?v=1751547264",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.346Z"
+}

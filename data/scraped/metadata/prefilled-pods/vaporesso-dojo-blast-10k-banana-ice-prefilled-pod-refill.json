@@ -1,0 +1,52 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15495748092285",
+  "slug": "vaporesso-dojo-blast-10k-banana-ice-prefilled-pod-refill",
+  "title": "Vaporesso DOJO Blast Pod & Refill For 10K or 30K Device – Banana Ice",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-dojo-blast-10k-banana-ice-prefilled-pod-refill",
+  "brand": "Vaporesso",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: Compatible with Vaporesso Dojo Blast 10K & 30K Kits Only Keep your Vaporesso Dojo Blast 10K device running with the Banana Ice Prefilled Pod & Refill Pack. Each pack includes a 2ml prefilled pod plus an 8ml refill container, together delivering up to 10,000 puffs of smooth, consistent flavour. Preloaded with 20mg nicotine salt e-liquid, the pod and refill system offers a simple and reliable way to enjoy vaping with the Dojo Blast kit, supported by Vaporesso’s COREX 2.0 dual mesh coil and Smart Liq-Cycle saturation technology. Banana Ice combines the creamy sweetness of ripe Banana with a cool icy layer, creating a flavour that’s rich yet refreshing. Smooth fruit notes meet a chill finish, keeping the blend balanced and enjoyable for extended vaping. With transparent pods and a clean refill system, managing e-liquid levels is straightforward and fuss-free. Explore all 28 flavours from the Vaporesso Dojo Blast 10K collection here at Vapestore.",
+  "tags": [
+    "2ml + 8ml",
+    "Banana Ice",
+    "Freedojokit",
+    "Freedojopod",
+    "offer-vaporesso-20",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1144480",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-dojo-blast-10k-banana-ice-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/BANANA-ICE-Dojo-Blast-10k-prefilled-pods.jpg?v=1756396354",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.309Z"
+}

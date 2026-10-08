@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15290387136893",
+  "slug": "ske-bar-tobacco-prefilled-vape-pod",
+  "title": "SKE Bar Tobacco Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-tobacco-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Tobacco for the SKE Bar Prefilled Pod Kit delivers a smooth, satisfying vape with rich, toasted flavour. Itâ's an ideal option for those looking for a classic, familiar profile that pairs well with a clean nic salt base. Each pod contains 2ml of 20mg nic salt e-liquid and uses mesh coil technology for a balanced MTL draw. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142648",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-tobacco-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Tobacco-SKE-Bar-Prefilled-Pod-min.jpg?v=1749545224",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.375Z"
+}

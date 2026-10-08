@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639420690756",
+  "slug": "smok-fetch-pro-replacement-pod-rgc",
+  "title": "SMOK SMOK Fetch Pro RGC Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-fetch-pro-replacement-pod-rgc",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "These refillable Smok Fetch Pro pods come with adjustable airflow, unique for devices of this kind, and connect firmly to the Fetch Pro mod with strong magnets and can be used with coils from across Smok’s RGC Series, meaning the Fetch Pro can be tailored to suit the preference of any MTL or DTL vaper. The Smok Fetch Pro is one of the most powerful and versatile pod kits around, and these replacement 2ml pods are for the RGC coils ideal for sub-ohm vaping.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-RP-PO-FP-RGC-3P-2ML",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-fetch-pro-replacement-pod-rgc__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/fetch_pro_2.jpg?v=1729038983",
+      "position": 1,
+      "width": 225,
+      "height": 225,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

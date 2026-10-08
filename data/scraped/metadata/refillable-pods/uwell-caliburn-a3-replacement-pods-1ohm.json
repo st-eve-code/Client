@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639755809092",
+  "slug": "uwell-caliburn-a3-replacement-pods-1ohm",
+  "title": "Caliburn A3 Fixed Coil Replacement Pod 1.0 Ohm 2ml - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-a3-replacement-pods-1ohm",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Caliburn A3 pod kit is the latest addition to Uwell’s hugely popular Caliburn series of MTL devices, and is as simple-to-use and as satisfying as ever. As slimline and easy to pocket as its predecessors, the Caliburn A3 is the perfect device for vapers who require a simple, lightweight and convenient vape kit that doesn’t sacrifice on flavour. The Caliburn A3 introduces the new A3 pods, which feature a 2ml e-liquid capacity. The Uwell Caliburn A3 pods can be refilled by removing the cap to reveal the top-fill port in red. The A3 Pods connect to the battery securely, and their integrated 1.0ohm mesh coil, combined with Uwell’s Pro-FOCS flavour adjustment tech, ensures a deliciously flavoursome and satisfying MTL (mouth-to-lung) vape. The pods are versatile enough that they can be used with high-PG , 50/50 and nicotine salt e-liquids. When your pod begins to lose its flavour, simply replace the pod, top up with e-liquid and you’re ready to vape. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1119570",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-a3-replacement-pods-1ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-a3-pod-1ohm-2ml-4pk.jpg?v=1729049939",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

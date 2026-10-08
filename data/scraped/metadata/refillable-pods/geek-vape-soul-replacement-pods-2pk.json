@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14874151387517",
+  "slug": "geek-vape-soul-replacement-pods-2pk",
+  "title": "Geekvape Soul Replacement Pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/geek-vape-soul-replacement-pods-2pk",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Geek Vape Soul Replacement Pods are designed to keep your Geek Vape Soul Vape Kit operating at peak performance. These refillable 2ml pods are available in two resistance options – 1.0ohm and 0.6ohm – offering flexibility to suit your preferred vaping style. Whether you enjoy the tighter draw and stronger throat hit of MTL (mouth-to-lung) vaping or the richer clouds and smoother draw of RDTL (restricted direct-to-lung) vaping, there’s a Soul Pod for you. Each pod features an integrated mesh coil, designed to enhance flavour and vapour production, ensuring a consistently satisfying vape. The pods are easy to refill with their top-fill design, making them both convenient and mess-free. The secure magnetic connection ensures that the pods stay firmly in place, yet they are easy to replace when needed. With their precision-engineered design, the Geek Vape Soul Replacement Pods offer excellent longevity and performance, helping you get the most out of your vaping experience. Whether you’re a new vaper or an experienced enthusiast, these pods provide a versatile, high-quality solution for your vaping needs. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "compatible-with-1135560",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "1.0ohm",
+        "0.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.0ohm",
+      "sku": "1143236",
+      "price": 4.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1143235",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geek-vape-soul-replacement-pods-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-soul-2ml-pod_1_1.jpg?v=1732842737",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geek-vape-soul-replacement-pods-2pk__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-soul-2ml-pod.jpg?v=1732842737",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geek-vape-soul-replacement-pods-2pk__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-soul-2ml-pod_1.jpg?v=1732842737",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

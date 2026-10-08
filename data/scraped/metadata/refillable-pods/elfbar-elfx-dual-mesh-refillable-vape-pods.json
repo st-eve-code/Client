@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14888370798973",
+  "slug": "elfbar-elfx-dual-mesh-refillable-vape-pods",
+  "title": "Elf Bar Elfx Dual Mesh Replacement Vape Pods 2ml - 3 Pods",
+  "url": "https://www.vapestore.co.uk/products/elfbar-elfx-dual-mesh-refillable-vape-pods",
+  "brand": "Elf Bar",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Elf Bar Elfx Dual Mesh Refillable Pods are engineered to deliver a superior vaping experience, pairing advanced coil technology with a user-friendly design. Available in two resistance options, 0.6Ohm and 0.8Ohm, these refillable pods cater to a variety of vaping styles and e-liquid preferences. Each pod is equipped with advanced dual mesh coil technology, optimised for consistent vapour production and bold, authentic flavour. The 0.6Ohm pod is ideal for Restricted Direct-to-Lung (RDL) vaping, offering smooth vapour and excellent compatibility with 50/50 and Nic Salt e-liquids. The 0.8Ohm pod is perfect for Mouth-to-Lung (MTL) vaping, providing a more intense, tactile draw and compatibility with 50/50, High-PG, and Nic Salt e-liquids. With a 2ml refillable capacity, these pods feature a mess-free side-fill system and a 4-layer anti-leak design, ensuring hassle-free use and reliable performance. Designed exclusively for the Elf Bar Elfx Pro Classic Edition Pod Kit, the pods are TPD-compliant and come in packs of three for added convenience. Whether you prefer smooth RDL vaping or a rich MTL experience, the Elf Bar Elfx Dual Mesh Refillable Pods offer a premium solution for vapers of all levels. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1137456",
+      "price": 7.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1137457",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-elfx-dual-mesh-refillable-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elfbar-elfx-replacement-pods-2ml-3pk_0ea4dce0-e396-4c14-8d6f-c25fda89e9ab.jpg?v=1737540435",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

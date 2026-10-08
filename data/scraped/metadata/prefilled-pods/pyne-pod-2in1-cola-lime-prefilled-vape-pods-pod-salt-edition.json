@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15177533161853",
+  "slug": "pyne-pod-2in1-cola-lime-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Cola Lime Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-cola-lime-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Cola Lime Pod Pack for the Pyne Pod 2-in-1 Kit delivers a lively blend of classic drink flavours with a citrus twist. The deep caramel and subtle spice of Cola provides a familiar rich, sweet base, while sharp Lime brings a tangy brightness that lifts the profile. Together, they create a refreshing, slightly fizzy vape inspired by a zesty twist on a soft drink favourite. Each pod is filled with 2ml of 20mg nicotine salt e-liquid and made for use with the Pyne Pod 2-in-1 device. The pods fit securely via magnetic connection and are compatible with the dual-flavour twist activation system. With two pods in each pack, Cola Lime makes a distinctive pairing option or an excellent choice for fans of drink-inspired flavours.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141641",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-cola-lime-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-cola-lime.jpg?v=1745511752",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.380Z"
+}

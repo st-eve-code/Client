@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15289374146941",
+  "slug": "ske-bar-menthol-prefilled-vape-pod",
+  "title": "SKE Bar Menthol Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-menthol-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Created for the SKE Bar Prefilled Pod Kit, this Menthol pod delivers a crisp, no-nonsense vape for fans of refreshing profiles. Expect a brisk, clean menthol flavour that's consistent and cooling with every puff. Each 2ml pod contains 20mg nic salt e-liquid and uses mesh coil tech for smooth, satisfying MTL performance. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142636",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-menthol-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Menthol-SKE-Bar-Prefilled-Pod.jpg?v=1749486396",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.376Z"
+}

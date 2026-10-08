@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15573283176829",
+  "slug": "innokin-plexus-replacement-pod-2ml",
+  "title": "Innokin Plexus Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/innokin-plexus-replacement-pod-2ml",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "These genuine Innokin Plexus replacement pods are 2ml refillable cartridges designed for the Plexus Pro and Plexus Go tube-style kits. Each pod features a clean top-sliding refill and a 360° clear body so you can check e-liquid levels at a glance. With built-in mesh coils and three resistances to choose from, you can match your preferred draw and nicotine strength with ease. Choose your resistance: • 0.6ohm dual mesh: a looser MTL (mouth-to-lung) or light RDL (restricted direct-to-lung) vape; performs best on devices capable of around 20–25W (e.g. Plexus Pro). • 0.8ohm mesh: balanced MTL around 13–16W; included with both kits. • 1.2ohm mesh: a tighter, cooler MTL at roughly 10–13W. For best results, pair with 50/50 freebase or nicotine salt e-liquids. Replace the pod when flavour declines or the coil has reached the end of its life. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1142856",
+      "price": 3.49
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1142857",
+      "price": 3.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1142858",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-plexus-replacement-pod-2ml__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.6_-Innokin-Plexus-pod-2ml-2pk-copy.png?v=1760515429",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-replacement-pod-2ml__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.8_-Innokin-Plexus-pod-2ml-2pk-copy-2.png?v=1760515438",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-replacement-pod-2ml__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Refill-Demo-Innokin-Plexus-pod-2ml-2pk.png?v=1760515583",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-plexus-replacement-pod-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1.2_-Innokin-Plexus-pod-2ml-2pk.jpg?v=1760518757",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

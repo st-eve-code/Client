@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "9640052785476",
+  "slug": "pablo-frosted-mint-nicotine-pouches-30mg",
+  "title": "Pablo Exclusive Frosted Mint Nicotine Pouches - 30mg / Pouches",
+  "url": "https://www.vapestore.co.uk/products/pablo-frosted-mint-nicotine-pouches-30mg",
+  "brand": "Pablo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Pablo Frosted Mint Nicotine Pouches deliver a crisp, icy Mint flavour with long-lasting freshness. Designed for strong nicotine delivery, each pouch contains 30mg of tobacco-free nicotine, making it well-suited to experienced users. These pouches are slim, discreet, and comfortable under the lip, offering a clean alternative to smoking or vaping. With no smoke, vapour or lingering odour, they’re ideal for use anytime, anywhere. Frosted Mint brings cooling clarity and refreshing flavour in every pouch, with 20 pouches per can. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH Please Note: These nicotine pouches are 30mg of nicotine per pouch.",
+  "tags": [
+    "30mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1135486",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pablo-frosted-mint-nicotine-pouches-30mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pablo-exclusive-nicotine-pouch-50mg-frosted-mint-12g.jpg?v=1729065145",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.907Z"
+}

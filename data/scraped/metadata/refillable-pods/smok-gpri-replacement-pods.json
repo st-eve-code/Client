@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639587283268",
+  "slug": "smok-gpri-replacement-pods",
+  "title": "SMOK G-Priv Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-gpri-replacement-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The G-Priv Pro pod mod delivers up to 80W max power from an external 18650 battery, as well as a range of advanced features, gorgeous ergonomic design and the high-performance G Priv Pod 2ml. The G-Priv Pod, with an e-liquid capacity of 2ml and a unique sliding top mechanism that slides the mouthpiece away to reveal the refill port, helping to prevent leaks. The G-Priv Pod is compatible with Smok’s LP2 coils which offer incredible flavour thanks to their mesh coil technology. As a sub-ohm device, the Smok G-Priv Pro is best suited to high-VG sub-ohm e-liquids.",
+  "tags": [
+    "DTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-RP-GPR-PRO-LP2-2ML-3P",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-gpri-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/g-priv-pods.jpg?v=1729043030",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

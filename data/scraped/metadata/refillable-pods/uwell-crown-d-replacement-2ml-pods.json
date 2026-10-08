@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639744831812",
+  "slug": "uwell-crown-d-replacement-2ml-pods",
+  "title": "Uwell Crown D Replacement Pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-crown-d-replacement-2ml-pods",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Sleek and stylish, simple to use yet highly customisable, the new Uwell Crown D pod kit is a versatile and satisfying vape kit that’s ideal for RDTL and DTL vaping. This pack of two replacement Uwell Crown D pods are compatible with the Uwell Crown D pod kit only and feature a 2ml e-liquid capacity and a super-comfortable drip tip which detaches to reveal a leak-resistant refill port. The Uwell Crown D pod is compatible with Uwell’s PA mesh coils, available in a 0.3ohm resistance for smooth and airy DTL vaping ( we recommend High VG e-liquids ), and a 0.8ohm resistance for a more intense, RDTL/MTL sensation ( we recommend 50/50 and Nic Salt e-liquids .) Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "CC DC List",
+    "compatible-with-1119280",
+    "Delisted",
+    "DTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1119318",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-crown-d-replacement-2ml-pods__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell_crown_d_empty_pod_2ml.png?v=1729049162",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

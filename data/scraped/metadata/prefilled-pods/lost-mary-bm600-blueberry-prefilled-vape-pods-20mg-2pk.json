@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522628174205",
+  "slug": "lost-mary-bm600-blueberry-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Blueberry Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-blueberry-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Blueberry delivers a rich burst of dark, juicy berry flavour with a smooth, rounded finish. The profile leans towards the deeper end of the berry spectrum, offering a bold yet mellow vape that’s consistently sweet without being overpowering. It’s a dependable all-day flavour for fans of classic fruit blends. Each twin pack includes two 2ml prefilled pods containing 20mg nicotine salt e-liquid, providing a smooth throat hit and rapid nicotine absorption. Designed exclusively for the Lost Mary BM600 Prefilled Pod Kit, these pods offer a satisfying MTL (mouth-to-lung) vape. Each pod offers up to 600 puffs depending on personal usage. When empty, simply swap in a new pod to continue enjoying your chosen flavour without interruption.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142723",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-blueberry-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM600-Blueberry-Prefilled-Vape-Pods-20mg---2PK.jpg?v=1757595679",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.307Z"
+}

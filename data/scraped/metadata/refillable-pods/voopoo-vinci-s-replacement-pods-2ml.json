@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15823420227965",
+  "slug": "voopoo-vinci-s-replacement-pods-2ml",
+  "title": "VooPoo Vinci S Replacement Pods - 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-vinci-s-replacement-pods-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "The VooPoo VINCI S Replacement Pods are precision-engineered to deliver a flawless vaping experience when paired with the VINCI S Pod Kit. Constructed from high-grade, food-safe PCTG material, these 2ml TPD-compliant pods are designed for durability and clarity, allowing you to easily monitor your e-liquid levels. At the heart of these cartridges is VooPoo’s proprietary COSM CODE 2.0 technology. This advanced structural and wicking design optimises e-liquid atomisation, resulting in a noticeably smoother draw and highly consistent flavour profile throughout the lifespan of the pod. Furthermore, the internal architecture has been refined to provide upgraded leak resistance, keeping your device clean and your e-liquid exactly where it belongs. Refilling the pods is an effortless process thanks to the accessible top-side filling port, which minimizes mess and downtime. Available in both 0.6ohm and 0.8ohm resistances, these pods cater to a wide spectrum of preferences, perfectly accommodating both warm, airy Restricted Direct-to-Lung (RDL) draws and tight, intense Mouth-to-Lung (MTL) vaping styles. Ideal for use with 50/50 e-liquids or nicotine salts , the Vinci E Cartridges are sold in a handy pack of two. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen vape juice before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1153570",
+      "price": 5.95
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1153569",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-vinci-s-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Voopoo-Vinci-S-vape-pods-2-pack.jpg?v=1772206173",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

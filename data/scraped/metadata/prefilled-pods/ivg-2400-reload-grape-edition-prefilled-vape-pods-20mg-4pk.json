@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15066493813117",
+  "slug": "ivg-2400-reload-grape-edition-prefilled-vape-pods-20mg-4pk",
+  "title": "IVG 2400 Reload Grape Edition Prefilled Vape Pods - 20mg - 4PK",
+  "url": "https://www.vapestore.co.uk/products/ivg-2400-reload-grape-edition-prefilled-vape-pods-20mg-4pk",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for use with the IVG 2400 Reload Prefilled Pod Kit, these IVG 2400 Reload Prefilled Pods offer a simple and effective way to refresh your device with bold, fruit-forward flavours. Each pack contains four individual 2ml prefilled pods, delivering up to 2400 puffs per kit (depending on personal usage) while ensuring smooth and consistent vapour production. The Grape Edition features a variety of grape-inspired blends, combining sweet, tangy, and cooling elements for a layered fruit experience: Grape Soda – A fizzy and sweet Grape flavour that captures the refreshing essence of grape soda. Grape Blackcurrant Ice – A bold mix of juicy Grapes and tart Blackcurrant with a cooling menthol finish. Grape Kiwi Ice – A vibrant combination of sweet Grapes and tangy Kiwi, enhanced by a crisp menthol exhale. Grape Lemon Soda – A lively mix of Grape and zesty Lemon soda for a tangy and refreshing vape. Swapping pods is effortless—just replace an empty pod with a fresh one and continue enjoying your vape. Whether you're looking for an easy way to keep your device performing at its best or a simple alternative to disposables, these pods provide a convenient and mess-free vaping solution.",
+  "tags": [
+    "4 x 2ml",
+    "IVG 2400 Reload",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139231",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-2400-reload-grape-edition-prefilled-vape-pods-20mg-4pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-reload-pods-Grape-Edition-min.jpg?v=1741682940",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.306Z"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "16062214570365",
+  "slug": "lost-mary-bm600-strawberry-raspberry-cherry-prefilled-pods",
+  "title": "Lost Mary BM600 Strawberry Raspberry Cherry Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-strawberry-raspberry-cherry-prefilled-pods",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Strawberry Raspberry Cherry Lost Mary BM600 Prefilled Pods deliver a complex and layered berry medley. The profile brings together the summery sweetness of Strawberry, the sharp tang of Raspberry, and the bold depth of Cherry for a rich and intensely fruity vape. Each pack includes two 2ml pods prefilled with 20mg nicotine salt e-liquid, delivering up to 600 puffs* per pod depending on usage. Designed for a smooth mouth-to-lung (MTL) draw, they provide a satisfying experience with no need for refilling or coil changes. Made exclusively for the Lost Mary BM600 Prefilled Pod Kit, these pods are quick and clean to install. Simply click a pod into the device and enjoy consistent flavour and vapour with every puff. *Puff counts are approximate and dependent on the length of each draw. Total puffs may vary.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1154391",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-strawberry-raspberry-cherry-prefilled-pods__001.webp",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lm-bm600-pod-strawberry-raspberry-cherry_8ad7c660-8b3a-4720-b145-d8e7d5b7654e.webp?v=1791217127",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.292Z"
+}

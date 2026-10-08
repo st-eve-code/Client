@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14928390127997",
+  "slug": "ske-crystal-plus-peach-ice-prefilled-pods-20mg",
+  "title": "SKE Crystal Plus Peach Ice Prefilled Pods 20mg",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-plus-peach-ice-prefilled-pods-20mg",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: These pods are not compatible with the SKE BAR device. Peach Ice flavour SKE Crystal Plus prefilled pods combine the juicy, sweet taste of ripe peaches with a cool, refreshing menthol finish. The result is a perfectly balanced vape that delivers smooth sweetness with a super-refreshing icy exhale—ideal for vapers who enjoy fruity flavours with a frosty kick. Designed exclusively for the SKE Crystal Plus Pod Kit, these prefilled pods offer incredible convenience without compromising on flavour. Retaining the iconic crystalline design of the SKE Crystal Bar disposables, they provide a more cost-effective and eco-friendly alternative. Each pod is prefilled with 2ml of 20mg nicotine salt e-liquid, ensuring a smoother throat hit and faster nicotine satisfaction. Combined with the 1.1ohm mesh coil, these pods produce exceptional flavour clarity and a satisfying mouth-to-lung (MTL) vaping experience. Thanks to the prefilled, user-friendly design, there’s no need for messy refills or coil changes—just replace the pod when it’s empty for uninterrupted vaping enjoyment. Please Note: SKE Crystal Plus pods include a protective seal that must be removed before use. Detach the bung from the top of the mouthpiece and allow the pod to sit for 5-10 minutes to ensure the coil is fully saturated with e-liquid, preventing dry hits or burnt coils",
+  "tags": [
+    "2 x 2ml",
+    "Crystal Plus",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137733",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-plus-peach-ice-prefilled-pods-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-crystal-plus-prefilled-vape-pods-PEACH-ICE.jpg?v=1736259703",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.382Z"
+}

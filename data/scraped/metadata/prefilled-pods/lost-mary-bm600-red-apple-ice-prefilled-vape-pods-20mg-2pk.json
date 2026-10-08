@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15552355402109",
+  "slug": "lost-mary-bm600-red-apple-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Red Apple Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-red-apple-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Red Apple Ice Lost Mary BM600 Prefilled Pods deliver the crisp sweetness of fresh Red Apple with a cool Menthol finish. The fruit note is juicy and bright on the inhale, balanced by a refreshing icy exhale for a flavour that’s simple and satisfying. Each pack includes two 2ml pods prefilled with 20mg nicotine salt e-liquid, offering up to 600 puffs per pod depending on use. With a smooth mouth-to-lung (MTL) draw, these pods give consistent flavour and vapour without the need for coil changes or refilling. Designed for the Lost Mary BM600 Prefilled Pod Kit, they’re quick to set up: click the pod into place and enjoy a fruit-and-ice blend that stays clean and refreshing.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148288",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-red-apple-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Apple-Ice-Lost-Mary-BM600-Prefilled-Pods.jpg?v=1758556145",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.333Z"
+}

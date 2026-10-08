@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639668449604",
+  "slug": "smok-solus-2-replacement-pods-2ml",
+  "title": "SMOK Solus 2 Replacement Pod 0.9ohm 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-solus-2-replacement-pods-2ml",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "These replacement Solus 2 pods feature a built-in 0.9ohm mesh coil that provides a discreet yet satisfying MTL sensation. The coil’s mesh build helps the E-Liquid heat quicker, producing even richer flavour. When your coil begins to lose flavour, simply swap it out for a new one. The pods attach securely to the device with strong magnets, and depending on which way you insert the pod, you can also adjust the airflow for a tighter MTL draw, or a looser RDL (restricted direct-lung) sensation. The Smok Solus 2 2ml pods feature a slim, comfortable mouthpiece and are refillable via a silicone-stoppered seal on the pod’s side. This means you can always carry your favourite flavour E-Liquid with you or swap out flavours to experiment. We recommend High-PG, 50/50 and Nic Salt E-Liquids for use with the Solus 2 pods. Slim, light and incredibly simple to use, the Smok Solus 2 refillable pod kit is an ideal kit for newer vapers or those seeking a convenient back-up device.",
+  "tags": [
+    "Delisted",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1116709",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-solus-2-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-solus-2-pod-0-9.jpg?v=1729046967",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

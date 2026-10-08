@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15882706747773",
+  "slug": "smok-nord-6-empty-replacement-pod",
+  "title": "SMOK Nord 6 Empty Replacement Pod - 2pk",
+  "url": "https://www.vapestore.co.uk/products/smok-nord-6-empty-replacement-pod",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3,
+    "max": 3,
+    "currency": "GBP"
+  },
+  "description": "Keep your Smok Nord 6 device performing at its peak with these official replacement empty pods. Specially designed for the Smok Nord 6 Pod Vape Kit, these 2ml capacity pods feature an incredibly convenient top-filling mechanism. To refill, simply remove the top cap and insert your e-liquid nozzle into the spring-loaded filling port, ensuring a clean and hassle-free experience without having to remove the pod from the device. These pods are supplied empty and utilise a detachable coil system, meaning they are fully compatible with the popular Smok RPM 4 coil series. This allows you to replace just the coil when the flavour begins to fade, making it a highly cost-effective and environmentally friendly way to vape. Supplied in a handy pack of two. Please Note: Coils are not included and must be purchased separately.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1154675",
+      "price": 3
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-nord-6-empty-replacement-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Nord60.4ogmpod2pk.jpg?v=1778858615",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

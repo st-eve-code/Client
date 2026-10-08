@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15343296971133",
+  "slug": "helwit-mocha-nicotine-pouches-9mg",
+  "title": "Helwit Mocha Nicotine Pouches 9mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-mocha-nicotine-pouches-9mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Mocha Nicotine Pouches serve up a comforting combination of chocolate and coffee, with caramel tones rounding out the flavour. It’s a warm, indulgent option that delivers the richness of a mocha without any of the sugar or mess. With 9mg of nicotine per pouch, this variant suits users seeking a stronger level of satisfaction. The slim pouches are made from soft, plant-based fibres and provide a steady, discreet nicotine release with no smoke, vapour or lingering smell. A flavourful pouch that feels like a coffee break in your pocket. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "9mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg/pouch",
+      "sku": "1143088",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-mocha-nicotine-pouches-9mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mocha-HelwitNicotinePouch.jpg?v=1751555587",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.904Z"
+}

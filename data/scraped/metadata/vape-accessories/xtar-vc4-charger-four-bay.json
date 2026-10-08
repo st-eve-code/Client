@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639250952516",
+  "slug": "xtar-vc4-charger-four-bay",
+  "title": "Xtar VC4 Charger",
+  "url": "https://www.vapestore.co.uk/products/xtar-vc4-charger-four-bay",
+  "brand": "Xtar",
+  "productType": "Battery Charger",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "The VC4 is an intelligent amalgamation of the XP4C and VC2 chargers, and can recognise and safely charge specific batteries. With the ability to monitor and display charging current, voltage and battery capacity of both Ni-MH and Li-ion batteries simultaneously, the VC4 offers reliable performance and user peace of mind. Powered by USB or DC USB wall adaptor plugs.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1094842",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__xtar-vc4-charger-four-bay__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/320364_xtar_vc4_charger_001.jpg?v=1729031469",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

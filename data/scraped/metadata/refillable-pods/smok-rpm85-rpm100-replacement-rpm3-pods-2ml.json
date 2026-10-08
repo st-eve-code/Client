@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639740408132",
+  "slug": "smok-rpm85-rpm100-replacement-rpm3-pods-2ml",
+  "title": "SMOK RPM 85 & RPM 100 Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-rpm85-rpm100-replacement-rpm3-pods-2ml",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 1.99,
+    "max": 1.99,
+    "currency": "GBP"
+  },
+  "description": "The SMOK RPM 85 and RPM 100 vape kits from Smoktech are ideal for vapers who enjoy long, sub-ohm vaping sessions but prefer a less bulky and unwieldy device. These replacement pods are compatible with both devices and offer an e-liquid capacity of 2ml. The pods are easily refilled via a clever sliding top-fill design slide the cap out to reveal the fill port, top up with e-liquid, seal, and you’re good to go. The pod attaches to the RPM 85/ RPM100 mod with strong magnets, and Smok have also introduced a genius lock at the bottom of the pod that prevents the accidental removal of the coil as well as leaks. These Smok RPM 85 / RPM 100 pods are compatible with Smok’s RPM 2 (sold separately) which are easily installed via a push-to-fit design. Together with the RPM 2 coils and the RPM 85 / RPM 100 vape kit, you can enjoy a fantastically flavoursome DTL (direct-to-lung) experience when used with 70% VG, sub-ohm e-liquids.",
+  "tags": [
+    "CC DC List",
+    "Delisted",
+    "MTL/DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Pod Type",
+      "position": 1,
+      "values": [
+        "RPM 2 - 2ml"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "RPM 2 - 2ml",
+      "sku": "1119004",
+      "price": 1.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-rpm85-rpm100-replacement-rpm3-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/three-pack-rpm_85-100_empty_pod_rpm_2_coil_-2ml_1_1.jpg?v=1729048853",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rpm85-rpm100-replacement-rpm3-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/three-pack-rpm_85-100_empty_pod_rpm_2_coil_-2ml.jpg?v=1729048853",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rpm85-rpm100-replacement-rpm3-pods-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/three-pack-rpm_85-100_empty_pod_rpm_2_coil_-2ml_1.jpg?v=1729048853",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

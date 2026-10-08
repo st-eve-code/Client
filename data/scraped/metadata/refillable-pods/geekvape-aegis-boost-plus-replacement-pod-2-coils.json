@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639422165316",
+  "slug": "geekvape-aegis-boost-plus-replacement-pod-2-coils",
+  "title": "Geekvape Aegis Boost Plus pod with coils 0.4 & 0.6 ohm",
+  "url": "https://www.vapestore.co.uk/products/geekvape-aegis-boost-plus-replacement-pod-2-coils",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "This convenient replacement pod is designed for use with the Aegis Boost Pod Mod kit, providing up to 2ml of capacity for your e-liquid of choice as well as a replacement coil. The innovative pod employs ultrasonic technology to ensure a leak free seal and eliminate condensation and snaps firmly into place with strong magnets. The Boost coils deliver immense flavour and satisfying clouds and the pod is compatible with other coils in the Boost range meaning you can freely experiment to achieve the ultimate MTL or DTL vape experience. What's in the box 1 x Aegis Boost Plus Replacement Pod 2ml 1 x GeekVape GV Boost Coil 0.6ohm 1 x GeekVape GV Boost Coil 0.4ohm",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "GV-GV-PO-AG-BP-CL-0.4-0.6",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-aegis-boost-plus-replacement-pod-2-coils__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-aegis-boost-plus-replacement-pod.jpg?v=1729039042",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

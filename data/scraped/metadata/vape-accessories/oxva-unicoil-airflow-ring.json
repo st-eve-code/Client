@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639918731588",
+  "slug": "oxva-unicoil-airflow-ring",
+  "title": "Oxva Unicoil Airflow Ring - 1 Pack",
+  "url": "https://www.vapestore.co.uk/products/oxva-unicoil-airflow-ring",
+  "brand": "Oxva",
+  "productType": "Accessories",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "The OXVA Unicoil Airflow Ring is an indispensable accessory for users of the OXVA Unicoil system. It allows for meticulous adjustment of the airflow to tailor your vaping experience to your preferences, whether you seek a tight, restricted MTL (mouth-to-lung) draw or a more open, airy DTL (direct-to-lung) inhalation. This airflow ring is designed to screw onto the bottom of your Unicoil, enabling adjustments before placing it into the Unicoil pod cartridge. Not only does it offer enhanced control over the airflow, but it also ensures that your coils fit perfectly within your device, preventing any leakage and maximizing the efficiency of your vape. The Unicoil Airflow Ring is compatible exclusively with Unicoil coils and is not suitable for use with Unipro coils. Whether you're using your device at home or on the go, the Unicoil Airflow Ring is a handy component that adds to the versatility of your OXVA device. Remember, to maintain uninterrupted functionality, never discard the airflow ring when changing your coil.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1099788",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-unicoil-airflow-ring__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-unicoil-air-flow-ring-1pk.jpg?v=1729061120",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

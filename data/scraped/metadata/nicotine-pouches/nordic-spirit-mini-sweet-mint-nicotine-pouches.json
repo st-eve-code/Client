@@ -1,0 +1,54 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15988985201021",
+  "slug": "nordic-spirit-mini-sweet-mint-nicotine-pouches",
+  "title": "Nordic Spirit Mini Sweet Mint Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-mini-sweet-mint-nicotine-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 4.5,
+    "max": 4.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Mini Sweet Mint Nicotine Pouches deliver a brisk and refreshing mint profile with complementary sweet notes. Designed for users looking for a gentle and immediate sensation, this flavour provides a clean mint burst that is both deeply cooling and satisfying. Unlike standard dry pouches, this Mini range features an updated moist formulation. This allows for a more rapid release of both flavour and nicotine, ensuring a fast-acting experience from the moment the pouch is placed under the lip. Furthermore, the newly redesigned, slimmer can offers a premium hand feel and maximum portability. Each mini pouch is highly discreet and made from soft, plant-based fibres for exceptional comfort. Providing a Mellow 4mg nicotine content, these pouches deliver a steady, reliable release without any smoke, vapour, or odour, making them a highly practical alternative for everyday use. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "4mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "4mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "4mg / pouch",
+      "sku": "1162104",
+      "price": 4.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-mini-sweet-mint-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sweet-Mint-Mini-MELLOW-Nordic-Spirit-Mini.jpg?v=1786455680",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-mini-sweet-mint-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sweet-Mint-Mini-MELLOW-Open-Nordic-Spirit-Mini.jpg?v=1786455679",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.896Z"
+}

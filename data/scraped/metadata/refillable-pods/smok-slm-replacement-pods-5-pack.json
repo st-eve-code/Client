@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639350403396",
+  "slug": "smok-slm-replacement-pods-5-pack",
+  "title": "SMOK SLM Replacment Pods",
+  "url": "https://www.vapestore.co.uk/products/smok-slm-replacement-pods-5-pack",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The SMOK SLM Replacement Pod Cartridges features a unique refillable pod element with 0.8mL juice capacity, cleverly designed with simple side refill method to accommodate a wide range flavorful nicotine salts. Comes in a pack of 5. 5 x Pods in a Pack",
+  "tags": [
+    "compatible-with-SM-KT-SL-MX-PD-BLU",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-PD-RP-SL-XM-5PAC",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-slm-replacement-pods-5-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-slm-replacment-pods-pack-5.jpg?v=1729035887",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

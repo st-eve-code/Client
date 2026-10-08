@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15649553449341",
+  "slug": "hayati-pro-max-plus-blue-razz-pineapple-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Blue Razz Pineapple Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-blue-razz-pineapple-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Razz Pineapple fuses tangy Blue Raspberry with sweet tropical Pineapple for a vibrant and fruity vape. The combination of tart and juicy notes creates a balanced, refreshing finish. Each Hayati Pro Max + Prefilled Pod arrives as a 2ml prefilled pod linked to a 10ml refill reservoir, giving a total of 12ml of 20mg Nic Salt e-liquid. No bottles or coil changes required—simply attach to the Hayati Pro Max + Prefilled Pod Kit and vape. The dual mesh coil ensures clear, consistent flavour for up to 6000 puffs (approx.). Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149089",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-blue-razz-pineapple-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Pineapple_Hayati-Pro-Max_-Pods-6000.jpg?v=1762253861",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.328Z"
+}

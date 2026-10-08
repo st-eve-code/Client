@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14928637952381",
+  "slug": "avomi-fliq-prefilled-vape-pods-soft-mint",
+  "title": "Avomi FLIQ Prefilled Vape Pods - Soft Mint",
+  "url": "https://www.vapestore.co.uk/products/avomi-fliq-prefilled-vape-pods-soft-mint",
+  "brand": "Avomi",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Avomi Fliq 4-in-1 Replacement Prefilled Pods in Soft Mint offer a smooth, mellow mint flavour that’s both refreshing and satisfying. Ideal for vapers seeking a cool yet gentle vape, this soft mint flavour provides a balanced minty taste without overwhelming intensity. Each pod contains 2ml of 20mg nicotine salt e-liquid, providing a smooth throat hit and quick nicotine satisfaction. These replacement pods are compatible with the Avomi Fliq 4-in-1 Prefilled Pod Device, which allows users to effortlessly switch between four prefilled pods. This versatility makes it perfect for users who enjoy changing flavours to suit their mood. The Avomi Fliq 4-in-1 Device features a durable 950mAh rechargeable battery and USB-C fast charging for dependable, all-day vaping. The device’s ergonomic design and soft-touch coating ensure comfort, making it a reliable companion for vapers on the move.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137295",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__avomi-fliq-prefilled-vape-pods-soft-mint__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/AVOMI-Fliq-prefilled-pods-Soft-Mint.jpg?v=1738056000",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.327Z"
+}

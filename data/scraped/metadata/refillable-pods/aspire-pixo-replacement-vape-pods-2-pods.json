@@ -1,0 +1,81 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14876998173053",
+  "slug": "aspire-pixo-replacement-vape-pods-2-pods",
+  "title": "Aspire Pixo Replacement Vape Pods - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/aspire-pixo-replacement-vape-pods-2-pods",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Designed to perfectly complement the Aspire Pixo Pod Kit, the Aspire Pixo Replacement Pods offer versatility and convenience in one handy 2-pack. Each pod comes with a built-in mesh coil for enhanced flavour and vapour production. Available in three resistances—0.4ohm, 0.6ohm, and 1.0ohm—these pods cater to both mouth-to-lung (MTL) and restricted direct-to-lung (RDL) vaping styles. The 0.4ohm pod delivers a slightly warmer, denser vape with more vapour, making it ideal for sub-ohm or direct-to-lung vaping. The 0.6ohm pod provides a perfect balance between vapour and flavour, ideal for nicotine salt or freebase e-liquids. For those who prefer a smooth, MTL draw with a higher resistance, the 1.0ohm pod ensures a satisfying hit with excellent flavour production. Each pod has a 2ml e-liquid capacity (TPD version) and features an easy side-fill system for quick and mess-free refills. The adjustable airflow on the Pixo Pod Kit allows for further fine-tuning of your vaping experience. We Recommend using the following E-Liquid with these pods Aspire Pixo Replacement Pods - 0.4ohm use High VG (Sub-Ohm) E-Liquid Aspire Pixo Replacement Pods - 0.6ohm use Nic Salt E-Liquid Aspier Pixo Replacement Pods - 1.0ohm use High PG, 50/50 and Nic Salt E-Liquid Aspier Pixo Replacement Pods - 1.2ohm use High PG, 50/50 and Nic Salt E-Liquid Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.6ohm",
+        "1.0ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1135907",
+      "price": 3.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1135908",
+      "price": 3.49
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1135909",
+      "price": 3.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1142165",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-pixo-replacement-vape-pods-2-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pixo-pod-2ml-0.4.jpg?v=1736526662",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pixo-replacement-vape-pods-2-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pixo-pod-2ml-0.6.jpg?v=1736526687",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-pixo-replacement-vape-pods-2-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pixo-pod-2ml-1.0.jpg?v=1736526699",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

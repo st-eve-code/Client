@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639587479876",
+  "slug": "smok-rpm4-replacement-pods",
+  "title": "SMOK RPM 4 Replacement Pods 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-rpm4-replacement-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "Designed for the new Smok RPM 4 pod kit, these original replacement pods have a 2ml refillable e-liquid capacity. Its comfortable, ergonomic mouthpiece sits above a pod that is held in place with firm magnets. A transparent viewing window lets you easily monitor the level of e-liquid while silicone-stoppered side fill system helps make refilling mess-free. LP2 cartridge is compatible with all of Smok’s LP2 coils (not included) RPM cartridge is compatible with all of Smok’s RPM coils (not included)",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Pod Type",
+      "position": 1,
+      "values": [
+        "RPM - Pod Only",
+        "LP2 - Pod Only"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "RPM - Pod Only",
+      "sku": "SM-RP-RPM-4-RPM-2ML-3P",
+      "price": 5.49
+    },
+    {
+      "title": "LP2 - Pod Only",
+      "sku": "SM-RP-RPM-4-LP2-2ML-3P",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-rpm4-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-pods-lp2_1.jpg?v=1729043049",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rpm4-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-pods-31.jpg?v=1729043049",
+      "position": 2,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-rpm4-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-pods-lp2.jpg?v=1729043049",
+      "position": 3,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

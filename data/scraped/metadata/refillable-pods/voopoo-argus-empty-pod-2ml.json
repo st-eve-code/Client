@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639745257796",
+  "slug": "voopoo-argus-empty-pod-2ml",
+  "title": "VooPoo Argus Empty Replacement Pods 2ml - 2pk",
+  "url": "https://www.vapestore.co.uk/products/voopoo-argus-empty-pod-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "The new Argus P1 15W pod kit from Voopoo is a premium vape device built for incredible flavour and performance while being super-compact and easy to transport. This pocket-sized vape is versatile enough to offer a variety of MTL (mouth-to-lung) and DTL (direct-to-lung) vaping styles, with the aid of Voopoo’s ITO coils which are available in a variety of resistances to let you tailor your vape just the way you want. Replacing the coils is simple thanks to their ‘Plug-n-Play’ design. The leak-resistant 2ml pods attach to the Argus P1 device with strong magnets and feature a 4-hole inlet for better, smoother airflow, while Voopoo’s ITO atomisation technology ensures you get the best flavour from your chosen coil and e-liquid. To refill, simply detach the silicon seal plug to reveal the fill port",
+  "tags": [
+    "compatible-with-1116095",
+    "compatible-with-1119882",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1119892",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-argus-empty-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/two-pack-voopoo-argus-p1-pods.jpg?v=1729049234",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

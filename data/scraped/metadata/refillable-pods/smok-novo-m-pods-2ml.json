@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14874152075645",
+  "slug": "smok-novo-m-pods-2ml",
+  "title": "SMOK M Replacement Pods 2ml - 3 Pods",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-m-pods-2ml",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Novo M Pods are designed to complement the Smok Novo GT Box Kit and other kits in the Novo collection, providing a seamless and flavourful vaping experience with zero fuss. With a 2ml e-liquid capacity, these pods feature a convenient top-fill design that ensures mess-free refills without the need to remove the pod from the device. Available in three resistances (0.6ohm, 0.8ohm, and 1.0ohm), the Novo M Pods allow you to tailor your vape to your preferences. The 0.6ohm pod is ideal for a warmer, more intense restricted direct lung (RDL) experience, while the 0.8ohm and 1.0ohm pods are perfect for mouth-to-lung (MTL) vapers looking for a smooth and satisfying draw. Each pod is equipped with a built-in coil that ensures consistent vapour production and robust flavour, making them a great choice for vapers who prefer convenience without sacrificing quality. Simply fill the pod from the top, snap it into your Novo GT Box device, and enjoy a hassle-free vaping experience. We Recommend using High PG , 50/50 or Nic Salt with these pods: SMOK M Replacement Pods 1.0ohm - Use High PG or 50/50 SMOK M Replacement Pods 0.8ohm - Use 50/50 or Nic Salts E-Liquid SMOK M Replacement Pods 0.6ohm - Use 50/50 or Nic Salts E-Liquid Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1135878",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1135879",
+      "price": 5.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1135880",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-m-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/novo-pod-m-meshed_1_1_1.jpg?v=1732842781",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-m-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/novo-pod-m-meshed.jpg?v=1732842781",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-m-pods-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/novo-pod-m-meshed_1.jpg?v=1732842781",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-m-pods-2ml__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/novo-pod-m-meshed_1_1.jpg?v=1732842781",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.394Z"
+}

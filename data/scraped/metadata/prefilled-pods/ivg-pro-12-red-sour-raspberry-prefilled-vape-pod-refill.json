@@ -1,0 +1,77 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15375673360765",
+  "slug": "ivg-pro-12-red-sour-raspberry-prefilled-vape-pod-refill",
+  "title": "IVG Pro 12 Red Sour Raspberry Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-pro-12-red-sour-raspberry-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Red Sour Raspberry IVG Pro 12 Prefilled Pods deliver a sharp, fruity vape with a sweet Red Raspberry base and tangy sour kick. It’s a bold berry profile with a satisfying edge that lingers lightly on the exhale. Each refill pack includes a 2ml pod prefilled with 0mg, 10mg or 20mg nicotine salt e-liquid, plus a separate 10ml refill reservoir. Once clicked together, the refill system automatically supplies the pod as you vape — supporting up to 10,000 puffs per kit depending on usage. These pods are fitted with mesh coil technology for consistently smooth MTL vapour and full flavour delivery. Designed exclusively for the IVG Pro 12 Prefilled Pod Vape Kit. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill reservoir and press until they click into place. Slide the connected pod and refill unit into the device. Wait a few moments to allow the coil to saturate before vaping.",
+  "tags": [
+    "2ml + 10ml",
+    "IVG Pro 12 Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg",
+        "10mg",
+        "0mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143330",
+      "price": 6.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150123",
+      "price": 6.95
+    },
+    {
+      "title": "0mg",
+      "sku": "1151322",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-pro-12-red-sour-raspberry-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-Pro-12---Refill-Box-Red-Sour-Raspberry.jpg?v=1752589006",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-pro-12-red-sour-raspberry-prefilled-vape-pod-refill__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Sour-Raspberry-IVG-Pro-12-Prefilled-Pod-10mg.jpg?v=1765210404",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-pro-12-red-sour-raspberry-prefilled-vape-pod-refill__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Red-Sour-Raspberry-IVG-Pro-12-Prefilled-Pod-0mg.jpg?v=1765210470",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.310Z"
+}

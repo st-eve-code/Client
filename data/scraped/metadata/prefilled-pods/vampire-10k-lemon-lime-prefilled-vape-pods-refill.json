@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15658569695613",
+  "slug": "vampire-10k-lemon-lime-prefilled-vape-pods-refill",
+  "title": "Vampire 10K Lemon & Lime Prefilled Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/vampire-10k-lemon-lime-prefilled-vape-pods-refill",
+  "brand": "Vampire",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon and Lime brings classic citrus character with tangy Lemon and crisp Lime. It’s zesty, bright and clean, with that familiar sweet-sour lemonade style finish. Each Vampire 10K Prefilled Pod pack is supplied as a prefilled 2ml pod attached to an integrated 10ml refill reservoir, giving 12ml total of 20mg Nic Salt e-liquid. There’s no messy refilling and no coil changes. Just connect the pod to the Vampire 10K Prefilled Pod Kit and vape. Powered by a dual mesh coil and inhale activation, the pod supports discreet MTL vapour and consistent flavour. Each pod can deliver up to 10,000 puffs (approx.), depending on personal use. When flavour drops off, replace with a fresh Vampire 10K Prefilled Pod.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Vampire Vape 10K"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143230",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vampire-10k-lemon-lime-prefilled-vape-pods-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-_-Lime-Vampire-Vape-10K-Prefilled-Pod.jpg?v=1762776708",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.332Z"
+}

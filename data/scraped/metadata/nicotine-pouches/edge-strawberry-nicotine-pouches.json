@@ -1,0 +1,90 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15594529423741",
+  "slug": "edge-strawberry-nicotine-pouches",
+  "title": "EDGE Strawberry Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/edge-strawberry-nicotine-pouches",
+  "brand": "Edge",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "EDGE Strawberry nicotine pouches provide a light, familiar Strawberry taste with gentle sweetness that stays clear and easy-going. Each pouch fits neatly under the lip and releases nicotine gradually without smoke, vapour or noticeable odour. Available in 3mg (Light), 6mg (Medium), 9mg (Strong) and 12mg (Extra Strong), each Slim can provides 20 pouches for simple, discreet use whenever you need it. Created by EDGE, one of the UK’s best-known vape brands, this pouch collection reflects the same emphasis on quality and flavour across the wider EDGE range. Explore more EDGE Nicotine Pouch flavours including Mint and Strawberry. Nicotine Ranges: Light - 3mg this is best for new users. Medium - 6mg this is best for regular users. Strong - 9mg this is suited for more experienced users Extra Strong - 12mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "3mg to 12mg",
+    "nordicminiofferfruit",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "9mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1148902",
+      "price": 4.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1148899",
+      "price": 4.95
+    },
+    {
+      "title": "9mg",
+      "sku": "1148907",
+      "price": 4.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1148911",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__edge-strawberry-nicotine-pouches__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/EDGE_Nic_Pouch_Strawberry_3mg.png?v=1760021073",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__edge-strawberry-nicotine-pouches__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/EDGE_Nic_Pouch_Strawberry_6mg.png?v=1760021096",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__edge-strawberry-nicotine-pouches__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/EDGE_Nic_Pouch_Strawberry_9mg.png?v=1760021111",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__edge-strawberry-nicotine-pouches__004.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/EDGE_Nic_Pouch_Strawberry_12mg.png?v=1760021135",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.903Z"
+}

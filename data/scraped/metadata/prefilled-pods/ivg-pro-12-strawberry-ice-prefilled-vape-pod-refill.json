@@ -1,0 +1,78 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15375678931325",
+  "slug": "ivg-pro-12-strawberry-ice-prefilled-vape-pod-refill",
+  "title": "IVG Pro 12 Strawberry Ice Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-pro-12-strawberry-ice-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Ice IVG Pro 12 Prefilled Pods combine sweet, juicy Strawberry flavour with a cool Menthol finish. The fruity top note is bright and familiar, with a brisk icy streak to refresh the exhale. Each pack includes a 2ml pod prefilled with 0mg, 10mg or 20mg nicotine salt e-liquid, along with a separate 10ml refill reservoir. Once assembled, the refill system keeps the pod topped up as you vape — no need to refill or replace coils, and up to 10,000 puffs per kit depending on usage. Mesh coil technology delivers reliable MTL vapour and smooth flavour from start to finish. Compatible only with the IVG Pro 12 Prefilled Pod Vape Kit. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill reservoir and press until they click into place. Slide the connected pod and refill unit into the device. Wait a few moments to allow the coil to saturate before vaping.",
+  "tags": [
+    "2ml + 10ml",
+    "IVG Pro 12 Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg",
+        "10mg",
+        "0mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143331",
+      "price": 6.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150124",
+      "price": 6.95
+    },
+    {
+      "title": "0mg",
+      "sku": "1151323",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-pro-12-strawberry-ice-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-Pro-12---Refill-Box-Strawberry-Ice.jpg?v=1752589258",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-pro-12-strawberry-ice-prefilled-vape-pod-refill__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Ice-IVG-Pro-12-Prefilled-Pod-10mg.jpg?v=1765210677",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ivg-pro-12-strawberry-ice-prefilled-vape-pod-refill__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Ice-IVG-Pro-12-Prefilled-Pod-0mg.jpg?v=1765210712",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.303Z"
+}

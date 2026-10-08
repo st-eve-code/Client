@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15587305292157",
+  "slug": "ske-cl2000-spring-berry-prefilled-pod-refill-20mg",
+  "title": "SKE CL2000 Spring Berry Prefilled Pod + Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/ske-cl2000-spring-berry-prefilled-pod-refill-20mg",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Spring Berry brings together a mix of ripe Berry notes with a gentle tang for balance — a simple, juicy fruit blend for any time of day. Each CL2000 replacement pack contains a 1.8ml prefilled pod and a 2.2ml refill container. Click them together, fit to your CL2000 device and enjoy consistent flavour from the mesh coil and 20mg Nic Salt e‑liquid, with up to 2000 puffs per pack depending on use. To replace: remove seals, click the pod and refill together, then push the assembled unit into the device until it locks. When both sections are empty, dispose of them responsibly and fit a fresh CL2000 pod + refill.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148732",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-cl2000-spring-berry-prefilled-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Spring-Berry-SKE-CL2000-Pods.jpg?v=1759758270",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.350Z"
+}

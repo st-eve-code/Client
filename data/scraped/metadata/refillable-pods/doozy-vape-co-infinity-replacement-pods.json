@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15290999079293",
+  "slug": "doozy-vape-co-infinity-replacement-pods",
+  "title": "Doozy Vape Co Infinity Replacement Pods - 0.8ohm",
+  "url": "https://www.vapestore.co.uk/products/doozy-vape-co-infinity-replacement-pods",
+  "brand": "Doozy Vape Co",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "These Doozy Infinity Replacement Pods are designed for use with the Doozy Infinity Pod Vape Kit and feature a built-in 0.8ohm mesh coil, ideal for restricted direct-to-lung (RDL) vaping. Each pod holds up to 2ml of e-liquid and uses a secure bottom-fill design for mess-free refills and minimal leakage. The integrated 0.8ohm coil delivers a looser, more open draw than standard MTL options, making it a great fit for vapers who prefer a smoother inhale with slightly increased vapour. Best paired with lower strength Nic Salt e-liquids (such as 10mg) or 50/50 freebase blends, these pods offer clean flavour and consistent performance across multiple refills. With no need for manual coil replacements, these pods are easy to swap out once performance starts to drop — just fill, vape and replace. Each pack contains three pods, making it easy to rotate between flavours or keep spares on hand. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm - 3pk"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm - 3pk",
+      "sku": "1142597",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-vape-co-infinity-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Doozy-Infinity-Cartridge.jpg?v=1749570237",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

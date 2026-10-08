@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639637909828",
+  "slug": "smok-rpm5-replacement-pods-2ml",
+  "title": "SMOK RPM 5 Replacement Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-rpm5-replacement-pods-2ml",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "These replacement, refillable pods for the RPM 5 can hold 2ml of your favourite e-liquid, and refilling is made simple and mess-free with its top-refill design which also prevents leaks. The pods are built for SMOK’s RPM 3 mesh coils, built for awesome flavour and longevity. Versatile, compact and incredibly satisfying to use, the new RPM 5 pod kit from Smok is an ideal kit for all types of vaper.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1111886",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-rpm5-replacement-pods-2ml__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-rpm-5-pods.png?v=1729045500",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

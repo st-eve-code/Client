@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15537451991421",
+  "slug": "nordic-spirit-zesty-pear-nicotine-pouches",
+  "title": "Nordic Spirit Zesty Pear Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-zesty-pear-nicotine-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Zesty Pear Nicotine Pouches deliver a bright combination of mellow, juicy Pear uplifted by a tangy Lime edge. This balance of sweet and citrus tones creates a clean and memorable flavour profile that feels refreshing without overpowering the senses. Crafted from slim, plant-based fibres, these pouches fit discreetly under the lip and release nicotine steadily without smoke, vapour, or odour. An updated moist formulation ensures a softer feel and quicker flavour release, while the redesigned can offers a slimmer shape with a premium look and feel. Available in Regular (6mg) and Strong (9mg) strengths, Nordic Spirit Zesty Pear provides a convenient and versatile nicotine experience suitable for different preferences. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "6mg to 9mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1148323",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1148327",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-zesty-pear-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Zesty-Pear-Reg-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773745060",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-zesty-pear-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Zesty-Pear-Strong-Nordic-Spirit-Nicotine-Pouches_c87457d2-4d8b-4e72-919b-f14e3ac8999b.jpg?v=1773745063",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.899Z"
+}

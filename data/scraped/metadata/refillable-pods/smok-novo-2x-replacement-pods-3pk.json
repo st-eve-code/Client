@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639815119172",
+  "slug": "smok-novo-2x-replacement-pods-3pk",
+  "title": "SMOK Novo 2 X Replacement Pod - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-2x-replacement-pods-3pk",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The new Smok Novo 2X is a pocket-friendly, easy to use, affordable, versatile and extremely satisfying vape device suitable for all levels of vaper. It features an 800mAh battery, auto-inhale and automatic coil recognition, as well as compatibility with Novo and Novo 2 pods. These replacement Smok Novo 2X 2ml refillable pods feature a built-in 0.9ohm, 0.6ohm or 0.8ohm coil that entirely removes the need to change coils when it expires. Simply swap the pod out for a fresh one when it begins to lose flavour. The coil’s mesh build provides a faster heat-up time, an extremely flavoursome vape and a satisfying MTL (mouth-to-lung) draw, especially when used with high-PG, 50/50 and nic salt -liquids. A simple side-fill port helps prevent leaks when it’s time to refill the pod. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm Mesh"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm Mesh",
+      "sku": "1134591",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-2x-replacement-pods-3pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-2x-pods-3pk_1_1.jpg?v=1729054065",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-2x-replacement-pods-3pk__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-2x-pods-3pk.jpg?v=1729054065",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-2x-replacement-pods-3pk__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-2x-pods-3pk_1.jpg?v=1729054065",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-2x-replacement-pods-3pk__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-2x-pods-3pk_1_2.jpg?v=1729054065",
+      "position": 4,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

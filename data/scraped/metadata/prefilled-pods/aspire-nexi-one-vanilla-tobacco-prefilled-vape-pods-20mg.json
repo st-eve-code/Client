@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "9640056127812",
+  "slug": "aspire-nexi-one-vanilla-tobacco-prefilled-vape-pods-20mg",
+  "title": "Aspire Nexi One Vanilla Tobacco Prefilled Vape Pods - 20mg",
+  "url": "https://www.vapestore.co.uk/products/aspire-nexi-one-vanilla-tobacco-prefilled-vape-pods-20mg",
+  "brand": "Aspire",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Indulge in the smooth, sophisticated taste of Vanilla Tobacco with Aspire Nexi's prefilled pods. Each pod offers a unique blend flavours featuring rich tobacco and the sweet, creamy notes of vanilla, creating a luxuriously smooth vaping experience. These 20mg nicotine salt pods are perfect for those who enjoy a hint of sweetness with their traditional tobacco flavour, providing a balanced throat hit and effective nicotine delivery. The pack includes three pods, each with 1.2ml of e-liquid and designed to deliver up to 350 puffs. Featuring a 1.6ohm coil, the Nexi pods ensure a satisfying mouth-to-lung vaping experience reminiscent of smoking a traditional cigarette, but without the tar and ash. Effortless to use with the Aspire Nexi device, these pods ensure a clean, hassle-free vaping session without the need for refilling.",
+  "tags": [
+    "compatible-with-1133626",
+    "MTL",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1132027",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nexi-one-vanilla-tobacco-prefilled-vape-pods-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nexi-one-replacement-pod-3pk-vanilla-tobacco.jpg?v=1729065323",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.384Z"
+}

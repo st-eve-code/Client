@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15143021511037",
+  "slug": "vaporesso-dojo-blast-10k-classic-tobacco-prefilled-pod-refill",
+  "title": "Vaporesso DOJO Blast Pod & Refill For 10K or 30K Device – Classic Tobacco",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-dojo-blast-10k-classic-tobacco-prefilled-pod-refill",
+  "brand": "Vaporesso",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: Compatible with Vaporesso Dojo Blast 10K & 30K Kits Only Refresh your Vaporesso Dojo Blast 10K vape kit with the Classic Tobacco Prefilled Pod & Refill Pack. This smooth and familiar refill option includes a 2ml prefilled pod and an 8ml refill container, both filled with 20mg nicotine salt e-liquid in a traditional tobacco flavour. Classic Tobacco delivers a mellow, earthy tobacco flavour with a subtle roasted note and a satisfying finish. It's an ideal choice for vapers looking for a no-nonsense, authentic tobacco vape, whether you're switching from smoking or simply prefer a classic flavour. Each pod and refill pack is designed exclusively for the Dojo Blast 10K device and offers up to 10,000 puffs (device total), powered by Vaporesso's dual mesh coil and COREX 2.0 technology. The transparent pod design makes it easy to track your e-liquid levels, while the Smart Liq-Cycle system ensures steady coil saturation for consistently excellent flavour. Explore all 28 flavours from the Vaporesso Dojo Blast 10K collection here at Vapestore.",
+  "tags": [
+    "2ml + 8ml",
+    "Freedojokit",
+    "Freedojopod",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1140923",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-dojo-blast-10k-classic-tobacco-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-Dojo-Blast-10k-Prefilled-pod-refill-Classic-tobacco.jpg?v=1744280776",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.308Z"
+}

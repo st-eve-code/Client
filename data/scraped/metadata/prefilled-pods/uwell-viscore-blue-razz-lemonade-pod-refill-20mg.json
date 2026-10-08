@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14898270863741",
+  "slug": "uwell-viscore-blue-razz-lemonade-pod-refill-20mg",
+  "title": "Uwell Viscore Blue Razz Lemonade Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-blue-razz-lemonade-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Viscore Prefilled Pod & Refill in Blue Razz Lemonade offers an irresistible mix of tart blue raspberry and zesty lemonade flavours, delivering a bold and refreshing vaping experience. Designed for use with the Uwell Viscore 8000 Prefilled Pod Vape Kit, this pack includes a 2ml prefilled pod and a 10ml e-liquid refill container, ensuring long-lasting flavour and convenience. Equipped with a 0.8ohm mesh coil, the 2ml pod is ideal for mouth-to-lung (MTL) vaping, providing a smooth, satisfying draw with bold, intense flavour and discreet yet satisfying vapour. The refill container makes it easy to top up your pod when needed, ensuring up to 8000 puffs of continuous enjoyment, depending on personal usage. Preloaded with 20mg/ml nicotine salt e-liquid, the pod delivers a smooth throat hit and fast nicotine absorption, making it a great choice for adult vapers seeking a high-quality, long-lasting vaping experience. Simply replace the pod and refill container when empty to continue enjoying the tangy, citrusy Blue Razz Lemonade flavour or discover another flavour altogether from Uwell’s Viscore collection.",
+  "tags": [
+    "2ml + 10ml",
+    "Blue Razz Lemonade",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137426",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-blue-razz-lemonade-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Uwell-Viscore-8000-Prefilled-pod-Refill-BLUE-RAZZ-LEMONADE.jpg?v=1734433354",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.383Z"
+}

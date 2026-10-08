@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179036885373",
+  "slug": "pyne-pod-2in1-mango-ice-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Mango Ice Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-mango-ice-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Mango Ice Pod Pack for the Pyne Pod 2-in-1 Kit delivers a tropical vape with a cool, clean finish. The Mango offers rich, sun-soaked sweetness with soft, juicy notes, while the Ice element adds a chilled exhale that enhances the fruit’s lush, bright character. It’s a smooth, flavourful blend that balances sweetness with a refreshing exhale. Each pod is prefilled with 2ml of 20mg nicotine salt e-liquid and made for use with the Pyne Pod 2-in-1 device. The pods connect magnetically and are fully compatible with the twist-activated dual pod system. With two pods per pack, Mango Ice is ideal for those who enjoy exotic fruit flavours with a cool and breezy finish.",
+  "tags": [
+    "2 x 2ml",
+    "Mango",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141647",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-mango-ice-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-mango-ice.jpg?v=1745573737",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15667461915005",
+  "slug": "pixl-8000-sour-pineapple-mango-prefilled-pod-refill",
+  "title": "PIXL 8000 Sour Pineapple Mango Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-sour-pineapple-mango-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Sour Pineapple Mango PIXL 8000 Prefilled Pod combines tropical Pineapple with luscious Mango for a vibrant sweet-and-tart flavour profile. The balance between tangy and mellow fruit notes creates a sunny, exotic vape full of character. Each pod contains 2ml of 20mg nicotine salt e-liquid formulated for smooth satisfaction and a comfortable throat hit. Compatible with the PIXL 8000 Prefilled Pod Vape Kit, it connects to a 10ml refill reservoir that automatically tops up the pod as you vape—supporting up to 8000 puffs per kit. Mesh coil technology keeps each draw smooth and flavour-rich with a natural MTL inhale.",
+  "tags": [
+    "2ml + 10ml",
+    "Mango",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1149541",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-sour-pineapple-mango-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sour-Pineapple-Mango-Pixl-8000-Prefilled-pod-W2F.jpg?v=1763135225",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.349Z"
+}

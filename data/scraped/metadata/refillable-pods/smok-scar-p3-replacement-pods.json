@@ -1,0 +1,68 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639587709252",
+  "slug": "smok-scar-p3-replacement-pods",
+  "title": "SMOK Scar P3 Replacement Pod 2ml 3 pack",
+  "url": "https://www.vapestore.co.uk/products/smok-scar-p3-replacement-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The Scar P3 offers the choice of two refillable 2ml pods. The RPM pod is compatible with Smok’s entire range of Smok’s RPM coils while the RPM2 pod and compatible RPM2 coils provide pin-sharp flavour. The Scar P3 kit contains an RPM pod and an RPM 0.4 Ohm coil, as well as an RPM 2 pod with a 0.16 Ohm mesh coil. Both pods utilise a dual channel direct airflow design that lets you really dial in to find the perfect draw for you. Simple to refill with your favourite e-liquid, just release the silicone stopper, top up with e-liquid and replace the seal. Tough, powerful, and easy to use, the SMOK Scar P3 is an incredibly reliable and versatile Pod Mod, ideal for vapers of all levels.",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Pod Type",
+      "position": 1,
+      "values": [
+        "RPM - Pod Only",
+        "RPM 2 - Pod Only"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "RPM - Pod Only",
+      "sku": "SM-SM-RP-SC-P3-RPM-2ML-3P",
+      "price": 4.49
+    },
+    {
+      "title": "RPM 2 - Pod Only",
+      "sku": "SM-SM-RP-SC-P3-RP2-2ML-3P",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-scar-p3-replacement-pods__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/microsoftteams-image_21.png?v=1729043067",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-scar-p3-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-scar-p3-pods_653x653_e92b0219-c104-48cc-8f7f-769626099850.jpg?v=1729043067",
+      "position": 2,
+      "width": 653,
+      "height": 653,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-scar-p3-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-scar-p3-pods_653x653_1.jpg?v=1729043067",
+      "position": 3,
+      "width": 653,
+      "height": 653,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

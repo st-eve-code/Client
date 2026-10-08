@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15649540145533",
+  "slug": "hayati-pro-max-plus-lemon-lime-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Lemon & Lime Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-lemon-lime-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon and Lime delivers a zesty, citrus duo of sharp Lemon and tangy Lime for a bright, refreshing vape. It’s crisp and lively with a sweet-sour balance that stays smooth from inhale to exhale. Each Hayati Pro Max + Prefilled Pod is supplied as a 2ml prefilled pod attached to a 10ml refill reservoir, totalling 12ml of 20mg Nic Salt e-liquid. No refilling or coil replacements are needed—just connect to the Hayati Pro Max + Prefilled Pod Kit and vape. Dual mesh coil technology maintains clarity and flavour balance for up to 6000 puffs (approx.). Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Lemon and Lime",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149104",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-lemon-lime-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-_-Lime_Hayati-Pro-Max_-Pods-min.jpg?v=1762253584",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.363Z"
+}

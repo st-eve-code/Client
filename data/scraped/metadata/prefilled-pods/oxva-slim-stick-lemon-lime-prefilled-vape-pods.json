@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15501929185661",
+  "slug": "oxva-slim-stick-lemon-lime-prefilled-vape-pods",
+  "title": "Oxva Slim Stick Lemon Lime Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/oxva-slim-stick-lemon-lime-prefilled-vape-pods",
+  "brand": "Oxva",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "These Lemon Lime Prefilled Pods for the Oxva Slim Stick Prefilled Pod Kit bring a bright citrus flavour to a simple, ready-to-use format. Each pod contains 2ml of 20mg nicotine salt e-liquid and delivers up to 600 puffs with a smooth, satisfying mouth-to-lung draw. The flavour layers zesty Lemon with the sharper tang of Lime, creating a lively citrus vape that stays refreshing from start to finish. Built-in coils inside each pod ensure consistent flavour and vapour output, while the sealed design means no refilling or maintenance is required — just replace with a new pod once empty. Supplied in a pack of two, these pods are a convenient option for Slim Stick users who prefer citrus-inspired blends.",
+  "tags": [
+    "2 x 2ml",
+    "Lemon and Lime",
+    "OXVA Slimstick",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144072",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-slim-stick-lemon-lime-prefilled-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-pods---lemon-lime.jpg?v=1757511929",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.346Z"
+}

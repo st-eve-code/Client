@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "9640039416132",
+  "slug": "dojo-blast-6000-lemon-lime-prefilled-replacement-pod-refill-20mg",
+  "title": "Vaporesso DOJO Blast 6000 Lemon & Lime Prefilled Pod & Refill",
+  "url": "https://www.vapestore.co.uk/products/dojo-blast-6000-lemon-lime-prefilled-replacement-pod-refill-20mg",
+  "brand": "Vaporesso",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Keep your DOJO BLAST 6000 vaping experience fresh and flavourful with the Lemon & Lime Prefilled Pod & Refill Pack. Designed for convenience and ease of use, this pack includes a 2ml prefilled pod and a 10ml e-liquid refill bottle, both filled with 20mg or 10mg nic salt e-liquid. Together, they offer up to 6000 puffs, ensuring you can enjoy extended periods of vaping. The Lemon & Lime flavour delivers the timeless citrus duo of sharp, tangy lemon and zesty, vibrant lime. This flavour combination provides a crisp and refreshing vaping experience, perfect for those who enjoy citrus blends. The DOJO BLAST 6000 Prefilled Pod & Refill Pack is compatible exclusively with the DOJO BLAST 6000 kit from Vaporesso. The COREX2.0 mesh coil technology ensures dense vapour and consistent flavour from the first puff to the last. The transparent pod design allows you to monitor your e-liquid levels, so you'll always know when it's time for a refill.",
+  "tags": [
+    "2ml + 10ml",
+    "Freedojokit",
+    "Freedojopod",
+    "Lemon and Lime",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg",
+        "10mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1134730",
+      "price": 4.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1137618",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dojo-blast-6000-lemon-lime-prefilled-replacement-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-dojo-blast-6000-prefilled-pod-lemon-lime.jpg?v=1729064609",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.384Z"
+}

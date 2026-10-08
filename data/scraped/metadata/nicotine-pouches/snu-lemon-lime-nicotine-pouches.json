@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "14874165051773",
+  "slug": "snu-lemon-lime-nicotine-pouches",
+  "title": "SNU Lemon & Lime Nic Pouches by Bar Juice",
+  "url": "https://www.vapestore.co.uk/products/snu-lemon-lime-nicotine-pouches",
+  "brand": "SNU",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "SNU Lemon & Lime Nicotine Pouches feature a vibrant citrus profile that blends tangy Lemon with sharp Lime. The result is a punchy yet clean flavour both energising and easy to enjoy throughout the day. Made from soft, plant-based fibres, these slim pouches fit comfortably under the lip and deliver nicotine gradually with no smoke or odour. The scented can design allows you to preview the flavour before opening, while the pouch itself offers a smooth and steady release. Place one pouch under your upper lip and allow it to rest there for up to 45 minutes. The pouch dissolves slowly, and can be removed and disposed of once the flavour fades. Nicotine Ranges: Low - 9mg this is best suited for new users Medium - 12mg this is suited for more experienced users High - 18mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "12mg to 18mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "12mg / Pouch",
+        "18mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1137389",
+      "price": 3.99
+    },
+    {
+      "title": "12mg / Pouch",
+      "sku": "1137395",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / Pouch",
+      "sku": "1137401",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__snu-lemon-lime-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-lemon-_-lime-9mg-nicotine-pouch-3_1.jpg?v=1732843743",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-lemon-lime-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-lemon-_-lime-18mg-nicotine-pouch-3_1.jpg?v=1732843743",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-lemon-lime-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-lemon-_-lime-12mg-nicotine-pouch-3_1.jpg?v=1732843743",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-lemon-lime-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-nic-pouch-lemon-_-lime.jpg?v=1732843743",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-lemon-lime-nicotine-pouches__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-lemon-_-lime-9mg-nicotine-pouch-3.jpg?v=1732843743",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-lemon-lime-nicotine-pouches__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-lemon-_-lime-12mg-nicotine-pouch-3.jpg?v=1732843743",
+      "position": 6,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-lemon-lime-nicotine-pouches__007.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-lemon-_-lime-18mg-nicotine-pouch-3.jpg?v=1732843743",
+      "position": 7,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.901Z"
+}

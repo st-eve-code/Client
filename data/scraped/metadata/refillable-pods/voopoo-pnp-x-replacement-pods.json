@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15621488181629",
+  "slug": "voopoo-pnp-x-replacement-pods",
+  "title": "Voopoo PnP-X Replacement Pods",
+  "url": "https://www.vapestore.co.uk/products/voopoo-pnp-x-replacement-pods",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo PnP X integrated-coil pods simplify pod upkeep with a built-in PnP X coil and a clean 2ml refill design. Each pack includes two pods in your chosen resistance, so you can match your draw and e-liquid easily without handling separate coils. Each pod also includes a drip tip tailored to its vaping style — a narrow tip for MTL precision or a wide-bore tip for airier DTL draws. Choose 1.0ohm or 0.8ohm for mouth-to-lung (MTL) with 50/50 or Nic Salt e-liquids, or the 0.3ohm pod for direct-to-lung (DTL) with high-VG e-liquid. A full-circle adjustable airflow ring lets you refine the draw, while the pod’s leak-resistant structure and secure magnetic base support confident, day-to-day use. These pods work with Voopoo’s PnP X platform devices including the Drag S3 and Drag X3. Note that PnP X integrated-coil pods are not compatible with older, replaceable PnP coils and do not accept separate replaceable coils. Pod Details DTL 0.3ohm PnP-X Pod, We recommend using High VG ( Sub-Ohm) E-liquid Only MTL 0.8ohm PnP-X Pod,, We recommend using 50/50 , Nic Salt E-Liquid MTL 1.0ohm PnP-X Pod, We recommend using 50/50 , Nic Salt or High PG E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "1.0ohm",
+        "0.8ohm",
+        "0.3ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.0ohm",
+      "price": 6.99
+    },
+    {
+      "title": "0.8ohm",
+      "price": 6.99
+    },
+    {
+      "title": "0.3ohm",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-pnp-x-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.8_1.0-TPD--intergreted-cartridge_b706878f-59c6-4ee5-acbc-7fa75aeb1c32.jpg?v=1761122083",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.8_1.0-TPD--intergreted-cartridge.jpg?v=1761122073",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-pnp-x-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.3-TPD--intergreted-cartridge.jpg?v=1761122064",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

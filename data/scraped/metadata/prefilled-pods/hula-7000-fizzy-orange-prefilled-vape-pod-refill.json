@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15521982349693",
+  "slug": "hula-7000-fizzy-orange-prefilled-vape-pod-refill",
+  "title": "Hula 7000 Fizzy Orange Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hula-7000-fizzy-orange-prefilled-vape-pod-refill",
+  "brand": "Hula",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hula 7000 Fizzy Orange Prefilled pod captures the lively character of sparkling Orange soda. It blends the tangy bite of ripe Orange with a sweet, effervescent finish that mirrors the zest of a freshly opened can. This makes for a sharp yet easygoing vape, great for fans of classic citrus blends. These Hula Prefilled Replacement Pods are made for the Hula Prefilled Pod System Kit, giving you a simple and tidy way to swap or replace flavours without the need for bottle refills or coil changes. Each unit holds 12ml of 20mg Nic Salt e-liquid in total, with a 2ml draw-activated pod continuously topped up from its built-in 10ml refill reservoir. With up to 7000 puffs (approx.) per pod, dual mesh coil technology ensures consistent flavour delivery and vapour output. Just slot the pod into your Hula device and enjoy a long-lasting, reliable vape with minimal fuss. Available in 20 satisfying flavours, these replacement pods are perfect for keeping your vape fresh and flavourful.",
+  "tags": [
+    "2ml + 10ml",
+    "Hula 7000",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1148409",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hula-7000-fizzy-orange-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Hula-FizzyOrange-Pod-Commerce.jpg?v=1757581775",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.347Z"
+}

@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639937245508",
+  "slug": "voopoo-argus-pnp-x-empty-replacement-pods-2ml",
+  "title": "VooPoo Argus PNP-X Empty Replacement Pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/voopoo-argus-pnp-x-empty-replacement-pods-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo Argus PNP X Replacement Pod is designed to enhance your vaping experience with the Voopoo Argus E40 Kit. This 2ml pod is compatible with all of Voopoo’s celebrated PNP X coils, offering a wide range of resistance options to suit MTL (mouth-to-lung), DTL (direct-to-lung) and even RDTL (restricted direct-to-lung) vaping styles. The pod features a convenient side-fill system, making refilling quick and mess-free. The durable construction and snug fit ensure no leakage and consistent performance. Whether you prefer high VG, high PG, 50/50 or Nic Salt e-liquids, the Argus PNP X pod delivers exceptional flavour and vapour production every time.",
+  "tags": [
+    "CC DC List",
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1132835",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-argus-pnp-x-empty-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-argus-pnp-x-pods.jpg?v=1729061978",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

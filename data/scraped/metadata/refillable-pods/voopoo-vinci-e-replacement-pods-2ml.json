@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15363977347453",
+  "slug": "voopoo-vinci-e-replacement-pods-2ml",
+  "title": "VooPoo Vinci E Replacement Pods - 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-vinci-e-replacement-pods-2ml",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "These refillable Vinci E Cartridges are designed exclusively for the Voopoo Vinci E80 Pod Vape Kit. Each pod comes pre-installed with an integrated mesh coil and features a leak-resistant design with premium Golden Cotton wicking. This innovative cotton material supports clean, consistent flavour for up to 30 days of use per pod. Each refillable pod has a 2ml capacity and can be topped up quickly via the top-fill port. The built-in coil and sealed construction eliminate the need for messy coil changes, making these pods a convenient and reliable option for both DTL and RDL vaping styles. Choose between 0.3ohm, 0.6ohm, or 0.8ohm depending on your preferred airflow and vapour output. Ideal for use with 50/50 e-liquids or nicotine salts , the Vinci E Cartridges are sold in a handy pack of two. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen vape juice before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.3ohm",
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.3ohm",
+      "sku": "1143023",
+      "price": 4.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1143022",
+      "price": 4.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1143021",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-vinci-e-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.8-_-2-ml-Voopoo-Vinci-E80-Pod-2PK.jpg?v=1752164870",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-e-replacement-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.6-_-2-ml-Voopoo-Vinci-E80-Pod-2PK.jpg?v=1752164889",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vinci-e-replacement-pods-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.3-_-2-ml-Voopoo-Vinci-E80-Pod-2PK.jpg?v=1752164924",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

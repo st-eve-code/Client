@@ -1,0 +1,94 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "14874164986237",
+  "slug": "snu-triple-mango-nicotine-pouches",
+  "title": "SNU Triple Mango Nic Pouches by Bar Juice",
+  "url": "https://www.vapestore.co.uk/products/snu-triple-mango-nicotine-pouches",
+  "brand": "SNU",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "SNU Triple Mango Nicotine Pouches offer a rich, fruity experience with the sweet, sunny flavour of ripe, juicy mangoes. The profile is tropical and full-flavoured but never overwhelming, making it ideal for daily use. Crafted in Sweden by Bar Juice 5000, these slim, discreet pouches are made for comfort and ease of use. They release nicotine gradually without any smoke, vapour or odour. Each can features a scented lid, allowing you to rub the top for a hint of the mango aroma inside. To use, place one pouch under your upper lip and allow it to rest there as it dissolves slowly, releasing nicotine over time. Once the flavour fades, remove and dispose of the pouch responsibly. Nicotine Ranges: Low - 9mg this is best suited for new users Medium - 12mg this is suited for more experienced users High - 18mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "12mg to 18mg",
+    "AWARDS15",
+    "Mango",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "12mg / Pouch",
+        "18mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1137387",
+      "price": 3.99
+    },
+    {
+      "title": "12mg / Pouch",
+      "sku": "1137393",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / Pouch",
+      "sku": "1137399",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__snu-triple-mango-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-triple-mango-9mg-nicotine-pouch-3_1.jpg?v=1732843713",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-triple-mango-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SNU-Triple-Mango-9mg-Nicotine-Pouch-3_5767cf6f-f8cb-437a-978d-8aa1cc94ace1.jpg?v=1733311999",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-triple-mango-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SNU-Triple-Mango-12mg-Nicotine-Pouch-3_d8361e78-7834-4293-89fc-49f82ba43647.jpg?v=1733312033",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-triple-mango-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SNU-Triple-Mango-18mg-Nicotine-Pouch-3_d24fe9cc-cf38-4860-b394-ddb2556cd641.jpg?v=1733312053",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-triple-mango-nicotine-pouches__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/snu-nic-pouch-triple-mango.jpg?v=1732843713",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.900Z"
+}

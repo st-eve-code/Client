@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15241595650429",
+  "slug": "nordic-spirit-forest-berries-nic-pouches",
+  "title": "Nordic Spirit Forest Berries Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-forest-berries-nic-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Forest Berries Nicotine Pouches offer a rich, fruit-forward flavour combining dark, tangy berries with a light touch of sweetness. With hints of Blackberry, Blueberry and Raspberry, this blend brings together the deep, jammy notes of woodland fruit in a smooth and satisfying format. These tobacco-free pouches are slim, soft, and designed for comfort, fitting easily under the lip for a discreet nicotine experience. Whether you prefer the lighter Regular (6mg) or more intense Strong (9mg) strength, Forest Berries provides a flavour that stays balanced and engaging from first use to last. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "6mg to 9mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1142563",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1142572",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-forest-berries-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Forest-Berries-Reg-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773743290",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-forest-berries-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Forest-Berries-Strong-Nordic-Spirit.jpg?v=1773743295",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.899Z"
+}

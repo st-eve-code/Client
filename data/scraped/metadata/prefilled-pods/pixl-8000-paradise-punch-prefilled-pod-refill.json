@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342821540221",
+  "slug": "pixl-8000-paradise-punch-prefilled-pod-refill",
+  "title": "PIXL 8000 Paradise Punch Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-paradise-punch-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Paradise Punch delivers a tropical medley of exotic fruit flavours that taste sunny and smooth with every puff. A delicious blend that brings a taste of island life in vapour form. This pod includes 2ml of 20mg nicotine salt e-liquid and is bundled with a 10ml refill reservoir, offering up to 8000 puffs when used with the PIXL 8000 Prefilled Pod Vape Kit. Mesh coil technology ensures flavour stays rich and consistent. MTL vaping with Boost Mode support and effortless draw activation make this a reliable, fruity all-day vape. Paradise Punch is one of the standout tropical options in the PIXL 8000 range.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143524",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-paradise-punch-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-paradise-punch-800x800.jpg?v=1751546866",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.346Z"
+}

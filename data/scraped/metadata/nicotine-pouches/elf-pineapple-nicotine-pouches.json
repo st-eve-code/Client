@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15322795639165",
+  "slug": "elf-pineapple-nicotine-pouches",
+  "title": "ELF Pineapple Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/elf-pineapple-nicotine-pouches",
+  "brand": "Elf Bar",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "ELF Pineapple Nicotine Pouches deliver a bright, fruity taste with a tropical twist. The sweet flavour of Pineapple comes through clearly in this clean, tobacco-free format, making it a refreshing option for everyday use. Slim and discreet, each pouch fits comfortably under the lip and releases nicotine gradually for up to 45 minutes. With no smoke, vapour or odour, ELF Pouches offer an easy and unobtrusive way to enjoy nicotine, whether you’re at work, commuting, or relaxing. Each can contains 20 slim pouches and includes a catch lid for storing used pouches. Choose from 6mg, 12mg or 20mg strengths to suit your preference. How to Use: Nic otine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg/pouch",
+        "12mg/pouch",
+        "20mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg/pouch",
+      "sku": "1142922",
+      "price": 3.99
+    },
+    {
+      "title": "12mg/pouch",
+      "sku": "1142928",
+      "price": 3.99
+    },
+    {
+      "title": "20mg/pouch",
+      "sku": "1142934",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-pineapple-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-_-6mg-Elf-Nicotine-Pouch.jpg?v=1750779845",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-pineapple-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-_-12mg-Elf-Nicotine-Pouch.jpg?v=1750779882",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-pineapple-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-_-20mg-Elf-Nicotine-Pouch.jpg?v=1750779910",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.912Z"
+}

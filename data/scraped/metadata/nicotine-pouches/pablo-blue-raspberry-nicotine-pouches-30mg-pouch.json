@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15777302086013",
+  "slug": "pablo-blue-raspberry-nicotine-pouches-30mg-pouch",
+  "title": "Pablo Exclusive Blue Raspberry Nicotine Pouches - 30mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/pablo-blue-raspberry-nicotine-pouches-30mg-pouch",
+  "brand": "Pablo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Experience the vibrant tang of Pablo Exclusive Blue Raspberry Nicotine Pouches. This bold flavour delivers the sweet, candy-like zest of blue raspberries, offering a lively and refreshing taste that pairs perfectly with the intense nicotine hit. Designed for the modern, experienced user, these pouches pack a 30mg/g punch. The slim, tobacco-free format ensures absolute discretion, fitting neatly under the lip for a smoke-free experience that doesn't hold back on power. A standout choice for those who want a fun, fruity flavour backed by serious strength. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH Please Note: These nicotine pouches are 30mg of nicotine per pouch.",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144356",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pablo-blue-raspberry-nicotine-pouches-30mg-pouch__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pablo-nicotine-pouch-Blue-Raspberry.jpg?v=1769687270",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.906Z"
+}

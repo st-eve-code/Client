@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639998980420",
+  "slug": "geekvape-wenax-filter-drip-tips-10pk",
+  "title": "Geekvape Wenax Filter Drip Tip - 10 Pack",
+  "url": "https://www.vapestore.co.uk/products/geekvape-wenax-filter-drip-tips-10pk",
+  "brand": "Geekvape",
+  "productType": "Drip Tip",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "The Geekvape Wenax M Filter Drip Tips are designed to offer an alternative to traditional plastic drip tips, delivering a smooth and comfortable in-the-mouth feel. These filter tips are perfect for new adult vapers and former smokers, providing a familiar and satisfying experience. Compatible with the Geekvape Wenax M pod kits, these filter tips are an excellent choice for those newly transitioning to vaping. Each pack contains 10 filter drip tips, ensuring you have plenty of replacements to keep your device performing at its best. Note that only filter tips are supplied, and no pod cartridges are included. Note: These filter tips are compatible only with the Wenax M Replacement Pods that are supplied without drip tips.",
+  "tags": [
+    "compatible-with-1111926-WM1",
+    "compatible-with-1111929-M1P"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128715",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-wenax-filter-drip-tips-10pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-wenax-filter-drip-tip-10pk.jpg?v=1729064031",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

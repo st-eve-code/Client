@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15022921286013",
+  "slug": "ske-crystal-pro-berry-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "SKE Crystal Pro Berry Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-pro-berry-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: These pods are not compatible with the SKE BAR device. Designed for use with the SKE Crystal Pro 600 Prefilled Pod Kit, these SKE Crystal Pro 600 Prefilled Pods offer a simple and efficient way to enjoy the brand’s iconic flavours without the waste and expense of disposable vapes. Each prefilled pod can deliver up to 600 puffs, depending on individual usage, and contains 2ml of 20mg nic salt e-liquid, ensuring a smooth, satisfying mouth-to-lung (MTL) vaping experience with fast nicotine relief. Berry Ice is a bold and juicy fusion of ripe mixed berries, combining deep, rich sweetness with a tangy edge. A crisp, cooling exhale enhances the vibrant fruit flavour, delivering a refreshing and well-balanced vape. Swapping pods is quick and effortless - simply remove the empty pod and pop a fresh one into place. Whether you're looking for a convenient alternative to disposables or an easy way to continue enjoying your favourite SKE Crystal Pro 600 flavours, these prefilled pods provide a hassle-free, affordable and versatile solution.",
+  "tags": [
+    "2 x 2ml",
+    "Crystal Pro",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138957",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-pro-berry-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-Crystal-Pro-Prefilled-pods-Berry-Ice.jpg?v=1739899270",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.321Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15501961920893",
+  "slug": "oxva-slim-stick-pineapple-prefilled-vape-pods",
+  "title": "Oxva Slim Stick Pineapple Prefilled Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/oxva-slim-stick-pineapple-prefilled-vape-pods",
+  "brand": "Oxva",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "These Pineapple Prefilled Pods for the Oxva Slim Stick Prefilled Pod Kit deliver a tropical fruit flavour in a convenient, mess-free format. Each pod contains 2ml of 20mg nicotine salt e-liquid and provides up to 600 puffs, offering a smooth and satisfying mouth-to-lung draw. The flavour captures the juicy sweetness of ripe Pineapple with its natural tang, making for a bright and sunny vape that feels vibrant without being overpowering. With built-in coils ensuring consistent vapour production and flavour, each pod is ready to use straight away and can be replaced quickly when finished. Supplied in a pack of two, these pods are perfect for Slim Stick users seeking an easy-to-use pod with a fresh, tropical taste.",
+  "tags": [
+    "2 x 2ml",
+    "OXVA Slimstick",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144074",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-slim-stick-pineapple-prefilled-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-pods-pineapple.jpg?v=1757511784",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.356Z"
+}

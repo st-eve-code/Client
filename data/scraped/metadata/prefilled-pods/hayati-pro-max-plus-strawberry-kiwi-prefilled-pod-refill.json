@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15647569609085",
+  "slug": "hayati-pro-max-plus-strawberry-kiwi-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Strawberry Kiwi Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-strawberry-kiwi-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Kiwi brings together the sweetness of ripe Strawberries with the tangy, tropical edge of Kiwi. This bright, fruity mix delivers a clean, refreshing vape with subtle depth and a smooth finish. Each Hayati Pro Max + Prefilled Pod contains a prefilled 2ml pod connected to a 10ml integrated refill reservoir, for 12ml total of 20mg Nic Salt e-liquid. There’s no refilling or coil swapping required—simply attach it to the Hayati Pro Max + Prefilled Pod Kit and vape. The dual mesh coil supports consistent vapour and flavour clarity for up to 6000 puffs (approx.), providing a smooth MTL experience. Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149113",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-strawberry-kiwi-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-Kiwi_Hayati-Pro-Max_-Pods-min.jpg?v=1762190305",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.363Z"
+}

@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15882630726013",
+  "slug": "lost-vape-kata-replacement-10-2-pods",
+  "title": "Lost Vape Kata Replacement 10+2 Pods - 0.8ohm",
+  "url": "https://www.vapestore.co.uk/products/lost-vape-kata-replacement-10-2-pods",
+  "brand": "Lost Vape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Keep your Kata device performing at its very best with the Lost Vape Kata 10+2 Refillable Pods. Designed exclusively for the Lost Vape Kata Pod Kit, these replacement cartridges feature an innovative 10+2 capacity system. This smart modular design combines a standard 2ml viewing pod with an integrated 10ml refill reservoir, allowing you to load up to 12ml of your favourite e-liquid at one time for extended, uninterrupted vaping. Equipped with a built-in 0.8ohm mesh coil, these pods deliver outstanding flavour and a consistently smooth draw. The integrated coil design completely eliminates the need for messy coil changes; simply replace the entire pod unit when the coil reaches the end of its lifespan. Perfectly suited for both Mouth-To-Lung (MTL) and Restricted Direct-To-Lung (RDL) vaping styles, these pods are highly optimised for use with 50VG/50PG e-liquids, including popular nicotine salts and freebase formulas. Finally, the secure magnetic connection ensures the pod sits firmly in the device while making swaps incredibly quick and simple. Supplied in a convenient pack of two. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1154324",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-vape-kata-replacement-10-2-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Kata-Pod-2-Pack.jpg?v=1777991606",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-vape-kata-replacement-10-2-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Vape-Kata-kit-details-2_bc734d1e-5bc7-40a8-8990-0687a7dd40c8.jpg?v=1778165649",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

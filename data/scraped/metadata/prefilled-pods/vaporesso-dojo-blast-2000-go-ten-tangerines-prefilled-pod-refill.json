@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15290880754045",
+  "slug": "vaporesso-dojo-blast-2000-go-ten-tangerines-prefilled-pod-refill",
+  "title": "Vaporesso DOJO Blast 2000 Go Ten Tangerines Prefilled Pod & Refill",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-dojo-blast-2000-go-ten-tangerines-prefilled-pod-refill",
+  "brand": "Vaporesso",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Ten Tangerines from the Dojo Blast 2000 Go range brings a bold hit of juicy Tangerine flavour with every puff. Bright, sweet and zesty, it captures the sharp citrus tang of this distinctive fruit for a vape that™s lively and refreshing without being overpowering. This pod and refill pack delivers up to 2,000 puffs of 20mg nicotine salt e-liquid, with a transparent 2ml pod and matching 2ml refill container. Vaporesso™s COREX 2.0 Mesh Coil ensures crisp flavour delivery and consistent vapour performance throughout. The transparent pod lets you easily track how much e-liquid remains, and installation with the Dojo Blast 2000 Go device is quick and clean. How to Use: 1. Remove all packaging 2. Remove the red silicone covers from the base and top of the refill pod 3. Attach the 2ml pod to the 2ml refill 4. Insert the combined pod into the Dojo Blast device, twisting to secure 5. Inhale to vape—no buttons or setup required. 6. When finished, replace with a fresh pod+refill pack.",
+  "tags": [
+    "2 x 2ml",
+    "Freedojokit",
+    "Freedojopod",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1141886",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-dojo-blast-2000-go-ten-tangerines-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dojo-blast-go-2000-Transparent-Pod-_-Refill--TEN-TANGERINES.jpg?v=1749563597",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.375Z"
+}

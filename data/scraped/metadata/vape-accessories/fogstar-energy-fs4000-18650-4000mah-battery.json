@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "15690578657661",
+  "slug": "fogstar-energy-fs4000-18650-4000mah-battery",
+  "title": "Fogstar Energy FS4000 18650 4000mAh Battery",
+  "url": "https://www.vapestore.co.uk/products/fogstar-energy-fs4000-18650-4000mah-battery",
+  "brand": "Fogstar",
+  "productType": "Battery",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "The Fogstar Energy 18650 \"Dark Blue\" (FS4000) is a specialist high-capacity cell designed to maximise run-time for low-power vaping setups. Boasting a massive 4000mAh capacity, this battery offers significantly longer life between charges compared to standard 2500mAh or 3000mAh cells, making it an exceptional choice for Mouth-to-Lung (MTL) vapers who prioritise endurance over raw power. It is crucial to note that this battery has a Maximum Continuous Discharge Rating (CDR) of 10A. This makes it strictly suitable for low-wattage applications (typically under 20W in a single-battery device). It is not suitable for high-wattage sub-ohm vaping or \"cloud chasing\" setups, as exceeding the amp limit can be unsafe and will trigger \"low battery\" warnings on your device. However, for vapers using a box mod with a high-resistance MTL tank (such as a Nautilus or Zenith) at modest power settings, the Fogstar FS4000 delivers unparalleled longevity, allowing you to vape for days rather than hours. Supplied with a protective PVC case for safe transport. Additional Information • Only use according to the manufacturer’s instructions. • Lithium-Ion cells should be charged on a dedicated charger rated specifically for Lithium-Ion cells. • Never leave a battery unattended whilst charging. • Keep away from animals and children. • Wraps and insulators should be periodically inspected for tears or damage. If a battery has a damaged wrap, it should be repaired or disposed of immediately. • Batteries usually have a cycle life of between 200-500 cycles (this varies with manufacturer) before noticeable capacity drop-off. Batteries should be recycled at this time. • Do not crush, incinerate or modify.",
+  "tags": [
+    "Battery-included"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137041",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fogstar-energy-fs4000-18650-4000mah-battery__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fogstar-FS4000-18650-Battery-Dark-blue.jpg?v=1764086772",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

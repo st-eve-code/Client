@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14943027134845",
+  "slug": "smok-novo-slr-replacement-vape-pods-2ml",
+  "title": "SMOK Novo SLR Replacement Vape Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-slr-replacement-vape-pods-2ml",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Novo SLR Meshed Coil Pods deliver incredible flavour and vapour production with a focus on simplicity and performance. Designed to pair seamlessly with the Smok Novo Eco Pod Vape Kit and other Novo series devices, these pods feature Smok’s innovative Spring Loaded Refill (SLR) system, making refills quick, easy, and mess-free. With four resistance options—0.4ohm, 0.6ohm, 0.8ohm, and 1.0ohm—these pods are ideal for both Restricted Direct-to-Lung (RDL) and Mouth-to-Lung (MTL) vaping styles. Each pod comes pre-installed with a fixed mesh coil, maximising the heating surface area for even heating and exceptional flavour delivery. The Smok Novo SLR pods have a TPD-compliant 2ml e-liquid capacity, making them perfect for use with 50:50 VG:PG e-liquids and nicotine salts. The top-fill system ensures refills are fuss-free, while the transparent pod construction means that it’s easy to monitor your e-liquid levels at a glance. Resistance Options and Recommendations: • 0.4ohm: Best between 22-28W. Ideal for Restricted Direct-to-Lung (RDL) vaping with 50/50 liquids for smooth vapour production and bold flavour. • 0.6ohm: Best between 18-25W. Perfect for RDL vapers seeking a balance between vapour output and a slightly tighter draw with 50/50s and 10mg Nic Salts. • 0.8ohm: Best between 12-18W. Great for Mouth-to-Lung (MTL) vaping with rich flavour and a more discreet vapour output with Nic Salts. • 1.0ohm: Best between 10-15W. Designed for MTL vapers who enjoy a smooth, flavourful draw with minimal vapour production using Nic Salts. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "0.4ohm",
+        "0.6ohm",
+        "0.8ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm",
+      "sku": "1138212",
+      "price": 5.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1138213",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1138214",
+      "price": 5.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1138215",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-slr-replacement-vape-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-slr-replacement-vape-pods-3pk.jpg?v=1736953128",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.394Z"
+}

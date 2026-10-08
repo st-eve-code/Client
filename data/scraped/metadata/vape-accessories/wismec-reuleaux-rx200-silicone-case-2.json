@@ -1,0 +1,66 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639273464132",
+  "slug": "wismec-reuleaux-rx200-silicone-case-2",
+  "title": "Wismec Reuleaux RX200 Silicone Case",
+  "url": "https://www.vapestore.co.uk/products/wismec-reuleaux-rx200-silicone-case-2",
+  "brand": "Wismec",
+  "productType": "Case",
+  "price": {
+    "min": 1.47,
+    "max": 1.47,
+    "currency": "GBP"
+  },
+  "description": "Protect your Wisemec Reuleaux RX200 from scratches and scrapes with the specially made silicon case. Sleek and durable, this case adds a touch of sophistication and plenty of additional protection to your e-cig setup.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Hot Pink",
+        "Cyan"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Hot Pink",
+      "sku": "689283",
+      "price": 1.47
+    },
+    {
+      "title": "Cyan",
+      "sku": "689276",
+      "price": 1.47
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__wismec-reuleaux-rx200-silicone-case-2__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/689245_parent_releaux_rx200_silicone_case001.jpg?v=1729032409",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__wismec-reuleaux-rx200-silicone-case-2__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/689283_wismec_reuleauxsiliconecase_pink_001.jpg?v=1729032409",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__wismec-reuleaux-rx200-silicone-case-2__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/689276_wismec_releuaxsiliocnecase_cyan.jpg?v=1729032409",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

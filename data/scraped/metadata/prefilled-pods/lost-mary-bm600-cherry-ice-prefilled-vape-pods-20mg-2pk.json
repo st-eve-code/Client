@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522597470589",
+  "slug": "lost-mary-bm600-cherry-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Cherry Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-cherry-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Cherry Ice brings a vibrant burst of juicy Cherry flavour paired with a streak of ice-cool Menthol. The rich fruitiness leans toward a bold, dark cherry flavour with subtle tartness, balanced by a bracing chill that lifts the exhale without overwhelming the cherry flavour. It’s a super-satisfying, refreshing combination ideal for fans of sweet fruit with a fresh, cool aftertaste. Compatible exclusively with the Lost Mary BM600 Prefilled Pod Kit, these replacement pods allow you to continue vaping without needing to replace the entire device. Each pack includes two prefilled 2ml pods, filled with 20mg nicotine salt e-liquid for a smooth throat hit and swift nicotine delivery. Each pod offers up to 600 puffs, depending on individual usage. Once empty, simply switch in a fresh pod to keep enjoying your favourite Lost Mary flavour with no hassle.",
+  "tags": [
+    "2 x 2ml",
+    "Cherry Ice",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142719",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-cherry-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Ice-Lost-Mary-BM600-Prefilled-Pods-min.jpg?v=1757594874",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.307Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15236936434045",
+  "slug": "hula-7000-kiwi-passionfruit-guava-prefilled-vape-pod-refill",
+  "title": "Hula 7000 Kiwi Passionfruit Guava Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hula-7000-kiwi-passionfruit-guava-prefilled-vape-pod-refill",
+  "brand": "Hula",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hula 7000 Kiwi Passion Fruit Guava Flavour: Experience an exciting tropical medley with tangy kiwi combines perfectly with sweet passion fruit and smooth guava to create a complex fruit fusion. Each puff reveals different aspects of these carefully balanced tropical notes, making it an ideal choice for vapers who enjoy layered, exotic flavour combinations. These Hula Prefilled Replacement Pods are designed for use with the Hula Prefilled Pod System Kit, offering a quick and convenient way to replace or swap flavours without the need for refilling or coil changes. Each pod contains 12ml of 20mg nicotine salt e-liquid, with a 2ml draw-activated pod that is automatically topped up by a built-in 10ml refill reservoir. Delivering up to 7000 puffs (approx.), these pods feature dual mesh coil technology for consistently smooth flavour and vapour. Simply insert the pod into your Hula device, and enjoy long-lasting performance with minimal fuss. Available in 10 satisfying flavours, these replacement pods are perfect for keeping your vape fresh and flavourful.",
+  "tags": [
+    "2ml + 10ml",
+    "Hula 7000",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1142200",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hula-7000-kiwi-passionfruit-guava-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Hula-KiwiPassionfruitGuava-Pod-Commerce.jpg?v=1747756685",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.346Z"
+}

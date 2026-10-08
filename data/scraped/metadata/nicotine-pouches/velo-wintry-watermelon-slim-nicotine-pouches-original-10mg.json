@@ -1,0 +1,57 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15554570551677",
+  "slug": "velo-wintry-watermelon-slim-nicotine-pouches-original-10mg",
+  "title": "Velo Wintry Watermelon Slim Nicotine Pouches - Original (10mg)",
+  "url": "https://www.vapestore.co.uk/products/velo-wintry-watermelon-slim-nicotine-pouches-original-10mg",
+  "brand": "Velo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Velo Slim Wintry Watermelon Nicotine Pouches combine the sweet, juicy flavour of ripe Watermelon with a brisk note of Peppermint. The result is a flavour that tastes fruity and cool, bringing together a familiar melon taste with an uplifting menthol edge. Each can contains 20 slim pouches made from plant-based fibres, designed for a comfortable and discreet fit under the lip. Nicotine is released steadily without smoke, vapour or odour, making these pouches a convenient choice for use throughout the day. Produced in Europe, Velo nicotine pouches are available in a wide variety of strengths and flavour profiles. This Wintry Watermelon edition offers a Medium 10mg strength, providing a clear balance between flavour delivery and nicotine satisfaction. Nicotine Ranges: Mellow - 4mg to 6mg this is best for new users. Original - 6mg to 11mg this is best for regular users. Intense - 8mg to 17mg this is suited for more experienced users How to Use: Place one pouch under your upper lip and leave it in place for 20–40 minutes while the flavour and nicotine release gradually. When finished, remove the pouch and dispose of it responsibly. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "10mg",
+    "nordicminiofferfruit",
+    "nordicminioffermint",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Original 10mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Original 10mg",
+      "sku": "1148658",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__velo-wintry-watermelon-slim-nicotine-pouches-original-10mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Velo-Wintry-Watermelon.jpg?v=1758641967",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__velo-wintry-watermelon-slim-nicotine-pouches-original-10mg__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Velo-Wintry-Watermelon-open.jpg?v=1758641984",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.903Z"
+}

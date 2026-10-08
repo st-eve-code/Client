@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15770376634749",
+  "slug": "aspire-magnum-replacement-vape-pods-2-pods",
+  "title": "Aspire Magnum Replacement Vape Pods - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/aspire-magnum-replacement-vape-pods-2-pods",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Aspire Magnum Replacement Pods are engineered specifically for use with the Aspire Magnum Pod Kit. These robust, refillable pods feature a 2ml e-liquid capacity and utilise advanced integrated mesh coil technology to deliver rapid ramp-up times and intense flavour production. Designed for convenience and performance, the pods feature a user-friendly side-fill system that makes topping up your e-liquid quick and mess-free. The magnetic connection ensures a secure fit within the device, while the transparent PCTG construction allows you to easily monitor your e-liquid levels to prevent dry hits. The Magnum pods are available in two distinct resistances to suit your vaping style. The 0.25ohm pod is optimised for a loose, airy Direct-to-Lung (DTL) draw, maximising vapour production for cloud chasers. The 0.4ohm pod offers a slightly more restricted Direct-to-Lung (RDL) experience, balancing cloud density with concentrated flavour. Both options are best paired with high-VG e-liquids (70% VG or higher) to fully utilise the mesh coil's potential. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.25ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1150216",
+      "price": 5.99
+    },
+    {
+      "title": "0.25ohm",
+      "sku": "1150215",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-magnum-replacement-vape-pods-2-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.4_-Aspire-Magnum-pod.jpg?v=1768999544",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-magnum-replacement-vape-pods-2-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.25_-Aspire-Magnum-pod.jpg?v=1768999556",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

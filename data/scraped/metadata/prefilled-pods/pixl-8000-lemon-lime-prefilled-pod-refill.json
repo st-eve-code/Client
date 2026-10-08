@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342814626173",
+  "slug": "pixl-8000-lemon-lime-prefilled-pod-refill",
+  "title": "PIXL 8000 Lemon & Lime Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-lemon-lime-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Lemon and Lime from PIXL 8000 brings a bright, tangy twist to your vape with sharp Lemon notes and a zesty Lime edge. This citrus combo delivers a clean, punchy flavour with refreshing clarity. Prefilled with 2ml of 20mg nicotine salt e-liquid and paired with a 10ml refill reservoir, this pod is designed for use with the PIXL 8000 Prefilled Pod Vape Kit and supports up to 8000 puffs. Mesh coil technology ensures smooth and consistent flavour throughout. With draw activation and optional Boost Mode, this MTL-friendly pod is easy to use and full of zest. A top pick for vapers who enjoy bright, citrusy blends.",
+  "tags": [
+    "2ml + 10ml",
+    "Lemon and Lime",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143500",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-lemon-lime-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-lemon-lime-800x800.jpg?v=1751546907",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.377Z"
+}

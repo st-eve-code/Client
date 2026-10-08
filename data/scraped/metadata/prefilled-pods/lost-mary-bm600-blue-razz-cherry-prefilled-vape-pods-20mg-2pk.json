@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15552346194301",
+  "slug": "lost-mary-bm600-blue-razz-cherry-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Blue Razz Cherry Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-blue-razz-cherry-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Blue Razz Cherry Lost Mary BM600 Prefilled Pods combine tangy Blue Raspberry with the deep sweetness of Cherry. The sharp berry note comes through first, followed by the rounder, juicy cherry base for a bold and balanced fruit blend. Each pack includes two 2ml pods prefilled with 20mg nicotine salt e-liquid, delivering up to 600 puffs per pod depending on use. Designed for a smooth mouth-to-lung (MTL) draw, these pods give consistent performance without the need for refilling or coil changes. Exclusively for the Lost Mary BM600 Prefilled Pod Kit, the pods click into place easily for mess-free installation and immediate use.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148287",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-blue-razz-cherry-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Cherry-Lost-Mary-BM600-Prefilled-Pods.jpg?v=1758555980",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.332Z"
+}

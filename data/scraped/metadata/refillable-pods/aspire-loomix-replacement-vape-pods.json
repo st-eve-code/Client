@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15883969757565",
+  "slug": "aspire-loomix-replacement-vape-pods",
+  "title": "Aspire Loomix Replacement Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/aspire-loomix-replacement-vape-pods",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Maintain exceptional performance in your Aspire Loomix device with these official replacement pods. Constructed from durable PCTG material, these 2ml capacity pods feature a transparent body with a contrasting black cap, allowing you to quickly monitor your e-liquid levels at a glance. Refilling is straightforward thanks to the highly convenient top-fill system, designed to keep your hands clean and your device running reliably. Each pod utilises a fixed, non-replaceable meshed coil design, which completely eliminates the need for manual coil changes. Once the integrated coil reaches the end of its lifespan, simply discard the entire pod unit and attach a fresh one. To ensure a perfectly tailored experience, these pods are available in a comprehensive range of resistances: 0.4ohm, 0.6ohm, 0.8ohm, 1.0ohm, and 1.2ohm. Whether you prefer a tight mouth-to-lung draw or a looser restricted direct-to-lung inhale, the meshed cores deliver brilliant flavour clarity and consistent vapour production. Supplied in a practical pack of two. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming' simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.6ohm",
+        "0.8ohm",
+        "1.0ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1154173",
+      "price": 4.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1154174",
+      "price": 4.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1154175",
+      "price": 4.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1154176",
+      "price": 4.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1154177",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-loomix-replacement-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-loomix-pods-2ml-800x800.jpg?v=1778171322",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

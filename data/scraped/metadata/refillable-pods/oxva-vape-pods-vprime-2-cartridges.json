@@ -1,0 +1,62 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "16065017545085",
+  "slug": "oxva-vape-pods-vprime-2-cartridges",
+  "title": "OXVA VPrime 2 Replacement Vape Pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/oxva-vape-pods-vprime-2-cartridges",
+  "brand": "Oxva",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "The OXVA VPrime 2 cartridges provide a highly dependable and leak-resistant solution for your daily vaping setup. Engineered specifically for the VPrime 2 device, these replacement pods hold 2ml of your preferred e-liquid and feature a robust five-layer leak-proof structure to ensure a clean, reliable experience. The highly convenient top-fill system allows you to quickly replenish your e-liquid without needing to detach the pod from your device. Inside each cartridge sits OXVA's advanced Unitech 3.0 mesh coil technology. This sophisticated heating element offers a larger chamber design to deliver consistently rapid activation, exceptionally clear flavour, and a significantly extended coil lifespan compared to standard wire coils. Because the coils are fully integrated into the pod casing, routine maintenance is completely straightforward. When the vapour production decreases or the flavour fades, you simply dispose of the entire pod and click a new one into place. These cartridges are available in two specific resistances to cater to restricted direct-to-lung vaping styles. The 0.4ohm pod is ideal for those who prefer slightly warmer vapour and pairs excellently with 50/50 or high-VG e-liquids. Alternatively, the 0.6ohm pod provides a smooth, airy draw that is perfectly suited for use with 50/50 freebase e-liquids and Nicotine Salts.",
+  "tags": [
+    "DTL",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "0.4ohm",
+        "0.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm",
+      "sku": "1159004",
+      "price": 5.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1159005",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-vape-pods-vprime-2-cartridges__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/VPRIME-Dual-Mesh-Cartridge-0.4-2ml.jpg?v=1791464538",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-vape-pods-vprime-2-cartridges__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/VPRIME-Dual-Mesh-Cartridge-0.6-2ml.jpg?v=1791464538",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.391Z"
+}

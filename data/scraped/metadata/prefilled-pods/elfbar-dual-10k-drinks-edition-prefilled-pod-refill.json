@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15331631890813",
+  "slug": "elfbar-dual-10k-drinks-edition-prefilled-pod-refill",
+  "title": "Elf Bar Dual 10K Drinks Edition Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/elfbar-dual-10k-drinks-edition-prefilled-pod-refill",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Drinks Edition Pre Filled Pods deliver a lively mix of soda-inspired flavours to the Elf Bar Dual 10K. One pod features Blue Raspberry Lime - a tangy, fizzy fruit blend - while the second offers Elfturbo, a unique energy drink-inspired profile with sweet, tart and slightly tangy layers. Each pod comes with a 5ml reservoir to keep refilling automatic and hands-free. If you enjoy beverage-style vapes with bold personality, Drinks Edition is one to try. How to Use: 1. Remove the Sticker and Read the Instructions 2. Remove the Silicone Parts and the Bottom Sticker 3. Press both containers securely into place 4. Install the pod into the Dual 10K device to use",
+  "tags": [
+    "2 x 2ml",
+    "Elfbar Dual 10k",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1142786",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-dual-10k-drinks-edition-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Drinks-Edition-Edition-Elf-Bar-Dual-10K-Prefilled-pods.jpg?v=1751039942",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.365Z"
+}

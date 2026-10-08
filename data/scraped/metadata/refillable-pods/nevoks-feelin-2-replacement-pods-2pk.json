@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639862305092",
+  "slug": "nevoks-feelin-2-replacement-pods-2pk",
+  "title": "Nevoks Feelin 2 Replacement Pods 2ml - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/nevoks-feelin-2-replacement-pods-2pk",
+  "brand": "Nevoks",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "The Nevoks Feelin 2 Replacement Pods are designed to keep your vaping experience fresh and versatile. Each pack contains two refillable pods, each with a 2ml e-liquid capacity, perfect for the Nevoks Feelin 2 pod kit. The flexibility of these pods lies in their ability to support various vaping styles, including MTL (Mouth To Lung), RDTL (Restricted Direct To Lung), and DTL (Direct To Lung), allowing you to explore and enjoy different vaping experiences. Refilling these pods is hassle-free, thanks to their clean and efficient side-filling system. The pods are compatible with the versatile Nevoks SPL-10 coils, available in multiple resistances from 0.4 to 1.0 Ohms. This range of resistances means you can use a wide variety of e-liquids, whether you prefer nicotine salts, freebase nicotine, or shortfill e-liquids, ensuring that your vaping preferences are always catered for. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1128507",
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128510",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nevoks-feelin-2-replacement-pods-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/nevoks-feelin-2-replacement-pod-2ml-2pk.jpg?v=1729057450",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

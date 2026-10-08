@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15777171505533",
+  "slug": "pablo-lemonade-nicotine-pouches-30mg-pouch",
+  "title": "Pablo Exclusive Lemonade Nicotine Pouches - 30mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/pablo-lemonade-nicotine-pouches-30mg-pouch",
+  "brand": "Pablo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Pablo Exclusive Lemonade Nicotine Pouches offer a vibrant citrus experience for those who demand intensity. The flavour profile mirrors the taste of fresh, cloudy lemonade—combining zesty tartness with a sweet, satisfying finish. Part of the high-strength Exclusive collection, these pouches are crafted for the experienced user. The slim, tobacco-free format sits comfortably against the gum, delivering a rapid 30mg/g nicotine release that is both powerful and discreet. Perfect for moments when you need a strong, reliable hit without compromising on refreshing flavour. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH Please Note: These nicotine pouches are 30mg of nicotine per pouch.",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144273",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pablo-lemonade-nicotine-pouches-30mg-pouch__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pablo-Nicotine-Pouch-Lemonade_39b8eb1e-e591-4b79-8f9b-a3387d48bdc1.jpg?v=1769687889",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.903Z"
+}

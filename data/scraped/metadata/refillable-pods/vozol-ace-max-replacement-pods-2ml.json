@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15212706333053",
+  "slug": "vozol-ace-max-replacement-pods-2ml",
+  "title": "Vozol Ace Max Replacement Pods - 2ml",
+  "url": "https://www.vapestore.co.uk/products/vozol-ace-max-replacement-pods-2ml",
+  "brand": "Vozol",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Enhance your Vozol Ace Max Pod Vape Kit experience with the Vozol Ace Max Mesh Refillable Pods. These 2ml pods feature integrated mesh coils for exceptional flavour and vapour production, ensuring a satisfying vape with every puff. Available in two resistances – 0.6ohm and 0.8ohm – these pods cater to both RDL and MTL vaping styles. The 0.6ohm pod delivers a warmer vape with increased vapour production, ideal for those who prefer a restricted direct-lung experience. The 0.8ohm pod offers a cooler vape with enhanced flavour clarity, perfect for mouth-to-lung vapers. These pods are designed for effortless top filling, minimising mess and maximising convenience. Simply detach the seal, add your favourite e-liquid, reseal, and enjoy a hassle-free vaping experience. We recommend using Nic Salts or 50/50 (freebase) E-Liquid with these pods. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1139388",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1139389",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vozol-ace-max-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Max-Pods-3pk-0.6.jpg?v=1746705499",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vozol-ace-max-replacement-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vozol-Ace-Max-Pods-3pk-0.8.jpg?v=1746705510",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

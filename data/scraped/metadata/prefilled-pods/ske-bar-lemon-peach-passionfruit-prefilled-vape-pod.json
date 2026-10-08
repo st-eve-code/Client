@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15290394837373",
+  "slug": "ske-bar-lemon-peach-passionfruit-prefilled-vape-pod",
+  "title": "SKE Bar Lemon Peach Passionfruit Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-lemon-peach-passionfruit-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Created for the SKE Bar Prefilled Pod Kit, this pod blends citrus and tropical notes in one vibrant vape. Lemon Peach Passion Fruit brings sharp Lemon, sweet Peach and tangy Passion Fruit together in a fruity profile that's juicy, bright and layered. Each pod is prefilled with 2ml of 20mg nic salt and uses mesh coil technology for a consistent, smooth MTL draw. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142653",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-lemon-peach-passionfruit-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-Peach-Passion-Fruit-SKE-Bar-Prefilled-Pod.jpg?v=1749546272",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.375Z"
+}

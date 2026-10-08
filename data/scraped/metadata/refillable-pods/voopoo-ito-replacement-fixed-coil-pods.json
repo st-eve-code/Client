@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639775666500",
+  "slug": "voopoo-ito-replacement-fixed-coil-pods",
+  "title": "VooPoo ITO Replacement Pods Fixed-Coil Pods -  2 Pack",
+  "url": "https://www.vapestore.co.uk/products/voopoo-ito-replacement-fixed-coil-pods",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Voopoo ITO pod cartridge is designed for use with the Voopoo Doric Q pod kit and features improved leak and condensate prevention, e-liquid visibility and a clean and easy side-filling system. Available in three MTL (mouth-to-lung) resistances, the Doric Q and ITO pod cartridge allows for a range of MTL and RDTL (restricted direct-to-lung) experiences while lasting up to ten days of average use. With the ITO pod cartridge, the coil is fixed and doesn’t require replacing; instead, you replace the whole pod when it begins to lose flavour, saving you time and expense. Best used with Classic/High PG , 50/50 and Nicotine Salts e-liquids. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.7ohm",
+        "1.0ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.7ohm",
+      "sku": "1121775",
+      "price": 4.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1121774",
+      "price": 4.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1121773",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-ito-replacement-fixed-coil-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-ito-catridge-1.2ohm-2ml-2pk_1.jpg?v=1729051291",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-ito-replacement-fixed-coil-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-ito-catridge-0.7om-2ml-2pk.jpg?v=1729051291",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-ito-replacement-fixed-coil-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-ito-catridge-1.0ohm-2ml-2pk.jpg?v=1729051291",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-ito-replacement-fixed-coil-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-ito-catridge-1.2ohm-2ml-2pk.jpg?v=1729051291",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

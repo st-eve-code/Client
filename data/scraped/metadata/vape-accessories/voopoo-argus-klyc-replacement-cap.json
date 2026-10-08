@@ -1,0 +1,100 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "15363574137213",
+  "slug": "voopoo-argus-klyc-replacement-cap",
+  "title": "Voopoo Argus Klyc Replacement Cap",
+  "url": "https://www.vapestore.co.uk/products/voopoo-argus-klyc-replacement-cap",
+  "brand": "VooPoo",
+  "productType": "Accessories",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Designed specifically for the Voopoo Argus Klyc Pod Kit, this replacement cap provides a sleek and functional way to keep your device protected between uses. Whether replacing a lost cap or customising your kit with a new colourway, this accessory blends perfectly with the Klyc’s modern design and premium finish. The cap magnetically attaches to the top or base of the device, shielding the mouthpiece from dust, dirt, and damage while also enhancing the overall aesthetic. Ideal for vapers who carry their kit in a bag or pocket, it’s a smart way to extend the longevity of your pod and maintain hygiene on the go. A perfect match for the Argus Klyc’s minimalist styling, this replacement cap delivers practicality without compromising design.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Moss Green",
+        "Dreamy Blue",
+        "Dusty Pink",
+        "Mystic Grey",
+        "Gold"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Moss Green",
+      "sku": "1142961",
+      "price": 3.99
+    },
+    {
+      "title": "Dreamy Blue",
+      "sku": "1142965",
+      "price": 3.99
+    },
+    {
+      "title": "Dusty Pink",
+      "sku": "1142967",
+      "price": 3.99
+    },
+    {
+      "title": "Mystic Grey",
+      "sku": "1142968",
+      "price": 3.99
+    },
+    {
+      "title": "Gold",
+      "sku": "1142969",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-argus-klyc-replacement-cap__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Moss-Green-Voopoo-argus-Klyc-cap.jpg?v=1752154204",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-klyc-replacement-cap__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dreamy-Blue-Voopoo-argus-Klyc-cap.jpg?v=1752154233",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-klyc-replacement-cap__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Dusty-Pink-Voopoo-argus-Klyc-cap.jpg?v=1752154266",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-klyc-replacement-cap__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mystic-Gray-Voopoo-argus-Klyc-cap.jpg?v=1752154300",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-klyc-replacement-cap__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Gold-Voopoo-argus-Klyc-cap.jpg?v=1752154337",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

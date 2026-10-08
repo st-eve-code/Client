@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15552404980093",
+  "slug": "lost-mary-bm600-guava-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Guava Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-guava-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Guava Ice Lost Mary BM600 Prefilled Pods pair tropical Guava with a cooling finish. Sweet, fragrant Guava carries through the inhale, while a frosty exhale keeps the flavour light and refreshing. Each pack includes two 2ml pods prefilled with 20mg nicotine salt e-liquid, offering up to 600 puffs per pod depending on use. The smooth mouth-to-lung (MTL) draw ensures a consistent and satisfying vape without refilling or coil replacements. Designed for the Lost Mary BM600 Prefilled Pod Kit, these pods install easily: simply click one into place and enjoy a tropical vape with a cool edge.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148295",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-guava-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Guava-Ice-Lost-Mary-BM600-Prefilled-Pods-min.jpg?v=1758557083",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.357Z"
+}

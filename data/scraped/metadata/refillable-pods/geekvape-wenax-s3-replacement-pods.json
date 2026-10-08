@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639835566404",
+  "slug": "geekvape-wenax-s3-replacement-pods",
+  "title": "Geekvape S Replacement Pods (2 PK)",
+  "url": "https://www.vapestore.co.uk/products/geekvape-wenax-s3-replacement-pods",
+  "brand": "Geekvape",
+  "productType": "Coils",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The Geekvape S Replacement Pod Cartridge is a handy replacement cartridge compatible with the exceptional Wenax S3 Pod Kit by Geekvape . It can hold 2ml of your favourite e-liquid and is available with integrated coils in two resistances: 0.8ohm and 1.2ohm mesh coils. To fill up your pod, the easy side-filling system makes refills clean and simple. For optimal performance, we recommend using 50/50 , higher PG e-liquids or nicotine salts with the Wenax S3 pod kit, especially with the higher resistance coils available in the compatible 0.8ohm and 1.2ohm Geekvape S pods.",
+  "tags": [
+    "CC DC List",
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1126922",
+      "price": 4.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1126923",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-wenax-s3-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-s-replacement-pod-2ml-2pk_1_1.jpg?v=1729055548",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-wenax-s3-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-s-replacement-pod-2ml-2pk.jpg?v=1729055548",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-wenax-s3-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geek-vape-s-replacement-pod-2ml-2pk_1.jpg?v=1729055548",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

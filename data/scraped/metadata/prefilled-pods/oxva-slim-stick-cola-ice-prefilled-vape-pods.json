@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15501917028733",
+  "slug": "oxva-slim-stick-cola-ice-prefilled-vape-pods",
+  "title": "Oxva Slim Stick Cola Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/oxva-slim-stick-cola-ice-prefilled-vape-pods",
+  "brand": "Oxva",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "These Cola Ice Prefilled Pods for the Oxva Slim Stick Prefilled Pod Kit offer a familiar soda-inspired flavour with a refreshing twist. Each pod comes preloaded with 2ml of 20mg nicotine salt e-liquid, providing up to 600 puffs depending on personal use. The flavour delivers the unmistakable taste of classic Cola, complete with its sweet, tangy soda character, brightened by a streak of cooling Ice on the exhale. The result is a vape that feels both nostalgic and refreshing, ideal for fans of fizzy drink flavours. Built-in coils ensure a consistent vape experience throughout, while the sealed pod format makes replacements quick and simple. Each pack contains two pods designed for a smooth mouth-to-lung draw, ready to slot into the Slim Stick kit without any maintenance required.",
+  "tags": [
+    "2 x 2ml",
+    "OXVA Slimstick",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144070",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-slim-stick-cola-ice-prefilled-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-pods---cola-ice.jpg?v=1757512022",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.356Z"
+}

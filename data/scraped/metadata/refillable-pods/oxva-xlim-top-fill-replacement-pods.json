@@ -1,0 +1,89 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639776747844",
+  "slug": "oxva-xlim-top-fill-replacement-pods",
+  "title": "Oxva Xlim V3 Top Fill Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/oxva-xlim-top-fill-replacement-pods",
+  "brand": "Oxva",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The OXVA Xlim V3 Top Fill Cartridges are a welcome innovation for the hugely popular OXVA Xlim series, and are designed to deliver an exceptional vaping experience for both MTL (mouth-to-lung) and RDL (restricted direct-to-lung) styles. With an upgraded top-filling system, these cartridges allow for effortless refilling without the need to remove the pod from your device, making them more convenient and user-friendly than ever. Equipped with built-in mesh coils for optimal performance and flavour delivery, the Xlim V3 pods are available in four resistance options, giving you the flexibility to tailor your vape to your preferred style: Featuring an ergonomic mouthpiece and an anti-leak design, the Xlim V3 pods are engineered to minimise condensation and deliver a clean, hassle-free vape. The pods are pre-installed with their respective mesh coils, eliminating the need for manual coil changes. Each pod offers a 2ml e-liquid capacity and is fully TPD-compliant, making them ideal for use with nic salts and 50/50 e-liquids . The OXVA Xlim V3 Top Fill Cartridges are compatible with the OXVA Xlim Pod Vape Kits (except the Xlim C Pod Kit) and provide a perfect balance of convenience, flavour, and versatility for all-day vaping. Coil Details Please Note: The 0.4ohm Pod is ONLY Compatible with the following Kits. Oxva Xlim SQ Pro Oxva Xlim Pro Oxva Xlim Pro 2 0.4ohm (RDL): Designed for a richer, warmer vape, performing best at 26-30W. 0.6ohm (RDL): A perfect balance of flavour and vapour production at 20-25W. 0.8ohm (MTL): Offers a smooth, flavourful draw, perfect at 12-18W. 1.2ohm (MTL): Provides a cooler draw and more discreet vapour at 10-12W. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4ohm",
+        "0.6ohm",
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm",
+      "sku": "1127259",
+      "price": 5.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1123388",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1123390",
+      "price": 5.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1123391",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-xlim-top-fill-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-v3-replacement-cartridge-2ml-3pk_1_1_1.jpg?v=1729051443",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-top-fill-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-v3-replacement-cartridge-2ml-3pk.jpg?v=1729051443",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-top-fill-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-v3-replacement-cartridge-2ml-3pk_1.jpg?v=1729051443",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-top-fill-replacement-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-v3-replacement-cartridge-2ml-3pk_1_1.jpg?v=1729051443",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.391Z"
+}

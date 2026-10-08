@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15394898379133",
+  "slug": "fumi-prickly-pear-nicotine-pouches",
+  "title": "FUMI Prickly Pear Nicotine Pouches - 8mg per Pouch",
+  "url": "https://www.vapestore.co.uk/products/fumi-prickly-pear-nicotine-pouches",
+  "brand": "FUMI",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "FUMi Prickly Pear Strong Nicotine Pouches offer a smooth, gently sweet flavour inspired by cactus fruit. With hints of Pear, Watermelon and a mild tropical backdrop, this pouch delivers a subtly distinctive taste without overpowering your senses. Each slim, all-white pouch is designed to sit discreetly under the lip and releases 8mg of nicotine steadily for up to 30 minutes. With no smoke, vapour or odour, they offer a clean and convenient experience that fits any routine. Each can contains 20 soft, plant-fibre pouches, crafted in Sweden by Helix AB to high production standards. Nicotine Range: Strong - 8mg this is suited for more experienced users. How to Use Nicotine Pouches: Please Note: DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "8mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Strong (8mg per pouch)"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Strong (8mg per pouch)",
+      "sku": "1143787",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fumi-prickly-pear-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FUMi-FRONT-Pickly_Pear.jpg?v=1753260473",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.920Z"
+}

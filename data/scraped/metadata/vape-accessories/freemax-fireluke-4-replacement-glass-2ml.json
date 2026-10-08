@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639722320196",
+  "slug": "freemax-fireluke-4-replacement-glass-2ml",
+  "title": "Freemax Fireluke 4 Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/freemax-fireluke-4-replacement-glass-2ml",
+  "brand": "Freemax",
+  "productType": "Accessories",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "The new, improved FreeMax Fireluke 4 sub-ohm tank features adjustable airflow and compatibility with FM Coiltech5.0/Double-D Mesh Coil Technology. This replacement glass chamber for the FreeMax Fireluke 4 tank is made from durable, heat-resistant Pyrex and is a replacement or spare for the 2ml glass included with the Fireluke 4 tank.",
+  "tags": [
+    "compatible-with-1117207"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1117214",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-fireluke-4-replacement-glass-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/freemax_fireluke_4_replacement_glass.jpg?v=1729048490",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

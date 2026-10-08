@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15980396151165",
+  "slug": "just-juice-peppermint-nic-pouches",
+  "title": "Just Juice Peppermint Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/just-juice-peppermint-nic-pouches",
+  "brand": "Just Juice",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Just Juice Peppermint Nicotine Pouches offer a highly convenient and completely tobacco-free way to enjoy a steady nicotine release. Known for their exceptional e-liquid blends, Just Juice brings their flavour expertise to the pouch format, ensuring consistent quality and long-lasting taste in every tin. Available in accessible 6mg and 10mg strengths, these pouches are designed to provide a smooth, controlled experience for users seeking a reliable daily option. The Peppermint profile provides a sharply cooling and intensely crisp mint taste. It offers a straightforward, icy rush that leaves a remarkably clean finish on the palate. Designed for pure refreshment, this classic mint blend delivers a consistently bracing and highly satisfying experience. Engineered for comfort, each pouch features a stable moisture design that prevents leakage while sitting discreetly under the upper lip. This provides a clean, smoke-free, and vapour-free experience that integrates easily into any environment. Nicotine Ranges: Low - 6mg this is best suited for new users Medium - 10mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "6mg to 10mg",
+    "nordicminioffermint"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / Pouch",
+        "10mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / Pouch",
+      "sku": "1158149",
+      "price": 3.95
+    },
+    {
+      "title": "10mg / Pouch",
+      "sku": "1158154",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__just-juice-peppermint-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/PEPERMINT-POUCHES-6MG-B-Just-Juice-Nicotine-Pouches.jpg?v=1785757477",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__just-juice-peppermint-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/PEPERMINT-POUCHES-10MG-B-Just-Juice-Nicotine-Pouches.jpg?v=1785757503",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.899Z"
+}

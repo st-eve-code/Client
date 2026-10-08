@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15618204205437",
+  "slug": "hayati-blueberry-nicotine-pouches",
+  "title": "Hayati Blueberry Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/hayati-blueberry-nicotine-pouches",
+  "brand": "Hayati",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Hayati Blueberry nicotine pouches features a clear Blueberry note with gentle sweetness for a simple, berry fruit taste. Each slim pouch sits neatly under the lip and releases nicotine gradually without smoke, vapour or noticeable odour. Available in 12mg (Strong), 20mg (X Strong) and 30mg (X Strong). Each can includes 20 pouches in a compact, pocket-friendly format. Created by Hayati, a UK brand specialising in vape and nicotine products, this pouch collection focuses on familiar flavours and straightforward strength choices. Explore more Hayati Nicotine Pouch flavours such as Rubyberry, Mango Ice and Grape Ice. Nicotine Ranges: Strong - 12mg this is suited for more experienced users Extra Strong - 20mg to 30mg this is suited for more experienced users How to Use: Place one pouch under your upper lip and leave it in place for 20–40 minutes while the flavour and nicotine release gradually. When finished, remove the pouch and dispose of it responsibly. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "12mg to 30mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "12mg",
+        "20mg",
+        "30mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "12mg",
+      "sku": "1148993",
+      "price": 3.99
+    },
+    {
+      "title": "20mg",
+      "sku": "1149004",
+      "price": 3.99
+    },
+    {
+      "title": "30mg",
+      "sku": "1149015",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-blueberry-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Hayati-Nicotine-Pouches.jpg?v=1760953809",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.919Z"
+}

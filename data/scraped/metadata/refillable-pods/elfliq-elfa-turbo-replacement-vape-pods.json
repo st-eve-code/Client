@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15292577382781",
+  "slug": "elfliq-elfa-turbo-replacement-vape-pods",
+  "title": "ElfLiq Elfa Turbo Refillable Replacement Pod",
+  "url": "https://www.vapestore.co.uk/products/elfliq-elfa-turbo-replacement-vape-pods",
+  "brand": "Elf Bar",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "These Elf Bar x ElfLiq Elfa Refillable Pods are designed for use with the Elfa Turbo Kit and all ELFA Series pod devices. Each pack includes two refillable pods with built-in mesh coils, offering excellent flavour and smooth vapour production for MTL (mouth-to-lung) vaping. Choose the 0.8ohm pods for a slightly warmer, airier almost-RDL (restricted direct-to-lung) vape experience — perfect when paired with Turbo Mode on the Elfa Turbo device. Please Note: 0.8ohm pod is ONLY compatible with the ELFLQ Elfa Turbo device. For a tighter, more traditional MTL draw and longer pod lifespan, the 1.1ohm pods are ideal, especially when used in Durable Mode. This pod is compatible with all ELFA devices. Each pod holds up to 2ml of e-liquid and features a secure bottom-fill design that helps prevent leaks while making refills quick and mess-free. The mesh coil is fixed, meaning there’s no need for coil changes — simply replace the pod when needed. Best paired with 10mg or 20mg Nic Salts or 50/50 VG/PG e-liquids, these refillable pods give you more flexibility and savings compared to prefilled options. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "1.1ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1141924",
+      "price": 4.49
+    },
+    {
+      "title": "1.1ohm",
+      "sku": "1141923",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfliq-elfa-turbo-replacement-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elfliq-Elfa-Turbo-Pods-0.8.jpg?v=1749659202",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elfliq-elfa-turbo-replacement-vape-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elfliq-Elfa-Turbo-Pods-1.1.jpg?v=1749659213",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

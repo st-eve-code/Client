@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639604486468",
+  "slug": "vaporesso-zero-2-pods-3ml",
+  "title": "Vaporesso Zero 2 Replacement 3ml pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-zero-2-pods-3ml",
+  "brand": "Vaporesso",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The new Vaporesso Zero 2 pod kit is a futuristic-looking device packed with features. It’s sci-fi curves and gorgeous ergonomics present a head-turning device that feels great in the hand. These Vaporesso Zero 2 Replacement Pods are offer a 3ml e-liquid capacity and two types of pod to choose from: A 1.0ohm Mesh Pod for a restricted MTL (mouth-to-lung) experience and a 0.3ohm CCell Pod for a looser, restricted DL (direct lung) experience. Both are designed with a PTF (press-to-fill) filling system, making topping up with e-liquid a simple, mess-free operation.",
+  "tags": [
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "Mesh 1.0ohm",
+        "CCELL 0.3ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Mesh 1.0ohm",
+      "sku": "VPS-RP-ZRO-2-MSH-1.0-3ML-2PK",
+      "price": 4.99
+    },
+    {
+      "title": "CCELL 0.3ohm",
+      "sku": "VPS-RP-ZRO-2-CCL-0.3-3ML-2PK",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-zero-2-pods-3ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-zero-2-pods-1-3_1.jpg?v=1729043967",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-zero-2-pods-3ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-zero-2-pods-1-0.jpg?v=1729043967",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-zero-2-pods-3ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/vaporesso-zero-2-pods-1-3.jpg?v=1729043967",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

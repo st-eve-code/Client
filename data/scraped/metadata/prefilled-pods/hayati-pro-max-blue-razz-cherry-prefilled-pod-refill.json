@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15540151615869",
+  "slug": "hayati-pro-max-blue-razz-cherry-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Blue Razz Cherry Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-blue-razz-cherry-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hayati Pro Max Plus 6000 Blue Razz Cherry Prefilled Pod brings together juicy Blue Raspberry and rich Cherry for a layered fruit blend. The sharp tang of Blue Raspberry cuts through the deeper sweetness of Cherry, creating a flavour that is fruity, rounded, and easy to enjoy all day. Built for the Hayati Pro Max Pod Kit, each pod contains a 2ml chamber that automatically refills from a built-in 10ml reservoir. Together, this provides 12ml of 20mg Nic Salt e-liquid without the need to refill bottles or swap coils. With up to 6000 puffs (approx.) per pod, supported by dual mesh coil technology, the Hayati Pro Max ensures flavour and vapour remain consistent. Simply insert the pod into your kit and enjoy hassle-free performance. Explore our Hayati Pro Max Plus Replacement Pods for even more delicious options.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148525",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-blue-razz-cherry-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blue-Razz-Cherry_Hayati-Pro-Max_-Pods-min.jpg?v=1758184971",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.366Z"
+}

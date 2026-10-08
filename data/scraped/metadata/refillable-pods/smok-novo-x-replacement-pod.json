@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639417446724",
+  "slug": "smok-novo-x-replacement-pod",
+  "title": "SMOK Novo X Replacement Pods",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-x-replacement-pod",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Novo X is the latest version of the super-compact and effortlessly simple to use Smok Novo X Pod kit. These replacement refillable pods have an inbuilt coil with a resistance of 0.8ohm and deliver a supremely satisfying mouth-to-lung style vape. These pods have two options one with a Dual coil build and one with mesh coil build both are MTL.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm DC",
+        "0.8ohm Mesh"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm DC",
+      "sku": "SM-SM-RP-NV-X-0.8-2ML-2P",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm Mesh",
+      "sku": "SM-SM-RP-NV-X-MS-0.8-3P",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-x-replacement-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-x-replacement-pods.jpg?v=1729038885",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

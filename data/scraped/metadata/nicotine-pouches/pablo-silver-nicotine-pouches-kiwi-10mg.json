@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15927529570685",
+  "slug": "pablo-silver-nicotine-pouches-kiwi-10mg",
+  "title": "Pablo Silver Nicotine Pouches - Kiwi - 10mg",
+  "url": "https://www.vapestore.co.uk/products/pablo-silver-nicotine-pouches-kiwi-10mg",
+  "brand": "Pablo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Pablo Silver Kiwi Nicotine Pouches deliver a sharp and vibrant fruit profile designed for consistent, everyday use. As part of the highly anticipated Silver Edition range, this option provides a balanced 10mg nicotine strength. It offers a smoother experience compared to the brand’s traditional high-strength products, while still retaining the fast-acting release that Pablo is known for. The Kiwi flavour provides a bright, slightly acidic fruit experience that highlights the unique tartness of the exotic fruit. It balances this tangy edge with a dynamic sweetness, ensuring a refreshing and highly satisfying flavour from start to finish. Crafted for maximum convenience, the slim, all-white pouches fit discreetly under the upper lip. They provide a steady, reliable nicotine release entirely free of tobacco, smoke, or vapour, making them a highly practical choice for use at any time of day. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH Please Note: These nicotine pouches are 30mg of nicotine per pouch.",
+  "tags": [
+    "b2b287",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1155903",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pablo-silver-nicotine-pouches-kiwi-10mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Kiwi-Pablo-Silver-Edition-Nic-Pouches.jpg?v=1781603103",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.903Z"
+}

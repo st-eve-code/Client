@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639250919748",
+  "slug": "xtar-vc2-charger-two-bay",
+  "title": "Xtar VC2 Charger",
+  "url": "https://www.vapestore.co.uk/products/xtar-vc2-charger-two-bay",
+  "brand": "Xtar",
+  "productType": "Battery Charger",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Xtar VC2 is a lithium-ion battery charger with two charging bays. It is designed to charge 10440, 14500, 14650, 16340, 17500, 17670, 18350, 18500, 18650, 18700, 22650, 25500, 26650 3.6V or 3.7V lithium-ion type rechargeable batteries. The LCD screen displays charging current, battery voltage and charging capacity and will intelligently identify the power input and automatically adjust the charging current to the suitable mode.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "320388",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__xtar-vc2-charger-two-bay__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/xtar-vc2-2-bay-vape-battery-charger-vapestore-shop-now_ff31f77d92.jpg?v=1729031467",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

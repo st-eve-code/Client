@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15289089130877",
+  "slug": "ske-bar-lemon-lime-prefilled-vape-pod",
+  "title": "SKE Bar Lemon & Lime Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-lemon-lime-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for the SKE Bar Prefilled Pod Kit, this Lemon and Lime pod delivers a sharp, zesty citrus flavour with a smooth, refreshing finish. The vibrant notes of Lemon are bright and punchy, while the Lime brings a tangy sweetness that makes this a lively, palate-cleansing vape. Each 2ml pod is filled with 20mg nicotine salt e-liquid and powered by mesh coil technology for a smooth and flavour-rich MTL experience. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Lemon and Lime",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142621",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-lemon-lime-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-_-Lime-SKE-Bar-Prefilled-Pod.jpg?v=1749482880",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.376Z"
+}

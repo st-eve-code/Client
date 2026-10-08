@@ -1,0 +1,105 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15557815435645",
+  "slug": "vaporesso-xros-series-corex-3-0-version-replacement-2ml-pods-4-pods",
+  "title": "Vaporesso Xros Series Corex 3.0 Version Replacement 2ml Pods - 4 Pods",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-xros-series-corex-3-0-version-replacement-2ml-pods-4-pods",
+  "brand": "Vaporesso",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "These genuine Vaporesso XROS Series COREX 3.0 Mesh Pods are designed to deliver pin-sharp flavour and stable, consistent performance across the XROS family, including the XROS Pro 2. Each 2ml pod features COREX 3.0 mesh (Hive Mesh) and Vaporesso’s proven leak-reducing SSS structure, with a simple top-fill port under the removable mouthpiece. Choose a resistance to match your preferred draw and e-liquid: • 0.4ohm: warm, airier draw for loose DTL/RDL best with 70/30 High-VG e-liquids. • 0.6ohm: versatile MTL to light RDL; ideal with 50/50 or nicotine salts. • 0.8ohm: balanced MTL; 50/50 or nicotine salts. • 1.0ohm: tight MTL; 50/50 and higher strengths. • 1.2ohm: extra-tight MTL; nicotine salts/high-strength 50/50.Four pods per pack. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "Freedojokit",
+    "Freedojopod",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm",
+        "0.4ohm",
+        "1.0ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1148635",
+      "price": 8.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1148636",
+      "price": 8.99
+    },
+    {
+      "title": "0.4ohm",
+      "sku": "1148634",
+      "price": 8.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1148637",
+      "price": 8.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1148638",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-xros-series-corex-3-0-version-replacement-2ml-pods-4-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-COREX-3.0_0.4_2ml_TPD.jpg?v=1758728198",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xros-series-corex-3-0-version-replacement-2ml-pods-4-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-COREX-3.0_0.6_2ml_TPD.jpg?v=1758728309",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xros-series-corex-3-0-version-replacement-2ml-pods-4-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-COREX-3.0_0.8_2ml_TPD.jpg?v=1758728336",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xros-series-corex-3-0-version-replacement-2ml-pods-4-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-COREX-3.0_1.0_2ml_TPD.jpg?v=1758728404",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-xros-series-corex-3-0-version-replacement-2ml-pods-4-pods__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-COREX-3.0_1.2_2ml_TPD.jpg?v=1758728527",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.388Z"
+}

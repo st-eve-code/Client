@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15611588346237",
+  "slug": "ivg-pro-12-green-fruits-prefilled-vape-pod-refill",
+  "title": "IVG Pro 12 Green Fruits Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-pro-12-green-fruits-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Green Fruits IVG Pro 12 Prefilled Pods combine crisp Green Apple, zingy Lime, and sweet Grape for a layered fruit medley with both tang and sweetness. The sharp citrus and apple notes open the mix, while the soft Grape undercurrent rounds out the flavour for a bright, balanced vape. Each refill pack includes a 2ml pod prefilled with 20mg Nicotine Salt e-liquid, along with a 10ml refill reservoir. Once connected, the system automatically keeps the pod topped up, removing the need for refills or coil changes. Each set supports up to 12,000 puffs per kit, depending on your vaping style. Mesh coil technology ensures smooth vapour production and consistent flavour delivery, while the secure click-fit design makes setup quick and clean. Created exclusively for use with the IVG Pro 12 Prefilled Pod Vape Kit. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill reservoir and press until they click into place. Slide the connected pod and refill unit into the device. Wait a few moments to allow the coil to saturate before vaping.",
+  "tags": [
+    "2ml + 10ml",
+    "IVG Pro 12 Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143664",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-pro-12-green-fruits-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-Pro-12---Refill-Box-Green-Fruits.jpg?v=1760703044",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.348Z"
+}

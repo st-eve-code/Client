@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179328487805",
+  "slug": "pyne-pod-2in1-spearmint-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Spearmint Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-spearmint-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Spearmint Pod Pack for the Pyne Pod 2-in-1 Kit delivers a crisp, clean mint flavour with cool, herbal character. Smoother and more fragrant than traditional menthol, the Spearmint flavour offers a bright, gently sweet minty profile with a softly refreshing exhale. It’s an ideal choice for vapers who enjoy a clean, cooling vape with a mellow edge. Each 2ml pod is prefilled with 20mg nicotine salt e-liquid and designed exclusively for the Pyne Pod 2-in-1 device. The pods lock in magnetically and work with the twist-to-switch dual pod system, making flavour pairing fast and fuss-free. With two pods per pack, Spearmint pairs beautifully with fruity or citrus flavours, or works well as a standalone mint refresh.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141655",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-spearmint-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-spearmint.jpg?v=1745581652",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

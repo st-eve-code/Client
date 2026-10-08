@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639853359428",
+  "slug": "smok-gt-replacement-pods-3pk",
+  "title": "SMOK Nord GT Empty Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/smok-gt-replacement-pods-3pk",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok GT Pod 3-Pack is specially designed for the Smok Nord GT Pod Kit, providing a perfect match for your device. Each pod in this convenient three-pack offers a 2ml e-liquid capacity, ensuring you have enough juice for extended vaping sessions. These pods are designed to deliver a smooth, satisfying vape every time. Whether you’re using your favourite e-liquids or exploring new flavours, these pods make the experience effortless and enjoyable. The pods are easy to fill, thanks to their user-friendly design, and they provide a secure fit with the Nord GT device, ensuring no leaks and optimal performance with Smok’s RPM 3 coils (sold separately.) With the Smok GT Pod 3-Pack, you'll always have a fresh pod at your fingertips, making it easy to switch flavours or replace a pod on the go.",
+  "tags": [
+    "CC DC List",
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1128119",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-gt-replacement-pods-3pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-nord-gt-empty-pod-2ml-3pk.jpg?v=1729056736",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

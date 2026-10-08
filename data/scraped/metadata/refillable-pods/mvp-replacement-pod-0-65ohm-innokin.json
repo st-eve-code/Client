@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639608713540",
+  "slug": "mvp-replacement-pod-0-65ohm-innokin",
+  "title": "Innokin MVP Replacement Pods 0.65ohm - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/mvp-replacement-pod-0-65ohm-innokin",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The MVP kit from Innokin uses these refillable pods which have an e-liquid capacity of 2ml and fixed 0.65 ohm coils that allow for multiple refills. When it is time to top up with e-liquid, simply release the silicon stopper and refill the pod with your favourite e-liquid. When your pod starts to lose flavour, simply swap it out for a new one. The MVP pods from Innokin are best used with N ic Salt , 50/50 and classic High-PG E-Liquids. This pack contains 3 x replacement Innokin MVP pods, 2ml. The MVP pod kit from Innokin is the ideal kit for newer vapers thanks to a vaping experience that closely mimics that of taking a puff on a traditional cigarette. It’s also an incredibly lightweight and discreet solution for any vaper looking for an easy-to-carry and hassle-free vape.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "IN-RP-MVP-3P",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__mvp-replacement-pod-0-65ohm-innokin__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-mvp-pod-x3.jpg?v=1729044204",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

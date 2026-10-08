@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15290373243261",
+  "slug": "ske-bar-banana-ice-prefilled-vape-pod",
+  "title": "SKE Bar Banana Ice Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-banana-ice-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Banana Ice for the SKE Bar Prefilled Pod Kit delivers sweet, creamy Banana on the inhale with a frosty menthol exhale. This combo brings a smooth, cooling vape experience ideal for vapers who enjoy rich yet refreshing profiles. Each 2ml pod contains 20mg nicotine salt and mesh coil tech for consistently smooth MTL draws. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Banana Ice",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142638",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-banana-ice-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Banana-lce-SKE-Bar-Prefilled-Pod.jpg?v=1749543044",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.375Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15501499072893",
+  "slug": "elf-bar-600-cola-prefilled-vape-pods-20mg-2pk",
+  "title": "Elf Bar 600 Cola Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-600-cola-prefilled-vape-pods-20mg-2pk",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for use with the Elf Bar 600 Prefilled Pod Kit, these Cola pods offer a simple and flavourful way to keep your device topped up. Each pack includes two 2ml prefilled pods, each loaded with 20mg nicotine salt e-liquid, providing up to 600 puffs depending on usage. The pods are inhale-activated and deliver a smooth mouth-to-lung (MTL) draw that feels familiar and satisfying, with no buttons, refilling, or coil changes required. The Cola flavour captures the unmistakable taste of a fizzy cola soda, blending sweet caramel-like notes with a tangy twist and a lightly sparkling character. It’s a nostalgic and refreshing flavour that tastes instantly recognisable and easy to enjoy all day. Swapping pods is quick and hassle-free — when one is finished, just click in a fresh pod and carry on vaping. These prefilled pods provide a mess-free, reliable way to enjoy Elf Bar’s signature blends in a more sustainable format.",
+  "tags": [
+    "2 x 2ml",
+    "Elfbar 600",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144638",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-600-cola-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cola-Elf-Bar-600-Prefilled-pods.jpg?v=1756803795",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.315Z"
+}

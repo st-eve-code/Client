@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639835042116",
+  "slug": "innokin-arcfire-replacement-pods",
+  "title": "Innokin ArcFire Replacement Pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/innokin-arcfire-replacement-pods",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Innokin Arcfire Pods utilise a mesh structure that brings out the true essence of your e-liquids, delivering consistently richer and deeper flavours with every inhale. These pods are thoughtfully designed to be leak-proof, so you can confidently carry your device in your hand or pocket without any worries of spills or drips. The Innokin Arcfire Pod Vape Kit perfectly balances style and functionality, allowing you to embrace your personal vaping style with confidence. Upgrade your MTL vaping experience with the Innokin Arcfire Pod Kit and enjoy the perfect fusion of pocket-friendly design and reliable performance. We recommend using 50/50 , Nic Salts or High PG E-Liquids with these pods. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1125417",
+      "price": 3.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1125416",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-arcfire-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-arcfire-ks-pod-2ml-2pk_1_1.jpg?v=1729055457",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-arcfire-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-arcfire-ks-pod-2ml-2pk.jpg?v=1729055457",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-arcfire-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-arcfire-ks-pod-2ml-2pk_1.jpg?v=1729055457",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639394345284",
+  "slug": "voopoo-drag-pnp-replacement-pods",
+  "title": "VooPoo PNP Replacement Pods",
+  "url": "https://www.vapestore.co.uk/products/voopoo-drag-pnp-replacement-pods",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Please note: Coils must be purchased separately - Voopoo PNP Coils With the Drag S and Drag X, vape innovators Voopoo have redefined their bestselling range of box mods into a sleek new Pod Mod form that boasts all the same power and functionality with innovative ergonomics and a host of advanced features. These replacement, refillable pods for are compatible with both Voopoo Drag S and Voopoo Drag X models and are made from durable PCTG materials with a comfortable mouthpiece and excellent airflow. They’re also incredibly simple to use: a bottom refill system makes topping up your e-liquid a clean and fuss-free process and compatibility with all of Voopoo’s range of excellent PnP (Plug and Play) coils makes swapping out a new coil as easy as push to fit. The PnP coils offer multiple resistances to help you find the perfect vape.",
+  "tags": [
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "VP-DR-PNP-RP-PD-2PK",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-drag-pnp-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-drag-2ml-replacement-pod-2.jpg?v=1729037954",
+      "position": 1,
+      "width": 400,
+      "height": 400,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

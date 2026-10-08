@@ -1,0 +1,90 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15297979449725",
+  "slug": "clew-wintergreen-nicotine-pouches",
+  "title": "Clew Wintergreen Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/clew-wintergreen-nicotine-pouches",
+  "brand": "Clew",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Clew Wintergreen Nicotine Pouches deliver a bold, icy flavour with the characteristic sharpness of Wintergreen. Designed for a clean and discreet nicotine experience, these pouches are ideal for fans of stronger mint-inspired profiles. Each can contains 20 slim-format pouches made in the USA using purified nicotine and food-grade materials. Available in 5mg, 10mg, 15mg and 20mg strengths, Clew Wintergreen suits a range of nicotine preferences. To use, place one pouch under your upper lip. It will steadily release nicotine for 30 to 45 minutes without smoke, vapour, or odour. Nicotine Ranges: Low - 5mg this is best suited for new users Medium - 10mg this is suited for more experienced users High - 15mg to 20mg this is suited for more experienced users How to Use: Nicotine Strips Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "5mg to 20mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "5mg / pouch",
+        "10mg / pouch",
+        "15mg / pouch",
+        "20mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg / pouch",
+      "sku": "1142889",
+      "price": 3.95
+    },
+    {
+      "title": "10mg / pouch",
+      "sku": "1142896",
+      "price": 3.95
+    },
+    {
+      "title": "15mg / pouch",
+      "sku": "1142903",
+      "price": 3.95
+    },
+    {
+      "title": "20mg / pouch",
+      "sku": "1142910",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__clew-wintergreen-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-wintergreen-5mg-800x800.jpg?v=1751897417",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-wintergreen-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-wintergreen-10mg-800x800.jpg?v=1751897434",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-wintergreen-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-wintergreen-15mg-800x800.jpg?v=1751897458",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-wintergreen-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-wintergreen-20mg-800x800.jpg?v=1751897476",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.904Z"
+}

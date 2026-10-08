@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15143709901181",
+  "slug": "innokin-vcap-replacement-pod-2ml-0-6ohm",
+  "title": "Innokin Vcap Replacement Pod 2ml 0.6ohm",
+  "url": "https://www.vapestore.co.uk/products/innokin-vcap-replacement-pod-2ml-0-6ohm",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "VCAP pods are designed exclusively for the innovative new Innokin Trine, offering a seamless blend of functionality and convenience. Each pod boasts a 2ml e-liquid capacity, providing ample volume for your vaping needs. The innovative leak-proof top filling design simplifies the refilling process, making it cleaner and more efficient. Available in three resistance levels - 0.6ohm for a loose RDTL (restricted direct-to-lung) draw, these pods cater to a wide range of vaping preferences. Whether you enjoy the intensity of freebase e-liquids or the smoothness of nic salts, VCAP pods deliver unmatched versatility. Engineered to work seamlessly with the Innokin Trine Kit, these pods ensure every puff is infused with rich flavour and vapour production. The pod's built-in coils are designed for longevity, reducing the need for frequent replacements and offering a cost-effective solution to your vaping needs. Innovative, efficient, and easy to use, VCAP pods refine the vaping experience for Innokin Trine users. Choose your resistance, fill with your favourite e-liquid, and enjoy a premium vaping session every time. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1129754",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-vcap-replacement-pod-2ml-0-6ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-trine-vcap-pods-0.6.jpg?v=1729058746",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

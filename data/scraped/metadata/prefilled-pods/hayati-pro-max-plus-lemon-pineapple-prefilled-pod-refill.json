@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15832601067901",
+  "slug": "hayati-pro-max-plus-lemon-pineapple-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Lemon Pineapple Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-lemon-pineapple-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Lemon Pineapple delivers a vibrant, zesty blend of sharp citrus and sweet tropical fruit. The inhale features the bright, tangy notes of fresh Lemon, balanced perfectly by the rich, juicy sweetness of ripe Pineapple on the exhale. Each Hayati Pro Max + Prefilled Pod pack is supplied as a single prefilled 2ml pod attached to an integrated 10ml refill reservoir, giving a total of 12ml of 20mg Nic Salt e-liquid. There’s no messy refilling and no coil changes. Just fit the pod to the Hayati Pro Max + Prefilled Pod Kit and vape. The pod uses a dual mesh coil and draw-activated inhale to deliver consistent flavour and discreet MTL vapour. One pod can deliver up to 6000 puffs (approx.), depending on personal use. When performance drops or the reservoir is empty, replace with a fresh Hayati Pro Max + Prefilled Pod in your chosen flavour. Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1153587",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-lemon-pineapple-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-Pineapple-Hayati-Pro-Max-6000-Pods.jpg?v=1773049528",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.327Z"
+}

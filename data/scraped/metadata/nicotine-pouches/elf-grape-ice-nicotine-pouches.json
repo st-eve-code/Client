@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15322725712253",
+  "slug": "elf-grape-ice-nicotine-pouches",
+  "title": "ELF Grape Ice Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/elf-grape-ice-nicotine-pouches",
+  "brand": "Elf Bar",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "ELF Grape Ice Nicotine Pouches blend sweet, fruity Grape flavour with a streak of cool Menthol for a clean and refreshing experience. Ideal for those who prefer a pouch with authentic fruity flavour coupled with a fresh, cool finish, these pouches deliver consistent satisfaction in a tobacco-free format. Each pouch sits discreetly under the upper lip and provides a gradual nicotine release over 30 to 45 minutes, with no smoke, vapour or odour. The pouches are slim, soft and made with plant-based fibres for all-day comfort. Each can contains 20 pouches and features a convenient catch lid for storing used pouches. Choose from 6mg, 12mg or 20mg strengths depending on your preference. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg/pouch",
+        "12mg/pouch",
+        "20mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg/pouch",
+      "sku": "1142921",
+      "price": 3.99
+    },
+    {
+      "title": "12mg/pouch",
+      "sku": "1142927",
+      "price": 3.99
+    },
+    {
+      "title": "20mg/pouch",
+      "sku": "1142933",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-grape-ice-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grape-Ice-_-6mg-Elf-Nicotine-Pouch.jpg?v=1750779425",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-grape-ice-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grape-Ice-_-12mg-Elf-Nicotine-Pouch.jpg?v=1750779506",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-grape-ice-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Grape-Ice-_-20mg-Elf-Nicotine-Pouch.jpg?v=1750779575",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.916Z"
+}

@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639595573572",
+  "slug": "aspire-pockex-box-replacement-glass-2ml",
+  "title": "Aspire Pockex Box Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/aspire-pockex-box-replacement-glass-2ml",
+  "brand": "Aspire",
+  "productType": "Accessories",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "These handy replacement pieces allow you to replace the glass of a broken or damaged PockeX box without having to buy an entirely new unit.",
+  "tags": [
+    "compatible-with-AS-KT-PX-BX-TG"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "AS-GL- PX-BX-2ML",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-pockex-box-replacement-glass-2ml__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/microsoftteams-image_22.png?v=1729043521",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

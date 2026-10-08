@@ -1,0 +1,90 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15297850573181",
+  "slug": "clew-blueberry-nicotine-pouches",
+  "title": "Clew Blueberry Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/clew-blueberry-nicotine-pouches",
+  "brand": "Clew",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Clew Blueberry Nicotine Pouches deliver a mellow, fruity flavour with the soft sweetness of ripe Blueberries. These slim, tobacco-free pouches are placed under the lip for a discreet and smoke-free experience, with no vapour or odour. Each can contains 20 slim-format pouches made in the USA using high-purity nicotine and food-grade ingredients. With four nicotine strengths to choose from – 5mg, 10mg, 15mg and 20mg – Clew Blueberry is suitable for both inexperienced users and those looking for a stronger effect. To use, place one pouch between your upper lip and gum. The pouch gradually releases nicotine over 30 to 45 minutes before it can be disposed of. Clean and simple, these pouches offer a straightforward way to manage nicotine without tobacco. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "5mg to 20mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "5mg / pouch",
+        "10mg / pouch",
+        "15mg / pouch",
+        "20mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg / pouch",
+      "sku": "1142884",
+      "price": 3.95
+    },
+    {
+      "title": "10mg / pouch",
+      "sku": "1142891",
+      "price": 3.95
+    },
+    {
+      "title": "15mg / pouch",
+      "sku": "1142898",
+      "price": 3.95
+    },
+    {
+      "title": "20mg / pouch",
+      "sku": "1142905",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__clew-blueberry-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-blueberry-5mg-800x800.jpg?v=1751897874",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-blueberry-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-blueberry-10mg-800x800.jpg?v=1751897874",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-blueberry-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-blueberry-15mg-800x800.jpg?v=1751897874",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-blueberry-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/clew-nic-pouch-blueberry-800x800.jpg?v=1751897874",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.906Z"
+}

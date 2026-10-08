@@ -1,0 +1,55 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15153706697085",
+  "slug": "vaporesso-vibe-dual-mesh-smart-vape-pod",
+  "title": "Vaporesso Vibe Dual Mesh Smart Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-vibe-dual-mesh-smart-vape-pod",
+  "brand": "Vaporesso",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "These official Vaporesso Vibe Dual Mesh Smart Pods are designed for use with the Vaporesso Vibe SE and Vibe Nano Pod Kits. Each 2ml refillable pod features Vaporesso’s intelligent Smart Pod system with dual mesh coil technology, allowing the pod to automatically adapt to Eco or Power mode settings for a tailored vaping experience. The 0.6ohm / 0.8ohm pod delivers a versatile balance between flavour and vapour production, supporting both MTL (mouth-to-lung) and RDTL (restricted direct-to-lung) styles depending on the selected mode. The 0.7ohm / 1.0ohm pod offers a slightly tighter inhale, making it ideal for MTL vapers who prefer a smoother and more restrained vape. Both variants use Vaporesso’s Hyperflow mesh coil structure to enhance flavour consistency and extend pod lifespan. Each pod is easily refilled via the side port and performs best with 50/50 freebase or nicotine salt e-liquids. Please Note: To improve the performance and longevity of your new Pods, always prime them with your chosen e-liquid before inserting into your device 'Priming’ simply means wetting the exposed cotton or similar wicking material with e-liquid before use. This helps prevent dry hits and burning the coil should it fail to soak up e-liquid properly before firing the vape device. Once you've primed your pod, attached it to your device, allow to stand for 5-10 minutes before vaping.",
+  "tags": [
+    "Freedojokit",
+    "Freedojopod",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm/0.6ohm",
+        "0.7ohm/1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm/0.6ohm",
+      "sku": "1141048",
+      "price": 4.99
+    },
+    {
+      "title": "0.7ohm/1.0ohm",
+      "sku": "1141050",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-vibe-dual-mesh-smart-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-Vibe-Dual-Mesh-pod--2PK.jpg?v=1744648084",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

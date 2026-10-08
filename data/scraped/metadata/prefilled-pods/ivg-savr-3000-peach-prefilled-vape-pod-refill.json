@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15378261279101",
+  "slug": "ivg-savr-3000-peach-prefilled-vape-pod-refill",
+  "title": "IVG Savr 3000 Peach Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-savr-3000-peach-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Peach Ice IVG Savr 3000 Prefilled Pods bring together mellow, juicy Peach with a bright streak of Menthol to keep things fresh. The result is a fruit-meets-frost blend that’s smooth and satisfying, perfect for everyday use. Each refill pack contains a 2ml pod filled with 20mg nicotine salt e-liquid, alongside a 4ml refill reservoir that feeds the pod as you vape. The click-fit design makes assembly easy and mess-free, with no need for coil changes or manual refilling. Designed for use with the IVG Savr 3000 Prefilled Pod Vape Kit only, and powered by mesh coil technology for a smooth MTL vape with consistent flavour throughout. How to Set Up IVG Savr Prefilled Pod's Step 1: Unpack the Device Remove the cap from the mouthpiece. Take out the silicone stopper from the pod. Step 2: Prepare the Refill Peel off the red sticker. Remove the rubber stop. Step 3: Connect the Pod Align the refill with the pod. Press until you hear a click. Step 4: Insert into Device Slide the full pod-and-refill unit into the Savr device. Step 5: Prime the Coil Wait a few minutes to let the coil fully saturate. ✅ Ready to Vape! Inhale to activate and enjoy.",
+  "tags": [
+    "2ml + 4ml",
+    "IVG Savr Prefilled Pods",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143399",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-savr-3000-peach-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-SAVR-Pods-Peach-Ice.jpg?v=1752674549",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.340Z"
+}

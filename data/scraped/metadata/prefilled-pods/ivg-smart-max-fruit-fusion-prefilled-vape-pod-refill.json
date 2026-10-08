@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15502079361405",
+  "slug": "ivg-smart-max-fruit-fusion-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Fruit Fusion Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-fruit-fusion-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Fruit Fusion IVG Smart Max Prefilled Pod brings together a medley of tropical fruits and sweet berries for a vibrant, layered vape. This lively mix delivers a balance of tangy and juicy notes, making it an easy all-day flavour for fruit fans. Each pack contains a 2ml pod prefilled with 20mg nicotine salt e-liquid, paired with a 10ml refill reservoir that automatically tops up the pod as you vape. Capable of supporting up to 12,000 puffs depending on usage, this system removes the need for refilling or coil replacement. Powered by mesh coil technology, the pod delivers smooth vapour and clear flavour from start to finish. Made exclusively for use with the IVG Smart Max 12K Prefilled Pod Vape Kit, installation is quick and simple — just click the pod into place and you’re ready to vape. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "IVG Smart Max Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144663",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-fruit-fusion-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SMART-MAX-Refill-Fruit-Fusion.jpg?v=1756823933",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.339Z"
+}

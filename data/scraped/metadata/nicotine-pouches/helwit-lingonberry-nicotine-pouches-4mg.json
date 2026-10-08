@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15343291564413",
+  "slug": "helwit-lingonberry-nicotine-pouches-4mg",
+  "title": "Helwit Lingonberry Nicotine Pouches 4mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-lingonberry-nicotine-pouches-4mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Lingonberry Nicotine Pouches offer a distinctive, Scandi-inspired flavour with a sharp berry kick and a hint of underlying sweetness. The result is a flavour that feels fresh and crisp. Containing 4mg of nicotine per pouch, this is the mildest strength in the Helwit range. The slim, plant-based pouch fits neatly under the lip and delivers steady nicotine without smoke, vapour or odour. Produced in Sweden using climate-compensated manufacturing, Helwit Lingonberry is a clean, modern choice for discreet, everyday use. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "4mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "4mg/pouch",
+      "sku": "1143087",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-lingonberry-nicotine-pouches-4mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lingonberry-Helwit-Concept-Nicotine-Pouches.jpg?v=1764954465",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.918Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15134985519485",
+  "slug": "ske-crystal-cl6000-triple-mango-prefilled-vape-pod-20mg",
+  "title": "SKE Crystal CL6000 Triple Mango Prefilled Vape Pod - 20mg",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-cl6000-triple-mango-prefilled-vape-pod-20mg",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The SKE Crystal CL6000 Prefilled Pod Pack in Triple Mango offers a deep, juicy Mango flavour that’s layered, rich and tropical. By blending multiple Mango profiles — from syrupy to sun-ripened and bright — this flavour captures the fruit’s full character in a vape that’s bold, smooth and unmistakably Mango from start to finish. Each pack contains a 2ml prefilled pod and a 10ml refill container, designed for use with the SKE Crystal CL6000 Prefilled Pod Kit. Combined, they deliver up to 6000 puffs (based on personal usage) of consistent vapour and high-impact flavour. Dual mesh coil technology ensures an authentic, full-flavoured vape, while the automatic refill system and leak-resistant design make maintenance quick and easy. Filled with 20mg/ml nicotine salt e-liquid, the pod provides rapid nicotine relief and a tactile yet comfortable throat hit tailored for MTL vaping. Replace the pod and refill container when empty to keep the mango magic going.",
+  "tags": [
+    "2ml + 10ml",
+    "Crystal CL6000",
+    "Mango",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139189",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-cl6000-triple-mango-prefilled-vape-pod-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ske-cl6000-triple-mango-pod.jpg?v=1744036231",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.330Z"
+}

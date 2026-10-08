@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639712620868",
+  "slug": "uwell-caliburn-a2s-replacement-pods-1-2ohm",
+  "title": "Uwell Caliburn A2S Replacement Pod 1.2Ohm - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-a2s-replacement-pods-1-2ohm",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "These replacement Uwell Caliburn A2S pods feature a transparent design, allowing users to see through the pod as they fill it with E-Liquid. The Caliburn A2S 2ml pods can be refilled by removing the cap to reveal the side-fill port, which helps to prevent leaks and debris collecting in the mouthpiece. A2S Pods connect to the battery securely, and a tighter airflow ensures a richer, more intense vape than the original Caliburn vape kit. The pods feature a built-in 1.2ohm mesh coil that eliminates the hassle of replacing coils completely. When your pod’s coil begins to lose flavour, simply replace the whole pod for a new one. Designed for a perfect MTL (mouth-to-lung) experience, the pods are versatile enough that they can be used with High-PG , 50/50 and Nicotine Salt E-Liquids. The Uwell Caliburn A2S Pod kit features an improved MTL draw, a long-lasting 520mAh battery and effortlessly simple and satisfying Auto-Inhale activation, all with the performance and flavour you’ve come to expect from a Uwell Caliburn kit.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1117150",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-a2s-replacement-pods-1-2ohm__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-a2s-pods.jpg?v=1729048107",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

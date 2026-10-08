@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15689156657533",
+  "slug": "elfbar-elfx-mega-replacement-vape-pods-2ml",
+  "title": "Elf Bar Elfx Mega Replacement Vape Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/elfbar-elfx-mega-replacement-vape-pods-2ml",
+  "brand": "Elf Bar",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "These replacement pods are designed exclusively for the Elf Bar ELFX Mega Pod Kit. They feature Elf Bar’s advanced QUAQ DURA technology, a dual-mesh coil design that reinforces the coil structure to deliver up to three times the lifespan of standard single-mesh pods. Each pod holds 2ml of e-liquid and features a clean, leak-resistant side-fill port. The built-in coils mean there is no messy maintenance—simply replace the whole pod when the flavour fades. The 0.6ohm pod is best for \"Turbo Mode\" and a looser, airy draw (RDL), while the 0.8ohm pod is ideal for \"ECO Mode\" and a tighter, cigarette-style draw (MTL). Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1149434",
+      "price": 3.49
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1149433",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-elfx-mega-replacement-vape-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.6_-ELFBAR-ElfX-Mega-pod.jpg?v=1764001071",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elfbar-elfx-mega-replacement-vape-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.8_-ELFBAR-ElfX-Mega-pod.jpg?v=1764001080",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

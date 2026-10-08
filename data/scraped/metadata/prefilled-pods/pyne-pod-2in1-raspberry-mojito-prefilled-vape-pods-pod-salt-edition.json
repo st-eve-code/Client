@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179286118781",
+  "slug": "pyne-pod-2in1-raspberry-mojito-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Raspberry Mojito Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-raspberry-mojito-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Raspberry Mojito Pod Pack for the Pyne Pod 2-in-1 Kit captures the crisp, cooling flavour of a classic cocktail-inspired blend. Sweet, tangy Raspberry provides a juicy berry burst on the inhale, while a delicate layer of Mint brings cool herbal freshness, rounded off with a touch of lime for added zesty sharpness. The result is a lively, refreshing vape with a flavour as vibrant as its name. Each pod is prefilled with 2ml of 20mg nicotine salt e-liquid and made specifically for the Pyne Pod 2-in-1 device. The pods lock in magnetically and are fully compatible with the twist-to-switch pod system for effortless flavour swaps. With two pods per pack, Raspberry Mojito makes an excellent partner to fruit, menthol, or citrus blends.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141654",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-raspberry-mojito-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-raspberry-mojito.jpg?v=1745580728",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

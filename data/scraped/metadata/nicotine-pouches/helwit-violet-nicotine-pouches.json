@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15338427089277",
+  "slug": "helwit-violet-nicotine-pouches",
+  "title": "Helwit Violet Nicotine Pouches 7mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-violet-nicotine-pouches",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Violet Nicotine Pouches introduce a unique floral flavour with soft, aromatic sweetness. This distinctive profile offers a gentle alternative to mint or fruit blends, with a smooth character that feels refined and easy-going from start to finish. Each slim pouch contains 7mg of nicotine and is crafted from plant-based materials for a comfortable, low-profile fit under the lip. The pouches release nicotine gradually with no smoke, vapour or odour, making them ideal for discreet use in any setting. Made in Sweden using a climate-compensated process, Helwit pouches deliver a clean, mess-free format for those who appreciate something a little different in both flavour and function. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "7mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "7mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "7mg/pouch",
+      "sku": "1143080",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-violet-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Violet-HelwitNicotinePouch.jpg?v=1751386838",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.910Z"
+}

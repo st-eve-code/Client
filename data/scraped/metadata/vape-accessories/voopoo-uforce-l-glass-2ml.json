@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639750041924",
+  "slug": "voopoo-uforce-l-glass-2ml",
+  "title": "VooPoo UForce-L Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-uforce-l-glass-2ml",
+  "brand": "VooPoo",
+  "productType": "Accessories",
+  "price": {
+    "min": 1.5,
+    "max": 1.5,
+    "currency": "GBP"
+  },
+  "description": "Replacement Glass 2ml for the VooPoo UForce-L Sub-Ohm Tank x 1 The Voopoo Uforce-L sub-ohm tank 2ml is a precision-engineered vape tank with adjustable, 3-inlet airflow control that not only lets you control how tight or loose your draw is but helps prevent leaks and the build-up of condensation. Heatsink technology also helps prevent your tank getting too hot, ensuring every puff is consistently comfortable. Voopoo’s Uforce-L sub-ohm tank is compatible with all of Voopoo’s versatile PnP series. This replacement glass tube provides a 2ml e-liquid capacity and is simple to install – insert the glass firmly over the tank cap’s rubber seal then insert the coil head and attach to the tank’s base.",
+  "tags": [
+    "CC DC List"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1121258",
+      "price": 1.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-uforce-l-glass-2ml__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-uforce-l-replacement-glass-2ml_1.png?v=1729049501",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

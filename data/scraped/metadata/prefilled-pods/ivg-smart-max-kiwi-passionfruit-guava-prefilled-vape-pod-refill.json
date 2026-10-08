@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15502089224573",
+  "slug": "ivg-smart-max-kiwi-passionfruit-guava-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Kiwi Passionfruit Guava Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-kiwi-passionfruit-guava-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Kiwi Passionfruit Guava IVG Smart Max Prefilled Pod blends three tropical fruits for a bright and exotic flavour profile. Tangy Kiwi, sweet Passionfruit and smooth Guava combine for a vape that’s full of colour and character. Each pack includes a 2ml pod prefilled with 20mg nicotine salt e-liquid, plus a 10ml refill reservoir that automatically tops up the pod during use. Designed to deliver up to 12,000 puffs depending on vaping style, this refill system eliminates the need for manual filling or coil changes. Using mesh coil technology, the pod provides consistent vapour production and well-defined flavour from beginning to end. Made exclusively for the IVG Smart Max 12K Prefilled Pod Vape Kit, installation is quick and mess-free — simply click the pod into place and start vaping. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "IVG Smart Max Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144664",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-kiwi-passionfruit-guava-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SMART-MAX-Refill-Kiwi-Passionfruit-Guava.jpg?v=1756824457",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.354Z"
+}

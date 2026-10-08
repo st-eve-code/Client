@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15537523360125",
+  "slug": "nordic-spirit-blueberry-nicotine-pouches",
+  "title": "Nordic Spirit Blueberry Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-blueberry-nicotine-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Blueberry Nicotine Pouches deliver a clear, fruity burst of ripe Blueberry flavour with a mellow, sweet finish. Balanced and approachable, this pouch offers a clean berry taste that remains consistent from start to finish, making it a reliable choice for fans of fruit-led profiles. Each pouch is slim and discreet, crafted from soft plant-based fibres for a comfortable fit under the lip. The updated moist formulation provides a softer feel and quicker flavour release, while nicotine is delivered steadily without smoke, vapour, or odour. The newly designed can is slimmer and offers a refined, portable finish. Available in Regular (6mg) and Strong (9mg) strengths, Nordic Spirit Blueberry suits a wide range of preferences while keeping flavour clear and satisfying. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "6mg to 9mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1148325",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1148329",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-blueberry-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Reg-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773743053",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-blueberry-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Strong-Nordic-Spirit-Nicotine-Pouches_6849c4cd-f08e-4225-a90e-ff9263aa322d.jpg?v=1773743069",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.898Z"
+}

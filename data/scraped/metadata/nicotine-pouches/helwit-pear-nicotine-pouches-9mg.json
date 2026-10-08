@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15343323251069",
+  "slug": "helwit-pear-nicotine-pouches-9mg",
+  "title": "Helwit Pear Nicotine Pouches 9mg",
+  "url": "https://www.vapestore.co.uk/products/helwit-pear-nicotine-pouches-9mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Pear Nicotine Pouches deliver a smooth, subtly sweet fruit flavour with the gentle taste of ripe Pear. Each pouch contains 9mg of nicotine and is crafted from plant-based fibres for comfort and discretion. Produced in Sweden using climate-compensated methods, Helwit Pear offers a clean, fruity experience in a practical, tobacco-free format. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg/pouch",
+      "sku": "1143093",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-pear-nicotine-pouches-9mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pear-Helwit-Nicotine-Pouches.jpg?v=1764954491",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.907Z"
+}

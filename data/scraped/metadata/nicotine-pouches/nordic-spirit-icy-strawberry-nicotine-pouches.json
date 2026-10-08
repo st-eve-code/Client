@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "16019061768573",
+  "slug": "nordic-spirit-icy-strawberry-nicotine-pouches",
+  "title": "Nordic Spirit Icy Strawberry Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-icy-strawberry-nicotine-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Icy Strawberry Nicotine Pouches bring a vibrant twist to traditional mint options. This profile leads with the juicy sweetness of ripe Strawberry, before finishing with a clean, refreshing note of Peppermint. This dynamic contrast ensures a highly satisfying taste from start to finish. Featuring an enhanced moist formulation, these slim pouches rapidly deliver flavour and nicotine. The increased moisture content ensures a softer feel against the gum and a responsive release upon use. Packaged in a newly redesigned slim container, these pouches fit seamlessly into any pocket. Providing a Regular 6mg & 9mg strength, they offer a reliable, tobacco-free option with completely discreet, smoke and vape-free usage. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "6mg to 9mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1163557",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1148330",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-icy-strawberry-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Icy-Strawberry-REGULAR-Nordic-Spirit-Nicotine-Pouches.jpg?v=1789040487",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-icy-strawberry-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Icy-Strawberry-STRONG-Nordic-Spirit-Nicotine-Pouches.jpg?v=1789043475",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.895Z"
+}

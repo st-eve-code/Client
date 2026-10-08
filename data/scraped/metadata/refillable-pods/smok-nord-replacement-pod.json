@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639357448516",
+  "slug": "smok-nord-replacement-pod",
+  "title": "SMOK Nord Replacement Pod",
+  "url": "https://www.vapestore.co.uk/products/smok-nord-replacement-pod",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "This convenient replacement pod is designed for use with the Smok Nord Pod vape kit, providing up to 2ml of capacity for your e-liquid of choice. This pack contains two coil options to allow you to swap between different styles of vaping depending on your personal preference, with one 0.6ohm coil facilitating a flavoursome direct inhale with sub ohm e-liquids and another 1.4ohm coil option providing a deeply-delicious direct-to-lung experience with classic, 50:50 and nic salts. Includes 2 x Smok Nord Replacement Pods (1 x 0m6ohm & 1 x 1.4ohm)",
+  "tags": [
+    "compatible-with-SM-KT-NO-RD-PO-RED",
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-PD-NO-RD-RP-2P",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-nord-replacement-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-nord-pods.jpg?v=1729036224",
+      "position": 1,
+      "width": 2000,
+      "height": 2000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

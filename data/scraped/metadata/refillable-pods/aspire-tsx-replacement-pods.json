@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639767933252",
+  "slug": "aspire-tsx-replacement-pods",
+  "title": "Aspire TSX Replacement Fixed-coil pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/aspire-tsx-replacement-pods",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Cyber S vape kit is perfect for anyone looking for an easy-to-use, low-maintenance vape device that doesn't skimp on flavour or vapour production. These replacement TSX are compatible with the Aspire Cyber S and Cyber X pod kits and feature a mesh build that heats up quickly, allowing for faster vaporisation of e-liquid and improved flavour production. Refilling these pods is a breeze too - simply remove the rubber stopper on the side to reveal the filling port and top up with your favourite e-liquid. For best results, we recommend pairing these pods with nic salt, 50/50 and classic high PG E-Liquid. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1122528",
+      "price": 3.49
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1122527",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-tsx-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire_tsx_pod_1.0ohm_2pk_1_1.jpg?v=1729050666",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-tsx-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire_tsx_pod_1.0ohm_2pk.jpg?v=1729050666",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-tsx-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire_tsx_pod_1.0ohm_2pk_1.jpg?v=1729050666",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.394Z"
+}

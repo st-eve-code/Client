@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15025057268093",
+  "slug": "ske-crystal-pro-vmt-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "SKE Crystal Pro VMT Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-pro-vmt-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: These pods are not compatible with the SKE BAR device. Designed for use with the SKE Crystal Pro 600 Prefilled Pod Kit, these SKE Crystal Pro 600 Prefilled Pods offer an effortless way to enjoy premium flavour and convenience without the waste and cost of disposable vapes. Each prefilled pod delivers up to 600 puffs, depending on individual usage, and contains 2ml of 20mg nic salt e-liquid, providing a smooth, satisfying mouth-to-lung (MTL) vape with fast nicotine absorption. VMT Ice blends a rich medley of juicy dark berries, sweet grapes, and tart blackcurrants with an invigorating icy exhale. The combination of deep fruit flavours and a crisp cooling finish creates a bold and refreshing vape with every puff. Swapping pods is quick and effortless—simply remove the empty pod and pop a fresh one into place. Whether you're looking for a convenient alternative to disposables or an easy way to continue enjoying your favourite SKE Crystal Pro 600 flavours, these prefilled pods provide a mess-free and flavourful vaping experience.",
+  "tags": [
+    "2 x 2ml",
+    "Crystal Pro",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138970",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-pro-vmt-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-Crystal-Pro-Prefilled-pods-VMT-Ice.jpg?v=1739975503",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.312Z"
+}

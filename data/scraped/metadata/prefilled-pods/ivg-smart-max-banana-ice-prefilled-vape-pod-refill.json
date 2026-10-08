@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15373172310397",
+  "slug": "ivg-smart-max-banana-ice-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Banana Ice Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-banana-ice-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Banana Ice IVG Smart Max Prefilled Pod delivers a sweet and creamy Banana flavour rounded off with a brisk Menthol finish. The ripe Banana brings mellow richness on the inhale, while the cooling note adds a clean, icy edge on the exhale. Together, they create a smooth, well-defined vape that’s ideal for fans of fruit-meets-frost flavour profiles. Each pack includes a 2ml pod prefilled with 20mg nicotine salt e-liquid, plus a 10ml refill reservoir that automatically tops up the pod as you vape. This refill system is designed to support up to 12,000 puffs per kit depending on usage, and eliminates the need for manual refilling or coil replacement. The pod uses mesh coil technology for full-bodied flavour and smooth vapour from start to finish. Designed exclusively for use with the IVG Smart Max 12K Prefilled Pod Vape Kit, installation is quick and simple — just click the pod into place and you're ready to go. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "Banana Ice",
+    "IVG Smart Max Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143301",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-banana-ice-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smart-max-refill-banana-ice-800x800.jpg?v=1752499104",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.344Z"
+}

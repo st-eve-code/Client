@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15069386408317",
+  "slug": "lost-mary-bm6000-menthol-prefilled-vape-pods",
+  "title": "Lost Mary BM6000 Menthol Prefilled Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm6000-menthol-prefilled-vape-pods",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Menthol delivers a crisp and cooling vape with a clean, refreshing taste. The smooth and icy Menthol flavour provides a cooling sensation on the inhale and exhale, making it an ideal choice for those who enjoy a fresh and uplifting vape. Designed for use with the Lost Mary BM6000 V2 Prefilled Pod Kit, this pack includes a replaceable 2ml prefilled pod and a 10ml refill container, allowing you to refresh your device with ease. This system extends the lifespan of your device, providing up to 6000 puffs while offering the flexibility to switch flavours at any time. How to Use Your Replacement Pod & Refill Pack: 1. Remove the prefilled pod and refill container from the packaging. 2. Remove any safety stickers from the components. 3. Insert the pod securely into the device. 4. Attach the refill container to the side of the device. 5. Turn the device upside down to transfer e-liquid from the refill container to the pod. 6. Allow a few minutes for the coil to saturate before vaping. When the pod and refill container are empty, simply replace them with a new set to continue enjoying your Lost Mary BM6000 V2 device.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "0mg",
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0mg",
+      "sku": "1158704",
+      "price": 6.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1158698",
+      "price": 6.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1139148",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm6000-menthol-prefilled-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM6000-V2-Prefilled-pods-Menthol.jpg?v=1741786497",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.294Z"
+}

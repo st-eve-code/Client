@@ -1,0 +1,63 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639898251588",
+  "slug": "voopoo-argus-top-fill-replacement-pods-3pk",
+  "title": "VooPoo Argus Top Fill Replacement Pods 2ml - 3 x Pods",
+  "url": "https://www.vapestore.co.uk/products/voopoo-argus-top-fill-replacement-pods-3pk",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "Please Note: The available Pods are 0.4ohm ONLY The VooPoo Argus Top Fill Replacement Pods are meticulously crafted for the VooPoo ARGUS G Pod Kit, Argus Pod SE Pod Kit, Argus Pod Kit, and Argus P1 Pod Kit, ensuring a perfect fit and exceptional performance. Each pod holds up to 2ml of e-liquid and features an innovative symmetrical 4-hole air inlet design that enlarges airflow, enhancing the smoothness and purity of every puff. Refilling these pods is straightforward, thanks to their top-filling mechanism that allows for easy access and minimal downtime. The pods' full-view transparency lets you monitor e-liquid levels effortlessly, ensuring you're never caught off guard by a lack of juice. Designed with a multi-layer leakage-proof structure, these replacement pods keep your e-liquid securely contained, eliminating worries about leaks and spills. The magnetic connection ensures that each pod snaps into place with ease, providing a secure and reliable connection to your device. Whether you're looking to replace worn-out pods or simply want to have spares on hand, the VooPoo Argus Top Fill Replacement Pods are an essential addition to your vaping arsenal, combining convenience, efficiency, and reliability in every vape. These pods are Compatible with VooPoo ARGUS P2 Pod Kit , ARGUS G2 Pod Kit, ARGUS G Pod Kit , Argus Pod SE Pod Kit , Argus Pod Kit and Argus P1 Pod Kits Pod Details DTL 0.4ohm ARGUS Top Fill Pod, We recommend using High VG ( Sub-Ohm) E-liquid Only Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1131377",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-argus-top-fill-replacement-pods-3pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-argus-top-fill-replacement-pod-0.7ohm-2ml-3pk_1.jpg?v=1729059889",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-top-fill-replacement-pods-3pk__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-argus-top-fill-replacement-pod-0.4ohm-2ml-3pk.jpg?v=1729059889",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-argus-top-fill-replacement-pods-3pk__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-argus-top-fill-replacement-pod-0.7ohm-2ml-3pk.jpg?v=1729059889",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639486685508",
+  "slug": "smok-novo-4-replacement-pods",
+  "title": "SMOK Novo 4 Replacement Pods Pack of 3",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-4-replacement-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "These Replacement 2ml pods feature a leak-proof design and a side fill port for a simple, mess-free refilling process while the ergonomic mouthpiece provides a super-comfortable vape every time. The pods are compatible with the SMOK LP1 Coils, available in 0.8ohm and 1.0ohm resistances, ideal for MTL vaping when paired with Classic/High PG , 50/50 and Nicotine Salt e-liquids. Sleek, lightweight and effortlessly simple to use, the Novo 4 from Smok is the portable device that’s ideal for every kind of vaper.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Transparent",
+        "Black"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Transparent",
+      "sku": "SM-RP-NV-4-TR-2ML-3PK",
+      "price": 3.49
+    },
+    {
+      "title": "Black",
+      "sku": "SM-RP-NV-4-TB-2ML-3PK",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-4-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-4-replacement-pods-pack-of-3-black_2.jpg?v=1729040920",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-4-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-4-replacement-pods-pack-of-3-clear_1.jpg?v=1729040920",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__smok-novo-4-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-4-replacement-pods-pack-of-3-black_3.jpg?v=1729040920",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

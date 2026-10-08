@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15777279377789",
+  "slug": "pablo-cherry-cola-nicotine-pouches-30mg-pouch",
+  "title": "Pablo Exclusive Cherry Cola Nicotine Pouches - 30mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/pablo-cherry-cola-nicotine-pouches-30mg-pouch",
+  "brand": "Pablo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Pablo Exclusive Cherry Cola Nicotine Pouches bring a playful twist to serious satisfaction. Enjoy the effervescent taste of classic cola infused with sweet red cherries—a dynamic flavour combination that stays interesting from start to finish. Boasting a significant 30mg/g strength, these pouches are tailored for experienced users who prioritize potency. The slim, soft pouches dissolve the nicotine rapidly on the gum, providing a discreet yet intense experience without smoke or vapour. The ultimate choice for soda lovers looking for a high-strength, tobacco-free nicotine solution. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH Please Note: These nicotine pouches are 30mg of nicotine per pouch.",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144275",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pablo-cherry-cola-nicotine-pouches-30mg-pouch__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pablo-nicotine-pouches-Cherry-Cola.jpg?v=1769687719",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.907Z"
+}

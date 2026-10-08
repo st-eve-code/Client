@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14898370478461",
+  "slug": "uwell-viscore-pineapple-ice-pod-refill-20mg",
+  "title": "Uwell Viscore Pineapple Ice Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-pineapple-ice-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Uwell Viscore Prefilled Pod & Refill in Pineapple Ice combines the juicy sweetness of pineapple with a crisp menthol finish, offering a tropical and refreshing vape. Designed for use with the Uwell Viscore 8000 Prefilled Pod Vape Kit, this pack features a 2ml prefilled pod and a 10ml refill container for extended usability and convenience. The pod is equipped with a 0.8ohm mesh coil, perfect for mouth-to-lung (MTL) vaping, delivering rich flavour and satisfying vapour. The refill container ensures quick and effortless top-ups, offering up to 8000 puffs, depending on personal usage. Preloaded with 20mg/ml nicotine salt e-liquid, the pod delivers a smooth throat hit and rapid nicotine satisfaction, making it a fantastic choice for adult vapers seeking a high-quality vaping experience. Replace the pod and refill container when empty to continue enjoying the bright, tropical Pineapple Ice flavour.",
+  "tags": [
+    "2ml + 10ml",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137430",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-pineapple-ice-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Uwell-Viscore-8000-prefilled-pod-refill-PINEAPPLE-ICE.jpg?v=1734438849",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.383Z"
+}

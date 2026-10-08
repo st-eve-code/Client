@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15502098956669",
+  "slug": "ivg-smart-max-peach-ice-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Peach Ice Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-peach-ice-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Peach Ice IVG Smart Max Prefilled Pod combines soft, juicy Peach flavour with a refreshing icy edge. The sweet fruit base meets a cooling lift for a balanced vape that feels fresh and light with every puff. Each pack includes a 2ml pod prefilled with 20mg nicotine salt e-liquid, supported by a 10ml refill reservoir that automatically replenishes the pod as you vape. This system delivers up to 12,000 puffs depending on use, eliminating the need for refilling or coil maintenance. With mesh coil technology, the pod provides smooth vapour and clean, well-defined flavour throughout use. Made exclusively for the IVG Smart Max 12K Prefilled Pod Vape Kit, installation is quick and simple — just click the pod into place and start vaping. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "IVG Smart Max Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144666",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-peach-ice-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SMART-MAX-Refill-Peach-Ice.jpg?v=1756824764",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.337Z"
+}

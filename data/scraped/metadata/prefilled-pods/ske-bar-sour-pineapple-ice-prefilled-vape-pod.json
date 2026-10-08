@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15289303662973",
+  "slug": "ske-bar-sour-pineapple-ice-prefilled-vape-pod",
+  "title": "SKE Bar Sour Pineapple Ice Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-sour-pineapple-ice-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Crafted for the SKE Bar Prefilled Pod Kit, this Sour Pineapple Ice pod serves up bold tropical flavour with a tart and frosty twist. Tangy Pineapple bursts through on the inhale, while the icy menthol exhale keeps the finish sharp and refreshing. Each 2ml pod is filled with 20mg nicotine salt and mesh coil technology for a consistently smooth MTL vape. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142630",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-sour-pineapple-ice-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sour-Pineapple-lce-SKE-Bar-Prefilled-Pod-min.jpg?v=1751275867",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.357Z"
+}

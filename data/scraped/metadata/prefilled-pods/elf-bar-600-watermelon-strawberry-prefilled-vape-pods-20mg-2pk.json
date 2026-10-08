@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15492579754365",
+  "slug": "elf-bar-600-watermelon-strawberry-prefilled-vape-pods-20mg-2pk",
+  "title": "Elf Bar 600 Watermelon Strawberry Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-600-watermelon-strawberry-prefilled-vape-pods-20mg-2pk",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "These Elf Bar 600 Watermelon Strawberry Prefilled Pods are designed for use with the Elf Bar 600 Prefilled Pod Kit, offering a fruity, fuss-free way to enjoy vaping. Each pod is prefilled with 20mg nicotine salt e-liquid, providing up to 600 puffs and a smooth MTL draw. The flavour blends fresh, juicy Watermelon with the ripe sweetness of Strawberry for a bright and summery fruit combination that’s simple yet satisfying. Pods can be replaced instantly when empty—just click in a fresh one for straightforward vaping.",
+  "tags": [
+    "2 x 2ml",
+    "Elfbar 600",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143170",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-600-watermelon-strawberry-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-Strawberry-Elf-Bar-600-Prefilled-pods.jpg?v=1756377959",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.315Z"
+}

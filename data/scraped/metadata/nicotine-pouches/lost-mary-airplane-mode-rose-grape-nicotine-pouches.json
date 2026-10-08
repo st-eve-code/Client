@@ -1,0 +1,84 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "9640055505220",
+  "slug": "lost-mary-airplane-mode-rose-grape-nicotine-pouches",
+  "title": "Lost Mary Airplane Mode Rose Grape Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-airplane-mode-rose-grape-nicotine-pouches",
+  "brand": "Lost Mary",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Rose Grape offers a distinctive flavour profile that blends the delicate floral taste of Rose with the lush sweetness of juicy Grape. This is a smooth and aromatic option for those seeking something different to typical mint or fruit blends. Designed for ease of use and total discretion, these slim pouches sit comfortably under the lip and deliver a steady release of nicotine without smoke, vapour or odour. Place one pouch under your upper lip and let the flavour and nicotine build gradually. Each pouch lasts up to 30 minutes, with a fast-acting onset that begins in just 15 seconds. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "9mg to 30mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "9mg / pouch",
+        "18mg / pouch",
+        "30mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / pouch",
+      "sku": "1134864",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / pouch",
+      "sku": "1134870",
+      "price": 3.99
+    },
+    {
+      "title": "30mg / pouch",
+      "sku": "1134877",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-airplane-mode-rose-grape-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-rose-grape-9mg_1.jpg?v=1729065281",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-rose-grape-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-rose-grape-18mg.jpg?v=1729065281",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-rose-grape-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-rose-grape-30mg.jpg?v=1729065281",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-rose-grape-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-rose-grape-9mg.jpg?v=1729065281",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.922Z"
+}

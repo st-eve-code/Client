@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179166974333",
+  "slug": "pyne-pod-2in1-pineapple-ice-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Pineapple Ice Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-pineapple-ice-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Pineapple Ice Pod Pack for the Pyne Pod 2-in-1 Kit brings a tropical fruit burst with a frosty exhale. The Pineapple delivers an intense, juicy sweetness with a slightly tangy edge, while the Ice adds a clean, cooling finish that lifts the flavour and keeps it feeling crisp throughout. It’s a bright, refreshing vape that’s perfect for fans of fruit with a cool twist. Each pod contains 2ml of 20mg nicotine salt e-liquid and is designed for exclusive use with the Pyne Pod 2-in-1 device. The magnetic connection and twist-to-switch mouthpiece make flavour swaps simple and mess-free. With two pods in each pack, Pineapple Ice makes a lively addition to your pod rotation—especially when paired with other tropical, citrus, or menthol blends.",
+  "tags": [
+    "2 x 2ml",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141651",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-pineapple-ice-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-pineapple-ice.jpg?v=1745578103",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

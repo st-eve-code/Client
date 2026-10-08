@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14888270299517",
+  "slug": "freemax-evox-replacement-vape-pods-2ml",
+  "title": "Freemax EVOX Replacement Vape Pods - 2ml",
+  "url": "https://www.vapestore.co.uk/products/freemax-evox-replacement-vape-pods-2ml",
+  "brand": "Freemax",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "The Freemax EVOX Replacement Pods are precision-engineered for use with the Freemax EVOX Pod Kit, offering a seamless and convenient pod vaping experience. Available in 0.6ohm and 0.8ohm fixed-coil resistances, these pods are designed to provide versatile performance, making them ideal for both mouth-to-lung (MTL) and restricted direct-to-lung (RDL) vaping styles. Each pod features a 2ml capacity and a transparent design, allowing you to easily monitor your e-liquid levels. The pods are prefilled with your preferred e-liquid before being sealed with a secure magnetic connection to the EVOX device for effortless installation. Designed for durability and efficiency, the fixed-coil design eliminates the need for messy coil changes, while Freemax’s advanced coil technology ensures rich flavour and consistent vapour production with every puff. Compatible with 50/50 e-liquids and nicotine salts, these pods provide smooth throat hits, rapid nicotine relief, and an authentic vaping experience. Available in packs of three, the Freemax EVOX Replacement Pods offer an easy and reliable solution for maintaining your EVOX Pod Kit. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "0.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1137337",
+      "price": 5.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1137335",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__freemax-evox-replacement-vape-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Freemax-Evox-Pod-0.8ohm-2ml-3pk.jpg?v=1733836278",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__freemax-evox-replacement-vape-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Freemax-Evox-Pod-0.6ohm-2ml-3pk.jpg?v=1733836331",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

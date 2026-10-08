@@ -1,0 +1,89 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15594618880381",
+  "slug": "edge-watermelon-nicotine-pouches",
+  "title": "EDGE Watermelon Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/edge-watermelon-nicotine-pouches",
+  "brand": "Edge",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "EDGE Watermelon nicotine pouches offer a fresh, delicately sweet Watermelon taste that remains light and clear during use. Each pouch sits neatly under the lip and releases nicotine gradually without smoke, vapour or noticeable odour. Available in 3mg (Light), 6mg (Medium), 9mg (Strong) and 12mg (Extra Strong), each Slim can provides 20 pouches for simple, discreet use whenever you need it. Created by EDGE, one of the UK’s best-known vape brands, this pouch collection reflects the same emphasis on quality and flavour across the wider EDGE range. Explore more EDGE Nicotine Pouch flavours including Mint and Strawberry. Nicotine Ranges: Light - 3mg this is best for new users. Medium - 6mg this is best for regular users. Strong - 9mg this is suited for more experienced users Extra Strong - 12mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "3mg to 12mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "3mg",
+        "6mg",
+        "9mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "3mg",
+      "sku": "1148903",
+      "price": 4.95
+    },
+    {
+      "title": "6mg",
+      "sku": "1148900",
+      "price": 4.95
+    },
+    {
+      "title": "9mg",
+      "sku": "1148908",
+      "price": 4.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1148912",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__edge-watermelon-nicotine-pouches__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/EDGE_Nic_Pouch_Watermelon_3mg.png?v=1760024350",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__edge-watermelon-nicotine-pouches__002.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/EDGE_Nic_Pouch_Watermelon_6mg.png?v=1760024376",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__edge-watermelon-nicotine-pouches__003.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/EDGE_Nic_Pouch_Watermelon_9mg.png?v=1760024394",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__edge-watermelon-nicotine-pouches__004.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/EDGE_Nic_Pouch_Watermelon_12mg.png?v=1760024411",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.906Z"
+}

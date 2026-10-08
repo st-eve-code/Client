@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15290395558269",
+  "slug": "ske-bar-mango-ice-prefilled-vape-pod",
+  "title": "SKE Bar Mango Ice Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-mango-ice-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "This Mango Ice pod for the SKE Bar Prefilled Pod Kit delivers rich tropical sweetness balanced with a refreshing menthol twist. Expect juicy, aromatic Mango with a cool exhale that keeps the flavour bright and clean with every puff. Prefilled with 2ml of 20mg nicotine salt and equipped with mesh coil technology, this pod offers smooth and satisfying MTL performance. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Mango",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142654",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-mango-ice-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mango-lce-SKE-Bar-Prefilled-Pod-min.jpg?v=1749546402",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.333Z"
+}

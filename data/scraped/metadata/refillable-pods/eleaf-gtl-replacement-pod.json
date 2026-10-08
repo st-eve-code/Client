@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639523942724",
+  "slug": "eleaf-gtl-replacement-pod",
+  "title": "Eleaf GTL Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/eleaf-gtl-replacement-pod",
+  "brand": "Eleaf",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "The Eleaf GTL pod is a 2ml refillable pod with a convenient rotating adjustable airflow which enables you to enjoy a looser, airy draw, or a tighter, more restricted Mouth-to-Lung vape experience. Compatible with Eleaf’s innovative GTL coils which boast incredible flavour and longevity. The pod’s magnetic connection holds it securely to the device while also being easy to remove for e-liquid filling and changing Eleaf’s GTL push-to-fit coils.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "EL-RP-GTL-2ML-1P",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__eleaf-gtl-replacement-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/eleaf-pod-gtl.jpg?v=1729041579",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

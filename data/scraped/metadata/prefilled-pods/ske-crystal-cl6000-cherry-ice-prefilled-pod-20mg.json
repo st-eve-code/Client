@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14898547097981",
+  "slug": "ske-crystal-cl6000-cherry-ice-prefilled-pod-20mg",
+  "title": "SKE Crystal CL6000 Cherry Ice Prefilled Pod - 20mg",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-cl6000-cherry-ice-prefilled-pod-20mg",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The SKE Crystal CL6000 Prefilled Pod Pack in Cherry Ice delivers the taste of sweet, juicy cherries perfectly balanced with a subtle yet refreshing menthol finish. Each pack includes a 2ml prefilled pod and a 10ml e-liquid refill container, designed for seamless compatibility with the SKE Crystal CL6000 Prefilled Pod Kit. These pods use advanced dual mesh coil technology to produce rich, consistent flavour and dense vapour. The innovative automatic refill system and leak-resistant design make topping up your pod fast, easy, and hassle-free. Together, the pod and refill container provide up to 6000 puffs, ensuring a long-lasting and enjoyable vaping experience. With 20mg/ml nicotine salt e-liquid, these pods deliver a smooth throat hit and rapid nicotine satisfaction, making them a great option for both new and experienced adult vapers. Replace the pod and refill container when empty to continue enjoying bold Cherry Ice flavour.",
+  "tags": [
+    "2ml + 10ml",
+    "Cherry Ice",
+    "Crystal CL6000",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137285",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-cl6000-cherry-ice-prefilled-pod-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/crystal-cl6000-cherry-ice-800x800.jpg?v=1734446562",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.382Z"
+}

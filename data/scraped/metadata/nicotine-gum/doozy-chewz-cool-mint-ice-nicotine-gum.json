@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-gum",
+  "id": "14941605364093",
+  "slug": "doozy-chewz-cool-mint-ice-nicotine-gum",
+  "title": "Doozy Chewz Cool Mint Ice Nicotine Gum",
+  "url": "https://www.vapestore.co.uk/products/doozy-chewz-cool-mint-ice-nicotine-gum",
+  "brand": "Doozy Vape Co",
+  "productType": "Nicotine Gum",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Doozy Chewz Cool Mint Ice delivers a classic mint flavour with a frosty finish that’s ideal for a clean, invigorating nicotine experience. The flavour is sharp and uplifting without being overpowering, making it a good choice for regular use. Each chew releases 6mg of nicotine gradually and evenly. The gum is designed for comfort and ease of use—no smoke, no vapour, and no set-up required. To use, chew gently and intermittently over a 20–30 minute period. This activates a slow, controlled nicotine release while keeping the flavour consistent. 1 pc - 2mg 2 pc - 4mg 3 pc - 6mg 4 pc - 8mg How to Use: Nicotine Gum To use Doozy Chewz Nicotine Gum, chew a piece slowly until you feel a tingling sensation. Once the tingling starts, “park” the gum between your cheek and gum to allow the nicotine to absorb effectively. Alternate between chewing and parking until the tingling subsides, typically within 30 minutes. For best results, avoid chewing continuously. Do not exceed the recommended maximum of 20 pieces (40mg) per day. Dispose of used gum responsibly.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137231",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-chewz-cool-mint-ice-nicotine-gum__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Doozy-Chewz-nicotine-gum-Cool-Mint.jpg?v=1736863720",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:13.452Z"
+}

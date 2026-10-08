@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15777230619005",
+  "slug": "pablo-dark-cherry-nicotine-pouches-30mg-pouch",
+  "title": "Pablo Exclusive Dark Cherry Nicotine Pouches - 30mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/pablo-dark-cherry-nicotine-pouches-30mg-pouch",
+  "brand": "Pablo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Indulge in the deep, luxurious taste of Pablo Exclusive Dark Cherry Nicotine Pouches. This flavour captures the essence of ripe, juicy cherries, balancing dark fruit sweetness with a hint of tartness for a truly robust profile. With a 30mg/g nicotine strength, this is a pouch designed for the seasoned user seeking maximum satisfaction. The ultra-slim, tobacco-free design ensures a seamless fit under the lip, allowing you to enjoy the intense kick and bold flavour anywhere, anytime. A premium choice for those who appreciate strong nicotine and rich, complex fruit notes. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH Please Note: These nicotine pouches are 30mg of nicotine per pouch.",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144274",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pablo-dark-cherry-nicotine-pouches-30mg-pouch__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pablo-nicotine-pouch-Dark-Cherry.jpg?v=1769687827",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.905Z"
+}

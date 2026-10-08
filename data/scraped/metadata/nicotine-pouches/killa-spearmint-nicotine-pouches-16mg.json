@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "9640054128964",
+  "slug": "killa-spearmint-nicotine-pouches-16mg",
+  "title": "Killa Spearmint Nic Pouches - 13.2mg / pouch",
+  "url": "https://www.vapestore.co.uk/products/killa-spearmint-nicotine-pouches-16mg",
+  "brand": "Killa",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Killa Spearmint Nicotine Pouches offer a crisp and refreshing spearmint flavour, ideal for those who enjoy a classic minty taste paired with a balanced nicotine experience. Each pouch contains 13.2mg of nicotine, making it a suitable choice for adult users who prefer a steady and satisfying nicotine release. The Spearmint flavour provides a fresh and smooth taste, delivering a long-lasting and enjoyable experience. These pouches are entirely tobacco-free, offering a clean and convenient alternative to traditional nicotine products. The discreet design of Killa Spearmint pouches makes them ideal for use in various settings, whether you're on the move, at work, or in a social environment where traditional nicotine use isn’t feasible. Killa Nicotine Pouches are crafted with an emphasis on consistency and quality, ensuring a reliable nicotine experience. Simply place a pouch between your upper lip and gum, and enjoy a steady release of nicotine for up to 30 minutes. With 20 pouches per pack, Killa Spearmint offers a practical and refreshing option for those who enjoy a cool, minty twist while relieving nicotine cravings How to Use: 1 Place a pouch between your upper lip and gum for a steady nicotine release for up to 30min. 2 Place the used nicotine pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "13mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1135472",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__killa-spearmint-nicotine-pouches-16mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/killa-nicotine-pouch-spearmint.jpg?v=1751294084",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.906Z"
+}

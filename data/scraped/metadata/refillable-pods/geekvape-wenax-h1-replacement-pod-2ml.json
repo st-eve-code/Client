@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639662649668",
+  "slug": "geekvape-wenax-h1-replacement-pod-2ml",
+  "title": "Geekvape Wenax H1 Replacement Pods",
+  "url": "https://www.vapestore.co.uk/products/geekvape-wenax-h1-replacement-pod-2ml",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "The Geekvape Wenax H1 refillable pods incorporate a fixed coil, with a choice of 0.7 Ohm or a 1.4 Ohm built-in mesh coil. Both deliver an exceptional MTL (mouth-to-lung) vape sensation. When your pod loses its flavour, you simply replace it with a new refillable pod. The 2ml pods feature a leak-resistant silicone seal for easy refills, and are best used with Nic Salt , 50/50 and classic High-PG E-Liquids. The Geekvape Wenax H1 is a sleek and stylish, simple to use, compact vape device that’s ideal for beginners or any vaper who just wants a discreet and convenient pod kit to carry.",
+  "tags": [
+    "Delisted",
+    "MTL",
+    "prime-repodscoils",
+    "SALE"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.7ohm",
+        "1.4 ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.7ohm",
+      "sku": "1116117",
+      "price": 6.49
+    },
+    {
+      "title": "1.4 ohm",
+      "sku": "1116271",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-wenax-h1-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-wenax-h1-pods-x3_1_1.jpg?v=1729046661",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-wenax-h1-replacement-pod-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-wenax-h1-pods-x3.jpg?v=1729046661",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__geekvape-wenax-h1-replacement-pod-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-wenax-h1-pods-x3_1.jpg?v=1729046661",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15647579734397",
+  "slug": "hayati-pro-max-plus-caribb-crush-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Caribb Crush Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-caribb-crush-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Caribb Crush blends creamy Coconut, juicy Mango and sweet Pineapple for a smooth, tropical vape that’s bright and flavourful. Each puff delivers sun-soaked fruit sweetness with a mellow, rounded finish. Each Hayati Pro Max + Prefilled Pod includes a prefilled 2ml pod connected to a 10ml refill reservoir, totalling 12ml of 20mg Nic Salt e-liquid. No refilling or coil swaps are needed—simply connect the pod to the Hayati Pro Max + Prefilled Pod Kit and vape. With dual mesh coils and draw-activation, this pod provides rich flavour and steady vapour for up to 6000 puffs (approx.). Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149093",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-caribb-crush-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Caribb-Crush_Hayati-Pro-Max_-Pods-min.jpg?v=1762190661",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.329Z"
+}

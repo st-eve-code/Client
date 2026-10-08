@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15665351295357",
+  "slug": "smok-novo-clx-replacement-pods",
+  "title": "SMOK Novo CLX Replacement Pods - 2ml",
+  "url": "https://www.vapestore.co.uk/products/smok-novo-clx-replacement-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Novo Meshed CLX Pods are designed for smooth, flavourful performance with the Novo Classy Pod Vape Kit and other compatible Smok devices. Each 2ml pod contains an integrated mesh coil for consistent vapour production and clean flavour with every draw, all within a simple, leak-resistant design that’s easy to refill via a side-fill port under the silicone plug. Available in two resistances, the 0.6ohm pod delivers a slightly looser, restricted direct-to-lung (RDL) draw, ideal for 50/50 e-liquids or Nic Salts up to 10mg. The 0.8ohm pod produces a tighter, cigarette-like mouth-to-lung (MTL) vape that pairs well with 50/50 e-liquids and Nic Salts of any strength. Both pod types offer balanced vapour and satisfying throat hit, with a magnetic connection for quick, mess-free installation. Each pack contains three replacement pods, making it easy to keep your Novo Classy performing at its best. We recommend pairing this pod with 50/50 (freebase) or Nic Salts E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1149447",
+      "price": 5.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1149448",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-novo-clx-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok-novo-clx-replacemnt-pods-3pk.jpg?v=1763052545",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

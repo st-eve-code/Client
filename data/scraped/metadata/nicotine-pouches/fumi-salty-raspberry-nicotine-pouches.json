@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15393014514045",
+  "slug": "fumi-salty-raspberry-nicotine-pouches",
+  "title": "FUMI Salty Raspberry Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/fumi-salty-raspberry-nicotine-pouches",
+  "brand": "FUMI",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "FUMi Salty Raspberry Nicotine Pouches pair bright, fruity Raspberry with a subtle twist of Liquorice to create a flavour that’s both familiar and deliciously unexpected. Sweet and sharp with added spicy depth, this pouch offers a distinctive option within the range. Each slim, all-white pouch sits discreetly under the lip and releases nicotine and flavour gradually for up to 30 minutes. Free from tobacco, vapour and odour, they’re a convenient and clean alternative to more traditional formats. Choose between 4mg (Regular) or 8mg (Strong) depending on your preference. Each can contains 20 plant-based pouches made to high standards in Sweden by Helix AB. Nicotine Range: Regular - 4mg this is best for new users. Extra Strong - 11mg this is suited for more experienced users. How to Use Nicotine Pouches: Please Note: DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "4mg to 8mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Regular (4mg per pouch)",
+        "Strong (8mg per pouch)"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Regular (4mg per pouch)",
+      "sku": "1143792",
+      "price": 6.49
+    },
+    {
+      "title": "Strong (8mg per pouch)",
+      "sku": "1143785",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fumi-salty-raspberry-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FUMi-FRONT-Salty-Raspberry.jpg?v=1753201346",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.921Z"
+}

@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15343318434173",
+  "slug": "helwit-wintermint-nicotine-pouches-9mg",
+  "title": "Helwit Wintermint Nicotine Pouches 9mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-wintermint-nicotine-pouches-9mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Wintermint Nicotine Pouches feature a refreshing Wintermint flavour with cool menthol and a light herbal twist. Each pouch contains 9mg of nicotine and is made with soft, plant-based materials designed for a comfortable fit under the lip. Helwit Winter offers a refined cooling option for those who enjoy a mint pouch with character. How to Use: Nicotine Pouches PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg/pouch",
+      "sku": "1143092",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-wintermint-nicotine-pouches-9mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Wintermint-Helwit-Limited-Nicotine-Pouches.jpg?v=1764954513",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.918Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15066572063101",
+  "slug": "ivg-2400-reload-pineapple-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "IVG 2400 Reload Pineapple Ice Prefilled Vape Pods - 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/ivg-2400-reload-pineapple-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for use with the IVG 2400 Reload Prefilled Pod Kit, these IVG 2400 Reload Prefilled Pods provide an easy way to keep your device filled with smooth and tropical flavours. Each pack contains two individual 2ml prefilled pods, delivering up to 2400 puffs per kit (depending on personal usage) while ensuring smooth and consistent vapour production. The Pineapple Ice Edition delivers a sweet and tangy Pineapple flavour, balanced with a cooling menthol exhale for a tropical vape with a refreshing edge. Whether you enjoy fruity blends with an icy twist or the bold taste of Pineapple, this flavour provides a well-rounded vaping experience. Swapping pods is effortless—just replace an empty pod with a fresh one and continue enjoying your vape. Whether you're looking for an easy way to refresh your device or a simple alternative to disposables, these pods provide a convenient and reliable vaping solution.",
+  "tags": [
+    "4 x 2ml",
+    "IVG 2400 Reload",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139238",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-2400-reload-pineapple-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-2400-reload-pods-2-in-1-Pineapple-Ice-min.jpg?v=1741685467",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.320Z"
+}

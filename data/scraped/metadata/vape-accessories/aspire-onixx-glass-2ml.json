@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639445889348",
+  "slug": "aspire-onixx-glass-2ml",
+  "title": "Aspire Onixx Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/aspire-onixx-glass-2ml",
+  "brand": "Aspire",
+  "productType": "Accessories",
+  "price": {
+    "min": 2.99,
+    "max": 2.99,
+    "currency": "GBP"
+  },
+  "description": "Replacement Glass for Aspire Onixx Tank 2ml",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "AS-AS-RG-ON-IX-2ML",
+      "price": 2.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-onixx-glass-2ml__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/onixxglass-500x500.png?v=1729040003",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

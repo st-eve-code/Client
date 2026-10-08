@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522615951741",
+  "slug": "lost-mary-bm600-watermelon-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Watermelon Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-watermelon-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Watermelon Ice combines the sweet, mellow taste of ripe Watermelon with a fresh streak of cooling Menthol. The flavour delivers light, juicy fruit notes on the inhale with a brisk exhale that adds lift and refreshment. Smooth and vibrant, this profile is ideal for vapers who enjoy chilled tropical flavours with a clean finish. Each twin pack includes two prefilled 2ml pods containing 20mg nicotine salt e-liquid, designed for use with the Lost Mary BM600 Prefilled Pod Kit. The nic salt formula ensures a smooth MTL (mouth-to-lung) draw with rapid nicotine absorption. Each pod provides up to 600 puffs depending on your vaping style. When empty, simply click in a replacement to keep the experience going.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142722",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-watermelon-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-Ice-Lost-Mary-BM600-Prefilled-Pods.jpg?v=1757595374",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.318Z"
+}

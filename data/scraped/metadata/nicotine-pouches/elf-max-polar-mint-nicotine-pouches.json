@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15322409566589",
+  "slug": "elf-max-polar-mint-nicotine-pouches",
+  "title": "ELF Max Polar Mint Nicotine pouches",
+  "url": "https://www.vapestore.co.uk/products/elf-max-polar-mint-nicotine-pouches",
+  "brand": "Elf Bar",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "ELF Max Polar Mint Nicotine Pouches offer an icy, intensely minty experience in a clean, tobacco-free format. Designed for users who enjoy a strong and cooling profile, these slim pouches release nicotine gradually with no smoke, vapour or lingering odour. With a bold peppermint flavour and a cool menthol undertone, Max Polar Mint delivers a sharp, satisfying sensation that’s ideal for those who prefer a brisker pouch. Each pouch is soft and slim for comfortable use under the upper lip and provides a steady nicotine release over 30 to 45 minutes. Each can includes 20 pouches and features a top-lid compartment for storing used pouches. Choose from 6mg, 12mg or 20mg strengths to match your preference. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg/pouch",
+        "12mg/pouch",
+        "20mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg/pouch",
+      "sku": "1142916",
+      "price": 3.99
+    },
+    {
+      "title": "12mg/pouch",
+      "sku": "1142923",
+      "price": 3.99
+    },
+    {
+      "title": "20mg/pouch",
+      "sku": "1142929",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-max-polar-mint-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Max-Polar-Mint-_-6mg-Elf-Nicotine-Pouch.jpg?v=1750774497",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-max-polar-mint-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Max-Polar-Mint-_-12mg-Elf-Nicotine-Pouch.jpg?v=1750774530",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-max-polar-mint-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Max-Polar-Mint-_-20mg-Elf-Nicotine-Pouch.jpg?v=1750774557",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-max-polar-mint-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Elf-Nicotine-Pouches-group.jpg?v=1750774597",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.902Z"
+}

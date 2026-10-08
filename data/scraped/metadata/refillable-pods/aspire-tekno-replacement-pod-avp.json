@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639488323908",
+  "slug": "aspire-tekno-replacement-pod-avp",
+  "title": "Aspire Tekno AVP Pro Replacement Pod 2ml",
+  "url": "https://www.vapestore.co.uk/products/aspire-tekno-replacement-pod-avp",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Tekno AVP Pod replacement pods have been designed for use with the Aspire Tekno Pod Device only. Featuring an interchangeable coil system (coils sold separately), these refillable cartridges boast the unique ability to replace the coils with e-liquid still inside the pod. The Aspire Tekno AVP refillable pod can contain 2ml of your favourite e-liquid, and is held in place with strong magnets. A comfortable, wide mouthpiece also provides clear vision to your level of e-liquid, so you always know when it’s time to top up. To refill, simply insert the e-liquid bottle nib into the leakproof membrane on the base of the pod and squeeze, for a clean process. The Tekno AVP pod is compatible with Aspire’s excellent AVP Pro Mesh coils, which are available in 0.65ohms for rich and cloudy sub-ohm vaping experience. Features 2ml Capacity Refillable Bottom Push-To-Fill Valve Method Compatible with Aspire AVP Pro Coils",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "AS-RP-TKN-AVP-2ML-1PK",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-tekno-replacement-pod-avp__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/tekno-avp-pro-pod.jpg?v=1729040933",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

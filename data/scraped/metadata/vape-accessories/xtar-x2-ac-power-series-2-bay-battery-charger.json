@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639586595140",
+  "slug": "xtar-x2-ac-power-series-2-bay-battery-charger",
+  "title": "Xtar X2 AC Power Series 2 Bay Battery Charger",
+  "url": "https://www.vapestore.co.uk/products/xtar-x2-ac-power-series-2-bay-battery-charger",
+  "brand": "Xtar",
+  "productType": "Accessories",
+  "price": {
+    "min": 16.99,
+    "max": 16.99,
+    "currency": "GBP"
+  },
+  "description": "The Xtar X2 is the newest addition to the 'AC Power Series' and is capable of charge two batteries at 1A. This charger is compatible with all popular cell sizes (18350, 18650, 20700, 21700). The front features a bright crystal-clear display, with a voltage indicator, capacity readout, and charge speed. This display can be turned off with the button on the front of the charger if needed. The Xtar X2 is also capable of charging Ni-MH cells. Additionally, this charger also has a 1A USB Output for charging other electronic devices such as phones and tablets. Features Compatible with 18650, 21700 or 20700 Batteries 18350/18500/18650/20700/21700/26650 Li-Ion IMR/INR/ICR/NCR AAAA/AAA/AA/A/SC/C/D Micro USB Compatible with all USB adapters Ultra-Wide view LCD Screen QC3.0 Fast Charging, Max 3A for single slot Test Batteries' Real Capacity, Maximize Batteries' Lifespan Micro USB Input, Charge Anywhere Intelligent Battery Detection Multiple Safety Protections High Precision, Auto Cut-off When Fully Charged Temperature Monitoring",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "XT-CH-X2",
+      "price": 16.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__xtar-x2-ac-power-series-2-bay-battery-charger__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0005_xtar_x2_500x500_e8a4eae2-fe1a-4fbd-8ede-bb8db0c91062.jpg?v=1729042970",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

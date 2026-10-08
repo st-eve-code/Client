@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342959427965",
+  "slug": "pixl-8000-tropical-wave-prefilled-pod-refill",
+  "title": "PIXL 8000 Tropical Wave Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-tropical-wave-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Tropical Wave is a complex blend of Coconut, Pineapple, Lime and Guava, offering a layered tropical flavour with creamy, tangy and citrus elements. It’s a bright, exotic vape that keeps your tastebuds guessing. Each pod is filled with 2ml of 20mg nicotine salt e-liquid and paired with a 10ml refill reservoir. When used with the PIXL 8000 Prefilled Pod Vape Kit, this setup delivers up to 8000 puffs with smooth mesh coil flavour throughout. Draw-activated and designed for MTL vaping with Boost Mode available, Tropical Wave stands out for its complexity and balance. A great option for vapers who enjoy adventurous fruit combinations.",
+  "tags": [
+    "2ml + 10ml",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143505",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-tropical-wave-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-tropical-wave-800x800.jpg?v=1751546382",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.376Z"
+}

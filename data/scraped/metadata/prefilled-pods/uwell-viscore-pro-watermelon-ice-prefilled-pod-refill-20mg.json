@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15505690395005",
+  "slug": "uwell-viscore-pro-watermelon-ice-prefilled-pod-refill-20mg",
+  "title": "Uwell Viscore Pro+ Watermelon Ice Prefilled Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-pro-watermelon-ice-prefilled-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Watermelon Ice Uwell Viscore Pro+ Prefilled Pod layers juicy tropical Watermelon with a crisp icy edge. The sweet fruit inhale is refreshed by a cool exhale, creating a flavour that tastes clean, bright, and satisfying. Each pack includes one 2ml Prefilled Pod prefilled with 20mg nicotine salt e-liquid and one 10ml Refill Pod that keeps the pod topped up automatically. This refill system provides up to 20,000 puffs depending on usage, without the need for coil changes or manual refilling. Built with a 0.8ohm mesh coil, the pod delivers consistent vapour and clear flavour all the way through. Designed exclusively for the Uwell Viscore Pro+ Prefilled Pod Kit, installation is quick and mess-free: simply click the pod and refill into place and you’re ready to go.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148048",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-pro-watermelon-ice-prefilled-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Watermelon-Ice-Viscore-Pro-_-Prefilled-pods.jpg?v=1756992344",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.369Z"
+}

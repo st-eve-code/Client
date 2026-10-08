@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14907895742845",
+  "slug": "innokin-pzppulse-replacement-pod",
+  "title": "Innokin PZPPulse Replacement Pod",
+  "url": "https://www.vapestore.co.uk/products/innokin-pzppulse-replacement-pod",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "The Innokin PZPulse Empty Pod is a versatile and user-friendly refillable pod designed for use with the Innokin CoolFire PZPulse Pod Vape Kit. With a 2ml TPD-compliant capacity and a convenient top-fill design, these pods offer a hassle-free refilling experience while ensuring leak-free operation. Engineered to pair perfectly with Innokin’s PZP Max Coils, the PZPulse Pod supports three resistance options—0.2ohm, 0.4ohm, and 0.6ohm—catering to a variety of vaping styles, from direct-to-lung (DTL) to mouth-to-lung (MTL). The adjustable top airflow control allows users to fine-tune their draw for a more personalised experience. Whether you’re replacing an old pod or keeping spares on hand, the PZPulse Empty Pod delivers consistent performance and convenience for an enhanced vaping experience.",
+  "tags": [
+    "compatible-with-1137906",
+    "compatible-with-1137907",
+    "compatible-with-1137908",
+    "compatible-with-1137909",
+    "compatible-with-1137910",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137913",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-pzppulse-replacement-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/coolfire-pzpulse-pod-800x800.jpg?v=1734961322",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

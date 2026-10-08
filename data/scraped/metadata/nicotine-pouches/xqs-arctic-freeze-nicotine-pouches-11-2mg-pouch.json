@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15618958524797",
+  "slug": "xqs-arctic-freeze-nicotine-pouches-11-2mg-pouch",
+  "title": "XQS Arctic Freeze Nicotine Pouches - 11.2mg/Pouch",
+  "url": "https://www.vapestore.co.uk/products/xqs-arctic-freeze-nicotine-pouches-11-2mg-pouch",
+  "brand": "XQS",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "XQS Arctic Freeze tastes clean and bracing, led by cool Peppermint with an icy lift and a light sweetness that keeps the profile clear. Each slim, all‑white pouch fits neatly under the lip and releases nicotine gradually without smoke, vapour or noticeable odour. This can contains 20 pouches in 11.2mg (Extra Strong). Made in Sweden by XQS, the range focuses on flavour clarity and simple strength choices in a discreet, tobacco‑free format. Extra Strong - 11.2mg this is suited for more experienced users How to Use: Place one pouch under your upper lip and leave it in place for 20–40 minutes while the flavour and nicotine release gradually. When finished, remove the pouch and dispose of it responsibly. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "8mg",
+    "nordicminioffermint"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "8mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "8mg",
+      "sku": "1148982",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__xqs-arctic-freeze-nicotine-pouches-11-2mg-pouch__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/arctic-freeze-11.2mg-XQS-Nicotine-Pouches.jpg?v=1760967882",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.916Z"
+}

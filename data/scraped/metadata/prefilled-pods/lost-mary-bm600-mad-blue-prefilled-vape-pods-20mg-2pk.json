@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15552380404093",
+  "slug": "lost-mary-bm600-mad-blue-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Mad Blue Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-mad-blue-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Mad Blue Lost Mary BM600 Prefilled Pods mix three berries for a bold fruit blend. Blueberry adds juicy sweetness, Blackberry brings darker depth, and Raspberry delivers a sharp tang, resulting in a rich and varied vape. Each pack contains two 2ml pods prefilled with 20mg nicotine salt e-liquid, giving up to 600 puffs per pod depending on use. With a smooth mouth-to-lung (MTL) draw, these pods ensure consistent flavour with no need for refills or coil changes. Compatible with the Lost Mary BM600 Prefilled Pod Kit, installation is quick and mess-free: simply click the pod into place and enjoy a layered berry vape from first puff to last.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148292",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-mad-blue-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mad-Blue-Lost-Mary-BM600-Prefilled-Pods.jpg?v=1758556622",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.327Z"
+}

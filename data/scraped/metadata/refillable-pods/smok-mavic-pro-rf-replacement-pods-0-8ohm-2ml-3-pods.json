@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9640054849860",
+  "slug": "smok-mavic-pro-rf-replacement-pods-0-8ohm-2ml-3-pods",
+  "title": "SMOK Mavic Pro RF Replacement Pods 0.8ohm 2ml - 3 Pods",
+  "url": "https://www.vapestore.co.uk/products/smok-mavic-pro-rf-replacement-pods-0-8ohm-2ml-3-pods",
+  "brand": "SMOK",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Smok Mavic RF Pro Replacement Pods are specifically designed for use with the Smok Mavic RF Pro Vape Kit, ensuring a seamless and flavourful vaping experience. Each pod boasts a 2ml e-liquid capacity and is equipped with a 0.8ohm mesh coil, optimized for delivering rich, consistent flavours and smooth vapour production. Refilling these pods is straightforward and mess-free, thanks to the convenient side-fill system. The integrated 0.8ohm mesh coil ensures efficient vaporisation and enhances the taste of your favourite e-liquids. The pods connect securely to the device with a magnetic connection, making replacements quick and easy. Each pack contains three replacement pods, providing excellent value and ensuring you always have spares on hand. These pods are ideal for mouth-to-lung (MTL) vaping and are perfect for use with nicotine salt e-liquids. Please note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1134413",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1134416",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-mavic-pro-rf-replacement-pods-0-8ohm-2ml-3-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok_mavic_pro_pod-3pk.jpg?v=1729065234",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

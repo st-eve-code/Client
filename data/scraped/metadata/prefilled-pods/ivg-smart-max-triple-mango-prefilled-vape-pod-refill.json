@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15373393133949",
+  "slug": "ivg-smart-max-triple-mango-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Triple Mango Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-triple-mango-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Triple Mango layers three different Mango profiles into one sweet and tropical vape. The flavour is rich and juicy, with smooth undertones that bring depth and balance. It’s a simple yet satisfying option for Mango lovers. Each pack includes a 2ml pod filled with 20mg nicotine salt e-liquid and a 10ml refill reservoir. Once connected, the refill feeds the pod automatically, offering up to 10,000 puffs per kit depending on usage. No refilling or coil changes required. The mesh coil delivers smooth MTL vapour with consistent flavour from start to finish. Compatible with the IVG Smart Max Prefilled Pod Vape Kit only. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "IVG Smart Max Prefilled Pods",
+    "Mango",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143293",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-triple-mango-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smart-max-refill-triple-mango-800x800.jpg?v=1752506552",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.347Z"
+}

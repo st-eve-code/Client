@@ -1,0 +1,61 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15781026234749",
+  "slug": "innokin-foretex-replacement-pods-3-pack",
+  "title": "Innokin Foretex Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/innokin-foretex-replacement-pods-3-pack",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "Innokin Foretex Replacement Pods are engineered to deliver a superior vaping experience, specifically designed for use with the Innokin Foretex Pod Kit. These pods utilize an advanced integrated mesh coil structure, which increases the heating surface area to produce rich, consistent flavour and dense vapour from the very first puff. The pods feature a 2ml e-liquid capacity and a convenient top-side filling mechanism, allowing for quick refills without the need to fully remove the pod from the device. The transparent PCTG construction ensures you can easily monitor your e-liquid levels to prevent dry hits. Available in three resistance options to suit various vaping styles: 0.6ohm (20-25W): A versatile option offering a balance of warmth and flavour, suitable for both RDL and loose MTL. 0.8ohm (14-17W): Optimised for a tighter Mouth-to-Lung (MTL) draw, ideal for higher strength e-liquids and Nic Salts. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "0.6ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1153075",
+      "price": 5.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1153074",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-foretex-replacement-pods-3-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-foretex-pod-0.6-800x800.jpg?v=1769691791",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-foretex-replacement-pods-3-pack__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/innokin-foretex-pod-0.8-800x800.jpg?v=1769691809",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

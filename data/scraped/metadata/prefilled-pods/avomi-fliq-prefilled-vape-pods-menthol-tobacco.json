@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "14928619274621",
+  "slug": "avomi-fliq-prefilled-vape-pods-menthol-tobacco",
+  "title": "Avomi FLIQ Prefilled Vape Pods - Menthol Tobacco",
+  "url": "https://www.vapestore.co.uk/products/avomi-fliq-prefilled-vape-pods-menthol-tobacco",
+  "brand": "Avomi",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Avomi Fliq 4-in-1 Replacement Prefilled Pods in Menthol Tobacco flavour deliver a satisfying fusion of rich, smooth tobacco and fresh, cool menthol, perfect for vapers who enjoy a balanced, refreshing vape. Each pod is prefilled with 2ml of 20mg nicotine salt e-liquid, designed for a smooth throat hit and fast-acting nicotine relief. These replacement pods are compatible with the Avomi Fliq 4-in-1 Prefilled Pod Device, which allows users to switch between four flavours for a dynamic vaping experience that can be adapted at any time to your mood or taste preference. The device is easy to use, requiring only a quick swap of pods to change up your flavours. With a 950mAh rechargeable battery and USB-C fast charging, the Avomi Fliq 4-in-1 device is both convenient and versatile. The ergonomic design and soft-touch coating ensure comfort and ease of use throughout the day.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137292",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__avomi-fliq-prefilled-vape-pods-menthol-tobacco__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/AVOMI-Fliq-prefilled-pods-Menthol-Tobacco.jpg?v=1738056033",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.328Z"
+}

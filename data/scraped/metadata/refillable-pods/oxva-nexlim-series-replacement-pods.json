@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14908087075197",
+  "slug": "oxva-nexlim-series-replacement-pods",
+  "title": "Oxva Nexlim Series Replacement Vape Pods",
+  "url": "https://www.vapestore.co.uk/products/oxva-nexlim-series-replacement-pods",
+  "brand": "Oxva",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 7.49,
+    "max": 7.49,
+    "currency": "GBP"
+  },
+  "description": "The Oxva NeXlim Replacement Pods are precision-engineered to deliver outstanding flavour and performance for users of the Oxva NeXlim Series Pod Kits. Available in three resistances (0.6ohm, 0.8ohm, and 1.2ohm), these refillable pods cater to both mouth-to-lung (MTL) and restricted direct-to-lung (RDL) vaping preferences. Each pod features Oxva’s advanced dual mesh coil technology, ensuring superior vapour production, consistent heating, and a lifespan twice as long as traditional coils. The 2ml TPD-compliant capacity, combined with a leakproof design, ensures a clean and hassle-free refilling experience. Perfect for use with nic salts or 50/50 e-liquids, the NeXlim pods are easy to install and replace thanks to their intuitive plug-and-play design. Whether you’re seeking smooth, rich flavour or a more airy draw, the Oxva NeXlim Replacement Pods are designed to enhance your vaping experience with every puff. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1137810",
+      "price": 7.49
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1137812",
+      "price": 7.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1137814",
+      "price": 7.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-nexlim-series-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.6_-2ml_OXVA-NeXLIM-CARTRIDGE_Dual-Mesh.jpg?v=1734974416",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-nexlim-series-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/0.8_-2ml_OXVA-NeXLIM-CARTRIDGE_Dual-Mesh.jpg?v=1734974444",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-nexlim-series-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1.2_-2ml_OXVA-NeXLIM-CARTRIDGE_Dual-Mesh.jpg?v=1734974470",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.392Z"
+}

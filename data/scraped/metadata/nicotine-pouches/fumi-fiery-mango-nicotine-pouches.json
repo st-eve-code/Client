@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15394863677821",
+  "slug": "fumi-fiery-mango-nicotine-pouches",
+  "title": "FUMI Fiery Mango Nicotine Pouches - 8mg per Pouch",
+  "url": "https://www.vapestore.co.uk/products/fumi-fiery-mango-nicotine-pouches",
+  "brand": "FUMI",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "FUMi Fiery Mango Strong Nicotine Pouches pair the ripe sweetness of Mango with a subtle Chilli warmth, creating a pouch with smooth tropical flavour and added depth. The Chilli doesn’t dominate—it simply enhances the fruit with a mellow contrast. Each slim, all-white pouch sits discreetly under the lip and delivers a gradual release of flavour and 8mg of nicotine for up to 30 minutes. With no smoke, vapour or lingering odour, they’re ideal for convenient, on-the-go use. Each can includes 20 plant-fibre pouches, produced to high standards in Sweden by Helix AB. Nicotine Range: Strong - 8mg this is suited for more experienced users. How to Use: Nicotine Pouches PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "8mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Strong (8mg per pouch)"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Strong (8mg per pouch)",
+      "sku": "1143782",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fumi-fiery-mango-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FUMi-FRONT-Fiery-Mango.jpg?v=1753259269",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.906Z"
+}

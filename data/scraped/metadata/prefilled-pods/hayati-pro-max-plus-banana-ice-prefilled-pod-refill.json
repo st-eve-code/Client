@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15649581433213",
+  "slug": "hayati-pro-max-plus-banana-ice-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Banana Ice Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-banana-ice-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Banana Ice blends the creamy sweetness of ripe Banana with a cool exhale for a refreshing fruit-and-ice vape. It’s smooth and mellow yet bright, creating a balanced flavour that’s satisfying from start to finish. Each Hayati Pro Max + Prefilled Pod pack includes a 2ml prefilled pod and an integrated 10ml refill reservoir, totalling 12ml of 20mg Nic Salt e-liquid. No coil changes or refilling are needed—simply attach to the Hayati Pro Max + Prefilled Pod Kit and vape. Dual mesh coils ensure flavour consistency and vapour quality for up to 6000 puffs (approx.). Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Banana Ice",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149085",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-banana-ice-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Banana-Ice_Hayati-Pro-Max_-Pods-min.jpg?v=1762255808",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.363Z"
+}

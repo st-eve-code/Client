@@ -1,0 +1,81 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15295049433469",
+  "slug": "oxva-xlim-top-fill-stainless-steel-replacement-pods",
+  "title": "Oxva Xlim Top Fill Stainless Steel Replacement Pods",
+  "url": "https://www.vapestore.co.uk/products/oxva-xlim-top-fill-stainless-steel-replacement-pods",
+  "brand": "Oxva",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "The OXVA Xlim Top Fill Cartridge Stainless Steel (SS) is designed specifically for use with the OXVA Xlim Pro 2 DNA Pod Vape Kit, supporting key features like Replay Mode and smart temperature control. Each pod contains a built-in Stainless Steel mesh coil, engineered to maintain consistent flavour while preventing dry hits and flavour fade—even at low e-liquid or battery levels. Available in three resistances—0.4ohm, 0.6ohm, 0.8ohm, and 1.2ohm—these pods cater to a range of MTL (mouth-to-lung) and RDL (restricted direct-lung) vaping styles. The secure top-fill mechanism ensures quick, mess-free refills, while the 2ml capacity complies with UK TPD regulations. Compared to standard kanthal pods, these SS pods are rated for up to 30% longer coil life, offering improved performance and efficiency. Pod Details: 0.4ohm DTL- Use High VG (Sub-Ohm) E-Liquid ONLY These pods are compatible with the OXVA Xlim Pro 2 DNA device only , which unlocks their full functionality, including temperature control and Replay Mode. Best used with nicotine salt or 50/50 freebase e-liquids. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4ohm",
+        "0.6ohm",
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm",
+      "sku": "1149715",
+      "price": 6.49
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1142463",
+      "price": 6.49
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1142464",
+      "price": 6.49
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1142465",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-xlim-top-fill-stainless-steel-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/XLIM-Top-Fill-Cartridge-SS-0.6.jpg?v=1749736603",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-top-fill-stainless-steel-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/XLIM-Top-Fill-Cartridge-SS-0.8.jpg?v=1749736634",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__oxva-xlim-top-fill-stainless-steel-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/XLIM-Top-Fill-Cartridge-SS-1.2.jpg?v=1749736661",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

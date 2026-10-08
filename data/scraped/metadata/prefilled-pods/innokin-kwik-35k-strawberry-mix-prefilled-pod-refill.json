@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15658845405565",
+  "slug": "innokin-kwik-35k-strawberry-mix-prefilled-pod-refill",
+  "title": "Innokin Kwik 35K Strawberry Mix Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/innokin-kwik-35k-strawberry-mix-prefilled-pod-refill",
+  "brand": "Innokin",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 8.95,
+    "max": 8.95,
+    "currency": "GBP"
+  },
+  "description": "Strawberry Mix captures the taste of ripe, sun-sweetened Strawberries for a bright, juicy vape that remains consistent from start to finish. The blend offers sweetness that tastes clean and balanced, making it ideal for all-day use. Each pack contains a 2ml prefilled pod and a 10ml refill container built for the Innokin Kwik 10+2 device. The mesh-coil design enhances flavour clarity, while the dual-chamber auto-feed system keeps the coil saturated for steady performance. How to Set Up Innokin Kwik 35K Prefilled Pod Step 1 Insert the prefilled pod into the Kwik 10+2 device until it clicks. Step 2 Fit the 10ml refill container securely into the base compartment. Step 3 Inhale on the mouthpiece to vape. Replace the pod pack once both chambers are empty. ✅ You're all set!",
+  "tags": [
+    "2ml + 10ml",
+    "Innokin Kwik 35K",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1148017",
+      "price": 8.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-kwik-35k-strawberry-mix-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/StrawberryMix-Innokin-Kwik-35k-prefilled-pod.jpg?v=1762784590",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.350Z"
+}

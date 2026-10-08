@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "9640052916548",
+  "slug": "pablo-frosted-ice-nicotine-pouches-30mg",
+  "title": "Pablo Exclusive Frosted Ice Nicotine  Pouches - 30mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/pablo-frosted-ice-nicotine-pouches-30mg",
+  "brand": "Pablo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Pablo Frosted Ice Nicotine Pouches offer a brisk and powerful Ice flavour that hits hard and refreshes fast. Each pouch contains 30mg of nicotine, making this one of the stronger options in the Pablo range. The slim, discreet pouch format ensures comfort and convenience, with no smoke, vapour or odour. Use them anytime, anywhere – especially in places where vaping or smoking isn’t allowed. If you’re looking for a clean, icy blast with serious nicotine delivery, Frosted Ice delivers with every pouch. 20 pouches per can. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH Please Note: These nicotine pouches are 30mg of nicotine per pouch.",
+  "tags": [
+    "30mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1135487",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pablo-frosted-ice-nicotine-pouches-30mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pablo-exclusive-50mg-frosted-ice-12g.jpg?v=1729065148",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.902Z"
+}

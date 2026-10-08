@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "9640056258884",
+  "slug": "aspire-nexi-one-caramel-tobacco-prefilled-vape-pods-20mg",
+  "title": "Aspire Nexi One Caramel Tobacco Prefilled Vape Pods - 20mg",
+  "url": "https://www.vapestore.co.uk/products/aspire-nexi-one-caramel-tobacco-prefilled-vape-pods-20mg",
+  "brand": "Aspire",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Embrace the luscious combination of sweet caramel and deep tobacco in Aspire Nexi's Caramel Tobacco prefilled pods. These 20mg nicotine salt pods combine the indulgent sweetness of caramel with the rich, full flavour of tobacco, creating an exceptionally smooth vaping experience. The pods each hold 1.2ml of e-liquid and are capable of providing up to 350 puffs. Designed with a 1.6ohm coil, they are optimal for mouth-to-lung vaping and integrate seamlessly with the Aspire Nexi device, ensuring a convenient and clean vaping experience.",
+  "tags": [
+    "compatible-with-1133626",
+    "MTL",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1132015",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nexi-one-caramel-tobacco-prefilled-vape-pods-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nexi-one-replacement-pod-3pk-caramel-tobacco.jpg?v=1729065328",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.346Z"
+}

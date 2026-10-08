@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15392977682813",
+  "slug": "fumi-tangy-strawberry-nicotine-pouches",
+  "title": "FUMI Tangy Strawberry Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/fumi-tangy-strawberry-nicotine-pouches",
+  "brand": "FUMI",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "FUMi Tangy Strawberry Nicotine Pouches deliver a classic fruit profile with a twist—sweet, smooth Strawberry lifted by a subtle tang for a flavour that’s both familiar and distinctive. It’s an easy-going pouch that suits everyday use. These slim, all-white pouches fit discreetly under the lip and provide a gradual release of nicotine and flavour for up to 30 minutes. With no smoke, vapour or odour, they’re a clean and convenient option for any part of your day. Choose between 4mg (Regular) and 8mg (Strong) strengths. Each can includes 20 soft, plant-fibre pouches made in Sweden by Helix AB. Nicotine Range: Regular - 4mg this is best for new users. Extra Strong - 11mg this is suited for more experienced users. How to Use Nicotine Pouches: Please Note DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "4mg to 8mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Regular (4mg per pouch)",
+        "Strong (8mg per pouch)"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Regular (4mg per pouch)",
+      "sku": "1143790",
+      "price": 6.49
+    },
+    {
+      "title": "Strong (8mg per pouch)",
+      "sku": "1143781",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fumi-tangy-strawberry-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FUMi-FRONT-Tangy-Strawberry.jpg?v=1753200724",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.904Z"
+}

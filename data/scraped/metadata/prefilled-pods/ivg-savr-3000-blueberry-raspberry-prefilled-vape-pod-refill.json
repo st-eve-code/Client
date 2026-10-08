@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15375837659517",
+  "slug": "ivg-savr-3000-blueberry-raspberry-prefilled-vape-pod-refill",
+  "title": "IVG Savr 3000 Blueberry Raspberry Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-savr-3000-blueberry-raspberry-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Blueberry Raspberry IVG Savr 3000 Prefilled Pods bring together two sweet berries in one smooth blend. The Blueberry lends soft richness while the Raspberry lifts the profile with juicy sharpness, making this an easy all-day vape. Each pod pack includes a 2ml prefilled pod and a 4ml refill reservoir containing 20mg nicotine salt e-liquid. Together they support up to 3000 puffs per kit and connect seamlessly into the IVG Savr 3000 device — no coil changes or top-ups required. How to Set Up IVG Savr Prefilled Pod's Step 1: Unpack the Device Remove the cap from the mouthpiece. Take out the silicone stopper from the pod. Step 2: Prepare the Refill Peel off the red sticker. Remove the rubber stop. Step 3: Connect the Pod Align the refill with the pod. Press until you hear a click. Step 4: Insert into Device Slide the full pod-and-refill unit into the Savr device. Step 5: Prime the Coil Wait a few minutes to let the coil fully saturate. ✅ Ready to Vape! Inhale to activate and enjoy.",
+  "tags": [
+    "2ml + 4ml",
+    "IVG Savr Prefilled Pods",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143383",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-savr-3000-blueberry-raspberry-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-SAVR-Pods-Blueberry-Raspberry.jpg?v=1752593098",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.345Z"
+}

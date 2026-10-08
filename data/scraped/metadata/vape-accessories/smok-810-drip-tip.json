@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639431799108",
+  "slug": "smok-810-drip-tip",
+  "title": "SMOK 810 Drip Tip",
+  "url": "https://www.vapestore.co.uk/products/smok-810-drip-tip",
+  "brand": "SMOK",
+  "productType": "Accessories",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Crown your tank with this sleek and stylish resin 810 drip tip from Smok. Featuring an edgy snakeskin pattern, this wide-bore drip tip is comfortable and durable and sits snugly on any tank that has a compatible 810 connection. You could fit this drip tip to any of Smok’s bestselling sub-ohm tanks like the Smok TFV8, TFV8 Big Baby, Prince or TFV12 & TFV12 tanks, or indeed any tank you like.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "SM-DT-CO-8-10-BLK",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__smok-810-drip-tip__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smok_810_drip_tip_2.jpg?v=1729039454",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

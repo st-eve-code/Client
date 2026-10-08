@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9640040333636",
+  "slug": "voopoo-vmate-top-fill-replacement-pods",
+  "title": "VooPoo Vmate Top Fill Replacement Pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/voopoo-vmate-top-fill-replacement-pods",
+  "brand": "VooPoo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "The VooPoo Vmate Top Fill Replacement Pods are designed to provide a seamless and satisfying vaping experience. These pods come in two variations to suit different preferences: 0.4ohm and 0.7ohm resistances, each available in a 2ml capacity. Vmate Top-Filling 0.4ohm • Best between 18 - 30W, RDL (restricted direct-to-lung) Vmate Top-Filling 0.7ohm • Best between 15 - 25W, MTL (mouth-to-lung) Crafted with VooPoo's ICOSM Flavour Code technology, these pods deliver enhanced flavour and vapour production, ensuring a rich and consistent vaping experience. The Fresnel lens technology integrated into the pods reduces light glare and prevents e-liquid deterioration, extending the life and quality of your e-liquid. The pods are equipped with a top-fill design, making the refilling process simple and mess-free. Whether you prefer a restricted direct lung (RDL) or mouth-to-lung (MTL) vaping style, the Vmate Top Fill Replacement Pods cater to both, providing versatility and satisfaction. The secure snap-in design ensures that the pods stay firmly in place, while the leak-proof construction helps maintain a clean and hassle-free vaping experience. These replacement pods launched with the Voopoo Vmate Max kit but are compatible with the full VooPoo Vmate series, making them an excellent choice for vapers seeking reliability and convenience in their Vmate vaping setup. Please note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4 ohm",
+        "0.7ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4 ohm",
+      "sku": "1133687",
+      "price": 4.49
+    },
+    {
+      "title": "0.7ohm",
+      "sku": "1133686",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-vmate-top-fill-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vmate-replacement-pods-2pk_1_1.jpg?v=1729064651",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vmate-top-fill-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vmate-replacement-pods-2pk.jpg?v=1729064651",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__voopoo-vmate-top-fill-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-vmate-replacement-pods-2pk_1.jpg?v=1729064651",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.393Z"
+}

@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-gum",
+  "id": "14874165543293",
+  "slug": "lost-mary-airplane-mode-mango-nicotine-films-2mg",
+  "title": "Lost Mary Airplane Mode Mango Nic Film - 2mg / Strip - 20pk",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-airplane-mode-mango-nicotine-films-2mg",
+  "brand": "Lost Mary",
+  "productType": "Nicotine Film",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "Lost Mary Mango Nicotine Films offer a sweet, tropical flavour with a smooth, clean finish. These dissolvable films provide a modern alternative to smoking or vaping, perfect for on-the-go nicotine satisfaction. Each film contains 2mg of nicotine and is designed to dissolve discreetly under the lip. They’re ideal for use at work or while travelling, with no smoke, vapour or staining to worry about. Place one film directly on to your tongue and let it dissolve over time. Avoid placing it on the tongue. Discard responsibly once finished. How to Use: Nicotine Strips Please Note: Do not chew, suck or swallow these pouches – they’re only designed to be placed behind your top lip.",
+  "tags": [
+    "Mango"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137241",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-airplane-mode-mango-nicotine-films-2mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/airplane-mode-nicotine-film-mango.jpg?v=1732843783",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:13.456Z"
+}

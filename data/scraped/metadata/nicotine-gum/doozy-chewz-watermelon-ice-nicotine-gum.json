@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-gum",
+  "id": "14941216276861",
+  "slug": "doozy-chewz-watermelon-ice-nicotine-gum",
+  "title": "Doozy Chewz Watermelon Ice Nicotine Gum",
+  "url": "https://www.vapestore.co.uk/products/doozy-chewz-watermelon-ice-nicotine-gum",
+  "brand": "Doozy Vape Co",
+  "productType": "Nicotine Gum",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "Doozy Chewz Watermelon Ice Nicotine Gum delivers a sweet and juicy Watermelon flavour with a crisp, cooling finish. This fruit-forward profile offers a refreshing take on nicotine gum, pairing flavour and function in one chew. Each piece contains 6mg of nicotine, released gradually as you chew. The texture is smooth and consistent, making it suitable for use throughout the day when a smoke-free and discreet option is preferred. Simply place a piece in your mouth and chew slowly to activate the nicotine. When the flavour fades, discard the gum responsibly. No smoke, vapour or preparation required. 1 pc - 2mg 2 pc - 4mg 3 pc - 6mg 4 pc - 8mg How to Use: Nicotine Gum To use Doozy Chewz Nicotine Gum, chew a piece slowly until you feel a tingling sensation. Once the tingling starts, “park” the gum between your cheek and gum to allow the nicotine to absorb effectively. Alternate between chewing and parking until the tingling subsides, typically within 30 minutes. For best results, avoid chewing continuously. Do not exceed the recommended maximum of 20 pieces (40mg) per day. Dispose of used gum responsibly.",
+  "tags": [
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1137232",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__doozy-chewz-watermelon-ice-nicotine-gum__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Doozy-Chewz-nicotine-gum-Watermelon-Ice.jpg?v=1736862415",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:13.455Z"
+}

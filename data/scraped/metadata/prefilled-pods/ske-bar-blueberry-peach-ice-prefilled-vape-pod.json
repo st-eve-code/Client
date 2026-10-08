@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15290396377469",
+  "slug": "ske-bar-blueberry-peach-ice-prefilled-vape-pod",
+  "title": "SKE Bar Blueberry Peach Ice Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-blueberry-peach-ice-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for the SKE Bar Prefilled Pod Kit, this Blueberry Peach Ice pod delivers a sweet, creamy fruit blend finished with a crisp menthol lift. The combination of juicy Blueberry and mellow Peach makes for a smooth, rounded vape that's brightened by its cooling exhale. Each 2ml pod includes 20mg nic salt e-liquid and mesh coil technology for consistent, flavour-packed MTL performance.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142655",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-blueberry-peach-ice-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Peach-lce-SKE-Bar-Prefilled-Pod-min.jpg?v=1749546582",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.347Z"
+}

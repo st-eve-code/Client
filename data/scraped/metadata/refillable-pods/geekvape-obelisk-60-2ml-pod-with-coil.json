@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639530692932",
+  "slug": "geekvape-obelisk-60-2ml-pod-with-coil",
+  "title": "Geekvape Obelisk 60 Replacement 2ml pod with Coil",
+  "url": "https://www.vapestore.co.uk/products/geekvape-obelisk-60-2ml-pod-with-coil",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "The Geekvape Obelisk 60 pod kit is a compact sub ohm pod vape kit that delivers a high power output ideal for super-satisfying sib-ohm vaping while still being discreet and easy to carry. This replacement pod sits securely in the device with the aid of strong magnets, and each pod features an adjustable top airflow to let you choose between an airy DL vape or a more restricted MTL (mouth-to-lung) style vape. Compatible with GeekVape P coils, these precision-engineered coils feature a mesh build that heats more e-liquid at a faster rate to increase both flavour and vapour production. As a sub-ohm device, the Obelisk 60 is best suited to high-VG e-liquids. The package contains a 2ml Obelisk 60 pod plus 1 x P0.4ohm coil and 1 x P0.5 coil",
+  "tags": [
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "GV-RP-OB-60-2ML-1P",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-obelisk-60-2ml-pod-with-coil__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/obelisk-60-pod.png?v=1729041920",
+      "position": 1,
+      "width": 500,
+      "height": 500,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

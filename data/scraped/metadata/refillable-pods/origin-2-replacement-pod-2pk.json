@@ -1,0 +1,71 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639712325956",
+  "slug": "origin-2-replacement-pod-2pk",
+  "title": "Oxva Origin 2 Replacement Pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/origin-2-replacement-pod-2pk",
+  "brand": "Oxva",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "These replacement OXVA Origin 2 Pods are available in a 2ml or 5ml e-liquid capacity, and you can easily keep an eye on the level of your e-liquid thanks to the pod’s smooth, transparent design. The comfortable drip tip can be replaced with any other 510 compatible drip tip should you choose to. The pod is held in place with strong magnets, and when removed reveals the fill port, which is protected by a leak-resistant tag on the side of the pod. The OXVA Origin 2 Pod is compatible with Oxva’s exceptional Unione series coils, which offer increased longevity and outstanding flavour in a variety of resistances. The Oxva Origin 2 80W pod kit is a fantastic kit for any vaper who likes a powerful device which can travel easily and discreetly while delivering exceptional flavour and performance. Please Note: These Pods do not come with coils.",
+  "tags": [
+    "CC DC List",
+    "Delisted",
+    "DTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Tank Capacity",
+      "position": 1,
+      "values": [
+        "2ml",
+        "5ml"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "2ml",
+      "sku": "1118328",
+      "price": 3.49
+    },
+    {
+      "title": "5ml",
+      "sku": "1118327",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__origin-2-replacement-pod-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva_origin_pod_2_pack_1_1.jpg?v=1729048085",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__origin-2-replacement-pod-2pk__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva_origin_pod_2_pack.jpg?v=1729048085",
+      "position": 2,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__origin-2-replacement-pod-2pk__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva_origin_pod_2_pack_1.jpg?v=1729048085",
+      "position": 3,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.395Z"
+}

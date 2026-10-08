@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15289156174205",
+  "slug": "ske-bar-fresh-menthol-mojito-prefilled-vape-pod",
+  "title": "SKE Bar Fresh Menthol Mojito Prefilled Vape Pod",
+  "url": "https://www.vapestore.co.uk/products/ske-bar-fresh-menthol-mojito-prefilled-vape-pod",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.95,
+    "max": 2.95,
+    "currency": "GBP"
+  },
+  "description": "Designed for the SKE Bar Prefilled Pod Kit, this Fresh Menthol Mojito pod offers a bright, minty vape inspired by the classic cocktail. You'll taste cooling Menthol and fresh Mint leaves, layered with a subtle splash of Lime for a sharp, herbal citrus finish. Each 2ml pod includes 20mg nicotine salt and uses mesh coil tech for a smooth, consistent MTL experience. Please Note: These are pods ONLY and the Battery is not included.",
+  "tags": [
+    "600 Puffs",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil",
+    "SKE Bar"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1142623",
+      "price": 2.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-bar-fresh-menthol-mojito-prefilled-vape-pod__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fresh-Menthol-Mojito-SKE-Bar-Prefilled-Pod-min.jpg?v=1749483513",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.376Z"
+}

@@ -1,0 +1,46 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9640043217220",
+  "slug": "voopoo-uforce-x-tank-straight-glass-2ml",
+  "title": "VooPoo Uforce-X Replacement Glass 2ml",
+  "url": "https://www.vapestore.co.uk/products/voopoo-uforce-x-tank-straight-glass-2ml",
+  "brand": "VooPoo",
+  "productType": "Accessories",
+  "price": {
+    "min": 1,
+    "max": 1,
+    "currency": "GBP"
+  },
+  "description": "The VooPoo Uforce-X Tank Replacement Straight Glass is a high-quality, durable glass designed specifically for the Uforce-X Tank. This straight glass has a 2ml e-liquid capacity, compliant with TPD regulations, and is made from medical-grade Pyrex borosilicate material. The glass is engineered to withstand high temperatures and resist corrosion, ensuring a long-lasting and reliable vaping experience. The transparent design allows for easy monitoring of e-liquid levels, so you can see when it’s time for a refill. This replacement glass is an essential accessory for vapers who want to ensure their Uforce-X Tank is always in perfect working condition. Whether you need to replace a broken glass or just want a spare on hand, this straight glass is the perfect solution.",
+  "tags": [
+    "CC DC List"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1134403",
+      "price": 1
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__voopoo-uforce-x-tank-straight-glass-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/voopoo-uforce-x-replacement-glass-2ml.jpg?v=1729064749",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.062Z"
+}

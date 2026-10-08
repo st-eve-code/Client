@@ -1,0 +1,51 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15495756153213",
+  "slug": "vaporesso-dojo-blast-10k-sour-berry-prefilled-pod-refill",
+  "title": "Vaporesso DOJO Blast Pod & Refill For 10K or 30K Device – Sour Berry",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-dojo-blast-10k-sour-berry-prefilled-pod-refill",
+  "brand": "Vaporesso",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: Compatible with Vaporesso Dojo Blast 10K & 30K Kits Only The Sour Berry Prefilled Pod & Refill Pack refreshes your Vaporesso Dojo Blast 10K kit with a tangy, mixed-berry profile. Inside each pack you’ll find a 2ml prefilled pod and an 8ml refill container — together delivering up to 10,000 puffs when used with the Dojo Blast device. The 20mg nicotine salt formulation supports a smooth mouth-to-lung draw, while Vaporesso’s COREX 2.0 dual mesh coil and Smart Liq-Cycle saturation technology help maintain steady flavour and vapour throughout use. The transparent pod makes it easy to keep an eye on levels, and the refill system keeps top-ups quick and tidy. The flavour blends tart berry notes with a touch of sweetness, echoing the bite of sour red and dark berries for a lively, moreish vape. It’s bright without being overdone, making Sour Berry a straightforward choice if you enjoy a sharper fruit profile you can return to across the day. Explore all 28 flavours from the Vaporesso Dojo Blast 10K collection here at Vapestore.",
+  "tags": [
+    "2ml + 8ml",
+    "Freedojokit",
+    "Freedojopod",
+    "offer-vaporesso-20",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1144484",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-dojo-blast-10k-sour-berry-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SOUR-BERRY-Dojo-Blast-10k-prefilled-pods.jpg?v=1756397224",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.311Z"
+}

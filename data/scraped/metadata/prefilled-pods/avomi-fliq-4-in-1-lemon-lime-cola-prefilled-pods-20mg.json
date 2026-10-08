@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "9640034304324",
+  "slug": "avomi-fliq-4-in-1-lemon-lime-cola-prefilled-pods-20mg",
+  "title": "Avomi FLIQ Prefilled Vape Pods - Lemon & Lime Cola",
+  "url": "https://www.vapestore.co.uk/products/avomi-fliq-4-in-1-lemon-lime-cola-prefilled-pods-20mg",
+  "brand": "Avomi",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "The Avomi Fliq 4-in-1 Replacement Prefilled Pods in Lemon & Lime Cola flavour offer a unique combination of tangy lemon, lime, and classic cola for a refreshing and satisfying vape. Each pod contains 2ml of 20mg nicotine salt e-liquid, ensuring a smooth throat hit and rapid nicotine relief. Compatible with the Avomi Fliq 4-in-1 Prefilled Pod Device, these pods are designed for unparalleled ease of use no matter your previous experience with vaping. Just remove and dispose of the previous pod and click a new on into place. The device allows users to switch between four prefilled pods, offering a versatile and flexible vaping experience. With a rechargeable 950mAh battery and USB-C fast charging, the Avomi Fliq 4-in-1 device is both convenient and reusable. The ergonomic design and soft-touch coating ensure a comfortable grip for easy all-day use. The Avomi Fliq 4-in-1 Replacement Prefilled Pods allow you to easily change flavours to match your mood or preference, with over 25 unique flavours to choose from in the Avomi collection.",
+  "tags": [
+    "2 x 2ml",
+    "Lemon and Lime",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1132817",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__avomi-fliq-4-in-1-lemon-lime-cola-prefilled-pods-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/avomi-prefilled-pods-lemon-lime-cola.jpg?v=1729064430",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.324Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179216060797",
+  "slug": "pyne-pod-2in1-pink-lemonade-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Pink Lemonade Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-pink-lemonade-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Pink Lemonade Pod Pack for the Pyne Pod 2-in-1 Kit offers a sparkling twist on a citrus classic. Zesty Lemon makes for a bubbly, citrusy base, softened by sweet, subtle red berry notes to create that unmistakable Pink Lemonade character. Lightly tangy and slightly fizzy, it’s a bright, refreshing vape that’s easy to enjoy all day. Each pod contains 2ml of 20mg nicotine salt e-liquid and is designed for use with the Pyne Pod 2-in-1 device. They connect magnetically and work with the twist-activated dual pod system for instant flavour pairing. With two pods in every pack, Pink Lemonade is an uplifting option that pairs especially well with fruit, ice, or mint-based flavours.",
+  "tags": [
+    "2 x 2ml",
+    "Pink Lemonade",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141653",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-pink-lemonade-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-pink-lemonade.jpg?v=1745579436",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

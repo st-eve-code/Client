@@ -1,0 +1,52 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15892531773821",
+  "slug": "elfbar-plus-cherry-prefilled-pod-refill",
+  "title": "Elf Bar Plus Cherry Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/elfbar-plus-cherry-prefilled-pod-refill",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Cherry delivers a deep and juicy Cherry flavour with a rich sweetness that’s instantly recognisable. With its bold profile and subtle hint of confectionery character, this is a great choice for fans of classic vape flavours with a satisfyingly sweet finish. Each Elf Bar Plus Prefilled Pod pack is supplied as a single prefilled 2ml pod paired with an 8ml refill container, giving a total of 10ml of 20mg Nic Salt e-liquid. There’s no messy refilling and no coil changes. Just connect the pod and reservoir, fit the assembled unit to the Elf Bar Plus 12 or 50 Prefilled Pod Kit, and vape. The pod uses an advanced 0.8ohm QUAQ mesh coil and draw-activated inhale to deliver consistently smooth flavour and discreet MTL vapour. One pod pack can deliver up to 12,000 puffs, depending on personal use. When performance drops or the reservoir is empty, simply replace with a fresh Elf Bar Plus Prefilled Pod pack in your chosen flavour.",
+  "tags": [
+    "2ml + 10ml",
+    "5000 Puffs Pod",
+    "6000 Puffs Pod",
+    "b2b287",
+    "Elfbar Plus50",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1154372",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-plus-cherry-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry_1b1ba760-104c-47b5-aae8-fab0e8ff0469.jpg?v=1778768087",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.326Z"
+}

@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15270353928573",
+  "slug": "innokin-n-replacement-pods-2ml",
+  "title": "Innokin N Replacement Pods 2ml",
+  "url": "https://www.vapestore.co.uk/products/innokin-n-replacement-pods-2ml",
+  "brand": "Innokin",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.49,
+    "max": 5.49,
+    "currency": "GBP"
+  },
+  "description": "These Innokin N Replacement Pods are designed for use with the Innokin x Okino Ne-Mo Pod Kit and come in a handy pack of three. Each pod features a 2ml e-liquid capacity and integrated coil, eliminating the need for messy coil changes. Available in 0.4ohm, 0.6ohm and 0.8ohm resistances, these pods cater to both RDL and MTL styles. The 0.4ohm pod delivers a warmer, more vapour-rich draw at 25–30W, while the 0.6ohm and 0.8ohm pods provide smoother, lower-powered options for nicotine salts or 50/50 e-liquids. The pods feature bottom airflow control for tailored draw resistance and a side-fill port secured with a silicone plug for quick, leak-resistant top-ups. When flavour or vapour performance begins to drop, simply swap in a fresh pod. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4ohm - 3pk",
+        "0.6ohm - 3pk",
+        "0.8ohm - 3pk"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm - 3pk",
+      "sku": "1142435",
+      "price": 5.49
+    },
+    {
+      "title": "0.6ohm - 3pk",
+      "sku": "1142436",
+      "price": 5.49
+    },
+    {
+      "title": "0.8ohm - 3pk",
+      "sku": "1142437",
+      "price": 5.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__innokin-n-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-Ne-Mo-Pod-Kit-N-Pod_0.4.jpg?v=1748864712",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-n-replacement-pods-2ml__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-Ne-Mo-Pod-Kit-N-Pod_0.6.jpg?v=1748864744",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__innokin-n-replacement-pods-2ml__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Innokin-Ne-Mo-Pod-Kit-N-Pod_0.8.jpg?v=1748864788",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

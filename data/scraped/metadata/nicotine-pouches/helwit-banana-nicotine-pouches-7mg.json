@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15340485149053",
+  "slug": "helwit-banana-nicotine-pouches-7mg",
+  "title": "Helwit Banana Nicotine Pouches 7mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-banana-nicotine-pouches-7mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Banana Nicotine Pouches offer a soft and subtly sweet take on Banana flavour, pairing creamy notes with a gentle smoothness that makes this a comfortable all-day pouch. Inspired by mellow confectionery-style banana, the taste is light and inviting without being overly sweet. Each pouch is crafted from plant-based materials and designed to sit neatly under the lip for discreet use anywhere. The 7mg nicotine strength is ideal for users seeking a moderate, steady release without smoke, vapour or odour. A pleasant and easy-going pouch for fans of fruit-inspired flavours. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "7mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "7mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "7mg/pouch",
+      "sku": "1143082",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-banana-nicotine-pouches-7mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Banana-HelwitNicotinePouch.jpg?v=1751455738",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.912Z"
+}

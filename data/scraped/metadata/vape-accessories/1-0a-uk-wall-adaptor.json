@@ -1,0 +1,44 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639293878596",
+  "slug": "1-0a-uk-wall-adaptor",
+  "title": "TECC UK Wall Adapter",
+  "url": "https://www.vapestore.co.uk/products/1-0a-uk-wall-adaptor",
+  "brand": "TECC",
+  "productType": "Battery Charger",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The TECC 1.0A USB Wall Adaptor comes with a hard-wearing plastic case and has been specifically created for use with e-cigarettes. It comes with full British Standards Certification.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "396367",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__1-0a-uk-wall-adaptor__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/396367_tecc_wallasdaptor_001.jpg?v=1729033361",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

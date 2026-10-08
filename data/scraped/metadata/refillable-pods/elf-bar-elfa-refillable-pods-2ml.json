@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639892549956",
+  "slug": "elf-bar-elfa-refillable-pods-2ml",
+  "title": "Elf Bar Elfa Refillable Pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-elfa-refillable-pods-2ml",
+  "brand": "Elf Bar",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.49,
+    "max": 4.49,
+    "currency": "GBP"
+  },
+  "description": "These replacement refillable pods are compatible with the Elfa and Elfa Pro pod kit from Elf Bar. Unlike pods that come prefilled with e-liquid, these empty pods let you explore an endless variety of e-liquid flavours from whatever brand you prefer. Its integrated 1.1ohm coil is perfect for use with Nicotine Salts , 50/50 & High-PG E-liquids, and delivers a crispy, satisfying MTL (mouth-to-lung) sensation with every puff. When the pod begins to loses flavour, you only need to swap the used pod for a new one. Simple, satisfying and more sustainable than other disposable pod kits, the new Elfa pod kit from Elf Bar is a sleek and lightweight pod kit that would appeal to any vaper. Elfa Disposable Pods are made from high-quality materials and are designed to deliver a consistent and reliable vaping experience. The pods are leak-resistant, ensuring that your e-liquid stays inside the pod and doesn't leak out. This pack contains two replacement refillable 1.1ohm disposable Elfa pods. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "compatible-with-1115804-EPK",
+    "compatible-with-1124023",
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1131281",
+      "price": 4.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-elfa-refillable-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/elf-bar-elfa-refillable-pod-1-1ohm-2ml-2pk.jpg?v=1729059483",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

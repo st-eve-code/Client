@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639836156228",
+  "slug": "aspire-bp-replacement-pod-2ml",
+  "title": "Aspire BP Stik Replacement pod",
+  "url": "https://www.vapestore.co.uk/products/aspire-bp-replacement-pod-2ml",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 0.99,
+    "max": 0.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Replacement Cartridge for the BP Stik is an cartridge with a 2ml e-liquid capacity, designed specifically for use with the Aspire BP Stik and Aspire BP Mesh Coils. Constructed from durable PETG material, this cartridge is built to endure regular use while delivering an exceptional vaping experience. The Aspire Replacement Cartridge caters to both MTL (mouth-to-lung) and DTL (direct-to-lung) vaping styles, offering flexibility to suit your preferred vaping approach. The pods are compatible with Aspire’s Mesh BP coils which are available in a wide range of resistances to help you find your perfect vape. Refilling the cartridge is straightforward and hassle-free. Simply remove the pod from the device, open the stopper located on the bottom of the cartridge, and fill with e-liquid through the designated port.",
+  "tags": [
+    "CC DC List",
+    "Delisted",
+    "DTL/RDL/MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1125593",
+      "price": 0.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-bp-replacement-pod-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-bp-stick-replacement-pod-2ml-1pk.jpg?v=1729055619",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.398Z"
+}

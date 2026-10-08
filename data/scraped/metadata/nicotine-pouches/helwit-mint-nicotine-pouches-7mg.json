@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15338253386109",
+  "slug": "helwit-mint-nicotine-pouches-7mg",
+  "title": "Helwit Mint Nicotine Pouches 7mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-mint-nicotine-pouches-7mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Mint Nicotine Pouches offer a fresh take on a classic flavour profile. With its cool, crisp taste and clear menthol character, this pouch delivers a straightforward Mint experience that’s bright, balanced and consistently refreshing. Each pouch is slim, discreet and made using plant-based materials, designed to sit comfortably under the lip and release nicotine steadily over time. The 7mg strength delivers a moderate, balanced experience with no smoke, vapour or odour. Whether you’re new to nicotine pouches or simply prefer familiar flavours, Helwit Mint is a clean and convenient option that fits easily into your daily routine. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "7mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "7mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "7mg/pouch",
+      "sku": "1143079",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-mint-nicotine-pouches-7mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Mint-HelwitNicotinePouch.jpg?v=1751382393",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.921Z"
+}

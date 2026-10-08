@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639315046724",
+  "slug": "spryte-replacement-pod-by-aspire",
+  "title": "Aspire Spryte Replacement Pod",
+  "url": "https://www.vapestore.co.uk/products/spryte-replacement-pod-by-aspire",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Spryte Replacement Pod is the ideal accessory for the Aspire Spryte AIO Vape Pod Kit, offering a convenient and efficient way to switch flavours or replace a worn pod. Designed for seamless compatibility, this 2ml refillable pod comes pre-fitted with a 1.8ohm BVC coil, delivering excellent performance and a smooth mouth-to-lung (MTL) vaping experience. Featuring an adjustable airflow system, the Spryte Replacement Pod allows you to customise your draw to suit your personal vaping style. Refilling the pod is quick and mess-free, thanks to the silicone plug at the base of the pod, making it perfect for everyday use. Compatible with Aspire’s original BVC coils, the Spryte Replacement Pod combines versatility and ease of use, ensuring a satisfying vaping experience for MTL vapers. Whether you’re carrying a spare for convenience or exploring new e-liquid flavours, the Aspire Spryte Replacement Pod is an essential addition to your vaping kit.",
+  "tags": [
+    "compatible-with-124997",
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "125352",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__spryte-replacement-pod-by-aspire__001.png",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/125352_aspire_spryte_raplace_pod_001.png?v=1729034161",
+      "position": 1,
+      "width": 1200,
+      "height": 1200,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.403Z"
+}

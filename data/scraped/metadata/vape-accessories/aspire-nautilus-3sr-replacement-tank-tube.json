@@ -1,0 +1,72 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "15495449477501",
+  "slug": "aspire-nautilus-3sr-replacement-tank-tube",
+  "title": "Aspire Nautilus 3SR Replacement Tank Tube - 2ml",
+  "url": "https://www.vapestore.co.uk/products/aspire-nautilus-3sr-replacement-tank-tube",
+  "brand": "Aspire",
+  "productType": "Accessories",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "The Aspire Nautilus 3SR Tank Tube is a durable replacement part designed to keep your tank protected while adding a distinctive look. Crafted from stainless steel with a latticed metal sleeve, this 2ml tube shields the glass from knocks and drops without compromising e-liquid visibility. Taking design inspiration from the original Nautilus tank line, the Nautilus 3SR’s protective sleeve is instantly recognisable to experienced vapers. Available in a choice of finishes to match your tank, it’s a practical and stylish way to keep your setup looking and performing at its best.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Silver",
+        "Gunmetal"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "1143946",
+      "price": 5.99
+    },
+    {
+      "title": "Silver",
+      "sku": "1143947",
+      "price": 5.99
+    },
+    {
+      "title": "Gunmetal",
+      "sku": "1143948",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nautilus-3sr-replacement-tank-tube__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Black-Aspire-Nautilus-3SR-Tank-Tube-min.jpg?v=1756384929",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-3sr-replacement-tank-tube__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Sliver-Aspire-Nautilus-3SR-Tank-Tube-min_69c8973e-5a93-4ad2-8b2f-7914b2bcdc63.jpg?v=1756384946",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-nautilus-3sr-replacement-tank-tube__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Gunmetal-Aspire-Nautilus-3SR-Tank-Tube-min.jpg?v=1756384934",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "9640056324420",
+  "slug": "aspire-nexi-one-bluemint-tobacco-prefilled-vape-pods-20mg",
+  "title": "Aspire Nexi One BlueMint Tobacco Prefilled Vape Pods - 20mg",
+  "url": "https://www.vapestore.co.uk/products/aspire-nexi-one-bluemint-tobacco-prefilled-vape-pods-20mg",
+  "brand": "Aspire",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Aspire Nexi's BlueMint Tobacco prefilled pods combine the robust taste of tobacco with a refreshing minty finish, offering a crisp vaping experience. These 20mg nicotine salt pods provide a balanced throat hit along with a cooling sensation that enhances the tobacco flavour, making it ideal for those who enjoy a touch of freshness with their vape. Each pod contains 1.2ml of e-liquid and delivers up to 350 puffs. The 1.6ohm coil within these pods is optimized for mouth-to-lung vaping, ensuring a smooth and satisfying draw with every puff. The Aspire Nexi device perfectly complements these pods, facilitating a convenient and straightforward vaping session.",
+  "tags": [
+    "compatible-with-1133626",
+    "MTL",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1132013",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-nexi-one-bluemint-tobacco-prefilled-vape-pods-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-nexi-one-replacement-pod-3pk-bluemint-tobacco.jpg?v=1729065331",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.383Z"
+}

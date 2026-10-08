@@ -1,0 +1,97 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639825310020",
+  "slug": "uwell-caliburn-g3-replacement-pods",
+  "title": "Uwell Caliburn G3 Replacement Pods - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-g3-replacement-pods",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 9.99,
+    "max": 9.99,
+    "currency": "GBP"
+  },
+  "description": "Designed for vapers of all levels, the Uwell Caliburn G3 is a sleek and effortless pod kit that is lightweight and stylish too. These replacement Uwell Caliburn G3 pods with fixed coils allow for two styles of vaping depending on the resistance you choose. The 0.6 Ohm pod provides a loose and airy RDL (restricted direct-to-lung) experience while the 0.9ohm pods allow for a more intense MTL (mouth-to-lung) style vape. When it's time to replace the coil, just swap out the old pod with the new one for a super-convenient and mess-free experience. The Caliburn G3 Pods boast mesh coils equipped with Pro-FOCS Flavour Technology, delivering a flavour boost and longer-lasting coil life. Best used with 50/50 and Nic Salt E-liquids Pod Details: Uwell Caliburn G3 0.4ohm RDTL Use High VG (Sub-Ohm) Liquids Uwell Caliburn G3 0.6ohm RDTL Use 50/50 (freebase) or Nic Salt E-Liquid Uwell Caliburn G3 0.9ohm MTL Use 50/50 (freebase) or Nic Salt E-Liquid Uwell Caliburn G3 1.2ohm MTL Use High PG, 50/50 (freebase) E-Liquid Please Note: The 0.4ohm and 0.6ohm pods are low resistance pods with a maximum output of 25w and are not suited for high VG E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "0.9ohm",
+        "0.4 ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1126620",
+      "price": 9.99
+    },
+    {
+      "title": "0.9ohm",
+      "sku": "1126621",
+      "price": 9.99
+    },
+    {
+      "title": "0.4 ohm",
+      "sku": "1135358",
+      "price": 9.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1133446",
+      "price": 9.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-g3-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-g3-replacement-pods-2ml-4pk_1_1.jpg?v=1729054804",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-g3-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-g3-replacement-pods-2ml-4pk.jpg?v=1729054804",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-g3-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-g3-replacement-pods-2ml-4pk_1.jpg?v=1729054804",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-g3-replacement-pods__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-g3-replacement-pods-2ml-4pk_1_2.jpg?v=1729054804",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-g3-replacement-pods__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-g3-replacement-pods-2ml-4pk_2.jpg?v=1729054804",
+      "position": 5,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

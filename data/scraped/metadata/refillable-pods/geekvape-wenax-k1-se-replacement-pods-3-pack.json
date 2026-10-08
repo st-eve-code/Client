@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639640301892",
+  "slug": "geekvape-wenax-k1-se-replacement-pods-3-pack",
+  "title": "Geekvape Wenax K1 SE Replacement Pods - 3 Pack",
+  "url": "https://www.vapestore.co.uk/products/geekvape-wenax-k1-se-replacement-pods-3-pack",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 5.99,
+    "max": 5.99,
+    "currency": "GBP"
+  },
+  "description": "With a fixed 1.0ohm coil, these pods provide a super-satisfying and flavoursome MTL (mouth-to-lung) vape experience when paired with the GeekVape Wenax K1 SE pod kit. These 2ml pods are best used with Nic Salts , 50/50 and classic High-PG E-Liquids. The Geekvape Wenax K1 SE pod kit adds to GeekVape’s Wenax range of super-compact and simple to use pod kits. These replacement pods can contain 2ml of your favourite e-liquid and are simple to refill thanks to the handy side-fill port. Compatible With High PG, Nic Salt and 50/50 E-Liquids.",
+  "tags": [
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "1.2ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1114672",
+      "price": 5.99
+    },
+    {
+      "title": "1.2ohm",
+      "sku": "1114673",
+      "price": 5.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-wenax-k1-se-replacement-pods-3-pack__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-wenax-k1-pods-x3_1_1.jpg?v=1729045608",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.402Z"
+}

@@ -1,0 +1,60 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15241470280061",
+  "slug": "nordic-spirit-raspberry-nic-pouches",
+  "title": "Nordic Spirit Raspberry Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-raspberry-nic-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Raspberry Nicotine Pouches offer a fresh twist on a classic berry flavour, combining vivid Raspberry notes with just a touch of tanginess. The result is a bright, fruity experience that’s subtle enough for regular use but with enough sweetness to remain distinctive throughout. These slim, soft-fibre pouches fit comfortably under the lip and release nicotine slowly over time, without any smoke, vapour or odour. Whether you prefer a Regular (6mg) or Strong (9mg) option, Raspberry delivers a clean, berry-tinged flavour in a mess-free, convenient format that suits a variety of everyday situations. How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "6mg to 9mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg / pouch",
+        "9mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg / pouch",
+      "sku": "1142560",
+      "price": 6.5
+    },
+    {
+      "title": "9mg / pouch",
+      "sku": "1142569",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-raspberry-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Raspberry-Reg-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773744040",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-raspberry-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Raspberry-Strong-Nordic-Spirit-Nicotine-Pouches_6c5f2f93-c089-4b1d-a88f-666eef7bb645.jpg?v=1773744043",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.895Z"
+}

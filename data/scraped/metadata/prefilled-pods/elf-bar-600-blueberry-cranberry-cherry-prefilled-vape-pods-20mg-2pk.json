@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15492552786301",
+  "slug": "elf-bar-600-blueberry-cranberry-cherry-prefilled-vape-pods-20mg-2pk",
+  "title": "Elf Bar 600 Blueberry Cranberry Cherry Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/elf-bar-600-blueberry-cranberry-cherry-prefilled-vape-pods-20mg-2pk",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Elf Bar 600 Blueberry Cranberry Cherry Prefilled Pods are made for the Elf Bar 600 Prefilled Pod Kit, offering a full-bodied berry mix. Each pod comes prefilled with 20mg nicotine salt e-liquid, providing a smooth MTL vape and up to 600 puffs. This flavour brings together sweet Blueberry, tart Cranberry, and rich Cherry for a rounded fruit experience that vapers will find satisfying. Pods can be replaced easily, ensuring a quick and mess-free vape.",
+  "tags": [
+    "2 x 2ml",
+    "Elfbar 600",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143167",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-bar-600-blueberry-cranberry-cherry-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-Cranberry-Cherry-Elf-Bar-600-Prefilled-pods.jpg?v=1756378076",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.328Z"
+}

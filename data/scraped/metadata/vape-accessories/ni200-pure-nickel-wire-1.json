@@ -1,0 +1,108 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639296270660",
+  "slug": "ni200-pure-nickel-wire-1",
+  "title": "UD NI200 Pure Nickel Wire",
+  "url": "https://www.vapestore.co.uk/products/ni200-pure-nickel-wire-1",
+  "brand": "UD",
+  "productType": "Wire",
+  "price": {
+    "min": 1.37,
+    "max": 1.37,
+    "currency": "GBP"
+  },
+  "description": "Build reliable, high-performance coils for your e-cigarette with UD's pure nickel wire. Nickel wire is designed to be used with box mods capable of controlling coil temperature. Temperature sensing and limiting devices paired with nickel wire can substantially improve the quality of vapour for the best experience possible.",
+  "tags": [],
+  "options": [
+    {
+      "name": "Wire Options",
+      "position": 1,
+      "values": [
+        "0.20mm *10m/roll, 32 AWG",
+        "0.25mm *10m/roll, 30 AWG",
+        "0.30mm *10m/roll, 28 AWG",
+        "0.40mm *10m/roll, 26 AWG",
+        "Ni200"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.20mm *10m/roll, 32 AWG",
+      "sku": "688811",
+      "price": 1.37
+    },
+    {
+      "title": "0.25mm *10m/roll, 30 AWG",
+      "sku": "688828",
+      "price": 1.37
+    },
+    {
+      "title": "0.30mm *10m/roll, 28 AWG",
+      "sku": "discontinued-420750",
+      "price": 1.37
+    },
+    {
+      "title": "0.40mm *10m/roll, 26 AWG",
+      "sku": "420767",
+      "price": 1.37
+    },
+    {
+      "title": "Ni200",
+      "sku": "688804",
+      "price": 1.37
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ni200-pure-nickel-wire-1__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/688804_ud_ni200_001_1.jpg?v=1729033494",
+      "position": 1,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ni200-pure-nickel-wire-1__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1468484720_6413.jpg?v=1729033494",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ni200-pure-nickel-wire-1__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1468484745_3252.jpg?v=1729033494",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ni200-pure-nickel-wire-1__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1468484783_8643.jpg?v=1729033494",
+      "position": 4,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ni200-pure-nickel-wire-1__005.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1468484815_439.jpg?v=1729033494",
+      "position": 5,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__ni200-pure-nickel-wire-1__006.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/688804_ud_ni200_001.jpg?v=1729033494",
+      "position": 6,
+      "width": 680,
+      "height": 680,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

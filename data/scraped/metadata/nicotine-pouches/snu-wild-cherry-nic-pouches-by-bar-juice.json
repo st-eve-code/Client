@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15809662124413",
+  "slug": "snu-wild-cherry-nic-pouches-by-bar-juice",
+  "title": "SNU Wild Cherry Nic Pouches by Bar Juice",
+  "url": "https://www.vapestore.co.uk/products/snu-wild-cherry-nic-pouches-by-bar-juice",
+  "brand": "SNU",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "SNU Wild Cherry Nicotine Pouches offer a sophisticated fruit profile for those who appreciate depth and richness. Distinct from candy-sweet alternatives, this flavour captures the essence of ripe, dark cherries, delivering a bold and juicy taste sensation crafted by the flavour masters at Bar Juice 5000. Available in three strengths—9mg (Low), 12mg (Medium), and 18mg (High)—these pouches cater to all preferences, providing a satisfying hit without the use of tobacco. The slim, all-white format ensures that the pouches sit comfortably under the lip, leaving no residue and ensuring complete discretion. Enhancing the experience is SNU's signature \"scented can\" technology. A quick rub of the lid releases the authentic aroma of wild cherries, setting the stage for the premium flavour inside. Perfect for users looking for a reliable, high-quality nicotine alternative. Nicotine Ranges: Low - 9mg this is best suited for new users Medium - 12mg this is suited for more experienced users High - 18mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "12mg to 18mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "12mg / Pouch",
+        "18mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1153459",
+      "price": 3.99
+    },
+    {
+      "title": "12mg / Pouch",
+      "sku": "1153456",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / Pouch",
+      "sku": "1153453",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__snu-wild-cherry-nic-pouches-by-bar-juice__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Wild-Cherry-18mg-SNU-Nicotine-Pouch.jpg?v=1771433877",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-wild-cherry-nic-pouches-by-bar-juice__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Wild-Cherry-12mg-SNU-Nicotine-Pouch.jpg?v=1771433953",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-wild-cherry-nic-pouches-by-bar-juice__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Wild-Cherry-9mg-SNU-Nicotine-Pouch.jpg?v=1771433968",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.900Z"
+}

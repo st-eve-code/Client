@@ -1,0 +1,56 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15373249216893",
+  "slug": "ivg-smart-max-blue-sour-raspberry-prefilled-vape-pod-refill",
+  "title": "IVG Smart Max Blue Sour Raspberry Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-smart-max-blue-sour-raspberry-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Blue Sour Raspberry packs a tangy punch with every puff, combining the sharp bite of sour Raspberry with a juicy Blue Raspberry base. The result is a tart-sweet flavour that’s bold without being overpowering, offering a clean and punchy profile that fans of sour fruit blends will enjoy. Each pack includes a 2ml pod prefilled with 20mg nicotine salt e-liquid and a separate 10ml refill reservoir. Once connected, the refill system automatically tops up the pod as you vape, potentially delivering up to 12,000 puffs per kit depending on personal usage. No refilling or coil changes needed. The mesh coil design ensures even heating and full flavour from start to finish. Designed for use with the IVG Smart Max 12K Prefilled Pod Vape Kit, this pod provides a straightforward and satisfying MTL vape. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill and press firmly until they click together. Insert the connected pod and refill into the Smart Max device.",
+  "tags": [
+    "2ml + 10ml",
+    "b2b",
+    "IVG Smart Max Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg",
+        "10mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143285",
+      "price": 6.95
+    },
+    {
+      "title": "10mg",
+      "sku": "1150643",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-smart-max-blue-sour-raspberry-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/smart-max-refill-blue-sour-raspberry-800x800.jpg?v=1752500693",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.315Z"
+}

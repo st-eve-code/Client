@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15343326790013",
+  "slug": "helwit-strawberry-nicotine-pouches-9mg",
+  "title": "Helwit Strawberry Nicotine Pouches 9mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-strawberry-nicotine-pouches-9mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Strawberry Nicotine Pouches capture the sunny sweetness of ripe Strawberries with an easy, mellow finish. Bright but not overpowering, this pouch delivers an uplifting fruit note that’s ideal for all-day use. Made in Sweden from sustainable, plant-based materials, Helwit’s slim pouches are discreet and comfortable to use, releasing nicotine slowly and evenly without smoke, vapour or odour. This variant contains 9mg of nicotine per pouch, striking a satisfying middle ground for users who want dependable nicotine delivery in a fruity, tobacco-free format. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "9mg",
+    "nordicminiofferfruit",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg/pouch",
+      "sku": "1143095",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-strawberry-nicotine-pouches-9mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Strawberry-HelwitNicotinePouch.jpg?v=1751556586",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.907Z"
+}

@@ -1,0 +1,69 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639883014468",
+  "slug": "aspire-flexus-pro-replacement-pods",
+  "title": "Aspire Flexus Pro Replacement Pods 2ml - 2 Pods",
+  "url": "https://www.vapestore.co.uk/products/aspire-flexus-pro-replacement-pods",
+  "brand": "Aspire",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 3.49,
+    "max": 3.49,
+    "currency": "GBP"
+  },
+  "description": "Enhance your vaping pleasure with the Aspire Flexus Pro Replacement Pods, specifically designed for the astounding Flexus Pro Pod Kit. These pods come in two resistance levels: 0.6ohm for those who enjoy a more open, direct-to-lung (DTL) vape, and 1.0ohm for vapers who prefer a tighter, mouth-to-lung (MTL) draw. Each pod holds up to 2ml of your favourite e-liquid, offering a balance of flavour and vapour production with its integrated mesh coil design. The 0.6ohm pod is ideal for a smoother DTL experience, producing ample vapour, while the 1.0ohm pod caters to MTL vapers looking for a more concentrated flavour and a cigarette-like inhale. Both pods feature a convenient side-filling system, making e-liquid top-ups easy and mess-free. Packaged in twos, these replacement pods ensure you're never left without your essential vaping device. They are built with quality and precision, guaranteeing a leak-free experience thanks to their secure fit and advanced design. Compatible with a wide range of e-liquids, these pods are perfect for those who appreciate the nuances of vaping and are looking for a reliable, flavourful experience. Whether you're at home or on the go, the Aspire Flexus Pro Replacement Pods are a must-have accessory for your Flexus Pro kit, providing versatility, reliability, and quality with every puff. These pods are best used with 50/50 , Nic Salt or High PG E-Liquids Please note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.6ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6ohm",
+      "sku": "1130340",
+      "price": 3.49
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1130341",
+      "price": 3.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__aspire-flexus-pro-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-pro-replacement-pods-1.0ohm-2ml-2pk_1.jpg?v=1729058908",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-flexus-pro-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-pro-replacement-pods-0.6ohm-2ml-2pk_1.jpg?v=1729058908",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__aspire-flexus-pro-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/aspire-flexus-pro-replacement-pods-1.0ohm-2ml-2pk.jpg?v=1729058908",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

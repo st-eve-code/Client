@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639844806980",
+  "slug": "uwell-caliburn-explorer-replacement-pods",
+  "title": "Uwell Caliburn Explorer Replacement Pod - 2ml",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-explorer-replacement-pods",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 2.49,
+    "max": 2.49,
+    "currency": "GBP"
+  },
+  "description": "These 2ml empty replacement pods for the Uwell Caliburn Explorer Kit aren't your average pods. They come with a dual side-refill mechanism , offering an opportunity for unparalleled flavour exploration. Sold in packs of 2, these pods give you the freedom to mix and match e-liquids, intensifying your vaping experience. Designed to perfectly fit the Uwell Caliburn Explorer Kit, these replacement pods effortlessly click into place, ensuring a secure connection every time. With compatibility for both Caliburn G and G2 coils , you can truly make this device your own. Taking advantage of the Explorer's split-pod design, each replacement pod is divided into two chambers . This allows you to fill each side with a different flavour and activate them individually or simultaneously, thanks to the kit's unique \"four-leaf clover\" button control. Enjoying two different Uwell Caliburn G or G2 coils alternately or simultaneously is no longer a pipe dream but a reality. Whether you’re looking to maximise power output or create your own unique blend of flavours, these replacement pods have got you covered. Ideal for MTL and RDTL vaping, they're the perfect companions for your Caliburn Explorer Kit.",
+  "tags": [
+    "CC DC List",
+    "Delisted",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1127472",
+      "price": 2.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-explorer-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-explorer-replacement-pod-2ml-2pack.jpg?v=1729056238",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.399Z"
+}

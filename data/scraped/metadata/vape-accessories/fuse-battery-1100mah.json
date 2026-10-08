@@ -1,0 +1,83 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639288570180",
+  "slug": "fuse-battery-1100mah",
+  "title": "Vapouriz Premium FUSE Battery 1100mAh",
+  "url": "https://www.vapestore.co.uk/products/fuse-battery-1100mah",
+  "brand": "Vapouriz Premium",
+  "productType": "Battery",
+  "price": {
+    "min": 14.99,
+    "max": 14.99,
+    "currency": "GBP"
+  },
+  "description": "The VAPOURIZ FUSE battery brings reliable power to your e-cig setup without sacrificing the sleek, slim profile of the classic electronic cigarette. Available in a huge range of colours, you can create a high-performance setup that reflects your unique sense of style. Update: When using this charger the green light on the charger will not turn off when the battery on the device is fully charged, The green light on the device will turn off to indicate that the battery is fully charged and is ready to be disconnected.",
+  "tags": [
+    "Battery-included",
+    "compatible-with-FS-DC-CLR"
+  ],
+  "options": [
+    {
+      "name": "Please Choose Colour",
+      "position": 1,
+      "values": [
+        "Black",
+        "Rainbow",
+        "Chrome"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Black",
+      "sku": "671271",
+      "price": 14.99
+    },
+    {
+      "title": "Rainbow",
+      "sku": "671264",
+      "price": 14.99
+    },
+    {
+      "title": "Chrome",
+      "sku": "671288",
+      "price": 14.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fuse-battery-1100mah__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1467632791_5417_2.jpg?v=1729033136",
+      "position": 1,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fuse-battery-1100mah__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1470754582_7721.jpg?v=1729033136",
+      "position": 2,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fuse-battery-1100mah__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1470754561_5531.jpg?v=1729033136",
+      "position": 3,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__fuse-battery-1100mah__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/1470754617_0738.jpg?v=1729033136",
+      "position": 4,
+      "width": 600,
+      "height": 600,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.063Z"
+}

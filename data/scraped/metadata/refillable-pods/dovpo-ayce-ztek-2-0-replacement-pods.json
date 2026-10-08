@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "14902131425661",
+  "slug": "dovpo-ayce-ztek-2-0-replacement-pods",
+  "title": "Dovpo Ayce Ztek 2.0 Replacement Pods",
+  "url": "https://www.vapestore.co.uk/products/dovpo-ayce-ztek-2-0-replacement-pods",
+  "brand": "Dovpo",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 6.99,
+    "max": 6.99,
+    "currency": "GBP"
+  },
+  "description": "The Dovpo Zytek 2.0 Replacement Pods are designed to deliver exceptional flavour and performance for vapers using the Dovpo Ayce Mini 2 and Ayce Lite pod kits. Featuring advanced Zytek 2.0 mesh coil technology, these pods are engineered for both mouth-to-lung (MTL) and restricted direct-to-lung (RDL) vaping styles, ensuring a versatile and satisfying experience. Available in three resistances—0.4ohm, 0.6ohm, and 0.8ohm—each pod is optimised for a unique vaping experience. The 0.4ohm pods provide thicker vapour and a warmer vape, ideal for high-VG e-liquids and powerful draws. The 0.6ohm pods offer a perfect balance of flavour and vapour production, making them ideal for everyday use. The 0.8ohm pods focus on delivering smooth, cooler draws with enhanced flavour clarity, perfect for nicotine salts and 50/50 e-liquids. Each pod is equipped with a 2ml e-liquid capacity and a convenient top-fill design, making refills quick and mess-free. Designed to integrate seamlessly with the Dovpo Ayce devices, these pods offer a hassle-free and leak-resistant vaping experience. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "MTL/RDL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.4ohm",
+        "0.6ohm",
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.4ohm",
+      "sku": "1137572",
+      "price": 6.99
+    },
+    {
+      "title": "0.6ohm",
+      "sku": "1137573",
+      "price": 6.99
+    },
+    {
+      "title": "0.8ohm",
+      "sku": "1137574",
+      "price": 6.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__dovpo-ayce-ztek-2-0-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ace-mini-2-0.4ohm_8053c499-913a-4dbd-af87-bd1c9e100d9e.jpg?v=1734948229",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dovpo-ayce-ztek-2-0-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ace-mini-2-2ml-0.6_9d171128-1522-45ab-899e-7d1295566016.jpg?v=1734948240",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__dovpo-ayce-ztek-2-0-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ace-mini-2-2ml-0.8_6dc94dfb-2754-4f06-b99e-bee0f004fd59.jpg?v=1734948253",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.396Z"
+}

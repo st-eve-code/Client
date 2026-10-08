@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15394872885629",
+  "slug": "fumi-tangy-apple-nicotine-pouches",
+  "title": "FUMI Tangy Apple Nicotine Pouches - 8mg per Pouch",
+  "url": "https://www.vapestore.co.uk/products/fumi-tangy-apple-nicotine-pouches",
+  "brand": "FUMI",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.49,
+    "max": 6.49,
+    "currency": "GBP"
+  },
+  "description": "FUMi Tangy Apple Strong Nicotine Pouches offer a balanced Apple profile with both sweetness and bite. Red and green Apple notes combine for a crisp, refreshing flavour that feels clean and easy to enjoy all day. Each slim, all-white pouch fits discreetly under the lip and delivers a gradual release of 8mg nicotine alongside its fruit flavour for up to 30 minutes. With no smoke, vapour or odour, these pouches are ideal for discreet, on-the-go use. Each can contains 20 pouches made from soft plant-based fibres and manufactured in Sweden by Helix AB. Nicotine Range: Strong - 8mg this is suited for more experienced users. How to Use Nicotine Pouches: Please Note: DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "8mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Strong (8mg per pouch)"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Strong (8mg per pouch)",
+      "sku": "1143783",
+      "price": 6.49
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__fumi-tangy-apple-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/FUMi-FRONT-Tangy_Apple.jpg?v=1753259521",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.906Z"
+}

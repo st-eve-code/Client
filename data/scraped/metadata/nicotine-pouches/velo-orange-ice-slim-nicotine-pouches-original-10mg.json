@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15554986246525",
+  "slug": "velo-orange-ice-slim-nicotine-pouches-original-10mg",
+  "title": "Velo Orange Ice Slim Nicotine Pouches - Original (10mg)",
+  "url": "https://www.vapestore.co.uk/products/velo-orange-ice-slim-nicotine-pouches-original-10mg",
+  "brand": "Velo",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Velo Slim Orange Ice Nicotine Pouches pair the sharp, tangy taste of Orange with a brisk cooling note, creating a flavour that tastes citrusy, bright and refreshing. The balance of fruit and menthol makes Orange Ice a lively option. Each can contains 20 slim pouches made from plant-based fibres, designed for a discreet and comfortable fit under the lip. Nicotine is released steadily without smoke, vapour or odour, making them an easy option for use throughout the day. Produced in Europe, Velo nicotine pouches are available in a wide range of flavours and strengths. Orange Ice is presented here in a Medium 10mg strength, offering a more potent release for users who prefer a stronger dose. Nicotine Ranges: Mellow - 4mg to 6mg this is best for new users. Original - 6mg to 11mg this is best for regular users. Intense - 8mg to 17mg this is suited for more experienced users How to Use: Place one pouch under your upper lip and leave it in place for 20–40 minutes while the flavour and nicotine release gradually. When finished, remove the pouch and dispose of it responsibly. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "10mg",
+    "nordicminiofferfruit"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "Original 10mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Original 10mg",
+      "sku": "1148652",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__velo-orange-ice-slim-nicotine-pouches-original-10mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Velo-Orange-Ice.jpg?v=1758641791",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.904Z"
+}

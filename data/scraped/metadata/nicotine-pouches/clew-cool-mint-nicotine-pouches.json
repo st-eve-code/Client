@@ -1,0 +1,82 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15297867481469",
+  "slug": "clew-cool-mint-nicotine-pouches",
+  "title": "Clew Cool Mint Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/clew-cool-mint-nicotine-pouches",
+  "brand": "Clew",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Clew Cool Mint Nicotine Pouches deliver a clean and refreshing Mint flavour with a crisp edge. These slim-format pouches are designed for discreet use under the lip and provide a tobacco-free way to enjoy nicotine wherever you are. Made in the USA using high-purity nicotine and food-grade ingredients, each can contains 20 slim pouches. Choose from 5mg, 10mg, 15mg or 20mg nicotine strengths depending on your needs, whether you’re new to pouches or looking for something more potent. To use, simply place a pouch under your upper lip and allow the nicotine to release steadily over 30 to 45 minutes. No smoke, no vapour—just a clean and simple alternative to traditional nicotine products. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "5mg to 20mg",
+    "nordicminioffermint",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "5mg / Pouch",
+        "10mg / Pouch",
+        "15mg / Pouch",
+        "20mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "5mg / Pouch",
+      "sku": "1142885",
+      "price": 3.95
+    },
+    {
+      "title": "10mg / Pouch",
+      "sku": "1142892",
+      "price": 3.95
+    },
+    {
+      "title": "15mg / Pouch",
+      "sku": "1142899",
+      "price": 3.95
+    },
+    {
+      "title": "20mg / Pouch",
+      "sku": "1142906",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__clew-cool-mint-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/CoolMint10mg_Clew-Nicotine-Pouches.jpg?v=1750761652",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-cool-mint-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/CoolMint20mg_Clew-Nicotine-Pouches.jpg?v=1750761662",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__clew-cool-mint-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ClewNicotinePouches_ad098e02-9523-42ba-b83e-881ba1a2f847.jpg?v=1750761765",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.916Z"
+}

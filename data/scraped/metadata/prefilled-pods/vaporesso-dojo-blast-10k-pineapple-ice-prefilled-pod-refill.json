@@ -1,0 +1,65 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15142906888573",
+  "slug": "vaporesso-dojo-blast-10k-pineapple-ice-prefilled-pod-refill",
+  "title": "Vaporesso DOJO Blast Pod & Refill For 10K or 30K Device – Pineapple Ice",
+  "url": "https://www.vapestore.co.uk/products/vaporesso-dojo-blast-10k-pineapple-ice-prefilled-pod-refill",
+  "brand": "Vaporesso",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: Compatible with Vaporesso Dojo Blast 10K & 30K Kit Only Refresh your Vaporesso Dojo Blast 10K vape kit with the Pineapple Ice Prefilled Pod & Refill Pack. This tropical refill pack includes a 2ml prefilled pod and an 8ml refill container, both filled with 20mg nicotine salt e-liquid in a sweet and cooling tropical fruit blend. Pineapple Ice delivers the bold, tropical flavour of juicy Pineapple followed by a clean Menthol finish that both sweetens and cools with each puff. Bright, fruity and refreshing, this sunny flavour is ideal for vapers who enjoy exotic fruit profiles with an icy twist. Each pod and refill pack is designed exclusively for the Dojo Blast 10K device and offers up to 10,000 puffs (device total), powered by Vaporesso's dual mesh coil and COREX 2.0 technology. The transparent pod design makes it easy to track your e-liquid levels, while the Smart Liq-Cycle system ensures steady coil saturation for consistently excellent flavour. Explore all 16 flavours from the Vaporesso Dojo Blast 10K collection here at Vapestore.",
+  "tags": [
+    "2ml + 8ml",
+    "Freedojokit",
+    "Freedojopod",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "10mg",
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "10mg",
+      "sku": "1157161",
+      "price": 4.95
+    },
+    {
+      "title": "20mg",
+      "sku": "1140915",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__vaporesso-dojo-blast-10k-pineapple-ice-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Vaporesso-Dojo-Blast-10k-Prefilled-pods-PINEAPPLE-ICE.jpg?v=1744277551",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__vaporesso-dojo-blast-10k-pineapple-ice-prefilled-pod-refill__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pineapple-Ice-Vaporesso-Dojo-Blast-10mg-Pod.jpg?v=1783605436",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.302Z"
+}

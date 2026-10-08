@@ -1,0 +1,74 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15241417392509",
+  "slug": "nordic-spirit-frosty-mint-nic-pouches",
+  "title": "Nordic Spirit Frosty Mint Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/nordic-spirit-frosty-mint-nic-pouches",
+  "brand": "Nordic Spirit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 6.5,
+    "max": 6.5,
+    "currency": "GBP"
+  },
+  "description": "Nordic Spirit Frosty Mint Nicotine Pouches deliver a crisp, cooling Mint flavour with a bright, sharp edge that’s both clean and satisfying. Striking a confident balance between intensity and smoothness, Frosty Mint is an ideal choice for those who prefer a more pronounced mint profile from their nicotine pouch. Each pouch is made from soft, plant-based fibres and fits discreetly under the lip, offering a slow and steady nicotine release without any smoke, vapour or odour. Available in Strong (9mg), Extra Strong (11mg) and Max (17mg) variants, Frosty Mint provides a brisk, fuss-free nicotine experience—perfect for use throughout the day, wherever you are. Nicotine Ranges Strong (9mg/Pouch) - this is best for regular users. Extra Strong (11mg/Pouch) - this is suited for more experienced users Max (17mg/Pouch) - this is suited for more experienced users How to Use: Place one Nordic Spirit pouch under your upper lip and allow the nicotine to release over time for a steady, satisfying experience. The pouch is designed to dissolve slowly for up to 40 minutes, providing an effective nicotine release without smoke or odour. Dispose of the pouch responsibly after use. Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "9mg to 17mg"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "11mg / Pouch",
+        "17mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1142568",
+      "price": 6.5
+    },
+    {
+      "title": "11mg / Pouch",
+      "sku": "1142556",
+      "price": 6.5
+    },
+    {
+      "title": "17mg / Pouch",
+      "sku": "1149978",
+      "price": 6.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__nordic-spirit-frosty-mint-nic-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Frosty-Mint-Strong-Nordic-Spirit-Nicotine-Pouches_14591272-55bd-4052-a46c-d2c09c398bd8.jpg?v=1773743572",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-frosty-mint-nic-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Frosty-Mint-X-Strong-Nordic-Spirit-Nicotine-Pouches.jpg?v=1773743572",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__nordic-spirit-frosty-mint-nic-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/frosty-mint-max-Nordic-Spirit-Nic-Pouch.jpg?v=1773743572",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.896Z"
+}

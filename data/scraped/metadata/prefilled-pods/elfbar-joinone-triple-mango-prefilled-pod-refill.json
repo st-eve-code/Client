@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15658269770109",
+  "slug": "elfbar-joinone-triple-mango-prefilled-pod-refill",
+  "title": "Elf Bar JoinOne Triple Mango Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/elfbar-joinone-triple-mango-prefilled-pod-refill",
+  "brand": "Elf Bar",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.95,
+    "max": 7.95,
+    "currency": "GBP"
+  },
+  "description": "Triple Mango focuses on Mango in all its sun-ripened character—sweet, juicy and full of tropical depth. The flavour opens with bright Mango freshness before settling into a richer, more rounded fruit note that stays satisfying. Each JoinOne Prefilled Pod + Refill arrives ready to use with 2ml pod and 10ml refill container of 20mg Nic Salt e-liquid and an integrated dual-mesh coil for consistent flavour delivery. Simply assemble then slide into the Mini Battery and snap it onto the larger battery (the one with the HD Screen) adjust the kit’s airflow to suit a tighter or looser mouth-to-lung (MTL) draw. When the pod is empty, simply replace it with a fresh one — no refilling or coil changes required. This pod keeps maintenance simple while offering clean, flavour in a compact format.",
+  "tags": [
+    "2ml + 10ml",
+    "ELFBAR JoinOne15",
+    "Mango",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148792",
+      "price": 7.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elfbar-joinone-triple-mango-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Triple-Mango-ELFBAR-JoinOne15-prefilled-Pod.jpg?v=1762765470",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.361Z"
+}

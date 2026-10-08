@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "vape-accessories",
+  "id": "9639785857348",
+  "slug": "sinowatt-25sp-20a-18650-batteries-single",
+  "title": "Sinowatt 25SP 18650 Single Battery 2500mAh",
+  "url": "https://www.vapestore.co.uk/products/sinowatt-25sp-20a-18650-batteries-single",
+  "brand": "Vapestore",
+  "productType": "Battery",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "For vape devices that require an external battery, this 18650 battery from Sinowatt will ensure they can go the distance thanks to its long-lasting 2500mAh capacity. The battery’s 20A max continuous discharge makes it particularly suitable for mid to low-range wattage vaping. How to use: Insert the 18650 20A Sinowatt battery into your vape kit or mod. Ensure that the battery + and – terminals match the mod’s terminal polarity. Battery Safety Don’t allow the battery level indicator to drop too low. Check on the battery regularly as it charges (we recommend recharging in an external charger that is compatible with this size of battery). Never overcharge. Dispose of old batteries with care – never burn. To avoid a dangerous short-circuit when transporting the battery in a bag or pocket, always use the supplied packaging or a special insulated container. Additional Information Only use within manufacturers",
+  "tags": [
+    "Battery-included",
+    "Delisted"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1123629",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__sinowatt-25sp-20a-18650-batteries-single__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/sinowatt25sp-18650-2500mah-battery.jpg?v=1729052211",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:27.061Z"
+}

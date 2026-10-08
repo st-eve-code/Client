@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15025011294589",
+  "slug": "ske-crystal-pro-pineapple-ice-prefilled-vape-pods-20mg-2pk",
+  "title": "SKE Crystal Pro Pineapple Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/ske-crystal-pro-pineapple-ice-prefilled-vape-pods-20mg-2pk",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Please Note: These pods are not compatible with the SKE BAR device. Designed for use with the SKE Crystal Pro 600 Prefilled Pod Kit, these SKE Crystal Pro 600 Prefilled Pods provide a simple and efficient way to enjoy clean, refreshing flavour without the waste of single-use disposables. Each prefilled pod delivers up to 600 puffs, depending on individual usage, and contains 2ml of 20mg nic salt e-liquid, ensuring a smooth, satisfying mouth-to-lung (MTL) vaping experience with rapid nicotine relief. Pineapple Ice captures the bright and juicy flavour of ripe tropical pineapple, bursting with natural sweetness and a tangy citrus edge. A crisp, cooling exhale rounds off the flavour, enhancing its refreshing and uplifting character. Swapping pods is effortless—simply remove the empty pod and insert a fresh one. Whether you're looking for a more cost-effective alternative to disposables or a convenient way to continue enjoying your favourite SKE Crystal Pro 600 flavours, these prefilled pods provide a mess-free and satisfying solution.",
+  "tags": [
+    "2 x 2ml",
+    "Crystal Pro",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1138967",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-crystal-pro-pineapple-ice-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/SKE-Crystal-Pro-Prefilled-pods-Pineapple-Ice.jpg?v=1739974030",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.301Z"
+}

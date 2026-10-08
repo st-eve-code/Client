@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "15706130645373",
+  "slug": "imp-jar-select-10k-replacement-pods-2ml",
+  "title": "Imp Jar Select 10k Replacement Pods 2ml - 0.8ohm",
+  "url": "https://www.vapestore.co.uk/products/imp-jar-select-10k-replacement-pods-2ml",
+  "brand": "Imp Jar",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 4.5,
+    "max": 4.5,
+    "currency": "GBP"
+  },
+  "description": "Keep your Imp Jar Select Kit performing at its best with this pack of two official replacement pods. These pods are specifically engineered for the Imp Jar Select device, ensuring a perfect fit and optimal performance. Each pod features a built-in 0.8ohm mesh coil, designed to deliver a smooth and flavourful mouth-to-lung (MTL) experience. The mesh construction heats e-liquid rapidly and evenly, maximising the flavour intensity of Nic Salts and 50/50 e-liquids. Refilling is quick and clean thanks to the user-friendly top-fill system. Simply snap off the mouthpiece to access the fill port—there’s no need to remove the pod from the device. The transparent 2ml pod design allows you to easily monitor your e-liquid levels to prevent dry hits. Pod Details MTL 0.8ohm Select 10k Pod, We recommend using 50/50 , Nic Salt or High PG E-Liquid Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Imp Jar Select 10k",
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1150201",
+      "price": 4.5
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__imp-jar-select-10k-replacement-pods-2ml__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Imp-Jar-Select-Pod.jpg?v=1764928872",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.401Z"
+}

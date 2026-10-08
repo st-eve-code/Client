@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15069330964861",
+  "slug": "lost-mary-bm6000-blackberry-ice-prefilled-vape-pods-20mg",
+  "title": "Lost Mary BM6000 Blackberry Ice Prefilled Vape Pods - 20mg",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm6000-blackberry-ice-prefilled-vape-pods-20mg",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Blackberry Ice delivers the deep, juicy taste of ripe Blackberries with a cool, refreshing finish. The jammy berry flavour carries a subtle tartness that blends seamlessly with a crisp icy exhale, creating a smooth and well-balanced vape. Designed for use with the Lost Mary BM6000 V2 Prefilled Pod Kit , this pack includes a replaceable 2ml prefilled pod and a 10ml refill container, allowing you to refresh your device with ease. This system extends the lifespan of your device, providing up to 6000 puffs while offering the flexibility to switch flavours at any time. How to Use Your Replacement Pod & Refill Pack: 1. Remove the prefilled pod and refill container from the packaging. 2. Remove any safety stickers from the components. 3. Insert the pod securely into the device. 4. Attach the refill container to the side of the device. 5. Turn the device upside down to transfer e-liquid from the refill container to the pod. 6. Allow a few minutes for the coil to saturate before vaping. When the pod and refill container are empty, simply replace them with a new set to continue enjoying your Lost Mary BM6000 V2 device. Explore every taste with BM6000 refill pods – full range available.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1139142",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm6000-blackberry-ice-prefilled-vape-pods-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lost-Mary-BM6000-V2-Prefilled-pods-Blackberry-Ice-min.jpg?v=1741781832",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.381Z"
+}

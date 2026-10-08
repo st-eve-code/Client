@@ -1,0 +1,53 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15673003737469",
+  "slug": "pouch-nurdz-double-mint-nicotine-pouches",
+  "title": "Pouch Nurdz Double Mint Nicotine Pouches",
+  "url": "https://www.vapestore.co.uk/products/pouch-nurdz-double-mint-nicotine-pouches",
+  "brand": "Pouch Nurdz",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Pouch Nurdz Double Mint nicotine pouches taste cool and smooth, combining two complementary mint tones for a layered, lasting freshness. Each slim, all-white pouch fits comfortably under the lip and releases nicotine gradually without smoke, vapour or noticeable odour. Available in 6mg (Mild) and 12mg (Medium), each can contains 20 pouches designed for discreet, everyday use. Developed in Los Angeles by Cloud Nurdz’s sister brand, Pouch Nurdz combines American flavour expertise with a clean, convenient pouch format for UK users seeking bold taste and reliable quality. Nicotine Ranges: Mild - 6mg this is best for new users. Medium -12mg this is best for regular users. How to Use: Place one pouch between your upper lip and gum. Do not chew or swallow; let it rest in place. Typical use is around 20–40 minutes before removing and disposing of it responsibly. Please Note: Do not chew, suck or swallow the pouches.",
+  "tags": [
+    "6mg to 12mg",
+    "nordicminioffermint"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg",
+        "12mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg",
+      "sku": "1149555",
+      "price": 4.95
+    },
+    {
+      "title": "12mg",
+      "sku": "1149548",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pouch-nurdz-double-mint-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Double-Mint-Pouch-Nurdz-Nicotine-Pouches-6MG.jpg?v=1763379794",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.918Z"
+}

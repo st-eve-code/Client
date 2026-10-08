@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15343309128061",
+  "slug": "helwit-blueberry-nicotine-pouches-9mg",
+  "title": "Helwit Blueberry Nicotine Pouches 9mg / Pouch",
+  "url": "https://www.vapestore.co.uk/products/helwit-blueberry-nicotine-pouches-9mg",
+  "brand": "Helwit",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "Helwit Blueberry Nicotine Pouches deliver a mellow berry flavour that’s sweet, slightly tangy, and incredibly easy to enjoy. The soft fruitiness is well-rounded, with a gentle depth that avoids becoming too sharp or artificial. It’s an ideal pick for users who prefer subtler flavour profiles with just enough sweetness to keep things interesting. Each slim pouch is made from soft, plant-based materials and contains 9mg of nicotine, providing a satisfying mid-strong nicotine experience. With no tobacco, smoke or vapour, Helwit Blueberry offers an effortless way to stay topped up throughout the day, wherever you are. How to Use: 1 Place a pouch between your upper lip and gum for a consistent nicotine release for up to 60min 2 Place the used pouch in the designated top compartment of the pack. 3 Dispose of the pouch. PLEASE DO NOT CHEW OR SWALLOW POUCH",
+  "tags": [
+    "9mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg/pouch",
+      "sku": "1143090",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__helwit-blueberry-nicotine-pouches-9mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Blueberry-HelwitNicotinePouch.jpg?v=1751555984",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.909Z"
+}

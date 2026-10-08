@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15522431959421",
+  "slug": "hula-7000-strawberry-cherry-raspberry-prefilled-vape-pod-refill",
+  "title": "Hula 7000 Strawberry Cherry Raspberry Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hula-7000-strawberry-cherry-raspberry-prefilled-vape-pod-refill",
+  "brand": "Hula",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Hula 7000 Strawberry Cherry Raspberry Prefilled pod brings three berries together in one lively blend. Sweet, juicy Strawberry lays the foundation, while rich Cherry adds depth and tangy Raspberry delivers a sharper, brighter edge. The result is a layered fruit vape that’s both familiar and distinctive. Made for the Hula Prefilled Pod System Kit, these replacement pods are designed for quick, mess-free flavour swaps. Each one contains a 2ml draw-activated pod, automatically replenished by an integrated 10ml refill reservoir, so there’s no need for separate bottles or coil changes. Altogether you’ll enjoy 12ml of 20mg Nic Salt, giving up to 7000 puffs (approx.) with the support of dual mesh coil technology for steady flavour and vapour. Simply insert the pod into your Hula device and enjoy a balanced berry blend with ease. Available in 20 satisfying flavours, these replacement pods are perfect for keeping your vape fresh and flavourful.",
+  "tags": [
+    "2ml + 10ml",
+    "Hula 7000",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1148414",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hula-7000-strawberry-cherry-raspberry-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Hula-StrawberryCherryRaspberry-Pod.jpg?v=1757589863",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.342Z"
+}

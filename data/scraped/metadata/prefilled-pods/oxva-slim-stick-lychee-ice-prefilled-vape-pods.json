@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15501925187965",
+  "slug": "oxva-slim-stick-lychee-ice-prefilled-vape-pods",
+  "title": "Oxva Slim Stick Lychee Ice Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/oxva-slim-stick-lychee-ice-prefilled-vape-pods",
+  "brand": "Oxva",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "These Lychee Ice Prefilled Pods are designed for the Oxva Slim Stick Prefilled Pod Kit, offering a distinctive fruit flavour with a cool edge. Each pod is filled with 2ml of 20mg nicotine salt e-liquid, delivering up to 600 puffs and a smooth throat hit. The flavour combines the naturally sweet, slightly floral taste of ripe Lychee with an icy lift, creating a vape that’s both exotic and refreshing. Built-in coils ensure consistent vapour and flavour performance throughout, while the closed pod design makes replacements quick, clean, and easy. Supplied in a pack of two, these pods are perfect for Slim Stick users seeking a smooth mouth-to-lung draw paired with a unique fruit-and-ice blend.",
+  "tags": [
+    "2 x 2ml",
+    "OXVA Slimstick",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144071",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-slim-stick-lychee-ice-prefilled-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-pods---lychee-ice.jpg?v=1757511998",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.350Z"
+}

@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15649501708669",
+  "slug": "hayati-pro-max-plus-summer-dream-prefilled-pod-refill",
+  "title": "Hayati Pro Max Plus Summer Dream Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/hayati-pro-max-plus-summer-dream-prefilled-pod-refill",
+  "brand": "Hayati",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 5.95,
+    "max": 5.95,
+    "currency": "GBP"
+  },
+  "description": "Summer Dream delivers a creamy, tropical fruit blend of Pineapple, Mango, Coconut and Papaya for a smooth, exotic vape. It’s rich yet refreshing, with a soft, fruity sweetness and mellow finish that suits all-day use. Each Hayati Pro Max + Prefilled Pod arrives prefilled with 2ml of e-liquid and an attached 10ml refill reservoir, totalling 12ml of 20mg Nic Salt e-liquid. No manual refilling or coil changes needed—just attach it to the Hayati Pro Max + Prefilled Pod Kit and vape. Dual mesh coil construction ensures lasting flavour clarity for up to 6000 puffs (approx.). Discover more flavours with our full selection of Hayati Pro Max Plus Pods .",
+  "tags": [
+    "2ml + 10ml",
+    "Mango",
+    "Pineapple",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1149118",
+      "price": 5.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__hayati-pro-max-plus-summer-dream-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Summer-Dream_Hayati-Pro-Max_-Pods-min.jpg?v=1762252923",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.363Z"
+}

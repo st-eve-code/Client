@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15342711112061",
+  "slug": "pixl-8000-blue-razz-lemonade-prefilled-pod-refill",
+  "title": "PIXL 8000 Blue Razz Lemonade Prefilled Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/pixl-8000-blue-razz-lemonade-prefilled-pod-refill",
+  "brand": "PIXL",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "Blue Razz Lemonade from PIXL 8000 delivers a sparkling mix of fizzy Lemonade and tangy Blue Raspberry, creating a punchy yet playful vape. It’s sweet, tart, and gently effervescent — perfect for fans of fruit blends with a citrus twist. Prefilled with 2ml of 20mg nicotine salt e-liquid and paired with a 10ml refill reservoir, this pod is designed for use with the PIXL 8000 Prefilled Pod Vape Kit, delivering up to 8000 puffs per setup. Mesh coil technology ensures smooth, flavour-rich vapour from the first puff to the last. The draw-activated design supports MTL (mouth-to-lung) vaping with minimal setup. Just click the pod into your PIXL 8000 device, activate Boost Mode for denser vapour, and enjoy. Blue Razz Lemonade is part of the wide PIXL 8000 range built for all-day satisfaction.",
+  "tags": [
+    "2ml + 10ml",
+    "Blue Razz Lemonade",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1143526",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pixl-8000-blue-razz-lemonade-prefilled-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/p8k-pod-blue-razz-lemonade-800x800.jpg?v=1751547174",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.347Z"
+}

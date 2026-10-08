@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15179074797949",
+  "slug": "pyne-pod-2in1-mixed-berries-prefilled-vape-pods-pod-salt-edition",
+  "title": "Pyne Pod 2in1 Mixed Berries Ice Prefilled Vape Pods - Pod Salt Edition",
+  "url": "https://www.vapestore.co.uk/products/pyne-pod-2in1-mixed-berries-prefilled-vape-pods-pod-salt-edition",
+  "brand": "Pyne Pod",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 3.95,
+    "max": 3.95,
+    "currency": "GBP"
+  },
+  "description": "This Mixed Berries Ice Pod Pack for the Pyne Pod 2-in-1 Kit blends a medley of juicy berries with a crisp cooling finish. The flavour opens with sweet and tangy notes from Strawberries, Raspberries, and Blueberries, layered to create a bright, fruity burst. A clean Ice element adds a brisk exhale that balances the sweetness with a refreshing chill. Each pod contains 2ml of 20mg nicotine salt e-liquid and is made for use with the Pyne Pod 2-in-1 device. The pods lock in magnetically and allow quick flavour changes via the twist-to-switch mouthpiece. With two pods per pack, Mixed Berries Ice is a dynamic all-day vape that works well alone or paired with tropical, mint, or citrus profiles.",
+  "tags": [
+    "2 x 2ml",
+    "Prefilled-Export",
+    "prime-1020",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1141649",
+      "price": 3.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__pyne-pod-2in1-mixed-berries-prefilled-vape-pods-pod-salt-edition__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/pod-salt-pyne-pods-mixed-berries-ice.jpg?v=1745575529",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

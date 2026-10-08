@@ -1,0 +1,75 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15322642121085",
+  "slug": "elf-fantasy-orange-nicotine-pouches",
+  "title": "ELF Fantasy Orange Nicotine pouches",
+  "url": "https://www.vapestore.co.uk/products/elf-fantasy-orange-nicotine-pouches",
+  "brand": "Elf Bar",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "ELF Fantasy Orange Nicotine Pouches offer a zesty citrus twist in a clean, discreet format. Each pouch delivers the sweet and tangy flavour of Orange without smoke, vapour or odour, making it an ideal choice for users who enjoy fruit-inspired pouches. Designed for comfort and convenience, these slim pouches sit under the upper lip and release nicotine gradually over 30 to 45 minutes. They’re made from food-grade ingredients and plant-based fibres, with no tobacco content. Each can contains 20 pouches and includes a catch lid for used pouch storage. Available in 6mg, 12mg and 20mg strengths to suit your needs. How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "6mg/pouch",
+        "12mg/pouch",
+        "20mg/pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "6mg/pouch",
+      "sku": "1142919",
+      "price": 3.99
+    },
+    {
+      "title": "12mg/pouch",
+      "sku": "1142925",
+      "price": 3.99
+    },
+    {
+      "title": "20mg/pouch",
+      "sku": "1142931",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__elf-fantasy-orange-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fantasy-Orange-_-6mg-Elf-Nicotine-Pouch.jpg?v=1750777267",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-fantasy-orange-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fantasy-Orange-_-12mg-Elf-Nicotine-Pouch.jpg?v=1750777289",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__elf-fantasy-orange-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Fantasy-Orange-_-20mg-Elf-Nicotine-Pouch.jpg?v=1750777314",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.921Z"
+}

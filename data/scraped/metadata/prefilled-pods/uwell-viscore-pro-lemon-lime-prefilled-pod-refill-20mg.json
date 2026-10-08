@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15505721786749",
+  "slug": "uwell-viscore-pro-lemon-lime-prefilled-pod-refill-20mg",
+  "title": "Uwell Viscore Pro+ Lemon & Lime Prefilled Pod & Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/uwell-viscore-pro-lemon-lime-prefilled-pod-refill-20mg",
+  "brand": "Uwell",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.99,
+    "max": 4.99,
+    "currency": "GBP"
+  },
+  "description": "The Lemon & Lime Uwell Viscore Pro+ Prefilled Pod serves up a zesty citrus blend that’s bright and uplifting. Sharp Lemon meets tangy Lime for a flavour that’s punchy yet smooth, perfect for vapers who enjoy a clean and fruity profile. Each pack includes one 2ml Prefilled Pod prefilled with 20mg nicotine salt e-liquid and one 10ml Refill Pod that automatically tops up the pod as you vape. Together, they deliver up to 20,000 puffs depending on usage, with no need for coil replacements or messy refilling. Equipped with a 0.8ohm mesh coil, the pod produces smooth vapour and well-defined flavour every time. Designed exclusively for the Uwell Viscore Pro+ Prefilled Pod Kit, installation is quick and mess-free: simply click the pod and refill into place and you’re ready to go.",
+  "tags": [
+    "2ml + 10ml",
+    "Lemon and Lime",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148051",
+      "price": 4.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-viscore-pro-lemon-lime-prefilled-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Lemon-_-Lime-Viscore-Pro-_-Prefilled-pods.jpg?v=1756993299",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.369Z"
+}

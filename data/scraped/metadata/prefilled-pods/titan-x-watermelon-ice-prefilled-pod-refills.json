@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15221948285309",
+  "slug": "titan-x-watermelon-ice-prefilled-pod-refills",
+  "title": "Titan X Watermelon Ice Prefilled Pod + Refills",
+  "url": "https://www.vapestore.co.uk/products/titan-x-watermelon-ice-prefilled-pod-refills",
+  "brand": "Titan",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "The Titan X Refill Kit in Watermelon Ice is designed for use with the Titan X Prefilled Pod Vape Kit. This refill pack includes a 2ml prefilled mouthpiece pod and three 5ml flavour-matched auto-refill capsules, ensuring a seamless vaping experience with no messy refills required. Just click the pod and capsules into place on your Titan X device and you’re ready to go. The Watermelon Ice flavour delivers a fresh, delicately sweet Watermelon taste with a smooth, cooling Menthol finish. The juicy fruit notes are bright yet mellow, while the crisp menthol exhale provides a brisk, clean contrast for a refreshing mouth-to-lung (MTL) vape. Designed for ease and reliability, the Titan X Refill Kit features a pre-installed mesh coil for consistently vivid flavour and smooth vapour. Combined with the Titan X device’s intelligent auto-refill technology, this kit offers up to approximately 10,000 puffs per refill cycle (usage-dependent).",
+  "tags": [
+    "2ml + 15ml",
+    "Delisted",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "20mg"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "20mg",
+      "sku": "1140868",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__titan-x-watermelon-ice-prefilled-pod-refills__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/The-Titan-X-Refill-pods-watermelon-ice.jpg?v=1747046676",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.379Z"
+}

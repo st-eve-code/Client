@@ -1,0 +1,50 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15501815054717",
+  "slug": "oxva-slimstick-watermelon-prefilled-vape-pods",
+  "title": "Oxva Slim Stick Watermelon Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/oxva-slimstick-watermelon-prefilled-vape-pods",
+  "brand": "Oxva",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "These Watermelon Prefilled Pods are designed for use with the Oxva Slim Stick Prefilled Pod Kit, offering a simple, mess-free way to enjoy one of the most popular fruit flavours. Each pod arrives preloaded with 2ml of 20mg nicotine salt e-liquid, delivering a smooth throat hit and up to 600 puffs per pod depending on usage. The flavour captures the fresh, delicate sweetness of ripe Watermelon, with a juicy profile that feels light yet satisfying from the first draw to the last. Integrated coils inside each pod ensure reliable vapour and consistent flavour, while the sealed design makes replacements quick and fuss-free. With a smooth mouth-to-lung draw and a clean, fruity taste, these pods are supplied in a pack of two, ready to slot straight into your Slim Stick kit.",
+  "tags": [
+    "2 x 2ml",
+    "OXVA Slimstick",
+    "Prefilled-Export",
+    "prime-prefil",
+    "Watermelon"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1144067",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__oxva-slimstick-watermelon-prefilled-vape-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/oxva-slimstick-pods---watermelon.jpg?v=1757512113",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.366Z"
+}

@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15809610416509",
+  "slug": "snu-tropical-punch-nic-pouches-by-bar-juice",
+  "title": "SNU Tropical Punch Nic Pouches by Bar Juice",
+  "url": "https://www.vapestore.co.uk/products/snu-tropical-punch-nic-pouches-by-bar-juice",
+  "brand": "SNU",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "SNU Tropical Punch Nicotine Pouches bring a burst of exotic sunshine to your nicotine experience. Expertly blended by Bar Juice 5000, this flavour combines the juicy sweetness of mango, pineapple, and zesty citrus notes to create a vibrant and refreshing profile that stands out from standard mints. Designed for versatility, SNU Tropical Punch is available in 9mg (Low), 12mg (Medium), and 18mg (High) strengths. Whether you are new to pouches or a seasoned user, there is an option to suit your tolerance level. The pouches are tobacco-free, smoke-free, and vapour-free, offering a clean way to enjoy nicotine anywhere. The experience starts before you even open the pack, thanks to SNU's unique \"scented can\" innovation. Rub the lid to release the tropical aroma, previewing the fruity punch that awaits. Each can contains 20 slim, soft pouches designed for comfort and discretion. Nicotine Ranges: Low - 9mg this is best suited for new users Medium - 12mg this is suited for more experienced users High - 18mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "12mg to 18mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "12mg / Pouch",
+        "18mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1153458",
+      "price": 3.99
+    },
+    {
+      "title": "12mg / Pouch",
+      "sku": "1153455",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / Pouch",
+      "sku": "1153452",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__snu-tropical-punch-nic-pouches-by-bar-juice__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Tropical-Punch-18mg-SNU-Nicotine-Pouch.jpg?v=1771432785",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-tropical-punch-nic-pouches-by-bar-juice__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Tropical-Punch-12mg-SNU-Nicotine-Pouch.jpg?v=1771432882",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-tropical-punch-nic-pouches-by-bar-juice__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Tropical-Punch-9mg-SNU-Nicotine-Pouch.jpg?v=1771432924",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.901Z"
+}

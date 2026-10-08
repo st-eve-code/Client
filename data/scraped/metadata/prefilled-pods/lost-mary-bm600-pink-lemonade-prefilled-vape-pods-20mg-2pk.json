@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15552298385789",
+  "slug": "lost-mary-bm600-pink-lemonade-prefilled-vape-pods-20mg-2pk",
+  "title": "Lost Mary BM600 Pink Lemonade Prefilled Vape Pods 20mg - 2PK",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-bm600-pink-lemonade-prefilled-vape-pods-20mg-2pk",
+  "brand": "Lost Mary",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The Pink Lemonade Lost Mary BM600 Prefilled Pods combine tangy Lemonade with a subtle berry sweetness. The result is a fizzy, fruit-forward flavour that’s lively and uplifting. Each pack contains two 2ml pods prefilled with 20mg nicotine salt e-liquid, delivering up to 600 puffs per pod depending on use. With their smooth mouth-to-lung (MTL) draw, these pods provide a simple yet satisfying vaping experience. Made for the Lost Mary BM600 Prefilled Pod Kit, they install quickly and cleanly: click a pod into place and enjoy consistent fizz and fruit flavour.",
+  "tags": [
+    "2 x 2ml",
+    "Pink Lemonade",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148284",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-bm600-pink-lemonade-prefilled-vape-pods-20mg-2pk__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Pink-Lemonade-Lost-Mary-BM600-Prefilled-Pods.jpg?v=1758555385",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.366Z"
+}

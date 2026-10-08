@@ -1,0 +1,76 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "15809571848573",
+  "slug": "snu-cherry-cola-nic-pouches-by-bar-juice",
+  "title": "SNU Cherry Cola Nic Pouches by Bar Juice",
+  "url": "https://www.vapestore.co.uk/products/snu-cherry-cola-nic-pouches-by-bar-juice",
+  "brand": "SNU",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "SNU Cherry Cola Nicotine Pouches deliver a vibrant and nostalgic flavour profile, blending the effervescent taste of classic cola with a sweet, ripe cherry finish. Produced by the renowned e-liquid innovators Bar Juice 5000, SNU brings a mastery of flavour science to the nicotine pouch market, ensuring a taste experience that is as satisfying as it is consistent. These pouches bridge the gap between traditional Swedish craftsmanship and modern vaping flavour profiles. Available in three distinct strengths—9mg (Low), 12mg (Medium), and 18mg (High)—they cater to a wide range of preferences, from those seeking a moderate lift to experienced users requiring a stronger hit. The pouches are designed to be soft, slim, and discreet, fitting comfortably under the lip for a steady release of nicotine without smoke, vapour, or odour. A standout feature of the SNU range is the innovative \"scented can\" technology; simply rub the lid of the pack to release a burst of the Cherry Cola aroma, giving you a preview of the flavour inside before you even open the box. Nicotine Ranges: Low - 9mg this is best suited for new users Medium - 12mg this is suited for more experienced users High - 18mg this is suited for more experienced users How to Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "12mg to 18mg",
+    "nordicminiofferfruit",
+    "prime-1020"
+  ],
+  "options": [
+    {
+      "name": "Option",
+      "position": 1,
+      "values": [
+        "9mg / Pouch",
+        "12mg / Pouch",
+        "18mg / Pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / Pouch",
+      "sku": "1153457",
+      "price": 3.99
+    },
+    {
+      "title": "12mg / Pouch",
+      "sku": "1153454",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / Pouch",
+      "sku": "1153451",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__snu-cherry-cola-nic-pouches-by-bar-juice__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Cola-18mg-SNU-Nicotine-Pouch.jpg?v=1771431302",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-cherry-cola-nic-pouches-by-bar-juice__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Cola-9mg-SNU-Nicotine-Pouch.jpg?v=1771431640",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__snu-cherry-cola-nic-pouches-by-bar-juice__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Cherry-Cola-12mg-SNU-Nicotine-Pouch.jpg?v=1771431945",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.898Z"
+}

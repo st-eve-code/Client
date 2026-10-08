@@ -1,0 +1,47 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639622246724",
+  "slug": "geekvape-aegis-hero-2-pods",
+  "title": "Geekvape Aegis Hero 2 Replacement Pods - 2 Pack",
+  "url": "https://www.vapestore.co.uk/products/geekvape-aegis-hero-2-pods",
+  "brand": "Geekvape",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 7.99,
+    "max": 7.99,
+    "currency": "GBP"
+  },
+  "description": "These Geekvape Aegis H45 Hero 2 Pods (pack of 2) are c apable of holding up t o 2ml of great tasting e-liquid utilising excellent leak-proof protection with a top filling design so you can refill without a spill and easily see how much vape juice you’ve got left. These pods also have an adjustable ring on the top that lets you control the airflow to your exact preference. The Geekvape B Series coils that work with this pod ( sold separately ) come in 0.6 ohm and 0.4 ohm variants and depending on your selected wattage can work with any type of e-liquid. If you opt for around 15W - 25W with the 0.6 ohm coil then you’ll find that 50/50 e-liquids and High PG e-liquids work wonderfully. If you decide to go for the 0.4 ohm coils then wattage between 25W – 35W will give you great tasting clouds from 70%+ VG e-liquids .",
+  "tags": [
+    "compatible-with-GV-KT-H45-BLK",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "GV-RP-H45-2ML-2P",
+      "price": 7.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__geekvape-aegis-hero-2-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/geekvape-aegis-hero-2-pods.jpg?v=1729044918",
+      "position": 1,
+      "width": 1000,
+      "height": 1000,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.400Z"
+}

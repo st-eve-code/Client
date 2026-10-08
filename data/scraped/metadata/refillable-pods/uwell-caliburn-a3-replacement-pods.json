@@ -1,0 +1,70 @@
+{
+  "site": "vapestore",
+  "category": "refillable-pods",
+  "id": "9639785660740",
+  "slug": "uwell-caliburn-a3-replacement-pods",
+  "title": "Uwell Caliburn A3S Replacement Pods - 4 Pack",
+  "url": "https://www.vapestore.co.uk/products/uwell-caliburn-a3-replacement-pods",
+  "brand": "Uwell",
+  "productType": "Refillable Pods",
+  "price": {
+    "min": 8.99,
+    "max": 8.99,
+    "currency": "GBP"
+  },
+  "description": "The A3S pod offers a 2ml e-liquid capacity and refilling and replacing the pods is effortless, as you can detach the seal on the side of the pod to access the fill port. The A3S Pods securely connect to the battery using magnets. With their integrated mesh coils and Uwell's Pro-FOCS flavour adjustment technology, they deliver a delicious and satisfying MTL vape experience. These pods are versatile and compatible with High-PG , 50/50 , and Nicotine Salts E-Liquids. When your pod starts to lose flavour, simply replace it, refill with E-Liquid, and you're good to go. This pack contains 4 x replacement 2ml Pods The Uwell Caliburn A3S pod kit adds to Uwell’s hugely popular Caliburn series of MTL devices and is as simple-to-use and as satisfying as ever. As slimline and easy to pocket as its predecessors, the Caliburn A3S is the perfect device for vapers who require a simple, lightweight and convenient vape kit that doesn’t sacrifice on flavour. Please Note: When filling your pod with e-liquid for the first time, allow the pod to sit for ten minutes before use. This will allow the e-liquid to better saturate the wicking material, a type of cotton, to prevent dry hits and ensure the best flavour and performance from your coil.",
+  "tags": [
+    "Delisted",
+    "MTL",
+    "prime-repodscoils"
+  ],
+  "options": [
+    {
+      "name": "Coil Resistance",
+      "position": 1,
+      "values": [
+        "0.8ohm",
+        "1.0ohm"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.8ohm",
+      "sku": "1124223",
+      "price": 8.99
+    },
+    {
+      "title": "1.0ohm",
+      "sku": "1124224",
+      "price": 8.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__uwell-caliburn-a3-replacement-pods__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburna3s-replacement-pod-1-0ohm-2ml-4pk_1.jpg?v=1729052181",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-a3-replacement-pods__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburn-a3s-replacement-pod-0.8ohm-2ml-4pk.jpg?v=1729052181",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__uwell-caliburn-a3-replacement-pods__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/uwell-caliburna3s-replacement-pod-1-0ohm-2ml-4pk.jpg?v=1729052181",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:06.397Z"
+}

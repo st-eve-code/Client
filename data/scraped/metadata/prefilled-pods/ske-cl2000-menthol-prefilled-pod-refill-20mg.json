@@ -1,0 +1,48 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15587244278141",
+  "slug": "ske-cl2000-menthol-prefilled-pod-refill-20mg",
+  "title": "SKE CL2000 Menthol Prefilled Pod + Refill - 20mg",
+  "url": "https://www.vapestore.co.uk/products/ske-cl2000-menthol-prefilled-pod-refill-20mg",
+  "brand": "SKE Crystal",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "Menthol delivers a clean Mint flavour with a brisk chill on the exhale. It’s a straightforward, refreshing choice that suits any time of day. Each CL2000 replacement pack includes a 1.8ml prefilled pod and a 2.2ml refill container that click together before fitting your CL2000 device. A mesh coil and 20mg Nic Salt e‑liquid support consistent flavour and steady nicotine delivery, with up to 2000 puffs per pack depending on use. To replace: remove the seals, press the pod and refill together until they click, then push the assembled unit into your device until it locks. When both sections are empty, dispose of the parts responsibly and fit a fresh CL2000 pod + refill.",
+  "tags": [
+    "2ml + 10ml",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1148727",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ske-cl2000-menthol-prefilled-pod-refill-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/Menthol-SKE-CL2000-Pods_1fa2e63b-9ab2-478a-aa1f-58e22a9ff105.jpg?v=1759757078",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.365Z"
+}

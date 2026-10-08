@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "9640000684356",
+  "slug": "ivg-air-prefilled-vape-pods-tropical-fruits-20mg",
+  "title": "IVG  Air Tropical Fruits Prefilled Vape Pods - 20mg",
+  "url": "https://www.vapestore.co.uk/products/ivg-air-prefilled-vape-pods-tropical-fruits-20mg",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 4.95,
+    "max": 4.95,
+    "currency": "GBP"
+  },
+  "description": "The IVG Air Prefilled Vape Pods are the perfect accompaniment for your IVG Air Pod Kits. Designed to work seamlessly with the IVG Air 2 In 1 and IVG Air 4 In 1 pod kits, these prefilled pods bring the ultimate convenience and satisfaction to your IVG Air. With up to 600 puffs per pod, you can enjoy a long-lasting and fulfilling vape, similar to a standard disposable. These pods are specifically designed for Mouth-To-Lung (MTL) vaping, delivering a smooth, tactile draw and rapid nicotine relief. Using the IVG Air Pro pods with your IVG 2 in 1 or 4 in 1 kit is easy. Simply remove the mouthpiece of your kit, insert the pods and replace the mouthpiece to get started. Each pod comes with its own built-in mesh coil for maximum taste and to keep your device in perfect condition. When your pod is empty simply remove it and replace it with a new one. Enjoy the exotic combination of tropical fruits, providing a juicy and refreshing vape experience. And when you fancy changing up your IVG Air’s flavours, choose from a collection of 27 premium IVG flavours that include fruits, menthols, and beverage flavours and many unique blends found nowhere else.",
+  "tags": [
+    "2 x 2ml",
+    "IVG Air",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1134487",
+      "price": 4.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-air-prefilled-vape-pods-tropical-fruits-20mg__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/ivg-air-prefilled-pods-tropical-fruits.jpg?v=1729064123",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.386Z"
+}

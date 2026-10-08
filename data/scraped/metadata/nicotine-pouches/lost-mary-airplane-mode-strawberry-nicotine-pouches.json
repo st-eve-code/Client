@@ -1,0 +1,86 @@
+{
+  "site": "vapestore",
+  "category": "nicotine-pouches",
+  "id": "9640055669060",
+  "slug": "lost-mary-airplane-mode-strawberry-nicotine-pouches",
+  "title": "Lost Mary Airplane Mode Strawberry Nic Pouches",
+  "url": "https://www.vapestore.co.uk/products/lost-mary-airplane-mode-strawberry-nicotine-pouches",
+  "brand": "Lost Mary",
+  "productType": "Nicotine Pouch",
+  "price": {
+    "min": 3.99,
+    "max": 3.99,
+    "currency": "GBP"
+  },
+  "description": "Strawberry delivers a smooth, juicy berry flavour that’s familiar and easy to enjoy. This pouch is perfect for those who prefer sweet fruit profiles with minimal intensity and a clean finish. The slim, soft pouch design fits discreetly under the lip and starts releasing nicotine in around 15 seconds. a clean, practical solution for moments when smoking or vaping isn't suitable Expect up to 30 minutes of gentle yet effective nicotine release with every pouch, free from tobacco, smoke or lingering odour How To Use: Nicotine Pouches Please Note: Do not chew, Suck or Swallow the pouches.",
+  "tags": [
+    "9mg to 30mg",
+    "AWARDS15",
+    "nordicminiofferfruit",
+    "prime-1020",
+    "Strawberry"
+  ],
+  "options": [
+    {
+      "name": "Nicotine Strength",
+      "position": 1,
+      "values": [
+        "9mg / pouch",
+        "18mg / pouch",
+        "30mg / pouch"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "9mg / pouch",
+      "sku": "1134863",
+      "price": 3.99
+    },
+    {
+      "title": "18mg / pouch",
+      "sku": "1134869",
+      "price": 3.99
+    },
+    {
+      "title": "30mg / pouch",
+      "sku": "1134875",
+      "price": 3.99
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__lost-mary-airplane-mode-strawberry-nicotine-pouches__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-strawberry-9mg_1.jpg?v=1729065290",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-strawberry-nicotine-pouches__002.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-strawberry-18mg.jpg?v=1729065290",
+      "position": 2,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-strawberry-nicotine-pouches__003.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-strawberry-30mg.jpg?v=1729065290",
+      "position": 3,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    },
+    {
+      "file": "vapestore__lost-mary-airplane-mode-strawberry-nicotine-pouches__004.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/lost-mary-airplane-mode-nic-pouch-strawberry-9mg.jpg?v=1729065290",
+      "position": 4,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:24:35.922Z"
+}

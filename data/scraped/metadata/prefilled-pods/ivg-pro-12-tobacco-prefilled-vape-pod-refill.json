@@ -1,0 +1,49 @@
+{
+  "site": "vapestore",
+  "category": "prefilled-pods",
+  "id": "15611772830077",
+  "slug": "ivg-pro-12-tobacco-prefilled-vape-pod-refill",
+  "title": "IVG Pro 12 Tobacco Prefilled Vape Pod + Refill",
+  "url": "https://www.vapestore.co.uk/products/ivg-pro-12-tobacco-prefilled-vape-pod-refill",
+  "brand": "IVG",
+  "productType": "Prefilled E-Liquid Pods",
+  "price": {
+    "min": 6.95,
+    "max": 6.95,
+    "currency": "GBP"
+  },
+  "description": "Tobacco IVG Pro 12 Prefilled Pods deliver a classic tobacco profile with gentle roasted notes and a subtle touch of sweetness on the finish. The flavour is well-balanced and familiar, suited to vapers who prefer a straightforward tobacco taste in a compact, low-maintenance format. Each refill pack includes a 2ml pod prefilled with 20mg Nicotine Salt e-liquid and a separate 10ml refill reservoir. Once assembled, the system automatically feeds the pod as you vape, removing the need for refilling or coil changes. A mesh coil helps maintain consistent flavour and MTL vapour, while the secure click-fit design keeps setup simple and clean. Designed exclusively for use with the IVG Pro 12 Prefilled Pod Vape Kit. How to Set Up: Remove the red stoppers from the 2ml pod. Twist and remove the red safety cap from the 10ml refill reservoir. Insert the pod into the refill reservoir and press until they click into place. Slide the connected pod and refill unit into the device. Wait a few moments to allow the coil to saturate before vaping.",
+  "tags": [
+    "2ml + 10ml",
+    "IVG Pro 12 Prefilled Pods",
+    "Prefilled-Export",
+    "prime-prefil"
+  ],
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "title": "Default Title",
+      "sku": "1143670",
+      "price": 6.95
+    }
+  ],
+  "images": [
+    {
+      "file": "vapestore__ivg-pro-12-tobacco-prefilled-vape-pod-refill__001.jpg",
+      "url": "https://cdn.shopify.com/s/files/1/0809/3679/6484/files/IVG-Pro-12---Refill-Box-Tobacco.jpg?v=1760708590",
+      "position": 1,
+      "width": 800,
+      "height": 800,
+      "downloaded": true
+    }
+  ],
+  "scrapedAt": "2026-10-08T17:25:57.327Z"
+}
