@@ -41,6 +41,12 @@ yarn-error.log*
 next-env.d.ts
 
 # drug-marketplace scrapes (never publish)
+none
+
+# compiled scrape artifact
+/scripts/scrape/scrape.js
+
+#drug market to never leave out again (no matter what i think)
 /data/scraped/metadata/streetcocaineshop-com/
 /data/scraped/metadata/dmtshopping-com/
 /data/scraped/metadata/kindkushdispensary-com/
@@ -51,6 +57,3 @@ next-env.d.ts
 /data/scraped/images/k2spicesprayshop-com__*
 /scripts/scrape/sites/k2site/
 /scripts/data/scraped/
-
-# compiled scrape artifact
-/scripts/scrape/scrape.js
