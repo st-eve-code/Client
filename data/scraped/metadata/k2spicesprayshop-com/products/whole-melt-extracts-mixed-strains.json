@@ -1,0 +1,53 @@
+{
+  "slug": "whole-melt-extracts-mixed-strains",
+  "name": "WHOLE MELT EXTRACTS MIXED STRAINS",
+  "site": "k2spicesprayshop-com",
+  "category": "all",
+  "price_min": 200,
+  "price_max": 200,
+  "currency": "USD",
+  "price_range": "$200.00",
+  "available": true,
+  "tags": [],
+  "description": "WHOLE MELT EXTRACTS MIXED STRAINS",
+  "description_html": "<h2><strong>WHOLE MELT EXTRACTS MIXED STRAINS</strong></h2>\n<p>&nbsp;</p>\n<p><img class=\"wp-image-119 jetpack-lazy-image jetpack-lazy-image--handled lazy-loaded alignnone\" src=\"https://wholemeltextracts.us/wp-content/uploads/2023/03/WHOLE-MELT-EXTRACTS-AUTHENTIC-300x400.jpeg\" alt=\"WHOLE MELT EXTRACTS LIVE RESIN\" width=\"239\" height=\"319\" data-lazy-type=\"image\" data-src=\"https://wholemeltextracts.us/wp-content/uploads/2023/03/WHOLE-MELT-EXTRACTS-AUTHENTIC-300x400.jpeg\" data-srcset=\"\" data-recalc-dims=\"1\" data-lazy-loaded=\"1\" /></p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://k2spicesprayshop.com/wp-content/uploads/2024/02/WHOLE-MELT-EXTRACTS-AUTHENTIC-1.webp",
+      "alt": "",
+      "local": "data\\scraped\\images\\k2spicesprayshop-com__whole-melt-extracts-mixed-strains__000.webp"
+    }
+  ],
+  "variants": [
+    {
+      "id": 1862,
+      "title": "Variant 1",
+      "price": 200,
+      "available": true
+    },
+    {
+      "id": 1863,
+      "title": "Variant 2",
+      "price": 200,
+      "available": true
+    },
+    {
+      "id": 1864,
+      "title": "Variant 3",
+      "price": 200,
+      "available": true
+    },
+    {
+      "id": 1865,
+      "title": "Variant 4",
+      "price": 200,
+      "available": true
+    }
+  ],
+  "collections": [
+    "all"
+  ],
+  "source_url": "https://k2spicesprayshop.com/product/whole-melt-extracts-mixed-strains/",
+  "scraped_at": "2026-10-17T14:08:36.420Z"
+}

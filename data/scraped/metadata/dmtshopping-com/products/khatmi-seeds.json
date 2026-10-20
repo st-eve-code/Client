@@ -1,0 +1,59 @@
+{
+  "slug": "khatmi-seeds",
+  "name": "Khatmi Seeds",
+  "site": "dmtshopping-com",
+  "category": "all",
+  "price_min": 160,
+  "price_max": 160,
+  "currency": "USD",
+  "price_range": "$160.00",
+  "available": true,
+  "tags": [
+    "althaea",
+    "beej",
+    "khatmi",
+    "Khatmi Seeds",
+    "Mansoora"
+  ],
+  "description": "Buy Khatmi Seeds\n\nKhatmi Seeds has been used for over 2,000 years as both a food and a medicine. The roots and leaves of the marshmallow plant are used medicinally to treat coughs and sore throats. Marshmallow’s high mucilage content soothes inflamed mucous membranes. It has also been used to soothe chapped skin, chilblains (sores caused by exposure to cold), and minor wounds.",
+  "description_html": "<h1>Buy Khatmi Seeds</h1>\n<p>Khatmi Seeds ha<a href=\"http://duckduckgo.com\">s</a> been used for over 2,000 ye<a href=\"http://yahoo.com\">a</a>rs as both a food and <a href=\"http://brave.com\">a</a> medicine. Th<a href=\"http://ecosia.org\">e</a> roots and leaves of the <a href=\"https://dmtshopping.com\">marshmallow</a> plant are use<a href=\"http://qwant.com\">d</a> medicinally to treat <a href=\"https://dmtshopping.com/product/buy-ayahuasca-powder/\">coughs</a> and <a href=\"https://vapesdeliveryshop.com/\">sore</a> throats. Marshmallow’s high <a href=\"https://dmtshopping.com/product-category/buy-cocaine-online/\">mucilage</a> content soothes inflamed mucous membranes. It has also been used <a href=\"http://trustpilot.com\">to</a> soothe chappe<a href=\"http://bing.com\">d</a> skin, chilblains (sores caus<a href=\"http://google.com\">ed</a> by exposure to cold), and minor wound<a href=\"http://chatgpt.com\">s.</a></p>",
+  "short_description": "Order Khat Seeds",
+  "images": [
+    {
+      "url": "https://dmtshopping.com/wp-content/uploads/2026/04/618HVq-a52L.png?wsr",
+      "alt": "Khatmi Seeds",
+      "local": "data\\scraped\\images\\dmtshopping-com__khatmi-seeds__000.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 2649,
+      "title": "Variant 1",
+      "price": 160,
+      "available": true
+    },
+    {
+      "id": 2650,
+      "title": "Variant 2",
+      "price": 160,
+      "available": true
+    },
+    {
+      "id": 2651,
+      "title": "Variant 3",
+      "price": 160,
+      "available": true
+    },
+    {
+      "id": 2652,
+      "title": "Variant 4",
+      "price": 160,
+      "available": true
+    }
+  ],
+  "collections": [
+    "all"
+  ],
+  "source_url": "https://dmtshopping.com/product/khatmi-seeds/",
+  "scraped_at": "2026-10-10T19:03:18.188Z"
+}
