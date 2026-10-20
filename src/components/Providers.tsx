@@ -4,6 +4,7 @@ import type { ReactNode } from "react";
 import { AgeVerification } from "./AgeVerification";
 import { CurrencyProvider } from "./CurrencyProvider";
 import { FavouritesProvider } from "./FavouritesProvider";
+import { WhatsAppBubble } from "./WhatsAppBubble";
 
 /** Wraps the app with all client-side context providers. */
 export function Providers({ children }: { children: ReactNode }) {
@@ -11,6 +12,7 @@ export function Providers({ children }: { children: ReactNode }) {
     <CurrencyProvider>
       <FavouritesProvider>
         {children}
+        <WhatsAppBubble />
         <AgeVerification />
       </FavouritesProvider>
     </CurrencyProvider>

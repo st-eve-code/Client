@@ -22,7 +22,7 @@ const COLUMNS: FooterColumn[] = [
   {
     title: "Customer Service",
     links: [
-      { label: "Contact Us", href: "#" },
+      { label: "Contact Us", href: "/contact" },
     ],
   },
   {
