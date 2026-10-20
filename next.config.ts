@@ -1,9 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Bundle the scraped data directory so it's available at runtime after build.
+  // Bundle scraped metadata for the build; images are served from GitHub LFS
+  // (media.githubusercontent.com), not the filesystem, so they are excluded.
   outputFileTracingIncludes: {
-    "/**": ["./data/scraped/metadata/**", "./data/scraped/images/**"],
+    "/**": ["./data/scraped/metadata/**"],
   },
 
   // fs-extra and sharp use native Node modules — keep them server-side only.
