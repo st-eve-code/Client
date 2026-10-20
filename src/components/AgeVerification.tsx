@@ -137,7 +137,7 @@ export function AgeVerification() {
                 You must be 18 or over
               </h2>
               <p className="mx-auto mt-3 max-w-[34ch] text-[14px] leading-relaxed text-white/60">
-                We can&rsquo;t let you into nofacetrap. UK law requires you to be 18 or
+                We can&rsquo;t let you into nofacetrap. The law requires you to be 18 or
                 older to view and buy vaping products.
               </p>
               <div className="mt-7 flex flex-col items-center gap-3">
