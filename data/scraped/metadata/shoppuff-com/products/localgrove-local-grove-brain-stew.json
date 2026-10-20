@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-brain-stew",
+  "name": "Local Grove | Brain Stew",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 112.5,
+  "currency": "USD",
+  "price_range": "$6.00 – $112.50",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Triangle Kush x Runtz \n\nBreeder: Clearwater Genetics \n\nAroma & Flavor: Creamy undertones with berry candy sweetness \n\nEffects: Balanced hybrid – uplifting yet smooth with a relaxing finish",
+  "description_html": "Genetics: Triangle Kush x Runtz <br /><br />Breeder: Clearwater Genetics <br /><br />Aroma & Flavor: Creamy undertones with berry candy sweetness <br /><br />Effects: Balanced hybrid – uplifting yet smooth with a relaxing finish",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c2aa653a3d86ecddab4d8eca850a6b4f",
+      "alt": "Local Grove | Brain Stew",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-brain-stew__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 62.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 112.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 32.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-brain-stew-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.781Z"
+}

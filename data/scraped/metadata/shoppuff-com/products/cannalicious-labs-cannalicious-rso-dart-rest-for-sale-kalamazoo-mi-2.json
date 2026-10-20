@@ -1,0 +1,40 @@
+{
+  "slug": "cannalicious-labs-cannalicious-rso-dart-rest-for-sale-kalamazoo-mi-2",
+  "name": "Cannalicious RSO Dart | Rest",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$15.00 – $22.50",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "A broad spectrum full plant RSO product chalked full of rest inducing cannabinoids as well as a heavy indica terpene profile to promote a deep and lasting sleep. THC, CBD, and CBN are all present in this new RSO product designed to help you fall and stay asleep. The added terpenes give this product a delightful berry flavor profile that makes ingesting REST RSO that much more pleasant.",
+  "description_html": "A broad spectrum full plant RSO product chalked full of rest inducing cannabinoids as well as a heavy indica terpene profile to promote a deep and lasting sleep. THC, CBD, and CBN are all present in this new RSO product designed to help you fall and stay asleep. The added terpenes give this product a delightful berry flavor profile that makes ingesting REST RSO that much more pleasant.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6f3af35ebf8a4949e02670c35ce26ee5",
+      "alt": "Cannalicious RSO Dart | Rest",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-rso-dart-rest-for-sale-kalamazoo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 22.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-rso-dart-rest-for-sale-kalamazoo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.849Z"
+}

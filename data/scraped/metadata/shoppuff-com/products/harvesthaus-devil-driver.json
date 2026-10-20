@@ -1,0 +1,60 @@
+{
+  "slug": "harvesthaus-devil-driver",
+  "name": "Harvesthaus | Devil Driver",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Harvesthaus",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f8c717d9844eef84c42f8197f496396d",
+      "alt": "Harvesthaus | Devil Driver",
+      "local": "data\\scraped\\images\\shoppuff-com__harvesthaus-devil-driver__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/harvesthaus-devil-driver-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.778Z"
+}

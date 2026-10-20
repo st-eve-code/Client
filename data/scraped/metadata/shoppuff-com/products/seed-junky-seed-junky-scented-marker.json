@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-seed-junky-scented-marker",
+  "name": "Seed Junky | Scented Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$6.00 – $120.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "As nostalgic as a sun-faded mural in Old Town, Scented Marker brings loud, funky flavor and undeniable presence. Bursting with fruity candy and gas, this strain writes its name across your senses-bold, euphoric, and unforgettable. Perfect for leaving your mark. \n\nPineapple Fruz x Permanent Marker",
+  "description_html": "As nostalgic as a sun-faded mural in Old Town, Scented Marker brings loud, funky flavor and undeniable presence. Bursting with fruity candy and gas, this strain writes its name across your senses-bold, euphoric, and unforgettable. Perfect for leaving your mark. <br /><br />Pineapple Fruz x Permanent Marker",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7dcdf7e4a26359bdc384c194fad37f3a",
+      "alt": "Seed Junky | Scented Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-scented-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 66,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 36,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 120,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-scented-marker-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.567Z"
+}

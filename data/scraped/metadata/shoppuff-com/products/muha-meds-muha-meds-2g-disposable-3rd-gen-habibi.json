@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-muha-meds-2g-disposable-3rd-gen-habibi",
+  "name": "Muha Meds | 2g Disposable (3rd Gen) | Habibi",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Habibi is a delightful strain that combines the soothing effects of a sativa with a sweet, delectable flavor profile. The aroma is reminiscent of a lush, tropical paradise with hints of fresh fruit and sugary sweetness. Perfect for unwinding after a long day, Habibi offers a relaxing and comforting experience that soothes both body and mind.",
+  "description_html": "Habibi is a delightful strain that combines the soothing effects of a sativa with a sweet, delectable flavor profile. The aroma is reminiscent of a lush, tropical paradise with hints of fresh fruit and sugary sweetness. Perfect for unwinding after a long day, Habibi offers a relaxing and comforting experience that soothes both body and mind.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9d142607a082b3bf5fb7949d1d2f390f",
+      "alt": "Muha Meds | 2g Disposable (3rd Gen) | Habibi",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-muha-meds-2g-disposable-3rd-gen-habibi__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-muha-meds-2g-disposable-3rd-gen-habibi-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.107Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-grape-classic-1g-plus-vape-device",
+  "name": "Grape - Classic 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Relish the classic, juicy taste of ripe grapes, offering a sweet and satisfying vaping experience.",
+  "description_html": "Relish the classic, juicy taste of ripe grapes, offering a sweet and satisfying vaping experience.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3949f36e690752877b541ce2bbbc3d79",
+      "alt": "Grape - Classic 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-grape-classic-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-grape-classic-1g-plus-vape-device-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.771Z"
+}

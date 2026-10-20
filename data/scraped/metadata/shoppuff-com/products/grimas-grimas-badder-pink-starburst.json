@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-badder-pink-starburst",
+  "name": "Grimas Badder | Pink Starburst",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Grimas in its simplest form is cannabis. But Grimas is so much more than JUST cannabis. When you want to get high, sure, you might use cannabis. When you want to come up with the next great idea, create an epic story for your friends to enjoy, or simply need an escape from the hectic every day… that’s where you can rely on Grimas. Yes, Grimas is cannabis. And yes, Grimas is THE experience.",
+  "description_html": "Grimas in its simplest form is cannabis. But Grimas is so much more than JUST cannabis. When you want to get high, sure, you might use cannabis. When you want to come up with the next great idea, create an epic story for your friends to enjoy, or simply need an escape from the hectic every day… that’s where you can rely on Grimas. Yes, Grimas is cannabis. And yes, Grimas is THE experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/240b0a500a2342a5295ff06fb6b8a15e",
+      "alt": "Grimas Badder | Pink Starburst",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-badder-pink-starburst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-badder-pink-starburst-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.519Z"
+}

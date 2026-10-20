@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-xl-quad-infused-preroll-pina-colada",
+  "name": "Pina Colada Jeeter XL Infused Pre-Roll | 2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Pina Colada is a hybrid strain with sweet, tropical flavors like pineapple and coconut on both the inhale and exhale. Smooth and balanced, it's an easy choice for any time of day. It’s five o'clock somewhere, so light up and relax with a Pina Colada in hand.",
+  "description_html": "Pina Colada is a hybrid strain with sweet, tropical flavors like pineapple and coconut on both the inhale and exhale. Smooth and balanced, it's an easy choice for any time of day. It’s five o'clock somewhere, so light up and relax with a Pina Colada in hand.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3923c7f73a5793fe7541b8422c68e85e",
+      "alt": "Pina Colada Jeeter XL Infused Pre-Roll | 2g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-xl-quad-infused-preroll-pina-colada__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-xl-quad-infused-preroll-pina-colada-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.338Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "goldkine-goldkine-oreo-blizzard",
+  "name": "Goldkine | Oreo Blizzard",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Unleash the powerful allure of Oreo Blizzard, an exceptional Oreoz cross that brings an aromatic twist to its legendary lineage. Renowned for its frosty appearance and generous yields, Oreo Blizzard introduces an intensely gassy aroma with subtle citrus undertones, tantalizing your senses with every inhale. Dominated by terpenes like caryophyllene, limonene, and humulene, this strain offers a captivating flavor profile featuring rich notes of chocolate, refreshing citrus, earthy pine, and a hint of soothing lavender. Oreo Blizzard's effects are just as remarkable, providing a focused, creative, and energetic high that stimulates the mind while keeping you grounded. Experience the unique and invigorating charm of Oreo Blizzard and elevate your cannabis journey to new heights.",
+  "description_html": "Unleash the powerful allure of Oreo Blizzard, an exceptional Oreoz cross that brings an aromatic twist to its legendary lineage. Renowned for its frosty appearance and generous yields, Oreo Blizzard introduces an intensely gassy aroma with subtle citrus undertones, tantalizing your senses with every inhale. Dominated by terpenes like caryophyllene, limonene, and humulene, this strain offers a captivating flavor profile featuring rich notes of chocolate, refreshing citrus, earthy pine, and a hint of soothing lavender. Oreo Blizzard's effects are just as remarkable, providing a focused, creative, and energetic high that stimulates the mind while keeping you grounded. Experience the unique and invigorating charm of Oreo Blizzard and elevate your cannabis journey to new heights.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e95c49b8f01e02c9a88239930fde3b83",
+      "alt": "Goldkine | Oreo Blizzard",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-oreo-blizzard__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-oreo-blizzard-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.758Z"
+}

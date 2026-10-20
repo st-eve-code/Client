@@ -1,0 +1,35 @@
+{
+  "slug": "progroco-pre-roll-outlaw-glue",
+  "name": "Outlaw Glue Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Chem’s Sister x Sour Dub x Chocolate Diesel \n\nTerpenes: Myrcene, Caryophyllene, Limonene \n\nAroma: Chem, Vegetative, Cucumber, Earthy, Sweet \n\nEffects: Relaxed, Pain Relief, Hungry",
+  "description_html": "Lineage: Chem’s Sister x Sour Dub x Chocolate Diesel  <br /><br />Terpenes: Myrcene, Caryophyllene, Limonene <br /><br />Aroma: Chem, Vegetative, Cucumber, Earthy, Sweet  <br /><br />Effects: Relaxed, Pain Relief, Hungry",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1abe8e7202686d9c9188d04599fce367",
+      "alt": "Outlaw Glue Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__progroco-pre-roll-outlaw-glue__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/progroco-pre-roll-outlaw-glue-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.803Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "rollganic-rollganic-live-resin-kerosene-crash",
+  "name": "Rollganic Live Resin | Kerosene Crash",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Rollganic",
+  "tags": [],
+  "description": "Experience top-tier potency, unmatched flavor, and a truly premium product that will elevate your cannabis experience.",
+  "description_html": "Experience top-tier potency, unmatched flavor, and a truly premium product that will elevate your cannabis experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1a831a66d60243dea6b76ca09068f24b",
+      "alt": "Rollganic Live Resin | Kerosene Crash",
+      "local": "data\\scraped\\images\\shoppuff-com__rollganic-rollganic-live-resin-kerosene-crash__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rollganic-rollganic-live-resin-kerosene-crash-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.437Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tokers-choice-tokers-choice-pre-roll-dabalicious",
+  "name": "Toker's Choice Pre-Roll | Dabalicious",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1.5,
+  "price_max": 1.5,
+  "currency": "USD",
+  "price_range": "$1.50",
+  "available": true,
+  "vendor": "Toker's Choice",
+  "tags": [],
+  "description": "1g Pre-Roll",
+  "description_html": "1g Pre-Roll<br />                                                                                           <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bf6736fa3e2f16d20a5671862d277ffc",
+      "alt": "Toker's Choice Pre-Roll | Dabalicious",
+      "local": "data\\scraped\\images\\shoppuff-com__tokers-choice-tokers-choice-pre-roll-dabalicious__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tokers-choice-tokers-choice-pre-roll-dabalicious-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.181Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-midwest-extracts-live-resin-dutchberry",
+  "name": "Midwest Extracts Live Resin | Dutchberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "currency": "USD",
+  "price_range": "$3.50",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/785a89817922e4a49ca6c34347280cbd",
+      "alt": "Midwest Extracts Live Resin | Dutchberry",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-midwest-extracts-live-resin-dutchberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-midwest-extracts-live-resin-dutchberry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.402Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "poppy-canna-poppy-canna-moon-rocks-melted-strawberries",
+  "name": "Poppy Canna | Moon Rocks | Melted Strawberries",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 140,
+  "currency": "USD",
+  "price_range": "$8.00 – $140.00",
+  "available": true,
+  "vendor": "Poppy Canna",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ee8a88432a904034cc8ac020682bf9ba",
+      "alt": "Poppy Canna | Moon Rocks | Melted Strawberries",
+      "local": "data\\scraped\\images\\shoppuff-com__poppy-canna-poppy-canna-moon-rocks-melted-strawberries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 140,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/poppy-canna-poppy-canna-moon-rocks-melted-strawberries-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.694Z"
+}

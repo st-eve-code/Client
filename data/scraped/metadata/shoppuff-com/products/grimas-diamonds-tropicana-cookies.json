@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-diamonds-tropicana-cookies",
+  "name": "Grimas Diamonds | Tropicana Cookies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "description_html": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5619-Puff-JointStore-Sturgis.webp",
+      "alt": "Grimas Diamonds | Tropicana Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-diamonds-tropicana-cookies__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-diamonds-tropicana-cookies-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.517Z"
+}

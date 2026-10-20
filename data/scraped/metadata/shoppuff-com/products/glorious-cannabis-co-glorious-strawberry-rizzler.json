@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-cannabis-co-glorious-strawberry-rizzler",
+  "name": "Glorious | Strawberry Rizzler",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/35166fc3567155805bdbe2d82b2aa724",
+      "alt": "Glorious | Strawberry Rizzler",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-strawberry-rizzler__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-strawberry-rizzler-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.425Z"
+}

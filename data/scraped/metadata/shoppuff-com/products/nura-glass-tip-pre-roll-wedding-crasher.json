@@ -1,0 +1,35 @@
+{
+  "slug": "nura-glass-tip-pre-roll-wedding-crasher",
+  "name": "Nura Glass Tip Pre-Roll | Wedding Crasher",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "A hand rolled 1 gram joint with a glass tip filter to ensure a smooth and flavorful smoking experience.",
+  "description_html": "A hand rolled 1 gram joint with a glass tip filter to ensure a smooth and flavorful smoking experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fe75696af2a54e28d7ce8468f203a8ab",
+      "alt": "Nura Glass Tip Pre-Roll | Wedding Crasher",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-glass-tip-pre-roll-wedding-crasher__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-glass-tip-pre-roll-wedding-crasher-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.584Z"
+}

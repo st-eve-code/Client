@@ -1,0 +1,35 @@
+{
+  "slug": "grip-cherry-pop",
+  "name": "Grip | Cherry Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Grip",
+  "tags": [],
+  "description": "Permanent Marker is an indica dominant hybrid strain (70% indica/30% sativa) created through crossing the delicious Biscotti X Jealousy X Sherbet BX strains. This three-way cross is the perfect daytime strain to help you kick back and relax on a lazy afternoon without a care in the world. The high settles in after a few tokes, filling your mind with a sense of lifted creativity that has you feeling happy and artistically inspired. A slightly weighty sense of calm accompanies this blissful state, helping you to settle down and relax without causing too much sedation. A feeling of hunger finishes out the high, leaving you totally ravenous and ready to get snacking. Permanent Marker a great choice for treating conditions such as chronic fatigue, PMS or cramps, depression or mood swings and chronic stress or PTSD.",
+  "description_html": "Permanent Marker is an indica dominant hybrid strain (70% indica/30% sativa) created through crossing the delicious Biscotti X Jealousy X Sherbet BX strains. This three-way cross is the perfect daytime strain to help you kick back and relax on a lazy afternoon without a care in the world. The high settles in after a few tokes, filling your mind with a sense of lifted creativity that has you feeling happy and artistically inspired. A slightly weighty sense of calm accompanies this blissful state, helping you to settle down and relax without causing too much sedation. A feeling of hunger finishes out the high, leaving you totally ravenous and ready to get snacking. Permanent Marker a great choice for treating conditions such as chronic fatigue, PMS or cramps, depression or mood swings and chronic stress or PTSD.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/058e106c2679c061a17a79b020d8d782",
+      "alt": "Grip | Cherry Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__grip-cherry-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grip-cherry-pop-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.926Z"
+}

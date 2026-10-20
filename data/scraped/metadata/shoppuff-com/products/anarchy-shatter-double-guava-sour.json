@@ -1,0 +1,35 @@
+{
+  "slug": "anarchy-shatter-double-guava-sour",
+  "name": "Anarchy Shatter | Double Guava Sour",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5.6,
+  "price_max": 5.6,
+  "currency": "USD",
+  "price_range": "$5.60",
+  "available": true,
+  "vendor": "Anarchy",
+  "tags": [],
+  "description": "Shatter is a form of concentrate that is made by extracting cannabinoids and terpenes from cured cannabis flower. Shatter is translucent and stable at room temperature, but can range in consistency from very brittle to having a \"pull-n-snap\" quality.",
+  "description_html": "Shatter is a form of concentrate that is made by extracting cannabinoids and terpenes from cured cannabis flower. Shatter is translucent and stable at room temperature, but can range in consistency from very brittle to having a \"pull-n-snap\" quality.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Anarchy Shatter | Double Guava Sour",
+      "local": "data\\scraped\\images\\shoppuff-com__anarchy-shatter-double-guava-sour__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5.6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/anarchy-shatter-double-guava-sour-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.730Z"
+}

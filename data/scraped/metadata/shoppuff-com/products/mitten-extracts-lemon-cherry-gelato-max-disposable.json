@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-lemon-cherry-gelato-max-disposable",
+  "name": "Mitten Extracts Max Disposable | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "From the Gelato lineage, this hybrid is packed with a tangy, sour citrus flavor complemented by fruity hints of berry and cherry. It offers a vibrant, delicious experience with each puff.",
+  "description_html": "From the Gelato lineage, this hybrid is packed with a tangy, sour citrus flavor complemented by fruity hints of berry and cherry. It offers a vibrant, delicious experience with each puff.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/46948b1e7c6c8ca0057de5bb3081f42a",
+      "alt": "Mitten Extracts Max Disposable | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-lemon-cherry-gelato-max-disposable__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-lemon-cherry-gelato-max-disposable-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.684Z"
+}

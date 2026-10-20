@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-510-cartridge-sugar-plumz",
+  "name": "Mitten Extracts 510 Cartridge | Sugar Plumz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Rich, juicy, and candy-sweet, Sugar Plumz delivers a flavor that’s as playful as it is indulgent. Each pull bursts with dark fruit notes and a silky finish that keeps you coming back. Smooth, cozy, and slightly decadent — this one’s built for flavor lovers who want something a little extra.",
+  "description_html": "Rich, juicy, and candy-sweet, Sugar Plumz delivers a flavor that’s as playful as it is indulgent. Each pull bursts with dark fruit notes and a silky finish that keeps you coming back. Smooth, cozy, and slightly decadent — this one’s built for flavor lovers who want something a little extra.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1976326392ace1ec053dd0039bd24141",
+      "alt": "Mitten Extracts 510 Cartridge | Sugar Plumz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-510-cartridge-sugar-plumz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-510-cartridge-sugar-plumz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.290Z"
+}

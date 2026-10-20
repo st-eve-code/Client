@@ -1,0 +1,35 @@
+{
+  "slug": "the-limit-the-limit-live-resin-purple-fanta-16",
+  "name": "The Limit Live Resin | Purple Fanta #16",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "The Limit",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f85fa25594c59b422c6ba55b750ceb86",
+      "alt": "The Limit Live Resin | Purple Fanta #16",
+      "local": "data\\scraped\\images\\shoppuff-com__the-limit-the-limit-live-resin-purple-fanta-16__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-limit-the-limit-live-resin-purple-fanta-16-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.448Z"
+}

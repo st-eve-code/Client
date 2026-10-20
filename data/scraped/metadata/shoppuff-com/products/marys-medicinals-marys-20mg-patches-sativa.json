@@ -1,0 +1,35 @@
+{
+  "slug": "marys-medicinals-marys-20mg-patches-sativa",
+  "name": "Mary's | 20mg Patches | Sativa",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mary's Medicinals",
+  "tags": [],
+  "description": "Mary’s award-winning transdermal patches are born out of a commitment to accurate dosing through an advanced delivery method. The discreet 2×2? squares simply adhere to any veinous part of the skin for 8-12 hours of unsurpassed systemic wellness benefits.\n\nAvailable in CBD, 1:1 CBD:THC, CBG, CBN, THCa, Indica and Sativa.",
+  "description_html": "Mary’s award-winning transdermal patches are born out of a commitment to accurate dosing through an advanced delivery method. The discreet 2×2? squares simply adhere to any veinous part of the skin for 8-12 hours of unsurpassed systemic wellness benefits.<br /><br />Available in CBD, 1:1 CBD:THC, CBG, CBN, THCa, Indica and Sativa.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/topicals.jpg",
+      "alt": "Mary's | 20mg Patches | Sativa",
+      "local": "data\\scraped\\images\\shoppuff-com__marys-medicinals-marys-20mg-patches-sativa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.02g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/marys-medicinals-marys-20mg-patches-sativa-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.273Z"
+}

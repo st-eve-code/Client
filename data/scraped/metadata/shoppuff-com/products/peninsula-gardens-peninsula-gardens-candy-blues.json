@@ -1,0 +1,50 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-candy-blues",
+  "name": "Peninsula Gardens | Candy Blues",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 90,
+  "currency": "USD",
+  "price_range": "$20.00 – $90.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "This cross of Blue Nerdz and Sherb Cream Pie is mouthwatering. Major blast of candy flavor that is sure to have you coming back time and time again.",
+  "description_html": "This cross of Blue Nerdz and Sherb Cream Pie is mouthwatering. Major blast of candy flavor that is sure to have you coming back time and time again.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/927e1db4c71be389229e548226fccbc4",
+      "alt": "Peninsula Gardens | Candy Blues",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-candy-blues__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-candy-blues-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.856Z"
+}

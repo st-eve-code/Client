@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-3-5g-snowballs-frozen-cherries",
+  "name": "White Boy Rick | 3.5g Snowballs | Frozen Cherries",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7856a46bd582cc3ab19f375aa030d1a0",
+      "alt": "White Boy Rick | 3.5g Snowballs | Frozen Cherries",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-3-5g-snowballs-frozen-cherries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-3-5g-snowballs-frozen-cherries-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.403Z"
+}

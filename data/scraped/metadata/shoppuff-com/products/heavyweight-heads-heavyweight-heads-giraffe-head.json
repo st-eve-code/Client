@@ -1,0 +1,60 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-giraffe-head",
+  "name": "Heavyweight Heads | Giraffe Head",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6.4,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$6.40 – $100.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "A GELATO X WEDDING CAKE PHENO THAT HEAVYWEIGHT HEADS CULTIVATES FOR HIP-HOP ARTIST AND CANNABIS PIONEER, WILLY J PESO. THE HAND PICKED BUDS ARE HEAVILY COATED WITH TRICHOMES THAT HAVE HUES OF GREEN AND PURPLE. THE INDICA HIGH IS HEAVY AND VERY EUPHORIC, WITH NOTES OF PASTRIES AND AN EARTHY PEPPER UNDERTONE.",
+  "description_html": "A GELATO X WEDDING CAKE PHENO THAT HEAVYWEIGHT HEADS CULTIVATES FOR HIP-HOP ARTIST AND CANNABIS PIONEER, WILLY J PESO. THE HAND PICKED BUDS ARE HEAVILY COATED WITH TRICHOMES THAT HAVE HUES OF GREEN AND PURPLE. THE INDICA HIGH IS HEAVY AND VERY EUPHORIC, WITH NOTES OF PASTRIES AND AN EARTHY PEPPER UNDERTONE.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/98c88adcc8f9ab08bc597a25eb7bcb83",
+      "alt": "Heavyweight Heads | Giraffe Head",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-giraffe-head__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 56,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 32,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6.4,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12.8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 100,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-giraffe-head-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.287Z"
+}

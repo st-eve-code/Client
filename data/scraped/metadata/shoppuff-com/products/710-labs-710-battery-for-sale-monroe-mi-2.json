@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-battery-for-sale-monroe-mi-2",
+  "name": "710 Battery",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "710 battery for pods.",
+  "description_html": "710 battery for pods. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/40ff8c76dc164281ea9ea710fb335729",
+      "alt": "710 Battery",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-battery-for-sale-monroe-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-battery-for-sale-monroe-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.606Z"
+}

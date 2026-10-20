@@ -1,0 +1,35 @@
+{
+  "slug": "drip-drip-510-cartridge-platinum-og",
+  "name": "Drip 510 Cartridge | Platinum OG",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Platinum OG brings that deep, grounded vibe with rich earthy flavor and a hit of pine. It’s a mellow, slow-burn kind of session — best enjoyed when you’re ready to kick back and fully disconnect.",
+  "description_html": "Platinum OG brings that deep, grounded vibe with rich earthy flavor and a hit of pine. It’s a mellow, slow-burn kind of session — best enjoyed when you’re ready to kick back and fully disconnect.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4569e5b672e3c805cdc9d5cf3a4da88d",
+      "alt": "Drip 510 Cartridge | Platinum OG",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-drip-510-cartridge-platinum-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-drip-510-cartridge-platinum-og-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.291Z"
+}

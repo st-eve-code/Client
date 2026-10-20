@@ -1,0 +1,35 @@
+{
+  "slug": "juicy-flavored-hemp-wrap",
+  "name": "Juicy Flavored Hemp Wrap",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Juicy Terp Enhanced Hemp Wraps are bursting with natural flavors! Infused with natural terpenes that add a gust of fruity flavor to each inhale. The Terp Enhanced wraps have even more natural essences infused into each 2-pack pouch.",
+  "description_html": "Juicy Terp Enhanced Hemp Wraps are bursting with natural flavors! Infused with natural terpenes that add a gust of fruity flavor to each inhale. The Terp Enhanced wraps have even more natural essences infused into each 2-pack pouch.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2c98005f81326176b18d843477c52860",
+      "alt": "Juicy Flavored Hemp Wrap",
+      "local": "data\\scraped\\images\\shoppuff-com__juicy-flavored-hemp-wrap__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/juicy-flavored-hemp-wrap-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.153Z"
+}

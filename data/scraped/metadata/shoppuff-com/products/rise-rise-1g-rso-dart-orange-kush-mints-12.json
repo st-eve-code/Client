@@ -1,0 +1,35 @@
+{
+  "slug": "rise-rise-1g-rso-dart-orange-kush-mints-12",
+  "name": "Rise | 1g RSO Dart | Orange Kush Mints #12",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "RSO is a full-spectrum whole-plant cannabis oil that contains a wide variety of cannabinoids, terpenes, and flavonoids with great therapeutic potential.",
+  "description_html": "RSO is a full-spectrum whole-plant cannabis oil that contains a wide variety of cannabinoids, terpenes, and flavonoids with great therapeutic potential.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cca51cad05c6fd72ec0a84e82fc9c90c",
+      "alt": "Rise | 1g RSO Dart | Orange Kush Mints #12",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-rise-1g-rso-dart-orange-kush-mints-12__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-rise-1g-rso-dart-orange-kush-mints-12-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.028Z"
+}

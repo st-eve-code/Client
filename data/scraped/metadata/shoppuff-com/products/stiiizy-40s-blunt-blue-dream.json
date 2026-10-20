@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-40s-blunt-blue-dream",
+  "name": "Stiiizy | 40's Blunt | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2faa9ca0542d4e1aa6b5e106c527ed43",
+      "alt": "Stiiizy | 40's Blunt | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-blunt-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-blunt-blue-dream-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.757Z"
+}

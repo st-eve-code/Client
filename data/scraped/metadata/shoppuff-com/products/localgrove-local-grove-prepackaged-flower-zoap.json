@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-zoap",
+  "name": "Local Grove Prepackaged Flower | Zoap",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Zoap is a hybrid weed strain made by crossing Rainbow Sherbet and Pink Guava; bred by Deo Farms of Oakland, CA. This evenly balanced powerhouse has a quick onset, bringing waves of euphoria and positivity.",
+  "description_html": "Zoap is a hybrid weed strain made by crossing Rainbow Sherbet and Pink Guava; bred by Deo Farms of Oakland, CA. This evenly balanced powerhouse has a quick onset, bringing waves of euphoria and positivity.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/741b833071b2e70d16792f4e12ec0630",
+      "alt": "Local Grove Prepackaged Flower | Zoap",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-zoap__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-zoap-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.414Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-champion-crop-hoodie-for-sale-traverse-city-mi-3",
+  "name": "Puff | Champion Crop-Hoodie",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "PUFF x Champion brand crop top hoodie.\nAvailable in pink and purple logo!\nCheck in store for sizes!",
+  "description_html": "PUFF x Champion brand crop top hoodie.<br />Available in pink and purple logo!<br />Check in store for sizes!<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7ecc8c36617db25d8d53a3b4308ba0f1",
+      "alt": "Puff | Champion Crop-Hoodie",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-champion-crop-hoodie-for-sale-traverse-city-mi-3__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-champion-crop-hoodie-for-sale-traverse-city-mi-3/",
+  "scraped_at": "2026-10-10T22:31:20.992Z"
+}

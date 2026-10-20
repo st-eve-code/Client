@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-live-rosin-grapes-cream",
+  "name": "White Boy Rick Live Rosin | Grapes & Cream",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f67f5cd8a3e84a329f64bddb6d2bc97f",
+      "alt": "White Boy Rick Live Rosin | Grapes & Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-live-rosin-grapes-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-live-rosin-grapes-cream-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.791Z"
+}

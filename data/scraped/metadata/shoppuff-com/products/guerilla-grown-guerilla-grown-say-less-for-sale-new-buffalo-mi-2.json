@@ -1,0 +1,35 @@
+{
+  "slug": "guerilla-grown-guerilla-grown-say-less-for-sale-new-buffalo-mi-2",
+  "name": "Guerilla Grown | Say Less",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Guerilla Grown",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/042c5ce826b4f2f486fa6c10ccc4cfce",
+      "alt": "Guerilla Grown | Say Less",
+      "local": "data\\scraped\\images\\shoppuff-com__guerilla-grown-guerilla-grown-say-less-for-sale-new-buffalo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guerilla-grown-guerilla-grown-say-less-for-sale-new-buffalo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.800Z"
+}

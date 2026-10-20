@@ -1,0 +1,60 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-weekend-at-garys",
+  "name": "Peninsula Gardens | Weekend At Gary's",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 199,
+  "currency": "USD",
+  "price_range": "$12.00 – $199.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Bahama Mama x Gary Payton. The old school grape flavor we all remember but with a kick of funk mixed into it from the Gary Payton. Dark purple bud’s give it beautiful bag appeal. A good strong high with a great flavor.",
+  "description_html": "Bahama Mama x Gary Payton. The old school grape flavor we all remember but with a kick of funk mixed into it from the Gary Payton. Dark purple bud’s give it beautiful bag appeal. A good strong high with a great flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c5ca511eeaeb41d6bb8d308388f46463",
+      "alt": "Peninsula Gardens | Weekend At Gary's",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-weekend-at-garys__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 199,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-weekend-at-garys-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.233Z"
+}

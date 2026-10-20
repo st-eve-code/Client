@@ -1,0 +1,35 @@
+{
+  "slug": "fat-pack-fat-pack-bubble-bath-shake",
+  "name": "Fat Pack | Bubble Bath Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Fat Pack",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6735f57ae74942d791587f1627cd5dc2",
+      "alt": "Fat Pack | Bubble Bath Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__fat-pack-fat-pack-bubble-bath-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fat-pack-fat-pack-bubble-bath-shake-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.764Z"
+}

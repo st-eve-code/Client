@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-billionaire-2pck-hemp-wrap-birthday-cake",
+  "name": "Billionaire | 2pck Hemp Wrap | Birthday Cake",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Billionaire | 2pck Hemp Wrap | Birthday Cake.",
+  "description_html": "Billionaire | 2pck Hemp Wrap | Birthday Cake.                                                     <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/accessories.jpg",
+      "alt": "Billionaire | 2pck Hemp Wrap | Birthday Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-billionaire-2pck-hemp-wrap-birthday-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-billionaire-2pck-hemp-wrap-birthday-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.532Z"
+}

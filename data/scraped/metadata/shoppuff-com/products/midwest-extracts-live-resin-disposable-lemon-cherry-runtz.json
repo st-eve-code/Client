@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-live-resin-disposable-lemon-cherry-runtz",
+  "name": "Midwest Extracts Live Resin Disposable | Lemon Cherry Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c3344106d7620d4f688fd5a7dc78507d",
+      "alt": "Midwest Extracts Live Resin Disposable | Lemon Cherry Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-live-resin-disposable-lemon-cherry-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-live-resin-disposable-lemon-cherry-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.591Z"
+}

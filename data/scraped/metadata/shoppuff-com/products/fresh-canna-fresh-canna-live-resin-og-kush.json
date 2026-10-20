@@ -1,0 +1,40 @@
+{
+  "slug": "fresh-canna-fresh-canna-live-resin-og-kush",
+  "name": "Fresh Canna Live Resin | OG Kush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4.9,
+  "price_max": 21,
+  "currency": "USD",
+  "price_range": "$4.90 – $21.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Experience the legendary potency and classic flavor of Fresh Canna’s Live Resin Wax – OG Kush, a true West Coast icon known for its heavy-hitting effects and rich terpene profile. Crafted from fresh-frozen cannabis, this premium live resin wax delivers a full-spectrum, flavorful, and ultra-smooth dabbing experience. With earthy pine, zesty lemon, and a hint of spicy fuel, OG Kush brings a balanced yet powerful high, starting with an uplifting cerebral rush before settling into deep body relaxation. Perfect for stress relief, mood elevation, and kicking back after a long day, this legendary strain remains a go-to for seasoned smokers and new consumers alike.",
+  "description_html": "Experience the legendary potency and classic flavor of Fresh Canna’s Live Resin Wax – OG Kush, a true West Coast icon known for its heavy-hitting effects and rich terpene profile. Crafted from fresh-frozen cannabis, this premium live resin wax delivers a full-spectrum, flavorful, and ultra-smooth dabbing experience. With earthy pine, zesty lemon, and a hint of spicy fuel, OG Kush brings a balanced yet powerful high, starting with an uplifting cerebral rush before settling into deep body relaxation. Perfect for stress relief, mood elevation, and kicking back after a long day, this legendary strain remains a go-to for seasoned smokers and new consumers alike.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fd74fe5208c82a452eafe8c111a22fe0",
+      "alt": "Fresh Canna Live Resin | OG Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-live-resin-og-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4.9,
+      "available": true
+    },
+    {
+      "title": "5g",
+      "price": 21,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-live-resin-og-kush-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.229Z"
+}

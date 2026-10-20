@@ -1,0 +1,35 @@
+{
+  "slug": "marys-medicinals-marys-transdermal-cream-vanilla-lavender-11",
+  "name": "Mary's Transdermal Cream | Vanilla Lavender 1:1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 22.5,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$22.50",
+  "available": true,
+  "vendor": "Mary's Medicinals",
+  "tags": [],
+  "description": "Rediscover tranquility with Mary's Medicinals Relax Cream. Meticulously crafted using a synergistic blend of ingredients, this cream’s relaxing lavender vanilla scent offers targeted support that deeply nourishes the skin.",
+  "description_html": "Rediscover tranquility with Mary's Medicinals Relax Cream. Meticulously crafted using a synergistic blend of ingredients, this cream’s relaxing lavender vanilla scent offers targeted support that deeply nourishes the skin.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/164e3602bd0bfad6824dffd8e29a43cd",
+      "alt": "Mary's Transdermal Cream | Vanilla Lavender 1:1",
+      "local": "data\\scraped\\images\\shoppuff-com__marys-medicinals-marys-transdermal-cream-vanilla-lavender-11__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 22.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/marys-medicinals-marys-transdermal-cream-vanilla-lavender-11-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.306Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "nura-nura-gushers",
+  "name": "Nura | Gushers",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$8.00 – $175.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "We’ve always strived to do one thing: make everyone happy with what they’re smoking. We aspire to be peoples go-to brand for all their smoking needs. Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "description_html": "We’ve always strived to do one thing: make everyone happy with what they’re smoking. We aspire to be peoples go-to brand for all their smoking needs. Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1e8d363980a6be57752251a5972fc2c0",
+      "alt": "Nura | Gushers",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-nura-gushers__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-nura-gushers-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.333Z"
+}

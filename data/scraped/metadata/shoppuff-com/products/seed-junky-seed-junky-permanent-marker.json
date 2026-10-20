@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-seed-junky-permanent-marker",
+  "name": "Seed Junky | Permanent Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 180,
+  "currency": "USD",
+  "price_range": "$9.00 – $180.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Permanent Marker is an indica strain with a lingering, pungent flacor of a soapy funk with a hint of candy and floral gas tones. The potent strain brings out creativity for daytime relaxation, followed by the munchies and the urge to roll up some more.",
+  "description_html": "Permanent Marker is an indica strain with a lingering, pungent flacor of a soapy funk with a hint of candy and floral gas tones. The potent strain brings out creativity for daytime relaxation, followed by the munchies and the urge to roll up some more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1f01a80882a0a405b655472948731780",
+      "alt": "Seed Junky | Permanent Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-permanent-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 180,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-permanent-marker-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.312Z"
+}

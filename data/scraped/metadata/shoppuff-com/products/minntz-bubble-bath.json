@@ -1,0 +1,60 @@
+{
+  "slug": "minntz-bubble-bath",
+  "name": "Minntz | Bubble Bath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$6.00 – $120.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Fruity and refreshing aromas awaken the senses in this\nindica-leaning flavor, delivering a crisp, tropical-forward\nprofile. Its effects are calm and clear-headed, helping\nyou stay focused and productive while maintaining a\nrelaxed state of mind.",
+  "description_html": "Fruity and refreshing aromas awaken the senses in this<br />indica-leaning flavor, delivering a crisp, tropical-forward<br />profile. Its effects are calm and clear-headed, helping<br />you stay focused and productive while maintaining a<br />relaxed state of mind.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/423c40277eb2991d1ba5bdfcb7ac0e5a",
+      "alt": "Minntz | Bubble Bath",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-bubble-bath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 36,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 66,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 120,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-bubble-bath-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.385Z"
+}

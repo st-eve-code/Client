@@ -1,0 +1,35 @@
+{
+  "slug": "weed-snobs-weed-snobs-1-2g-diamond-infused-preroll-ice-cream-cake",
+  "name": "Weed Snobs | 1.2g Diamond Infused Preroll | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Ice Cream Cake is a indica dominate strain that is a cross between Gelato #33 and Wedding Cake. It has a sweet, nutty flavor profile reminiscent of baked goods. This strain produces mostly relaxed, happy and sleepy effects.",
+  "description_html": "Ice Cream Cake is a indica dominate strain that is a cross between Gelato #33 and Wedding Cake. It has a sweet, nutty flavor profile reminiscent of baked goods. This strain produces mostly relaxed, happy and sleepy effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9b376e3a7593f78cc88a712e40ce71c4",
+      "alt": "Weed Snobs | 1.2g Diamond Infused Preroll | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-weed-snobs-1-2g-diamond-infused-preroll-ice-cream-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-weed-snobs-1-2g-diamond-infused-preroll-ice-cream-cake-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.237Z"
+}

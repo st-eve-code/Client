@@ -1,0 +1,35 @@
+{
+  "slug": "excel-farms-excel-farms-flight-of-the-concords",
+  "name": "Excel Farms | Flight of The Concords",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Excel Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Excel Farms | Flight of The Concords",
+      "local": "data\\scraped\\images\\shoppuff-com__excel-farms-excel-farms-flight-of-the-concords__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/excel-farms-excel-farms-flight-of-the-concords-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.427Z"
+}

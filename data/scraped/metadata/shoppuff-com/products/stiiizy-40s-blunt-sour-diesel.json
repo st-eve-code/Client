@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-40s-blunt-sour-diesel",
+  "name": "Stiiizy | 40's Blunt | Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "STIIIZY 40's blunts are rolled with 100% tobacco free, kief dusted wraps. We’ve packed each infused blunt with premium, high quality flower. STIIIZY 40's Blunts are reinventing the experience by introducing unique profiles & unmatched strains with live resin infusion.\n\nSour Diesel is a sativa with pungent diesel and earthy elements.",
+  "description_html": "STIIIZY 40's blunts are rolled with 100% tobacco free, kief dusted wraps. We’ve packed each infused blunt with premium, high quality flower. STIIIZY 40's Blunts are reinventing the experience by introducing unique profiles & unmatched strains with live resin infusion.<br /><br />Sour Diesel is a sativa with pungent diesel and earthy elements.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f364fd8bfc66b2f04d89c3ee173a514e",
+      "alt": "Stiiizy | 40's Blunt | Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-blunt-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-blunt-sour-diesel-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.274Z"
+}

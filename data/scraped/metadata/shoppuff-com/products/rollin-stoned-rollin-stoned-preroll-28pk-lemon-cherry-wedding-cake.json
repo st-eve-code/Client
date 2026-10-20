@@ -1,0 +1,35 @@
+{
+  "slug": "rollin-stoned-rollin-stoned-preroll-28pk-lemon-cherry-wedding-cake",
+  "name": "Rollin Stoned Preroll 28pk | Lemon Cherry Wedding Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Rollin Stoned",
+  "tags": [],
+  "description": "28pk 1g Pre-Rolls\n\nLemon Cherry Wedding Cake combines vibrant fruit and creamy dessert notes for a hybrid experience that relaxes the body while keeping the mind open and inspired.",
+  "description_html": "28pk 1g Pre-Rolls<br /><br />Lemon Cherry Wedding Cake combines vibrant fruit and creamy dessert notes for a hybrid experience that relaxes the body while keeping the mind open and inspired.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/514d7c230ac8ff8c068124e3f666b1ee",
+      "alt": "Rollin Stoned Preroll 28pk | Lemon Cherry Wedding Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__rollin-stoned-rollin-stoned-preroll-28pk-lemon-cherry-wedding-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rollin-stoned-rollin-stoned-preroll-28pk-lemon-cherry-wedding-cake-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.489Z"
+}

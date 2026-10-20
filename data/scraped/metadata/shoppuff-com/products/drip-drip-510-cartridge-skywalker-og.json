@@ -1,0 +1,35 @@
+{
+  "slug": "drip-drip-510-cartridge-skywalker-og",
+  "name": "Drip 510 Cartridge | Skywalker OG",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Skywalker OG floats in with that classic OG funk and a smooth, herbal twist. Expect a mellow, spacey feel that’s perfect for winding down and checking out.",
+  "description_html": "Skywalker OG floats in with that classic OG funk and a smooth, herbal twist. Expect a mellow, spacey feel that’s perfect for winding down and checking out.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a9492bc32df3fc43c1e19e42a4c9eb86",
+      "alt": "Drip 510 Cartridge | Skywalker OG",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-drip-510-cartridge-skywalker-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-drip-510-cartridge-skywalker-og-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.776Z"
+}

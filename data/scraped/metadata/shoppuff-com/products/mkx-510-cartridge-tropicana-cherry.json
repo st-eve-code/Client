@@ -1,0 +1,40 @@
+{
+  "slug": "mkx-510-cartridge-tropicana-cherry",
+  "name": "MKX 510 Cartridge | Tropicana Cherry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$8.00 – $15.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "Michigan's #1 Cannabis Brand Infused with our award-winning THC oil, our cannabis cartridges and edibles invite you to explore a wonderful tasty and effective variety of terpene-inspired flavors.",
+  "description_html": "Michigan's #1 Cannabis Brand Infused with our award-winning THC oil, our cannabis cartridges and edibles invite you to explore a wonderful tasty and effective variety of terpene-inspired flavors.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/079df9ed26623c83802295e3261a755e",
+      "alt": "MKX 510 Cartridge | Tropicana Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-510-cartridge-tropicana-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-510-cartridge-tropicana-cherry-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.000Z"
+}

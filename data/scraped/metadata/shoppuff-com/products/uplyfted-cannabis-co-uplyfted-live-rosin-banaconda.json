@@ -1,0 +1,35 @@
+{
+  "slug": "uplyfted-cannabis-co-uplyfted-live-rosin-banaconda",
+  "name": "Uplyfted Live Rosin | Banaconda",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Uplyfted Cannabis Co.",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f323d982bd7eda73123f7c49d347ced8",
+      "alt": "Uplyfted Live Rosin | Banaconda",
+      "local": "data\\scraped\\images\\shoppuff-com__uplyfted-cannabis-co-uplyfted-live-rosin-banaconda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/uplyfted-cannabis-co-uplyfted-live-rosin-banaconda-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.565Z"
+}

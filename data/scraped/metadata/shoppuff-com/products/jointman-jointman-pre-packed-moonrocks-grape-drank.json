@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-jointman-pre-packed-moonrocks-grape-drank",
+  "name": "Jointman Pre-Packed Moonrocks | Grape Drank",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/754dad4360cbe3f397e1d48d0cf58d1c",
+      "alt": "Jointman Pre-Packed Moonrocks | Grape Drank",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-jointman-pre-packed-moonrocks-grape-drank__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-jointman-pre-packed-moonrocks-grape-drank-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.720Z"
+}

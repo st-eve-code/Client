@@ -1,0 +1,35 @@
+{
+  "slug": "mary-jones-100mg-soda-zero-sugar-cola",
+  "name": "Mary Jones | 100mg Soda | Zero Sugar Cola",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Mary Jones",
+  "tags": [],
+  "description": "Craving that crisp cola taste without all the calories? Mary Jones Zero Cola 100 mg has all the cola goodness, none of the sugar, and a 100 mg kick. Perfect for when you want a guilt-free lift. Get the ultimate sugar-free cola experience with a stronger punch. Mary Jones Zero Cola packs the same iconic cola taste, so you can enjoy more of what you love with zero compromise.",
+  "description_html": "Craving that crisp cola taste without all the calories? Mary Jones Zero Cola 100 mg has all the cola goodness, none of the sugar, and a 100 mg kick. Perfect for when you want a guilt-free lift. Get the ultimate sugar-free cola experience with a stronger punch. Mary Jones Zero Cola packs the same iconic cola taste, so you can enjoy more of what you love with zero compromise.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d0446497e17a680ac10e7cd07306d296",
+      "alt": "Mary Jones | 100mg Soda | Zero Sugar Cola",
+      "local": "data\\scraped\\images\\shoppuff-com__mary-jones-100mg-soda-zero-sugar-cola__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "12.0g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mary-jones-100mg-soda-zero-sugar-cola-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.171Z"
+}

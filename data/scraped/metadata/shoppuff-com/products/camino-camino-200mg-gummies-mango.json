@@ -1,0 +1,35 @@
+{
+  "slug": "camino-camino-200mg-gummies-mango",
+  "name": "Camino | 200mg Gummies | Mango",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Camino",
+  "tags": [],
+  "description": "Indulge in the soothing escape of Camino Mango Serenity, crafted to help you unwind and find your moment of peace. Infused with premium CBD and bursting with juicy mango flavor, these tropical treats are your perfect companion for mellow days and restful nights.",
+  "description_html": "Indulge in the soothing escape of Camino Mango Serenity, crafted to help you unwind and find your moment of peace. Infused with premium CBD and bursting with juicy mango flavor, these tropical treats are your perfect companion for mellow days and restful nights.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b016782e38779187cf2f39bbb6876c20",
+      "alt": "Camino | 200mg Gummies | Mango",
+      "local": "data\\scraped\\images\\shoppuff-com__camino-camino-200mg-gummies-mango__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.2225g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/camino-camino-200mg-gummies-mango-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.008Z"
+}

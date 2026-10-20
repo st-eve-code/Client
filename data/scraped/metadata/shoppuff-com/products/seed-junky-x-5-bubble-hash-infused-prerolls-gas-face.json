@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-x-5-bubble-hash-infused-prerolls-gas-face",
+  "name": "Seed Junky x 5 Bubble Hash Infused Prerolls | Gas Face",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Single sourced hash infused pre-rolls. New premium indoor flavors, double the hash! No shake, no trim, double the hash!",
+  "description_html": "Single sourced hash infused pre-rolls. New premium indoor flavors, double the hash! No shake, no trim, double the hash!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f94f078830c178f4a771633ec1942e8c",
+      "alt": "Seed Junky x 5 Bubble Hash Infused Prerolls | Gas Face",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-x-5-bubble-hash-infused-prerolls-gas-face__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-x-5-bubble-hash-infused-prerolls-gas-face-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.216Z"
+}

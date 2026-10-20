@@ -1,0 +1,50 @@
+{
+  "slug": "algonquin-algonquin-technologies-runtz",
+  "name": "Algonquin Technologies | Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "Algonquin",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/10eade2d5cad11bd1969a16f6b98b924",
+      "alt": "Algonquin Technologies | Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__algonquin-algonquin-technologies-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/algonquin-algonquin-technologies-runtz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.456Z"
+}

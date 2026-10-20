@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-510-cart-miami-mint",
+  "name": "Berry Green 510 Cart | Miami Mint",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Cool, calm, and dangerous. Smooth mint with a wild kick — this one bites back.\n\nBorn to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "description_html": "Cool, calm, and dangerous. Smooth mint with a wild kick — this one bites back.<br /><br />Born to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fcf2de07985bb9a6547ac7ddb1a4f248",
+      "alt": "Berry Green 510 Cart | Miami Mint",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-510-cart-miami-mint__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-510-cart-miami-mint-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.267Z"
+}

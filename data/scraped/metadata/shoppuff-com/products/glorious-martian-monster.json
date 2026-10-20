@@ -1,0 +1,60 @@
+{
+  "slug": "glorious-martian-monster",
+  "name": "Intrinsic | Martian Monster",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$6.00 – $100.00",
+  "available": true,
+  "vendor": "Intrinsic",
+  "tags": [],
+  "description": "The Modified Grapes high hits you almost as soon as you exhale, filling you with a lifted sense of euphoria that instantly boosts your mood and leaves you flying. You'll feel creative and sociable with an outgoing sense that has you easily carrying on conversations with those around you. This state does turn heady at times, leaving you unfocused and a little out of touch although pretty happy about it. These effects give Modified Grapes an edge in treating those suffering from conditions such as asthma, insomnia, chronic pain, depression and chronic stress or anxiety.",
+  "description_html": "The Modified Grapes high hits you almost as soon as you exhale, filling you with a lifted sense of euphoria that instantly boosts your mood and leaves you flying. You'll feel creative and sociable with an outgoing sense that has you easily carrying on conversations with those around you. This state does turn heady at times, leaving you unfocused and a little out of touch although pretty happy about it. These effects give Modified Grapes an edge in treating those suffering from conditions such as asthma, insomnia, chronic pain, depression and chronic stress or anxiety.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3bcf2c0cae7575fe2c1f49b287436d73",
+      "alt": "Intrinsic | Martian Monster",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-martian-monster__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 100,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-martian-monster-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.950Z"
+}

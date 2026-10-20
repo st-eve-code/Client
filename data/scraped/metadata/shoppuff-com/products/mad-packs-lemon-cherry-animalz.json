@@ -1,0 +1,60 @@
+{
+  "slug": "mad-packs-lemon-cherry-animalz",
+  "name": "Mad Packs | Lemon Cherry Animalz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$6.00 – $150.00",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "A vibrant blend of zesty lemon brightness and rich cherry sweetness, wrapped in creamy smooth smoke. Lemon Cherry Gelato delivers balanced effects that lift the mood while gently relaxing the body — perfect for flavorful enjoyment anytime.",
+  "description_html": "A vibrant blend of zesty lemon brightness and rich cherry sweetness, wrapped in creamy smooth smoke. Lemon Cherry Gelato delivers balanced effects that lift the mood while gently relaxing the body — perfect for flavorful enjoyment anytime.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/070b46d9190c2ce9448ab7416268b2bf",
+      "alt": "Mad Packs | Lemon Cherry Animalz",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-lemon-cherry-animalz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-lemon-cherry-animalz-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.656Z"
+}

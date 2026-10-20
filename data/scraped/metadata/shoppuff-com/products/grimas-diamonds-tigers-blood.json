@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-diamonds-tigers-blood",
+  "name": "Grimas Diamonds | Tiger's Blood",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "description_html": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Grimas Diamonds | Tiger's Blood",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-diamonds-tigers-blood__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-diamonds-tigers-blood-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.680Z"
+}

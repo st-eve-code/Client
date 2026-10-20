@@ -1,0 +1,35 @@
+{
+  "slug": "old-school-hash-co-5g-brick-hash-tropicana",
+  "name": "Old School Hash Co. | 5g Brick Hash | Tropicana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 120,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$120.00",
+  "available": true,
+  "vendor": "Old School Hash Co.",
+  "tags": [],
+  "description": "The Hash Pack - your ultimate companion for discreet, convenient, and elevated experiences. Crafted with precision and designed with sophistication, each Hash Pack is a compact 3 x 2-inch tin that encapsulates an unparalleled combination of quality hash and a sleek one-hitter pipe.",
+  "description_html": "The Hash Pack - your ultimate companion for discreet, convenient, and elevated experiences. Crafted with precision and designed with sophistication, each Hash Pack is a compact 3 x 2-inch tin that encapsulates an unparalleled combination of quality hash and a sleek one-hitter pipe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/07e270e78c6e0c2a52d3512553417ab2",
+      "alt": "Old School Hash Co. | 5g Brick Hash | Tropicana",
+      "local": "data\\scraped\\images\\shoppuff-com__old-school-hash-co-5g-brick-hash-tropicana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 120,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/old-school-hash-co-5g-brick-hash-tropicana-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.610Z"
+}

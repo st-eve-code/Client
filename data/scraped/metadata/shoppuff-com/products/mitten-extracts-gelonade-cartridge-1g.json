@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-gelonade-cartridge-1g",
+  "name": "Gelonade Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Gelonade (Hybrid) 1G Gelonade’s citrus and sweet fruity flavors are complemented by hints of sour lemon and creamy vanilla. The strain is perfect for those seeking euphoria, sociability, and tingling arousal.",
+  "description_html": "Gelonade (Hybrid) 1G Gelonade’s citrus and sweet fruity flavors are complemented by hints of sour lemon and creamy vanilla. The strain is perfect for those seeking euphoria, sociability, and tingling arousal.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a8148fb6b55f2b765826030d9bd3b29e",
+      "alt": "Gelonade Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-gelonade-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-gelonade-cartridge-1g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.853Z"
+}

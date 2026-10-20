@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-prepackaged-flower-platinum-beltz-12",
+  "name": "Peninsula Gardens Prepackaged Flower | Platinum Beltz #12",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Platinum LCG x Rainbow Belts 2.0. Beautiful purple flowers with some green speckled in. Smells like a permanent marker on steroids. Not the most potent strain but she bigtime makes up for it in mouthwatering terps.",
+  "description_html": "Platinum LCG x Rainbow Belts 2.0. Beautiful purple flowers with some green speckled in. Smells like a permanent marker on steroids. Not the most potent strain but she bigtime makes up for it in mouthwatering terps.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cfe0bf01565aa5778a628049699e9874",
+      "alt": "Peninsula Gardens Prepackaged Flower | Platinum Beltz #12",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-prepackaged-flower-platinum-beltz-12__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-prepackaged-flower-platinum-beltz-12-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.965Z"
+}

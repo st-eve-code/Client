@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-hytek-pre-roll-candy-float",
+  "name": "Hytek Pre-Roll | Candy Float",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Who doesn't love Cherry Cola with a hint of purple candy? The Candy Float bag appeal is off the charts!! Purple and sweet candy, what more can you ask for?\n\nCross: Cherry Float x Ritz (Runtz x Its Fire)",
+  "description_html": "Who doesn't love Cherry Cola with a hint of purple candy? The Candy Float bag appeal is off the charts!! Purple and sweet candy, what more can you ask for?<br /><br />Cross: Cherry Float x Ritz (Runtz x Its Fire)",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ae1bda41044316c6409d413da3693bfe",
+      "alt": "Hytek Pre-Roll | Candy Float",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-pre-roll-candy-float__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-pre-roll-candy-float-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.811Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "play-live-resin-infused-510-cartridge-strawberry-runtz",
+  "name": "Play | Strawberry Runtz | 1g | Hash Rosin Cartridge",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 9,
+  "price_max": 9,
+  "currency": "USD",
+  "price_range": "$9.00",
+  "available": true,
+  "vendor": "Play Cannabis",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/66bc7fea76af38add8eb963412f57cc7",
+      "alt": "Play | Strawberry Runtz | 1g | Hash Rosin Cartridge",
+      "local": "data\\scraped\\images\\shoppuff-com__play-live-resin-infused-510-cartridge-strawberry-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/play-live-resin-infused-510-cartridge-strawberry-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.294Z"
+}

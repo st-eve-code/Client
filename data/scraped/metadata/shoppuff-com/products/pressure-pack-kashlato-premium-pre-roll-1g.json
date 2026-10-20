@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-kashlato-premium-pre-roll-1g",
+  "name": "Kashlato Premium Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "A floral, fruity, and woody aroma is accompanied by sherbet and fruity flavors. This strain will have you feeling relaxed and calm. Now available in a one gram preroll.",
+  "description_html": "A floral, fruity, and woody aroma is accompanied by sherbet and fruity flavors. This strain will have you feeling relaxed and calm. Now available in a one gram preroll.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/058993413708ea64ce0dd36421748d79",
+      "alt": "Kashlato Premium Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-kashlato-premium-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-kashlato-premium-pre-roll-1g-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.705Z"
+}

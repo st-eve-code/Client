@@ -1,0 +1,40 @@
+{
+  "slug": "sapura-grease-monkey",
+  "name": "Sapura | Grease Monkey",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5.6,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$5.60 – $17.50",
+  "available": true,
+  "vendor": "Sapura",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Sapura | Grease Monkey",
+      "local": "data\\scraped\\images\\shoppuff-com__sapura-grease-monkey__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5.6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sapura-grease-monkey-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.662Z"
+}

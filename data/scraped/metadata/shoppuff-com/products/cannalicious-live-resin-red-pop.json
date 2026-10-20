@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-live-resin-red-pop",
+  "name": "Cannalicious Live Resin | Red Pop",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 18.75,
+  "price_max": 18.75,
+  "currency": "USD",
+  "price_range": "$18.75",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bf9bc2086365574e9cf26f42f9826306",
+      "alt": "Cannalicious Live Resin | Red Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-live-resin-red-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 18.75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-live-resin-red-pop-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.394Z"
+}

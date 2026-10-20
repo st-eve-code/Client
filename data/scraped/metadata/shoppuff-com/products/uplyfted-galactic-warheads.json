@@ -1,0 +1,60 @@
+{
+  "slug": "uplyfted-galactic-warheads",
+  "name": "Uplyfted | Galactic Warheads",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Uplyfted Cannabis Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Uplyfted | Galactic Warheads",
+      "local": "data\\scraped\\images\\shoppuff-com__uplyfted-galactic-warheads__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/uplyfted-galactic-warheads-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.572Z"
+}

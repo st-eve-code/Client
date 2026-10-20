@@ -1,0 +1,40 @@
+{
+  "slug": "fresh-canna-fresh-canna-1g-live-resin-strawberry-cough",
+  "name": "Fresh Canna Live Resin | Strawberry Cough",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 9,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$9.00 – $30.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Take a deep breath and savor the sweet, fruity rush of Fresh Canna’s Live Resin Wax – Strawberry Cough, a legendary sativa known for its uplifting energy and smooth, flavorful smoke. Made from fresh-frozen cannabis, this terpene-rich live resin wax delivers a bold burst of strawberry sweetness with every dab. With its ripe strawberry, citrus, and earthy spice aroma, Strawberry Cough provides a fast-acting cerebral buzz that enhances focus, creativity, and mood while keeping you feeling light and clear-headed. Whether you're starting your day or sparking inspiration, this strain is the perfect pick-me-up.",
+  "description_html": "Take a deep breath and savor the sweet, fruity rush of Fresh Canna’s Live Resin Wax – Strawberry Cough, a legendary sativa known for its uplifting energy and smooth, flavorful smoke. Made from fresh-frozen cannabis, this terpene-rich live resin wax delivers a bold burst of strawberry sweetness with every dab. With its ripe strawberry, citrus, and earthy spice aroma, Strawberry Cough provides a fast-acting cerebral buzz that enhances focus, creativity, and mood while keeping you feeling light and clear-headed. Whether you're starting your day or sparking inspiration, this strain is the perfect pick-me-up.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3c0f23517c66bf61824fb16f6ad7886b",
+      "alt": "Fresh Canna Live Resin | Strawberry Cough",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-1g-live-resin-strawberry-cough__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-1g-live-resin-strawberry-cough-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.003Z"
+}

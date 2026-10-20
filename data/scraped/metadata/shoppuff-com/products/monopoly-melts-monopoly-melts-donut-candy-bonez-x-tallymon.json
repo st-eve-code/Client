@@ -1,0 +1,35 @@
+{
+  "slug": "monopoly-melts-monopoly-melts-donut-candy-bonez-x-tallymon",
+  "name": "Monopoly Melts Donut | Candy Bonez x Tallymon",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Monopoly Melts",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/28181ce65f0eebe595ec3a2cdd70cabe",
+      "alt": "Monopoly Melts Donut | Candy Bonez x Tallymon",
+      "local": "data\\scraped\\images\\shoppuff-com__monopoly-melts-monopoly-melts-donut-candy-bonez-x-tallymon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/monopoly-melts-monopoly-melts-donut-candy-bonez-x-tallymon-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.893Z"
+}

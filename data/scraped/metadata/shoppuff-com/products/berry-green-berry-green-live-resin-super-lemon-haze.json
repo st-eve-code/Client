@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-live-resin-super-lemon-haze",
+  "name": "Berry Green Live Resin | Super Lemon Haze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Sharp citrus. Sun-bright energy. Super Lemon Haze Live Resin bursts with lemon zest and sweet herbal complexity for an uplifting, focused high that feels clean and refreshing from inhale to exhale.",
+  "description_html": "Sharp citrus. Sun-bright energy. Super Lemon Haze Live Resin bursts with lemon zest and sweet herbal complexity for an uplifting, focused high that feels clean and refreshing from inhale to exhale.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/77de55bb2096a973c92d984d83aacccd",
+      "alt": "Berry Green Live Resin | Super Lemon Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-live-resin-super-lemon-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-live-resin-super-lemon-haze-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.243Z"
+}

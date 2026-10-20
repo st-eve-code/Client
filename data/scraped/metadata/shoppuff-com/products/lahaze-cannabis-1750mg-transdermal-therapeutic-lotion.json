@@ -1,0 +1,35 @@
+{
+  "slug": "lahaze-cannabis-1750mg-transdermal-therapeutic-lotion",
+  "name": "LaHaze Cannabis | 1750mg Transdermal | Therapeutic Lotion",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "La Haze",
+  "tags": [],
+  "description": "Cannabis lotions are a great way to ease muscle and joint pain in specific areas. While not intended to have psychoactive effects, lotions can range widely in potency and efficacy and should be applied incrementally. Warming the application area slightly beforehand will aid absorption.",
+  "description_html": "Cannabis lotions are a great way to ease muscle and joint pain in specific areas. While not intended to have psychoactive effects, lotions can range widely in potency and efficacy and should be applied incrementally. Warming the application area slightly beforehand will aid absorption.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/topicals.jpg",
+      "alt": "LaHaze Cannabis | 1750mg Transdermal | Therapeutic Lotion",
+      "local": "data\\scraped\\images\\shoppuff-com__lahaze-cannabis-1750mg-transdermal-therapeutic-lotion__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.8g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/lahaze-cannabis-1750mg-transdermal-therapeutic-lotion-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.325Z"
+}

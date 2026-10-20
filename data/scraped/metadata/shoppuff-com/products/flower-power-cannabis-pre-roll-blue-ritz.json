@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-pre-roll-blue-ritz",
+  "name": "Flower Power Cannabis Pre-Roll | Blue Ritz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "1G Preroll of our Blue Ritz. Made with 100% premium flower.\n\nBlue Candy x R.I.T.Z. | Hybrid\n\nDominant Terpenes: Limonene, Caryophyllene, Linalool",
+  "description_html": "1G Preroll of our Blue Ritz. Made with 100% premium flower.<br /><br /><br /><br />Blue Candy x R.I.T.Z. | Hybrid<br /><br />Dominant Terpenes: Limonene, Caryophyllene, Linalool",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3ca112ed26b48c305de16f77c08b6ae5",
+      "alt": "Flower Power Cannabis Pre-Roll | Blue Ritz",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-pre-roll-blue-ritz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-pre-roll-blue-ritz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.350Z"
+}

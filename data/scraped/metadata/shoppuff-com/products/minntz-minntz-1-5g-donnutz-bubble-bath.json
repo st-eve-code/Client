@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-minntz-1-5g-donnutz-bubble-bath",
+  "name": "Minntz | 1.5g Donnutz | Bubble Bath",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7f6cc426da7d6c6d2a635a6287e1ff62",
+      "alt": "Minntz | 1.5g Donnutz | Bubble Bath",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-1-5g-donnutz-bubble-bath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-1-5g-donnutz-bubble-bath-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.787Z"
+}

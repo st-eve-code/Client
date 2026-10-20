@@ -1,0 +1,35 @@
+{
+  "slug": "cookies-dual-disposables-blue-raz-x-blueberry-banana",
+  "name": "Cookies Dual Disposables | Blue Raz x Blueberry Banana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Cookies",
+  "tags": [],
+  "description": "This premium disposable vape features a 2g pre-filled cartridge, combining two unique and exciting flavors.",
+  "description_html": "This premium disposable vape features a 2g pre-filled cartridge, combining two unique and exciting flavors.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/35867b3b821e2b009de02c702125df46",
+      "alt": "Cookies Dual Disposables | Blue Raz x Blueberry Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__cookies-dual-disposables-blue-raz-x-blueberry-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cookies-dual-disposables-blue-raz-x-blueberry-banana-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.609Z"
+}

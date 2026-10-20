@@ -1,0 +1,60 @@
+{
+  "slug": "cloud-farms-cloud-farms-fun-dip",
+  "name": "Cloud Farms | Fun Dip",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99.99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.99",
+  "available": true,
+  "vendor": "Cloud Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dba8cc46ddf4ceea6758879df88833d8",
+      "alt": "Cloud Farms | Fun Dip",
+      "local": "data\\scraped\\images\\shoppuff-com__cloud-farms-cloud-farms-fun-dip__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99.99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloud-farms-cloud-farms-fun-dip-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.629Z"
+}

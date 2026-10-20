@@ -1,0 +1,35 @@
+{
+  "slug": "suno-200mg-tincture-thc",
+  "name": "SUNO THC Tincture – 200MG",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "SUNO",
+  "tags": [],
+  "description": "Formulated with 100% refined hemp seed oil, this tincture delivers 200mg of THC per 30mL bottle. Each 1mL serving (1 full dropper) provides approximately 6.66mg of THC. Metered droppers ensure accurate dosing every time. Vegan. Nut-free. Free of dyes, sugar, and gluten. Clinically Relevant Cannabis. Clinically Relevant Results.",
+  "description_html": "Formulated with 100% refined hemp seed oil, this tincture delivers 200mg of THC per 30mL bottle. Each 1mL serving (1 full dropper) provides approximately 6.66mg of THC. Metered droppers ensure accurate dosing every time. Vegan. Nut-free. Free of dyes, sugar, and gluten. Clinically Relevant Cannabis. Clinically Relevant Results.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/10d66ad528ce811635bbefd4a0bb217f",
+      "alt": "SUNO THC Tincture – 200MG",
+      "local": "data\\scraped\\images\\shoppuff-com__suno-200mg-tincture-thc__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".8g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TINCTURES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/suno-200mg-tincture-thc-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.854Z"
+}

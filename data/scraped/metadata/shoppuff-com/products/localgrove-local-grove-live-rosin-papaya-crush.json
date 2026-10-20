@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-papaya-crush",
+  "name": "Local Grove Live Rosin | Papaya Crush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 37.5,
+  "price_max": 37.5,
+  "currency": "USD",
+  "price_range": "$37.50",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: BOLO Runtz x Papaya \n\nBreeder: Bloom Seed Co \n\nAroma & Flavor: Fruity papaya funk with candy undertones \n\nEffects: Hybrid – excellent for both flower and rosin",
+  "description_html": "Genetics: BOLO Runtz x Papaya <br /><br />Breeder: Bloom Seed Co <br /><br />Aroma & Flavor: Fruity papaya funk with candy undertones <br /><br />Effects: Hybrid – excellent for both flower and rosin",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ea01ef8d08a90318bd4fbf8b2175032f",
+      "alt": "Local Grove Live Rosin | Papaya Crush",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-papaya-crush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 37.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-papaya-crush-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.206Z"
+}

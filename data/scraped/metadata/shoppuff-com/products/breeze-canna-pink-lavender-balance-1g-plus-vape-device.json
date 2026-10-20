@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-pink-lavender-balance-1g-plus-vape-device",
+  "name": "Pink Lavender - Balance 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "A refreshing combination of lavender, strawberry, citrus and floral soothes the mind and refreshes the soul.",
+  "description_html": "A refreshing combination of lavender, strawberry, citrus and floral soothes the mind and refreshes the soul.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c2b419c43061f916c26bae0e089b9f4a",
+      "alt": "Pink Lavender - Balance 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-pink-lavender-balance-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-pink-lavender-balance-1g-plus-vape-device-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.246Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "society-c-lemon-cherry-z",
+  "name": "Society C | Lemon Cherry Z",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$6.00 – $17.00",
+  "available": true,
+  "vendor": "Society C",
+  "tags": [],
+  "description": "Society C's Lemon Cherry Z is an Indica Hybrid strain made by crossing Lemon Cherry Gelato with Zkittlez. It boasts a blend of terpenes including Linalool, Caryophyllene, and Limonene, which contribute to its aromas of citrus, gas, and floral notes. This strain is recognized for its uplifting, relaxing, and creative effects.",
+  "description_html": "Society C's Lemon Cherry Z is an Indica Hybrid strain made by crossing Lemon Cherry Gelato with Zkittlez. It boasts a blend of terpenes including Linalool, Caryophyllene, and Limonene, which contribute to its aromas of citrus, gas, and floral notes. This strain is recognized for its uplifting, relaxing, and creative effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c4a44fa5add64b63eb41345d809be5ab",
+      "alt": "Society C | Lemon Cherry Z",
+      "local": "data\\scraped\\images\\shoppuff-com__society-c-lemon-cherry-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/society-c-lemon-cherry-z-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.533Z"
+}

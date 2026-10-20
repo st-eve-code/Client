@@ -1,0 +1,35 @@
+{
+  "slug": "mac-pharms-mac-pharms-infused-pre-roll-traverse-city-cherries",
+  "name": "Mac Pharms Infused Pre-roll | Traverse City Cherries",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mac Pharms",
+  "tags": [],
+  "description": "Traverse City Cherries celebrates Michigan’s cherry country—rich, tart-sweet fruit with a smooth come-down.\nFlavor: Dark cherry with a lightly tart edge.",
+  "description_html": "Traverse City Cherries celebrates Michigan’s cherry country—rich, tart-sweet fruit with a smooth come-down.<br />Flavor: Dark cherry with a lightly tart edge.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/25fa4dff120e0a997ab7b8d030db74a7",
+      "alt": "Mac Pharms Infused Pre-roll | Traverse City Cherries",
+      "local": "data\\scraped\\images\\shoppuff-com__mac-pharms-mac-pharms-infused-pre-roll-traverse-city-cherries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mac-pharms-mac-pharms-infused-pre-roll-traverse-city-cherries-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.415Z"
+}

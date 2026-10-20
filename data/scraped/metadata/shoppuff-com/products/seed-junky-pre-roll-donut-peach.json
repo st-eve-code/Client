@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-pre-roll-donut-peach",
+  "name": "Seed Junky Pre-Roll | Donut Peach",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Inspired by the legendary flat peaches of ancient China—once said to grant immortality to those lucky enough to taste them. The aroma is loud and unmistakable: sweet peach, with a hit of peach ring candy. The flavor rolls in with notes of caramelized peaches and a clean, smooth finish. The experience starts off fun and uplifting before easing you into a relaxed, mellow state.\n\nZkittlez x Animal Cookies BX2 IX",
+  "description_html": "Inspired by the legendary flat peaches of ancient China—once said to grant immortality to those lucky enough to taste them. The aroma is loud and unmistakable: sweet peach, with a hit of peach ring candy. The flavor rolls in with notes of caramelized peaches and a clean, smooth finish. The experience starts off fun and uplifting before easing you into a relaxed, mellow state.<br /><br />Zkittlez x Animal Cookies BX2 IX",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d4cdd4909c3ad8affa545f93a4921900",
+      "alt": "Seed Junky Pre-Roll | Donut Peach",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-pre-roll-donut-peach__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-pre-roll-donut-peach-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.835Z"
+}

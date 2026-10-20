@@ -1,0 +1,35 @@
+{
+  "slug": "gt-rolling-co-gt-rolling-co-pre-roll-cherry-slushie",
+  "name": "GT Rolling Co. Pre-Roll | Cherry Slushie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "GT Rolling Co.",
+  "tags": [],
+  "description": "1.5g Premium Pre-Roll",
+  "description_html": "1.5g Premium Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/60aa79864502d9372ef81faeb3356995",
+      "alt": "GT Rolling Co. Pre-Roll | Cherry Slushie",
+      "local": "data\\scraped\\images\\shoppuff-com__gt-rolling-co-gt-rolling-co-pre-roll-cherry-slushie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gt-rolling-co-gt-rolling-co-pre-roll-cherry-slushie-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.429Z"
+}

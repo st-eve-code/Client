@@ -1,0 +1,35 @@
+{
+  "slug": "mkx-200mg-chocolate-bites-peanut-butter",
+  "name": "MKX Chocolate Bites - 200mg - Milk Chocolate Peanut Butter",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "FAST ACTING | 1 BAR - 10 BITES | 20MG PER BITE",
+  "description_html": "FAST ACTING | 1 BAR - 10 BITES | 20MG PER BITE",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e58c7aa1ab77e9ac63be20fe956a200d",
+      "alt": "MKX Chocolate Bites - 200mg - Milk Chocolate Peanut Butter",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-200mg-chocolate-bites-peanut-butter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.945g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-200mg-chocolate-bites-peanut-butter-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.056Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "plant-nerd-plant-nerd-papaya-bomb",
+  "name": "Plant Nerd | Papaya Bomb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Papaya x THC Bomb by Purple City Genetics. The reason we added this strain to our production is simple, we just really like it! The nose hits you with a skunky, fruity papaya punch and has the terpene content to really make it land. The flower is dense, big buds that are mostly green with dense trichome coverage.",
+  "description_html": "Papaya x THC Bomb by Purple City Genetics. The reason we added this strain to our production is simple, we just really like it! The nose hits you with a skunky, fruity papaya punch and has the terpene content to really make it land. The flower is dense, big buds that are mostly green with dense trichome coverage.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1f3e981de226ca2a51eaef659a734ffd",
+      "alt": "Plant Nerd | Papaya Bomb",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-papaya-bomb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-papaya-bomb-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.788Z"
+}

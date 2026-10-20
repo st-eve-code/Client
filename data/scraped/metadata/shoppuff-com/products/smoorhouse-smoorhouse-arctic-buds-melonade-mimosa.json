@@ -1,0 +1,60 @@
+{
+  "slug": "smoorhouse-smoorhouse-arctic-buds-melonade-mimosa",
+  "name": "Smoorhouse | Arctic Buds | Melonade Mimosa",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 9,
+  "price_max": 198,
+  "currency": "USD",
+  "price_range": "$9.00 – $198.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Melonade Mimosa\nFLAVOR: Citrus zest, honeydew, sparkling sweet\nTERPENES: Limonene, Terpinolene, Ocimene\nFEEL: Bubbly, talkative, energetic without the jitters\nVIBE: Sunday brunch, forest picnic, golden hour glow\n\nCurated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "description_html": "Melonade Mimosa<br />FLAVOR: Citrus zest, honeydew, sparkling sweet<br />TERPENES: Limonene, Terpinolene, Ocimene<br />FEEL: Bubbly, talkative, energetic without the jitters<br />VIBE: Sunday brunch, forest picnic, golden hour glow<br /><br />Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bdba4b7063eefa403f3b3819f8722acf",
+      "alt": "Smoorhouse | Arctic Buds | Melonade Mimosa",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-smoorhouse-arctic-buds-melonade-mimosa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 198,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-smoorhouse-arctic-buds-melonade-mimosa-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.305Z"
+}

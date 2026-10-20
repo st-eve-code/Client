@@ -1,0 +1,35 @@
+{
+  "slug": "marys-medicinals-marys-200mg-10pk-transdermal-patch-energy-sativa",
+  "name": "Mary's | 200mg 10pk Transdermal Patch | Energy Sativa",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Mary's Medicinals",
+  "tags": [],
+  "description": "Transdermal patches are unique in the topical category because they are able to break the \"blood-brain barrier\", meaning you may experience psychoactive effects! Patches are great for long lasting, controlled relief and are intended to be left on the skin for 12-24 hours.",
+  "description_html": "Transdermal patches are unique in the topical category because they are able to break the \"blood-brain barrier\", meaning you may experience psychoactive effects! Patches are great for long lasting, controlled relief and are intended to be left on the skin for 12-24 hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b9749bf9fb0e0bcb88654b40825075a6",
+      "alt": "Mary's | 200mg 10pk Transdermal Patch | Energy Sativa",
+      "local": "data\\scraped\\images\\shoppuff-com__marys-medicinals-marys-200mg-10pk-transdermal-patch-energy-sativa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".2g",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/marys-medicinals-marys-200mg-10pk-transdermal-patch-energy-sativa-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.272Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "uplyfted-pre-roll-purple-pop-rocks",
+  "name": "Uplyfted Pre-Roll | Purple Pop Rocks",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Uplyfted Cannabis Co.",
+  "tags": [],
+  "description": "TYPE OF STRAIN:\n\nINDICA HYBRID\n\nLINEAGE:?\n\nPURPLE OCTANE x JEALOUSY.\n\nTYPE OF HIGH:\n\nTHIS FLOWER HAS A STRONG AND QUICK ACTIVATION TIME,SO BE CAUTIOUS WHEN CONSUMING — BE PREPARED!\n\nAROMA:\n\n?A STRONG, PUNGENT COMBINATION OF NUTTY AND PEPPER.\n\nTASTE:??\n\nSWEET EARTH WITH NOTES OF NUT AND OAK.\n\nTERPINE PROFILE:\n\nCARYOPHYLLENE\n\nLIMONENE\n\nLINALOOL\n\nHELPS WITH:\n\n?ANXIETY – STRESS – MOOD",
+  "description_html": "TYPE OF STRAIN:<br /><br />INDICA HYBRID<br /><br />LINEAGE:?<br /><br />PURPLE OCTANE x JEALOUSY.<br /><br />TYPE OF HIGH:<br /><br />THIS FLOWER HAS A STRONG AND QUICK ACTIVATION TIME,SO BE CAUTIOUS WHEN CONSUMING — BE PREPARED!<br /><br />AROMA:<br /><br />?A STRONG, PUNGENT COMBINATION OF NUTTY AND PEPPER.<br /><br />TASTE:??<br /><br />SWEET EARTH WITH NOTES OF NUT AND OAK.<br /><br />TERPINE PROFILE:<br /><br />CARYOPHYLLENE<br /><br />LIMONENE<br /><br />LINALOOL<br /><br />HELPS WITH:<br /><br />?ANXIETY – STRESS – MOOD",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/626664b0ce270f472ebcada8218ad95e",
+      "alt": "Uplyfted Pre-Roll | Purple Pop Rocks",
+      "local": "data\\scraped\\images\\shoppuff-com__uplyfted-pre-roll-purple-pop-rocks__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/uplyfted-pre-roll-purple-pop-rocks-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.572Z"
+}

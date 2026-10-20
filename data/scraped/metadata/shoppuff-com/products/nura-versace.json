@@ -1,0 +1,60 @@
+{
+  "slug": "nura-versace",
+  "name": "Nura | Versace",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.8,
+  "price_max": 79.99,
+  "currency": "USD",
+  "price_range": "$4.80 – $79.99",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Nura | Versace",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-versace__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 32,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 48,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 79.99,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4.8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 9.6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-versace-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.695Z"
+}

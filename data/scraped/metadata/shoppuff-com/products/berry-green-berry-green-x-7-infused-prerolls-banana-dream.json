@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-x-7-infused-prerolls-banana-dream",
+  "name": "Berry Green x 7 Infused Prerolls | Banana Dream",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Creamy banana haze with a high that drifts and drops you right where you want to be.\n\nEffect: Mellow euphoria that slides between focus and fade.",
+  "description_html": "Creamy banana haze with a high that drifts and drops you right where you want to be.<br /><br />Effect: Mellow euphoria that slides between focus and fade.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0bd5365610645cfcf9db5e8a70becb70",
+      "alt": "Berry Green x 7 Infused Prerolls | Banana Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-x-7-infused-prerolls-banana-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-x-7-infused-prerolls-banana-dream-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.247Z"
+}

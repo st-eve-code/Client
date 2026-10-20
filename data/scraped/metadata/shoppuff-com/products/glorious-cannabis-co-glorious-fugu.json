@@ -1,0 +1,60 @@
+{
+  "slug": "glorious-cannabis-co-glorious-fugu",
+  "name": "Intrinsic | Fugu",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.2,
+  "price_max": 69.3,
+  "currency": "USD",
+  "price_range": "$4.20 – $69.30",
+  "available": true,
+  "vendor": "Intrinsic",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/82359e7ae912ae1da516daf50e22879c",
+      "alt": "Intrinsic | Fugu",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-fugu__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4.2,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10.5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 69.3,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 38.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 21,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8.4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-fugu-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.946Z"
+}

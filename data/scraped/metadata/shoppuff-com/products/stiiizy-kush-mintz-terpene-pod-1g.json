@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-kush-mintz-terpene-pod-1g",
+  "name": "Kush Mintz Terpene Pod | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Extracted directly from local single-sourced cannabis plants, STIIIZY’s Cannabis Derived Terpenes preserve the natural terpene profile of each flower strain to deliver optimum synergy in both flavor and potency.",
+  "description_html": "Extracted directly from local single-sourced cannabis plants, STIIIZY’s Cannabis Derived Terpenes preserve the natural terpene profile of each flower strain to deliver optimum synergy in both flavor and potency.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/226cefbe7c8efab0473d1c6fcdbcfc94",
+      "alt": "Kush Mintz Terpene Pod | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-kush-mintz-terpene-pod-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-kush-mintz-terpene-pod-1g-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.308Z"
+}

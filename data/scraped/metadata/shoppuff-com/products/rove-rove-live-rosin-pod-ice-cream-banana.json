@@ -1,0 +1,35 @@
+{
+  "slug": "rove-rove-live-rosin-pod-ice-cream-banana",
+  "name": "ROVE Live Rosin Pod | Ice Cream Banana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8196a54136a3fe49b9250c8fd33d8792",
+      "alt": "ROVE Live Rosin Pod | Ice Cream Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-rove-live-rosin-pod-ice-cream-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-rove-live-rosin-pod-ice-cream-banana-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.846Z"
+}

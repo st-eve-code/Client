@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-premium-preroll-popz-41",
+  "name": "Local Grove Premium Preroll | Popz #41",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Gelato 41 x Zkittlez \n\nBreeder: Unknown \n\nAroma & Flavor: Sweet candy and creamy gas, reminiscent of Runtz \n\nEffects: Balanced hybrid – euphoric head high with calming body effects",
+  "description_html": "Genetics: Gelato 41 x Zkittlez <br /><br />Breeder: Unknown <br /><br />Aroma & Flavor: Sweet candy and creamy gas, reminiscent of Runtz <br /><br />Effects: Balanced hybrid – euphoric head high with calming body effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3aa9835a00513ba5f6f5ed8f3a60279e",
+      "alt": "Local Grove Premium Preroll | Popz #41",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-premium-preroll-popz-41__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-premium-preroll-popz-41-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.551Z"
+}

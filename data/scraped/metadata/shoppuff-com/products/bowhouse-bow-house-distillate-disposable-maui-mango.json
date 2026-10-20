@@ -1,0 +1,35 @@
+{
+  "slug": "bowhouse-bow-house-distillate-disposable-maui-mango",
+  "name": "Bow House Distillate Disposable | Maui Mango",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Bowhouse",
+  "tags": [],
+  "description": "2g Distillate Disposable",
+  "description_html": "2g Distillate Disposable",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/92321f852d54769d47708e3e287515ed",
+      "alt": "Bow House Distillate Disposable | Maui Mango",
+      "local": "data\\scraped\\images\\shoppuff-com__bowhouse-bow-house-distillate-disposable-maui-mango__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bowhouse-bow-house-distillate-disposable-maui-mango-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.614Z"
+}

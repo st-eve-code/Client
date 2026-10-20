@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-1-2g-infused-preroll-sour-strawberry",
+  "name": "OG Farms | 1.2g Infused Preroll | Sour Strawberry",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "- 1.2g infused pre-roll\n\n- Infused with premium distillate oil\n\n- Enhanced with natural terpenes\n\n- Evenly packed for a smooth, consistent burn\n\n- Convenient, ready-to-smoke format",
+  "description_html": "- 1.2g infused pre-roll<br /><br />- Infused with premium distillate oil<br /><br />- Enhanced with natural terpenes<br /><br />- Evenly packed for a smooth, consistent burn<br /><br />- Convenient, ready-to-smoke format",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/37b46be524b8e9ee75dd61eb442d7ce8",
+      "alt": "OG Farms | 1.2g Infused Preroll | Sour Strawberry",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-1-2g-infused-preroll-sour-strawberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-1-2g-infused-preroll-sour-strawberry-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.752Z"
+}

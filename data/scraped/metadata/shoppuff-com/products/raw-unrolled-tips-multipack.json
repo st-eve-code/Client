@@ -1,0 +1,35 @@
+{
+  "slug": "raw-unrolled-tips-multipack",
+  "name": "Raw Unrolled Tips Multipack",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 1.5,
+  "price_max": 1.5,
+  "currency": "USD",
+  "price_range": "$1.50",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "RAW Original Tips are meticulously crafted from natural long fibers using an original type Fourdrinier paper machine – we’ve spared no expense. RAW Original Tips roll up smooth and have enough structural integrity to maintain their shape and rigidity even when wet.",
+  "description_html": "RAW Original Tips are meticulously crafted from natural long fibers using an original type Fourdrinier paper machine – we’ve spared no expense. RAW Original Tips roll up smooth and have enough structural integrity to maintain their shape and rigidity even when wet. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f06facfb0df16015f7245b9494d3450c",
+      "alt": "Raw Unrolled Tips Multipack",
+      "local": "data\\scraped\\images\\shoppuff-com__raw-unrolled-tips-multipack__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 1.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/raw-unrolled-tips-multipack-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.296Z"
+}

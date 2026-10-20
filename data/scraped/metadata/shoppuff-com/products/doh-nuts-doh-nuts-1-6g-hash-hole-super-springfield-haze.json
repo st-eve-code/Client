@@ -1,0 +1,35 @@
+{
+  "slug": "doh-nuts-doh-nuts-1-6g-hash-hole-super-springfield-haze",
+  "name": "D'oh Nuts | 1.6g Hash Hole | Super Springfield Haze",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "D'oh Nuts",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cd007e04c659c63c89f171ffe5b96712",
+      "alt": "D'oh Nuts | 1.6g Hash Hole | Super Springfield Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__doh-nuts-doh-nuts-1-6g-hash-hole-super-springfield-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.6g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doh-nuts-doh-nuts-1-6g-hash-hole-super-springfield-haze-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.082Z"
+}

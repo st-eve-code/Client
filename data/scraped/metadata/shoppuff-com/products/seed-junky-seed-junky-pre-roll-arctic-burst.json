@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-arctic-burst",
+  "name": "Seed Junky Pre-Roll | Arctic Burst",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Arctic Burst hits like a rush of frozen flavor—think blue icee slush with a sweet, fruity twist and a crisp pine finish. The cool sensation lingers on your tongue, leaving a refreshing, almost mouthwatering feeling that keeps you coming back. High in flavor and smooth on the exhale, this strain delivers a balanced, uplifting high that keeps you calm, clear, and locked in. It’s a flavorful escape with a frosty edge.",
+  "description_html": "Arctic Burst hits like a rush of frozen flavor—think blue icee slush with a sweet, fruity twist and a crisp pine finish. The cool sensation lingers on your tongue, leaving a refreshing, almost mouthwatering feeling that keeps you coming back. High in flavor and smooth on the exhale, this strain delivers a balanced, uplifting high that keeps you calm, clear, and locked in. It’s a flavorful escape with a frosty edge.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a5ba780788fa7d925380f1ab1d1e80ef",
+      "alt": "Seed Junky Pre-Roll | Arctic Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-arctic-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-arctic-burst-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.508Z"
+}

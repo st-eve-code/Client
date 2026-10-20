@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-runtz-hand-roll",
+  "name": "Peninsula Gardens Hand Roll | Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Runtz ya life up! One of the personal favorite smokes for a lot of our staff here at PG. The real deal and not just all hype. Flavors and smells loaded with fruity gas will be sure to turn heads when you spark up a joint. One of those rare ones you can smoke on all day long and not get sick of.",
+  "description_html": "Runtz ya life up! One of the personal favorite smokes for a lot of our staff here at PG. The real deal and not just all hype. Flavors and smells loaded with fruity gas will be sure to turn heads when you spark up a joint. One of those rare ones you can smoke on all day long and not get sick of.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ca86dce98d5dd1e56d4728bc47e1aacb",
+      "alt": "Peninsula Gardens Hand Roll | Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-runtz-hand-roll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-runtz-hand-roll-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.793Z"
+}

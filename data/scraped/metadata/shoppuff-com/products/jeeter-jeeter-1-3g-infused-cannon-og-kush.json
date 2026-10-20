@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-1-3g-infused-cannon-og-kush",
+  "name": "Jeeter | 1.3g Infused Cannon | OG Kush",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "INFUSED W/ LIVE RESIN\n\n1.3 grams of exotic indoor flower infused with live resin (full spectrum oil retaining a higher concentration of cannabinoids and terpenes). It showcases complimentary strains of high quality live resin and flower paired together for complex flavor and unique effects.",
+  "description_html": "INFUSED W/ LIVE RESIN<br /><br />1.3 grams of exotic indoor flower infused with live resin (full spectrum oil retaining a higher concentration of cannabinoids and terpenes). It showcases complimentary strains of high quality live resin and flower paired together for complex flavor and unique effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/82571a074f8e91fe59c21f143bca6f54",
+      "alt": "Jeeter | 1.3g Infused Cannon | OG Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-1-3g-infused-cannon-og-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-1-3g-infused-cannon-og-kush-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.545Z"
+}

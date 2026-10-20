@@ -1,0 +1,40 @@
+{
+  "slug": "beanie-obliter8",
+  "name": "Beanie - Obliter8",
+  "site": "ochoextracts-com",
+  "category": "swag",
+  "price_min": 19.99,
+  "price_max": 19.99,
+  "currency": "GBP",
+  "price_range": "£19.99",
+  "available": true,
+  "sku": "OCHO-BEANIE-OBLITER8",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "Swag"
+  ],
+  "description": "Stay warm while keeping the fit clean with the OBLITER8 Beanie. Featuring a classic black knit design and a bold front iron-on fabric patch logo, this piece delivers everyday comfort with standout detail.\n\nThe soft stretch material provides a comfortable fit, while the fold-over cuff keeps the look timeless and easy to style. Finished with the signature OBLITER8 planet graphic, this beanie is made for daily wear on and off the move.\n\nFeatures:\n• Soft stretch knit construction\n• Fold-over cuff fit\n• Iron-on fabric patch\n• Classic black colorway\n• One size fits most",
+  "description_html": "<p class=\"isSelectedEnd\"><span>Stay warm while keeping the fit clean with the <strong>OBLITER8 Beanie</strong>. Featuring a classic black knit design and a bold front iron-on fabric patch logo, this piece delivers everyday comfort with standout detail.</span></p>\n<p class=\"isSelectedEnd\"><span>The soft stretch material provides a comfortable fit, while the fold-over cuff keeps the look timeless and easy to style. Finished with the signature <strong>OBLITER8</strong> planet graphic, this beanie is made for daily wear on and off the move.</span></p>\n<p><span style=\"text-decoration: underline;\"><strong>Features:</strong></span><br><span>• Soft stretch knit construction</span><br><span>• Fold-over cuff fit</span><br><span>• Iron-on fabric patch</span><br><span>• Classic black colorway</span><br><span>• One size fits most</span></p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/WhatsAppImage2026-05-18at12.29.16.jpg?v=1779137453",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__beanie-obliter8__000.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 45863535247546,
+      "title": "Default Title",
+      "price": 19.99,
+      "sku": "OCHO-BEANIE-OBLITER8",
+      "available": true
+    }
+  ],
+  "collections": [
+    "swag"
+  ],
+  "source_url": "https://ochoextracts.com/products/beanie-obliter8",
+  "scraped_at": "2026-10-10T21:42:46.208Z"
+}

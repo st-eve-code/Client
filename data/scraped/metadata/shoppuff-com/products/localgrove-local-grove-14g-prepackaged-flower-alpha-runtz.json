@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-14g-prepackaged-flower-alpha-runtz",
+  "name": "Local Grove | 14g Prepackaged Flower | Alpha Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 99,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$99.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Local Grove | 14g Prepackaged Flower | Alpha Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-14g-prepackaged-flower-alpha-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-14g-prepackaged-flower-alpha-runtz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.780Z"
+}

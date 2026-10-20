@@ -1,0 +1,35 @@
+{
+  "slug": "mad-packs-pre-packaged-flower-candy-bonez",
+  "name": "Mad Packs Pre-Packaged Flower | Candy Bonez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "Candy Bonez hits that perfect sweet-meets-sinister lane — a candy-coated strain with a little edge under the surface. The flavor opens with bright, sugary fruit notes that melt into a creamy, almost marshmallow-like finish, while a subtle hint of gas gives it that “Bonez” bite. The effects come on smooth and uplifting at first, lifting the mood and sharpening the senses before settling into a warm, body-loosening relaxation that never gets too heavy.",
+  "description_html": "Candy Bonez hits that perfect sweet-meets-sinister lane — a candy-coated strain with a little edge under the surface. The flavor opens with bright, sugary fruit notes that melt into a creamy, almost marshmallow-like finish, while a subtle hint of gas gives it that “Bonez” bite. The effects come on smooth and uplifting at first, lifting the mood and sharpening the senses before settling into a warm, body-loosening relaxation that never gets too heavy.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5395a87d0ce658737b0361c4c38843ba",
+      "alt": "Mad Packs Pre-Packaged Flower | Candy Bonez",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-pre-packaged-flower-candy-bonez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-pre-packaged-flower-candy-bonez-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.953Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-moonrocks-bubblegum",
+  "name": "White Boy Rick Moonrocks | BubbleGum",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/abcb0e12cf29ac9c7ef99d6c644fb066",
+      "alt": "White Boy Rick Moonrocks | BubbleGum",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-moonrocks-bubblegum__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-moonrocks-bubblegum-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.258Z"
+}

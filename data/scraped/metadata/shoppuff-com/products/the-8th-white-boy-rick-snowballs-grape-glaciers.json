@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-snowballs-grape-glaciers",
+  "name": "White Boy Rick Snowballs | Grape Glaciers",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6525a17f312ff2437695c66de7c2a5a3",
+      "alt": "White Boy Rick Snowballs | Grape Glaciers",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-snowballs-grape-glaciers__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-snowballs-grape-glaciers-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.820Z"
+}

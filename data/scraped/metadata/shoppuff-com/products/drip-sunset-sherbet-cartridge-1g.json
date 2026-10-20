@@ -1,0 +1,35 @@
+{
+  "slug": "drip-sunset-sherbet-cartridge-1g",
+  "name": "Sunset Sherbet Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Sunset Sherbet blends dessert-like flavor with a balanced, floaty high. Expect smooth, citrusy clouds with a creamy finish that eases you into an upbeat headspace without slowing you down.",
+  "description_html": "Sunset Sherbet blends dessert-like flavor with a balanced, floaty high. Expect smooth, citrusy clouds with a creamy finish that eases you into an upbeat headspace without slowing you down.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b0b18df4d1d25b4343e04c16ede55839",
+      "alt": "Sunset Sherbet Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-sunset-sherbet-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-sunset-sherbet-cartridge-1g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.642Z"
+}

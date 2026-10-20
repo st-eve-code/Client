@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-quad-infused-preroll-tangie-seasonal",
+  "name": "Jeeter Quad Infused Preroll | Tangie (Seasonal)",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Tangie is summer in its brightest form. Juicy tangerine, sweet citrus, and hints of orange marmalade create a flavor profile that feels refreshing from start to finish.\n\nNotes of sugary citrus zest and lemon round out the experience, delivering a vibrant flavor that naturally complements carefree days and laid-back nights. Whether you're by the water, on the move, or simply enjoying the moment, Tangie is the essential companion for keeping things light, upbeat, and unmistakably summer.",
+  "description_html": "Tangie is summer in its brightest form. Juicy tangerine, sweet citrus, and hints of orange marmalade create a flavor profile that feels refreshing from start to finish.<br /><br />Notes of sugary citrus zest and lemon round out the experience, delivering a vibrant flavor that naturally complements carefree days and laid-back nights. Whether you're by the water, on the move, or simply enjoying the moment, Tangie is the essential companion for keeping things light, upbeat, and unmistakably summer.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d51f53c1c332098926dbb9f0f896f532",
+      "alt": "Jeeter Quad Infused Preroll | Tangie (Seasonal)",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-quad-infused-preroll-tangie-seasonal__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-quad-infused-preroll-tangie-seasonal-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.609Z"
+}

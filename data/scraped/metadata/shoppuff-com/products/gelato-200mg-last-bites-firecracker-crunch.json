@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-200mg-last-bites-firecracker-crunch",
+  "name": "Gelato | 200mg Last Bites | Firecracker Crunch",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Happy 250th Birthday America! Enjoy our limited edition Firecracker Crunch last bites, it's our decadent white chocolate mixed with red and blue pop rocks for an all american treat!",
+  "description_html": "Happy 250th Birthday America! Enjoy our limited edition Firecracker Crunch last bites, it's our decadent white chocolate mixed with red and blue pop rocks for an all american treat!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4252e7984c0a26e1770dc373d33fded7",
+      "alt": "Gelato | 200mg Last Bites | Firecracker Crunch",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-200mg-last-bites-firecracker-crunch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.25g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-200mg-last-bites-firecracker-crunch-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.587Z"
+}

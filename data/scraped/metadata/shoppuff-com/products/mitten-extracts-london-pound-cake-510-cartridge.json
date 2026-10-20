@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-london-pound-cake-510-cartridge",
+  "name": "Mitten Extracts 510 Cartridge | London Pound Cake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "London Pound Cake offers a loud berry and grape flavor that’s backed by sharp lemon and citrus overtones.\n\nFlavors:\nLemon\nCitrus\nBerry",
+  "description_html": "London Pound Cake offers a loud berry and grape flavor that’s backed by sharp lemon and citrus overtones.<br /><br />Flavors:<br />Lemon<br />Citrus<br />Berry",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bb964ba02f62cc32320fcb1df0635246",
+      "alt": "Mitten Extracts 510 Cartridge | London Pound Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-london-pound-cake-510-cartridge__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-london-pound-cake-510-cartridge-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.995Z"
+}

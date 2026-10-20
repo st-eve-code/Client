@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-apple-fritter-infused-pre-roll-1g",
+  "name": "Apple Fritter Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Apple Fritter is a balanced hybrid strain that embodies the tasty pastry of the same name with its deep-fried dough filled with apples and cinnamon. This strain has an almost identical flavor profile of sweet and fruity apples with mild earthy notes.",
+  "description_html": "Apple Fritter is a balanced hybrid strain that embodies the tasty pastry of the same name with its deep-fried dough filled with apples and cinnamon. This strain has an almost identical flavor profile of sweet and fruity apples with mild earthy notes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/913318f6bd38f6b40811ee981ef5b77d",
+      "alt": "Apple Fritter Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-apple-fritter-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-apple-fritter-infused-pre-roll-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.342Z"
+}

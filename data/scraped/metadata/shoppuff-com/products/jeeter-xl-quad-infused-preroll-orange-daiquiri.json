@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-xl-quad-infused-preroll-orange-daiquiri",
+  "name": "Orange Daiquiri Jeeter XL Infused Pre-Roll | 2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Orange Daiquiri tastes like a splash of citrus and tropical zest, lifted by hints of spice and pine on the back end. Crisp and tangy, it is as refreshing as its cocktail namesake. Serve chilled, no blender required.",
+  "description_html": "Orange Daiquiri tastes like a splash of citrus and tropical zest, lifted by hints of spice and pine on the back end. Crisp and tangy, it is as refreshing as its cocktail namesake. Serve chilled, no blender required.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/65fc3e5cd3213b6472308b0523a537fd",
+      "alt": "Orange Daiquiri Jeeter XL Infused Pre-Roll | 2g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-xl-quad-infused-preroll-orange-daiquiri__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-xl-quad-infused-preroll-orange-daiquiri-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.589Z"
+}

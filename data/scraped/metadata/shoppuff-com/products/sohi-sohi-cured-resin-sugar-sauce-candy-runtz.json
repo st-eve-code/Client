@@ -1,0 +1,35 @@
+{
+  "slug": "sohi-sohi-cured-resin-sugar-sauce-candy-runtz",
+  "name": "Sohi Cured Resin Sugar & Sauce | Candy Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "SoHi",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b4c92ff33e326b68e8f0294302c50c98",
+      "alt": "Sohi Cured Resin Sugar & Sauce | Candy Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__sohi-sohi-cured-resin-sugar-sauce-candy-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sohi-sohi-cured-resin-sugar-sauce-candy-runtz-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.861Z"
+}

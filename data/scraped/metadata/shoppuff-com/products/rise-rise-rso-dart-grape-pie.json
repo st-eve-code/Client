@@ -1,0 +1,35 @@
+{
+  "slug": "rise-rise-rso-dart-grape-pie",
+  "name": "Rise RSO Dart | Grape Pie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "RSO, or Rick Simpson Oil, is named after a Canadian cancer patient turned cannabis activist. RSO is sometimes referred to as a \"whole plant\" or \"full spectrum\" extract because it retains the full cannabinoid, terpene, and chlorophyll profile of the source material by using specific solvents.",
+  "description_html": "RSO, or Rick Simpson Oil, is named after a Canadian cancer patient turned cannabis activist. RSO is sometimes referred to as a \"whole plant\" or \"full spectrum\" extract because it retains the full cannabinoid, terpene, and chlorophyll profile of the source material by using specific solvents.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5613-Puff-JointStore-Kalamazoo.webp",
+      "alt": "Rise RSO Dart | Grape Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-rise-rso-dart-grape-pie__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-rise-rso-dart-grape-pie-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.378Z"
+}

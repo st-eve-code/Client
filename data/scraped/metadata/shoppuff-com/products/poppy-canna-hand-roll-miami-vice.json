@@ -1,0 +1,35 @@
+{
+  "slug": "poppy-canna-hand-roll-miami-vice",
+  "name": "Poppy Canna Hand Roll | Miami Vice",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Poppy Canna",
+  "tags": [],
+  "description": "Designed for those who know the difference, Poppy Canna celebrates the ritual of smoking—clean, flavorful, and unapologetically premium. Whether you’re savoring solo or passing it around, these pre-rolls are made to be smoked, not just tried.",
+  "description_html": "Designed for those who know the difference, Poppy Canna celebrates the ritual of smoking—clean, flavorful, and unapologetically premium. Whether you’re savoring solo or passing it around, these pre-rolls are made to be smoked, not just tried.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ac7f89e6c83bec7caa49e823cf621ac5",
+      "alt": "Poppy Canna Hand Roll | Miami Vice",
+      "local": "data\\scraped\\images\\shoppuff-com__poppy-canna-hand-roll-miami-vice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/poppy-canna-hand-roll-miami-vice-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.275Z"
+}

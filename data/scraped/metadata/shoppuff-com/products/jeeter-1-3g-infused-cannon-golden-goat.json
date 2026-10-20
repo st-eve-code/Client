@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-1-3g-infused-cannon-golden-goat",
+  "name": "Jeeter | 1.3g Infused Cannon | Golden GOAT",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Introducing the Cannon Live Resin Joint. Each joint includes one 1.3g Cannon. What sets Cannons apart is their premium flower combined with 100% live resin, delivering a full spectrum high terpene extract made from fresh frozen flower.\n- Premium Flower\n- 1 Cannon Totaling 1.3 Grams\n- 100% Live Resin Made From Fresh Frozen Flower",
+  "description_html": "Introducing the Cannon Live Resin Joint. Each joint includes one 1.3g Cannon. What sets Cannons apart is their premium flower combined with 100% live resin, delivering a full spectrum high terpene extract made from fresh frozen flower.<br />- Premium Flower<br />- 1 Cannon Totaling 1.3 Grams<br />- 100% Live Resin Made From Fresh Frozen Flower",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d02b2e073f8e46e7ad7251a0677325a2",
+      "alt": "Jeeter | 1.3g Infused Cannon | Golden GOAT",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-1-3g-infused-cannon-golden-goat__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-1-3g-infused-cannon-golden-goat-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.644Z"
+}

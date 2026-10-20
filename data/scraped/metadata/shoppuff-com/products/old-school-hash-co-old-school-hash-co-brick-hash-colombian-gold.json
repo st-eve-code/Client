@@ -1,0 +1,35 @@
+{
+  "slug": "old-school-hash-co-old-school-hash-co-brick-hash-colombian-gold",
+  "name": "Old School Hash Co. Brick Hash | Colombian Gold",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Old School Hash Co.",
+  "tags": [],
+  "description": "Experience the timeless tradition of hashish with our brick hash, meticulously pressed and aged to perfection. Characterized by its dense texture and rich aroma, this classic form of hash offers a nostalgic taste of authenticity.",
+  "description_html": "Experience the timeless tradition of hashish with our brick hash, meticulously pressed and aged to perfection. Characterized by its dense texture and rich aroma, this classic form of hash offers a nostalgic taste of authenticity.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7e1e540b879ba8414c9c563d304cc075",
+      "alt": "Old School Hash Co. Brick Hash | Colombian Gold",
+      "local": "data\\scraped\\images\\shoppuff-com__old-school-hash-co-old-school-hash-co-brick-hash-colombian-gold__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/old-school-hash-co-old-school-hash-co-brick-hash-colombian-gold-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.379Z"
+}

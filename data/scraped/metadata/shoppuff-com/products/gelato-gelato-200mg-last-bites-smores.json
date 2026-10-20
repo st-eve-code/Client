@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-200mg-last-bites-smores",
+  "name": "Gelato | 200mg Last Bites | Smores",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Indulge in our new S'mores last bite cone pieces. These decadent s'mores flavored chocolate cone pieces are sure to satisfy your sweet tooth.",
+  "description_html": "Indulge in our new S'mores last bite cone pieces. These decadent s'mores flavored chocolate cone pieces are sure to satisfy your sweet tooth.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a2d08de7e46a921f4f88922710d241ca",
+      "alt": "Gelato | 200mg Last Bites | Smores",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-200mg-last-bites-smores__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-200mg-last-bites-smores-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.640Z"
+}

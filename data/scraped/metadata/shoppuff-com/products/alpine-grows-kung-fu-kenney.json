@@ -1,0 +1,60 @@
+{
+  "slug": "alpine-grows-kung-fu-kenney",
+  "name": "Alpine Grows | Kung Fu Kenney",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 75,
+  "currency": "USD",
+  "price_range": "$4.00 – $75.00",
+  "available": true,
+  "vendor": "Alpine Grows",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Alpine Grows | Kung Fu Kenney",
+      "local": "data\\scraped\\images\\shoppuff-com__alpine-grows-kung-fu-kenney__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 42.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 22.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 12.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/alpine-grows-kung-fu-kenney-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.281Z"
+}

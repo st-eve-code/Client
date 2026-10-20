@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-banana-cream-pie-tarantula-1g",
+  "name": "Banana Cream Pie Tarantula | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Our essential tarantula joint. One gram of flower, infused with flavor and coated in kief.\n\nThis preroll has an incredibly smooth smoking experience, filled with flavorful banana cream pie notes that will tantalize your taste buds.",
+  "description_html": "Our essential tarantula joint. One gram of flower, infused with flavor and coated in kief.<br /><br /><br />This preroll has an incredibly smooth smoking experience, filled with flavorful banana cream pie notes that will tantalize your taste buds.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/44e76bd211be2cb3431c05cc5323c9bf",
+      "alt": "Banana Cream Pie Tarantula | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-banana-cream-pie-tarantula-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-banana-cream-pie-tarantula-1g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.041Z"
+}

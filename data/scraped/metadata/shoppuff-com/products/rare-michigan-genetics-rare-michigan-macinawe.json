@@ -1,0 +1,55 @@
+{
+  "slug": "rare-michigan-genetics-rare-michigan-macinawe",
+  "name": "Rare Michigan | Macinawe",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$4.00 – $40.00",
+  "available": true,
+  "vendor": "Rare Michigan Genetics",
+  "tags": [],
+  "description": "Macinawe: Prepare for a powerful experience with this indica-dominant cannabis flower. Featuring hard, dense buds coated in a thick layer of huge trichomes, this strain delivers a potent and physically relaxing effect. Expect a classic gas aroma with notes of pine and earth, making it a favorite among connoisseurs.",
+  "description_html": "Macinawe: Prepare for a powerful experience with this indica-dominant cannabis flower. Featuring hard, dense buds coated in a thick layer of huge trichomes, this strain delivers a potent and physically relaxing effect. Expect a classic gas aroma with notes of pine and earth, making it a favorite among connoisseurs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5d5986f34e941f2586155305981f11e4",
+      "alt": "Rare Michigan | Macinawe",
+      "local": "data\\scraped\\images\\shoppuff-com__rare-michigan-genetics-rare-michigan-macinawe__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rare-michigan-genetics-rare-michigan-macinawe-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.580Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-1g-pre-roll-triple-pz",
+  "name": "Seed Junky | 1g Pre-Roll | Triple P'z",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Triple P' is a beautiful trichome-covered dense indica, that is smooth smoking with all-white ash and relaxing cerebral high that isn't going to put you out. Triple P'z has strong flavors of a sweet yellow cake terpene with a hint of licorice.",
+  "description_html": "Triple P' is a beautiful trichome-covered dense indica, that is smooth smoking with all-white ash and relaxing cerebral high that isn't going to put you out. Triple P'z has strong flavors of a sweet yellow cake terpene with a hint of licorice.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/351902443ae26b8dee8bfb743146c346",
+      "alt": "Seed Junky | 1g Pre-Roll | Triple P'z",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-1g-pre-roll-triple-pz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-1g-pre-roll-triple-pz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.929Z"
+}

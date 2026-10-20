@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-cannabis-co-glorious-frosted-truffle-pie",
+  "name": "Glorious | Frosted Truffle Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d6d2109384dd63bac68217726f45d6d8",
+      "alt": "Glorious | Frosted Truffle Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-frosted-truffle-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-frosted-truffle-pie-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.425Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "uplyfted-cannabis-co-uplyfted-rosin-infused-donut-canal-st-runtz-x-honey-banana",
+  "name": "Uplyfted Rosin Infused Donut | Canal St. Runtz x Honey Banana",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Uplyfted Cannabis Co.",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Uplyfted Rosin Infused Donut | Canal St. Runtz x Honey Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__uplyfted-cannabis-co-uplyfted-rosin-infused-donut-canal-st-runtz-x-honey-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/uplyfted-cannabis-co-uplyfted-rosin-infused-donut-canal-st-runtz-x-honey-banana-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.565Z"
+}

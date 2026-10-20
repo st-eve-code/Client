@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-crumble-super-boof",
+  "name": "Grimas Crumble | Super Boof",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8.4,
+  "price_max": 8.4,
+  "currency": "USD",
+  "price_range": "$8.40",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0bc37505e88cc50bed8f7bc814a48bb5",
+      "alt": "Grimas Crumble | Super Boof",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-crumble-super-boof__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-crumble-super-boof-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.869Z"
+}

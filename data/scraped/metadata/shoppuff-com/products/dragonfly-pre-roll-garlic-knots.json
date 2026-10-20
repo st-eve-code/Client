@@ -1,0 +1,35 @@
+{
+  "slug": "dragonfly-pre-roll-garlic-knots",
+  "name": "Dragonfly Pre-roll | Garlic Knots",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 0.8,
+  "price_max": 0.8,
+  "currency": "USD",
+  "price_range": "$0.80",
+  "available": true,
+  "vendor": "Dragonfly",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b1ef09ef8677033d137b36f047c11860",
+      "alt": "Dragonfly Pre-roll | Garlic Knots",
+      "local": "data\\scraped\\images\\shoppuff-com__dragonfly-pre-roll-garlic-knots__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 0.8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dragonfly-pre-roll-garlic-knots-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.653Z"
+}

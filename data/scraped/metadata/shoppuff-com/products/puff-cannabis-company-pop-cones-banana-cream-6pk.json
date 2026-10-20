@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-pop-cones-banana-cream-6pk",
+  "name": "Pop Cones | Banana Cream 6pk",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Pop Cones are some of the first paper cones with a built-in filter tip that features a flavor bead to pop and activate the flavor. These 1 ¼ size ultra thin cones are great for a solo smoke or with a friend, and are neatly packed into a cone-shaped box that holds 6 individual cones with 3 packing sticks.",
+  "description_html": "Pop Cones are some of the first paper cones with a built-in filter tip that features a flavor bead to pop and activate the flavor. These 1 ¼ size ultra thin cones are great for a solo smoke or with a friend, and are neatly packed into a cone-shaped box that holds 6 individual cones with 3 packing sticks.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/48a0c476d7534b3c285e00f5a853e46b",
+      "alt": "Pop Cones | Banana Cream 6pk",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-pop-cones-banana-cream-6pk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-pop-cones-banana-cream-6pk-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.935Z"
+}

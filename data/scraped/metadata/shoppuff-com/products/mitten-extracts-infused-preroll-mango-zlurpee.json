@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-infused-preroll-mango-zlurpee",
+  "name": "Mitten Extracts Infused Preroll | Mango Zlurpee",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Treat yourself to a burst of tropical flavor with Mango Zlurpee. Sweet, juicy mango takes center stage with candy-inspired notes that deliver a smooth, flavorful smoke from the first light to the last. Infused for an elevated experience and crafted to burn evenly, it's the perfect pre-roll for fans of bold fruit flavors.",
+  "description_html": "Treat yourself to a burst of tropical flavor with Mango Zlurpee. Sweet, juicy mango takes center stage with candy-inspired notes that deliver a smooth, flavorful smoke from the first light to the last. Infused for an elevated experience and crafted to burn evenly, it's the perfect pre-roll for fans of bold fruit flavors.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b503373814bfbd74b706e3b69556c539",
+      "alt": "Mitten Extracts Infused Preroll | Mango Zlurpee",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-infused-preroll-mango-zlurpee__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-infused-preroll-mango-zlurpee-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.706Z"
+}

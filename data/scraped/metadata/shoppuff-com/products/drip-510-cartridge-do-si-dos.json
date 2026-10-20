@@ -1,0 +1,35 @@
+{
+  "slug": "drip-510-cartridge-do-si-dos",
+  "name": "Drip 510 Cartridge | Do-Si-Dos",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7.49,
+  "price_max": 7.49,
+  "currency": "USD",
+  "price_range": "$7.49",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Do Si Dos has a creamy, nutty profile with a touch of funk that lingers just right. The vibe leans deep and dreamy — perfect for shutting the world out and sinking into the moment.",
+  "description_html": "Do Si Dos has a creamy, nutty profile with a touch of funk that lingers just right. The vibe leans deep and dreamy — perfect for shutting the world out and sinking into the moment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ae537d978626a607d946c92d6205606b",
+      "alt": "Drip 510 Cartridge | Do-Si-Dos",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-510-cartridge-do-si-dos__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.49,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-510-cartridge-do-si-dos-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.090Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-goodlyfe-infused-pre-roll-sour-diesel",
+  "name": "GoodLyfe Infused Pre-Roll | Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 2.99,
+  "price_max": 2.99,
+  "currency": "USD",
+  "price_range": "$2.99",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Sour Diesel is a sativa dominant hybrid and one of the more famous strains around, heavily referenced in pop culture. This strain has an aroma and flavor that is pungent and filled with earthy notes and, of course, diesel. Sour Diesel is a titillating option for an energy and mood boost, while also being great for relaxation and management of pain and inflammation. Its dominant terpenes include ß-Caryophyllene, Limonene, and a-Humulene.",
+  "description_html": "Sour Diesel is a sativa dominant hybrid and one of the more famous strains around, heavily referenced in pop culture. This strain has an aroma and flavor that is pungent and filled with earthy notes and, of course, diesel. Sour Diesel is a titillating option for an energy and mood boost, while also being great for relaxation and management of pain and inflammation. Its dominant terpenes include ß-Caryophyllene, Limonene, and a-Humulene.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e3a265c383e360bda3354dc8816cd165",
+      "alt": "GoodLyfe Infused Pre-Roll | Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-goodlyfe-infused-pre-roll-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 2.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-goodlyfe-infused-pre-roll-sour-diesel-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.612Z"
+}

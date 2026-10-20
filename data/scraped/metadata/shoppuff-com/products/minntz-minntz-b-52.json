@@ -1,0 +1,60 @@
+{
+  "slug": "minntz-minntz-b-52",
+  "name": "Minntz | B-52",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Blending Biscotti and Zkittlez to deliver bold\ndiesel-forward aromas with zesty lime and sweet\ntropical undertones. Its effects are uplifting - sparking\ncreativity and happiness while keeping the body relaxed\nand comfortable.",
+  "description_html": "Blending Biscotti and Zkittlez to deliver bold<br />diesel-forward aromas with zesty lime and sweet<br />tropical undertones. Its effects are uplifting - sparking<br />creativity and happiness while keeping the body relaxed<br />and comfortable.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/86d3b461e5cdb9db41fba09114c6e4c6",
+      "alt": "Minntz | B-52",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-b-52__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-b-52-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.466Z"
+}

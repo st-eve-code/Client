@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-bora-bora",
+  "name": "Seed Junky Prepackaged Flower | Bora Bora",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Take a trip with Bora Bora, a tropical powerhouse bursting with bold, exotic flavor. Notes of Starburst candy, creamy fruit, bubblegum, and hibiscus flowers collide in a smooth, vacation worthy smoke. Sweet and floral on the inhale, gassy, rich and fruity on the exhale. Bora Bora delivers a layered, mouth coating experience that feels like paradise. With strong, lasting effects, this strain hits hard while keeping things breeze and fun. \n\nTropical Burst x Malibu BX2",
+  "description_html": "Take a trip with Bora Bora, a tropical powerhouse bursting with bold, exotic flavor. Notes of Starburst candy, creamy fruit, bubblegum, and hibiscus flowers collide in a smooth, vacation worthy smoke. Sweet and floral on the inhale, gassy, rich and fruity on the exhale. Bora Bora delivers a layered, mouth coating experience that feels like paradise. With strong, lasting effects, this strain hits hard while keeping things breeze and fun. <br /><br />Tropical Burst x Malibu BX2",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/97f127b754bce044fe79d510c3b95100",
+      "alt": "Seed Junky Prepackaged Flower | Bora Bora",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-bora-bora__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-bora-bora-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.660Z"
+}

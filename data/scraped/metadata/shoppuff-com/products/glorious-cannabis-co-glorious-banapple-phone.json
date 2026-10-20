@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-cannabis-co-glorious-banapple-phone",
+  "name": "Glorious | Banapple Phone",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "You'll feel the heady effects almost immediately, lifting your mind into a state of happy euphoria that's accompanied by a boost of creativity. As you find your mind wandering through artistic ideas and visions, a deeply relaxing tingle will begin to work its way throughout your entire body. This buzzing effect can turn stimulating and arousing at times, too.",
+  "description_html": "You'll feel the heady effects almost immediately, lifting your mind into a state of happy euphoria that's accompanied by a boost of creativity. As you find your mind wandering through artistic ideas and visions, a deeply relaxing tingle will begin to work its way throughout your entire body. This buzzing effect can turn stimulating and arousing at times, too.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/10fd1a39d08bbb8d0d520e91df66ce9f",
+      "alt": "Glorious | Banapple Phone",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-banapple-phone__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-banapple-phone-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.426Z"
+}

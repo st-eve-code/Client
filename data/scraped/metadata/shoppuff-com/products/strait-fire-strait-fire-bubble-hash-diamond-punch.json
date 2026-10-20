@@ -1,0 +1,35 @@
+{
+  "slug": "strait-fire-strait-fire-bubble-hash-diamond-punch",
+  "name": "Strait Fire Bubble Hash | Diamond Punch",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Strait Fire",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fa4efb1784852123307386923cfb9512",
+      "alt": "Strait Fire Bubble Hash | Diamond Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__strait-fire-strait-fire-bubble-hash-diamond-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/strait-fire-strait-fire-bubble-hash-diamond-punch-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.424Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "super-dope-super-dope-prepackaged-flower-mega-z-blue",
+  "name": "Super Dope Prepackaged Flower | Mega Z Blue",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 110,
+  "currency": "USD",
+  "price_range": "$55.00 – $110.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "What was once original is now Mega. Introducing Mega Z Blue by Super Dope. A mix of lemon, lime, and crushed up Skittlez grown to perfection after 12 months of development.",
+  "description_html": "What was once original is now Mega. Introducing Mega Z Blue by Super Dope. A mix of lemon, lime, and crushed up Skittlez grown to perfection after 12 months of development.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d0b75b5dec3ddddc16bd5e83e52e0074",
+      "alt": "Super Dope Prepackaged Flower | Mega Z Blue",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-prepackaged-flower-mega-z-blue__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-prepackaged-flower-mega-z-blue-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.827Z"
+}

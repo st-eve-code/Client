@@ -1,0 +1,50 @@
+{
+  "slug": "puff-cannabis-company-puff-cannabis-co-terdz",
+  "name": "Puff Cannabis Co. | Terdz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$9.00 – $45.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Puff Cannabis Co. | Terdz",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-cannabis-co-terdz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-cannabis-co-terdz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.472Z"
+}

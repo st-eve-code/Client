@@ -1,0 +1,60 @@
+{
+  "slug": "poppy-canna-moon-rocks-bubba-gum",
+  "name": "Poppy Canna | Moon Rocks | Bubba Gum",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 250,
+  "currency": "USD",
+  "price_range": "$12.00 – $250.00",
+  "available": true,
+  "vendor": "Poppy Canna",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ee8a88432a904034cc8ac020682bf9ba",
+      "alt": "Poppy Canna | Moon Rocks | Bubba Gum",
+      "local": "data\\scraped\\images\\shoppuff-com__poppy-canna-moon-rocks-bubba-gum__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 250,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/poppy-canna-moon-rocks-bubba-gum-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.350Z"
+}

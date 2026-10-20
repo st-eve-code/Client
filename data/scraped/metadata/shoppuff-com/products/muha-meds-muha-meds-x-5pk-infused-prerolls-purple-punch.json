@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-muha-meds-x-5pk-infused-prerolls-purple-punch",
+  "name": "Muha Meds x 5pk Infused Prerolls | Purple Punch",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Unwind with the sweet and fruity flavors of Purple Punch Mates. Each puff delivers the delicious taste of grape candy, with hints of berry sweetness. With its uplifting effects, Purple Punch Mates offer a tranquil high that melts away stress and tension. Indulge in the fruity goodness of Purple Punch Mates for a flavorful and soothing escape.",
+  "description_html": "Unwind with the sweet and fruity flavors of Purple Punch Mates. Each puff delivers the delicious taste of grape candy, with hints of berry sweetness. With its uplifting effects, Purple Punch Mates offer a tranquil high that melts away stress and tension. Indulge in the fruity goodness of Purple Punch Mates for a flavorful and soothing escape.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fac90f7b859246bb8363e74ac064a21f",
+      "alt": "Muha Meds x 5pk Infused Prerolls | Purple Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-muha-meds-x-5pk-infused-prerolls-purple-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-muha-meds-x-5pk-infused-prerolls-purple-punch-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.929Z"
+}

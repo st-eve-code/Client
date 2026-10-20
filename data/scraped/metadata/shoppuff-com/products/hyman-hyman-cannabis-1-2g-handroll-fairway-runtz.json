@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-1-2g-handroll-fairway-runtz",
+  "name": "Hyman Cannabis | 1.2g Handroll | Fairway Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Fairway Runtz\n\nStrain : Indica\n\nMood : Peaceful & Relaxed\n\nFlavor & Aroma : Candy & Melon\n\n1.2g Handcraft",
+  "description_html": "Fairway Runtz<br /><br />Strain : Indica<br /><br />Mood : Peaceful & Relaxed<br /><br />Flavor & Aroma : Candy & Melon<br /><br />1.2g Handcraft<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ccd4fc51dc53eca2836b53595ced045a",
+      "alt": "Hyman Cannabis | 1.2g Handroll | Fairway Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-1-2g-handroll-fairway-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-1-2g-handroll-fairway-runtz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.833Z"
+}

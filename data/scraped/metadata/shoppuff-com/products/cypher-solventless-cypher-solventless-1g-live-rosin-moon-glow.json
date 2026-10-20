@@ -1,0 +1,35 @@
+{
+  "slug": "cypher-solventless-cypher-solventless-1g-live-rosin-moon-glow",
+  "name": "Cypher Solventless | 1g Live Rosin | Moon Glow",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Cypher Solventless",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/26c7ef44dd647d28d8cc55a795b79dc5",
+      "alt": "Cypher Solventless | 1g Live Rosin | Moon Glow",
+      "local": "data\\scraped\\images\\shoppuff-com__cypher-solventless-cypher-solventless-1g-live-rosin-moon-glow__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cypher-solventless-cypher-solventless-1g-live-rosin-moon-glow-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.307Z"
+}

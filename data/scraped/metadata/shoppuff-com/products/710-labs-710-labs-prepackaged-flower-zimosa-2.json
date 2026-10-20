@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-prepackaged-flower-zimosa-2",
+  "name": "710 Labs Prepackaged Flower | Zimosa #2",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "710 Labs is a company dominated by award-winning artists obsessed with making the richest flavored, pesticide-free, organically fed, small batch, hand-trimmed cannabis on the planet. They carry themselves believing they are true OGs that pride themselves with the knowledge and skill to best hand select and hunt exotic strains from the most renowned breeders, including landrace single origin seeds that took decades to find.",
+  "description_html": "710 Labs is a company dominated by award-winning artists obsessed with making the richest flavored, pesticide-free, organically fed, small batch, hand-trimmed cannabis on the planet. They carry themselves believing they are true OGs that pride themselves with the knowledge and skill to best hand select and hunt exotic strains from the most renowned breeders, including landrace single origin seeds that took decades to find.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/51e574c09aaa7ee42112f89bf01da5b9",
+      "alt": "710 Labs Prepackaged Flower | Zimosa #2",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-prepackaged-flower-zimosa-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-prepackaged-flower-zimosa-2-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.814Z"
+}

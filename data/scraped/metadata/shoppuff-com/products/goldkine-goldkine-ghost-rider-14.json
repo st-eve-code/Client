@@ -1,0 +1,50 @@
+{
+  "slug": "goldkine-goldkine-ghost-rider-14",
+  "name": "Goldkine | Ghost Rider #14",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 90,
+  "currency": "USD",
+  "price_range": "$20.00 – $90.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Meet Ghost Rider, a potent indica-dominant strain that delivers a nose-tingling kick of fresh pine forest and super dank sherbet, emanating from its stunning purple and blue buds. Burnt orange hairs accentuate these beauties, giving them top-shelf appeal. But Ghost Rider isn’t just about looks—it smokes just as beautifully! Expect a well-rounded aroma and flavor profile with herbal and pine notes, capable of competing with today’s finest OGs. Overindulgence may leave you zombie-walking to the fridge and ready for a cozy nap. Perfect for relaxation, Ghost Rider offers feelings of hunger, relaxation, and sleepiness. Embrace the pure dankness and let Ghost Rider transport you to a serene state of bliss.",
+  "description_html": "Meet Ghost Rider, a potent indica-dominant strain that delivers a nose-tingling kick of fresh pine forest and super dank sherbet, emanating from its stunning purple and blue buds. Burnt orange hairs accentuate these beauties, giving them top-shelf appeal. But Ghost Rider isn’t just about looks—it smokes just as beautifully! Expect a well-rounded aroma and flavor profile with herbal and pine notes, capable of competing with today’s finest OGs. Overindulgence may leave you zombie-walking to the fridge and ready for a cozy nap. Perfect for relaxation, Ghost Rider offers feelings of hunger, relaxation, and sleepiness. Embrace the pure dankness and let Ghost Rider transport you to a serene state of bliss.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f9dd55caade4e8cee818d15008039f45",
+      "alt": "Goldkine | Ghost Rider #14",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-ghost-rider-14__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-ghost-rider-14-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.585Z"
+}

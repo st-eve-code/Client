@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-5g-moonrocks-og-kush",
+  "name": "Mitten Extracts | 5g Moonrocks | OG Kush",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "A legendary profile elevated to the next level, OG Kush Moon Rocks deliver classic earthy, pine-forward flavor with deep, powerful effects. The infused flower and kief coating amplify this iconic strain into a heavy-hitting experience.",
+  "description_html": "A legendary profile elevated to the next level, OG Kush Moon Rocks deliver classic earthy, pine-forward flavor with deep, powerful effects. The infused flower and kief coating amplify this iconic strain into a heavy-hitting experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cba6eb7fbf7b4463c2bb67a831a4ab4f",
+      "alt": "Mitten Extracts | 5g Moonrocks | OG Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-5g-moonrocks-og-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-5g-moonrocks-og-kush-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.601Z"
+}

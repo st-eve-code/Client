@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-hash-hole-malibu",
+  "name": "Seed Junky Hash Hole | Malibu",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Malibu is a hybrid strain packed with sweet flavor that transitions into a complex fuel driven flavor, highlighted by hints of tropical candy. Malibu gives a balanced head and body high, leaving you slightly spaced out with a goofy grin.",
+  "description_html": "Malibu is a hybrid strain packed with sweet flavor that transitions into a complex fuel driven flavor, highlighted by hints of tropical candy. Malibu gives a balanced head and body high, leaving you slightly spaced out with a goofy grin.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02576dee17211fafd0060d4b024174f7",
+      "alt": "Seed Junky Hash Hole | Malibu",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-hash-hole-malibu__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-hash-hole-malibu-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.890Z"
+}

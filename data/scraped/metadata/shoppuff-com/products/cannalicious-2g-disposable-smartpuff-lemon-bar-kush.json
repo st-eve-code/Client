@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-2g-disposable-smartpuff-lemon-bar-kush",
+  "name": "Cannalicious | 2g Disposable SmartPuff | Lemon Bar Kush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16.5,
+  "price_max": 16.5,
+  "currency": "USD",
+  "price_range": "$16.50",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "SmartPuff is the most-advanced disposable vape available. The digital display shows the current battery level so you'll never be caught off guard with a dead battery. The preheat function allows you to gently warm the oil to release its full flavor and ensure a vapor-rich hit from the first inhale. Plus, you can set the output to high for a more intense draw or low for a flavor-rich hit that prolongs the battery life.",
+  "description_html": "SmartPuff is the most-advanced disposable vape available. The digital display shows the current battery level so you'll never be caught off guard with a dead battery. The preheat function allows you to gently warm the oil to release its full flavor and ensure a vapor-rich hit from the first inhale. Plus, you can set the output to high for a more intense draw or low for a flavor-rich hit that prolongs the battery life.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7ffb699580bf3b5fbd08bb31017e8034",
+      "alt": "Cannalicious | 2g Disposable SmartPuff | Lemon Bar Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-2g-disposable-smartpuff-lemon-bar-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-2g-disposable-smartpuff-lemon-bar-kush-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.506Z"
+}

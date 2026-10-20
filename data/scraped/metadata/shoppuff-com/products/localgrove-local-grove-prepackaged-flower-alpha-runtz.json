@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-alpha-runtz",
+  "name": "Local Grove Prepackaged Flower | Alpha Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Bacio Gelato x Runtz \n\nBreeder: Clearwater Genetics \n\nAroma & Flavor: Fresh lemony candy on the plant; cured buds reveal rich chocolate candy gas \n\nEffects: Hybrid – uplifting with a sweet, flavorful smoke and relaxing body finish",
+  "description_html": "Genetics: Bacio Gelato x Runtz <br /><br />Breeder: Clearwater Genetics <br /><br />Aroma & Flavor: Fresh lemony candy on the plant; cured buds reveal rich chocolate candy gas <br /><br />Effects: Hybrid – uplifting with a sweet, flavorful smoke and relaxing body finish",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/952155edecad66a2ecbe5b045dd55238",
+      "alt": "Local Grove Prepackaged Flower | Alpha Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-alpha-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-alpha-runtz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.299Z"
+}

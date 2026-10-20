@@ -1,0 +1,35 @@
+{
+  "slug": "pro-gro-progroco-pre-roll-cherry-pop-rocks",
+  "name": "Cherry Pop Rocks 1g Pre-Roll",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5.6,
+  "price_max": 5.6,
+  "currency": "USD",
+  "price_range": "$5.60",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/64b08d1fb5baf761655bc24d421b82bc",
+      "alt": "Cherry Pop Rocks 1g Pre-Roll",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-pre-roll-cherry-pop-rocks__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5.6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-pre-roll-cherry-pop-rocks-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.258Z"
+}

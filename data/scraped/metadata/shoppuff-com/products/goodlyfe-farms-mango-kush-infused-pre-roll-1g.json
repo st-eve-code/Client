@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-mango-kush-infused-pre-roll-1g",
+  "name": "Mango Kush Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Mango Kush is an indica dominant hybrid strain and an absolute classic. This strain’s aroma and flavor is of sweet, rich mango with a touch of creamy peach and honey, layered on a base of floral and sweet gas. Mango Kush will help you relax, but before putting a big smile on your face and giving you a case of the giggles. Its dominant terpenes are Ocimene and Myrcene.",
+  "description_html": "Mango Kush is an indica dominant hybrid strain and an absolute classic. This strain’s aroma and flavor is of sweet, rich mango with a touch of creamy peach and honey, layered on a base of floral and sweet gas. Mango Kush will help you relax, but before putting a big smile on your face and giving you a case of the giggles. Its dominant terpenes are Ocimene and Myrcene.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7ff566ae31a565b45ad3bdd2a002b761",
+      "alt": "Mango Kush Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-mango-kush-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-mango-kush-infused-pre-roll-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.812Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "house-brands-runtz",
+  "name": "House Brands | Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 49.5,
+  "currency": "USD",
+  "price_range": "$3.00 – $49.50",
+  "available": true,
+  "vendor": "House Brands",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/10834f63bea6cf9b2b49074a8780c759",
+      "alt": "House Brands | Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__house-brands-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 49.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 8.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/house-brands-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.096Z"
+}

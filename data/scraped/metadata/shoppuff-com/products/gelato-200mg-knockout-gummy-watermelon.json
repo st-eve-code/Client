@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-200mg-knockout-gummy-watermelon",
+  "name": "Gelato | 200mg Knockout Gummy | Watermelon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "200mg Gummies",
+  "description_html": "200mg Gummies",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f2bf55a96614bcb9c4a90301ed7c7471",
+      "alt": "Gelato | 200mg Knockout Gummy | Watermelon",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-200mg-knockout-gummy-watermelon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.2g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-200mg-knockout-gummy-watermelon-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.647Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-goodlyfe-1g-infused-pre-roll-lemon-drop",
+  "name": "Goodlyfe | 1g Infused Pre-Roll | Lemon Drop",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Lemon Drop is a sativa dominant hybrid similar to the sugar coated, lemon-flavored treat. This strain is a perfect refresher with tart lemon and citrus flavor. Lemon Drop will provide you with a boost of energy and focus, while also helping relieve pain. Its dominant terpenes are Limonene and a-Terpineol.",
+  "description_html": "Lemon Drop is a sativa dominant hybrid similar to the sugar coated, lemon-flavored treat. This strain is a perfect refresher with tart lemon and citrus flavor. Lemon Drop will provide you with a boost of energy and focus, while also helping relieve pain. Its dominant terpenes are Limonene and a-Terpineol.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a2c8e3e8db557f539a05d671f5182c54",
+      "alt": "Goodlyfe | 1g Infused Pre-Roll | Lemon Drop",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-goodlyfe-1g-infused-pre-roll-lemon-drop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-goodlyfe-1g-infused-pre-roll-lemon-drop-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.407Z"
+}

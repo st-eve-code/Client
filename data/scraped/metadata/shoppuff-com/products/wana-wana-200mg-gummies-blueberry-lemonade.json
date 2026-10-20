@@ -1,0 +1,35 @@
+{
+  "slug": "wana-wana-200mg-gummies-blueberry-lemonade",
+  "name": "Wana | 200mg Gummies | Blueberry Lemonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Wana",
+  "tags": [],
+  "description": "A burst of mellow blueberry deepens the flavor of these sharp and citrusy gummies, while 30+ Indica-leaning terpenes deliver the sweet relaxation of a cool summer evening.",
+  "description_html": "A burst of mellow blueberry deepens the flavor of these sharp and citrusy gummies, while 30+ Indica-leaning terpenes deliver the sweet relaxation of a cool summer evening.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d948f287727102cf385a26e12e489ab3",
+      "alt": "Wana | 200mg Gummies | Blueberry Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__wana-wana-200mg-gummies-blueberry-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wana-wana-200mg-gummies-blueberry-lemonade-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.438Z"
+}

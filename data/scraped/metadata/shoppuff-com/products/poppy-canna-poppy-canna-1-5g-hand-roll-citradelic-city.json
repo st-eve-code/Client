@@ -1,0 +1,35 @@
+{
+  "slug": "poppy-canna-poppy-canna-1-5g-hand-roll-citradelic-city",
+  "name": "Poppy Canna | 1.5g Hand Roll | Citradelic City",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "poppy canna",
+  "tags": [],
+  "description": "Designed for those who know the difference, Poppy Canna celebrates the ritual of smoking—clean, flavorful, and unapologetically premium. Whether you’re savoring solo or passing it around, these pre-rolls are made to be smoked, not just tried.",
+  "description_html": "Designed for those who know the difference, Poppy Canna celebrates the ritual of smoking—clean, flavorful, and unapologetically premium. Whether you’re savoring solo or passing it around, these pre-rolls are made to be smoked, not just tried.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/947fefe1dbea54ac18a52d2cfa134142",
+      "alt": "Poppy Canna | 1.5g Hand Roll | Citradelic City",
+      "local": "data\\scraped\\images\\shoppuff-com__poppy-canna-poppy-canna-1-5g-hand-roll-citradelic-city__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/poppy-canna-poppy-canna-1-5g-hand-roll-citradelic-city-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.277Z"
+}

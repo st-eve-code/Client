@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-pre-roll-starlink",
+  "name": "Peninsula Gardens Pre-Roll | Starlink",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Super sweet candy. Bred by @Codymikew, it’s a cross of LCG x Runtz. Some of the most perfect looking flowers in our garden. Structure, color, smell, and flavor. She checks every single box and is sure to take all of the candy lovers to the stars.",
+  "description_html": "Super sweet candy. Bred by @Codymikew, it’s a cross of LCG x Runtz. Some of the most perfect looking flowers in our garden. Structure, color, smell, and flavor. She checks every single box and is sure to take all of the candy lovers to the stars.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/47cb1b9ea9c374a673dafa7e7644dc7c",
+      "alt": "Peninsula Gardens Pre-Roll | Starlink",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-pre-roll-starlink__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-pre-roll-starlink-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.918Z"
+}

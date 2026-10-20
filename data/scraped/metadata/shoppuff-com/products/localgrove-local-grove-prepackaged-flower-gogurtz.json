@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-gogurtz",
+  "name": "Local Grove Prepackaged Flower | Gogurtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Cap Junky x Runtz \n\nBreeder: Seed Junky Genetics x Capulator \n\nAroma & Flavor: Creamy gas with dense, trichome-coated buds \n\nEffects: Powerful hybrid – heavy-hitting with strong, long-lasting effects",
+  "description_html": "Genetics: Cap Junky x Runtz <br /><br />Breeder: Seed Junky Genetics x Capulator <br /><br />Aroma & Flavor: Creamy gas with dense, trichome-coated buds <br /><br />Effects: Powerful hybrid – heavy-hitting with strong, long-lasting effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/90d5d629aba99a3a78f6eee5b5a3220d",
+      "alt": "Local Grove Prepackaged Flower | Gogurtz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-gogurtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-gogurtz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.556Z"
+}

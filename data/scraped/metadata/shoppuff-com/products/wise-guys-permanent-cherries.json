@@ -1,0 +1,60 @@
+{
+  "slug": "wise-guys-permanent-cherries",
+  "name": "Wise Guys | Permanent Cherries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: (Lemon Cherry x Kush Mints bx1) x Permanent Marker\n\nFlavor: Gas and cherries with a creamy finish\n\nType/Leaning: Hybrid (Indica-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: (Lemon Cherry x Kush Mints bx1) x Permanent Marker<br /><br />Flavor: Gas and cherries with a creamy finish<br /><br />Type/Leaning: Hybrid (Indica-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d26afb88c1d89b6f6a5716d950a4886f",
+      "alt": "Wise Guys | Permanent Cherries",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-permanent-cherries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-permanent-cherries-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.792Z"
+}

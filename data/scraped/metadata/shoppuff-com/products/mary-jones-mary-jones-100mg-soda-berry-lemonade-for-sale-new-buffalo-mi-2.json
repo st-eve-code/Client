@@ -1,0 +1,35 @@
+{
+  "slug": "mary-jones-mary-jones-100mg-soda-berry-lemonade-for-sale-new-buffalo-mi-2",
+  "name": "Mary Jones | 100mg Soda | Berry Lemonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mary Jones",
+  "tags": [],
+  "description": "Same Jones.\nMore Mary.\nMore flavors, higher dosages, only available in dispensaries.\n\n100mg Soda Beverage\n\nMary Jones’ Berry Lemonade combines the tangy sweetness of ripe berries with smooth, classic lemonade, creating an invigorating and flavor-packed experience. It’s the go-to choice for those who appreciate a bold, refreshing twist on a beloved summer staple.",
+  "description_html": "Same Jones.<br />More Mary.<br />More flavors, higher dosages, only available in dispensaries.<br /><br />100mg Soda Beverage<br /><br />Mary Jones’ Berry Lemonade combines the tangy sweetness of ripe berries with smooth, classic lemonade, creating an invigorating and flavor-packed experience. It’s the go-to choice for those who appreciate a bold, refreshing twist on a beloved summer staple.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b0cbb830cc4786347bb1f63e862921bc",
+      "alt": "Mary Jones | 100mg Soda | Berry Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__mary-jones-mary-jones-100mg-soda-berry-lemonade-for-sale-new-buffalo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "12.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mary-jones-mary-jones-100mg-soda-berry-lemonade-for-sale-new-buffalo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.815Z"
+}

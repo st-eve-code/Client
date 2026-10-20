@@ -1,0 +1,35 @@
+{
+  "slug": "fat-pack-fat-pack-bustin-suds-shake",
+  "name": "Fat Pack | Bustin' Suds Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Fat Pack",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Fat Pack | Bustin' Suds Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__fat-pack-fat-pack-bustin-suds-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fat-pack-fat-pack-bustin-suds-shake-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.217Z"
+}

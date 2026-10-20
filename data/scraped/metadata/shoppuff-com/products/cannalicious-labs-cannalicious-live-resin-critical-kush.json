@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-live-resin-critical-kush",
+  "name": "Cannalicious Live Resin | Critical Kush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5617-Puff-JointStore-Oscoda.webp",
+      "alt": "Cannalicious Live Resin | Critical Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-live-resin-critical-kush__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-live-resin-critical-kush-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.581Z"
+}

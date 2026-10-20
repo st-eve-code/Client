@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-infused-preroll-apple-fritter",
+  "name": "Berry Green Infused Preroll | Apple Fritter",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Sweet, gassy, and dangerously smooth. Apple Fritter hits like comfort food with a street bite.\n\nEffect: Balanced buzz built for chill nights and clear minds.",
+  "description_html": "Sweet, gassy, and dangerously smooth. Apple Fritter hits like comfort food with a street bite.<br /><br />Effect: Balanced buzz built for chill nights and clear minds.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/41c26768dea8eccd90a8bdb4f082abaf",
+      "alt": "Berry Green Infused Preroll | Apple Fritter",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-infused-preroll-apple-fritter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-infused-preroll-apple-fritter-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.223Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-preroll-b-52",
+  "name": "Minntz Preroll | B-52",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Minntz B-52 blends Biscotti and Zkittlez to deliver bold diesel-forward aromas with zesty lime and sweet tropical undertones. Its effects are uplifting - sparking creativity and happiness while keeping the body relaxed and comfortable.",
+  "description_html": "Minntz B-52 blends Biscotti and Zkittlez to deliver bold diesel-forward aromas with zesty lime and sweet tropical undertones. Its effects are uplifting - sparking creativity and happiness while keeping the body relaxed and comfortable.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a49f3c0abf44de63d6d3a76ae86712e",
+      "alt": "Minntz Preroll | B-52",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-preroll-b-52__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-preroll-b-52-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.385Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "heavyweight-heads-orangutan-for-sale-sturgis-mi-2",
+  "name": "Orangutan",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "Orangutan is a Heavyweight Heads original creation. Its piney, citrus aroma paired with a sweet and sour, skunky taste will captivate your senses and have you coming back for more. The effects will give you an initial boost of energy then slowly settle into a soothing, creative high that lasts for hours.",
+  "description_html": "Orangutan is a Heavyweight Heads original creation. Its piney, citrus aroma paired with a sweet and sour, skunky taste will captivate your senses and have you coming back for more. The effects will give you an initial boost of energy then slowly settle into a soothing, creative high that lasts for hours.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d9aa8576743a56cc740f30439c9773c2",
+      "alt": "Orangutan",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-orangutan-for-sale-sturgis-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-orangutan-for-sale-sturgis-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.864Z"
+}

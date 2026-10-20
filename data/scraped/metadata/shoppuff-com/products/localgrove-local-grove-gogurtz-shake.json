@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-gogurtz-shake",
+  "name": "Local Grove | Gogurtz Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 49,
+  "price_max": 49,
+  "currency": "USD",
+  "price_range": "$49.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/53315194026b71728c998f52564e1ef1",
+      "alt": "Local Grove | Gogurtz Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-gogurtz-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 49,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-gogurtz-shake-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.429Z"
+}

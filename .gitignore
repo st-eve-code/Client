@@ -40,15 +40,17 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# excluded scraped data dirs (never catalogued / stale smoke tests)
+# drug-marketplace scrapes (never publish)
 /data/scraped/metadata/streetcocaineshop-com/
 /data/scraped/metadata/dmtshopping-com/
 /data/scraped/metadata/kindkushdispensary-com/
-/data/scraped/metadata/vapestore-co-uk/
+/data/scraped/metadata/k2spicesprayshop-com/
 /data/scraped/images/streetcocaineshop-com__*
 /data/scraped/images/dmtshopping-com__*
 /data/scraped/images/kindkushdispensary-com__*
-/data/scraped/images/vapestore-co-uk__*
-
-# stale early-scrape copy under scripts/ (holds drug-site leftovers only)
+/data/scraped/images/k2spicesprayshop-com__*
+/scripts/scrape/sites/k2site/
 /scripts/data/scraped/
+
+# compiled scrape artifact
+/scripts/scrape/scrape.js

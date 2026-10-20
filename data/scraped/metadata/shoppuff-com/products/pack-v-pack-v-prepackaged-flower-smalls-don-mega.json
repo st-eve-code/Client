@@ -1,0 +1,35 @@
+{
+  "slug": "pack-v-pack-v-prepackaged-flower-smalls-don-mega",
+  "name": "Pack V Prepackaged Flower Smalls | Don Mega",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Pack V",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/54f8d70919ec0ac04d42b29a168809ad",
+      "alt": "Pack V Prepackaged Flower Smalls | Don Mega",
+      "local": "data\\scraped\\images\\shoppuff-com__pack-v-pack-v-prepackaged-flower-smalls-don-mega__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pack-v-pack-v-prepackaged-flower-smalls-don-mega-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.278Z"
+}

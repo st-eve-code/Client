@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-510-cart-caramel-applez",
+  "name": "Berry Green 510 Cart | Caramel Applez",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Sweet like revenge. Drips sugar, hits heavy.\n\nBorn to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "description_html": "Sweet like revenge. Drips sugar, hits heavy.<br /><br />Born to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f98161819dab90800b29cc1ed534dca7",
+      "alt": "Berry Green 510 Cart | Caramel Applez",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-510-cart-caramel-applez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-510-cart-caramel-applez-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.263Z"
+}

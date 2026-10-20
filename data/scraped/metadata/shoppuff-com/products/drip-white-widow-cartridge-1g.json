@@ -1,0 +1,35 @@
+{
+  "slug": "drip-white-widow-cartridge-1g",
+  "name": "White Widow Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6.25,
+  "price_max": 6.25,
+  "currency": "USD",
+  "price_range": "$6.25",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "White Widow walks the line between chill and energized, pairing bold herbal notes with a clean, woody finish. It’s a classic for a reason — the kind of strain that helps you stay in the zone without zoning out.",
+  "description_html": "White Widow walks the line between chill and energized, pairing bold herbal notes with a clean, woody finish. It’s a classic for a reason — the kind of strain that helps you stay in the zone without zoning out.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7be63a05b70f9e6c334d41d8f94a5568",
+      "alt": "White Widow Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-white-widow-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-white-widow-cartridge-1g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.315Z"
+}

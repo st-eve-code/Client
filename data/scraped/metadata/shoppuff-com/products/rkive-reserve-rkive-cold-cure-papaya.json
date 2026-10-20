@@ -1,0 +1,35 @@
+{
+  "slug": "rkive-reserve-rkive-cold-cure-papaya",
+  "name": "RKIVE Cold Cure | Papaya",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Rkive Reserve",
+  "tags": [],
+  "description": "It’s time to unwind. Who’s in the mood for some Rkive Labs hash rosin? \n\nHandcrafted from the finest cultivars. Produced in conjunction with Rkive Reserve.",
+  "description_html": "It’s time to unwind. Who’s in the mood for some Rkive Labs hash rosin? <br /><br />Handcrafted from the finest cultivars. Produced in conjunction with Rkive Reserve.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bd3ec456f31ba2fc1c569e580bf47426",
+      "alt": "RKIVE Cold Cure | Papaya",
+      "local": "data\\scraped\\images\\shoppuff-com__rkive-reserve-rkive-cold-cure-papaya__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rkive-reserve-rkive-cold-cure-papaya-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.881Z"
+}

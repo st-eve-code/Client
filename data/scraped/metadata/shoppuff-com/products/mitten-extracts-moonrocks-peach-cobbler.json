@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-moonrocks-peach-cobbler",
+  "name": "Mitten Extracts Moonrocks | Peach Cobbler",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Warm, sweet, and dessert-inspired, Peach Cobbler Moon Rocks blend juicy peach flavor with smooth baked-good notes. The triple-layer combination of flower, concentrate, and kief creates an indulgent, high-powered experience.",
+  "description_html": "Warm, sweet, and dessert-inspired, Peach Cobbler Moon Rocks blend juicy peach flavor with smooth baked-good notes. The triple-layer combination of flower, concentrate, and kief creates an indulgent, high-powered experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1b6d0b6e10e95f3368bcfa0e0acefc48",
+      "alt": "Mitten Extracts Moonrocks | Peach Cobbler",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-moonrocks-peach-cobbler__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-moonrocks-peach-cobbler-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.533Z"
+}

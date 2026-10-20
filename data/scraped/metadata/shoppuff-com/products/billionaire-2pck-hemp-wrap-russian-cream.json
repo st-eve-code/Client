@@ -1,0 +1,35 @@
+{
+  "slug": "billionaire-2pck-hemp-wrap-russian-cream",
+  "name": "Billionaire | 2pck Hemp Wrap | Russian Cream",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 2,
+  "price_max": 2,
+  "currency": "USD",
+  "price_range": "$2.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/accessories.jpg",
+      "alt": "Billionaire | 2pck Hemp Wrap | Russian Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__billionaire-2pck-hemp-wrap-russian-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/billionaire-2pck-hemp-wrap-russian-cream-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.532Z"
+}

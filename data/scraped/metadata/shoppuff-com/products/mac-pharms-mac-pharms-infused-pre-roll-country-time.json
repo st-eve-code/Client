@@ -1,0 +1,35 @@
+{
+  "slug": "mac-pharms-mac-pharms-infused-pre-roll-country-time",
+  "name": "Mac Pharms Infused Pre-roll | Country Time",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mac Pharms",
+  "tags": [],
+  "description": "Country Time is a crisp, citrusy profile—think lemonade stand energy with a clean, refreshing finish.\nFlavor: Zesty lemon with lightly sweet-tart snap.",
+  "description_html": "Country Time is a crisp, citrusy profile—think lemonade stand energy with a clean, refreshing finish.<br />Flavor: Zesty lemon with lightly sweet-tart snap.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8d6d627158312a8f50d74518d0ac9275",
+      "alt": "Mac Pharms Infused Pre-roll | Country Time",
+      "local": "data\\scraped\\images\\shoppuff-com__mac-pharms-mac-pharms-infused-pre-roll-country-time__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mac-pharms-mac-pharms-infused-pre-roll-country-time-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.418Z"
+}

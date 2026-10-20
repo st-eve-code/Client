@@ -1,0 +1,35 @@
+{
+  "slug": "zaaz-zaaz-x-5-infused-prerolls-strawberry-shortcake",
+  "name": "Zaaz x 5 Infused Prerolls | Strawberry Shortcake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 22.5,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$22.50",
+  "available": true,
+  "vendor": "zaaz",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5404ebee67218fa41b3ff83ad93993f6",
+      "alt": "Zaaz x 5 Infused Prerolls | Strawberry Shortcake",
+      "local": "data\\scraped\\images\\shoppuff-com__zaaz-zaaz-x-5-infused-prerolls-strawberry-shortcake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4g",
+      "price": 22.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zaaz-zaaz-x-5-infused-prerolls-strawberry-shortcake-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.279Z"
+}

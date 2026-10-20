@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-preroll-galactic-sugar",
+  "name": "Galactic Sugar Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Our classic 1 gram joint. Premium indoor flower from our rotating strain menu, ground and rolled in a RAW cone. No infusion, no additives, no filler, just flower done properly.",
+  "description_html": "Our classic 1 gram joint. Premium indoor flower from our rotating strain menu, ground and rolled in a RAW cone. No infusion, no additives, no filler, just flower done properly.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5aedba1dcc0973c31e0bb30a2a783783",
+      "alt": "Galactic Sugar Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-preroll-galactic-sugar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-preroll-galactic-sugar-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.762Z"
+}

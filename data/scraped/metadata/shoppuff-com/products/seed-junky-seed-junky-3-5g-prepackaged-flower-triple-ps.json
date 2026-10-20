@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-3-5g-prepackaged-flower-triple-ps",
+  "name": "Seed Junky | 3.5g Prepackaged Flower | Triple P's",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Triple P' is a beautiful trichome-covered dense indica, that is smooth smoking with all-white ash and relaxing cerebral high that isn't going to put you out. Triple P'z has strong flavors of a sweet yellow cake terpene with a hint of licorice.",
+  "description_html": "Triple P' is a beautiful trichome-covered dense indica, that is smooth smoking with all-white ash and relaxing cerebral high that isn't going to put you out. Triple P'z has strong flavors of a sweet yellow cake terpene with a hint of licorice.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/aadf12e32161ccd4bbe1599236e5a26f",
+      "alt": "Seed Junky | 3.5g Prepackaged Flower | Triple P's",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-3-5g-prepackaged-flower-triple-ps__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-3-5g-prepackaged-flower-triple-ps-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.791Z"
+}

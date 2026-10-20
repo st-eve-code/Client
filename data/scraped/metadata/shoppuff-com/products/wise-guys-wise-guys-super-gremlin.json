@@ -1,0 +1,45 @@
+{
+  "slug": "wise-guys-wise-guys-super-gremlin",
+  "name": "Wise Guys | Super Gremlin",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$7.00 – $15.00",
+  "available": true,
+  "vendor": "Wise Guys",
+  "tags": [],
+  "description": "Cross/Lineage: Thinmint Cookies x Shebanger 22\n\nFlavor: Sour Gas with a subtle lemon undertone\n\nType/Leaning: Hybrid (Indica-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Thinmint Cookies x Shebanger 22<br /><br />Flavor: Sour Gas with a subtle lemon undertone<br /><br />Type/Leaning: Hybrid (Indica-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c8d249a3fda170f6578a50823d9964d1",
+      "alt": "Wise Guys | Super Gremlin",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-wise-guys-super-gremlin__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-wise-guys-super-gremlin-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.636Z"
+}

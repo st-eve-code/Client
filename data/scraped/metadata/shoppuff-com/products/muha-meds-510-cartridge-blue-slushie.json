@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-510-cartridge-blue-slushie",
+  "name": "Muha Meds 510 Cartridge | Blue Slushie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Cool down with the unmistakable taste of Blue Slushie, a sweet and tangy blue raspberry blend that hits just like an ice-cold slushie on a scorching summer day. Bursting with bold flavor and a crisp, frosty twist, every inhale delivers an irresistibly delicious experience.",
+  "description_html": "Cool down with the unmistakable taste of Blue Slushie, a sweet and tangy blue raspberry blend that hits just like an ice-cold slushie on a scorching summer day. Bursting with bold flavor and a crisp, frosty twist, every inhale delivers an irresistibly delicious experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/30b74cc04369fa3e93d309f1151abc1c",
+      "alt": "Muha Meds 510 Cartridge | Blue Slushie",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-510-cartridge-blue-slushie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-510-cartridge-blue-slushie-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.379Z"
+}

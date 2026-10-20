@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-grape-ape-xl-infused-pre-roll-2g",
+  "name": "Grape Ape XL Infused Pre-Roll | 2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Granddaddy Purp is an indica strain that crosses Mendocino Purps, Skunk, and Afghani. As one might expect, its dense, compact buds are wreathed in deep purple leaves which darken as Granddaddy Purp reaches full maturation. It is named for its distinct, sweet grape-like aroma and flavor profile with a slight, spicy earth accent that carries over from its Afghani lineage.",
+  "description_html": "Granddaddy Purp is an indica strain that crosses Mendocino Purps, Skunk, and Afghani. As one might expect, its dense, compact buds are wreathed in deep purple leaves which darken as Granddaddy Purp reaches full maturation. It is named for its distinct, sweet grape-like aroma and flavor profile with a slight, spicy earth accent that carries over from its Afghani lineage.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/37da33d064616fd81c0a2092cd975d83",
+      "alt": "Grape Ape XL Infused Pre-Roll | 2g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-grape-ape-xl-infused-pre-roll-2g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-grape-ape-xl-infused-pre-roll-2g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.568Z"
+}

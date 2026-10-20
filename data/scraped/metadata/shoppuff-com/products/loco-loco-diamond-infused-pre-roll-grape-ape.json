@@ -1,0 +1,35 @@
+{
+  "slug": "loco-loco-diamond-infused-pre-roll-grape-ape",
+  "name": "Loco Diamond Infused Pre-Roll | Grape Ape",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "LOCO",
+  "tags": [],
+  "description": "1g Diamond Infused Pre-Roll",
+  "description_html": "1g Diamond Infused Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1f6184d0c3d83b4ddc981ffc007607d2",
+      "alt": "Loco Diamond Infused Pre-Roll | Grape Ape",
+      "local": "data\\scraped\\images\\shoppuff-com__loco-loco-diamond-infused-pre-roll-grape-ape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loco-loco-diamond-infused-pre-roll-grape-ape-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.423Z"
+}

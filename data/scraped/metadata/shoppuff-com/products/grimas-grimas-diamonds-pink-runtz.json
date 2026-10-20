@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-diamonds-pink-runtz",
+  "name": "Grimas Diamonds | Pink Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Grimas in its simplest form is cannabis. But Grimas is so much more than JUST cannabis. When you want to get high, sure, you might use cannabis. When you want to come up with the next great idea, create an epic story for your friends to enjoy, or simply need an escape from the hectic every day… that’s where you can rely on Grimas. Yes, Grimas is cannabis. And yes, Grimas is THE experience.",
+  "description_html": "Grimas in its simplest form is cannabis. But Grimas is so much more than JUST cannabis. When you want to get high, sure, you might use cannabis. When you want to come up with the next great idea, create an epic story for your friends to enjoy, or simply need an escape from the hectic every day… that’s where you can rely on Grimas. Yes, Grimas is cannabis. And yes, Grimas is THE experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9228c1e14fdc7b88c64863833e28fbd6",
+      "alt": "Grimas Diamonds | Pink Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-diamonds-pink-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-diamonds-pink-runtz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.447Z"
+}

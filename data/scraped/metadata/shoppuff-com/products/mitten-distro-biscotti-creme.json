@@ -1,0 +1,55 @@
+{
+  "slug": "mitten-distro-biscotti-creme",
+  "name": "Mitten Distro | Biscotti Creme",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.2,
+  "price_max": 38.5,
+  "currency": "USD",
+  "price_range": "$4.20 – $38.50",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Mitten Distro | Biscotti Creme",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-distro-biscotti-creme__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 21,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 38.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4.2,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8.4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-distro-biscotti-creme-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.592Z"
+}

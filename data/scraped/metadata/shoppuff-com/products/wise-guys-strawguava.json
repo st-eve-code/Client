@@ -1,0 +1,60 @@
+{
+  "slug": "wise-guys-strawguava",
+  "name": "Wise Guys | Strawguava",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 69,
+  "currency": "USD",
+  "price_range": "$4.00 – $69.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: Strawnana x Papaya\n\nFlavor: Strawberry rotting fruit terps with a sweet candy finish\n\nType/Leaning: Hybrid (Sativa-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Strawnana x Papaya<br /><br />Flavor: Strawberry rotting fruit terps with a sweet candy finish<br /><br />Type/Leaning: Hybrid (Sativa-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ccf917236e7efe9831ee06439f0fb06f",
+      "alt": "Wise Guys | Strawguava",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-strawguava__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 69,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-strawguava-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.792Z"
+}

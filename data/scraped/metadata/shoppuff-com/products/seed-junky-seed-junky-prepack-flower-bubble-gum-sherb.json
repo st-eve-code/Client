@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepack-flower-bubble-gum-sherb",
+  "name": "Seed Junky Prepack Flower | Bubble Gum Sherb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Bubble Gum Sherb is a classic hybrid strain made by crossing Indiana Bubble Gum with an unknown indica strain. Marked by sweet and fruity flavors, this strain has the ability to numb your body while leaving you clearheaded.",
+  "description_html": "Bubble Gum Sherb is a classic hybrid strain made by crossing Indiana Bubble Gum with an unknown indica strain. Marked by sweet and fruity flavors, this strain has the ability to numb your body while leaving you clearheaded.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3d65d688558db7769064557afb6aff32",
+      "alt": "Seed Junky Prepack Flower | Bubble Gum Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepack-flower-bubble-gum-sherb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepack-flower-bubble-gum-sherb-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.789Z"
+}

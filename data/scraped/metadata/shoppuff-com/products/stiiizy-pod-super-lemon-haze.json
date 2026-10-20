@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-pod-super-lemon-haze",
+  "name": "Stiiizy Pod | Super Lemon Haze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "TASTE: Lemon, Citrus, Pine\n\nFEELING: Uplifted, Happy, Energetic\n\nDESCRIPTION: This uplifting heavy hitter offers a boost of creativity to any daytime activity.",
+  "description_html": "TASTE: Lemon, Citrus, Pine<br /><br />FEELING: Uplifted, Happy, Energetic<br /><br />DESCRIPTION: This uplifting heavy hitter offers a boost of creativity to any daytime activity.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/468a54c9ac9651b6d11c6fe8bfe031b9",
+      "alt": "Stiiizy Pod | Super Lemon Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-pod-super-lemon-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-pod-super-lemon-haze-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.242Z"
+}

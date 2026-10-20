@@ -1,0 +1,35 @@
+{
+  "slug": "uncle-arnies-uncle-arnies-100mg-drink-orange-soda",
+  "name": "Uncle Arnie's | 100mg Drink | Orange Soda",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Uncle Arnie's",
+  "tags": [],
+  "description": "Uncle Arnie’s Orange Sodapop brings back that classic orange soda pop you’d grab from the cooler. 100mg of straight nostalgia firepower will Pop the Top. Uncle Arnie brings the party, whether its backyards, beaches, boats, or BBQ’s, you’ll set adrift with an onset time of about 20-40mins, and of course sip according to your experience!\n\nVEGAN. MADE IN THE USA.",
+  "description_html": "Uncle Arnie’s Orange Sodapop brings back that classic orange soda pop you’d grab from the cooler. 100mg of straight nostalgia firepower will Pop the Top. Uncle Arnie brings the party, whether its backyards, beaches, boats, or BBQ’s, you’ll set adrift with an onset time of about 20-40mins, and of course sip according to your experience!<br /><br />VEGAN. MADE IN THE USA.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/86b2d9983fbecab950f1c29caa9a9f95",
+      "alt": "Uncle Arnie's | 100mg Drink | Orange Soda",
+      "local": "data\\scraped\\images\\shoppuff-com__uncle-arnies-uncle-arnies-100mg-drink-orange-soda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/uncle-arnies-uncle-arnies-100mg-drink-orange-soda-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.522Z"
+}

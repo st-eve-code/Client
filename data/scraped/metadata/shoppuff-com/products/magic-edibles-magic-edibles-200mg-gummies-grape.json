@@ -1,0 +1,40 @@
+{
+  "slug": "magic-edibles-magic-edibles-200mg-gummies-grape",
+  "name": "Magic Edibles | 200mg Gummies | Grape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Magic Edibles",
+  "tags": [],
+  "description": "MAGIC EDIBLES GRAPE CHEWS 200MG MED\n\nCOME IN FOUR DELICIOUS 50MG PIECES. 50/50 HYBRID, GOOD FOR ANY TIME.",
+  "description_html": "MAGIC EDIBLES GRAPE CHEWS 200MG MED<br /><br />COME IN FOUR DELICIOUS 50MG PIECES. 50/50 HYBRID, GOOD FOR ANY TIME.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2725434d066864688cd3de81010eb0c8",
+      "alt": "Magic Edibles | 200mg Gummies | Grape",
+      "local": "data\\scraped\\images\\shoppuff-com__magic-edibles-magic-edibles-200mg-gummies-grape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".2g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "1.49g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/magic-edibles-magic-edibles-200mg-gummies-grape-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.430Z"
+}

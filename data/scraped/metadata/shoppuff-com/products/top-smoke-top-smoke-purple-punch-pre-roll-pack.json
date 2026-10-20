@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-purple-punch-pre-roll-pack",
+  "name": "Top Smoke - Purple Punch Pre-Roll Pack",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Purple Punch is an indica that crosses two indica-dominant classics, Larry OG and Granddaddy Purple. Smelling of grape candy, blueberry, and tart Kool-Aid, Purple Punch is a potent strain that may provide a “one-two punch” of heavy euphoria and body sedation. 28 one gram pre-rolls.",
+  "description_html": "Purple Punch is an indica that crosses two indica-dominant classics, Larry OG and Granddaddy Purple. Smelling of grape candy, blueberry, and tart Kool-Aid, Purple Punch is a potent strain that may provide a “one-two punch” of heavy euphoria and body sedation. 28 one gram pre-rolls.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/55cbc1914bcf49f616c26583371b5dd5",
+      "alt": "Top Smoke - Purple Punch Pre-Roll Pack",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-purple-punch-pre-roll-pack__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-purple-punch-pre-roll-pack-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.425Z"
+}

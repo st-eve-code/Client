@@ -1,0 +1,35 @@
+{
+  "slug": "3-lefts-3lefts-live-rosin-dual-og",
+  "name": "3Lefts Live Rosin | Dual OG",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "3 Lefts",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3040097ba889900e3bb5a056296f16fc",
+      "alt": "3Lefts Live Rosin | Dual OG",
+      "local": "data\\scraped\\images\\shoppuff-com__3-lefts-3lefts-live-rosin-dual-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/3-lefts-3lefts-live-rosin-dual-og-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.764Z"
+}

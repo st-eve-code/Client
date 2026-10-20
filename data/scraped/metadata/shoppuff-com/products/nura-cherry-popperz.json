@@ -1,0 +1,60 @@
+{
+  "slug": "nura-cherry-popperz",
+  "name": "Nura | Cherry Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99.99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.99",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Nura | Cherry Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-cherry-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 99.99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-cherry-popperz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.695Z"
+}

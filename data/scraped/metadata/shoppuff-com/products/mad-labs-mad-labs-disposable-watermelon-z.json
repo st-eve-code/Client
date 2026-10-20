@@ -1,0 +1,35 @@
+{
+  "slug": "mad-labs-mad-labs-disposable-watermelon-z",
+  "name": "Mad Labs Disposable | Watermelon Z",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Mad Labs",
+  "tags": [],
+  "description": "An indica-dominant strain celebrated for its fruity profile and calming effects, offering a mellow euphoric lift that settles into soothing full-body relaxation—ideal for unwinding without heavy sedation. On the exhale, Watermelon Z hits with juicy watermelon and candy-sweet fruit, layered with subtle berry notes and a smooth, refreshing finish.",
+  "description_html": "An indica-dominant strain celebrated for its fruity profile and calming effects, offering a mellow euphoric lift that settles into soothing full-body relaxation—ideal for unwinding without heavy sedation. On the exhale, Watermelon Z hits with juicy watermelon and candy-sweet fruit, layered with subtle berry notes and a smooth, refreshing finish.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7c637be57d854c67bf2f90f1c62ca6b1",
+      "alt": "Mad Labs Disposable | Watermelon Z",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-labs-mad-labs-disposable-watermelon-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-labs-mad-labs-disposable-watermelon-z-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.490Z"
+}

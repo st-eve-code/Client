@@ -1,0 +1,35 @@
+{
+  "slug": "johnnie-blaze-blunt-sunset-runtz",
+  "name": "Johnnie Blaze Blunt | Sunset Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Johnnie Blaze",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9189b8fff679805da2b068c2f65609cd",
+      "alt": "Johnnie Blaze Blunt | Sunset Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__johnnie-blaze-blunt-sunset-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/johnnie-blaze-blunt-sunset-runtz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.366Z"
+}

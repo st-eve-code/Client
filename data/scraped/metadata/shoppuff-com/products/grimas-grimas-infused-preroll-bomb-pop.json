@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-infused-preroll-bomb-pop",
+  "name": "Grimas Infused Preroll | Bomb Pop",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Grimas 1.5g Double Infused Pre Rolls are a high end, top shelf experience crafted for elevated potency and bold flavor. Infused with rich terpene distillate and THCA, they deliver a smooth, slow burning smoke with powerful effects and premium quality in every roll.",
+  "description_html": "Grimas 1.5g Double Infused Pre Rolls are a high end, top shelf experience crafted for elevated potency and bold flavor. Infused with rich terpene distillate and THCA, they deliver a smooth, slow burning smoke with powerful effects and premium quality in every roll.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5faef31af77bc7c108a08455c0814f42",
+      "alt": "Grimas Infused Preroll | Bomb Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-infused-preroll-bomb-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-infused-preroll-bomb-pop-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.403Z"
+}

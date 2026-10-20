@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-muha-meds-x-5pk-infused-prerolls-orange-cake",
+  "name": "Muha Meds x 5pk Infused Prerolls | Orange Cake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a011a511550cf937d0dc33a1923719f6",
+      "alt": "Muha Meds x 5pk Infused Prerolls | Orange Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-muha-meds-x-5pk-infused-prerolls-orange-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-muha-meds-x-5pk-infused-prerolls-orange-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.928Z"
+}

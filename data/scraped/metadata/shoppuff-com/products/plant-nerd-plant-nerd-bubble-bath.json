@@ -1,0 +1,60 @@
+{
+  "slug": "plant-nerd-plant-nerd-bubble-bath",
+  "name": "Plant Nerd | Bubble Bath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 75,
+  "currency": "USD",
+  "price_range": "$4.00 – $75.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "We’re big fans of Soap and wanted to see how Project 4516 mixed with it. Bubble Bath takes on a lot of the better qualities of Soap and adds a freshness, not dissimilar from fresh laundry, from Project 4516. It has a unique flavor, dense green bud structure, and a balanced clear high. It’s just all around good bud.",
+  "description_html": "We’re big fans of Soap and wanted to see how Project 4516 mixed with it. Bubble Bath takes on a lot of the better qualities of Soap and adds a freshness, not dissimilar from fresh laundry, from Project 4516. It has a unique flavor, dense green bud structure, and a balanced clear high. It’s just all around good bud.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0b9356a6138e743c6a430ddcc064067",
+      "alt": "Plant Nerd | Bubble Bath",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-bubble-bath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-bubble-bath-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.613Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-xl-quad-infused-preroll-sugar-plum",
+  "name": "Sugar Plum Jeeter XL Infused Pre-Roll | 2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Sugar Plum is a sweet and earthy sativa with just a hint of sour to round out its bold flavor profile. Fruity, fragrant, and full of personality, this strain delivers a layered sensory experience from start to finish. Life’s a little sweeter with Sugar Plum in the mix.",
+  "description_html": "Sugar Plum is a sweet and earthy sativa with just a hint of sour to round out its bold flavor profile. Fruity, fragrant, and full of personality, this strain delivers a layered sensory experience from start to finish. Life’s a little sweeter with Sugar Plum in the mix.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4e91d0716d7bc223c4cfaac78a9cb8a3",
+      "alt": "Sugar Plum Jeeter XL Infused Pre-Roll | 2g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-xl-quad-infused-preroll-sugar-plum__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-xl-quad-infused-preroll-sugar-plum-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.555Z"
+}

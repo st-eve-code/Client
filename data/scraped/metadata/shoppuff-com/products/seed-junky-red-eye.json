@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-red-eye",
+  "name": "Seed Junky | Red Eye",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$10.00 – $175.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Red Eye is one of Seed Junky’s most potent indicas. With intense flavors of candy and gas this strains sedative effects will have you flying off to dreamland.",
+  "description_html": "Red Eye is one of Seed Junky’s most potent indicas. With intense flavors of candy and gas this strains sedative effects will have you flying off to dreamland.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2783cfd760ecbaa14da55210e0825b91",
+      "alt": "Seed Junky | Red Eye",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-red-eye__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-red-eye-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.297Z"
+}

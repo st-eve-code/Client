@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-thca-snow-caps-gruntz",
+  "name": "Midwest Extracts | THCA Snow Caps | Gruntz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10.8,
+  "price_max": 10.8,
+  "currency": "USD",
+  "price_range": "$10.80",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Midwest Extracts | THCA Snow Caps | Gruntz",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-thca-snow-caps-gruntz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10.8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-thca-snow-caps-gruntz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.873Z"
+}

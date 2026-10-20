@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-flower-power-cannabis-prepackaged-flower-frozen-berries",
+  "name": "Flower Power Cannabis Prepackaged Flower | Frozen Berries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "3.5G Pre Pack of our brand new strain Frozen Berries. Hand-picked for the best experience.\n\n(Gassius Clay X Billy Kimber) X Sweet Retreat | Indica-Dominant Hybrid\n\nDominant Terpenes: Limonene, Linalool, Myrcene",
+  "description_html": "3.5G Pre Pack of our brand new strain Frozen Berries. Hand-picked for the best experience.<br /><br /><br /><br />(Gassius Clay X Billy Kimber) X Sweet Retreat | Indica-Dominant Hybrid<br /><br />Dominant Terpenes: Limonene, Linalool, Myrcene",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/656778d76ca9909b4cd654a0c25ce864",
+      "alt": "Flower Power Cannabis Prepackaged Flower | Frozen Berries",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-flower-power-cannabis-prepackaged-flower-frozen-berries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-flower-power-cannabis-prepackaged-flower-frozen-berries-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.393Z"
+}

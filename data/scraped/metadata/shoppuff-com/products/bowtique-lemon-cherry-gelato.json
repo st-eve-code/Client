@@ -1,0 +1,60 @@
+{
+  "slug": "bowtique-lemon-cherry-gelato",
+  "name": "Bowtique | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Bowtique",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fbfef00fe0717eaf31d55a7f3894d740",
+      "alt": "Bowtique | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__bowtique-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 34,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bowtique-lemon-cherry-gelato-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.769Z"
+}

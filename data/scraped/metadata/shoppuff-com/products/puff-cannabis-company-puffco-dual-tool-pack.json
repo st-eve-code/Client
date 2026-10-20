@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puffco-dual-tool-pack",
+  "name": "Puffco | Dual Tool Pack",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Puffco",
+  "tags": [],
+  "description": "The Puffco Dual Tool is a two-in-one Peak companion. One side features a loading tool (for scooping CBD with ease), while the other features an organic cotton cleaning swab. Less mess, more dabs.\nContains 50 per pack.",
+  "description_html": "The Puffco Dual Tool is a two-in-one Peak companion. One side features a loading tool (for scooping CBD with ease), while the other features an organic cotton cleaning swab. Less mess, more dabs.<br />Contains 50 per pack.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e02f66de6b0af9e7e7864f1934515665",
+      "alt": "Puffco | Dual Tool Pack",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puffco-dual-tool-pack__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puffco-dual-tool-pack-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.993Z"
+}

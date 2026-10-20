@@ -1,0 +1,40 @@
+{
+  "slug": "grasshopper-farms-grasshopper-farms-gelato-33",
+  "name": "Grasshopper Farms | Gelato #33",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 60,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$60.00 – $99.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Grasshopper Farms | Gelato #33",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-grasshopper-farms-gelato-33__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-grasshopper-farms-gelato-33-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.741Z"
+}

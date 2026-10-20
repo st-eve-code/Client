@@ -1,0 +1,35 @@
+{
+  "slug": "rove-rove-1g-infused-preroll-ice-packs-sunset-sherbet",
+  "name": "ROVE | 1g Infused Preroll Ice Packs | Sunset Sherbet",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/16bb632bc4ca677a407cc2948759a919",
+      "alt": "ROVE | 1g Infused Preroll Ice Packs | Sunset Sherbet",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-rove-1g-infused-preroll-ice-packs-sunset-sherbet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-rove-1g-infused-preroll-ice-packs-sunset-sherbet-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.945Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "green-dr-100mg-cbd-dog-treat-5pk-peanut-butter",
+  "name": "Green DR | 100mg CBD Dog Treat 5pk | Peanut Butter",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Green Dr. CBD",
+  "tags": [],
+  "description": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "description_html": " CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f48226ead839cf8de16beb161b9f8b16",
+      "alt": "Green DR | 100mg CBD Dog Treat 5pk | Peanut Butter",
+      "local": "data\\scraped\\images\\shoppuff-com__green-dr-100mg-cbd-dog-treat-5pk-peanut-butter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/green-dr-100mg-cbd-dog-treat-5pk-peanut-butter-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.270Z"
+}

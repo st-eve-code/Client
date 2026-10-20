@@ -1,0 +1,35 @@
+{
+  "slug": "mkx-oil-co-mkx-200mg-chocolate-bites-cookies-cream",
+  "name": "MKX | 200mg Chocolate Bites | Cookies & Cream",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "200mg chocolate bites cookies and cream chocolate",
+  "description_html": "200mg chocolate bites cookies and cream chocolate",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/46d69cd5b1593b6711ef7cda8540b6ea",
+      "alt": "MKX | 200mg Chocolate Bites | Cookies & Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-mkx-200mg-chocolate-bites-cookies-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.875g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-mkx-200mg-chocolate-bites-cookies-cream-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.436Z"
+}

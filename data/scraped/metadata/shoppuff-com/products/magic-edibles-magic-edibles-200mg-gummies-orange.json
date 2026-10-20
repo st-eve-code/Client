@@ -1,0 +1,35 @@
+{
+  "slug": "magic-edibles-magic-edibles-200mg-gummies-orange",
+  "name": "Magic Edibles | 200mg Gummies | Orange",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Magic Edibles",
+  "tags": [],
+  "description": "MAGIC EDIBLES ORANGE CHEWS 200MG MED\n\nCOME IN FOUR DELICIOUS 50MG PIECES. 50/50 HYBRID, GOOD FOR ANY TIME.",
+  "description_html": "MAGIC EDIBLES ORANGE CHEWS 200MG MED<br /><br />COME IN FOUR DELICIOUS 50MG PIECES. 50/50 HYBRID, GOOD FOR ANY TIME.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/342f57c54183f9614f73b80e893455bd",
+      "alt": "Magic Edibles | 200mg Gummies | Orange",
+      "local": "data\\scraped\\images\\shoppuff-com__magic-edibles-magic-edibles-200mg-gummies-orange__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.49g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/magic-edibles-magic-edibles-200mg-gummies-orange-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.430Z"
+}

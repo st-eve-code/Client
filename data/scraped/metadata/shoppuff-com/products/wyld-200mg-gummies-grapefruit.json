@@ -1,0 +1,35 @@
+{
+  "slug": "wyld-200mg-gummies-grapefruit",
+  "name": "200mg | Grapefruit 2:1:1 CBG:CBC Sativa Enhanced Gummies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Wyld",
+  "tags": [],
+  "description": "Our Grapefruit CBG:CBC gummies are made with real fruit and a Sativa enhanced botanical terpene blend, making them a great addition to a day out and about. Whether eaten for a creative boost, or prepping for a dance party, these gummies are great for carefree adventures.\n\n200mg THC:100mg:CBG:100mg CBC per container, 20mg THC:10mg CBG:10mg CBC per gummy.",
+  "description_html": "Our Grapefruit CBG:CBC gummies are made with real fruit and a Sativa enhanced botanical terpene blend, making them a great addition to a day out and about. Whether eaten for a creative boost, or prepping for a dance party, these gummies are great for carefree adventures.<br /><br /><br />200mg THC:100mg:CBG:100mg CBC per container, 20mg THC:10mg CBG:10mg CBC per gummy.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/19979e9985f6193f5dc57c4f663c5268",
+      "alt": "200mg | Grapefruit 2:1:1 CBG:CBC Sativa Enhanced Gummies",
+      "local": "data\\scraped\\images\\shoppuff-com__wyld-200mg-gummies-grapefruit__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.45g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wyld-200mg-gummies-grapefruit-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.953Z"
+}

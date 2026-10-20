@@ -1,24 +1,28 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import { Providers } from "@/components/Providers";
+import { CartProvider } from "@/components/CartProvider";
 
-const plusJakartaSans = localFont({
-  variable: "--font-plus-jakarta-sans",
+const inter = localFont({
+  variable: "--font-inter",
   display: "swap",
   src: [
     {
-      path: "../../public/fonts/plus-jakarta-sans.woff2",
-      weight: "400",
+      path: "../../public/fonts/inter-var.woff2",
+      weight: "400 700",
       style: "normal",
     },
+  ],
+});
+
+const bricolageGrotesque = localFont({
+  variable: "--font-bricolage",
+  display: "swap",
+  src: [
     {
-      path: "../../public/fonts/plus-jakarta-sans.woff2",
-      weight: "700",
-      style: "normal",
-    },
-    {
-      path: "../../public/fonts/plus-jakarta-sans.woff2",
-      weight: "800",
+      path: "../../public/fonts/bricolage-var.woff2",
+      weight: "700 800",
       style: "normal",
     },
   ],
@@ -26,8 +30,8 @@ const plusJakartaSans = localFont({
 
 export const metadata: Metadata = {
   title: {
-    default: "Vapestore — Online Vape Shop",
-    template: "%s | Vapestore",
+    default: "nofacetrap — Online Vape Shop",
+    template: "%s | nofacetrap",
   },
   description:
     "Shop trusted vapes and e-liquids at our leading vape shop online. Discover top brands, expert support, and fast UK delivery.",
@@ -50,14 +54,17 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${plusJakartaSans.variable} h-full antialiased`}
+      className={`${inter.variable} ${bricolageGrotesque.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
       <head>
         <link rel="icon" type="image/png" sizes="512x512" href="/favicon.png" />
         <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png" />
       </head>
-      <body className="min-h-full flex flex-col bg-[var(--color-bg-canvas)] text-[var(--color-text-primary)] font-[var(--font-plus-jakarta-sans)]">
-        {children}
+      <body className="min-h-full flex flex-col bg-[var(--color-bg-canvas)] text-[var(--color-text-primary)] font-sans">
+        <CartProvider>
+          <Providers>{children}</Providers>
+        </CartProvider>
       </body>
     </html>
   );

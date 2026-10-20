@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-tyson-wraps-for-sale-madison-heights-mi-2",
+  "name": "Tyson | Wraps",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Futurola x Tyson 2.0\nThe Toad Terpene-Infused\nTabacco-Free Blunt Wrap/Cone",
+  "description_html": "Futurola x Tyson 2.0<br />The Toad Terpene-Infused<br />Tabacco-Free Blunt Wrap/Cone                               <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2abde469f95bb9180f278f264bf546ba",
+      "alt": "Tyson | Wraps",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-tyson-wraps-for-sale-madison-heights-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-tyson-wraps-for-sale-madison-heights-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.892Z"
+}

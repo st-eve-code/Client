@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-premium-preroll-perma-sweet",
+  "name": "Local Grove Premium Preroll | Perma Sweet",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Permanent Marker x Runtz \n\nBreeder: Local Grove \n\nAroma & Flavor: Distinctive aroma and taste leaning toward Permanent Marker, with strong bag appeal \n\nEffects: Hybrid – potent effects with a rich, complex terpene profile.",
+  "description_html": "Genetics: Permanent Marker x Runtz <br /><br />Breeder: Local Grove <br /><br />Aroma & Flavor: Distinctive aroma and taste leaning toward Permanent Marker, with strong bag appeal <br /><br />Effects: Hybrid – potent effects with a rich, complex terpene profile.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/eac31c30ece5a6cda6cbf4a94cee8f1e",
+      "alt": "Local Grove Premium Preroll | Perma Sweet",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-premium-preroll-perma-sweet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-premium-preroll-perma-sweet-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.102Z"
+}

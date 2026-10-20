@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-hemp-wraps-assorted",
+  "name": "Hemp Wraps Assorted",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "An assortment of different types and brands of hemp wraps. Please check in store for a full list of available options.",
+  "description_html": "An assortment of different types and brands of hemp wraps. Please check in store for a full list of available options. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/92d34b34514102af87ca6d3044008ad4",
+      "alt": "Hemp Wraps Assorted",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-hemp-wraps-assorted__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-hemp-wraps-assorted-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.922Z"
+}

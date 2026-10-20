@@ -1,0 +1,35 @@
+{
+  "slug": "superfire-superfire-disposable-og-headband",
+  "name": "Superfire Disposable | OG Headband",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 11,
+  "price_max": 11,
+  "currency": "USD",
+  "price_range": "$11.00",
+  "available": true,
+  "vendor": "SuperFire",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5612-Puff-JointStore-Hamtramck.webp",
+      "alt": "Superfire Disposable | OG Headband",
+      "local": "data\\scraped\\images\\shoppuff-com__superfire-superfire-disposable-og-headband__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 11,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/superfire-superfire-disposable-og-headband-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.433Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "marys-medicinals-cbn-transdermal-patch-20mg",
+  "name": "CBN Transdermal Patch | 20mg",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mary's Medicinals",
+  "tags": [],
+  "description": "Mary’s award-winning transdermal patches are born out of a commitment to accurate dosing through an advanced delivery method. The discreet 2×2? squares simply adhere to any veinous part of the skin for 8-12 hours of unsurpassed systemic wellness benefits. Available in CBD, 1:1 CBD:THC, CBG, CBN, THCa, Indica and Sativa.",
+  "description_html": "Mary’s award-winning transdermal patches are born out of a commitment to accurate dosing through an advanced delivery method. The discreet 2×2? squares simply adhere to any veinous part of the skin for 8-12 hours of unsurpassed systemic wellness benefits. Available in CBD, 1:1 CBD:THC, CBG, CBN, THCa, Indica and Sativa.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f57e81b7df9e914634d5e990409267aa",
+      "alt": "CBN Transdermal Patch | 20mg",
+      "local": "data\\scraped\\images\\shoppuff-com__marys-medicinals-cbn-transdermal-patch-20mg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.02g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "0.0575g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/marys-medicinals-cbn-transdermal-patch-20mg-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.506Z"
+}

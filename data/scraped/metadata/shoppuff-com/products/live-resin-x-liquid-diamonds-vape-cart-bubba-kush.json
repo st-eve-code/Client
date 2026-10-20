@@ -1,0 +1,35 @@
+{
+  "slug": "live-resin-x-liquid-diamonds-vape-cart-bubba-kush",
+  "name": "STICKEE | Bubba Kush | 1G | Liquid Diamonds + Live Resin 510 Vape Cart",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Stickee",
+  "tags": [],
+  "description": "Rich, earthy comfort with notes of coffee and cocoa that feel like getting tucked in by your couch. This one cancels your plans, so you don’t have to. Stickee. Always Good.",
+  "description_html": "Rich, earthy comfort with notes of coffee and cocoa that feel like getting tucked in by your couch. This one cancels your plans, so you don’t have to. Stickee. Always Good.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/927a5b85abd60c0f1a03f19c25461b3f",
+      "alt": "STICKEE | Bubba Kush | 1G | Liquid Diamonds + Live Resin 510 Vape Cart",
+      "local": "data\\scraped\\images\\shoppuff-com__live-resin-x-liquid-diamonds-vape-cart-bubba-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/live-resin-x-liquid-diamonds-vape-cart-bubba-kush-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.451Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "fresh-canna-fresh-canna-live-resin-snow-caps-lemon-for-sale-new-buffalo-mi-2",
+  "name": "Fresh Canna | Live Resin Snow Caps | Lemon",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/415528be7edad24fb3a23f121d7c0698",
+      "alt": "Fresh Canna | Live Resin Snow Caps | Lemon",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-live-resin-snow-caps-lemon-for-sale-new-buffalo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 32.5,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 62.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-live-resin-snow-caps-lemon-for-sale-new-buffalo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.817Z"
+}

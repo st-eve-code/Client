@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-hand-roll-starlink",
+  "name": "Peninsula Gardens Hand Roll | Starlink",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Super sweet candy. Bred by @Codymikew, it’s a cross of LCG x Runtz. Some of the most perfect looking flowers in our garden. Structure, color, smell, and flavor. She checks every single box and is sure to take all of the candy lovers to the stars.",
+  "description_html": "Super sweet candy. Bred by @Codymikew, it’s a cross of LCG x Runtz. Some of the most perfect looking flowers in our garden. Structure, color, smell, and flavor. She checks every single box and is sure to take all of the candy lovers to the stars.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/753b401121b493a69e4004f36b79ee2f",
+      "alt": "Peninsula Gardens Hand Roll | Starlink",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-hand-roll-starlink__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-hand-roll-starlink-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.664Z"
+}

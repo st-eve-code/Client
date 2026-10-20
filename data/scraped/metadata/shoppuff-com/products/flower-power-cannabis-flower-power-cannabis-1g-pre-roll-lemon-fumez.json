@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-flower-power-cannabis-1g-pre-roll-lemon-fumez",
+  "name": "Flower Power Cannabis | 1g Pre-Roll | Lemon Fumez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "1G Preroll of our strain Lemon Fumez. Made with 100% premium flower; no shake, no trim.\n\nLemon Berry X Sherb Cream Pie | Hybrid",
+  "description_html": "1G Preroll of our strain Lemon Fumez. Made with 100% premium flower; no shake, no trim.<br /><br /><br /><br />Lemon Berry X Sherb Cream Pie | Hybrid",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/799caa8d3cab0d629db6f8aaf4e8ec6e",
+      "alt": "Flower Power Cannabis | 1g Pre-Roll | Lemon Fumez",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-flower-power-cannabis-1g-pre-roll-lemon-fumez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-flower-power-cannabis-1g-pre-roll-lemon-fumez-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.697Z"
+}

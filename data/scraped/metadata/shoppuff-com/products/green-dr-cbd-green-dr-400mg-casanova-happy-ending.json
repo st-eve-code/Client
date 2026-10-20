@@ -1,0 +1,35 @@
+{
+  "slug": "green-dr-cbd-green-dr-400mg-casanova-happy-ending",
+  "name": "Green DR | 400mg Casanova | Happy Ending",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Green Dr. CBD",
+  "tags": [],
+  "description": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "description_html": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5721-0.jpg",
+      "alt": "Green DR | 400mg Casanova | Happy Ending",
+      "local": "data\\scraped\\images\\shoppuff-com__green-dr-cbd-green-dr-400mg-casanova-happy-ending__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".4g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/green-dr-cbd-green-dr-400mg-casanova-happy-ending-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.273Z"
+}

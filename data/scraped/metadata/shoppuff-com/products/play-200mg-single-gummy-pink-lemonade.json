@@ -1,0 +1,35 @@
+{
+  "slug": "play-200mg-single-gummy-pink-lemonade",
+  "name": "PLAY | 200mg Single Gummy | Pink Lemonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Play by Rkive",
+  "tags": [],
+  "description": "Cannabis infused gummies evenly dosed commonly sold in multi-packs, which makes controlling your intake easy and reliable. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "description_html": "Cannabis infused gummies evenly dosed commonly sold in multi-packs, which makes controlling your intake easy and reliable. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/edibles.jpg",
+      "alt": "PLAY | 200mg Single Gummy | Pink Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__play-200mg-single-gummy-pink-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".7g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/play-200mg-single-gummy-pink-lemonade-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.850Z"
+}

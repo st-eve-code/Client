@@ -1,0 +1,35 @@
+{
+  "slug": "doja-exclusive-doja-prepackaged-flower-cotton-candy",
+  "name": "Doja Prepackaged Flower | Cotton Candy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "Doja Exclusive",
+  "tags": [],
+  "description": "3.5g Pre-packaged Flower\nDried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "3.5g Pre-packaged Flower<br />Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/97c265028f90f3cb0e86046bb31b0978",
+      "alt": "Doja Prepackaged Flower | Cotton Candy",
+      "local": "data\\scraped\\images\\shoppuff-com__doja-exclusive-doja-prepackaged-flower-cotton-candy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doja-exclusive-doja-prepackaged-flower-cotton-candy-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.938Z"
+}

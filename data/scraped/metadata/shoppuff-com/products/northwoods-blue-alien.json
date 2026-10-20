@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-blue-alien",
+  "name": "Northwoods | Blue Alien",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "The initial taste of Momochi is a burst of fruity sweetness, with pronounced notes of tropical fruits, and hints of citrus, earthy, herbal undertones.",
+  "description_html": "The initial taste of Momochi is a burst of fruity sweetness, with pronounced notes of tropical fruits, and hints of citrus, earthy, herbal undertones.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a856c26eb25901382254b4a18fe7d933",
+      "alt": "Northwoods | Blue Alien",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-blue-alien__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-blue-alien-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.953Z"
+}

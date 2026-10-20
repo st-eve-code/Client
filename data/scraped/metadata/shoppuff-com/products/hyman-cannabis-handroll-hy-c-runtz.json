@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-cannabis-handroll-hy-c-runtz",
+  "name": "Hyman Cannabis Handroll | Hy-C Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Sativa\n\nFlavors: Fruity, Pineapple, Sweet, Tropical\n\nAromas: Earthy, Herbal, Sour, Sweet, Tropical\n\nEffects: Calming, Relaxing, Sleepy, Uplifting",
+  "description_html": "Strain Type: Sativa<br /><br />Flavors: Fruity, Pineapple, Sweet, Tropical<br /><br />Aromas: Earthy, Herbal, Sour, Sweet, Tropical<br /><br />Effects: Calming, Relaxing, Sleepy, Uplifting",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b3852e6979d93662706423140a19b4c2",
+      "alt": "Hyman Cannabis Handroll | Hy-C Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-cannabis-handroll-hy-c-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-cannabis-handroll-hy-c-runtz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.783Z"
+}

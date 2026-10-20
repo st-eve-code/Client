@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-disposable-slurricane",
+  "name": "Mitten Extracts Disposable | Slurricane",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Heavy, fruity, and full of flavor, Slurricane is an indica that means business. Sweet berry notes meet a slow-building relaxation that hits like a storm rolling in. This 2g disposable is all about melting tension, easing stress, and helping you sink into a calmer state of mind. Rich, flavorful clouds make every hit satisfying, while the effects remind you why Indica's reign supreme for winding down.",
+  "description_html": "Heavy, fruity, and full of flavor, Slurricane is an indica that means business. Sweet berry notes meet a slow-building relaxation that hits like a storm rolling in. This 2g disposable is all about melting tension, easing stress, and helping you sink into a calmer state of mind. Rich, flavorful clouds make every hit satisfying, while the effects remind you why Indica's reign supreme for winding down.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6b30d947c46d6321377655fd63b126a5",
+      "alt": "Mitten Extracts Disposable | Slurricane",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-disposable-slurricane__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-disposable-slurricane-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.073Z"
+}

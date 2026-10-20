@@ -1,0 +1,35 @@
+{
+  "slug": "rocket-rocket-blast-510-cartridge-rainbow-rips",
+  "name": "Rocket Blast 510 Cartridge | Rainbow Rips",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Rocket",
+  "tags": [],
+  "description": "1g 510 Cartridge",
+  "description_html": "1g 510 Cartridge",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7d7f5289792a31b885c02f27101f0574",
+      "alt": "Rocket Blast 510 Cartridge | Rainbow Rips",
+      "local": "data\\scraped\\images\\shoppuff-com__rocket-rocket-blast-510-cartridge-rainbow-rips__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rocket-rocket-blast-510-cartridge-rainbow-rips-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.419Z"
+}

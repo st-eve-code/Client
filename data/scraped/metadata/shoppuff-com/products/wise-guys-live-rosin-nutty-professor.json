@@ -1,0 +1,35 @@
+{
+  "slug": "wise-guys-live-rosin-nutty-professor",
+  "name": "Wise Guys Live Rosin | Nutty Professor",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Craft meets creativity in every jar. Our solventless rosin is stored in Miron violet glass to protect it from light and preserve peak freshness and potency. We produce all rosin in-house, then blend 2 to 6 unique strains into proprietary combinations you won’t find anywhere else. Every jar delivers a new flavor profile—bold, complex, and truly one-of-a-kind.",
+  "description_html": "Craft meets creativity in every jar. Our solventless rosin is stored in Miron violet glass to protect it from light and preserve peak freshness and potency. We produce all rosin in-house, then blend 2 to 6 unique strains into proprietary combinations you won’t find anywhere else. Every jar delivers a new flavor profile—bold, complex, and truly one-of-a-kind.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1a60d339603144f91eba0101db3681f5",
+      "alt": "Wise Guys Live Rosin | Nutty Professor",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-live-rosin-nutty-professor__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-live-rosin-nutty-professor-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.608Z"
+}

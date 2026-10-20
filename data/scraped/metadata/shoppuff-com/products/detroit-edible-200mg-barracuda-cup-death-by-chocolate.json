@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edible-200mg-barracuda-cup-death-by-chocolate",
+  "name": "Detroit Edible | 200mg Barracuda Cup | Death By Chocolate",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Michigan's #1 chocolate edible just went bite sized. These delicious Belgian chocolate bite-sized cups are filled with creamy milk chocolate. Infused with a potent 200mg THC per pack, these mini treats have some bite! Each cup (8 per pack) contains 25mg THC and fully activates in 1-2 hours.",
+  "description_html": "Michigan's #1 chocolate edible just went bite sized. These delicious Belgian chocolate bite-sized cups are filled with creamy milk chocolate. Infused with a potent 200mg THC per pack, these mini treats have some bite! Each cup (8 per pack) contains 25mg THC and fully activates in 1-2 hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/902ae9b984f98be4bd9d8b49a6dd92d2",
+      "alt": "Detroit Edible | 200mg Barracuda Cup | Death By Chocolate",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edible-200mg-barracuda-cup-death-by-chocolate__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5.95g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edible-200mg-barracuda-cup-death-by-chocolate-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.944Z"
+}

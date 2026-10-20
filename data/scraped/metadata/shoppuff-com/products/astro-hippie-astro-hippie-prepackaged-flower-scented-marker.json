@@ -1,0 +1,35 @@
+{
+  "slug": "astro-hippie-astro-hippie-prepackaged-flower-scented-marker",
+  "name": "Astro Hippie Prepackaged Flower | Scented Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Astro Hippie",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Astro Hippie Prepackaged Flower | Scented Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__astro-hippie-astro-hippie-prepackaged-flower-scented-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/astro-hippie-astro-hippie-prepackaged-flower-scented-marker-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.948Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "pro-gro-progroco-prepackaged-flower-wedding-cake",
+  "name": "ProGroCo Prepackaged Flower | Wedding Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Triangle Kush x Animal Mints\n\nType: Hybrid\n\nTerpenes: Caryophyllene, Limonene, Myrcene\n\nAroma: Sweet Vanilla, Spice, Citrus\n\nEffects: Calming, Appetite Stimulating, Happy",
+  "description_html": "Lineage: Triangle Kush x Animal Mints<br /><br />Type: Hybrid<br /><br />Terpenes: Caryophyllene, Limonene, Myrcene<br /><br />Aroma: Sweet Vanilla, Spice, Citrus<br /><br />Effects: Calming, Appetite Stimulating, Happy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8f4544892cbade65d601a411afbf99ce",
+      "alt": "ProGroCo Prepackaged Flower | Wedding Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-prepackaged-flower-wedding-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-prepackaged-flower-wedding-cake-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.428Z"
+}

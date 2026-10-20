@@ -1,0 +1,35 @@
+{
+  "slug": "wojo-body-rub-candy",
+  "name": "Wojo Body Rub | Candy",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Wojo Co",
+  "tags": [],
+  "description": "Cannabis balms are a great way to ease muscle and joint pain in specific areas. While not intended to have psychoactive effects, balms can range widely in potency and efficacy and should be applied incrementally. Warming the application area slightly beforehand will aid absorption.",
+  "description_html": "Cannabis balms are a great way to ease muscle and joint pain in specific areas. While not intended to have psychoactive effects, balms can range widely in potency and efficacy and should be applied incrementally. Warming the application area slightly beforehand will aid absorption.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/28976dc70cfd6709da65e52da80bd65a",
+      "alt": "Wojo Body Rub | Candy",
+      "local": "data\\scraped\\images\\shoppuff-com__wojo-body-rub-candy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wojo-body-rub-candy-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.496Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "triple-phoenix-200mg-edible-fruity-mellow-bar",
+  "name": "Triple Phoenix | 200mg Edible | Fruity Mellow Bar",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Triple Phoenix",
+  "tags": [],
+  "description": "Classic Mellow Bars! Our take on the old fashioned rice krispy treats. Ours are sweet, chewy and super gooey! These mouthwatering THC treats are a Michigan favorite and will have you feeling mellow and calm. Cut super thick and each one is 200mg!",
+  "description_html": "Classic Mellow Bars! Our take on the old fashioned rice krispy treats. Ours are sweet, chewy and super gooey! These mouthwatering THC treats are a Michigan favorite and will have you feeling mellow and calm. Cut super thick and each one is 200mg!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3aa5330b94ac3d8466db2e4269fb931d",
+      "alt": "Triple Phoenix | 200mg Edible | Fruity Mellow Bar",
+      "local": "data\\scraped\\images\\shoppuff-com__triple-phoenix-200mg-edible-fruity-mellow-bar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/triple-phoenix-200mg-edible-fruity-mellow-bar-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.025Z"
+}

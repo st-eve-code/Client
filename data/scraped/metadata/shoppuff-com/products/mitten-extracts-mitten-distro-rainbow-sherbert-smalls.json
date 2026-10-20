@@ -1,0 +1,55 @@
+{
+  "slug": "mitten-extracts-mitten-distro-rainbow-sherbert-smalls",
+  "name": "Mitten Distro | Rainbow Sherbert Smalls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3.5,
+  "price_max": 28,
+  "currency": "USD",
+  "price_range": "$3.50 – $28.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Mitten Distro | Rainbow Sherbert Smalls",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-distro-rainbow-sherbert-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 28,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 3.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-distro-rainbow-sherbert-smalls-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.662Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "thunder-canna-cured-sugar-grandaddy-banner",
+  "name": "Thunder Canna Cured Sugar | Grandaddy Banner",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Thunder Canna",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5616-Puff-JointStore-Monroe.webp",
+      "alt": "Thunder Canna Cured Sugar | Grandaddy Banner",
+      "local": "data\\scraped\\images\\shoppuff-com__thunder-canna-cured-sugar-grandaddy-banner__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/thunder-canna-cured-sugar-grandaddy-banner-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.270Z"
+}

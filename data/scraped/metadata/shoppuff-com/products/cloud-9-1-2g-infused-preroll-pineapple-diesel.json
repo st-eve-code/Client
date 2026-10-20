@@ -1,0 +1,35 @@
+{
+  "slug": "cloud-9-1-2g-infused-preroll-pineapple-diesel",
+  "name": "Cloud 9 | 1.2g Infused Preroll | Pineapple Diesel",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Exhale Systems",
+  "tags": [],
+  "description": "Pineapple Diesel\n\nBuilt for lift-off. Pineapple Diesel powers your flow with tropical fuel-flavored intensity. It’s for doers, dreamers, and daytime smokers with missions to complete.\n\nFlavor Profile: Diesel · Earthy · Pineapple\n\nEffects: Euphoric · Energized • Creative\n\nPrimary Terpenes: Limonene, Lynalool, a-Pinene",
+  "description_html": "Pineapple Diesel<br /><br />Built for lift-off. Pineapple Diesel powers your flow with tropical fuel-flavored intensity. It’s for doers, dreamers, and daytime smokers with missions to complete.<br /><br />Flavor Profile: Diesel · Earthy · Pineapple<br /><br />Effects: Euphoric · Energized • Creative<br /><br />Primary Terpenes: Limonene, Lynalool, a-Pinene",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9a7e03f6c844462daaacf0e8ab960b15",
+      "alt": "Cloud 9 | 1.2g Infused Preroll | Pineapple Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__cloud-9-1-2g-infused-preroll-pineapple-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloud-9-1-2g-infused-preroll-pineapple-diesel-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.935Z"
+}

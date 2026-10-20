@@ -1,0 +1,35 @@
+{
+  "slug": "pleasantrees-pleasantrees-rosin-lemon-freeze-x-gin-juice",
+  "name": "Pleasantrees Rosin | Lemon Freeze x Gin & Juice",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 56,
+  "price_max": 56,
+  "currency": "USD",
+  "price_range": "$56.00",
+  "available": true,
+  "vendor": "Pleasantrees",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fc74600b7ec1f84bb30d21b4cf97c581",
+      "alt": "Pleasantrees Rosin | Lemon Freeze x Gin & Juice",
+      "local": "data\\scraped\\images\\shoppuff-com__pleasantrees-pleasantrees-rosin-lemon-freeze-x-gin-juice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 56,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pleasantrees-pleasantrees-rosin-lemon-freeze-x-gin-juice-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.764Z"
+}

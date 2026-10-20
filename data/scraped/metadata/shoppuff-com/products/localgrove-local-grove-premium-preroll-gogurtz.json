@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-premium-preroll-gogurtz",
+  "name": "Local Grove Premium Preroll | Gogurtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Cap Junky x Runtz \n\nBreeder: Seed Junky Genetics x Capulator \n\nAroma & Flavor: Creamy gas with dense, trichome-coated buds \n\nEffects: Powerful hybrid – heavy-hitting with strong, long-lasting effects",
+  "description_html": "Genetics: Cap Junky x Runtz <br /><br />Breeder: Seed Junky Genetics x Capulator <br /><br />Aroma & Flavor: Creamy gas with dense, trichome-coated buds <br /><br />Effects: Powerful hybrid – heavy-hitting with strong, long-lasting effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8d09425bfb538702251a020b7d7d8378",
+      "alt": "Local Grove Premium Preroll | Gogurtz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-premium-preroll-gogurtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-premium-preroll-gogurtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.256Z"
+}

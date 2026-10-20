@@ -1,0 +1,35 @@
+{
+  "slug": "gas-hunters-disposable-white-widow",
+  "name": "Gas Hunters Disposable | White Widow",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "GAS HUNTERS",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/729947b7186c6685506f9fb9ddd04473",
+      "alt": "Gas Hunters Disposable | White Widow",
+      "local": "data\\scraped\\images\\shoppuff-com__gas-hunters-disposable-white-widow__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gas-hunters-disposable-white-widow-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.186Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "homiez-live-resin-blueberry-yum-yum",
+  "name": "Homiez Live Resin | Blueberry Yum Yum",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "HOMIEZ",
+  "tags": [],
+  "description": "Concentrates are where the Homiez magic really shines.\n\nPacked with the best parts of cannabis, they come in all kinds of textures and flavors, each offering a unique way to elevate your sesh. Dab ’em, sprinkle ’em into a joint for an extra kick, or dial in the vibes by infusing them into edibles—however you roll, concentrates, let you customize your high and keep things anything but basic.",
+  "description_html": "Concentrates are where the Homiez magic really shines.<br /><br />Packed with the best parts of cannabis, they come in all kinds of textures and flavors, each offering a unique way to elevate your sesh. Dab ’em, sprinkle ’em into a joint for an extra kick, or dial in the vibes by infusing them into edibles—however you roll, concentrates, let you customize your high and keep things anything but basic.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b62326d8fa3af5b104a68c2d2990a806",
+      "alt": "Homiez Live Resin | Blueberry Yum Yum",
+      "local": "data\\scraped\\images\\shoppuff-com__homiez-live-resin-blueberry-yum-yum__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/homiez-live-resin-blueberry-yum-yum-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.332Z"
+}

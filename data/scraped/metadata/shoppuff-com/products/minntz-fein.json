@@ -1,0 +1,60 @@
+{
+  "slug": "minntz-fein",
+  "name": "Minntz | Fein",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 200,
+  "currency": "USD",
+  "price_range": "$10.00 – $200.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Fein isn’t just loud — it’s one of those flavors real smokers keep coming back to. From the first pull, you get a smooth blast of sweet candy and tropical citrus, layered with a creamy lime note and finished with that signature gas that lingers on the palate. Every hit is clean, flavorful, and consistent all the way through. This strain hits quick with a clear, elevated head high — electric, focused, and creatively dialed-in without\nfeeling overwhelming. It’s the kind of smoke you can appreciate for both the taste and the effect. If you care about flavor, Fein delivers.",
+  "description_html": "Fein isn’t just loud — it’s one of those flavors real smokers keep coming back to. From the first pull, you get a smooth blast of sweet candy and tropical citrus, layered with a creamy lime note and finished with that signature gas that lingers on the palate. Every hit is clean, flavorful, and consistent all the way through. This strain hits quick with a clear, elevated head high — electric, focused, and creatively dialed-in without<br />feeling overwhelming. It’s the kind of smoke you can appreciate for both the taste and the effect. If you care about flavor, Fein delivers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/baf8f3314a9e2d0ebd73bb571e86b53b",
+      "alt": "Minntz | Fein",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-fein__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 200,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-fein-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.478Z"
+}

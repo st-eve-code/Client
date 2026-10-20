@@ -1,0 +1,60 @@
+{
+  "slug": "special-blend-gardens-runtz",
+  "name": "Special Blend Gardens | Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Special Blend Gardens",
+  "tags": [],
+  "description": "Fruit Stripe, also known as “Yellow Fruit Stripes,” is an indica dominant hybrid strain (70% indica/30% sativa) created through crossing the tasty Lemoncello #10 X London Pound Cake #97 strains. Fruit Stripe high isn’t quite as vibrant, with effects that start out focused before they take a heady turn. You’ll feel creatively inspired from the start as your mind is activated with a budding euphoria and focus. This will soon be overtaken by a potent tingle that will work its way throughout your entire body, helping you to relax while also making you feel totally aroused. Fruit Stripe a great choice for treating conditions such as chronic stress, depression or mood swings, chronic fatigue and chronic pain.",
+  "description_html": "Fruit Stripe, also known as “Yellow Fruit Stripes,” is an indica dominant hybrid strain (70% indica/30% sativa) created through crossing the tasty Lemoncello #10 X London Pound Cake #97 strains. Fruit Stripe high isn’t quite as vibrant, with effects that start out focused before they take a heady turn. You’ll feel creatively inspired from the start as your mind is activated with a budding euphoria and focus. This will soon be overtaken by a potent tingle that will work its way throughout your entire body, helping you to relax while also making you feel totally aroused. Fruit Stripe a great choice for treating conditions such as chronic stress, depression or mood swings, chronic fatigue and chronic pain.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1ddade7cafb4a4019e6abf1e9228a224",
+      "alt": "Special Blend Gardens | Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__special-blend-gardens-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/special-blend-gardens-runtz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.392Z"
+}

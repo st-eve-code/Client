@@ -1,0 +1,35 @@
+{
+  "slug": "l-train-l-train-infused-preroll-l-runtz",
+  "name": "L-Train Infused Preroll | L-Runtz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "L-Train",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bbafe4bb7629ad19bd2c61ecd5900a17",
+      "alt": "L-Train Infused Preroll | L-Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__l-train-l-train-infused-preroll-l-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".7g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/l-train-l-train-infused-preroll-l-runtz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.030Z"
+}

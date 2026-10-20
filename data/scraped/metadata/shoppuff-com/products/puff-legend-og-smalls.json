@@ -1,0 +1,35 @@
+{
+  "slug": "puff-legend-og-smalls",
+  "name": "Puff | Legend OG Smalls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Puff | Legend OG Smalls",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-legend-og-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-legend-og-smalls-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.748Z"
+}

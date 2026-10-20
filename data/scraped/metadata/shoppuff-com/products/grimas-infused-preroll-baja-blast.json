@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-infused-preroll-baja-blast",
+  "name": "Grimas Infused Preroll | Baja Blast",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Grimas 1.5g Double Infused Pre Rolls are a high end, top shelf experience crafted for elevated potency and bold flavor. Infused with rich terpene distillate and THCA, they deliver a smooth, slow burning smoke with powerful effects and premium quality in every roll.",
+  "description_html": "Grimas 1.5g Double Infused Pre Rolls are a high end, top shelf experience crafted for elevated potency and bold flavor. Infused with rich terpene distillate and THCA, they deliver a smooth, slow burning smoke with powerful effects and premium quality in every roll.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5faef31af77bc7c108a08455c0814f42",
+      "alt": "Grimas Infused Preroll | Baja Blast",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-infused-preroll-baja-blast__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-infused-preroll-baja-blast-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.350Z"
+}

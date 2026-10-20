@@ -1,0 +1,35 @@
+{
+  "slug": "homiez-homiez-28pk-prerolls-blue-dream",
+  "name": "Homiez | 28pk prerolls | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "HOMIEZ",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0bb7304f435e25c7b463069d22d0d60c",
+      "alt": "Homiez | 28pk prerolls | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__homiez-homiez-28pk-prerolls-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/homiez-homiez-28pk-prerolls-blue-dream-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.825Z"
+}

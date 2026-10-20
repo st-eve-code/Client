@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-diamonds-cannalope-kush",
+  "name": "Grimas Diamonds | Cannalope Kush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "description_html": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8e437088b878e31ecfbe588d5aa6c3e6",
+      "alt": "Grimas Diamonds | Cannalope Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-diamonds-cannalope-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-diamonds-cannalope-kush-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.680Z"
+}

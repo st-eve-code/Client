@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-live-rosin-tier-2-biesel",
+  "name": "710 Labs Live Rosin Tier 2 | Biesel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "1g Live Rosin Tier 2",
+  "description_html": "1g Live Rosin Tier 2",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/27c3b99f9fc702c33ab6fe074e4af32c",
+      "alt": "710 Labs Live Rosin Tier 2 | Biesel",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-live-rosin-tier-2-biesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-live-rosin-tier-2-biesel-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.689Z"
+}

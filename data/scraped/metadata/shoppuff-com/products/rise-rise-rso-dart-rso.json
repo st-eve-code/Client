@@ -1,0 +1,35 @@
+{
+  "slug": "rise-rise-rso-dart-rso",
+  "name": "RISE RSO – 1G",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "RSO (Rick Simpson Oil) is a full-spectrum whole-plant cannabis oil that contains a wide variety of cannabinoids, terpenes, and flavonoids with great therapeutic potential. 1g RSO syringes provide powerful cannabis support that can be applied topically or ingested orally. RSO & RSO+ products are not suitable for combusting or vaping consumption Custom ratios. Custom doses. Custom cannabis.",
+  "description_html": "RSO (Rick Simpson Oil) is a full-spectrum whole-plant cannabis oil that contains a wide variety of cannabinoids, terpenes, and flavonoids with great therapeutic potential. 1g RSO syringes provide powerful cannabis support that can be applied topically or ingested orally. RSO & RSO+ products are not suitable for combusting or vaping consumption Custom ratios. Custom doses. Custom cannabis.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2d3de1098e4c533b402ba7058796b5b4",
+      "alt": "RISE RSO – 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-rise-rso-dart-rso__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-rise-rso-dart-rso-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.786Z"
+}

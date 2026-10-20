@@ -1,0 +1,35 @@
+{
+  "slug": "pro-gro-progroco-pop-roxx",
+  "name": "Pop Roxx Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Blue Zkittlez x Gelato\n\nType: Indica-dominant Hybrid\n\nTerpenes: Limonene, Myrcene and Caryophyllene\n\nAroma: Ripe berries, pine, and sugary sweetness\n\nEffects: Euphoria, Mood Boost, Creative, Body Relaxation \n\nPop Roxx is a flavor firework with a chill encore. Bred from Blue Zkittlez x Gelato, this indica-dominant hybrid bursts with ripe berries, sugary sweetness, and a snap of fresh pine. Fueled by limonene, myrcene, and caryophyllene, it kicks things off with a bright wave of euphoria and creative spark before settling into a smooth, body-melting relaxation that keeps the good vibes popping.",
+  "description_html": "Lineage: Blue Zkittlez x Gelato<br /><br />Type: Indica-dominant Hybrid<br /><br />Terpenes: Limonene, Myrcene and Caryophyllene<br /><br />Aroma: Ripe berries, pine, and sugary sweetness<br /><br />Effects: Euphoria, Mood Boost, Creative, Body Relaxation <br /><br />Pop Roxx is a flavor firework with a chill encore. Bred from Blue Zkittlez x Gelato, this indica-dominant hybrid bursts with ripe berries, sugary sweetness, and a snap of fresh pine. Fueled by limonene, myrcene, and caryophyllene, it kicks things off with a bright wave of euphoria and creative spark before settling into a smooth, body-melting relaxation that keeps the good vibes popping.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dd78aaa35d2e921105dfa1878508d13d",
+      "alt": "Pop Roxx Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-pop-roxx__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-pop-roxx-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.497Z"
+}

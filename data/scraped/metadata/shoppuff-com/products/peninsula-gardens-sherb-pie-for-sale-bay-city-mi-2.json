@@ -1,0 +1,45 @@
+{
+  "slug": "peninsula-gardens-sherb-pie-for-sale-bay-city-mi-2",
+  "name": "Peninsula Gardens | Sherb Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$6.00 – $20.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2628ce722fed7da27f7cf68114a1e57f",
+      "alt": "Peninsula Gardens | Sherb Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-sherb-pie-for-sale-bay-city-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-sherb-pie-for-sale-bay-city-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.342Z"
+}

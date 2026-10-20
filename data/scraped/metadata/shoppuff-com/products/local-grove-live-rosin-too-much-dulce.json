@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-live-rosin-too-much-dulce",
+  "name": "Local Grove Live Rosin | Too Much Dulce",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Dulce De Uva x TMZ \n\nBreeder: Bloom Seed Co \n\nAroma & Flavor: Candy grape terps with creamy undertones \n\nEffects: Hybrid – concentrate-focused with unique grape flavor",
+  "description_html": "Genetics: Dulce De Uva x TMZ <br /><br />Breeder: Bloom Seed Co <br /><br />Aroma & Flavor: Candy grape terps with creamy undertones <br /><br />Effects: Hybrid – concentrate-focused with unique grape flavor",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d923fdd12a570d0875af4c1c5082e3e8",
+      "alt": "Local Grove Live Rosin | Too Much Dulce",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-live-rosin-too-much-dulce__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-live-rosin-too-much-dulce-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.809Z"
+}

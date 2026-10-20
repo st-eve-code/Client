@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-joint-cherry-zest-4",
+  "name": "710 Labs Joint | Cherry Zest #4",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Cherry Zest #4 is full of sweet berries, sour lemon and nutty grapes, all wrapped up with a touch of creaminess. As soon as the strain hits, it envelopes you in a feeling of euphoria. After about two hours of pleasantly soaring in the clouds, your mind settles down and relaxes into a leisurely state of utter bliss.",
+  "description_html": "Cherry Zest #4 is full of sweet berries, sour lemon and nutty grapes, all wrapped up with a touch of creaminess. As soon as the strain hits, it envelopes you in a feeling of euphoria. After about two hours of pleasantly soaring in the clouds, your mind settles down and relaxes into a leisurely state of utter bliss.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f1d8275065e0b87aeb343e982d7e606e",
+      "alt": "710 Labs Joint | Cherry Zest #4",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-joint-cherry-zest-4__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-joint-cherry-zest-4-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.890Z"
+}

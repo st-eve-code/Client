@@ -1,0 +1,35 @@
+{
+  "slug": "sushii-rolls-sushii-rolls-pre-roll-gmo",
+  "name": "Sushii Rolls Pre-Roll | GMO",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Sushii Rolls",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e393e4b1730e921194c77357ce2aca14",
+      "alt": "Sushii Rolls Pre-Roll | GMO",
+      "local": "data\\scraped\\images\\shoppuff-com__sushii-rolls-sushii-rolls-pre-roll-gmo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sushii-rolls-sushii-rolls-pre-roll-gmo-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.110Z"
+}

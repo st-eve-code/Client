@@ -1,0 +1,60 @@
+{
+  "slug": "plant-nerd-lime-heads",
+  "name": "Plant Nerd | Lime Heads",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "We're growing Lime Heads because we wanted a strain with a loud citrus forward terp profile that stands out from the sweeter fruit varieties in our lineup. This tasty bud offers a super tangy flavor with lifted, heady effects that will have you feeling focused, vibrant, and ready to get to work. As one of the few true sativas in our lineup, Lime Heads is perfect for those looking for a more energetic experience. The flavor is much like your favorite tangy candy, with notes of sour lime candy, zesty citrus, woody pine, and subtle spicy herbs. If you're looking for a strain that delivers uplifting, focused effects without sacrificing flavor, Lime Heads is a refreshing change of pace.",
+  "description_html": "We're growing Lime Heads because we wanted a strain with a loud citrus forward terp profile that stands out from the sweeter fruit varieties in our lineup. This tasty bud offers a super tangy flavor with lifted, heady effects that will have you feeling focused, vibrant, and ready to get to work. As one of the few true sativas in our lineup, Lime Heads is perfect for those looking for a more energetic experience. The flavor is much like your favorite tangy candy, with notes of sour lime candy, zesty citrus, woody pine, and subtle spicy herbs. If you're looking for a strain that delivers uplifting, focused effects without sacrificing flavor, Lime Heads is a refreshing change of pace.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dcfef6fa03483ff15141e813cb57852f",
+      "alt": "Plant Nerd | Lime Heads",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-lime-heads__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-lime-heads-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.606Z"
+}

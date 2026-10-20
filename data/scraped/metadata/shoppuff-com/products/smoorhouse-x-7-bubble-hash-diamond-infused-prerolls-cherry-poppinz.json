@@ -1,0 +1,35 @@
+{
+  "slug": "smoorhouse-x-7-bubble-hash-diamond-infused-prerolls-cherry-poppinz",
+  "name": "Smoorhouse x 7 Bubble Hash & Diamond Infused Prerolls | Cherry Poppinz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Pack of 7 (.5g) bubble hash infused pre-rolls. Total of 3.5g.\n\nPremium indoor flower\nBubble hash + diamond-infused\nHand-trimmed and batch-tested",
+  "description_html": "Pack of 7 (.5g) bubble hash infused pre-rolls. Total of 3.5g.<br /><br />Premium indoor flower<br />Bubble hash + diamond-infused<br />Hand-trimmed and batch-tested",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/76aeb138e305457002e6b2a407be3790",
+      "alt": "Smoorhouse x 7 Bubble Hash & Diamond Infused Prerolls | Cherry Poppinz",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-x-7-bubble-hash-diamond-infused-prerolls-cherry-poppinz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-x-7-bubble-hash-diamond-infused-prerolls-cherry-poppinz-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.462Z"
+}

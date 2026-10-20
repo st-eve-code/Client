@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-5g-moonrocks-watermelon-z",
+  "name": "Mitten Extracts | 5g Moonrocks | Watermelon Z",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Juicy, sweet, and packed with candy-like flavor, Watermelon Z Moon Rocks deliver bright watermelon notes layered with deep potency. Premium flower infused with concentrate and coated in kief creates a powerful, flavor-forward experience built for serious sessions.",
+  "description_html": "Juicy, sweet, and packed with candy-like flavor, Watermelon Z Moon Rocks deliver bright watermelon notes layered with deep potency. Premium flower infused with concentrate and coated in kief creates a powerful, flavor-forward experience built for serious sessions.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/362f8ae866fdcf4d0cd8f883c53f854e",
+      "alt": "Mitten Extracts | 5g Moonrocks | Watermelon Z",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-5g-moonrocks-watermelon-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-5g-moonrocks-watermelon-z-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.601Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "growing-pains-live-rosin-rambutan",
+  "name": "Growing Pains Live Rosin | Rambutan",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Growing Pains",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5613-Puff-JointStore-Kalamazoo.webp",
+      "alt": "Growing Pains Live Rosin | Rambutan",
+      "local": "data\\scraped\\images\\shoppuff-com__growing-pains-live-rosin-rambutan__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/growing-pains-live-rosin-rambutan-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.565Z"
+}

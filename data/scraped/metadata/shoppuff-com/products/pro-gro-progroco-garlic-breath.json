@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-garlic-breath",
+  "name": "Garlic Breath Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99.5,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.50",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: GMO x Mendo Breath F2 Terpenes: D-Limonene, Caryophyllene, ß-Myrcene Aroma: Garlic, Skunk, Sweet Effects: Sleepy, Couch-Lock, Appetite Stimulant Enter the captivating realm of Garlic Breath, an enchanting strain that brings together the potency of a GMO mother and the soothing qualities of a Mendo Breath F2 father. This unique fusion weaves a tapestry of euphoria that transcends ordinary experiences.",
+  "description_html": "Lineage: GMO x Mendo Breath F2 Terpenes: D-Limonene, Caryophyllene, ß-Myrcene Aroma: Garlic, Skunk, Sweet Effects: Sleepy, Couch-Lock, Appetite Stimulant Enter the captivating realm of Garlic Breath, an enchanting strain that brings together the potency of a GMO mother and the soothing qualities of a Mendo Breath F2 father. This unique fusion weaves a tapestry of euphoria that transcends ordinary experiences.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d494303f090473af11763d9cc16a7436",
+      "alt": "Garlic Breath Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-garlic-breath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 32.5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-garlic-breath-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.691Z"
+}

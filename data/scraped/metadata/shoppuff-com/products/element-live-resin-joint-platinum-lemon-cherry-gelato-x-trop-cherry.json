@@ -1,0 +1,35 @@
+{
+  "slug": "element-live-resin-joint-platinum-lemon-cherry-gelato-x-trop-cherry",
+  "name": "Element Live Resin Joint | Platinum Lemon Cherry Gelato x Trop Cherry",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Element",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1e06252416f0a07df2560649ee12fab0",
+      "alt": "Element Live Resin Joint | Platinum Lemon Cherry Gelato x Trop Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__element-live-resin-joint-platinum-lemon-cherry-gelato-x-trop-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/element-live-resin-joint-platinum-lemon-cherry-gelato-x-trop-cherry-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.370Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-1-3g-infused-cannon-turbulence",
+  "name": "Jeeter | 1.3g Infused Cannon | Turbulence",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 22,
+  "price_max": 22,
+  "currency": "USD",
+  "price_range": "$22.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Turbulence Jeeter Cannon Live Resin: 1.3G Joint | Sativa | Premium Flower Infused w/ Live Resin | THC",
+  "description_html": "Turbulence Jeeter Cannon Live Resin: 1.3G Joint | Sativa | Premium Flower Infused w/ Live Resin | THC",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/19b617b8bfafe2c09af07d297ad5c19b",
+      "alt": "Jeeter | 1.3g Infused Cannon | Turbulence",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-1-3g-infused-cannon-turbulence__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 22,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-1-3g-infused-cannon-turbulence-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.204Z"
+}

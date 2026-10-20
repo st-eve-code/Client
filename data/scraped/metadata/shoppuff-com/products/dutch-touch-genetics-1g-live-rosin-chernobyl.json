@@ -1,0 +1,35 @@
+{
+  "slug": "dutch-touch-genetics-1g-live-rosin-chernobyl",
+  "name": "Dutch Touch Genetics | 1g Live Rosin | Chernobyl",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Dutch Touch Genetics",
+  "tags": [],
+  "description": "A legendary complex sativa-leaning hybrid with a loud lime-sherbet profile.\n\nType: Sativa-Hybrid\n\nLineage: Trainwreck x Jack the Ripper x Trinity",
+  "description_html": "A legendary complex sativa-leaning hybrid with a loud lime-sherbet profile.<br /><br />Type: Sativa-Hybrid<br /><br />Lineage: Trainwreck x Jack the Ripper x Trinity",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/95bd19d5b87a7b7198d9822d1e2d4829",
+      "alt": "Dutch Touch Genetics | 1g Live Rosin | Chernobyl",
+      "local": "data\\scraped\\images\\shoppuff-com__dutch-touch-genetics-1g-live-rosin-chernobyl__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dutch-touch-genetics-1g-live-rosin-chernobyl-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.493Z"
+}

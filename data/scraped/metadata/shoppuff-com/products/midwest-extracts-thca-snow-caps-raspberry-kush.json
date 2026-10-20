@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-thca-snow-caps-raspberry-kush",
+  "name": "Midwest Extracts | THCA Snow Caps | Raspberry Kush",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10.8,
+  "price_max": 10.8,
+  "currency": "USD",
+  "price_range": "$10.80",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Midwest Extracts | THCA Snow Caps | Raspberry Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-thca-snow-caps-raspberry-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10.8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-thca-snow-caps-raspberry-kush-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.874Z"
+}

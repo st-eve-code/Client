@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-distillate-dart-blue-razz",
+  "name": "Cannalicious Distillate Dart | Blue Razz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Blue Razz puts your head in the clouds and your taste buds on HIGH alert. Bursting with juicy fruit flavor, you get the palatable experience of a blue raspberry Jolly Rancher. Smooth and soothing, this mouthwatering distillate delivers a euphoric and creative energy that elevates your mind as well as your spirits.\n\n Our darts contain already activated THC. You can dab it, eat it, use it in recipes for DIY edibles, refill a cartridge, or even use it to top a bowl or joint of flower.",
+  "description_html": "Blue Razz puts your head in the clouds and your taste buds on HIGH alert. Bursting with juicy fruit flavor, you get the palatable experience of a blue raspberry Jolly Rancher. Smooth and soothing, this mouthwatering distillate delivers a euphoric and creative energy that elevates your mind as well as your spirits.<br /><br /><br /><br /> Our darts contain already activated THC. You can dab it, eat it, use it in recipes for DIY edibles, refill a cartridge, or even use it to top a bowl or joint of flower.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6746f6e3301a914466048367dea1fbbc",
+      "alt": "Cannalicious Distillate Dart | Blue Razz",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-distillate-dart-blue-razz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-distillate-dart-blue-razz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.463Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "pro-gro-progroco-motor-breath-15",
+  "name": "Motor Breath #15 Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$12.00 – $35.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Chemdawg x SFV OG\n\nType: Hybrid\n\nTerpenes: Limonene, ß-Caryophyllene, Myrcene\n\nEffects: Relaxed, Euphoric, Tingly\n\nRev up your evening with this high-octane hybrid that'll have your engine purring. Motor Breath roars with intense diesel aromatics, dropping hints of garlic and earth in its wake. Pro Gro's master growers have precision-tuned this powerhouse to deliver deep physical relaxation that'll have you feeling like you're floating on cloud nine. Warning: may cause excessive couch-lock and midnight snack raids.",
+  "description_html": "Lineage: Chemdawg x SFV OG<br /><br />Type: Hybrid<br /><br />Terpenes: Limonene, ß-Caryophyllene, Myrcene<br /><br />Effects: Relaxed, Euphoric, Tingly<br /><br />Rev up your evening with this high-octane hybrid that'll have your engine purring. Motor Breath roars with intense diesel aromatics, dropping hints of garlic and earth in its wake. Pro Gro's master growers have precision-tuned this powerhouse to deliver deep physical relaxation that'll have you feeling like you're floating on cloud nine. Warning: may cause excessive couch-lock and midnight snack raids.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bbc72fe202bd3a304737c91f1b4de530",
+      "alt": "Motor Breath #15 Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-motor-breath-15__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-motor-breath-15-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.478Z"
+}

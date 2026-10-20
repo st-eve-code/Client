@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-pre-roll-black-maple",
+  "name": "Peninsula Gardens Pre-Roll | Black Maple",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 9,
+  "currency": "USD",
+  "price_range": "$9.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Heavy sherb vibes. She smokes very sweet with\nexcellent terpene transfer into the smoke. A potent\ntester that will hit you hard. She also washes\nextremely well so be ready to see her in rosin form\ncoming out of our new lab.",
+  "description_html": "Heavy sherb vibes. She smokes very sweet with<br />excellent terpene transfer into the smoke. A potent<br />tester that will hit you hard. She also washes<br />extremely well so be ready to see her in rosin form<br />coming out of our new lab.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b56c1c827b4fbe9f1909ff81022b80c6",
+      "alt": "Peninsula Gardens Pre-Roll | Black Maple",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-pre-roll-black-maple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-pre-roll-black-maple-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.778Z"
+}

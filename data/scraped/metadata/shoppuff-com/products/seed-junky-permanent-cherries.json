@@ -1,0 +1,45 @@
+{
+  "slug": "seed-junky-permanent-cherries",
+  "name": "Seed Junky | Permanent Cherries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$12.00 – $35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Seed Junky was never about chasing trends. It was about creating them. Seed Junky is more than flower and genetics. We collaborate with cultivators, brands, and tastemakers to shape the future of cannabis from the roots up.\n\nFlavors: Berry, Diesel, Earthy, Sweet",
+  "description_html": "Seed Junky was never about chasing trends. It was about creating them. Seed Junky is more than flower and genetics. We collaborate with cultivators, brands, and tastemakers to shape the future of cannabis from the roots up.<br /><br />Flavors: Berry, Diesel, Earthy, Sweet",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/69de07cec68cf40cbf4f550dee55970a",
+      "alt": "Seed Junky | Permanent Cherries",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-permanent-cherries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-permanent-cherries-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.462Z"
+}

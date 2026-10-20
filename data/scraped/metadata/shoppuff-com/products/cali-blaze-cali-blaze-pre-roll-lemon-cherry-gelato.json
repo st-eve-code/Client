@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-pre-roll-lemon-cherry-gelato",
+  "name": "Lemon Cherry Gelato Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Our classic 1 gram joint. Premium indoor flower from our rotating strain menu, ground and rolled in a RAW cone. No infusion, no additives, no filler, just flower done properly.",
+  "description_html": "Our classic 1 gram joint. Premium indoor flower from our rotating strain menu, ground and rolled in a RAW cone. No infusion, no additives, no filler, just flower done properly.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f0997692a40dd6f7b4f77190c0ee63f5",
+      "alt": "Lemon Cherry Gelato Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-pre-roll-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-pre-roll-lemon-cherry-gelato-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.408Z"
+}

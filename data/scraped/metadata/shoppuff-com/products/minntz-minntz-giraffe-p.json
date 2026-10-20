@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-minntz-giraffe-p",
+  "name": "Minntz | Giraffe P",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 24.5,
+  "price_max": 24.5,
+  "currency": "USD",
+  "price_range": "$24.50",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cf477ca0092ebe36a5e2b9f32a021c38",
+      "alt": "Minntz | Giraffe P",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-giraffe-p__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 24.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-giraffe-p-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.664Z"
+}

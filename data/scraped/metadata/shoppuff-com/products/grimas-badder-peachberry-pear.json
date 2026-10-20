@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-badder-peachberry-pear",
+  "name": "Grimas Badder | Peachberry Pear",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Grimas Badder | Peachberry Pear",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-badder-peachberry-pear__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-badder-peachberry-pear-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.680Z"
+}

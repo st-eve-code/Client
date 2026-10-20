@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-muha-meds-x-5pk-infused-prerolls-apple-tart",
+  "name": "Muha Meds x 5pk Infused Prerolls | Apple Tart",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/44d71a847901eedeccd1e082849b8980",
+      "alt": "Muha Meds x 5pk Infused Prerolls | Apple Tart",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-muha-meds-x-5pk-infused-prerolls-apple-tart__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-muha-meds-x-5pk-infused-prerolls-apple-tart-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.929Z"
+}

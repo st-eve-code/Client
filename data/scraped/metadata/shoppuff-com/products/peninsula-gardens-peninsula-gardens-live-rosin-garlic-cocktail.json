@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-live-rosin-garlic-cocktail",
+  "name": "Peninsula Gardens Live Rosin | Garlic Cocktail",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/60bbd8a4bda54849b9c68f46a4577189",
+      "alt": "Peninsula Gardens Live Rosin | Garlic Cocktail",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-live-rosin-garlic-cocktail__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-live-rosin-garlic-cocktail-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.568Z"
+}

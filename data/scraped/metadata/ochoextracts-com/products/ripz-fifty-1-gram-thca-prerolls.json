@@ -1,0 +1,60 @@
+{
+  "slug": "ripz-fifty-1-gram-thca-prerolls",
+  "name": "RIPZ - Fifty 1-Gram THCA Prerolls",
+  "site": "ochoextracts-com",
+  "category": "ocho-extracts",
+  "price_min": 124.99,
+  "price_max": 124.99,
+  "currency": "GBP",
+  "price_range": "£124.99",
+  "available": true,
+  "sku": "RIPZCL",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "Ocho Extracts",
+    "RIPZ",
+    "THCA Pre Rolls"
+  ],
+  "description": "The Details\n\n• 50 individually wrapped 1-Gram THCA prerolls\n\n• \n50 Total Grams of Premium Hemp-Derived THCA Flower\n\n• Raw Cones\n\n• Arrives in full roll display as pictured\n\n• That comes to $2.50 per 1-Gram preroll—yowza!",
+  "description_html": "<h3>The Details</h3>\n<ul>\n<li>50 <em>individually wrapped</em> 1-Gram THCA prerolls</li>\n<li>\n<strong>50 Total Grams</strong> of Premium Hemp-Derived THCA Flower</li>\n<li>Raw Cones</li>\n<li>Arrives in full roll display as pictured</li>\n<li>That comes to $2.50 per 1-Gram preroll—yowza!</li>\n</ul>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/RIPZ-Candyland.jpg?v=1786551520",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__ripz-fifty-1-gram-thca-prerolls__000.jpg"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/RIPZ-Cherry_Zlushie.jpg?v=1786551520",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__ripz-fifty-1-gram-thca-prerolls__001.jpg"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/RIPZ-Prerolls.jpg?v=1786551520",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__ripz-fifty-1-gram-thca-prerolls__002.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46330189349050,
+      "title": "Candyland (Sativa)",
+      "price": 124.99,
+      "sku": "RIPZCL",
+      "available": true
+    },
+    {
+      "id": 46330189381818,
+      "title": "Cherry Zlushie (Indica)",
+      "price": 124.99,
+      "sku": "RIPZCZ",
+      "available": true
+    }
+  ],
+  "collections": [
+    "ocho-extracts",
+    "thca-prerolls"
+  ],
+  "source_url": "https://ochoextracts.com/products/ripz-fifty-1-gram-thca-prerolls",
+  "scraped_at": "2026-10-10T21:42:44.355Z"
+}

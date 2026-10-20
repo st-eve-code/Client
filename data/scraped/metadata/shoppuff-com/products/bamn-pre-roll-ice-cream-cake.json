@@ -1,0 +1,35 @@
+{
+  "slug": "bamn-pre-roll-ice-cream-cake",
+  "name": "BAMN Pre-Roll | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "BAMN",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "BAMN Pre-Roll | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__bamn-pre-roll-ice-cream-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bamn-pre-roll-ice-cream-cake-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.822Z"
+}

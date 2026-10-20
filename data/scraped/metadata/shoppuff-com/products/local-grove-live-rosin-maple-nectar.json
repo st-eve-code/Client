@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-live-rosin-maple-nectar",
+  "name": "Local Grove Live Rosin | Maple Nectar",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Black Maple x Papaya \n\nBreeder: Bloom Seed Co \n\nAroma & Flavor: Sweet sherbet layered with rotten fruit notes \n\nEffects: Hybrid – resin-rich and ideal for concentrates",
+  "description_html": "Genetics: Black Maple x Papaya <br /><br />Breeder: Bloom Seed Co <br /><br />Aroma & Flavor: Sweet sherbet layered with rotten fruit notes <br /><br />Effects: Hybrid – resin-rich and ideal for concentrates",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f6ae47683b8db767fcdb5262c97fcd9f",
+      "alt": "Local Grove Live Rosin | Maple Nectar",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-live-rosin-maple-nectar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-live-rosin-maple-nectar-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.454Z"
+}

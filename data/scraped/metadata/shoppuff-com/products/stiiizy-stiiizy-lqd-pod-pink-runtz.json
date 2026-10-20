@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-lqd-pod-pink-runtz",
+  "name": "Stiiizy LQD Pod | Pink Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "PINK RUNTZ\n\nTASTE: Strawberry, Sweet, Fruity\n\nFEELING: Happy, Relaxing, Uplifting\n\nDESCRIPTION: The legendary Pink Runtz, A candy aroma with sweet and fruity notes",
+  "description_html": "PINK RUNTZ<br /><br />TASTE: Strawberry, Sweet, Fruity<br /><br />FEELING: Happy, Relaxing, Uplifting<br /><br />DESCRIPTION: The legendary Pink Runtz, A candy aroma with sweet and fruity notes",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2022b1c19605180693bd803b29d6eddf",
+      "alt": "Stiiizy LQD Pod | Pink Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-lqd-pod-pink-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-lqd-pod-pink-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.025Z"
+}

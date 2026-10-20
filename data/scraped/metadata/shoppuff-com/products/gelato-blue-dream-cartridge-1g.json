@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-blue-dream-cartridge-1g",
+  "name": "Blue Dream Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Full Gram with 90% + THC, Cannabis Terpenes that are 100% Cannabis Derived in Premium Cartridges.",
+  "description_html": "Full Gram with  90% + THC, Cannabis Terpenes that are 100% Cannabis Derived in Premium Cartridges.<br /><br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/594a3ac61a0ff194e1b95f4bd3369d1b",
+      "alt": "Blue Dream Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-blue-dream-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-blue-dream-cartridge-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.242Z"
+}

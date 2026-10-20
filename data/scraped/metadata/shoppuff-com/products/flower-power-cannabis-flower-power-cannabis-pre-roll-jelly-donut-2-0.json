@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-flower-power-cannabis-pre-roll-jelly-donut-2-0",
+  "name": "Flower Power Cannabis Pre-Roll | Jelly Donut 2.0",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "1G Preroll of our Jelly Donut. Made with 100% premium flower.\n\nThe Don Mega X Gelato | Hybrid",
+  "description_html": "1G Preroll of our Jelly Donut. Made with 100% premium flower.<br /><br /><br /><br />The Don Mega X Gelato | Hybrid",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/75d921b3389587950dc3564cca1d8a4f",
+      "alt": "Flower Power Cannabis Pre-Roll | Jelly Donut 2.0",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-flower-power-cannabis-pre-roll-jelly-donut-2-0__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-flower-power-cannabis-pre-roll-jelly-donut-2-0-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.775Z"
+}

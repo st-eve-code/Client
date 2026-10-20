@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-cannabis-live-rosin-chembow",
+  "name": "Hyman Cannabis Live Rosin | Chembow",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Hybrid \n\nFlavors: Berry, Spicy, Creamy\n\nAromas: Fruity, Sweet, Earthy \n\nExperience: Creative, Energizing, Giggly",
+  "description_html": "Strain Type: Hybrid <br /><br />Flavors: Berry, Spicy, Creamy<br /><br />Aromas: Fruity, Sweet, Earthy <br /><br />Experience: Creative, Energizing, Giggly",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9f1be34935b9d4bca77276a871e0d5e7",
+      "alt": "Hyman Cannabis Live Rosin | Chembow",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-cannabis-live-rosin-chembow__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-cannabis-live-rosin-chembow-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.650Z"
+}

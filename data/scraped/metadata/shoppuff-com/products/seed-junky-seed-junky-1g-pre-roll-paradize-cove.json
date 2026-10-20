@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-1g-pre-roll-paradize-cove",
+  "name": "Seed Junky | 1g Pre-Roll | Paradize Cove",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Paradize Cove is a flavorful strain with creamy, pungent, and gassy aromas. Its sweet and creamy taste delivers an uplifting, euphoric high that brings happiness and a lasting smile. Perfect for enhancing your mood and powering through your day.",
+  "description_html": "Paradize Cove is a flavorful strain with creamy, pungent, and gassy aromas. Its sweet and creamy taste delivers an uplifting, euphoric high that brings happiness and a lasting smile. Perfect for enhancing your mood and powering through your day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f43dbae845cc8bd68431af794a59f1b4",
+      "alt": "Seed Junky | 1g Pre-Roll | Paradize Cove",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-1g-pre-roll-paradize-cove__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-1g-pre-roll-paradize-cove-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.360Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "pro-gro-progroco-pre-roll-zelicious",
+  "name": "Zelicious 1g Pre-Roll",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Zoap x Oishii Type: Hybrid Terps: Limonene, β-Caryophyllene, Linalool Effects: Relaxed, Euphoric, Creative Aroma: Citrus Zelicious is a tropical escape in every puff. Its mango, citrus, and berry flavors are as energizing as the high itself. This strain is perfect for daytime use, keeping you upbeat and carefree.",
+  "description_html": "Lineage: Zoap x Oishii Type: Hybrid Terps: Limonene, β-Caryophyllene, Linalool Effects: Relaxed, Euphoric, Creative Aroma: Citrus Zelicious is a tropical escape in every puff. Its mango, citrus, and berry flavors are as energizing as the high itself. This strain is perfect for daytime use, keeping you upbeat and carefree.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/69aa32882defd19d055727e21bc7e273",
+      "alt": "Zelicious 1g Pre-Roll",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-pre-roll-zelicious__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-pre-roll-zelicious-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.790Z"
+}

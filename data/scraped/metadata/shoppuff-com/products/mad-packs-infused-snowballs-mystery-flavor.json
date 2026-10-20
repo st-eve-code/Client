@@ -1,0 +1,50 @@
+{
+  "slug": "mad-packs-infused-snowballs-mystery-flavor",
+  "name": "Mad Packs | Infused Snowballs | Mystery Flavor",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 198,
+  "currency": "USD",
+  "price_range": "$30.00 – $198.00",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Mad Packs | Infused Snowballs | Mystery Flavor",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-infused-snowballs-mystery-flavor__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 198,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-infused-snowballs-mystery-flavor-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.605Z"
+}

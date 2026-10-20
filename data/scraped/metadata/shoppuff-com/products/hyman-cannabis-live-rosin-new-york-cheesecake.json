@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-cannabis-live-rosin-new-york-cheesecake",
+  "name": "Hyman Cannabis Live Rosin | New York Cheesecake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Hybrid \n\nFlavors: Sweet, Citrus, Grapefruit \n\nAromas: Pungent, Diesel, Strawberry \n\nExperience: Sociable, Happy, Creative",
+  "description_html": "Strain Type: Hybrid <br /><br />Flavors: Sweet, Citrus, Grapefruit <br /><br />Aromas: Pungent, Diesel, Strawberry <br /><br />Experience: Sociable, Happy, Creative",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6618e3fbc5883a0f307dbfc347156977",
+      "alt": "Hyman Cannabis Live Rosin | New York Cheesecake",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-cannabis-live-rosin-new-york-cheesecake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-cannabis-live-rosin-new-york-cheesecake-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.276Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "element-element-live-resin-pudding-pop-1",
+  "name": "Element Live Resin | Pudding Pop #1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Element",
+  "tags": [],
+  "description": "Crafted from precisely harvested fresh-frozen flowers, Element Live Resin captures the strain's characteristics at the exact time of harvest. Offering a strong cannabinoid and rich terpene profile, our skillful extraction methods and unique strain selection create a true full-spectrum experience.",
+  "description_html": "Crafted from precisely harvested fresh-frozen flowers, Element Live Resin captures the strain's characteristics at the exact time of harvest. Offering a strong cannabinoid and rich terpene profile, our skillful extraction methods and unique strain selection create a true full-spectrum experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Element Live Resin | Pudding Pop #1",
+      "local": "data\\scraped\\images\\shoppuff-com__element-element-live-resin-pudding-pop-1__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/element-element-live-resin-pudding-pop-1-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.251Z"
+}

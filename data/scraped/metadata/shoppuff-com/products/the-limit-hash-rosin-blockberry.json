@@ -1,0 +1,35 @@
+{
+  "slug": "the-limit-hash-rosin-blockberry",
+  "name": "The Limit Hash Rosin | Blockberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "The Limit",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f4a6eb8b8c0152bbd59bed9f855cbeb0",
+      "alt": "The Limit Hash Rosin | Blockberry",
+      "local": "data\\scraped\\images\\shoppuff-com__the-limit-hash-rosin-blockberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-limit-hash-rosin-blockberry-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.006Z"
+}

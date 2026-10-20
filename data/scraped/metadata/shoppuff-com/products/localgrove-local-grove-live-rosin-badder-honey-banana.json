@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-badder-honey-banana",
+  "name": "Local Grove Live Rosin Badder | Honey Banana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Honey Boo x Strawberry Bananas \n\nBreeder: Unknown \n\nAroma & Flavor: Sweet banana-forward terps with complex fruity undertones \n\nEffects: Hybrid – flavorful and smooth, strong resin producer",
+  "description_html": "Genetics: Honey Boo x Strawberry Bananas <br /><br />Breeder: Unknown <br /><br />Aroma & Flavor: Sweet banana-forward terps with complex fruity undertones <br /><br />Effects: Hybrid – flavorful and smooth, strong resin producer",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5612-Puff-JointStore-Hamtramck.webp",
+      "alt": "Local Grove Live Rosin Badder | Honey Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-badder-honey-banana__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-badder-honey-banana-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.428Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-watermelon-zkittlez",
+  "name": "Watermelon ZKZ Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 87.5,
+  "currency": "USD",
+  "price_range": "$5.00 – $87.50",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: ZKZ x Watermelon Type: Hybrid Terpenes: D-Limonene, ß-Myrcene, Linalool Aroma: Sweet, Fruity, Lavender Effects: Relaxing, Euphoric, Body Buzz Get ready to level up your outdoor escapades with Watermelon ZKZ! Whether you're conquering trails, camping beneath the cosmic canvas of a Michigan night sky, or just soaking in the pure awesomeness of the great outdoors, Watermelon ZKZ is your trusty, flavor-packed sidekick.",
+  "description_html": "Lineage: ZKZ x Watermelon Type: Hybrid Terpenes: D-Limonene, ß-Myrcene, Linalool Aroma: Sweet, Fruity, Lavender Effects: Relaxing, Euphoric, Body Buzz Get ready to level up your outdoor escapades with Watermelon ZKZ! Whether you're conquering trails, camping beneath the cosmic canvas of a Michigan night sky, or just soaking in the pure awesomeness of the great outdoors, Watermelon ZKZ is your trusty, flavor-packed sidekick.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ecddbbc7df8003579e96d37086bf4518",
+      "alt": "Watermelon ZKZ Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-watermelon-zkittlez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 87.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 12.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-watermelon-zkittlez-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.719Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-blunts-original-blunt-1-5g",
+  "name": "Original Blunt - 1.5g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.5,
+  "price_max": 8.5,
+  "currency": "USD",
+  "price_range": "$8.50",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Experience the familiar taste of nostalgia with Swisher Blunts Original — our classic, redefined.",
+  "description_html": "Experience the familiar taste of nostalgia with Swisher Blunts Original — our classic, redefined.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/15e2d7b04a17f65909b0fe85a9f29fa5",
+      "alt": "Original Blunt - 1.5g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-blunts-original-blunt-1-5g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 8.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-blunts-original-blunt-1-5g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.504Z"
+}

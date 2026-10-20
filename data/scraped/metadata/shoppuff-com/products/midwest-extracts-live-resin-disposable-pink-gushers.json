@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-live-resin-disposable-pink-gushers",
+  "name": "Midwest Extracts Live Resin Disposable | Pink Gushers",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6f9d68c09c2c2e928e313e3ab7520af7",
+      "alt": "Midwest Extracts Live Resin Disposable | Pink Gushers",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-live-resin-disposable-pink-gushers__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-live-resin-disposable-pink-gushers-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.591Z"
+}

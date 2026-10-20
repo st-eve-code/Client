@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edible-200mg-barracuda-bar-churro",
+  "name": "Detroit Edible | 200mg Barracuda Bar | Churro",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "The new Barracuda Milk Chocolate Churro Bars are made from rich Belgian chocolate combined with cinnamon and sugar flavors of the wildly-popular Latin American Churro treat. Each bar is Infused with the purest distillate and a potent 200mg THC from our very own Michigan-made Cannalicious Labs and fully activates in 1-2 hours.",
+  "description_html": "The new Barracuda Milk Chocolate Churro Bars are made from rich Belgian chocolate combined with cinnamon and sugar flavors of the wildly-popular Latin American Churro treat. Each bar is Infused with the purest distillate and a potent 200mg THC from our very own Michigan-made Cannalicious Labs and fully activates in 1-2 hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ba6e4cf33042083c8f999af141e6ed35",
+      "alt": "Detroit Edible | 200mg Barracuda Bar | Churro",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edible-200mg-barracuda-bar-churro__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edible-200mg-barracuda-bar-churro-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.941Z"
+}

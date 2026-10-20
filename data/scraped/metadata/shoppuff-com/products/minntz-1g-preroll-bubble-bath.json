@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-1g-preroll-bubble-bath",
+  "name": "Minntz | 1g Preroll | Bubble Bath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Fruity and refreshing aromas awaken the senses in this India leaning flavor, delivering a crisp, tropical-forward profile. Its effects are calm and clear-headed, helping you stay focused and productive while maintaining a relaxed state of mind.",
+  "description_html": "Fruity and refreshing aromas awaken the senses in this India leaning flavor, delivering a crisp, tropical-forward profile. Its effects are calm and clear-headed, helping you stay focused and productive while maintaining a relaxed state of mind.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/61d45d682ad576b72ef1f143cf6a7671",
+      "alt": "Minntz | 1g Preroll | Bubble Bath",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-1g-preroll-bubble-bath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-1g-preroll-bubble-bath-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.457Z"
+}

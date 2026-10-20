@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-battery",
+  "name": "710 Battery",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "710 Battery.",
+  "description_html": "710 Battery.                                                                                         <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fe63998bb73dd0a476cf7229a7c2c875",
+      "alt": "710 Battery",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-battery__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-battery-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.075Z"
+}

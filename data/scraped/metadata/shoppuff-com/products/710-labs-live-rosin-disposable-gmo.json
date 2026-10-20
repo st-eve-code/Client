@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-live-rosin-disposable-gmo",
+  "name": "710 Labs Live Rosin Disposable | GMO",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 70,
+  "price_max": 70,
+  "currency": "USD",
+  "price_range": "$70.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Genetics: Chem D x GSC\n\nEnjoy a full gram of our Live Rosin anywhere, with consistent flavor all the way through to the final rip. Features a preheat setting for optimal vapor production.",
+  "description_html": "Genetics: Chem D x GSC<br /><br />Enjoy a full gram of our Live Rosin anywhere, with consistent flavor all the way through to the final rip. Features a preheat setting for optimal vapor production.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/318f203fbce5b94c6e65573f885d26fd",
+      "alt": "710 Labs Live Rosin Disposable | GMO",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-live-rosin-disposable-gmo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 70,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-live-rosin-disposable-gmo-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.667Z"
+}

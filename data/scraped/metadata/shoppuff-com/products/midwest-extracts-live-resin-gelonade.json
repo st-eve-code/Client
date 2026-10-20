@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-live-resin-gelonade",
+  "name": "Midwest Extracts Live Resin | Gelonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ce8d86fe925a168da3c34af796594c31",
+      "alt": "Midwest Extracts Live Resin | Gelonade",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-live-resin-gelonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-live-resin-gelonade-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.216Z"
+}

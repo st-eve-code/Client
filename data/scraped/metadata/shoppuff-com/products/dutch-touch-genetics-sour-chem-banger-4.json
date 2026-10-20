@@ -1,0 +1,60 @@
+{
+  "slug": "dutch-touch-genetics-sour-chem-banger-4",
+  "name": "Dutch Touch Genetics | Sour Chem Banger #4",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$7.00 – $99.00",
+  "available": true,
+  "vendor": "Dutch Touch Genetics",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/95bd19d5b87a7b7198d9822d1e2d4829",
+      "alt": "Dutch Touch Genetics | Sour Chem Banger #4",
+      "local": "data\\scraped\\images\\shoppuff-com__dutch-touch-genetics-sour-chem-banger-4__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dutch-touch-genetics-sour-chem-banger-4-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.599Z"
+}

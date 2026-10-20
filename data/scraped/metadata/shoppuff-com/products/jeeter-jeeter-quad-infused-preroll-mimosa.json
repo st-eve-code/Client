@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-quad-infused-preroll-mimosa",
+  "name": "Jeeter Quad Infused Preroll | Mimosa",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Mimosa, a sweet citrus strain with berry undertones, named after the classic cocktail. The energizing high is perfect for a morning wake and bake or an afternoon pick me up.",
+  "description_html": "Mimosa, a sweet citrus strain with berry undertones, named after the classic cocktail. The energizing high is perfect for a morning wake and bake or an afternoon pick me up.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3dbfa11f468573e05c107c769934063f",
+      "alt": "Jeeter Quad Infused Preroll | Mimosa",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-quad-infused-preroll-mimosa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-quad-infused-preroll-mimosa-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.417Z"
+}

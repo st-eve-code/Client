@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-swisher-x-2-infused-blunts-caramel-apple",
+  "name": "Swisher x 2 Infused Blunts | Caramel Apple",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8d076c6c818bfbb7d9ef03cfd050821f",
+      "alt": "Swisher x 2 Infused Blunts | Caramel Apple",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-swisher-x-2-infused-blunts-caramel-apple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-swisher-x-2-infused-blunts-caramel-apple-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.693Z"
+}

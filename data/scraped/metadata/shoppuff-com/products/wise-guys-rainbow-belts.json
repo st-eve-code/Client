@@ -1,0 +1,50 @@
+{
+  "slug": "wise-guys-rainbow-belts",
+  "name": "Wise Guys | Rainbow Belts",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 90,
+  "currency": "USD",
+  "price_range": "$20.00 – $90.00",
+  "available": true,
+  "vendor": "Wise Guys",
+  "tags": [],
+  "description": "Cross/Lineage: Rainbowbelts #20 x Rainbowbelts F1\n\nFlavor: Funky fruit with mild gas and candy undertones, smooth finish\n\nType/Leaning: Hybrid (Indica-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Rainbowbelts #20 x Rainbowbelts F1<br /><br />Flavor: Funky fruit with mild gas and candy undertones, smooth finish<br /><br />Type/Leaning: Hybrid (Indica-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ccf917236e7efe9831ee06439f0fb06f",
+      "alt": "Wise Guys | Rainbow Belts",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-rainbow-belts__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-rainbow-belts-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.470Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-infused-preroll-baja-blaze",
+  "name": "Cali Blaze Infused Preroll | Baja Blaze",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "A bold, refreshing blend inspired by the flavors of Baja California. Citrus-forward with tropical undertones, this hybrid delivers a smooth, invigorating smoke that keeps you coming back for more.\n\nInfused with Liquid Diamonds: THC-A diamonds liquified for a clean, high-potency infusion. Clean, clear-headed potency — no muddled high.",
+  "description_html": "A bold, refreshing blend inspired by the flavors of Baja California. Citrus-forward with tropical undertones, this hybrid delivers a smooth, invigorating smoke that keeps you coming back for more.<br /><br />Infused with Liquid Diamonds: THC-A diamonds liquified for a clean, high-potency infusion. Clean, clear-headed potency — no muddled high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/72cde27fcba719a1ceb15c6786c639f2",
+      "alt": "Cali Blaze Infused Preroll | Baja Blaze",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-infused-preroll-baja-blaze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-infused-preroll-baja-blaze-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.155Z"
+}

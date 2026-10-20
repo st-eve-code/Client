@@ -1,0 +1,40 @@
+{
+  "slug": "stiiizy-40s-blunt-super-lemon-haze-for-sale-oscoda-mi-2",
+  "name": "Stiiizy | 40's Blunt | Super Lemon Haze",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 13,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$13.00 – $20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2435df020206485fffee4968b7a34781",
+      "alt": "Stiiizy | 40's Blunt | Super Lemon Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-blunt-super-lemon-haze-for-sale-oscoda-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-blunt-super-lemon-haze-for-sale-oscoda-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.766Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "high-grade-gary-satan-smalls",
+  "name": "High Grade | Gary Satan Smalls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 89,
+  "currency": "USD",
+  "price_range": "$15.00 – $89.00",
+  "available": true,
+  "vendor": "High Grade",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "High Grade | Gary Satan Smalls",
+      "local": "data\\scraped\\images\\shoppuff-com__high-grade-gary-satan-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 89,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/high-grade-gary-satan-smalls-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.738Z"
+}

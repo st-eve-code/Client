@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-infused-pre-roll-candy-dip",
+  "name": "White Boy Rick Infused Pre-Roll | Candy Dip",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a8ffe3d6ce7ab3fb33c5951487ad6d5",
+      "alt": "White Boy Rick Infused Pre-Roll | Candy Dip",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-infused-pre-roll-candy-dip__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-infused-pre-roll-candy-dip-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.257Z"
+}

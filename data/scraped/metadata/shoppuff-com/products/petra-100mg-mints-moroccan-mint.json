@@ -1,0 +1,35 @@
+{
+  "slug": "petra-100mg-mints-moroccan-mint",
+  "name": "Petra | 100mg Mints | Moroccan Mint",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Petra",
+  "tags": [],
+  "description": "A surprising combination of green tea matcha and peppermint extract, our sugar-free, plant-based Moroccan Mint Petra soothes with a hint of peppermint and light notes of Tahitian vanilla. Made in a facility that processes milk, nuts, soy and gluten. \n\n2.5mg THC per serving 100mg THC per pack 40 mints per pack",
+  "description_html": "A surprising combination of green tea matcha and peppermint extract, our sugar-free, plant-based Moroccan Mint Petra soothes with a hint of peppermint and light notes of Tahitian vanilla. Made in a facility that processes milk, nuts, soy and gluten. <br /><br />2.5mg THC per serving 100mg THC per pack 40 mints per pack",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/47ac6177bb34c15bfbe4c9774d02e070",
+      "alt": "Petra | 100mg Mints | Moroccan Mint",
+      "local": "data\\scraped\\images\\shoppuff-com__petra-100mg-mints-moroccan-mint__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.855g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/petra-100mg-mints-moroccan-mint-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.672Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-neon-blue-battery-starter-kit",
+  "name": "Neon Blue Battery Starter Kit",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Starter Kit Includes:\nOfficial Original STIIIZY Battery\nUSB Charging Cable\n210mAh Rechargeable Battery\nUSB Charging Port\nVoltage: 3.2+-0.1V\n*Pods sold separately",
+  "description_html": "Starter Kit Includes:<br />Official Original STIIIZY Battery<br />USB Charging Cable<br />210mAh Rechargeable Battery<br />USB Charging Port<br />Voltage: 3.2+-0.1V<br />*Pods sold separately<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4c01faf5a1fb697c16284ffa3eec5ba5",
+      "alt": "Neon Blue Battery Starter Kit",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-neon-blue-battery-starter-kit__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "Unit",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-neon-blue-battery-starter-kit-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.687Z"
+}

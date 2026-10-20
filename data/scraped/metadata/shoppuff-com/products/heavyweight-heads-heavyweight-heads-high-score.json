@@ -1,0 +1,35 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-high-score",
+  "name": "Heavyweight Heads | High Score",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f6c870526af22e23b19a0c09931e7811",
+      "alt": "Heavyweight Heads | High Score",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-high-score__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-high-score-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.428Z"
+}

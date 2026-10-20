@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-recovery-rso-dart-1g",
+  "name": "Recovery RSO Dart | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most medicinal cannabis concentrate available. It stimulates the endocannabinoid system to help prevent many ailments and to offer therapeutic benefits. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes. Recovery has a Maui Wowie terpene blend and contains THC, CBD, CBG, CBC and CBN to help promote a speedy recovery of the mind and body.",
+  "description_html": "Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most medicinal cannabis concentrate available. It stimulates the endocannabinoid system to help prevent many ailments and to offer therapeutic benefits. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes. Recovery has a Maui Wowie terpene blend and contains THC, CBD, CBG, CBC and CBN to help promote a speedy recovery of the mind and body.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6338094b6d55c3c9cf5c53e5d01967ce",
+      "alt": "Recovery RSO Dart | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-recovery-rso-dart-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-recovery-rso-dart-1g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.658Z"
+}

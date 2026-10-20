@@ -1,0 +1,35 @@
+{
+  "slug": "weed-snobs-blue-limone",
+  "name": "Weed Snobs | Blue Limone",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6f647eae949bbd0203294522773e3ddf",
+      "alt": "Weed Snobs | Blue Limone",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-blue-limone__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-blue-limone-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.491Z"
+}

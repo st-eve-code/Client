@@ -1,0 +1,35 @@
+{
+  "slug": "monopoly-melts-x-3pk-donuts-orange-push-pop-x-zquirt",
+  "name": "Monopoly Melts x 3pk Donuts | Orange Push Pop x Zquirt",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 100,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$100.00",
+  "available": true,
+  "vendor": "Monopoly Melts",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Monopoly Melts x 3pk Donuts | Orange Push Pop x Zquirt",
+      "local": "data\\scraped\\images\\shoppuff-com__monopoly-melts-x-3pk-donuts-orange-push-pop-x-zquirt__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.0g",
+      "price": 100,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/monopoly-melts-x-3pk-donuts-orange-push-pop-x-zquirt-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.885Z"
+}

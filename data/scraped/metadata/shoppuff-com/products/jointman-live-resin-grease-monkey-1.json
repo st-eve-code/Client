@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-live-resin-grease-monkey-1",
+  "name": "Jointman Live Resin | Grease Monkey #1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5613-Puff-JointStore-Kalamazoo.webp",
+      "alt": "Jointman Live Resin | Grease Monkey #1",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-live-resin-grease-monkey-1__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-live-resin-grease-monkey-1-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.505Z"
+}

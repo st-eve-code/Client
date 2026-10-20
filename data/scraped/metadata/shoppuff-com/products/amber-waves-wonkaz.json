@@ -1,0 +1,50 @@
+{
+  "slug": "amber-waves-wonkaz",
+  "name": "Amber Waves | Wonkaz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 75,
+  "currency": "USD",
+  "price_range": "$12.00 – $75.00",
+  "available": true,
+  "vendor": "Amber Waves Cannabis Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/59288110efa706b37ba65b95a913c013",
+      "alt": "Amber Waves | Wonkaz",
+      "local": "data\\scraped\\images\\shoppuff-com__amber-waves-wonkaz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/amber-waves-wonkaz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.478Z"
+}

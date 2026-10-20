@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-x-5-infused-bangers-blueberry-lemonade",
+  "name": "Breeze Canna x 5 Infused Bangers | Blueberry Lemonade",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "The Breeze full flavor, full effect in a preroll. The perfect summer combo -- a refreshing balance of sweet blueberries and tangy lemonade. Enhanced with limonene, humulene, and alpha pinene terpenes, this invigorating blend offers a refreshing experience that's both relaxing and energizing.",
+  "description_html": "The Breeze full flavor, full effect in a preroll. The perfect summer combo -- a refreshing balance of sweet blueberries and tangy lemonade. Enhanced with limonene, humulene, and alpha pinene terpenes, this invigorating blend offers a refreshing experience that's both relaxing and energizing.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d5c09b722b8a5185541a3980a709393d",
+      "alt": "Breeze Canna x 5 Infused Bangers | Blueberry Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-x-5-infused-bangers-blueberry-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-x-5-infused-bangers-blueberry-lemonade-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.391Z"
+}

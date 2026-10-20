@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-super-dope-prepackaged-flower-bubble-gum-popperz",
+  "name": "Super Dope Prepackaged Flower | Bubble Gum Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 110,
+  "price_max": 110,
+  "currency": "USD",
+  "price_range": "$110.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Bubblegum Popperz leans in heavy on the \"bubblegum\" candy notes with an exotic LCG punch of mouth watering sweet, candy terps. Potency exceeds both Cherry and Lemon Popperz.",
+  "description_html": "Bubblegum Popperz leans in heavy on the \"bubblegum\" candy notes with an exotic LCG punch of mouth watering sweet, candy terps. Potency exceeds both Cherry and Lemon Popperz.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0bb600852aff0e915234c67138930337",
+      "alt": "Super Dope Prepackaged Flower | Bubble Gum Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-prepackaged-flower-bubble-gum-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-prepackaged-flower-bubble-gum-popperz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.827Z"
+}

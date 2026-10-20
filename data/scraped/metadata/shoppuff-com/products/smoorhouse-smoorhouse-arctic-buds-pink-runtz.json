@@ -1,0 +1,50 @@
+{
+  "slug": "smoorhouse-smoorhouse-arctic-buds-pink-runtz",
+  "name": "Smoorhouse | Arctic Buds | Pink Runtz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 198,
+  "currency": "USD",
+  "price_range": "$30.00 – $198.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Pink Runtz\nFLAVOR: Tropical fruit, creamy candy\nTERPENES: Linalool, Caryophyllene, Myrcene\nFEEL: Euphoric, blissed out, floaty\nVIBE: Vibing with your playlist, soft clothes, big dreams\n\nCurated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "description_html": "Pink Runtz<br />FLAVOR: Tropical fruit, creamy candy<br />TERPENES: Linalool, Caryophyllene, Myrcene<br />FEEL: Euphoric, blissed out, floaty<br />VIBE: Vibing with your playlist, soft clothes, big dreams<br /><br />Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/431ee406917ec29bb59911fe076b7100",
+      "alt": "Smoorhouse | Arctic Buds | Pink Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-smoorhouse-arctic-buds-pink-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 198,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-smoorhouse-arctic-buds-pink-runtz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.671Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-jointman-live-resin-snow-blower",
+  "name": "Jointman Live Resin | Snow Blower",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 24.5,
+  "price_max": 24.5,
+  "currency": "USD",
+  "price_range": "$24.50",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5949bd666a85fed613e442d3061ab338",
+      "alt": "Jointman Live Resin | Snow Blower",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-jointman-live-resin-snow-blower__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 24.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-jointman-live-resin-snow-blower-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.349Z"
+}

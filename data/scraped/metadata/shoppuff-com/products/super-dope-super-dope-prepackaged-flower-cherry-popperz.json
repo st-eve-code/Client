@@ -1,0 +1,45 @@
+{
+  "slug": "super-dope-super-dope-prepackaged-flower-cherry-popperz",
+  "name": "Super Dope Prepackaged Flower | Cherry Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 352,
+  "currency": "USD",
+  "price_range": "$55.00 – $352.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Genetics: Gelato 41 x Zkittkez \n\nIndica-dominant hybrid\n\nCherry Popperz by Super Dope has an aroma of deep sweet musky cherries. Earthy cherry notes on the inhale, while in contrast on the exhale is creamy citrus lemon notes with a lingering muskiness. The high is an immaculately clean head and body high.",
+  "description_html": "Genetics: Gelato 41 x Zkittkez <br /><br />Indica-dominant hybrid<br /><br />Cherry Popperz by Super Dope has an aroma of deep sweet musky cherries. Earthy cherry notes on the inhale, while in contrast on the exhale is creamy citrus lemon notes with a lingering muskiness. The high is an immaculately clean head and body high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a31b009ef36f84041a83a1b18870a457",
+      "alt": "Super Dope Prepackaged Flower | Cherry Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-prepackaged-flower-cherry-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 352,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-prepackaged-flower-cherry-popperz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.811Z"
+}

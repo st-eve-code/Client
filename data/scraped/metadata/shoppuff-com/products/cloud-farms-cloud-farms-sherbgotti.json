@@ -1,0 +1,55 @@
+{
+  "slug": "cloud-farms-cloud-farms-sherbgotti",
+  "name": "Cloud Farms | Sherbgotti",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 28.5,
+  "currency": "USD",
+  "price_range": "$3.00 – $28.50",
+  "available": true,
+  "vendor": "Cloud Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bd0708ea543b0839b24fb16e793eaa99",
+      "alt": "Cloud Farms | Sherbgotti",
+      "local": "data\\scraped\\images\\shoppuff-com__cloud-farms-cloud-farms-sherbgotti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 28.5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 16.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloud-farms-cloud-farms-sherbgotti-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.538Z"
+}

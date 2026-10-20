@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-510-cartridge-super-nurdz",
+  "name": "Mitten Extracts 510 Cartridge | Super Nurdz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Sweet mixed berries and candy-inspired flavors combine for a playful, fruit-forward experience. Super Nurdz delivers bold sweetness with a smooth finish that's perfect for fans of nostalgic candy profiles.",
+  "description_html": "Sweet mixed berries and candy-inspired flavors combine for a playful, fruit-forward experience. Super Nurdz delivers bold sweetness with a smooth finish that's perfect for fans of nostalgic candy profiles.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/572a4fc19f5eb72aaad6188ea2765c6b",
+      "alt": "Mitten Extracts 510 Cartridge | Super Nurdz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-510-cartridge-super-nurdz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-510-cartridge-super-nurdz-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.709Z"
+}

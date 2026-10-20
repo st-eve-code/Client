@@ -1,0 +1,50 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-my-detroit-players",
+  "name": "Heavyweight Heads | My Detroit Players",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f6c870526af22e23b19a0c09931e7811",
+      "alt": "Heavyweight Heads | My Detroit Players",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-my-detroit-players__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-my-detroit-players-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.768Z"
+}

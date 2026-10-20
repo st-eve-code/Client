@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-pre-roll-sherb-pie",
+  "name": "Peninsula Gardens Pre-Roll | Sherb Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "@Bonez_grown cut of Seed Junky’s Sherb Cake. Ice Cream Cake x Sunset Sherbet. Beautiful purple buds that lean heavy towards the sherb smell and flavors with just enough of the cake flavor to compliment.",
+  "description_html": "@Bonez_grown cut of Seed Junky’s Sherb Cake. Ice Cream Cake x Sunset Sherbet. Beautiful purple buds that lean heavy towards the sherb smell and flavors with just enough of the cake flavor to compliment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/20967e40664775fc73cdc9d26b2eb3f9",
+      "alt": "Peninsula Gardens Pre-Roll | Sherb Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-pre-roll-sherb-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-pre-roll-sherb-pie-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.664Z"
+}

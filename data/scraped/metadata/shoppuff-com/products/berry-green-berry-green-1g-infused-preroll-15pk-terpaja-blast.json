@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-1g-infused-preroll-15pk-terpaja-blast",
+  "name": "Berry Green | 1g Infused Preroll 15pk | Terpaja Blast",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Flavor turned all the way up. Terpaja Blast layers tropical fruit, citrus zest, and sweet herbal depth into a bold, terpene-rich hybrid.",
+  "description_html": "Flavor turned all the way up. Terpaja Blast layers tropical fruit, citrus zest, and sweet herbal depth into a bold, terpene-rich hybrid.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/156945bb4053dc86f49494701ac15f4f",
+      "alt": "Berry Green | 1g Infused Preroll 15pk | Terpaja Blast",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-1g-infused-preroll-15pk-terpaja-blast__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-1g-infused-preroll-15pk-terpaja-blast-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.268Z"
+}

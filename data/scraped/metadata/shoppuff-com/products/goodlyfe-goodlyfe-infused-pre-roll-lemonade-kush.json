@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-goodlyfe-infused-pre-roll-lemonade-kush",
+  "name": "Goodlyfe Infused Pre-Roll | Lemonade Kush",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "currency": "USD",
+  "price_range": "$3.50",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Lemonade Kush is a balanced hybrid strain that will keep your mind cool on what feels like a warm summer day. This strain has a fresh and tart flavor profile with notes of sweet citrusy lemon, as well as notes of earth and wood. Lemonade Kush will provide uplifting effects and a creative headspace. Its dominant terpenes are Limonene and ß-caryophyllene.",
+  "description_html": "Lemonade Kush is a balanced hybrid strain that will keep your mind cool on what feels like a warm summer day. This strain has a fresh and tart flavor profile with notes of sweet citrusy lemon, as well as notes of earth and wood. Lemonade Kush will provide uplifting effects and a creative headspace. Its dominant terpenes are Limonene and ß-caryophyllene.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/44f46378587c445d1b94b9cb8d1de058",
+      "alt": "Goodlyfe Infused Pre-Roll | Lemonade Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-goodlyfe-infused-pre-roll-lemonade-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-goodlyfe-infused-pre-roll-lemonade-kush-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.624Z"
+}

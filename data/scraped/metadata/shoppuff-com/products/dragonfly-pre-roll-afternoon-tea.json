@@ -1,0 +1,35 @@
+{
+  "slug": "dragonfly-pre-roll-afternoon-tea",
+  "name": "Dragonfly Pre-roll | Afternoon Tea",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 0.89,
+  "price_max": 0.89,
+  "currency": "USD",
+  "price_range": "$0.89",
+  "available": true,
+  "vendor": "Dragonfly",
+  "tags": [],
+  "description": "1g Pre-Roll",
+  "description_html": "1g Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d32874598cc3f4207c1d55f5cbf74f5b",
+      "alt": "Dragonfly Pre-roll | Afternoon Tea",
+      "local": "data\\scraped\\images\\shoppuff-com__dragonfly-pre-roll-afternoon-tea__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 0.89,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dragonfly-pre-roll-afternoon-tea-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.015Z"
+}

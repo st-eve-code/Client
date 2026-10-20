@@ -1,0 +1,45 @@
+{
+  "slug": "smoorhouse-smoorhouse-arctic-buds-night-cap-magic-sherblato",
+  "name": "Magic Sherblato",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 9,
+  "price_max": 27,
+  "currency": "USD",
+  "price_range": "$9.00 – $27.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Magic Sherblato 🍨🍊A pungent mix of astringent, gelato notes laced with sherbet sweetness and a berry twist.",
+  "description_html": "Magic Sherblato 🍨🍊A pungent mix of astringent, gelato notes laced with sherbet sweetness and a berry twist.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/09685823ac31f5f938d5391ec0683494",
+      "alt": "Magic Sherblato",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-smoorhouse-arctic-buds-night-cap-magic-sherblato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-smoorhouse-arctic-buds-night-cap-magic-sherblato-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.633Z"
+}

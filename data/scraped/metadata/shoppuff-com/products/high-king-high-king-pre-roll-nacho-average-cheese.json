@@ -1,0 +1,35 @@
+{
+  "slug": "high-king-high-king-pre-roll-nacho-average-cheese",
+  "name": "High King Pre-Roll | Nacho Average Cheese",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1.5,
+  "price_max": 1.5,
+  "currency": "USD",
+  "price_range": "$1.50",
+  "available": true,
+  "vendor": "High King",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/21b09f5978ac61879afe5e6d29a25619",
+      "alt": "High King Pre-Roll | Nacho Average Cheese",
+      "local": "data\\scraped\\images\\shoppuff-com__high-king-high-king-pre-roll-nacho-average-cheese__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/high-king-high-king-pre-roll-nacho-average-cheese-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.332Z"
+}

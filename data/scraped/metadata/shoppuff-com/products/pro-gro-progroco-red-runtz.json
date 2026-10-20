@@ -1,0 +1,35 @@
+{
+  "slug": "pro-gro-progroco-red-runtz",
+  "name": "ProGroCo | Red Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Red Pop x Runtz\n\nType: Indica\n\nTerpenes: Caryophyllene, Limonene, Humulene\n\nAroma: Dank, Citrus, Berry, Vegetal \n\nEffects: Blissful, Relaxed, Stress Free\n\nRed Runtz is a Red Pop x Runtz, selected by Pro Gro, with quick heady effects and a strong euphoria consumers are provided with a baseline flavor of sweet, dank undertones that complement a relaxing and creative immersion. This strain fires up the imagination, possibly having you explore a bit more of your artistic side - Enjoy!",
+  "description_html": "Lineage: Red Pop x Runtz<br /><br />Type: Indica<br /><br />Terpenes: Caryophyllene, Limonene, Humulene<br /><br />Aroma: Dank, Citrus, Berry, Vegetal <br /><br />Effects: Blissful, Relaxed, Stress Free<br /><br />Red Runtz is a Red Pop x Runtz, selected by Pro Gro, with quick heady effects and a strong euphoria consumers are provided with a baseline flavor of sweet, dank undertones that complement a relaxing and creative immersion. This strain fires up the imagination, possibly having you explore a bit more of your artistic side - Enjoy!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a220e71f479e357fd4444688bb9846ff",
+      "alt": "ProGroCo | Red Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-red-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-red-runtz-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.422Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-pre-roll-sour-octane",
+  "name": "Seed Junky Pre-Roll | Sour Octane",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Sour Octane opens with a sharp rush of bright citrus, layered with sweet gas, floral funk, and a spicy pine bite on the finish. The flavor is loud and full-bodied, hitting with sour lemon-fuel intensity before smoothing out into a rich, gassy exhale. The experience starts with an uplifting, euphoric head buzz that keeps the mood bright, then eases into a calm body relaxation that makes this strain feel smooth, heavy, and easy to settle into. \n\nSour Diesel x High Octane OG",
+  "description_html": "Sour Octane opens with a sharp rush of bright citrus, layered with sweet gas, floral funk, and a spicy pine bite on the finish. The flavor is loud and full-bodied, hitting with sour lemon-fuel intensity before smoothing out into a rich, gassy exhale. The experience starts with an uplifting, euphoric head buzz that keeps the mood bright, then eases into a calm body relaxation that makes this strain feel smooth, heavy, and easy to settle into. <br /><br />Sour Diesel x High Octane OG",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1bf2806f93c50571c502e1d3b1fb7830",
+      "alt": "Seed Junky Pre-Roll | Sour Octane",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-pre-roll-sour-octane__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-pre-roll-sour-octane-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.570Z"
+}

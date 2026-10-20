@@ -1,0 +1,60 @@
+{
+  "slug": "fresh-canna-live-resin-moonrock-bubble-berry-burst",
+  "name": "Fresh Canna | Live Resin Moonrock | Bubble Berry Burst",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 7.5,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$7.50 – $150.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/89d589fa16431c141c0ced7a64f903fb",
+      "alt": "Fresh Canna | Live Resin Moonrock | Bubble Berry Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-live-resin-moonrock-bubble-berry-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-live-resin-moonrock-bubble-berry-burst-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.498Z"
+}

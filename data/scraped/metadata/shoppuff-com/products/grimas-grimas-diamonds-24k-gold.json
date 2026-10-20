@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-diamonds-24k-gold",
+  "name": "Grimas Diamonds | 24k Gold",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "description_html": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/369ae782e15403868291dc6037f15e10",
+      "alt": "Grimas Diamonds | 24k Gold",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-diamonds-24k-gold__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-diamonds-24k-gold-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.735Z"
+}

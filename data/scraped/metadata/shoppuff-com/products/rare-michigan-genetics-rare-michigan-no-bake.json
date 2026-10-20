@@ -1,0 +1,55 @@
+{
+  "slug": "rare-michigan-genetics-rare-michigan-no-bake",
+  "name": "Rare Michigan | No Bake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5.6,
+  "price_max": 59.5,
+  "currency": "USD",
+  "price_range": "$5.60 – $59.50",
+  "available": true,
+  "vendor": "Rare Michigan Genetics",
+  "tags": [],
+  "description": "No Bake: This strain is designed for an ultra relaxing, delightful experience. Its buds, sticky and dank, promise a smooth and uplifting high. This strain doesn’t just boast high potency; it's an invitation to kick back and enjoy a tranquil high with rich tasting terps. Embrace the nostalgia and warmth of No Bake.",
+  "description_html": "No Bake: This strain is designed for an ultra relaxing, delightful experience. Its buds, sticky and dank, promise a smooth and uplifting high. This strain doesn’t just boast high potency; it's an invitation to kick back and enjoy a tranquil high with rich tasting terps. Embrace the nostalgia and warmth of No Bake.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5d5986f34e941f2586155305981f11e4",
+      "alt": "Rare Michigan | No Bake",
+      "local": "data\\scraped\\images\\shoppuff-com__rare-michigan-genetics-rare-michigan-no-bake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 59.5,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5.6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 11.2,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 31.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rare-michigan-genetics-rare-michigan-no-bake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.308Z"
+}

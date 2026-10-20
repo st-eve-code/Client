@@ -1,0 +1,35 @@
+{
+  "slug": "zillas-zillas-200mg-honey-wildflower",
+  "name": "Zilla's | 200mg Honey | Wildflower",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Zilla's",
+  "tags": [],
+  "description": "Edibles are created either by infusing cooking oil or butter with cannabis extract, or by mixing extract directly into other ingredients. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "description_html": "Edibles are created either by infusing cooking oil or butter with cannabis extract, or by mixing extract directly into other ingredients. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cff39131443cf6e1dd30368c891517df",
+      "alt": "Zilla's | 200mg Honey | Wildflower",
+      "local": "data\\scraped\\images\\shoppuff-com__zillas-zillas-200mg-honey-wildflower__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zillas-zillas-200mg-honey-wildflower-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.043Z"
+}

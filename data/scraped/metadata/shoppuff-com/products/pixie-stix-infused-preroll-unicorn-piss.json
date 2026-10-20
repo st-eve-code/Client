@@ -1,0 +1,35 @@
+{
+  "slug": "pixie-stix-infused-preroll-unicorn-piss",
+  "name": "Pixie Stix Infused Preroll | Unicorn Piss",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "currency": "USD",
+  "price_range": "$3.50",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Unicorn Piss hybrid infused pre roll.\nOne 1.25g pre roll per pack.\n\nFlavors:\nSweet\nEarthy\nBlueberry\nBerry\nCitrus",
+  "description_html": "Pixie Stix Unicorn Piss hybrid infused pre roll.<br />One 1.25g pre roll per pack.<br /><br />Flavors:<br />Sweet<br />Earthy<br />Blueberry<br />Berry<br />Citrus",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a971ebc3925cc7abc3bf2efba7a7f11e",
+      "alt": "Pixie Stix Infused Preroll | Unicorn Piss",
+      "local": "data\\scraped\\images\\shoppuff-com__pixie-stix-infused-preroll-unicorn-piss__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 3.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pixie-stix-infused-preroll-unicorn-piss-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.851Z"
+}

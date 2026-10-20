@@ -1,0 +1,60 @@
+{
+  "slug": "weed-snobs-blue-zushi",
+  "name": "Weed Snobs | Blue Zushi",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Blue Zushi is an indica-leaning hybrid cannabis strain famous for its high potency, sweet berry-gas flavor, and striking blue-hued appearance. It is created by crossing Zkittlez (Original Z) and Kush Mints",
+  "description_html": "Blue Zushi is an indica-leaning hybrid cannabis strain famous for its high potency, sweet berry-gas flavor, and striking blue-hued appearance. It is created by crossing Zkittlez (Original Z) and Kush Mints",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3f154ed16044503623a7b07f59db5e8c",
+      "alt": "Weed Snobs | Blue Zushi",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-blue-zushi__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-blue-zushi-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.676Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-rosin-baller-brush-sativa",
+  "name": "Gelato Rosin Baller Brush | Sativa",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f9edbe08cde88a34b24204d900a914e0",
+      "alt": "Gelato Rosin Baller Brush | Sativa",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-rosin-baller-brush-sativa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-rosin-baller-brush-sativa-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.045Z"
+}

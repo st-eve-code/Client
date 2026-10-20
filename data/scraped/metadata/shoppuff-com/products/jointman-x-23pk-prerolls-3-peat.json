@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-x-23pk-prerolls-3-peat",
+  "name": "Jointman x 23pk Prerolls | 3 Peat",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Step onto the court with the undisputed GOAT of pre-rolls. Jointman’s 23-Pack delivers 23 premium joints, each packed with 1.2 grams of top-shelf flower, — a smooth, clean burn that scores every time.",
+  "description_html": "Step onto the court with the undisputed GOAT of pre-rolls. Jointman’s 23-Pack delivers 23 premium joints, each packed with 1.2 grams of top-shelf flower, — a smooth, clean burn that scores every time.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/34d758545798752a8420913dac12fb38",
+      "alt": "Jointman x 23pk Prerolls | 3 Peat",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-x-23pk-prerolls-3-peat__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-x-23pk-prerolls-3-peat-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.505Z"
+}

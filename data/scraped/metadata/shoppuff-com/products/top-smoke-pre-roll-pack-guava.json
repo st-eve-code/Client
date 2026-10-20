@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-pre-roll-pack-guava",
+  "name": "Top Smoke Pre-Roll Pack | Guava",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 24,
+  "price_max": 24,
+  "currency": "USD",
+  "price_range": "$24.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9949470a706e6b4fb30de213ef6cc544",
+      "alt": "Top Smoke Pre-Roll Pack | Guava",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-pre-roll-pack-guava__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-pre-roll-pack-guava-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.053Z"
+}

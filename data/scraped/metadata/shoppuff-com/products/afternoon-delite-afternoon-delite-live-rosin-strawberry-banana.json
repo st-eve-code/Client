@@ -1,0 +1,35 @@
+{
+  "slug": "afternoon-delite-afternoon-delite-live-rosin-strawberry-banana",
+  "name": "Afternoon Delite Live Rosin | Strawberry Banana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Afternoon Delite",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c41ee51853039d9305d472157e281568",
+      "alt": "Afternoon Delite Live Rosin | Strawberry Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__afternoon-delite-afternoon-delite-live-rosin-strawberry-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/afternoon-delite-afternoon-delite-live-rosin-strawberry-banana-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.840Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "rare-michigan-party-girl",
+  "name": "Rare Michigan | Party Girl",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 125.99,
+  "currency": "USD",
+  "price_range": "$7.00 – $125.99",
+  "available": true,
+  "vendor": "Rare Michigan Genetics",
+  "tags": [],
+  "description": "Party Girl: This Party Girl is a sativa dominant strain with lemon pepper terps that will grip an entire room and demand your full attention. Her flowers are the rock-hard buds you’ve come to expect from RMG with a thick coat of glistening crystals. Party Girl rocks your mind and body evenly as a true party animal should. Your ‘go-to gal’ when it’s time to party!",
+  "description_html": "Party Girl: This Party Girl is a sativa dominant strain with lemon pepper terps that will grip an entire room and demand your full attention. Her flowers are the rock-hard buds you’ve come to expect from RMG with a thick coat of glistening crystals. Party Girl rocks your mind and body evenly as a true party animal should. Your ‘go-to gal’ when it’s time to party!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5d5986f34e941f2586155305981f11e4",
+      "alt": "Rare Michigan | Party Girl",
+      "local": "data\\scraped\\images\\shoppuff-com__rare-michigan-party-girl__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125.99,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rare-michigan-party-girl-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.576Z"
+}

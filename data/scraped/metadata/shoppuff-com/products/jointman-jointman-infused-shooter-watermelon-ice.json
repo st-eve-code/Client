@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-jointman-infused-shooter-watermelon-ice",
+  "name": "Jointman Infused Shooter | Watermelon Ice",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "When the big games call for the big players, call on the big shooter to get the job done. A full 1.5g of carefully infused indoor burns slow, tastes great, and makes sure you bring home the victory for whatever your game needs.\n\nSmoke Jointman.",
+  "description_html": "When the big games call for the big players, call on the big shooter to get the job done. A full 1.5g of carefully infused indoor burns slow, tastes great, and makes sure you bring home the victory for whatever your game needs.<br /><br />Smoke Jointman.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1a9efcdff965932e08df40ba70dc7c0a",
+      "alt": "Jointman Infused Shooter | Watermelon Ice",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-jointman-infused-shooter-watermelon-ice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-jointman-infused-shooter-watermelon-ice-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.349Z"
+}

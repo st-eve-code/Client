@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-gogurtz-3-5g",
+  "name": "Local Grove Prepackaged Flower | Gogurtz | 3.5G",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Cap Junky x Runtz \n\nBreeder: Seed Junky Genetics x Capulator \n\nAroma & Flavor: Creamy gas with dense, trichome-coated buds \n\nEffects: Powerful hybrid – heavy-hitting with strong, long-lasting effects",
+  "description_html": "Genetics: Cap Junky x Runtz <br /><br />Breeder: Seed Junky Genetics x Capulator <br /><br />Aroma & Flavor: Creamy gas with dense, trichome-coated buds <br /><br />Effects: Powerful hybrid – heavy-hitting with strong, long-lasting effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/90d5d629aba99a3a78f6eee5b5a3220d",
+      "alt": "Local Grove Prepackaged Flower | Gogurtz | 3.5G",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-gogurtz-3-5g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-gogurtz-3-5g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.947Z"
+}

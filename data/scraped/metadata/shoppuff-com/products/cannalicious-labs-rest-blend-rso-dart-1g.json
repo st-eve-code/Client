@@ -1,0 +1,40 @@
+{
+  "slug": "cannalicious-labs-rest-blend-rso-dart-1g",
+  "name": "Rest Blend RSO Dart | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$15.00 – $30.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most medicinal cannabis concentrate available. It stimulates the endocannabinoid system to help prevent many ailments and to offer therapeutic benefits. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes. Rest has a hint of berry flavor and contains a blend of THC, CBD and CBN that promotes rest and relaxation.",
+  "description_html": "Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most medicinal cannabis concentrate available. It stimulates the endocannabinoid system to help prevent many ailments and to offer therapeutic benefits. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes. Rest has a hint of berry flavor and contains a blend of THC, CBD and CBN that promotes rest and relaxation.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6f3af35ebf8a4949e02670c35ce26ee5",
+      "alt": "Rest Blend RSO Dart | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-rest-blend-rso-dart-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-rest-blend-rso-dart-1g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.658Z"
+}

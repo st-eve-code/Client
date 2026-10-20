@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-lowtek-live-rosin-maple-nectar",
+  "name": "Hytek LowTek Live Rosin | Maple Nectar",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Hytek LowTek Live Rosin | Maple Nectar",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-lowtek-live-rosin-maple-nectar__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-lowtek-live-rosin-maple-nectar-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.806Z"
+}

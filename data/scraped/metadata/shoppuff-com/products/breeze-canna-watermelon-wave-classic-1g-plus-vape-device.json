@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-watermelon-wave-classic-1g-plus-vape-device",
+  "name": "Watermelon Wave - Classic 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15.5,
+  "price_max": 15.5,
+  "currency": "USD",
+  "price_range": "$15.50",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Ride the wave of sweet and juicy watermelon flavors, perfect for a refreshing and summery vape.",
+  "description_html": "Ride the wave of sweet and juicy watermelon flavors, perfect for a refreshing and summery vape.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4e8b90293b040dc400568206037d6f88",
+      "alt": "Watermelon Wave - Classic 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-watermelon-wave-classic-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-watermelon-wave-classic-1g-plus-vape-device-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.877Z"
+}

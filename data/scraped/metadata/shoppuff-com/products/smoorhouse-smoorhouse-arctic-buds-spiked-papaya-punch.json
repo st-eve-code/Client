@@ -1,0 +1,60 @@
+{
+  "slug": "smoorhouse-smoorhouse-arctic-buds-spiked-papaya-punch",
+  "name": "Smoorhouse | Arctic Buds | Spiked Papaya Punch",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 11,
+  "price_max": 220,
+  "currency": "USD",
+  "price_range": "$11.00 – $220.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Spiked Papaya Punch\nFLAVOR: Funky fruit, papaya, gas on the backend\nTERPENES: Myrcene, Limonene, Bisabolol\nFEEL: Sedative body high with a happy headspace\nVIBE: Post-adventure wind-down, bath time, no plans\n\nCurated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "description_html": "Spiked Papaya Punch<br />FLAVOR: Funky fruit, papaya, gas on the backend<br />TERPENES: Myrcene, Limonene, Bisabolol<br />FEEL: Sedative body high with a happy headspace<br />VIBE: Post-adventure wind-down, bath time, no plans<br /><br />Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4a7cb4e5ade128d09e9f0e3bd0da5d4c",
+      "alt": "Smoorhouse | Arctic Buds | Spiked Papaya Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-smoorhouse-arctic-buds-spiked-papaya-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 22,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 11,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 220,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-smoorhouse-arctic-buds-spiked-papaya-punch-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.110Z"
+}

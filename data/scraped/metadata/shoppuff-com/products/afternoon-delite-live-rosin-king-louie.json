@@ -1,0 +1,35 @@
+{
+  "slug": "afternoon-delite-live-rosin-king-louie",
+  "name": "Afternoon Delite Live Rosin | King Louie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Afternoon Delite",
+  "tags": [],
+  "description": "1g Live Rosin",
+  "description_html": "1g Live Rosin",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f333b52a0be6412b504f6b498a9d115b",
+      "alt": "Afternoon Delite Live Rosin | King Louie",
+      "local": "data\\scraped\\images\\shoppuff-com__afternoon-delite-live-rosin-king-louie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/afternoon-delite-live-rosin-king-louie-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.224Z"
+}

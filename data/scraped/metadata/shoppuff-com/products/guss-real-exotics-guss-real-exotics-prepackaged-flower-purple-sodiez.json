@@ -1,0 +1,35 @@
+{
+  "slug": "guss-real-exotics-guss-real-exotics-prepackaged-flower-purple-sodiez",
+  "name": "Gus's Real Exotics Prepackaged Flower | Purple Sodiez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Gus's Real Exotics",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a5a062529f0d3c99d7bab64cd5f6476d",
+      "alt": "Gus's Real Exotics Prepackaged Flower | Purple Sodiez",
+      "local": "data\\scraped\\images\\shoppuff-com__guss-real-exotics-guss-real-exotics-prepackaged-flower-purple-sodiez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guss-real-exotics-guss-real-exotics-prepackaged-flower-purple-sodiez-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.295Z"
+}

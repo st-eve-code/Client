@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-0-6g-x-5-bubble-hash-infused-prerolls-strawberry-daiquiri",
+  "name": "Seed Junky | 0.6g x 5 Bubble Hash Infused Prerolls | Strawberry Daiquiri",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Single sourced hash infused pre-rolls. New premium indoor flavors, double the hash! No shake, no trim, double the hash!",
+  "description_html": "Single sourced hash infused pre-rolls. New premium indoor flavors, double the hash! No shake, no trim, double the hash!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ce8d4c5bff1b056de67ae07394a7f698",
+      "alt": "Seed Junky | 0.6g x 5 Bubble Hash Infused Prerolls | Strawberry Daiquiri",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-0-6g-x-5-bubble-hash-infused-prerolls-strawberry-daiquiri__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-0-6g-x-5-bubble-hash-infused-prerolls-strawberry-daiquiri-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.799Z"
+}

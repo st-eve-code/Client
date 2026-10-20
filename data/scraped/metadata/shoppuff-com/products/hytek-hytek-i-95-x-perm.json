@@ -1,0 +1,45 @@
+{
+  "slug": "hytek-hytek-i-95-x-perm",
+  "name": "Hytek | I-95 x Perm",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 27,
+  "currency": "USD",
+  "price_range": "$9.00 – $27.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Sweet and creamy with a hint of citrus on the nose. The Curelato leaves you with that mouth coating sugary candy on the exhale.\n\nGelato #33 x Runtz",
+  "description_html": "Sweet and creamy with a hint of citrus on the nose. The Curelato leaves you with that mouth coating sugary candy on the exhale.<br /><br />Gelato #33 x Runtz",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Hytek | I-95 x Perm",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-i-95-x-perm__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-i-95-x-perm-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.589Z"
+}

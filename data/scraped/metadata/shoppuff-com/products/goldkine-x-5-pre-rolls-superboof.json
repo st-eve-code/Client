@@ -1,0 +1,35 @@
+{
+  "slug": "goldkine-x-5-pre-rolls-superboof",
+  "name": "Goldkine x 5 Pre-Rolls | Superboof",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "5 X 0.5g Pre rolls",
+  "description_html": "5 X 0.5g Pre rolls",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02a6cf132ef5d7060235c030db03efe0",
+      "alt": "Goldkine x 5 Pre-Rolls | Superboof",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-x-5-pre-rolls-superboof__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-x-5-pre-rolls-superboof-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.582Z"
+}

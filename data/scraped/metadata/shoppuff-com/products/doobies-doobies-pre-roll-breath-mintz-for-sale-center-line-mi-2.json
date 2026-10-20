@@ -1,0 +1,35 @@
+{
+  "slug": "doobies-doobies-pre-roll-breath-mintz-for-sale-center-line-mi-2",
+  "name": "Doobies Pre-Roll | Breath Mintz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 2,
+  "price_max": 2,
+  "currency": "USD",
+  "price_range": "$2.00",
+  "available": true,
+  "vendor": "Doobies",
+  "tags": [],
+  "description": "1g Pre-Roll",
+  "description_html": "1g Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ee8797a13f9a589362ceb44d7bd631d7",
+      "alt": "Doobies Pre-Roll | Breath Mintz",
+      "local": "data\\scraped\\images\\shoppuff-com__doobies-doobies-pre-roll-breath-mintz-for-sale-center-line-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doobies-doobies-pre-roll-breath-mintz-for-sale-center-line-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.827Z"
+}

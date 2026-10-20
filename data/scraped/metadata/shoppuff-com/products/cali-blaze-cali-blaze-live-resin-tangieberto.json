@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-live-resin-tangieberto",
+  "name": "Cali Blaze Live Resin | Tangieberto",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5613-Puff-JointStore-Kalamazoo.webp",
+      "alt": "Cali Blaze Live Resin | Tangieberto",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-live-resin-tangieberto__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-live-resin-tangieberto-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.909Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "nura-glass-tip-pre-roll-cali-kush",
+  "name": "Nura Glass Tip Pre-Roll | Cali Kush",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "A hand rolled 1 gram joint with a glass tip filter to ensure a smooth and flavorful smoking experience.\n\nFlavors: Berry, Citrus, Coffee",
+  "description_html": "A hand rolled 1 gram joint with a glass tip filter to ensure a smooth and flavorful smoking experience.<br /><br />Flavors: Berry, Citrus, Coffee",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c587578d95805a3a9fb4ba2c70f44e9f",
+      "alt": "Nura Glass Tip Pre-Roll | Cali Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-glass-tip-pre-roll-cali-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-glass-tip-pre-roll-cali-kush-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.153Z"
+}

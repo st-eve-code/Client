@@ -1,0 +1,35 @@
+{
+  "slug": "rove-0-6g-x-6-infused-preroll-ice-packs-acapulco-gold",
+  "name": "ROVE | 0.6g x 6 Infused Preroll Ice Packs | Acapulco Gold",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "A perfectly balanced hybrid with a crisp, juicy sweetness and a smooth, easy finish. Ideal for those in-between moments when you want good vibes without losing your spark.",
+  "description_html": "A perfectly balanced hybrid with a crisp, juicy sweetness and a smooth, easy finish. Ideal for those in-between moments when you want good vibes without losing your spark.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/71c6074f20382034b1887d0480ba8464",
+      "alt": "ROVE | 0.6g x 6 Infused Preroll Ice Packs | Acapulco Gold",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-0-6g-x-6-infused-preroll-ice-packs-acapulco-gold__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.6g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-0-6g-x-6-infused-preroll-ice-packs-acapulco-gold-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.933Z"
+}

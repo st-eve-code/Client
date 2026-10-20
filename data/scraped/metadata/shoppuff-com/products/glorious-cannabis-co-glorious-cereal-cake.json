@@ -1,0 +1,50 @@
+{
+  "slug": "glorious-cannabis-co-glorious-cereal-cake",
+  "name": "Glorious | Cereal Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 14,
+  "price_max": 87.5,
+  "currency": "USD",
+  "price_range": "$14.00 – $87.50",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c651bd8ddf5d6fff3e89dd01a048a006",
+      "alt": "Glorious | Cereal Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-cereal-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 49,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 28,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 87.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-cereal-cake-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.946Z"
+}

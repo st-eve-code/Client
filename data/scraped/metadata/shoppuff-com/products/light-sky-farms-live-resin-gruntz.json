@@ -1,0 +1,35 @@
+{
+  "slug": "light-sky-farms-live-resin-gruntz",
+  "name": "Gruntz Live Resin 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "LightSky Farms",
+  "tags": [],
+  "description": "Zkittles x Gelato\n\nGruntz combines the best of both of its parent strains in the flavor department, with a sweet and fruity berry candy flavor with hints of sugary cotton candy, too.",
+  "description_html": "Zkittles x Gelato<br /><br />Gruntz combines the best of both of its parent strains in the flavor department, with a sweet and fruity berry candy flavor with hints of sugary cotton candy, too.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2a9ee18d32acdf3a3323b4e3359eef7e",
+      "alt": "Gruntz Live Resin 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__light-sky-farms-live-resin-gruntz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/light-sky-farms-live-resin-gruntz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.288Z"
+}

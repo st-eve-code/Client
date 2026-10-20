@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-5g-live-resin-oreoz-blizzard",
+  "name": "Jointman | 5g Live Resin | Oreoz Blizzard",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Step into the world of next-level dabs with the Jointman 5g Live Resin Concentrate — crafted for connoisseurs who demand potency without compromise. Extracted from fresh, premium flower, this live resin locks in every terpene and cannabinoid for a true-to-plant, full-spectrum experience that hits hard and tastes like the source.",
+  "description_html": "Step into the world of next-level dabs with the Jointman 5g Live Resin Concentrate — crafted for connoisseurs who demand potency without compromise. Extracted from fresh, premium flower, this live resin locks in every terpene and cannabinoid for a true-to-plant, full-spectrum experience that hits hard and tastes like the source.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5949bd666a85fed613e442d3061ab338",
+      "alt": "Jointman | 5g Live Resin | Oreoz Blizzard",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-5g-live-resin-oreoz-blizzard__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-5g-live-resin-oreoz-blizzard-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.325Z"
+}

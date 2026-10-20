@@ -1,0 +1,52 @@
+{
+  "slug": "bitez-xl-delta-8-delta-9-thcp-4000mg-gummies-blood-orange-cherry",
+  "name": "BITEZ XL - Delta-8 + Delta-9 + THCP 4000MG Gummies - Blood Orange Cherry",
+  "site": "ochoextracts-com",
+  "category": "double-stacked-bitez-gummies",
+  "price_min": 7.99,
+  "price_max": 7.99,
+  "currency": "GBP",
+  "price_range": "£7.99",
+  "available": true,
+  "sku": "BITEZXLBOC",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "BITEZ XL",
+    "Gummies",
+    "Hemp THC Gummies",
+    "Ocho Extracts"
+  ],
+  "description": "*DOUBLE THE STRENGTH OF OUR REGULAR BITEZ GUMMIES!\n\nBold, bright, and impossible to put down. Blood Orange Cherry BITEZ XL Gummies layer deep, tangy blood orange against rich, sun-ripened cherry for a citrus-forward flavor experience that hits different from the very first bite. Tart meets sweet in the most satisfying way imaginable. Double the strength, double the flavor—each XL gummy packs a powerful 2,000mg Delta-8, Delta-9, and THCP blend (2 gummies per bag, 4,000mg total).",
+  "description_html": "<p><em>*DOUBLE THE STRENGTH OF OUR REGULAR BITEZ GUMMIES!</em></p>\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Bold, bright, and impossible to put down. Blood Orange Cherry BITEZ XL Gummies layer <strong>deep, tangy blood orange</strong> against <strong>rich, sun-ripened cherry</strong> for a citrus-forward flavor experience that hits different from the very first bite. Tart meets sweet in the most satisfying way imaginable. Double the strength, double the flavor—each XL gummy packs a powerful <strong>2,000mg Delta-8</strong>, <strong>Delta-9</strong>, and <strong>THCP</strong> blend (<strong>2 gummies per bag, 4,000mg total)</strong>.</p>\n<!---->",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/BITEZ_XL-BOC-Mylar.png?v=1787004983",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__bitez-xl-delta-8-delta-9-thcp-4000mg-gummies-blood-orange-cherry__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/BITEZ_XL-BOC-Splash.png?v=1787004684",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__bitez-xl-delta-8-delta-9-thcp-4000mg-gummies-blood-orange-cherry__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46367847481530,
+      "title": "Default Title",
+      "price": 7.99,
+      "sku": "BITEZXLBOC",
+      "available": true
+    }
+  ],
+  "collections": [
+    "double-stacked-bitez-gummies",
+    "double-stacked-bitez-xl-gummies-delta-8-delta-9-thcp-4000mg",
+    "gourmet-gummies",
+    "ocho-extracts"
+  ],
+  "source_url": "https://ochoextracts.com/products/bitez-xl-delta-8-delta-9-thcp-4000mg-gummies-blood-orange-cherry",
+  "scraped_at": "2026-10-10T21:42:38.149Z"
+}

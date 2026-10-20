@@ -1,0 +1,35 @@
+{
+  "slug": "keef-keef-100mg-soda-cherry-cola-xtreme",
+  "name": "Keef | 100mg Soda | Cherry Cola Xtreme",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Keef",
+  "tags": [],
+  "description": "Keef's brand new Cherry Cola offers the perfect balance of our all time classic Original Cola flavor and the subtle sweetness of ripe cherries, enhanced with 100mg of THC! Whether you’re unwinding after a long day or looking for a fun way to elevate your mood, our Cherry Cola Xtreme delivers a deliciously satisfying taste with balanced effect.",
+  "description_html": "Keef's brand new Cherry Cola offers the perfect balance of our all time classic Original Cola flavor and the subtle sweetness of ripe cherries, enhanced with 100mg of THC! Whether you’re unwinding after a long day or looking for a fun way to elevate your mood, our Cherry Cola Xtreme delivers a deliciously satisfying taste with balanced effect.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1d653a494b6c7cb4659ad9857824b79b",
+      "alt": "Keef | 100mg Soda | Cherry Cola Xtreme",
+      "local": "data\\scraped\\images\\shoppuff-com__keef-keef-100mg-soda-cherry-cola-xtreme__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/keef-keef-100mg-soda-cherry-cola-xtreme-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.362Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-moonrocks-passion-orange-guava",
+  "name": "Mitten Extracts Moonrocks | Passion Orange Guava",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Bright tropical flavors shine in Passion Orange Guava Moon Rocks, combining citrusy orange, tangy passionfruit, and sweet guava notes. This potent blend of infused flower and kief delivers a juicy, flavorful smoke with serious kick.",
+  "description_html": "Bright tropical flavors shine in Passion Orange Guava Moon Rocks, combining citrusy orange, tangy passionfruit, and sweet guava notes. This potent blend of infused flower and kief delivers a juicy, flavorful smoke with serious kick.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a1a19327e4170dd96be18fc37c17058a",
+      "alt": "Mitten Extracts Moonrocks | Passion Orange Guava",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-moonrocks-passion-orange-guava__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-moonrocks-passion-orange-guava-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.535Z"
+}

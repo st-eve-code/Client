@@ -1,0 +1,35 @@
+{
+  "slug": "dixie-dixie-100mg-gummies-synergy-berry-focus-211",
+  "name": "Dixie | 100mg Gummies | Synergy Berry Focus 2:1:1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Dixie",
+  "tags": [],
+  "description": "50mg thc\n50mg cbd\n100mg cbg",
+  "description_html": "50mg thc<br />50mg cbd<br />100mg cbg",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6c9aa1501d219697f85711a81a413980",
+      "alt": "Dixie | 100mg Gummies | Synergy Berry Focus 2:1:1",
+      "local": "data\\scraped\\images\\shoppuff-com__dixie-dixie-100mg-gummies-synergy-berry-focus-211__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dixie-dixie-100mg-gummies-synergy-berry-focus-211-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.382Z"
+}

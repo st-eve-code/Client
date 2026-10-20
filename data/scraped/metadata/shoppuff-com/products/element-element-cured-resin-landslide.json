@@ -1,0 +1,35 @@
+{
+  "slug": "element-element-cured-resin-landslide",
+  "name": "Element Cured Resin | Landslide",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Element",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5e0d35e947424248fa64e827273a9a6a",
+      "alt": "Element Cured Resin | Landslide",
+      "local": "data\\scraped\\images\\shoppuff-com__element-element-cured-resin-landslide__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/element-element-cured-resin-landslide-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.882Z"
+}

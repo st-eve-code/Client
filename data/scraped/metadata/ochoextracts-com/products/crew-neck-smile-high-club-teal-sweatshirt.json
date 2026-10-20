@@ -1,0 +1,47 @@
+{
+  "slug": "crew-neck-smile-high-club-teal-sweatshirt",
+  "name": "Crew Neck - Smile High Club - Teal",
+  "site": "ochoextracts-com",
+  "category": "swag",
+  "price_min": 44.99,
+  "price_max": 44.99,
+  "currency": "GBP",
+  "price_range": "£44.99",
+  "available": true,
+  "sku": "SMH-TEAL-XL",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "Swag"
+  ],
+  "description": "The Smile High Club Crew Neck Sweatshirt brings a clean pop of color with a relaxed streetwear vibe. Featuring a soft teal cotton body sweatshirt with subtle chest artwork and drip-style detailing, and loud Smile High Club text graphic on the back, this piece is designed for easy everyday wear while still making a statement.\n\nFeatures:• Butter soft cotton construction• Teal long sleeve crew neck sweatshirt colorway• Smile High Club back graphic• Relaxed fit• Lightweight everyday feel",
+  "description_html": "<p data-start=\"580\" data-end=\"837\">The <strong>Smile High Club Crew Neck Sweatshirt </strong>brings a clean pop of color with a relaxed streetwear vibe. Featuring a soft teal cotton body sweatshirt with subtle chest artwork and drip-style detailing, and loud Smile High Club text graphic on the back, this piece is designed for easy everyday wear while still making a statement.</p>\n<p data-start=\"839\" data-end=\"993\"><span style=\"text-decoration: underline;\"><strong data-start=\"839\" data-end=\"852\">Features:</strong></span><br data-start=\"852\" data-end=\"855\">• Butter soft cotton construction<br data-start=\"881\" data-end=\"884\">• Teal long sleeve crew neck sweatshirt colorway<br data-start=\"911\" data-end=\"914\">• Smile High Club back graphic<br data-start=\"945\" data-end=\"948\">• Relaxed fit<br data-start=\"961\" data-end=\"964\">• Lightweight everyday feel</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/SHC_Crew_Neck-Sage-Site3.png?v=1779301816",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__crew-neck-smile-high-club-teal-sweatshirt__000.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 45869189857466,
+      "title": "XL",
+      "price": 44.99,
+      "sku": "SMH-TEAL-XL",
+      "available": true
+    },
+    {
+      "id": 45869189890234,
+      "title": "2XL",
+      "price": 44.99,
+      "sku": "SMH-TEAL-2XL",
+      "available": true
+    }
+  ],
+  "collections": [
+    "swag"
+  ],
+  "source_url": "https://ochoextracts.com/products/crew-neck-smile-high-club-teal-sweatshirt",
+  "scraped_at": "2026-10-10T21:42:46.209Z"
+}

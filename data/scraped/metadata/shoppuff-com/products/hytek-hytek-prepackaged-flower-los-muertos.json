@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-hytek-prepackaged-flower-los-muertos",
+  "name": "Hytek Prepackaged Flower | Los Muertos",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "The Los Muertos aka Dia de Los Muertos, is a head smacker!! Sweet and spicy, gassy taste with a hint of a creamy diesel on the exhale.\n\nIts like eating cold Tres Leche in a South Columbian cocaine camp on a hot day! \n\nCategory: Indica Leaning Hybrid\nCross: Motorbreath 15 x Project 4516",
+  "description_html": "The Los Muertos aka Dia de Los Muertos, is a head smacker!! Sweet and spicy, gassy taste with a hint of a creamy diesel on the exhale.<br /><br /><br />Its like eating cold Tres Leche in a South Columbian cocaine camp on a hot day! <br /><br /><br />Category: Indica Leaning Hybrid<br />Cross: Motorbreath 15 x Project 4516",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/df6a50b9c7ccd0d2c93e1d440bb736bf",
+      "alt": "Hytek Prepackaged Flower | Los Muertos",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-prepackaged-flower-los-muertos__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-prepackaged-flower-los-muertos-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.806Z"
+}

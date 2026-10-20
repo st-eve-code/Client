@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-1g-premium-preroll-headspace",
+  "name": "Local Grove | 1g Premium Preroll | Headspace",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Brain Stew × Permanent Marker\n\nBreeder: Local Grove\n\nSelected by: Local Grove\n\nAroma & Flavor: Strong Permanent Marker aroma with sharp chemical gas and subtle sweetness from Brain Stew on the back end\n\nEffects: Strong and heavy — intense cerebral onset followed by deep, lingering body relaxation",
+  "description_html": "Genetics: Brain Stew × Permanent Marker<br /><br />Breeder: Local Grove<br /><br />Selected by: Local Grove<br /><br />Aroma & Flavor: Strong Permanent Marker aroma with sharp chemical gas and subtle sweetness from Brain Stew on the back end<br /><br />Effects: Strong and heavy — intense cerebral onset followed by deep, lingering body relaxation",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/28c3370c1237559d117649bc2c0d7bb4",
+      "alt": "Local Grove | 1g Premium Preroll | Headspace",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-1g-premium-preroll-headspace__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-1g-premium-preroll-headspace-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.556Z"
+}

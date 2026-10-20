@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-prepackaged-flower-sherb-pie",
+  "name": "Peninsula Gardens Prepackaged Flower | Sherb Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "@Bonez_grown cut of Seed Junky’s Sherb Cake. Ice Cream Cake x Sunset Sherbet. Beautiful purple buds that lean heavy towards the sherb smell and flavors with just enough of the cake flavor to compliment.",
+  "description_html": "@Bonez_grown cut of Seed Junky’s Sherb Cake. Ice Cream Cake x Sunset Sherbet. Beautiful purple buds that lean heavy towards the sherb smell and flavors with just enough of the cake flavor to compliment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1085262322fed354021fe654c15bf9f1",
+      "alt": "Peninsula Gardens Prepackaged Flower | Sherb Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-prepackaged-flower-sherb-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-prepackaged-flower-sherb-pie-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.793Z"
+}

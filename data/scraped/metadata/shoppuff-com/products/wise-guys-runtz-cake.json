@@ -1,0 +1,60 @@
+{
+  "slug": "wise-guys-runtz-cake",
+  "name": "Wise Guys | Runtz Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$8.00 – $125.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0ed022fde626471ba86330cd8088415",
+      "alt": "Wise Guys | Runtz Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-runtz-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-runtz-cake-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.943Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-pineapple-fruz-pre-roll-1g",
+  "name": "Pineapple Fruz Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Strain specific pre-roll from Seed Junky for your pleasure!\nPerfect for on the go, choose your perfect high in a single 1g pre-roll.",
+  "description_html": "Strain specific pre-roll from Seed Junky for your pleasure!<br />Perfect for on the go, choose your perfect high in a single 1g pre-roll.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d1906cc9c1a9746212deecd177121ff0",
+      "alt": "Pineapple Fruz Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-pineapple-fruz-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-pineapple-fruz-pre-roll-1g-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.590Z"
+}

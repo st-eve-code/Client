@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-magic-marker",
+  "name": "Seed Junky Pre-Roll | Magic Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Magic Marker is a strong Indica that has a sweet gassy aroma, complimented with a subtle hint of lime. Magic Marker will quickly work its magic and transform a stressful day into a euphoric relaxing night, making this strain great for night time use.",
+  "description_html": "Magic Marker is a strong Indica that has a sweet gassy aroma, complimented with a subtle hint of lime. Magic Marker will quickly work its magic and transform a stressful day into a euphoric relaxing night, making this strain great for night time use.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b15741ec36383516354c94bcc8525c52",
+      "alt": "Seed Junky Pre-Roll | Magic Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-magic-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-magic-marker-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.347Z"
+}

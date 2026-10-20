@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-prepackaged-flower-deep-blue-z",
+  "name": "Hytek Prepackaged Flower | Deep Blue Z",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cb7e47972f6979bb38ec4ee3d00dd77f",
+      "alt": "Hytek Prepackaged Flower | Deep Blue Z",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-prepackaged-flower-deep-blue-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-prepackaged-flower-deep-blue-z-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.806Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-live-rosin-strawberry-push-pop",
+  "name": "Local Grove Live Rosin | Strawberry Push Pop",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0369e91509a8000bc54bcdcd25ee902",
+      "alt": "Local Grove Live Rosin | Strawberry Push Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-live-rosin-strawberry-push-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-live-rosin-strawberry-push-pop-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.952Z"
+}

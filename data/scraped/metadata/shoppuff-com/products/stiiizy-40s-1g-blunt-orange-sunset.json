@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-40s-1g-blunt-orange-sunset",
+  "name": "Stiiizy | 40's 1g Blunt | Orange Sunset",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/15f2fee7a51cd1a7758a2735287d15c9",
+      "alt": "Stiiizy | 40's 1g Blunt | Orange Sunset",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-1g-blunt-orange-sunset__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-1g-blunt-orange-sunset-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.776Z"
+}

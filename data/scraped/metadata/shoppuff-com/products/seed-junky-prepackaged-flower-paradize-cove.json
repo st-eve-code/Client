@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-prepackaged-flower-paradize-cove",
+  "name": "Seed Junky Prepackaged Flower | Paradize Cove",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Paradize Cove is a flavorful strain with creamy, pungent, and gassy aromas. Its sweet and creamy taste delivers an uplifting, euphoric high that brings happiness and a lasting smile. Perfect for enhancing your mood and powering through your day.",
+  "description_html": "Paradize Cove is a flavorful strain with creamy, pungent, and gassy aromas. Its sweet and creamy taste delivers an uplifting, euphoric high that brings happiness and a lasting smile. Perfect for enhancing your mood and powering through your day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8f54c758e86bce9f5f6dcb43bf127721",
+      "alt": "Seed Junky Prepackaged Flower | Paradize Cove",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-prepackaged-flower-paradize-cove__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-prepackaged-flower-paradize-cove-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.571Z"
+}

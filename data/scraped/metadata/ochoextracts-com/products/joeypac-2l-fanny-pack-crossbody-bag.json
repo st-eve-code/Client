@@ -1,0 +1,99 @@
+{
+  "slug": "joeypac-2l-fanny-pack-crossbody-bag",
+  "name": "JoeyPac 2L Fanny Pack - Crossbody/Sling Bag",
+  "site": "ochoextracts-com",
+  "category": "the-joeypac-collection",
+  "price_min": 49.99,
+  "price_max": 49.99,
+  "currency": "GBP",
+  "price_range": "£49.99",
+  "available": true,
+  "sku": "46042240549050",
+  "vendor": "JoeyPac",
+  "tags": [
+    "Crossbody Bag",
+    "Fanny Pack",
+    "JoeyPac",
+    "Sling Bag",
+    "Swag"
+  ],
+  "description": "The Details\n\n• \n2L capacity | W 11\" x H 5\" x D 2.5\"\n\n• \nNylon exterior | Polyester interior\n\n• \nFidlock magnetic buckle\n\n• Dedicated padded phone pocket\n\n• Stash pocket under lid\n\n• \nCustom-designed liner unique to each colorway\n\n• \nAdjustable 53\" strap, wears crossbody or waist",
+  "description_html": "<h3>The Details</h3>\n<ul>\n<li>\n<meta charset=\"utf-8\">2L capacity | W 11\" x H 5\" x D 2.5\"</li>\n<li>\n<meta charset=\"utf-8\">Nylon exterior | Polyester interior</li>\n<li>\n<meta charset=\"utf-8\">Fidlock magnetic buckle</li>\n<li>Dedicated padded phone pocket</li>\n<li>Stash pocket under lid</li>\n<li>\n<meta charset=\"utf-8\">Custom-designed liner unique to each colorway</li>\n<li>\n<meta charset=\"utf-8\">Adjustable 53\" strap, wears crossbody or waist</li>\n</ul>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/JoeyPac_FannyPack_Black1.jpg?v=1790805168",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__000.jpg"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/IMG_8532_82446cd7-0f8a-4d2d-b2ec-3f1eca15a1fa.jpg?v=1790805197",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__001.jpg"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/JoeyPac_FannyPack_Black2.jpg?v=1790805168",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__002.jpg"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/IncogNeato.webp?v=1790805180",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__003.webp"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/IMG_8510.webp?v=1790805215",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__004.webp"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/IMG_8002.webp?v=1790805546",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__005.webp"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Kelly_KaPouchski.webp?v=1790805175",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__006.webp"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/IMG_4974-2_cacf4486-03c7-49ce-96fb-5a9b6cdff2d7.webp?v=1790805533",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__007.webp"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/IMG_7952.webp?v=1790805542",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__joeypac-2l-fanny-pack-crossbody-bag__008.webp"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46042240549050,
+      "title": "'After Midnight' (Black)",
+      "price": 49.99,
+      "sku": "46042240549050",
+      "available": true
+    },
+    {
+      "id": 46042240581818,
+      "title": "'IncogNeato' (Gray + Green)",
+      "price": 49.99,
+      "sku": "46042240581818",
+      "available": true
+    },
+    {
+      "id": 46042240614586,
+      "title": "'Kelly KaPouchski' (Blue + Purple)",
+      "price": 49.99,
+      "sku": "46042240614586",
+      "available": true
+    }
+  ],
+  "collections": [
+    "the-joeypac-collection",
+    "swag"
+  ],
+  "source_url": "https://ochoextracts.com/products/joeypac-2l-fanny-pack-crossbody-bag",
+  "scraped_at": "2026-10-10T21:42:42.356Z"
+}

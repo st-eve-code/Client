@@ -1,0 +1,35 @@
+{
+  "slug": "a1za-a1za-14g-prepackaged-flower-pink-lemonade",
+  "name": "A1ZA | 14g Prepackaged Flower | Pink Lemonade",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 99,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$99.00",
+  "available": true,
+  "vendor": "A1ZA",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cd4850db3810839b2adda1484a012350",
+      "alt": "A1ZA | 14g Prepackaged Flower | Pink Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__a1za-a1za-14g-prepackaged-flower-pink-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/a1za-a1za-14g-prepackaged-flower-pink-lemonade-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.580Z"
+}

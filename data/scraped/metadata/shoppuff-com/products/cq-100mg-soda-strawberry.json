@@ -1,0 +1,35 @@
+{
+  "slug": "cq-100mg-soda-strawberry",
+  "name": "CQ | 100mg Soda | Strawberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "CQ",
+  "tags": [],
+  "description": "PEACE. LOVE. CANNABIS.™\n\nBorn and raised in Venice Beach, California, we've been perfecting the sweet spot between fun and function since 2008. We believe that normalized, legal cannabis use makes for a better world. Crafted from the highest quality ingredients, expect a refreshing infusion of real fruit and terpene-rich cannabis for a deliciously juicy buzz. We make wellness tasty, relaxing and fun. We love what we do.\n\nYour favorite strawberry pop from back in the day–nostalgia included, free of charge. Infused with THC, caffeine free and sweetened with cane sugar. 12 oz can.",
+  "description_html": "PEACE. LOVE. CANNABIS.™<br /><br />Born and raised in Venice Beach, California, we've been perfecting the sweet spot between fun and function since 2008. We believe that normalized, legal cannabis use makes for a better world. Crafted from the highest quality ingredients, expect a refreshing infusion of real fruit and terpene-rich cannabis for a deliciously juicy buzz. We make wellness tasty, relaxing and fun. We love what we do.<br /><br />Your favorite strawberry pop from back in the day–nostalgia included, free of charge. Infused with THC, caffeine free and sweetened with cane sugar. 12 oz can.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dfe81b04233ab083dc90b2f4c06be4c5",
+      "alt": "CQ | 100mg Soda | Strawberry",
+      "local": "data\\scraped\\images\\shoppuff-com__cq-100mg-soda-strawberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cq-100mg-soda-strawberry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.302Z"
+}

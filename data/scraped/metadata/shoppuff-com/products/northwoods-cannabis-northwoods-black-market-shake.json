@@ -1,0 +1,35 @@
+{
+  "slug": "northwoods-cannabis-northwoods-black-market-shake",
+  "name": "Northwoods | Black Market Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Northwoods | Black Market Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-cannabis-northwoods-black-market-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-cannabis-northwoods-black-market-shake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.154Z"
+}

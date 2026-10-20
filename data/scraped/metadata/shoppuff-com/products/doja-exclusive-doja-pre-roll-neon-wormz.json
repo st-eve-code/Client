@@ -1,0 +1,35 @@
+{
+  "slug": "doja-exclusive-doja-pre-roll-neon-wormz",
+  "name": "Doja Pre-Roll | Neon Wormz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Doja Exclusive",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f441b9957b1fbde3e32fb1567cf1e6cd",
+      "alt": "Doja Pre-Roll | Neon Wormz",
+      "local": "data\\scraped\\images\\shoppuff-com__doja-exclusive-doja-pre-roll-neon-wormz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doja-exclusive-doja-pre-roll-neon-wormz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.827Z"
+}

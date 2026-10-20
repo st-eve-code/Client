@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-super-dope-prepackaged-flower-mega-z-emerald-minis",
+  "name": "Super Dope Prepackaged Flower | Mega Z Emerald Minis",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Regenerate your Z palette with this gem. Mega Z Emerald takes the Zkittles terps that fans have come to know and love from our Mega Z Blue but with a blast of sour notes. Now the question is, Are you game?",
+  "description_html": "Regenerate your Z palette with this gem. Mega Z Emerald takes the Zkittles terps that fans have come to know and love from our Mega Z Blue but with a blast of sour notes. Now the question is, Are you game?",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/be85afaab212811adc8fd007f4e072a4",
+      "alt": "Super Dope Prepackaged Flower | Mega Z Emerald Minis",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-prepackaged-flower-mega-z-emerald-minis__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-prepackaged-flower-mega-z-emerald-minis-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.808Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cypher-solventless-5g-live-rosin-strawguava",
+  "name": "Cypher Solventless | 5g Live Rosin | Strawguava",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 140,
+  "price_max": 140,
+  "currency": "USD",
+  "price_range": "$140.00",
+  "available": true,
+  "vendor": "Cypher Solventless",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02b959dd685dfbb38150f2d839a164e8",
+      "alt": "Cypher Solventless | 5g Live Rosin | Strawguava",
+      "local": "data\\scraped\\images\\shoppuff-com__cypher-solventless-5g-live-rosin-strawguava__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 140,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cypher-solventless-5g-live-rosin-strawguava-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.450Z"
+}

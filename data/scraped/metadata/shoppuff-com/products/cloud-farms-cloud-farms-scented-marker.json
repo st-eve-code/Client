@@ -1,0 +1,60 @@
+{
+  "slug": "cloud-farms-cloud-farms-scented-marker",
+  "name": "Cloud Farms | Scented Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.5,
+  "price_max": 74.99,
+  "currency": "USD",
+  "price_range": "$4.50 – $74.99",
+  "available": true,
+  "vendor": "Cloud Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dba8cc46ddf4ceea6758879df88833d8",
+      "alt": "Cloud Farms | Scented Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__cloud-farms-cloud-farms-scented-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4.5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 74.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloud-farms-cloud-farms-scented-marker-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.629Z"
+}

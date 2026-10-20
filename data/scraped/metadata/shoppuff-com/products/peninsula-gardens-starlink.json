@@ -1,0 +1,60 @@
+{
+  "slug": "peninsula-gardens-starlink",
+  "name": "Peninsula Gardens | Starlink",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Super sweet candy. Bred by @Codymikew, it’s a cross of LCG x Runtz. Some of the most perfect looking flowers in our garden. Structure, color, smell, and flavor. She checks every single box and is sure to take all of the candy lovers to the stars.",
+  "description_html": "Super sweet candy. Bred by @Codymikew, it’s a cross of LCG x Runtz. Some of the most perfect looking flowers in our garden. Structure, color, smell, and flavor. She checks every single box and is sure to take all of the candy lovers to the stars.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a17d3cc0d1e23cce54d56b44cdf14cf",
+      "alt": "Peninsula Gardens | Starlink",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-starlink__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-starlink-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.923Z"
+}

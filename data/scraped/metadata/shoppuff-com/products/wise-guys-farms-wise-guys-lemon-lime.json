@@ -1,0 +1,55 @@
+{
+  "slug": "wise-guys-farms-wise-guys-lemon-lime",
+  "name": "Wise Guys | Lemon Lime",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 75,
+  "currency": "USD",
+  "price_range": "$6.00 – $75.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: Shrom x Purple Punch\n\nFlavor: Siera Mist terps with a loud nose\n\nType/Leaning: Hybrid (Sativa-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Shrom x Purple Punch<br /><br />Flavor: Siera Mist terps with a loud nose<br /><br />Type/Leaning: Hybrid (Sativa-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b4dfcf43d81a9d79ea9bb3785bcdfb60",
+      "alt": "Wise Guys | Lemon Lime",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-farms-wise-guys-lemon-lime__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-farms-wise-guys-lemon-lime-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.512Z"
+}

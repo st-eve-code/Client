@@ -1,0 +1,35 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-blueberry-muff",
+  "name": "Heavyweight Heads | Blueberry Muff",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "You'll find yourself feeling sociable and outgoing, chatting with anyone and everyone around you, although you may fall in and out of fits of the giggles at times. A pang of hunger comes next, leaving you with a heavy case of the munchies and reaching for anything in sight to snack on.",
+  "description_html": "You'll find yourself feeling sociable and outgoing, chatting with anyone and everyone around you, although you may fall in and out of fits of the giggles at times. A pang of hunger comes next, leaving you with a heavy case of the munchies and reaching for anything in sight to snack on.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7fa2785132688f52251616b5fffd29be",
+      "alt": "Heavyweight Heads | Blueberry Muff",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-blueberry-muff__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-blueberry-muff-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.425Z"
+}

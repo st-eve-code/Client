@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-5g-moonrocks-maui-wowi",
+  "name": "Mitten Extracts | 5g Moonrocks | Maui Wowi",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Bring island vibes to your session with Maui Wowie Moon Rocks, bursting with tropical pineapple sweetness and bright fruit notes. The infusion process adds extra potency, delivering a smooth yet powerful smoke.",
+  "description_html": "Bring island vibes to your session with Maui Wowie Moon Rocks, bursting with tropical pineapple sweetness and bright fruit notes. The infusion process adds extra potency, delivering a smooth yet powerful smoke.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/40f96acb7ac76b2dd67811c7d6d4a5b3",
+      "alt": "Mitten Extracts | 5g Moonrocks | Maui Wowi",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-5g-moonrocks-maui-wowi__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-5g-moonrocks-maui-wowi-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.601Z"
+}

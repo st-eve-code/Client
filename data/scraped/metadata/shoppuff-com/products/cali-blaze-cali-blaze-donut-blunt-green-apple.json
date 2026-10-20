@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-donut-blunt-green-apple",
+  "name": "Green Apple Donut | 1.2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Everyone loves donuts. A 1.2 gram glass-tip donut blunt wrapped in hemp, packed with top-shelf indoor flower, infused with live resin and rolled in kief. Finished in crisp, sour green apple.",
+  "description_html": "Everyone loves donuts. A 1.2 gram glass-tip donut blunt wrapped in hemp, packed with top-shelf indoor flower, infused with live resin and rolled in kief. Finished in crisp, sour green apple.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/405ae7da136c8e895507823ee2d384e0",
+      "alt": "Green Apple Donut | 1.2g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-donut-blunt-green-apple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-donut-blunt-green-apple-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.248Z"
+}

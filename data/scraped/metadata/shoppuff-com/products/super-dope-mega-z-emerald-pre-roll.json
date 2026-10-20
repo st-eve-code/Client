@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-mega-z-emerald-pre-roll",
+  "name": "Super Dope Pre-roll | Mega Z Emerald",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Regenerate your Z palette with this gem. Mega Z Emerald takes the Zkittles terps that fans have come to know and love from our Mega Z Blue but with a blast of sour notes. Now the question is, Are you game?",
+  "description_html": "Regenerate your Z palette with this gem. Mega Z Emerald takes the Zkittles terps that fans have come to know and love from our Mega Z Blue but with a blast of sour notes. Now the question is, Are you game?",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6d5439f6fdee9c11de06c6b238c7c17a",
+      "alt": "Super Dope Pre-roll | Mega Z Emerald",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-mega-z-emerald-pre-roll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-mega-z-emerald-pre-roll-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.791Z"
+}

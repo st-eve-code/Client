@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-flower-power-cannabis-prepackaged-flower-z-animals",
+  "name": "Flower Power Cannabis Prepackaged Flower | Z Animals",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "Runtz x Animal Mints | Indica-Dominant Hybrid\n\nOUT NOW!!! 3.5G Pre Pack of our brand new Z Animals. Hand-picked for the best experience.",
+  "description_html": "Runtz x Animal Mints | Indica-Dominant Hybrid<br /><br />OUT NOW!!! 3.5G Pre Pack of our brand new Z Animals. Hand-picked for the best experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f4a12a72d9e07170453349b7c4250b11",
+      "alt": "Flower Power Cannabis Prepackaged Flower | Z Animals",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-flower-power-cannabis-prepackaged-flower-z-animals__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-flower-power-cannabis-prepackaged-flower-z-animals-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.556Z"
+}

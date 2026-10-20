@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-infused-preroll-rainbow-sherbet",
+  "name": "Berry Green Infused Preroll | Rainbow Sherbet",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Colorful chaos. Fruity fire with a high that hits every flavor of good.\n\nEffect: Euphoric lift with mellow body waves — a feel-good in every puff.",
+  "description_html": "Colorful chaos. Fruity fire with a high that hits every flavor of good.<br /><br />Effect: Euphoric lift with mellow body waves — a feel-good in every puff.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/af5758aa9d722defb195153e50f2e8c8",
+      "alt": "Berry Green Infused Preroll | Rainbow Sherbet",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-infused-preroll-rainbow-sherbet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-infused-preroll-rainbow-sherbet-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.227Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-disposable-apple-tartz",
+  "name": "Mitten Extracts Disposable | Apple Tartz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "This sweet strain offers a crisp apple flavor with tart undertones. Known for its uplifting yet relaxing effects, it provides a perfect blend of energy and calm, making it suitable for any time of day.",
+  "description_html": "This sweet strain offers a crisp apple flavor with tart undertones. Known for its uplifting yet relaxing effects, it provides a perfect blend of energy and calm, making it suitable for any time of day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6912dcc25139875b777393570b1a403a",
+      "alt": "Mitten Extracts Disposable | Apple Tartz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-disposable-apple-tartz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-disposable-apple-tartz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.586Z"
+}

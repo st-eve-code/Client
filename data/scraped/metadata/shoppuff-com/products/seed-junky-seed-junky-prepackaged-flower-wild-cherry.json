@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-wild-cherry",
+  "name": "Seed Junky Prepackaged Flower | Wild Cherry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Hit the Jackpot with Wild Cherry, a potent indica strain that deals a winning hand of bold flavors. The gassy aroma draws you in, followed by a sweet-and-tart blend of cherry, candy, citrus, and a hint of spice.",
+  "description_html": "Hit the Jackpot with Wild Cherry, a potent indica strain that deals a winning hand of bold flavors. The gassy aroma draws you in, followed by a sweet-and-tart blend of cherry, candy, citrus, and a hint of spice.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ea4b6b9c97ebde7e4298dc1f24d90920",
+      "alt": "Seed Junky Prepackaged Flower | Wild Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-wild-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-wild-cherry-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.571Z"
+}

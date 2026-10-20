@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-prepackaged-flower-party-popperz",
+  "name": "Peninsula Gardens Prepackaged Flower | Party Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Hybrid \n\nAnother straight candy. Smokes very similar to our runtz with some subtle differences we think you'll absolutely love.",
+  "description_html": "Hybrid <br /><br />Another straight candy. Smokes very similar to our runtz with some subtle differences we think you'll absolutely love.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2078bcc89cf0e2fad2f18e0bdcd34b50",
+      "alt": "Peninsula Gardens Prepackaged Flower | Party Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-prepackaged-flower-party-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-prepackaged-flower-party-popperz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.686Z"
+}

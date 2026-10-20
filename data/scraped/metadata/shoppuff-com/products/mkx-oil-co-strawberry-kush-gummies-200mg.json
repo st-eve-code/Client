@@ -1,0 +1,35 @@
+{
+  "slug": "mkx-oil-co-strawberry-kush-gummies-200mg",
+  "name": "MKX Gummies 200mg - STRAWBERRY KUSH",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "HYBRID | 20MG THC PER PIECE | 10 PIECES",
+  "description_html": "HYBRID | 20MG THC PER PIECE | 10 PIECES",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8133ced05bb8e396712ceebbeec662c1",
+      "alt": "MKX Gummies 200mg - STRAWBERRY KUSH",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-strawberry-kush-gummies-200mg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-strawberry-kush-gummies-200mg-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.777Z"
+}

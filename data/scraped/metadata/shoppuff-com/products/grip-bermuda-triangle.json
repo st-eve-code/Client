@@ -1,0 +1,35 @@
+{
+  "slug": "grip-bermuda-triangle",
+  "name": "Grip | Bermuda Triangle",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Grip",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1e699462d93fb8a24fd067f5b6c2630f",
+      "alt": "Grip | Bermuda Triangle",
+      "local": "data\\scraped\\images\\shoppuff-com__grip-bermuda-triangle__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grip-bermuda-triangle-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.601Z"
+}

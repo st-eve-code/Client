@@ -1,0 +1,35 @@
+{
+  "slug": "smoorhouse-smoorhouse-arctic-buds-bad-apple-candy",
+  "name": "Smoorhouse | Arctic Buds | Bad Apple Candy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Bad Apple Candy\nFLAVOR: Sour apple, sweet diesel, candy shell\nTERPENES: Caryophyllene, Limonene, Farnesene\nFEEL: Talkative, confident, sharp with a side of stoned\nVIBE: Night out starter, campfire crew, mood booster\n\nCurated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "description_html": "Bad Apple Candy<br />FLAVOR: Sour apple, sweet diesel, candy shell<br />TERPENES: Caryophyllene, Limonene, Farnesene<br />FEEL: Talkative, confident, sharp with a side of stoned<br />VIBE: Night out starter, campfire crew, mood booster<br /><br />Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a6e98e0f24a6634250330adf3cd3374",
+      "alt": "Smoorhouse | Arctic Buds | Bad Apple Candy",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-smoorhouse-arctic-buds-bad-apple-candy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-smoorhouse-arctic-buds-bad-apple-candy-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.416Z"
+}

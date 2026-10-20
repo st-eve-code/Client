@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-og-farms-infused-preroll-candy-runtz",
+  "name": "OG Farms Infused Preroll | Candy Runtz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "- 1.2g infused pre-roll\n\n- Infused with premium distillate oil\n\n- Enhanced with natural terpenes\n\n- Evenly packed for a smooth, consistent burn\n\n- Convenient, ready-to-smoke format",
+  "description_html": "- 1.2g infused pre-roll<br /><br />- Infused with premium distillate oil<br /><br />- Enhanced with natural terpenes<br /><br />- Evenly packed for a smooth, consistent burn<br /><br />- Convenient, ready-to-smoke format",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d867b846a95c5ca57f04a9b82413b988",
+      "alt": "OG Farms Infused Preroll | Candy Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-og-farms-infused-preroll-candy-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-og-farms-infused-preroll-candy-runtz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.845Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "terpee-slurpee",
+  "name": "Terpee Slurpee",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$20.00 – $125.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "GMO x Orange Cookies create Terpee Slurpee. Indicia Dominant hybrid with a lemon lime flavor.",
+  "description_html": "GMO x Orange Cookies create Terpee Slurpee. Indicia Dominant hybrid with a lemon lime flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3b4142ad990c2335a090ffdffd65db00",
+      "alt": "Terpee Slurpee",
+      "local": "data\\scraped\\images\\shoppuff-com__terpee-slurpee__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/terpee-slurpee-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.697Z"
+}

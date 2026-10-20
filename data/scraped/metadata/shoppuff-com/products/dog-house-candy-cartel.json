@@ -1,0 +1,50 @@
+{
+  "slug": "dog-house-candy-cartel",
+  "name": "Dog House | Candy Cartel",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 14,
+  "price_max": 63,
+  "currency": "USD",
+  "price_range": "$14.00 – $63.00",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "Sherb Cream Pie x Biscotti | Fruit, Gas\n\nCandy Cartel floods the nose with loud, sugary sweetness—think berry syrup meets powdered candy, with a nice dose of gas as well. Hints of ripe fruit and a creamy finish round out the aroma. The smoke is rich and velvety, coating the tongue with layers of sweetness that linger long after the exhale. Buds are chunky and dusted in frost, lit up by streaks of violet and gold. Playful on the outside, powerful on the inside.",
+  "description_html": "Sherb Cream Pie x Biscotti | Fruit, Gas<br /><br />Candy Cartel floods the nose with loud, sugary sweetness—think berry syrup meets powdered candy, with a nice dose of gas as well. Hints of ripe fruit and a creamy finish round out the aroma. The smoke is rich and velvety, coating the tongue with layers of sweetness that linger long after the exhale. Buds are chunky and dusted in frost, lit up by streaks of violet and gold. Playful on the outside, powerful on the inside.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6b25faf7a5ea3b479055f27b2ce95b78",
+      "alt": "Dog House | Candy Cartel",
+      "local": "data\\scraped\\images\\shoppuff-com__dog-house-candy-cartel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 63,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dog-house-candy-cartel-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.184Z"
+}

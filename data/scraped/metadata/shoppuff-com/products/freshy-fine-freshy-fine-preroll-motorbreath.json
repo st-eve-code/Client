@@ -1,0 +1,35 @@
+{
+  "slug": "freshy-fine-freshy-fine-preroll-motorbreath",
+  "name": "Freshy Fine Preroll | Motorbreath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d977f0ecaf09a7f41dd71400e7c7b5f5",
+      "alt": "Freshy Fine Preroll | Motorbreath",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-freshy-fine-preroll-motorbreath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-freshy-fine-preroll-motorbreath-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.511Z"
+}

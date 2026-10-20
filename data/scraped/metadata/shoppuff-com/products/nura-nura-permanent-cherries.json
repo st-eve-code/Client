@@ -1,0 +1,35 @@
+{
+  "slug": "nura-nura-permanent-cherries",
+  "name": "Nura | Permanent Cherries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2b88618aab6b270953ff49a81637b1f8",
+      "alt": "Nura | Permanent Cherries",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-nura-permanent-cherries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-nura-permanent-cherries-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.422Z"
+}

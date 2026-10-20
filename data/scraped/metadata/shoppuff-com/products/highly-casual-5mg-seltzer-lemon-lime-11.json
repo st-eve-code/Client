@@ -1,0 +1,35 @@
+{
+  "slug": "highly-casual-5mg-seltzer-lemon-lime-11",
+  "name": "Highly Casual | 5mg Seltzer | Lemon + Lime 1:1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Highly Casual",
+  "tags": [],
+  "description": "You think Lemon and Lime flavor is played out? You think you’ve tried every lemon lime flavored drink on the planet? Think again, amigo.\n\nOur Lemon + Lime seltzer dances circles around your taste buds. It packs more flavor than Flavor Flave. It has more citrus punch than a prizefighting grapefruit",
+  "description_html": "You think Lemon and Lime flavor is played out? You think you’ve tried every lemon lime flavored drink on the planet? Think again, amigo.<br /><br />Our Lemon + Lime seltzer dances circles around your taste buds. It packs more flavor than Flavor Flave. It has more citrus punch than a prizefighting grapefruit",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5db6890d9ba22a595fca15b757f92d44",
+      "alt": "Highly Casual | 5mg Seltzer | Lemon + Lime 1:1",
+      "local": "data\\scraped\\images\\shoppuff-com__highly-casual-5mg-seltzer-lemon-lime-11__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/highly-casual-5mg-seltzer-lemon-lime-11-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.859Z"
+}

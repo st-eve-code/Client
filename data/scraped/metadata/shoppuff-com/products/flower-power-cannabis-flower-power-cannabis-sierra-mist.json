@@ -1,0 +1,60 @@
+{
+  "slug": "flower-power-cannabis-flower-power-cannabis-sierra-mist",
+  "name": "Flower Power Cannabis | Sierra Mist",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 179,
+  "currency": "USD",
+  "price_range": "$10.00 – $179.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fb067171332b9ed5647a52d4cf2f951c",
+      "alt": "Flower Power Cannabis | Sierra Mist",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-flower-power-cannabis-sierra-mist__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 95,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 179,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-flower-power-cannabis-sierra-mist-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.698Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "platinum-vape-510-cartridge-zen-sauce",
+  "name": "Platinum Vape 510 Cartridge | Zen Sauce",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Platinum Vape",
+  "tags": [],
+  "description": "Zen Sauce is your flavorful fast-pass to inner peace—with just enough kick to keep things interesting. This smooth and balanced hybrid blends herbal sweetness, mellow citrus, and a hint of pine for a taste that’s clean, calm, and just a little mysterious. The high? A perfect yin-yang mix of mental clarity and body ease, like meditating on a hammock... with a side of giggles.",
+  "description_html": "Zen Sauce is your flavorful fast-pass to inner peace—with just enough kick to keep things interesting. This smooth and balanced hybrid blends herbal sweetness, mellow citrus, and a hint of pine for a taste that’s clean, calm, and just a little mysterious. The high? A perfect yin-yang mix of mental clarity and body ease, like meditating on a hammock... with a side of giggles.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/vaporizers.jpg",
+      "alt": "Platinum Vape 510 Cartridge | Zen Sauce",
+      "local": "data\\scraped\\images\\shoppuff-com__platinum-vape-510-cartridge-zen-sauce__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/platinum-vape-510-cartridge-zen-sauce-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.610Z"
+}

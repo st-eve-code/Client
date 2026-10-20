@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-blunts-blueberry-pie-blunt-1-5g",
+  "name": "Blueberry Pie Blunt - 1.5g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.5,
+  "price_max": 8.5,
+  "currency": "USD",
+  "price_range": "$8.50",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Enjoy the perfect fusion of sweet vanilla and tart blueberry with Swisher Blunts Blueberry Pie.",
+  "description_html": "Enjoy the perfect fusion of sweet vanilla and tart blueberry with Swisher Blunts Blueberry Pie.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02672f601bec58ef0c42308c4779d0c8",
+      "alt": "Blueberry Pie Blunt - 1.5g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-blunts-blueberry-pie-blunt-1-5g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 8.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-blunts-blueberry-pie-blunt-1-5g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.468Z"
+}

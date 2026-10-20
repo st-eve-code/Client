@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-live-rosin-kelly-kapowski",
+  "name": "Hyman Cannabis Live Rosin | Kelly Kapowski",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Indica\n\nAromas: Diesel, Coffee, Herbal\n\nFlavors: Sour, Vanilla, Sweet, Woody\n\nExperience: Sleepy, Tingly, Uplifting",
+  "description_html": "Strain Type: Indica<br /><br />Aromas: Diesel, Coffee, Herbal<br /><br />Flavors: Sour, Vanilla, Sweet, Woody<br /><br />Experience: Sleepy, Tingly, Uplifting<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/38856eccf3e517d3e1e7053544eb7279",
+      "alt": "Hyman Cannabis Live Rosin | Kelly Kapowski",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-live-rosin-kelly-kapowski__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-live-rosin-kelly-kapowski-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.583Z"
+}

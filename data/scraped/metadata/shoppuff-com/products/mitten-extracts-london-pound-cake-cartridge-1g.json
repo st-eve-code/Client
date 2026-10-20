@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-london-pound-cake-cartridge-1g",
+  "name": "London Pound Cake Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "London Pound Cake offers a loud berry and grape flavor that’s backed by sharp lemon and citrus overtones.\n\nFlavors:\nLemon\nCitrus\nBerry",
+  "description_html": "London Pound Cake offers a loud berry and grape flavor that’s backed by sharp lemon and citrus overtones.<br /><br />Flavors:<br />Lemon<br />Citrus<br />Berry",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bb964ba02f62cc32320fcb1df0635246",
+      "alt": "London Pound Cake Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-london-pound-cake-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-london-pound-cake-cartridge-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.569Z"
+}

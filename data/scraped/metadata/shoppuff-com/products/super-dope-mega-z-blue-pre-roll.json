@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-mega-z-blue-pre-roll",
+  "name": "Super Dope Pre-roll | Mega Z Blue",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "What was once original is now Mega. Introducing Mega Z Blue by Super Dope. A mix of lemon, lime, and crushed up Skittlez grown to perfection after 12 months of development.",
+  "description_html": "What was once original is now Mega. Introducing Mega Z Blue by Super Dope. A mix of lemon, lime, and crushed up Skittlez grown to perfection after 12 months of development.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1814eb4d48e1972bd786b74d3cf24a09",
+      "alt": "Super Dope Pre-roll | Mega Z Blue",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-mega-z-blue-pre-roll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-mega-z-blue-pre-roll-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.791Z"
+}

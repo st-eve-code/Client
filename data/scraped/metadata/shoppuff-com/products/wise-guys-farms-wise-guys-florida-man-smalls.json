@@ -1,0 +1,45 @@
+{
+  "slug": "wise-guys-farms-wise-guys-florida-man-smalls",
+  "name": "Wise Guys | Florida Man (Smalls)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 70,
+  "currency": "USD",
+  "price_range": "$20.00 – $70.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: Zkittlez x Sherbanger\n\nFlavor: Lemon gas with a sharp finish\n\nType/Leaning: Indica\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Zkittlez x Sherbanger<br /><br />Flavor: Lemon gas with a sharp finish<br /><br />Type/Leaning: Indica<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0ed022fde626471ba86330cd8088415",
+      "alt": "Wise Guys | Florida Man (Smalls)",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-farms-wise-guys-florida-man-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 70,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-farms-wise-guys-florida-man-smalls-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.743Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-hytek-1g-pre-roll-lantz",
+  "name": "Hytek | 1g Pre-Roll | Lantz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Its like getting a Lime Sherbet Float at your grade school birthday party. The Lantz gives off a tart lime flavor but also nice and creamy. Its a great mix and balance of flavors!! \n\nCategory: Hybrid\n\nBreeder: Ridgeline Farms\n\nCross: Ridgeline Runtz x Green Lantern",
+  "description_html": "Its like getting a Lime Sherbet Float at your grade school birthday party. The Lantz gives off a tart lime flavor but also nice and creamy. Its a great mix and balance of flavors!!  <br /><br />Category: Hybrid<br /><br />Breeder: Ridgeline Farms<br /><br />Cross: Ridgeline Runtz x Green Lantern",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5fa29df97a882ef6e7468a4988cafbd8",
+      "alt": "Hytek | 1g Pre-Roll | Lantz",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-1g-pre-roll-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-1g-pre-roll-lantz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.871Z"
+}

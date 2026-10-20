@@ -1,0 +1,35 @@
+{
+  "slug": "party-favors-50fifty-diamond-infused-preroll-orange-soda",
+  "name": "Party Favors 50Fifty Diamond-Infused Preroll | Orange Soda",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Party Favors",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/06975b77ae367c901631b1efbe7c0955",
+      "alt": "Party Favors 50Fifty Diamond-Infused Preroll | Orange Soda",
+      "local": "data\\scraped\\images\\shoppuff-com__party-favors-50fifty-diamond-infused-preroll-orange-soda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/party-favors-50fifty-diamond-infused-preroll-orange-soda-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.652Z"
+}

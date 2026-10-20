@@ -1,0 +1,35 @@
+{
+  "slug": "rove-rove-diamond-series-battery-orange",
+  "name": "ROVE | Diamond Series Battery | Orange",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "ROVE | Diamond Series Battery | Orange",
+  "description_html": "ROVE | Diamond Series Battery | Orange<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dd5e9db36ad24265174a2c7f49af966c",
+      "alt": "ROVE | Diamond Series Battery | Orange",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-rove-diamond-series-battery-orange__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-rove-diamond-series-battery-orange-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.921Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "suno-300mg-tablets-cbd-tablets",
+  "name": "SUNO | 300mg Tablets | CBD Tablets",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "SUNO",
+  "tags": [],
+  "description": "RISE CBD Tablets. 10 mg each. 30 tablets/bottle. \n\nRISE CBD tablets are non-psychoactive and designed to provide a feeling of relaxation, improved mood, and diminished anxiety. \n\nHealth benefits include: \n\nSleep Aide Anti-Anxiety Pain Relief Seizure Control Anti-Inflammatory\n\nRISE remains focused on making a positive impact in the lives of people through continuous research efforts, the development of innovative medicines, and characterization of disease specific cannabis-based treatment plans. We are committed to being the leader in medicinal cannabis, and are dedicated to shaping the future of the industry by providing clinically relevant alternative wellness options.",
+  "description_html": "RISE CBD Tablets. 10 mg each. 30 tablets/bottle. <br /><br />RISE CBD tablets are non-psychoactive and designed to provide a feeling of relaxation, improved mood, and diminished anxiety. <br /><br />Health benefits include: <br /><br />Sleep Aide Anti-Anxiety Pain Relief Seizure Control Anti-Inflammatory<br /><br /><br /><br />RISE remains focused on making a positive impact in the lives of people through continuous research efforts, the development of innovative medicines, and characterization of disease specific cannabis-based treatment plans. We are committed to being the leader in medicinal cannabis, and are dedicated to shaping the future of the industry by providing clinically relevant alternative wellness options.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/43c2aee89151b7d55247ebcc116c0490",
+      "alt": "SUNO | 300mg Tablets | CBD Tablets",
+      "local": "data\\scraped\\images\\shoppuff-com__suno-300mg-tablets-cbd-tablets__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.125g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ORAL"
+  ],
+  "source_url": "https://www.shoppuff.com/products/suno-300mg-tablets-cbd-tablets-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.584Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "pharmacann-pharmacann-detroit-runtz",
+  "name": "PharmaCann | Detroit Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 122.5,
+  "currency": "USD",
+  "price_range": "$7.00 – $122.50",
+  "available": true,
+  "vendor": "PharmaCann",
+  "tags": [],
+  "description": "You'll feel an instant sense of happiness wash over you as soon as you exhale, leaving your brain no room for negative moods or racing thoughts. You'll find that you're more sociable and charismatic in this state, happily chatting with those around you. A light physical tingle comes next, slowly working its way into your physical form and leaving you feeling stimulated and pretty kicked back. These effects make Donny Burger perfect for treating inflammation, chronic pain, insomnia, depression and chronic stress.",
+  "description_html": "You'll feel an instant sense of happiness wash over you as soon as you exhale, leaving your brain no room for negative moods or racing thoughts. You'll find that you're more sociable and charismatic in this state, happily chatting with those around you. A light physical tingle comes next, slowly working its way into your physical form and leaving you feeling stimulated and pretty kicked back. These effects make Donny Burger perfect for treating inflammation, chronic pain, insomnia, depression and chronic stress.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c261348a3f8ad352d6bab07f4df407be",
+      "alt": "PharmaCann | Detroit Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__pharmacann-pharmacann-detroit-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 122.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 63,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pharmacann-pharmacann-detroit-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.787Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "guerilla-grown-guerilla-grown-apple-fritter",
+  "name": "Guerilla Grown | Apple Fritter",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 49.5,
+  "currency": "USD",
+  "price_range": "$3.00 – $49.50",
+  "available": true,
+  "vendor": "Guerilla Grown",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/042c5ce826b4f2f486fa6c10ccc4cfce",
+      "alt": "Guerilla Grown | Apple Fritter",
+      "local": "data\\scraped\\images\\shoppuff-com__guerilla-grown-guerilla-grown-apple-fritter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 7.5,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 49.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 27.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guerilla-grown-guerilla-grown-apple-fritter-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.111Z"
+}

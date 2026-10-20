@@ -1,0 +1,50 @@
+{
+  "slug": "hytek-hytek-lantz",
+  "name": "Hytek | Lantz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 16,
+  "price_max": 88,
+  "currency": "USD",
+  "price_range": "$16.00 – $88.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Its like getting a Lime Sherbet Float back in grade school. The Lantz gives off a tart lime flavor but also nice and creamy. Its a great mix and balance of flavors!! \n\nCross: Ridgeline Runtz x Green Lantern",
+  "description_html": "Its like getting a Lime Sherbet Float back in grade school. The Lantz gives off a tart lime flavor but also nice and creamy. Its a great mix and balance of flavors!!  <br /><br />Cross: Ridgeline Runtz x Green Lantern",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/40a7a637ed631aa45d134d25e4470248",
+      "alt": "Hytek | Lantz",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 48,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 88,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-lantz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.765Z"
+}

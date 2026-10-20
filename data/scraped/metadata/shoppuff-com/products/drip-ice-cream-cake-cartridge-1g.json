@@ -1,0 +1,35 @@
+{
+  "slug": "drip-ice-cream-cake-cartridge-1g",
+  "name": "Ice Cream Cake Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6.25,
+  "price_max": 6.25,
+  "currency": "USD",
+  "price_range": "$6.25",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Ice Cream Cake serves up a silky, dessert-forward vape with a soft body feel to match. Expect sweet, creamy clouds that wind down your mood and mellow out the moment.",
+  "description_html": "Ice Cream Cake serves up a silky, dessert-forward vape with a soft body feel to match. Expect sweet, creamy clouds that wind down your mood and mellow out the moment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/74451db581076d7185df12aeaae58f9c",
+      "alt": "Ice Cream Cake Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-ice-cream-cake-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-ice-cream-cake-cartridge-1g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.247Z"
+}

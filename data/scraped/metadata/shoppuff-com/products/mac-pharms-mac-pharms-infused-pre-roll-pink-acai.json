@@ -1,0 +1,35 @@
+{
+  "slug": "mac-pharms-mac-pharms-infused-pre-roll-pink-acai",
+  "name": "Mac Pharms Infused Pre-roll | Pink Acai",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mac Pharms",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e086f6c0c4254fec83bbb07146e2b5e7",
+      "alt": "Mac Pharms Infused Pre-roll | Pink Acai",
+      "local": "data\\scraped\\images\\shoppuff-com__mac-pharms-mac-pharms-infused-pre-roll-pink-acai__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mac-pharms-mac-pharms-infused-pre-roll-pink-acai-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.414Z"
+}

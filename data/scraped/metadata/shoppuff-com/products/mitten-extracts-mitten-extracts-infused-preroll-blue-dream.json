@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-infused-preroll-blue-dream",
+  "name": "Mitten Extracts Infused Preroll | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "1.25g Infused Preroll\n\nWith a sweet berry aroma and hints of herbal undertones, this legendary sativa delivers uplifting, euphoric effects. It perfectly blends relaxation and creativity, making it an ideal choice for enhancing any experience.",
+  "description_html": "1.25g Infused Preroll<br /><br />With a sweet berry aroma and hints of herbal undertones, this legendary sativa delivers uplifting, euphoric effects. It perfectly blends relaxation and creativity, making it an ideal choice for enhancing any experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4a605cec56b3b2f69cdfc32a8e555859",
+      "alt": "Mitten Extracts Infused Preroll | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-infused-preroll-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-infused-preroll-blue-dream-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.428Z"
+}

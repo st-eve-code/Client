@@ -1,0 +1,40 @@
+{
+  "slug": "wise-guys-wise-guys-papaya-punch",
+  "name": "Wise Guys | Papaya Punch",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$20.00 – $40.00",
+  "available": true,
+  "vendor": "Wise Guys",
+  "tags": [],
+  "description": "Cross/Lineage: Papaya x Purple Punch\n\nFlavor: Rotten papaya and Jack terps\n\nType/Leaning: Sativa-leaning\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Papaya x Purple Punch<br /><br />Flavor: Rotten papaya and Jack terps<br /><br />Type/Leaning: Sativa-leaning<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ccf917236e7efe9831ee06439f0fb06f",
+      "alt": "Wise Guys | Papaya Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-wise-guys-papaya-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-wise-guys-papaya-punch-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.586Z"
+}

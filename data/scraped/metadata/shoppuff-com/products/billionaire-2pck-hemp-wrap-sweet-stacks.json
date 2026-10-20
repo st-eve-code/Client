@@ -1,0 +1,35 @@
+{
+  "slug": "billionaire-2pck-hemp-wrap-sweet-stacks",
+  "name": "Billionaire | 2pck Hemp Wrap | Sweet Stacks",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/accessories.jpg",
+      "alt": "Billionaire | 2pck Hemp Wrap | Sweet Stacks",
+      "local": "data\\scraped\\images\\shoppuff-com__billionaire-2pck-hemp-wrap-sweet-stacks__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/billionaire-2pck-hemp-wrap-sweet-stacks-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.532Z"
+}

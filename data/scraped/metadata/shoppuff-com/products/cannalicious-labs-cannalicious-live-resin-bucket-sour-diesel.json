@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-live-resin-bucket-sour-diesel",
+  "name": "Cannalicious Live Resin Bucket | Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 42,
+  "price_max": 42,
+  "currency": "USD",
+  "price_range": "$42.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Live Resin is created from flower that has been flash frozen at the time of harvest to preserve all the trichomes, which produce the terpenes and cannabinoids that give the flower it’s rich flavor and complex aroma. The special “baller” jar gives you a full 7 grams of product and the activation time is immediate.",
+  "description_html": "Live Resin is created from flower that has been flash frozen at the time of harvest to preserve all the trichomes, which produce the terpenes and cannabinoids that give the flower it’s rich flavor and complex aroma. The special “baller” jar gives you a full 7 grams of product and the activation time is immediate.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/40af379d9a45caf5eb49d13ec3e71b29",
+      "alt": "Cannalicious Live Resin Bucket | Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-live-resin-bucket-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 42,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-live-resin-bucket-sour-diesel-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.484Z"
+}

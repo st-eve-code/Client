@@ -1,0 +1,35 @@
+{
+  "slug": "loco-loco-x-3-infused-prerolls-berry-gelato",
+  "name": "Loco x 3 Infused Prerolls | Berry Gelato",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "LOCO",
+  "tags": [],
+  "description": "Peaches is an indica strain created by crossing tasty Marionberry X Eddy OG. It has a super sweet and slightly sour peachy flavor in each and every toke. The aroma is similar, but with a hint of floral spice. Peaches brings on a super relaxing high that’s ideal for a night when you want to get to sleep but need to kick back and chill beforehand. With these effects, Peaches has been said to treat insomnia, muscle spasms or cramps, appetite loss or nausea, chronic pain and muscle spasms or cramps.",
+  "description_html": "Peaches is an indica strain created by crossing tasty Marionberry X Eddy OG. It has a super sweet and slightly sour peachy flavor in each and every toke. The aroma is similar, but with a hint of floral spice. Peaches brings on a super relaxing high that’s ideal for a night when you want to get to sleep but need to kick back and chill beforehand. With these effects, Peaches has been said to treat insomnia, muscle spasms or cramps, appetite loss or nausea, chronic pain and muscle spasms or cramps.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fb1d9da4eebdf2b3224d931c32cc20ba",
+      "alt": "Loco x 3 Infused Prerolls | Berry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__loco-loco-x-3-infused-prerolls-berry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loco-loco-x-3-infused-prerolls-berry-gelato-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.894Z"
+}

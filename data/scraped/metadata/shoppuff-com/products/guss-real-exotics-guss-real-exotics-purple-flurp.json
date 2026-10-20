@@ -1,0 +1,50 @@
+{
+  "slug": "guss-real-exotics-guss-real-exotics-purple-flurp",
+  "name": "Gus's Real Exotics | Purple Flurp",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$10.00 – $55.00",
+  "available": true,
+  "vendor": "Gus's Real Exotics",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2677e4fa3f3de0a3b11082ef5b88454b",
+      "alt": "Gus's Real Exotics | Purple Flurp",
+      "local": "data\\scraped\\images\\shoppuff-com__guss-real-exotics-guss-real-exotics-purple-flurp__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guss-real-exotics-guss-real-exotics-purple-flurp-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.409Z"
+}

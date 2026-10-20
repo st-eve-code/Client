@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-infused-preroll-peach-cobbler",
+  "name": "Mitten Extracts Infused Preroll | Peach Cobbler",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "1.25g Infused Preroll\n\nSweet peach flavors paired with a fresh-baked pastry aroma, this indica-dominant hybrid delights the senses while promoting a calming mental state. Perfect for unwinding, it offers a soothing and relaxing experience.",
+  "description_html": "1.25g Infused Preroll<br /><br />Sweet peach flavors paired with a fresh-baked pastry aroma, this indica-dominant hybrid delights the senses while promoting a calming mental state. Perfect for unwinding, it offers a soothing and relaxing experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/847736931605c469b8c39a70144d8e34",
+      "alt": "Mitten Extracts Infused Preroll | Peach Cobbler",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-infused-preroll-peach-cobbler__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-infused-preroll-peach-cobbler-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.420Z"
+}

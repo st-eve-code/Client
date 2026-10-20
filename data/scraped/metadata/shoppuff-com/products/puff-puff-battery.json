@@ -1,0 +1,35 @@
+{
+  "slug": "puff-puff-battery",
+  "name": "Puff | Battery",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "PUFF Pre-Rolls",
+  "tags": [],
+  "description": "Rechargeable, quick and easy to use and small enough to fit easily in your pocket. 510 thread cart size",
+  "description_html": "Rechargeable, quick and easy to use and small enough to fit easily in your pocket. 510 thread cart size<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7e8c3d1db2e45f42c5ba82b406d360fb",
+      "alt": "Puff | Battery",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-puff-battery__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-puff-battery-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.208Z"
+}

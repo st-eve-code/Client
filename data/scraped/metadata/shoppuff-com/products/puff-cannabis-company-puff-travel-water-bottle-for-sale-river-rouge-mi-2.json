@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-travel-water-bottle-for-sale-river-rouge-mi-2",
+  "name": "PUFF | Travel Water Bottle",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0624c367f87ec4a2d44858ed541dcde0",
+      "alt": "PUFF | Travel Water Bottle",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-travel-water-bottle-for-sale-river-rouge-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-travel-water-bottle-for-sale-river-rouge-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.703Z"
+}

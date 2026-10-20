@@ -1,0 +1,60 @@
+{
+  "slug": "grasshopper-farms-grasshopper-farms-van-helsing",
+  "name": "Grasshopper Farms | Van Helsing",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 49,
+  "currency": "USD",
+  "price_range": "$4.00 – $49.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Dense, olive-hued buds boast dark purple undertones drenched in trichomes. This indica-dominant hybrid creates a smoke that floats over the palate like a cloud through dark skies. The floral, nutty, and subtly sweet flavors aren’t easy on the lungs, but they clear the mind and calm the body. Anxiety and depression will dissipate as your mind and body feel uplifted and refreshed. Great for any occasion, but ideal for conquering the night!",
+  "description_html": "Dense, olive-hued buds boast dark purple undertones drenched in trichomes. This indica-dominant hybrid creates a smoke that floats over the palate like a cloud through dark skies. The floral, nutty, and subtly sweet flavors aren’t easy on the lungs, but they clear the mind and calm the body. Anxiety and depression will dissipate as your mind and body feel uplifted and refreshed. Great for any occasion, but ideal for conquering the night!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0421a69d376f6d84e8b7102ee09d4561",
+      "alt": "Grasshopper Farms | Van Helsing",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-grasshopper-farms-van-helsing__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 49,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-grasshopper-farms-van-helsing-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.587Z"
+}

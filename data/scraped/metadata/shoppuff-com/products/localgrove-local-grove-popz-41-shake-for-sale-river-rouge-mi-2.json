@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-popz-41-shake-for-sale-river-rouge-mi-2",
+  "name": "Local Grove | Popz 41 Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20.3,
+  "price_max": 20.3,
+  "currency": "USD",
+  "price_range": "$20.30",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f1d9c70bf7e961cccd1cc6b0a096cbcb",
+      "alt": "Local Grove | Popz 41 Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-popz-41-shake-for-sale-river-rouge-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 20.3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-popz-41-shake-for-sale-river-rouge-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.694Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "a1za-a1za-prepackaged-flower-candy-cartel",
+  "name": "A1ZA Prepackaged Flower | Candy Cartel",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 100,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$100.00",
+  "available": true,
+  "vendor": "A1ZA",
+  "tags": [],
+  "description": "SHERB CREAM PIE X BISCOTTI\nDried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "SHERB CREAM PIE X BISCOTTI<br />Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e59bd6c6f71e676dc5769f52b144634d",
+      "alt": "A1ZA Prepackaged Flower | Candy Cartel",
+      "local": "data\\scraped\\images\\shoppuff-com__a1za-a1za-prepackaged-flower-candy-cartel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 100,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/a1za-a1za-prepackaged-flower-candy-cartel-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.358Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-200mg-gummies-mango",
+  "name": "Mitten Extracts | 200mg Gummies | Mango",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Lush and tropical, Mango brings a wave of sweet, golden flavor with every chew. Smooth, juicy, and sunshine-packed, it’s a taste of paradise.",
+  "description_html": "Lush and tropical, Mango brings a wave of sweet, golden flavor with every chew. Smooth, juicy, and sunshine-packed, it’s a taste of paradise.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fa1419a1585916b57b4dc53d71b659db",
+      "alt": "Mitten Extracts | 200mg Gummies | Mango",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-200mg-gummies-mango__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-200mg-gummies-mango-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.035Z"
+}

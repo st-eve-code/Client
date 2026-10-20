@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-lighters-for-sale-sturgis-mi-3",
+  "name": "Puff | Lighters",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Rolling papers are sheets of thin paper that are used to create cones or pre-rolls, also known as joints.",
+  "description_html": "Rolling papers are sheets of thin paper that are used to create cones or pre-rolls, also known as joints.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0aaabcd526a82e727929b8f5850460f2",
+      "alt": "Puff | Lighters",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-lighters-for-sale-sturgis-mi-3__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-lighters-for-sale-sturgis-mi-3/",
+  "scraped_at": "2026-10-10T22:31:21.014Z"
+}

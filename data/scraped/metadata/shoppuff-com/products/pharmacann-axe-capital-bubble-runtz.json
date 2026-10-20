@@ -1,0 +1,60 @@
+{
+  "slug": "pharmacann-axe-capital-bubble-runtz",
+  "name": "Axe Capital | Bubble Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$10.00 – $175.00",
+  "available": true,
+  "vendor": "PharmaCann",
+  "tags": [],
+  "description": "Bubble Runtz is an indica dominant hybrid strain (70% indica/30% sativa) created through crossing the delicious Bubblegum X Runtz strains. The Bubble Runtz high will sneak up on you a bit later, creeping into your mind first before taking on the rest of your body. You'll feel tingly and stimulated with a giddy euphoria that wraps itself around your entire being with a blanket of happy warmth. A physical relaxation accompanies this heady high, helping to keep your body in a state of calm without affecting your mental state too much. With these effects and its high 20-22% average THC level, Bubble Runtz is often said to be perfect for treating chronic stress, depression or mood swings, appetite loss or nausea and Alzheimer's Disease.",
+  "description_html": "Bubble Runtz is an indica dominant hybrid strain (70% indica/30% sativa) created through crossing the delicious Bubblegum X Runtz strains. The Bubble Runtz high will sneak up on you a bit later, creeping into your mind first before taking on the rest of your body. You'll feel tingly and stimulated with a giddy euphoria that wraps itself around your entire being with a blanket of happy warmth. A physical relaxation accompanies this heady high, helping to keep your body in a state of calm without affecting your mental state too much. With these effects and its high 20-22% average THC level, Bubble Runtz is often said to be perfect for treating chronic stress, depression or mood swings, appetite loss or nausea and Alzheimer's Disease.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ab45c5e9654ab6d1a959b82f898a8df9",
+      "alt": "Axe Capital | Bubble Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__pharmacann-axe-capital-bubble-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pharmacann-axe-capital-bubble-runtz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.766Z"
+}

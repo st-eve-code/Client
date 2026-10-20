@@ -1,0 +1,35 @@
+{
+  "slug": "mkx-x-5-liquid-diamond-infused-prerolls-apple-fritter",
+  "name": "MKX x 5 Liquid Diamond Infused Prerolls | Apple Fritter",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/06ddfd7171b3502c6e2732463357d9fb",
+      "alt": "MKX x 5 Liquid Diamond Infused Prerolls | Apple Fritter",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-x-5-liquid-diamond-infused-prerolls-apple-fritter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-x-5-liquid-diamond-infused-prerolls-apple-fritter-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.914Z"
+}

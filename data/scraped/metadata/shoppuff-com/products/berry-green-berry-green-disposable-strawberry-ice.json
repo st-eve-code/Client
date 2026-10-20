@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-disposable-strawberry-ice",
+  "name": "Berry Green Disposable | Strawberry Ice",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9f47fce9aa0359b231195e77bb38f06f",
+      "alt": "Berry Green Disposable | Strawberry Ice",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-disposable-strawberry-ice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-disposable-strawberry-ice-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.227Z"
+}

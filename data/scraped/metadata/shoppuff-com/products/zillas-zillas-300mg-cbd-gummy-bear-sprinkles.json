@@ -1,0 +1,35 @@
+{
+  "slug": "zillas-zillas-300mg-cbd-gummy-bear-sprinkles",
+  "name": "Zilla's | 300mg CBD | Gummy Bear Sprinkles",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Zilla's",
+  "tags": [],
+  "description": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "description_html": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d3dc97d97a73f84bb2feb1247e9a0018",
+      "alt": "Zilla's | 300mg CBD | Gummy Bear Sprinkles",
+      "local": "data\\scraped\\images\\shoppuff-com__zillas-zillas-300mg-cbd-gummy-bear-sprinkles__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".3g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zillas-zillas-300mg-cbd-gummy-bear-sprinkles-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.181Z"
+}

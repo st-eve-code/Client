@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-premium-preroll-glow-pop",
+  "name": "Local Grove Premium Preroll | Glow Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Permanent Marker x Runtz \n\nBreeder: Local Grove \n\nAroma & Flavor: Candy, sherb, and marker taste with smooth transitions \n\nEffects: Hybrid – exceptional balance of flavor and potency",
+  "description_html": "Genetics: Permanent Marker x Runtz <br /><br />Breeder: Local Grove <br /><br />Aroma & Flavor: Candy, sherb, and marker taste with smooth transitions <br /><br />Effects: Hybrid – exceptional balance of flavor and potency",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/662f9dc32cb966aac0e07477c53b7bd5",
+      "alt": "Local Grove Premium Preroll | Glow Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-premium-preroll-glow-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-premium-preroll-glow-pop-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.523Z"
+}

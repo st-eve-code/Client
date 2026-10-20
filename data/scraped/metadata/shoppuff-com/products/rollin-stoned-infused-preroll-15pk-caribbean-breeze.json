@@ -1,0 +1,35 @@
+{
+  "slug": "rollin-stoned-infused-preroll-15pk-caribbean-breeze",
+  "name": "Rollin Stoned Infused Preroll 15pk | Caribbean Breeze",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Rollin Stoned",
+  "tags": [],
+  "description": "15pk 1g Pre-Rolls.",
+  "description_html": "15pk 1g Pre-Rolls.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c5a1953c44f4929f270911313f27908e",
+      "alt": "Rollin Stoned Infused Preroll 15pk | Caribbean Breeze",
+      "local": "data\\scraped\\images\\shoppuff-com__rollin-stoned-infused-preroll-15pk-caribbean-breeze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rollin-stoned-infused-preroll-15pk-caribbean-breeze-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.595Z"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "highly-functional-bundle",
+  "name": "Highly FUNctional Bundle",
+  "site": "ochoextracts-com",
+  "category": "bundles-kits",
+  "price_min": 74.99,
+  "price_max": 74.99,
+  "currency": "GBP",
+  "price_range": "£74.99",
+  "available": true,
+  "sku": "86bb699b-c045-4ea1-846e-472cf908d0d3",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "bundle",
+    "Bundles",
+    "JoeyPac"
+  ],
+  "description": "Life doesn't stop moving and neither do you. The Highly FUNctional Bundle is for the person who stays elevated and still gets things done:\n\n• A JoeyPac 2L Fanny Pack (Crossbody/Sling bag) keeps your hands free and your essentials exactly where you need them.\n\n• A jar of Double-Stacked BITEZ Gummies — 10,000mg of Delta-8, Delta-9, and THCP — keeps the vibes dialed in.\n\n• A Flwr Bar 3G Nano THCA disposable keeps the session going wherever the day takes you.\n\nErrands, adventures, concerts, hikes, or just a really good Saturday. Highly FUNctional people do it all. They just do it better with the right bag and the right buzz.\n\nPick your colorway, your flavor, and your strain. Go be FUNctional.",
+  "description_html": "<p>Life doesn't stop moving and neither do you. The <strong><em>High</em>ly FUNctional Bundle</strong> is for the person who stays elevated and still gets things done:</p>\n<ol>\n<li>A <strong>JoeyPac 2L Fanny Pack (Crossbody/Sling bag) </strong>keeps your hands free and your essentials exactly where you need them.</li>\n<li>A jar of <strong>Double-Stacked BITEZ Gummies</strong> — 10,000mg of Delta-8, Delta-9, and THCP — keeps the vibes dialed in.</li>\n<li>A <strong>Flwr Bar 3G Nano THCA disposable</strong> keeps the session going wherever the day takes you.</li>\n</ol>\n<p>Errands, adventures, concerts, hikes, or just a really good Saturday. Highly FUNctional people do it all. They just do it better with the right bag and the right buzz.</p>\n<p>Pick your colorway, your flavor, and your strain. Go be FUNctional.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Highly_FUNctional_Bundle2.png?v=1782890223",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__highly-functional-bundle__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Highly_FUNctional_Bundle6.png?v=1782890522",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__highly-functional-bundle__001.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/temp_vwuWdzB.png?v=1782747798",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__highly-functional-bundle__002.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46062473248954,
+      "title": "Default Title",
+      "price": 74.99,
+      "sku": "86bb699b-c045-4ea1-846e-472cf908d0d3",
+      "available": true
+    }
+  ],
+  "collections": [
+    "bundles-kits",
+    "the-joeypac-collection"
+  ],
+  "source_url": "https://ochoextracts.com/products/highly-functional-bundle",
+  "scraped_at": "2026-10-10T21:42:35.876Z"
+}

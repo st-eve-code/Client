@@ -1,0 +1,35 @@
+{
+  "slug": "keef-keef-100mg-soda-purple-passion-xtreme",
+  "name": "Keef | 100mg Soda | Purple Passion Xtreme",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Keef",
+  "tags": [],
+  "description": "Purple Passion Amazing grape flavor with the perfect amount of sweetness and fizz. A truly refreshing and handcrafted cannabis-infused soda. All Classic Sodas are caffeine free. Infused with rotating Hybrid strains.",
+  "description_html": "Purple Passion Amazing grape flavor with the perfect amount of sweetness and fizz. A truly refreshing and handcrafted cannabis-infused soda. All Classic Sodas are caffeine free. Infused with rotating Hybrid strains.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/915d9a5050fde1a4b8dfabd6587e05eb",
+      "alt": "Keef | 100mg Soda | Purple Passion Xtreme",
+      "local": "data\\scraped\\images\\shoppuff-com__keef-keef-100mg-soda-purple-passion-xtreme__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/keef-keef-100mg-soda-purple-passion-xtreme-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.114Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-pre-roll-28pk-sherb",
+  "name": "Top Smoke Pre-Roll 28pk | Sherb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Guava is an indica dominant hybrid strain made by crossing Stardawg x Afghani indica. 28 one gram pre-rolls.",
+  "description_html": "Guava is an indica dominant hybrid strain made by crossing Stardawg x Afghani indica. 28 one gram pre-rolls.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f964a8bb48f79a0c5637ca7f08101846",
+      "alt": "Top Smoke Pre-Roll 28pk | Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-pre-roll-28pk-sherb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-pre-roll-28pk-sherb-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.427Z"
+}

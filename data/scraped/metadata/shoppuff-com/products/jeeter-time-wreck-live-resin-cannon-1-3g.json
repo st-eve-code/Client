@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-time-wreck-live-resin-cannon-1-3g",
+  "name": "Time Wreck Live Resin Cannon | 1.3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 18.75,
+  "price_max": 18.75,
+  "currency": "USD",
+  "price_range": "$18.75",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Jeeter 1.3g infused cannon\nSativa strain - Time Wreck",
+  "description_html": "Jeeter 1.3g infused cannon<br />Sativa strain - Time Wreck<br />                                                  <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9d3c0f97b82058b269deae7af7f1f90c",
+      "alt": "Time Wreck Live Resin Cannon | 1.3g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-time-wreck-live-resin-cannon-1-3g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 18.75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-time-wreck-live-resin-cannon-1-3g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.893Z"
+}

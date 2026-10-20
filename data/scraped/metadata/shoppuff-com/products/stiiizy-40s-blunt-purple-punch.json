@@ -1,0 +1,40 @@
+{
+  "slug": "stiiizy-40s-blunt-purple-punch",
+  "name": "Stiiizy | 40's Blunt | Purple Punch",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 14,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$14.00 – $25.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/920fef8e244e8edbae6307df56bdf692",
+      "alt": "Stiiizy | 40's Blunt | Purple Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-blunt-purple-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-blunt-purple-punch-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.772Z"
+}

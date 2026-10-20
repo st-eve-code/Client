@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-prepackaged-flower-tmz-16-for-sale-new-buffalo-mi-2",
+  "name": "710 Labs Prepackaged Flower | TMZ #16",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 220,
+  "price_max": 220,
+  "currency": "USD",
+  "price_range": "$220.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "710 Labs Prepackaged Flower | TMZ #16",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-prepackaged-flower-tmz-16-for-sale-new-buffalo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 220,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-prepackaged-flower-tmz-16-for-sale-new-buffalo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.900Z"
+}

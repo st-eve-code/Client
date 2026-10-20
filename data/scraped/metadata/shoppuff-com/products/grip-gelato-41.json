@@ -1,0 +1,35 @@
+{
+  "slug": "grip-gelato-41",
+  "name": "Grip | Gelato 41",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 19,
+  "price_max": 19,
+  "currency": "USD",
+  "price_range": "$19.00",
+  "available": true,
+  "vendor": "Grip",
+  "tags": [],
+  "description": "Gelato 41 is made from Thin Mint GSC x Sunset Sherbet. It delivers a creamy, fruity flavor with notes of citrus and pine. The high is blissful and creative, lifting the mood while grounding the body in calm. Ideal for stress, mood swings, ADHD, appetite loss, and headaches.",
+  "description_html": "Gelato 41 is made from Thin Mint GSC x Sunset Sherbet. It delivers a creamy, fruity flavor with notes of citrus and pine. The high is blissful and creative, lifting the mood while grounding the body in calm. Ideal for stress, mood swings, ADHD, appetite loss, and headaches.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/058e106c2679c061a17a79b020d8d782",
+      "alt": "Grip | Gelato 41",
+      "local": "data\\scraped\\images\\shoppuff-com__grip-gelato-41__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 19,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grip-gelato-41-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.496Z"
+}

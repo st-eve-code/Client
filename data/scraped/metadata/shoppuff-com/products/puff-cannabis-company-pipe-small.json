@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-pipe-small",
+  "name": "Pipe | Small",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Lots of assorted colors and styles. We have glass and silicone options. Please stop in store to check out all available pipes!",
+  "description_html": "Lots of assorted colors and styles. We have glass and silicone options. Please stop in store to check out all available pipes! <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4aa350eaa7832710b916ec9489d7c8f9",
+      "alt": "Pipe | Small",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-pipe-small__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-pipe-small-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.922Z"
+}

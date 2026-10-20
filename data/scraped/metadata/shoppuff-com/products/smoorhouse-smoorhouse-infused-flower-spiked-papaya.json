@@ -1,0 +1,35 @@
+{
+  "slug": "smoorhouse-smoorhouse-infused-flower-spiked-papaya",
+  "name": "SmoorHouse Infused Flower | Spiked Papaya",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/74fa9e3681bd64cd02166ecb5d303fde",
+      "alt": "SmoorHouse Infused Flower | Spiked Papaya",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-smoorhouse-infused-flower-spiked-papaya__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-smoorhouse-infused-flower-spiked-papaya-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.067Z"
+}

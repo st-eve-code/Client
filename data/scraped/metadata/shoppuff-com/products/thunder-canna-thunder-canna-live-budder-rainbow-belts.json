@@ -1,0 +1,35 @@
+{
+  "slug": "thunder-canna-thunder-canna-live-budder-rainbow-belts",
+  "name": "Thunder Canna Live Budder | Rainbow Belts",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Thunder Canna",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Thunder Canna Live Budder | Rainbow Belts",
+      "local": "data\\scraped\\images\\shoppuff-com__thunder-canna-thunder-canna-live-budder-rainbow-belts__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/thunder-canna-thunder-canna-live-budder-rainbow-belts-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.374Z"
+}

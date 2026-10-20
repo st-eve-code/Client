@@ -1,0 +1,35 @@
+{
+  "slug": "doobies-pre-roll-juggernaut",
+  "name": "Doobies Pre-Roll | Juggernaut",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1,
+  "price_max": 1,
+  "currency": "USD",
+  "price_range": "$1.00",
+  "available": true,
+  "vendor": "Doobies",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ee8797a13f9a589362ceb44d7bd631d7",
+      "alt": "Doobies Pre-Roll | Juggernaut",
+      "local": "data\\scraped\\images\\shoppuff-com__doobies-pre-roll-juggernaut__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doobies-pre-roll-juggernaut-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.820Z"
+}

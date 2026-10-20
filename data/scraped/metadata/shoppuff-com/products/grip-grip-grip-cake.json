@@ -1,0 +1,35 @@
+{
+  "slug": "grip-grip-grip-cake",
+  "name": "Grip | Grip Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Grip",
+  "tags": [],
+  "description": "Grip Cake delivers a rich, sweet aroma with smooth vanilla and cookie flavors, finished with a subtle spicy kick. This strain is known for its calming effects and appetite stimulation, making it a great option for those managing anxiety, depression, fibromyalgia, MS, and related conditions. A soothing experience from start to finish.\n\nWedding Cake x Bermuda Triangle",
+  "description_html": "Grip Cake delivers a rich, sweet aroma with smooth vanilla and cookie flavors, finished with a subtle spicy kick. This strain is known for its calming effects and appetite stimulation, making it a great option for those managing anxiety, depression, fibromyalgia, MS, and related conditions. A soothing experience from start to finish.<br /><br />Wedding Cake x Bermuda Triangle",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/058e106c2679c061a17a79b020d8d782",
+      "alt": "Grip | Grip Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__grip-grip-grip-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grip-grip-grip-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.496Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "old-school-hash-co-old-school-hash-co-brick-hash-chem-dawg",
+  "name": "Old School Hash Co. Brick Hash | Chem Dawg",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 85,
+  "currency": "USD",
+  "price_range": "$50.00 – $85.00",
+  "available": true,
+  "vendor": "Old School Hash Co.",
+  "tags": [],
+  "description": "Our signature Brick Hash, now available in a 2g option and packaged in a sleek, reusable tin—complete with a one hitter pipe for the perfect on-the-go experience. Each brick is pressed from top-grade, solventless sieved resin, delivering a dense, aromatic smoke and that classic, full-bodied hash high.",
+  "description_html": "Our signature Brick Hash, now available in a 2g option and packaged in a sleek, reusable tin—complete with a one hitter pipe for the perfect on-the-go experience. Each brick is pressed from top-grade, solventless sieved resin, delivering a dense, aromatic smoke and that classic, full-bodied hash high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8d66e344b04800d00f1fd9bdcac773c7",
+      "alt": "Old School Hash Co. Brick Hash | Chem Dawg",
+      "local": "data\\scraped\\images\\shoppuff-com__old-school-hash-co-old-school-hash-co-brick-hash-chem-dawg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/old-school-hash-co-old-school-hash-co-brick-hash-chem-dawg-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.829Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "pleasantrees-pleasantrees-rosin-funfetti",
+  "name": "Pleasantrees Rosin | Funfetti",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 56,
+  "price_max": 56,
+  "currency": "USD",
+  "price_range": "$56.00",
+  "available": true,
+  "vendor": "Pleasantrees",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e7d9bf22591f5088967483218d037c54",
+      "alt": "Pleasantrees Rosin | Funfetti",
+      "local": "data\\scraped\\images\\shoppuff-com__pleasantrees-pleasantrees-rosin-funfetti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 56,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pleasantrees-pleasantrees-rosin-funfetti-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.764Z"
+}

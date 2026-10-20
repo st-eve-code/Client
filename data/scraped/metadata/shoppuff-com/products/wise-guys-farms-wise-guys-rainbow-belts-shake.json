@@ -1,0 +1,40 @@
+{
+  "slug": "wise-guys-farms-wise-guys-rainbow-belts-shake",
+  "name": "Wise Guys | Rainbow Belts Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$12.00 – $20.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: Rainbowbelts #20 x Rainbowbelts F1\n\nFlavor: Funky fruit with mild gas and candy undertones, smooth finish\n\nType/Leaning: Hybrid (Indica-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Rainbowbelts #20 x Rainbowbelts F1<br /><br />Flavor: Funky fruit with mild gas and candy undertones, smooth finish<br /><br />Type/Leaning: Hybrid (Indica-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fe979afad1c91aa58564f4a8933bb365",
+      "alt": "Wise Guys | Rainbow Belts Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-farms-wise-guys-rainbow-belts-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-farms-wise-guys-rainbow-belts-shake-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.512Z"
+}

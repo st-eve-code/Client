@@ -1,0 +1,35 @@
+{
+  "slug": "gt-rolling-co-gt-rolling-co-pre-roll-crunch-berries",
+  "name": "GT Rolling Co. Pre-Roll | Crunch Berries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "GT Rolling Co.",
+  "tags": [],
+  "description": "1.5g Premium Pre-Roll",
+  "description_html": "1.5g Premium Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/60aa79864502d9372ef81faeb3356995",
+      "alt": "GT Rolling Co. Pre-Roll | Crunch Berries",
+      "local": "data\\scraped\\images\\shoppuff-com__gt-rolling-co-gt-rolling-co-pre-roll-crunch-berries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gt-rolling-co-gt-rolling-co-pre-roll-crunch-berries-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.415Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-pre-roll-28pk-og-kush",
+  "name": "Top Smoke Pre-Roll 28pk | OG Kush",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 48,
+  "price_max": 48,
+  "currency": "USD",
+  "price_range": "$48.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "OG Kush is a hybrid strain made by crossing Chemdawg x Lemon Thai x Hindu Kush. This strain will give you a head and body effect. It's often enjoyed in the back half of the day to ease stress. 28 one gram pre-rolls.",
+  "description_html": "OG Kush is a hybrid strain made by crossing Chemdawg x Lemon Thai x Hindu Kush. This strain will give you a head and body effect. It's often enjoyed in the back half of the day to ease stress. 28 one gram pre-rolls.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2d1f0807391073c92e8debf356743796",
+      "alt": "Top Smoke Pre-Roll 28pk | OG Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-pre-roll-28pk-og-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 48,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-pre-roll-28pk-og-kush-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.416Z"
+}

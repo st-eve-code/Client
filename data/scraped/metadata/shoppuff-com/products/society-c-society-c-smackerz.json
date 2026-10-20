@@ -1,0 +1,60 @@
+{
+  "slug": "society-c-society-c-smackerz",
+  "name": "Society C | Smackerz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Society C",
+  "tags": [],
+  "description": "Smackerz is an indica dominant hybrid strain (70% indica/30% sativa) created through crossing the classic Gorilla Glue #4 X Rozay strains. Smackerz packs a super delicious flavor and soothing sleepy high. Smackerz has a sweet fruity flavor that's accented by touches of spicy herbs and grassy funk. The aroma is very similar, with an earthy woody overtone accented by sweet lemongrass and spicy herbs.",
+  "description_html": "Smackerz is an indica dominant hybrid strain (70% indica/30% sativa) created through crossing the classic Gorilla Glue #4 X Rozay strains. Smackerz packs a super delicious flavor and soothing sleepy high. Smackerz has a sweet fruity flavor that's accented by touches of spicy herbs and grassy funk. The aroma is very similar, with an earthy woody overtone accented by sweet lemongrass and spicy herbs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3222455a58a92d7d641018ae97f6c751",
+      "alt": "Society C | Smackerz",
+      "local": "data\\scraped\\images\\shoppuff-com__society-c-society-c-smackerz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/society-c-society-c-smackerz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.487Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-malibu",
+  "name": "Seed Junky Pre-Roll | Malibu",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Malibu is a hybrid strain packed with sweet flavor that transitions into a complex fuel driven flavor, highlighted by hints of tropical candy. Malibu gives a balanced head and body high, leaving you slightly spaced out with a goofy grin.",
+  "description_html": "Malibu is a hybrid strain packed with sweet flavor that transitions into a complex fuel driven flavor, highlighted by hints of tropical candy. Malibu gives a balanced head and body high, leaving you slightly spaced out with a goofy grin.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0115233c348e5cff5758d67a45fe124c",
+      "alt": "Seed Junky Pre-Roll | Malibu",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-malibu__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-malibu-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.771Z"
+}

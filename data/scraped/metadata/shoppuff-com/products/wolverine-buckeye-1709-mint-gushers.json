@@ -1,0 +1,50 @@
+{
+  "slug": "wolverine-buckeye-1709-mint-gushers",
+  "name": "1709 | Mint Gushers",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "1709",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6ef34d52ef2188c87f536759fae57565",
+      "alt": "1709 | Mint Gushers",
+      "local": "data\\scraped\\images\\shoppuff-com__wolverine-buckeye-1709-mint-gushers__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wolverine-buckeye-1709-mint-gushers-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.602Z"
+}

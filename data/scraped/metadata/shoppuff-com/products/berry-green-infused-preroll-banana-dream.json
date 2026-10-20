@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-infused-preroll-banana-dream",
+  "name": "Berry Green Infused Preroll | Banana Dream",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Creamy banana haze with a high that drifts and drops you right where you want to be.\n\nEffect: Mellow euphoria that slides between focus and fade.",
+  "description_html": "Creamy banana haze with a high that drifts and drops you right where you want to be.<br /><br />Effect: Mellow euphoria that slides between focus and fade.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cf8cc4e794c7a78366fe6cab5a18ef19",
+      "alt": "Berry Green Infused Preroll | Banana Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-infused-preroll-banana-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-infused-preroll-banana-dream-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.224Z"
+}

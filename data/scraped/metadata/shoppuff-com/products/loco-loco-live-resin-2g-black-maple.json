@@ -1,0 +1,35 @@
+{
+  "slug": "loco-loco-live-resin-2g-black-maple",
+  "name": "LOCO Live Resin 2g - Black Maple",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "LOCO",
+  "tags": [],
+  "description": "LOCO provides big, bold, cannabis experiences. Spend less, get higher. Smoke deliciously with LOCO’s diverse line of concentrates. \nLOCO Live Resin focuses on providing high THC content concentrates and sources quality fresh frozen for every batch. Experience your favorite strains without breaking the bank. Now available in both 2g and 5g buckets!",
+  "description_html": "LOCO provides big, bold, cannabis experiences. Spend less, get higher. Smoke deliciously with LOCO’s diverse line of concentrates. <br />LOCO Live Resin focuses on providing high THC content concentrates and sources quality fresh frozen for every batch. Experience your favorite strains without breaking the bank. Now available in both 2g and 5g buckets!<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c2ac3063b6534f7b7f4a85a2cd203819",
+      "alt": "LOCO Live Resin 2g - Black Maple",
+      "local": "data\\scraped\\images\\shoppuff-com__loco-loco-live-resin-2g-black-maple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loco-loco-live-resin-2g-black-maple-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.881Z"
+}

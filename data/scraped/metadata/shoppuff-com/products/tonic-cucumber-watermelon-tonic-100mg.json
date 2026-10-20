@@ -1,0 +1,35 @@
+{
+  "slug": "tonic-cucumber-watermelon-tonic-100mg",
+  "name": "Cucumber Watermelon Tonic | 100mg",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Tonic",
+  "tags": [],
+  "description": "Cucumber Watermelon Tonic is an incredibly delicious, cannabis infused beverage that incorporates a sophisticated liposomal encapsulation technology that delivers cannabinoids far more efficiently than traditional edibles. The original 12 oz Tonic includes the easy dose strip that simplifies dosing to keep you in control.",
+  "description_html": "Cucumber Watermelon Tonic is an incredibly delicious, cannabis infused beverage that incorporates a sophisticated liposomal encapsulation technology that delivers cannabinoids far more efficiently than traditional edibles. The original 12 oz Tonic includes the easy dose strip that simplifies dosing to keep you in control.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/604777d6d11ab8f2f400478294179a55",
+      "alt": "Cucumber Watermelon Tonic | 100mg",
+      "local": "data\\scraped\\images\\shoppuff-com__tonic-cucumber-watermelon-tonic-100mg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tonic-cucumber-watermelon-tonic-100mg-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.359Z"
+}

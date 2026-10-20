@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-wild-cherry",
+  "name": "Seed Junky Pre-Roll | Wild Cherry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Hit the Jackpot with Wild Cherry, a potent indica strain that deals a winning hand of bold flavors. The gassy aroma draws you in, followed by a sweet-and-tart blend of cherry, candy, citrus, and a hint of spice.",
+  "description_html": "Hit the Jackpot with Wild Cherry, a potent indica strain that deals a winning hand of bold flavors. The gassy aroma draws you in, followed by a sweet-and-tart blend of cherry, candy, citrus, and a hint of spice.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5f62efef2152eed894684ad768717a6d",
+      "alt": "Seed Junky Pre-Roll | Wild Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-wild-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-wild-cherry-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.621Z"
+}

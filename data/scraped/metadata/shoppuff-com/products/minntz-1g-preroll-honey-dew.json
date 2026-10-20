@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-1g-preroll-honey-dew",
+  "name": "Minntz | 1g Preroll | Honey Dew",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Indulge in a euphoric dreamlike indica crafted for the perfect cozy evening. Rich notes of creamy gas mingle with hints of sweet fruit, delivering a decadent, dessert-inspired flavor profile. The experience begins with a blissful, creative uplift before easing into soothing relaxation and dreamy tranquility.",
+  "description_html": "Indulge in a euphoric dreamlike indica crafted for the perfect cozy evening. Rich notes of creamy gas mingle with hints of sweet fruit, delivering a decadent, dessert-inspired flavor profile. The experience begins with a blissful, creative uplift before easing into soothing relaxation and dreamy tranquility.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ef340f15423b42c777c22eac9ae3ca44",
+      "alt": "Minntz | 1g Preroll | Honey Dew",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-1g-preroll-honey-dew__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-1g-preroll-honey-dew-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.457Z"
+}

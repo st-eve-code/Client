@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-og-farms-biscotti",
+  "name": "OG Farms | Biscotti",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c7a8dbdce125ca89faa3d113f2da1d53",
+      "alt": "OG Farms | Biscotti",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-og-farms-biscotti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-og-farms-biscotti-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.426Z"
+}

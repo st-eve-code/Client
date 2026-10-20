@@ -1,0 +1,35 @@
+{
+  "slug": "sohi-sohi-cured-resin-sugar-sauce-georgia-pie",
+  "name": "Sohi Cured Resin Sugar & Sauce | Georgia Pie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "SoHi",
+  "tags": [],
+  "description": "1g Cured Resin Sugar & Sauce",
+  "description_html": "1g Cured Resin Sugar & Sauce",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3b3e12b75e8dd13ba4b5e65b7dfff46e",
+      "alt": "Sohi Cured Resin Sugar & Sauce | Georgia Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__sohi-sohi-cured-resin-sugar-sauce-georgia-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sohi-sohi-cured-resin-sugar-sauce-georgia-pie-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.017Z"
+}

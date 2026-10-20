@@ -1,0 +1,35 @@
+{
+  "slug": "doja-prepackaged-flower-smalls-giraffe-puzzy",
+  "name": "Doja Prepackaged Flower Smalls | Giraffe Puzzy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 50.05,
+  "price_max": 50.05,
+  "currency": "USD",
+  "price_range": "$50.05",
+  "available": true,
+  "vendor": "Doja Exclusive",
+  "tags": [],
+  "description": "Zkittlez x Animal Cookies\n\nSmells of tropical fruit compliment a candy gas finish and add a level of complexity to this potent Z cross. The flavor is an extension of the smell and can be described as a progression of traditional Z candy fruit with hints of menthol and Mountain Dew soda before finishing in a sharp and pungent petroleum. The effect is strong and lasting but without the lethargic heaviness.",
+  "description_html": "Zkittlez x Animal Cookies<br /><br />Smells of tropical fruit compliment a candy gas finish and add a level of complexity to this potent Z cross. The flavor is an extension of the smell and can be described as a progression of traditional Z candy fruit with hints of menthol and Mountain Dew soda before finishing in a sharp and pungent petroleum. The effect is strong and lasting but without the lethargic heaviness.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b6a650c953e83b4894b6e6d2497d26e9",
+      "alt": "Doja Prepackaged Flower Smalls | Giraffe Puzzy",
+      "local": "data\\scraped\\images\\shoppuff-com__doja-prepackaged-flower-smalls-giraffe-puzzy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 50.05,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doja-prepackaged-flower-smalls-giraffe-puzzy-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.845Z"
+}

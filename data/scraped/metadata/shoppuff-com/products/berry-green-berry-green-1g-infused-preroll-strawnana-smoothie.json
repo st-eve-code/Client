@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-1g-infused-preroll-strawnana-smoothie",
+  "name": "Berry Green | 1g Infused Preroll | Strawnana Smoothie",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Sweet, thick, and sneaky strong. Strawberry chill with knockout vibes.\n\nEffect: Deep calm and slow fade — built for late-night wind downs.",
+  "description_html": "Sweet, thick, and sneaky strong. Strawberry chill with knockout vibes.<br /><br />Effect: Deep calm and slow fade — built for late-night wind downs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4b544573575ed45b024ecd0ab9552c10",
+      "alt": "Berry Green | 1g Infused Preroll | Strawnana Smoothie",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-1g-infused-preroll-strawnana-smoothie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-1g-infused-preroll-strawnana-smoothie-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.234Z"
+}

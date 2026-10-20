@@ -1,0 +1,55 @@
+{
+  "slug": "grasshopper-farms-grasshopper-farms-moms-spaghetti",
+  "name": "Grasshopper Farms | Moms Spaghetti",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$4.00 – $30.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0bf6be502726b1c21c01239573a7fb0f",
+      "alt": "Grasshopper Farms | Moms Spaghetti",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-grasshopper-farms-moms-spaghetti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-grasshopper-farms-moms-spaghetti-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.475Z"
+}

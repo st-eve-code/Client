@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-starter-battery",
+  "name": "Stiiizy Starter Battery",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "battery",
+  "description_html": "battery<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b319538132d904bbd3602e82813a41bc",
+      "alt": "Stiiizy Starter Battery",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-starter-battery__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-starter-battery-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.832Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "dragonfly-dragonfly-pre-roll-afternoon-tea-for-sale-kalamazoo-mi-2",
+  "name": "Dragonfly Pre-roll | Afternoon Tea",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1,
+  "price_max": 1,
+  "currency": "USD",
+  "price_range": "$1.00",
+  "available": true,
+  "vendor": "Dragonfly",
+  "tags": [],
+  "description": "1g Pre-Roll",
+  "description_html": "1g Pre-Roll                                                                                             <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ba5301e687078a0ad5a17e25e5b34186",
+      "alt": "Dragonfly Pre-roll | Afternoon Tea",
+      "local": "data\\scraped\\images\\shoppuff-com__dragonfly-dragonfly-pre-roll-afternoon-tea-for-sale-kalamazoo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dragonfly-dragonfly-pre-roll-afternoon-tea-for-sale-kalamazoo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.875Z"
+}

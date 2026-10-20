@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-prepackaged-flower-hazel-nut-piff",
+  "name": "710 Labs Prepackaged Flower | Hazel Nut Piff",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 120,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$120.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "710 Labs Prepackaged Flower | Hazel Nut Piff",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-prepackaged-flower-hazel-nut-piff__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 120,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-prepackaged-flower-hazel-nut-piff-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.906Z"
+}

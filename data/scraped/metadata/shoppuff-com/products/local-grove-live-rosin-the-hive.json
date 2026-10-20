@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-live-rosin-the-hive",
+  "name": "Local Grove Live Rosin | The Hive",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Honey Banana x Papaya \n\nBreeder: Bloom Seed Co \n\nAroma & Flavor: Candy banana mixed with fruity papaya \n\nEffects: Hybrid – flavorful concentrate-focused cultivar",
+  "description_html": "Genetics: Honey Banana x Papaya <br /><br />Breeder: Bloom Seed Co <br /><br />Aroma & Flavor: Candy banana mixed with fruity papaya <br /><br />Effects: Hybrid – flavorful concentrate-focused cultivar",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8b53eaa0f187809cb2f3a6ff61bbac2c",
+      "alt": "Local Grove Live Rosin | The Hive",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-live-rosin-the-hive__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-live-rosin-the-hive-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.046Z"
+}

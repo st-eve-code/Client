@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-hytek-pre-roll-potato-runtz",
+  "name": "Hytek Pre-Roll | Potato Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "The candies just keep coming in strong!!!! The Potato Runtz gives off that sweet candy flavor. \n\nNo this is not a Potato Kush cross. This is the cut named after the artist Imran Potato. Slide on your caveman slippers and get ready for the ride!\n\nCategory: Hybrid\n\nCross: Zkittles x Gelato\n\nCut: Imran Potato",
+  "description_html": "The candies just keep coming in strong!!!! The Potato Runtz gives off that sweet candy flavor. <br /><br />No this is not a Potato Kush cross. This is the cut named after the artist Imran Potato. Slide on your caveman slippers and get ready for the ride!<br /><br />Category: Hybrid<br /><br />Cross: Zkittles x Gelato<br /><br />Cut: Imran Potato",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c7d45f022211cdfbc6e7acee1ae24ae9",
+      "alt": "Hytek Pre-Roll | Potato Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-pre-roll-potato-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-pre-roll-potato-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.252Z"
+}

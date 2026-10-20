@@ -1,0 +1,35 @@
+{
+  "slug": "mad-packs-mad-packs-pre-packaged-flower-biscotti-sherb-cake",
+  "name": "Mad Packs Pre-Packaged Flower | Biscotti Sherb Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Mad Packs Pre-Packaged Flower | Biscotti Sherb Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-mad-packs-pre-packaged-flower-biscotti-sherb-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-mad-packs-pre-packaged-flower-biscotti-sherb-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.606Z"
+}

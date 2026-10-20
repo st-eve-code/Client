@@ -1,0 +1,35 @@
+{
+  "slug": "l-train-l-train-infused-preroll-lemon-venom",
+  "name": "L-Train Infused Preroll | Lemon Venom",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "L-Train",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4d675f7aeca8ace7d65107dc6410b96e",
+      "alt": "L-Train Infused Preroll | Lemon Venom",
+      "local": "data\\scraped\\images\\shoppuff-com__l-train-l-train-infused-preroll-lemon-venom__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".7g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/l-train-l-train-infused-preroll-lemon-venom-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.188Z"
+}

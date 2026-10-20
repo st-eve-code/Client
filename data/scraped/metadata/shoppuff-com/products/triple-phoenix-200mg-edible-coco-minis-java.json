@@ -1,0 +1,35 @@
+{
+  "slug": "triple-phoenix-200mg-edible-coco-minis-java",
+  "name": "Triple Phoenix | 200mg Edible | Coco Mini's Java",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Triple Phoenix",
+  "tags": [],
+  "description": "Each mini chocolate is 5 mg and the package contains 200 mg total. The coco mini's are rich in chocolate flavor with a hint of java.",
+  "description_html": "Each mini chocolate is 5 mg and the package contains 200 mg total. The coco mini's are rich in chocolate flavor with a hint of java.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7e7308f0a27d5e618fb656ed6d82da89",
+      "alt": "Triple Phoenix | 200mg Edible | Coco Mini's Java",
+      "local": "data\\scraped\\images\\shoppuff-com__triple-phoenix-200mg-edible-coco-minis-java__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/triple-phoenix-200mg-edible-coco-minis-java-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.933Z"
+}

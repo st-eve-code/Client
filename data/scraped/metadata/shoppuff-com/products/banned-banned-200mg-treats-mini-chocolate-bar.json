@@ -1,0 +1,35 @@
+{
+  "slug": "banned-banned-200mg-treats-mini-chocolate-bar",
+  "name": "Banned | 200mg Treats | Mini Chocolate Bar",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Banned",
+  "tags": [],
+  "description": "Cannabis chocolates are popular because the dominant chocolate flavor overpowers the \"green\" taste you may find in other edibles. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "description_html": "Cannabis chocolates are popular because the dominant chocolate flavor overpowers the \"green\" taste you may find in other edibles. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6b269c830f6201b2ca38155cde542ea9",
+      "alt": "Banned | 200mg Treats | Mini Chocolate Bar",
+      "local": "data\\scraped\\images\\shoppuff-com__banned-banned-200mg-treats-mini-chocolate-bar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.75g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/banned-banned-200mg-treats-mini-chocolate-bar-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.221Z"
+}

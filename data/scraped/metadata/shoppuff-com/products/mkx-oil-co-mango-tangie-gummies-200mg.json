@@ -1,0 +1,40 @@
+{
+  "slug": "mkx-oil-co-mango-tangie-gummies-200mg",
+  "name": "Mango Tangie Gummies | 200mg",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "HYBRID | 20MG THC PER PIECE | 10 PIECES",
+  "description_html": "HYBRID | 20MG THC PER PIECE | 10 PIECES",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/399e91606e5832c0cee6206b1019885f",
+      "alt": "Mango Tangie Gummies | 200mg",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-mango-tangie-gummies-200mg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.465g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-mango-tangie-gummies-200mg-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.640Z"
+}

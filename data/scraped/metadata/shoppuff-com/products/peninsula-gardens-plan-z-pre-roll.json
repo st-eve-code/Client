@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-plan-z-pre-roll",
+  "name": "Peninsula Gardens Pre-Roll | Plan Z",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "A Rainbow Beltz 2.0 pheno. Bred by Archive and hunted by @monopolymeltz. Z terps for days. Bright green flowers that like most Zkittlez crosses aren't the prettiest but make up for it in flavor. A nice mellow high that also is an amazing hasher.",
+  "description_html": "A Rainbow Beltz 2.0 pheno. Bred by Archive and hunted by @monopolymeltz. Z terps for days. Bright green flowers that like most Zkittlez crosses aren't the prettiest but make up for it in flavor. A nice mellow high that also is an amazing hasher.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/da292efa48b02ef97a1efbe4ab4ff1e5",
+      "alt": "Peninsula Gardens Pre-Roll | Plan Z",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-plan-z-pre-roll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-plan-z-pre-roll-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.112Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "plant-nerd-plant-nerd-ocean-air",
+  "name": "Plant Nerd | Ocean Air",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 62.5,
+  "currency": "USD",
+  "price_range": "$10.00 – $62.50",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Grape Cream Cake x Point Break bred by Surfr Seeds\nOcean Air leans more towards the Point Break with the citrusy funk along with sweetness and trichome density from Grape Cream Cake.",
+  "description_html": "Grape Cream Cake x Point Break bred by Surfr Seeds<br />Ocean Air leans more towards the Point Break with the citrusy funk along with sweetness and trichome density from Grape Cream Cake.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f7d28b91c10461dcc8b91220bf4493d6",
+      "alt": "Plant Nerd | Ocean Air",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-ocean-air__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 62.5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-ocean-air-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.737Z"
+}

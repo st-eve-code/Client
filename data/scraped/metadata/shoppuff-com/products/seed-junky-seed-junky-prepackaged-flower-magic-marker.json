@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-magic-marker",
+  "name": "Seed Junky Prepackaged Flower | Magic Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Magic Marker is a strong Indica that has a sweet gassy aroma, complimented with a subtle hint of lime. Magic Marker will quickly work its magic and transform a stressful day into a euphoric relaxing night, making this strain great for night time use.",
+  "description_html": "Magic Marker is a strong Indica that has a sweet gassy aroma, complimented with a subtle hint of lime. Magic Marker will quickly work its magic and transform a stressful day into a euphoric relaxing night, making this strain great for night time use.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7a34684d698798cf97c8020ba45cfc39",
+      "alt": "Seed Junky Prepackaged Flower | Magic Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-magic-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-magic-marker-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.857Z"
+}

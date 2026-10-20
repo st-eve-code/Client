@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-flower-power-cannabis-pre-roll-permanent-marker",
+  "name": "Flower Power Cannabis Pre-Roll | Permanent Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "1G Preroll of our brand new Permanent Marker. Made with 100% premium flower.\n\nBiscotti X Jealousy X Sherbet BX | Indica-Dominant Hybrid",
+  "description_html": "1G Preroll of our brand new Permanent Marker. Made with 100% premium flower.<br /><br /><br /><br />Biscotti X Jealousy X Sherbet BX | Indica-Dominant Hybrid",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/20afa874344a6e3c4f50353f02f53646",
+      "alt": "Flower Power Cannabis Pre-Roll | Permanent Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-flower-power-cannabis-pre-roll-permanent-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-flower-power-cannabis-pre-roll-permanent-marker-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.927Z"
+}

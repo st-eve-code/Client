@@ -1,0 +1,60 @@
+{
+  "slug": "cloud-farms-cloud-farms-bolo-runtz",
+  "name": "Cloud Farms | Bolo Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 89.99,
+  "currency": "USD",
+  "price_range": "$5.00 – $89.99",
+  "available": true,
+  "vendor": "Cloud Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c6c527fcaf1af2163893457eff3ca1fc",
+      "alt": "Cloud Farms | Bolo Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__cloud-farms-cloud-farms-bolo-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 89.99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloud-farms-cloud-farms-bolo-runtz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.630Z"
+}

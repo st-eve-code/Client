@@ -1,0 +1,35 @@
+{
+  "slug": "doja-exclusive-doja-3-5g-prepackaged-flower-neon-wormz",
+  "name": "Doja Prepackaged Flower | Neon Wormz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "Doja Exclusive",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5c35a548a4ea2e3a8e1458d5c0f84c1c",
+      "alt": "Doja Prepackaged Flower | Neon Wormz",
+      "local": "data\\scraped\\images\\shoppuff-com__doja-exclusive-doja-3-5g-prepackaged-flower-neon-wormz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doja-exclusive-doja-3-5g-prepackaged-flower-neon-wormz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.786Z"
+}

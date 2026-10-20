@@ -1,0 +1,55 @@
+{
+  "slug": "seed-junky-seed-junky-magic-marker",
+  "name": "Seed Junky | Magic Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$12.00 – $125.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/52c6bd36001f53d5966676ec4dd817ce",
+      "alt": "Seed Junky | Magic Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-magic-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-magic-marker-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.286Z"
+}

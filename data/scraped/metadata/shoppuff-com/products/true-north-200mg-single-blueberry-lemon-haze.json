@@ -1,0 +1,35 @@
+{
+  "slug": "true-north-200mg-single-blueberry-lemon-haze",
+  "name": "True North | 200mg Single | Blueberry Lemon Haze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "True North Collective",
+  "tags": [],
+  "description": "200mg Single Gummies",
+  "description_html": "200mg Single Gummies",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3b953d5f26b2724cc23c96cead188079",
+      "alt": "True North | 200mg Single | Blueberry Lemon Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__true-north-200mg-single-blueberry-lemon-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.55g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/true-north-200mg-single-blueberry-lemon-haze-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.948Z"
+}

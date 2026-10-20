@@ -1,0 +1,35 @@
+{
+  "slug": "l-train-l-train-frosted-blunt-ice-cream-breath",
+  "name": "L-Train Frosted Blunt | Ice Cream Breath",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "L-Train",
+  "tags": [],
+  "description": "L-Train's Frosted 1.5-gram infused blunt is crafted for those who seek an elegantly potent experience. Made with premium real flower, this pre-roll is infused with high-quality bubble hash on the inside and dusted with THCA powder on the outside, delivering a powerful and incomparable effect.\n\nPerfect for experienced users or anyone looking for stronger, longer-lasting relief, these Frosted Blunts is ideal for self-medicating and those who crave a great tasting, potent sensation.",
+  "description_html": "L-Train's Frosted 1.5-gram infused blunt is crafted for those who seek an elegantly potent experience. Made with premium real flower, this pre-roll is infused with high-quality bubble hash on the inside and dusted with THCA powder on the outside, delivering a powerful and incomparable effect.<br /><br />Perfect for experienced users or anyone looking for stronger, longer-lasting relief, these Frosted Blunts is ideal for self-medicating and those who crave a great tasting, potent sensation.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d9f452cc522a84b88248021a534cbc5d",
+      "alt": "L-Train Frosted Blunt | Ice Cream Breath",
+      "local": "data\\scraped\\images\\shoppuff-com__l-train-l-train-frosted-blunt-ice-cream-breath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/l-train-l-train-frosted-blunt-ice-cream-breath-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.030Z"
+}

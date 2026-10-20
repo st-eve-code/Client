@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-king-tarantula-pebble-wreck",
+  "name": "Pebble Wreck King Tarantula | 1.4g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "The king of kings. A 1.4 gram Tarantula built on our highest-quality indoor bud, infused with live resin and THCa, brushed with distillate and rolled in kief. Strain-specific and rotating.",
+  "description_html": "The king of kings. A 1.4 gram Tarantula built on our highest-quality indoor bud, infused with live resin and THCa, brushed with distillate and rolled in kief. Strain-specific and rotating.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/932496092d3f0f2d52bb630a03ba44ab",
+      "alt": "Pebble Wreck King Tarantula | 1.4g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-king-tarantula-pebble-wreck__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.4g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-king-tarantula-pebble-wreck-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.777Z"
+}

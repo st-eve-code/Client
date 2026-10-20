@@ -1,0 +1,35 @@
+{
+  "slug": "gas-hunters-x-28-pre-roll-pack-bubblegum-sherb",
+  "name": "Gas Hunters x 28 Pre-Roll Pack | Bubblegum Sherb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "GAS HUNTERS",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/241957865e8e49c240820dd142b694e2",
+      "alt": "Gas Hunters x 28 Pre-Roll Pack | Bubblegum Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__gas-hunters-x-28-pre-roll-pack-bubblegum-sherb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gas-hunters-x-28-pre-roll-pack-bubblegum-sherb-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.281Z"
+}

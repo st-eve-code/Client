@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-moonrocks-grape-fizz",
+  "name": "White Boy Rick Moonrocks | Grape Fizz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d89f49290fda2c50abe1657c8988bf8a",
+      "alt": "White Boy Rick Moonrocks | Grape Fizz",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-moonrocks-grape-fizz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-moonrocks-grape-fizz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.188Z"
+}

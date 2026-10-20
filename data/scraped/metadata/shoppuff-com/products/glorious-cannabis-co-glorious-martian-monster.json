@@ -1,0 +1,60 @@
+{
+  "slug": "glorious-cannabis-co-glorious-martian-monster",
+  "name": "Glorious | Martian Monster",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 79,
+  "currency": "USD",
+  "price_range": "$5.00 – $79.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "The Modified Grapes high hits you almost as soon as you exhale, filling you with a lifted sense of euphoria that instantly boosts your mood and leaves you flying. You'll feel creative and sociable with an outgoing sense that has you easily carrying on conversations with those around you. This state does turn heady at times, leaving you unfocused and a little out of touch although pretty happy about it. These effects give Modified Grapes an edge in treating those suffering from conditions such as asthma, insomnia, chronic pain, depression and chronic stress or anxiety.",
+  "description_html": "The Modified Grapes high hits you almost as soon as you exhale, filling you with a lifted sense of euphoria that instantly boosts your mood and leaves you flying. You'll feel creative and sociable with an outgoing sense that has you easily carrying on conversations with those around you. This state does turn heady at times, leaving you unfocused and a little out of touch although pretty happy about it. These effects give Modified Grapes an edge in treating those suffering from conditions such as asthma, insomnia, chronic pain, depression and chronic stress or anxiety.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3bcf2c0cae7575fe2c1f49b287436d73",
+      "alt": "Glorious | Martian Monster",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-martian-monster__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 79,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-martian-monster-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.937Z"
+}

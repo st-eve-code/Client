@@ -1,0 +1,50 @@
+{
+  "slug": "hytek-hytek-pink-runtz",
+  "name": "Hytek | Pink Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 16,
+  "price_max": 88,
+  "currency": "USD",
+  "price_range": "$16.00 – $88.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "The Hytek Pink Runtz is the candiest Runtz cut there ever was!!! Its the definition of candy weed!! Ya know.... The King of Candy Runtz phenos!!! \n\nCategory: Hybrid\n\nCross: Zkittles x Gelato",
+  "description_html": "The Hytek Pink Runtz is the candiest Runtz cut there ever was!!! Its the definition of candy weed!! Ya know.... The King of Candy Runtz phenos!!! <br /><br />Category: Hybrid<br /><br />Cross: Zkittles x Gelato",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/31403f1b2a63cf0b339093ddbbcef305",
+      "alt": "Hytek | Pink Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-pink-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 48,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 88,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-pink-runtz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.765Z"
+}

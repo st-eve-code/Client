@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-2g-xl-quad-infused-preroll-bubba-g",
+  "name": "Jeeter | 2g XL Quad Infused Preroll | Bubba G",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/29f86fa065ca7d916142385095d67e7e",
+      "alt": "Jeeter | 2g XL Quad Infused Preroll | Bubba G",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-2g-xl-quad-infused-preroll-bubba-g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-2g-xl-quad-infused-preroll-bubba-g-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.718Z"
+}

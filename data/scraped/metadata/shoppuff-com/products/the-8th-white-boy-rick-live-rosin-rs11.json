@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-live-rosin-rs11",
+  "name": "White Boy Rick Live Rosin | RS11",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/52e57c3a3af126e52d907e42e6ed0991",
+      "alt": "White Boy Rick Live Rosin | RS11",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-live-rosin-rs11__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-live-rosin-rs11-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.417Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-moonrocks-super-nurdz",
+  "name": "Mitten Extracts Moonrocks | Super Nurdz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Bursting with vibrant candy sweetness, Super Nurdz Moon Rocks offer bold fruity flavor with a playful twist. Infused flower wrapped in concentrate and finished with a kief coating delivers a potent, full-bodied smoke that’s rich from start to finish.",
+  "description_html": "Bursting with vibrant candy sweetness, Super Nurdz Moon Rocks offer bold fruity flavor with a playful twist. Infused flower wrapped in concentrate and finished with a kief coating delivers a potent, full-bodied smoke that’s rich from start to finish.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02867313643876b53f2632185fdd9d5c",
+      "alt": "Mitten Extracts Moonrocks | Super Nurdz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-moonrocks-super-nurdz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-moonrocks-super-nurdz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.534Z"
+}

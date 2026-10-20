@@ -1,0 +1,60 @@
+{
+  "slug": "guss-real-exotics-guss-real-exotics-zoot-rollups-for-sale-monroe-mi-2",
+  "name": "Gus's Real Exotics | Zoot RollUps",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.8,
+  "price_max": 90,
+  "currency": "USD",
+  "price_range": "$4.80 – $90.00",
+  "available": true,
+  "vendor": "Gus's Real Exotics",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1dfbcd77a7ca2a951bca38ac8617daa3",
+      "alt": "Gus's Real Exotics | Zoot RollUps",
+      "local": "data\\scraped\\images\\shoppuff-com__guss-real-exotics-guss-real-exotics-zoot-rollups-for-sale-monroe-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 48,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4.8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 9.6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guss-real-exotics-guss-real-exotics-zoot-rollups-for-sale-monroe-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.016Z"
+}

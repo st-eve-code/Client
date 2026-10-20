@@ -1,0 +1,52 @@
+{
+  "slug": "candy-coated-bitez-gummies-500mg-baggiez-delta-9-peach-mango",
+  "name": "Candy Coated BITEZ Gummies 500mg Baggiez | Delta-9 | Peach Mango",
+  "site": "ochoextracts-com",
+  "category": "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+  "price_min": 5.99,
+  "price_max": 5.99,
+  "currency": "GBP",
+  "price_range": "£5.99",
+  "available": true,
+  "sku": "S-D9-BITEZ-PM",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "CANDY COATED D9",
+    "Delta-9",
+    "Gummies",
+    "Ocho Extracts"
+  ],
+  "description": "Peach Mango is sunshine with a candy-coated crunch. Juicy peach brings a soft, nectar-like sweetness while ripe mango adds a bright tropical punch, all rolled in tiny, colorful crunchy candies that make the fruit flavors pop. Crack through the candy-coated outside and you’ll hit two soft, chewy gummy layers packing 50mg of hemp-derived Delta-9 THC in each gummy, delivering that signature Double-Stacked contrast.",
+  "description_html": "<p><strong>Peach Mango is sunshine with a candy-coated crunch.</strong> Juicy peach brings a soft, nectar-like sweetness while ripe mango adds a bright tropical punch, all rolled in <strong>tiny, colorful crunchy candies</strong> that make the fruit flavors pop. Crack through the candy-coated outside and you’ll hit <strong>two soft, chewy gummy layers packing 50mg of hemp-derived Delta-9 THC in each gummy</strong>, delivering that signature Double-Stacked contrast.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-GUMMY-PM.png?v=1789076878",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-peach-mango__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-BAGGY-PM.png?v=1789063413",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-peach-mango__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46609679777978,
+      "title": "Default Title",
+      "price": 5.99,
+      "sku": "S-D9-BITEZ-PM",
+      "available": true
+    }
+  ],
+  "collections": [
+    "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+    "double-stacked-bitez-gummies",
+    "gourmet-gummies",
+    "ocho-extracts"
+  ],
+  "source_url": "https://ochoextracts.com/products/candy-coated-bitez-gummies-500mg-baggiez-delta-9-peach-mango",
+  "scraped_at": "2026-10-10T21:42:36.206Z"
+}

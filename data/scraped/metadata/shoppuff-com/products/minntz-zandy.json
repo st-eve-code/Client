@@ -1,0 +1,60 @@
+{
+  "slug": "minntz-zandy",
+  "name": "Minntz | Zandy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 89.5,
+  "currency": "USD",
+  "price_range": "$5.00 – $89.50",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Zandy delivers a sweet candy-forward profile layered with creamy vanilla cake and finished with a smooth gas that lingers on the exhale. The flavor is rich yet balanced — dessert-like without being overpowering, with just enough gas to keep it grounded. Effects come on quick with a lifted, clear-headed high that settles into a relaxed body feel. It’s euphoric, smooth, and easy to stay functional - but perfect for zoning in without slowing down.\n\nFLAVOR: Sweet Candy, Vanilla Extract, Cream, Gas\nEFFECTS: Euphoric, Uplifted, Relaxed, Happy",
+  "description_html": "Zandy delivers a sweet candy-forward profile layered with creamy vanilla cake and finished with a smooth gas that lingers on the exhale. The flavor is rich yet balanced — dessert-like without being overpowering, with just enough gas to keep it grounded. Effects come on quick with a lifted, clear-headed high that settles into a relaxed body feel. It’s euphoric, smooth, and easy to stay functional - but perfect for zoning in without slowing down.<br /><br />FLAVOR: Sweet Candy, Vanilla Extract, Cream, Gas<br />EFFECTS: Euphoric, Uplifted, Relaxed, Happy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2434961612adf92bd2f03cc8354d8231",
+      "alt": "Minntz | Zandy",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-zandy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 89.5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 27.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 47.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-zandy-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.458Z"
+}

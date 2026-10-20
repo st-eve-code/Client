@@ -1,0 +1,52 @@
+{
+  "slug": "candy-coated-bitez-gummies-500mg-baggiez-delta-9-grape-lemonade",
+  "name": "Candy Coated BITEZ Gummies 500mg Baggiez | Delta-9 | Grape Lemonade",
+  "site": "ochoextracts-com",
+  "category": "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+  "price_min": 5.99,
+  "price_max": 5.99,
+  "currency": "GBP",
+  "price_range": "£5.99",
+  "available": true,
+  "sku": "TD-D9-BITEZ-GL",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "CANDY COATED D9",
+    "Delta-9",
+    "Gummies",
+    "Ocho Extracts"
+  ],
+  "description": "Grape Lemonade tastes like the purple drink of your childhood got a sour-candy makeover. Jammy grape flavor comes in rich and sweet before a sharp squeeze of lemonade cuts through, creating a juicy sweet-tart contrast that keeps bouncing between candy-like grape and citrus pucker. Tiny crunchy candies coat the outside, while two soft, chewy gummy layers pack 50mg of hemp-derived Delta-9 THC in each gummy, keeping the center unmistakably Double-Stacked.",
+  "description_html": "<p><strong>Grape Lemonade tastes like the purple drink of your childhood got a sour-candy makeover.</strong> Jammy grape flavor comes in rich and sweet before a sharp squeeze of lemonade cuts through, creating a juicy <strong>sweet-tart contrast</strong> that keeps bouncing between candy-like grape and citrus pucker. Tiny crunchy candies coat the outside, while <strong>two soft, chewy gummy layers pack 50mg of hemp-derived Delta-9 THC in each gummy</strong>, keeping the center unmistakably Double-Stacked.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-GUMMY-GL.png?v=1789076854",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-grape-lemonade__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-BAGGY-GL.png?v=1789063413",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-grape-lemonade__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46609623875770,
+      "title": "Default Title",
+      "price": 5.99,
+      "sku": "TD-D9-BITEZ-GL",
+      "available": true
+    }
+  ],
+  "collections": [
+    "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+    "double-stacked-bitez-gummies",
+    "gourmet-gummies",
+    "ocho-extracts"
+  ],
+  "source_url": "https://ochoextracts.com/products/candy-coated-bitez-gummies-500mg-baggiez-delta-9-grape-lemonade",
+  "scraped_at": "2026-10-10T21:42:36.206Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-heart-breakerz",
+  "name": "Heart Breakerz Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Runtz x Jealousy \n\nType: Hybrid\n\nTerpenes: Caryphyllene, Limonene, Linalool\n\nEffect Notes: Relaxing, Content, and Uplifting\n\nAroma: Sweet, Orange, Spicy\n\nHeartbreakerz is sweet, sour, and unforgettable. With notes of cherries and berries, this hybrid delivers a soothing high that’s perfect for stress relief. It’s the kind of strain you’ll fall for every time.",
+  "description_html": "Lineage: Runtz x Jealousy <br /><br />Type: Hybrid<br /><br />Terpenes: Caryphyllene, Limonene, Linalool<br /><br />Effect Notes: Relaxing, Content, and Uplifting<br /><br />Aroma: Sweet, Orange, Spicy<br /><br />Heartbreakerz is sweet, sour, and unforgettable. With notes of cherries and berries, this hybrid delivers a soothing high that’s perfect for stress relief. It’s the kind of strain you’ll fall for every time.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/94a3af65da1e8f5f28f887ed096fb38a",
+      "alt": "Heart Breakerz Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-heart-breakerz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-heart-breakerz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.744Z"
+}

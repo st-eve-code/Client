@@ -1,0 +1,35 @@
+{
+  "slug": "bliss-labs-bliss-labs-live-resin-preroll-super-boof",
+  "name": "Bliss Labs Live Resin Preroll | Super Boof",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Bliss Labs",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0859ad476ad5adcf58af06948ee2bc1e",
+      "alt": "Bliss Labs Live Resin Preroll | Super Boof",
+      "local": "data\\scraped\\images\\shoppuff-com__bliss-labs-bliss-labs-live-resin-preroll-super-boof__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bliss-labs-bliss-labs-live-resin-preroll-super-boof-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.498Z"
+}

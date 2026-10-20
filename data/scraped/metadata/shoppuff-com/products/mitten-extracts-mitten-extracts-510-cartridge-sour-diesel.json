@@ -1,0 +1,40 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-510-cartridge-sour-diesel",
+  "name": "Mitten Extracts 510 Cartridge | Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$10.00 – $16.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "This sativa-dominant hybrid is best known for its strong diesel-like smell. This legendary strain will put the consumer in an energized dream-like state. While indulging, one may start to notice the fading of life's physical and mental stressors. It acts as a great tool to help combat depression and more. This strain is believed to have descended from Chemdog 91 and Super Skunk.",
+  "description_html": "This sativa-dominant hybrid is best known for its strong diesel-like smell. This legendary strain will put the consumer in an energized dream-like state. While indulging, one may start to notice the fading of life's physical and mental stressors. It acts as a great tool to help combat depression and more. This strain is believed to have descended from Chemdog 91 and Super Skunk.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/56dc65f7015c3687c8373302e73e1bd4",
+      "alt": "Mitten Extracts 510 Cartridge | Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-510-cartridge-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-510-cartridge-sour-diesel-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.869Z"
+}

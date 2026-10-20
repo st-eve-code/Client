@@ -1,0 +1,35 @@
+{
+  "slug": "loco-loco-live-resin-pineapple-fruz",
+  "name": "Loco Live Resin | Pineapple Fruz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCO",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b9397ad356894643423ae1e8be0a5f2d",
+      "alt": "Loco Live Resin | Pineapple Fruz",
+      "local": "data\\scraped\\images\\shoppuff-com__loco-loco-live-resin-pineapple-fruz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loco-loco-live-resin-pineapple-fruz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.866Z"
+}

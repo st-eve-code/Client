@@ -1,0 +1,60 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-lantz",
+  "name": "Peninsula Gardens | Lantz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 199,
+  "currency": "USD",
+  "price_range": "$12.00 – $199.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "We were gifted this cut from Chocolate at Hytek. Bred by Ridgeline Farms, it’s a cross of Ridgeline Runtz and Green Lantern. Varies from bright green to deep purple. Think of it as a Runtz with a heavy kick of lime. Incredible smoker for the candy lovers.",
+  "description_html": "We were gifted this cut from Chocolate at Hytek. Bred by Ridgeline Farms, it’s a cross of Ridgeline Runtz and Green Lantern. Varies from bright green to deep purple. Think of it as a Runtz with a heavy kick of lime. Incredible smoker for the candy lovers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f387ec543f7424d20d628b7ff365d81b",
+      "alt": "Peninsula Gardens | Lantz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 199,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-lantz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.915Z"
+}

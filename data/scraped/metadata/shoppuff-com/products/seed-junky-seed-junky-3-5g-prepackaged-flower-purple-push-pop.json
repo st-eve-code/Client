@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-3-5g-prepackaged-flower-purple-push-pop",
+  "name": "Seed Junky | 3.5g Prepackaged Flower | Purple Push Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Grapes, candy, hints of gas, Immediately gives a strong head buzz that melts down into your body bringing you in a blissful state. Great for movie nights.",
+  "description_html": "Grapes, candy, hints of gas, Immediately gives a strong head buzz that melts down into your body bringing you in a blissful state. Great for movie nights.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8dd87961e547364f3f1a0913a92809c5",
+      "alt": "Seed Junky | 3.5g Prepackaged Flower | Purple Push Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-3-5g-prepackaged-flower-purple-push-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-3-5g-prepackaged-flower-purple-push-pop-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.929Z"
+}

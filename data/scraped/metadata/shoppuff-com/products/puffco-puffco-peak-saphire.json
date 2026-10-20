@@ -1,0 +1,35 @@
+{
+  "slug": "puffco-puffco-peak-saphire",
+  "name": "Puffco | Peak | Saphire",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 230,
+  "price_max": 230,
+  "currency": "USD",
+  "price_range": "$230.00",
+  "available": true,
+  "vendor": "Puffco",
+  "tags": [],
+  "description": "The new Peak is the most effortless dab experience ever. Smarter, simpler, and comfy in-hand, our original intelligent vaporizer now features a 3D Chamber, Joystick Cap, and real-time temperature control. With its seamless single-button interface, premium water filtration and four dialed heat presets, the Peak makes enjoying hash easy — every time. \n \nSimply perfect.",
+  "description_html": "The new Peak is the most effortless dab experience ever. Smarter, simpler, and comfy in-hand, our original intelligent vaporizer now features a 3D Chamber, Joystick Cap, and real-time temperature control. With its seamless single-button interface, premium water filtration and four dialed heat presets, the Peak makes enjoying hash easy — every time. <br /> <br />Simply perfect.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/81a04c1f6b0fc233de674fbabc53ff5d",
+      "alt": "Puffco | Peak | Saphire",
+      "local": "data\\scraped\\images\\shoppuff-com__puffco-puffco-peak-saphire__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 230,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puffco-puffco-peak-saphire-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.693Z"
+}

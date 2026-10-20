@@ -1,0 +1,40 @@
+{
+  "slug": "freshy-fine-freshy-fine-prepackaged-flower-jar-strawberry-cough-for-sale-new-buffalo-mi-2",
+  "name": "Freshy Fine Prepackaged Flower Jar | Strawberry Cough",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 70,
+  "price_max": 130,
+  "currency": "USD",
+  "price_range": "$70.00 – $130.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d977f0ecaf09a7f41dd71400e7c7b5f5",
+      "alt": "Freshy Fine Prepackaged Flower Jar | Strawberry Cough",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-freshy-fine-prepackaged-flower-jar-strawberry-cough-for-sale-new-buffalo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 130,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-freshy-fine-prepackaged-flower-jar-strawberry-cough-for-sale-new-buffalo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.511Z"
+}

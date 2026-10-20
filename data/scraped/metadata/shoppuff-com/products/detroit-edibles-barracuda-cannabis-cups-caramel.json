@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-barracuda-cannabis-cups-caramel",
+  "name": "Barracuda Cannabis Cups – Caramel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 9,
+  "price_max": 9,
+  "currency": "USD",
+  "price_range": "$9.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Michigan's #1 chocolate edible just went bite sized. These delicious Belgian chocolate bite-sized cups are filled with creamy caramel. Infused with a potent 200mg THC per pack, these mini treats have some bite! Each cup (8 per pack) contains 25mg THC and fully activates in 1-2 hours.",
+  "description_html": "Michigan's #1 chocolate edible just went bite sized. These delicious Belgian chocolate bite-sized cups are filled with creamy caramel. Infused with a potent 200mg THC per pack, these mini treats have some bite! Each cup (8 per pack) contains 25mg THC and fully activates in 1-2 hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6f270a2632b352229fbc8bdaade886a2",
+      "alt": "Barracuda Cannabis Cups – Caramel",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-barracuda-cannabis-cups-caramel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5.95g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-barracuda-cannabis-cups-caramel-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.713Z"
+}

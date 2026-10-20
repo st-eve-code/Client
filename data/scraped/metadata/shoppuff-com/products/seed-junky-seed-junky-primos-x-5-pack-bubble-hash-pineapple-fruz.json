@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-primos-x-5-pack-bubble-hash-pineapple-fruz",
+  "name": "Seed Junky Primos x 5 Pack Bubble Hash | Pineapple Fruz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Single sourced, strain specific, whole nug pre-roll, no trim, no shake ever! Strong notes of gas, fuel, creamy sweetness these dense purple buds will have you on cloud 420. Each puff has full body flavor and will have you melting into relaxation in no time. Primos are made with premium indoor flower and bubble hash.",
+  "description_html": "Single sourced, strain specific, whole nug pre-roll, no trim, no shake ever! Strong notes of gas, fuel, creamy sweetness these dense purple buds will have you on cloud 420. Each puff has full body flavor and will have you melting into relaxation in no time. Primos are made with premium indoor flower and bubble hash.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/421164c51b61cfb0897b33ccb4215d13",
+      "alt": "Seed Junky Primos x 5 Pack Bubble Hash | Pineapple Fruz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-primos-x-5-pack-bubble-hash-pineapple-fruz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-primos-x-5-pack-bubble-hash-pineapple-fruz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.241Z"
+}

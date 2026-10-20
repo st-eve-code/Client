@@ -1,0 +1,55 @@
+{
+  "slug": "pablo-the-drip",
+  "name": "Pablo | The Drip",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 70,
+  "currency": "USD",
+  "price_range": "$8.00 – $70.00",
+  "available": true,
+  "vendor": "PABLO",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fb03747206c751a022fcd77c50ef0a2d",
+      "alt": "Pablo | The Drip",
+      "local": "data\\scraped\\images\\shoppuff-com__pablo-the-drip__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pablo-the-drip-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.518Z"
+}

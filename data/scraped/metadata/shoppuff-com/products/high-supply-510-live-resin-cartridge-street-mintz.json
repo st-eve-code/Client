@@ -1,0 +1,35 @@
+{
+  "slug": "high-supply-510-live-resin-cartridge-street-mintz",
+  "name": "High Supply 510 Live Resin Cartridge | Street Mintz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "High Supply",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d4bde1bc41edcc899edf48e88ec52e50",
+      "alt": "High Supply 510 Live Resin Cartridge | Street Mintz",
+      "local": "data\\scraped\\images\\shoppuff-com__high-supply-510-live-resin-cartridge-street-mintz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/high-supply-510-live-resin-cartridge-street-mintz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.273Z"
+}

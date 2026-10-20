@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-super-dope-pre-roll-lemon-popperz",
+  "name": "Super Dope Pre-roll | Lemon Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Lemon Popperz, an exotic blend of Gelato 41 crossed with Lemon Tree, gives off candy terps with the a “41 lemon funk” profile.",
+  "description_html": "Lemon Popperz, an exotic blend of Gelato 41 crossed with Lemon Tree, gives off candy terps with the a “41 lemon funk” profile.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6d5439f6fdee9c11de06c6b238c7c17a",
+      "alt": "Super Dope Pre-roll | Lemon Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-pre-roll-lemon-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-pre-roll-lemon-popperz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.638Z"
+}

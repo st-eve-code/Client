@@ -1,0 +1,35 @@
+{
+  "slug": "pro-gro-progroco-moonmelon",
+  "name": "ProGroCo | Moonmelon",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Moonbow x Watermelon Zkittlez\n\nType: Hybrid\n\nTerpenes: Caryophyllene, D-Limonene, Linalool \n\nAroma: Peach, Herbal, Citrus, Spice \n\nEffects: Cerebral, Happy, Relaxed, Euphoric \n\nPrepare for an interstellar flavor experience with Moonmelon, a strain that's as cool as the dark side of the moon. The buds shimmer with a cosmic blend of greens and purples, promising an otherworldly visual spectacle. As you indulge, a sweet and fruity melody graces your palate, reminiscent of a melon picked under a lunar eclipse. Moonmelon's effects launch you into orbit with a perfect balance of relaxation and euphoria, as if you're floating weightlessly in the vastness of space. Elevate your senses with Moonmelon - because sometimes, the coolest things happen when the sun goes down on Earth and the moon takes center stage.",
+  "description_html": "Lineage: Moonbow x Watermelon Zkittlez<br /><br />Type: Hybrid<br /><br />Terpenes: Caryophyllene, D-Limonene, Linalool <br /><br />Aroma: Peach, Herbal, Citrus, Spice <br /><br />Effects: Cerebral, Happy, Relaxed, Euphoric  <br /><br />Prepare for an interstellar flavor experience with Moonmelon, a strain that's as cool as the dark side of the moon. The buds shimmer with a cosmic blend of greens and purples, promising an otherworldly visual spectacle. As you indulge, a sweet and fruity melody graces your palate, reminiscent of a melon picked under a lunar eclipse. Moonmelon's effects launch you into orbit with a perfect balance of relaxation and euphoria, as if you're floating weightlessly in the vastness of space. Elevate your senses with Moonmelon - because sometimes, the coolest things happen when the sun goes down on Earth and the moon takes center stage.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3cfcf242fc43e2bc35ec4c4995c103aa",
+      "alt": "ProGroCo | Moonmelon",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-moonmelon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-moonmelon-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.423Z"
+}

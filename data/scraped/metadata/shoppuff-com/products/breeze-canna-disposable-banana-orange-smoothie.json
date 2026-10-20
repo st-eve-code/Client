@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-disposable-banana-orange-smoothie",
+  "name": "Breeze Canna Disposable | Banana Orange Smoothie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Bold, ripe banana balanced with notes of orange and tangy yogurt.\n\nEffects | Sleepy, Relaxed, Aroused",
+  "description_html": "Bold, ripe banana balanced with notes of orange and tangy yogurt.<br /><br />Effects | Sleepy, Relaxed, Aroused",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c22374e78f326358b18a78f2ce8d806a",
+      "alt": "Breeze Canna Disposable | Banana Orange Smoothie",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-disposable-banana-orange-smoothie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-disposable-banana-orange-smoothie-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.944Z"
+}

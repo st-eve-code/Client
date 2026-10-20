@@ -1,0 +1,35 @@
+{
+  "slug": "wolverine-extracts-wolverine-extracts-pre-roll-super-glue",
+  "name": "Wolverine Extracts Pre-Roll | Super Glue",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Wolverine Extracts",
+  "tags": [],
+  "description": "1g Pre-Roll",
+  "description_html": "1g Pre-Roll<br />                                                                                               <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bf6736fa3e2f16d20a5671862d277ffc",
+      "alt": "Wolverine Extracts Pre-Roll | Super Glue",
+      "local": "data\\scraped\\images\\shoppuff-com__wolverine-extracts-wolverine-extracts-pre-roll-super-glue__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wolverine-extracts-wolverine-extracts-pre-roll-super-glue-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.358Z"
+}

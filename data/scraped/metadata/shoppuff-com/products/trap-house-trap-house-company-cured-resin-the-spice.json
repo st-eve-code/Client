@@ -1,0 +1,35 @@
+{
+  "slug": "trap-house-trap-house-company-cured-resin-the-spice",
+  "name": "Trap House Company Cured Resin | The Spice",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Trap House",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d913ca17fb1df74b255732cbad132d81",
+      "alt": "Trap House Company Cured Resin | The Spice",
+      "local": "data\\scraped\\images\\shoppuff-com__trap-house-trap-house-company-cured-resin-the-spice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/trap-house-trap-house-company-cured-resin-the-spice-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.447Z"
+}

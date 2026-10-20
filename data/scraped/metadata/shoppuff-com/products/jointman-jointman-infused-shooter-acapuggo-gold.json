@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-jointman-infused-shooter-acapuggo-gold",
+  "name": "Jointman Infused Shooter | Acapuggo Gold",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "When the big games call for the big players, call on the big shooter to get the job done. A full 1.5g of carefully infused indoor burns slow, tastes great, and makes sure you bring home the victory for whatever your game needs.\n\nSmoke Jointman.",
+  "description_html": "When the big games call for the big players, call on the big shooter to get the job done. A full 1.5g of carefully infused indoor burns slow, tastes great, and makes sure you bring home the victory for whatever your game needs.<br /><br />Smoke Jointman.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cb6cae577ebf908707151a8dc8e4199a",
+      "alt": "Jointman Infused Shooter | Acapuggo Gold",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-jointman-infused-shooter-acapuggo-gold__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-jointman-infused-shooter-acapuggo-gold-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.387Z"
+}

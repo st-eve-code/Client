@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-apple-fritter-cartridge-1g",
+  "name": "Apple Fritter Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Apple Fritter, a true hybrid strain, is known for its powerful and relaxing high. Apple Fritter has a flavor and aroma that come off as sweet and earthy, with a light, cheesy, apple pastry influence.",
+  "description_html": "Apple Fritter, a true hybrid strain, is known for its powerful and relaxing high. Apple Fritter has a flavor and aroma that come off as sweet and earthy, with a light, cheesy, apple pastry influence.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d57f8a54cede5ea1f5052ad229c401fb",
+      "alt": "Apple Fritter Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-apple-fritter-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-apple-fritter-cartridge-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.569Z"
+}

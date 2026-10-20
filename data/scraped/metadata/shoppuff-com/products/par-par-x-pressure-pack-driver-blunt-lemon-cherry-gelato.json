@@ -1,0 +1,35 @@
+{
+  "slug": "par-par-x-pressure-pack-driver-blunt-lemon-cherry-gelato",
+  "name": "PAR x Pressure Pack Driver Blunt | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Par",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dbfc82dc4b0734dc90c369a90ebbf43e",
+      "alt": "PAR x Pressure Pack Driver Blunt | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__par-par-x-pressure-pack-driver-blunt-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/par-par-x-pressure-pack-driver-blunt-lemon-cherry-gelato-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.427Z"
+}

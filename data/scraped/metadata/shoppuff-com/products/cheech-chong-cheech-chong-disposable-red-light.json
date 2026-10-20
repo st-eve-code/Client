@@ -1,0 +1,35 @@
+{
+  "slug": "cheech-chong-cheech-chong-disposable-red-light",
+  "name": "Cheech & Chong Disposable | Red Light",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Cheech & Chong",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/65ceff023eab22eb4d309a3a7d914f62",
+      "alt": "Cheech & Chong Disposable | Red Light",
+      "local": "data\\scraped\\images\\shoppuff-com__cheech-chong-cheech-chong-disposable-red-light__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cheech-chong-cheech-chong-disposable-red-light-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.681Z"
+}

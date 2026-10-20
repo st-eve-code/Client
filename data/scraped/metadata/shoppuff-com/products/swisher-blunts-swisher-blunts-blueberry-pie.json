@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-blunts-swisher-blunts-blueberry-pie",
+  "name": "Blueberry Pie Blunts - 2x1.5g - 3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "1.5g x 2 Infused Blunts\n3g Total\n\nEnjoy the perfect fusion of sweet vanilla and tart blueberry with Swisher Blunts Blueberry Pie.",
+  "description_html": "1.5g x 2 Infused Blunts<br />3g Total<br /><br />Enjoy the perfect fusion of sweet vanilla and tart blueberry with Swisher Blunts Blueberry Pie.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/06459d836947198c450e5ab02ed509e7",
+      "alt": "Blueberry Pie Blunts - 2x1.5g - 3g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-blunts-swisher-blunts-blueberry-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-blunts-swisher-blunts-blueberry-pie-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.923Z"
+}

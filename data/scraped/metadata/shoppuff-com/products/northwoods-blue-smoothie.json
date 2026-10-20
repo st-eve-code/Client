@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-blue-smoothie",
+  "name": "Northwoods | Blue Smoothie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 89,
+  "currency": "USD",
+  "price_range": "$5.00 – $89.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "Blue Smoothie is a hybrid cross of Cream Smoothie x Sherb Cream Pie. Experience notes of sweet berries, cream and cake followed by the smooth and relaxing effects of this cross.",
+  "description_html": "Blue Smoothie is a hybrid cross of Cream Smoothie x Sherb Cream Pie. Experience notes of sweet berries, cream and cake followed by the smooth and relaxing effects of this cross.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e9e895762c8c4eef4c3315c04a2e9daa",
+      "alt": "Northwoods | Blue Smoothie",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-blue-smoothie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 89,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-blue-smoothie-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.380Z"
+}

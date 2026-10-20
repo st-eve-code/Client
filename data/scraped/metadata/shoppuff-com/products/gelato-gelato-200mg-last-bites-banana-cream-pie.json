@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-200mg-last-bites-banana-cream-pie",
+  "name": "Gelato | 200mg Last Bites | Banana Cream Pie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Indulge in our banana cream pie last bite, filled with luxurious creamy banana flavored white chocolate.",
+  "description_html": "Indulge in our banana cream pie last bite, filled with luxurious creamy banana flavored white chocolate.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7983a4bee5c894ffbc8a8bebb2fb8c65",
+      "alt": "Gelato | 200mg Last Bites | Banana Cream Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-200mg-last-bites-banana-cream-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-200mg-last-bites-banana-cream-pie-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.779Z"
+}

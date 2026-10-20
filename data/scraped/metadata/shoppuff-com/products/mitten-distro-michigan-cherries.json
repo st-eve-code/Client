@@ -1,0 +1,55 @@
+{
+  "slug": "mitten-distro-michigan-cherries",
+  "name": "Mitten Distro | Michigan Cherries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 70,
+  "currency": "USD",
+  "price_range": "$5.00 – $70.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/31b3decbf952d0afaa97456f548959fa",
+      "alt": "Mitten Distro | Michigan Cherries",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-distro-michigan-cherries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-distro-michigan-cherries-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.601Z"
+}

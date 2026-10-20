@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-pro-disposable-spearmint",
+  "name": "Breeze Canna PRO Disposable | Spearmint",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "We think this is the most authentic Spearmint flavor available! We worked hard to develop the complexity and improve the smooth double-minty flavor. Complex, delicious and refreshing!",
+  "description_html": "We think this is the most authentic Spearmint flavor available! We worked hard to develop the complexity and improve the smooth double-minty flavor. Complex, delicious and refreshing!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c685d004dfe5d5763668217ffc58a261",
+      "alt": "Breeze Canna PRO Disposable | Spearmint",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-pro-disposable-spearmint__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-pro-disposable-spearmint-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.944Z"
+}

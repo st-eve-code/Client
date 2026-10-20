@@ -1,0 +1,35 @@
+{
+  "slug": "raw-20-count-cones",
+  "name": "Raw | 20 Count Cones",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "RAW’s goal is to make the world’s best rolling papers, and they have done a great job at turning their brand into a household name. RAW papers and cones are unbleached and unrefined for a delicious smoke. This 20-pack of pre-rolled king size cones is a great deal for customers who love to pack their own cones.",
+  "description_html": "RAW’s goal is to make the world’s best rolling papers, and they have done a great job at turning their brand into a household name. RAW papers and cones are unbleached and unrefined for a delicious smoke. This 20-pack of pre-rolled king size cones is a great deal for customers who love to pack their own cones. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c458a21d6b63ce89eda563060ad5c5e3",
+      "alt": "Raw | 20 Count Cones",
+      "local": "data\\scraped\\images\\shoppuff-com__raw-20-count-cones__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/raw-20-count-cones-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.935Z"
+}

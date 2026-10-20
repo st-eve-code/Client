@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-live-rosin-sour-gak",
+  "name": "Local Grove Live Rosin | Sour Gak",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Mystery Sour x GAK (G13 x AK47) \n\nBreeder: Dying Breed Seeds \n\nAroma & Flavor: Complex fruity nose with gas on the back end \n\nEffects: Hybrid – flavorful with strong effects; excellent for both flower and rosin",
+  "description_html": "Genetics: Mystery Sour x GAK (G13 x AK47) <br /><br />Breeder: Dying Breed Seeds <br /><br />Aroma & Flavor: Complex fruity nose with gas on the back end <br /><br />Effects: Hybrid – flavorful with strong effects; excellent for both flower and rosin",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0536f9ac97f34087928c779b69e32f50",
+      "alt": "Local Grove Live Rosin | Sour Gak",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-live-rosin-sour-gak__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-live-rosin-sour-gak-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.701Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "rise-rise-200mg-tablets-cbg",
+  "name": "Rise | 200mg Tablets | CBG",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "Established out of a desire to improve patient well-being, RISE products provide a robust custom cannabis platform. Each tablet contains 10mg total cannabinoids and natural terpenes. RISE products are also free of sugar, gluten, and nuts.\n\n10mg CBG Tablets are non-psychoactive and promote endocannabinoid support and anti-nausea.\n\nCBG Tablets - 10mg per tablet. 20 tablets/bottle\n\nCustom ratios. Custom doses. Custom cannabis.",
+  "description_html": "Established out of a desire to improve patient well-being, RISE products provide a robust custom cannabis platform. Each tablet contains 10mg total cannabinoids and natural terpenes. RISE products are also free of sugar, gluten, and nuts.<br /><br />10mg CBG Tablets are non-psychoactive and promote endocannabinoid support and anti-nausea.<br /><br />CBG Tablets - 10mg per tablet. 20 tablets/bottle<br /><br />Custom ratios. Custom doses. Custom cannabis.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3a16ad66511233f36f95886ba57dd1e4",
+      "alt": "Rise | 200mg Tablets | CBG",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-rise-200mg-tablets-cbg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ORAL"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-rise-200mg-tablets-cbg-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.446Z"
+}

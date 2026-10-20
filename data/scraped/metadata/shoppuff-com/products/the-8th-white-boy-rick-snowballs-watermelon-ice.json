@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-snowballs-watermelon-ice",
+  "name": "White Boy Rick Snowballs | Watermelon Ice",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6cc41b9ad419fe2b2baf03cd2015c2ce",
+      "alt": "White Boy Rick Snowballs | Watermelon Ice",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-snowballs-watermelon-ice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-snowballs-watermelon-ice-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.816Z"
+}

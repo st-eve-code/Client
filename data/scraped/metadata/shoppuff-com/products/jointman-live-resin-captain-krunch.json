@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-live-resin-captain-krunch",
+  "name": "Jointman Live Resin | Captain Krunch",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Jointman",
+  "tags": [],
+  "description": "Step into the world of next-level dabs with the Jointman 5g Live Resin Concentrate — crafted for connoisseurs who demand potency without compromise. Extracted from fresh, premium flower, this live resin locks in every terpene and cannabinoid for a true-to-plant, full-spectrum experience that hits hard and tastes like the source.",
+  "description_html": "Step into the world of next-level dabs with the Jointman 5g Live Resin Concentrate — crafted for connoisseurs who demand potency without compromise. Extracted from fresh, premium flower, this live resin locks in every terpene and cannabinoid for a true-to-plant, full-spectrum experience that hits hard and tastes like the source.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5949bd666a85fed613e442d3061ab338",
+      "alt": "Jointman Live Resin | Captain Krunch",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-live-resin-captain-krunch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-live-resin-captain-krunch-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.762Z"
+}

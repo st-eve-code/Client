@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-1g-lqd-pod-purple-haze",
+  "name": "Stiiizy | 1g LQD Pod | Purple Haze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "PURPLE HAZE\n\nTASTE: Berry, Sweet, Earthy\n\nFEELING: Euphoric, Uplifting, Happy\n\nDESCRIPTION: An east coast staple, Potent, Sweet, earthy undertones intertwine with a hint of berries.",
+  "description_html": "PURPLE HAZE<br /><br />TASTE: Berry, Sweet, Earthy<br /><br />FEELING: Euphoric, Uplifting, Happy<br /><br />DESCRIPTION: An east coast staple, Potent, Sweet, earthy undertones intertwine with a hint of berries.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0340a0237553d3d66d45a5d5cd3736d5",
+      "alt": "Stiiizy | 1g LQD Pod | Purple Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-1g-lqd-pod-purple-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-1g-lqd-pod-purple-haze-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.163Z"
+}

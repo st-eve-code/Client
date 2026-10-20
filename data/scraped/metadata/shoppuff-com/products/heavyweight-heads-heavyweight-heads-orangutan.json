@@ -1,0 +1,60 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-orangutan",
+  "name": "Heavyweight Heads | Orangutan",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 125.99,
+  "currency": "USD",
+  "price_range": "$7.00 – $125.99",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "ORANGUTAN IS A HWH ORIGINAL SATIVA THAT TOOK FIRST PLACE IN THE HIGH TIMES CUP IN 2021. ITS PINE & CITRUS AROMA PAIRED WITH A SWEET AND SOUR TASTE WILL HAVE YOU COMING BACK FOR MORE. EXPECT A INITIAL BOOST OF ENERGY FOLLOWED BY A SOOTHING, CREATIVE HIGH.",
+  "description_html": "ORANGUTAN IS A HWH ORIGINAL SATIVA THAT TOOK FIRST PLACE IN THE HIGH TIMES CUP IN 2021. ITS PINE & CITRUS AROMA PAIRED WITH A SWEET AND SOUR TASTE WILL HAVE YOU COMING BACK FOR MORE. EXPECT A INITIAL BOOST OF ENERGY FOLLOWED BY A SOOTHING, CREATIVE HIGH.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b8c389472142ab2b5fdeab8680442c51",
+      "alt": "Heavyweight Heads | Orangutan",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-orangutan__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 125.99,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-orangutan-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.988Z"
+}

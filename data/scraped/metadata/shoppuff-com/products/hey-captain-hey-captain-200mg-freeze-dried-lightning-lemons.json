@@ -1,0 +1,35 @@
+{
+  "slug": "hey-captain-hey-captain-200mg-freeze-dried-lightning-lemons",
+  "name": "Hey Captain | 200mg Freeze Dried | Lightning Lemons",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Hey Captain",
+  "tags": [],
+  "description": "Lightning Lemons are the perfect taste of Lemon with a sour zing followed by a sugar rush! Don't miss out on these super crunchy sour treats!",
+  "description_html": "Lightning Lemons are the perfect taste of Lemon with a sour zing followed by a sugar rush! Don't miss out on these super crunchy sour treats!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/69b20c0d62438bb60a82ef8b3fedafe0",
+      "alt": "Hey Captain | 200mg Freeze Dried | Lightning Lemons",
+      "local": "data\\scraped\\images\\shoppuff-com__hey-captain-hey-captain-200mg-freeze-dried-lightning-lemons__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hey-captain-hey-captain-200mg-freeze-dried-lightning-lemons-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.865Z"
+}

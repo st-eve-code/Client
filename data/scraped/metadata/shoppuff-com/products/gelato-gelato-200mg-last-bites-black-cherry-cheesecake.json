@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-200mg-last-bites-black-cherry-cheesecake",
+  "name": "Gelato | 200mg Last Bites | Black Cherry Cheesecake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "200mg Edible",
+  "description_html": "200mg Edible",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/72400fb4e1f9f197a432b46285b51f3f",
+      "alt": "Gelato | 200mg Last Bites | Black Cherry Cheesecake",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-200mg-last-bites-black-cherry-cheesecake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.2g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-200mg-last-bites-black-cherry-cheesecake-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.856Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-rso-dart-recovery",
+  "name": "Cannalicious RSO Dart | Recovery",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Recovery RSO is rich in 5/6 top cannabinoids being evaluated today, as well as an uplifting tropical terpene blend to get you going and provide a palatable experience. Mood Elevating, inflammation fighting, and pain relieving (just to mention a few benefits,) make Recovery RSO an amazing product to naturally relieve and recover your body after any strenuous activity or even just a long day.",
+  "description_html": "Recovery RSO is rich in 5/6 top cannabinoids being evaluated today, as well as an uplifting tropical terpene blend to get you going and provide a palatable experience. Mood Elevating, inflammation fighting, and pain relieving (just to mention a few benefits,) make Recovery RSO an amazing product to naturally relieve and recover your body after any strenuous activity or even just a long day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6338094b6d55c3c9cf5c53e5d01967ce",
+      "alt": "Cannalicious RSO Dart | Recovery",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-rso-dart-recovery__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-rso-dart-recovery-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.208Z"
+}

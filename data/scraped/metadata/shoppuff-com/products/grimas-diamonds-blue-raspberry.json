@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-diamonds-blue-raspberry",
+  "name": "Grimas Diamonds | Blue Raspberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "description_html": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Grimas Diamonds | Blue Raspberry",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-diamonds-blue-raspberry__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-diamonds-blue-raspberry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.680Z"
+}

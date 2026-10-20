@@ -1,0 +1,35 @@
+{
+  "slug": "plant-nerd-plant-nerd-prepackaged-flower-jar-the-soap",
+  "name": "Plant Nerd Prepackaged Flower Jar | The Soap",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 80,
+  "price_max": 80,
+  "currency": "USD",
+  "price_range": "$80.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Soap has a smooth minty, pinene nose and equally smooth energizing high while boasting high THC content. We’re growing Soap for the folks who want to smoke before a heated game of pickleball, going for a bike ride, or anything else you want to feel great for.",
+  "description_html": "Soap has a smooth minty, pinene nose and equally smooth energizing high while boasting high THC content. We’re growing Soap for the folks who want to smoke before a heated game of pickleball, going for a bike ride, or anything else you want to feel great for.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c396c51820cd0c49f837cf83a457a26d",
+      "alt": "Plant Nerd Prepackaged Flower Jar | The Soap",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-prepackaged-flower-jar-the-soap__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-prepackaged-flower-jar-the-soap-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.885Z"
+}

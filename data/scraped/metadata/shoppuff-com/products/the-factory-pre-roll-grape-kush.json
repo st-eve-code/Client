@@ -1,0 +1,35 @@
+{
+  "slug": "the-factory-pre-roll-grape-kush",
+  "name": "Grape Kush Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Factory",
+  "tags": [],
+  "description": "For the Makers. For the Bold. For You. This value. This value-priced product lineup is a tribute to the doers and hustlers. Step into the legacy of Michigan's grit and determination with our Factory series. Inspired by our founders' roots in the caregiver market and the industrious spirit of Metro-Detroit. A solid product at a great price.",
+  "description_html": "For the Makers. For the Bold. For You. This value. This value-priced product lineup is a tribute to the doers and hustlers. Step into the legacy of Michigan's grit and determination with our Factory series. Inspired by our founders' roots in the caregiver market and the industrious spirit of Metro-Detroit. A solid product at a great price.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1856d2cdc37eeb50165e425e36702a7c",
+      "alt": "Grape Kush Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__the-factory-pre-roll-grape-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-factory-pre-roll-grape-kush-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.195Z"
+}

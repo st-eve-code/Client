@@ -1,0 +1,35 @@
+{
+  "slug": "loosies-loosies-preroll-28pk-sunset-sherbert",
+  "name": "Loosies Preroll 28pk | Sunset Sherbert",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Loosies",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2be44e6bf03b5e9a300c1a4ed8d19eb8",
+      "alt": "Loosies Preroll 28pk | Sunset Sherbert",
+      "local": "data\\scraped\\images\\shoppuff-com__loosies-loosies-preroll-28pk-sunset-sherbert__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loosies-loosies-preroll-28pk-sunset-sherbert-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.535Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "cosmic-cowboy-infused-snowballs-pineapple-burst",
+  "name": "Cosmic Cowboy | Infused Snowballs | Pineapple Burst",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 200,
+  "currency": "USD",
+  "price_range": "$10.00 – $200.00",
+  "available": true,
+  "vendor": "Cosmic Cowboy",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/aff5d19b79c160c899e171a6341984e0",
+      "alt": "Cosmic Cowboy | Infused Snowballs | Pineapple Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__cosmic-cowboy-infused-snowballs-pineapple-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 100,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 200,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cosmic-cowboy-infused-snowballs-pineapple-burst-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.697Z"
+}

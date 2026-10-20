@@ -1,0 +1,60 @@
+{
+  "slug": "weed-snobs-weed-snobs-tagalongz",
+  "name": "Weed Snobs | Tagalongz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Tagalonz is a slightly indica dominant hybrid strain (60% indica/40% sativa) created through crossing the delicious Peanut Butter Breath X Oreoz strains. This tasty bud steals its name from the infamous Girl Scout cookie, offering a flavor that is reminiscent and effects that aren't quite the same as indulging in an actual peanut butter patty cookie. The flavor of Tagalonz is definitely nutty and creamy with touches of rich chocolate and mouthwatering peanut butter. The aroma follows the same profile but with an added punch of sour citrus that intensifies the more that you toke. The Tagalonz high will hit you immediately upon your final exhale, filling you with a sense of pure happiness that can be a bit heady and unfocused at times. You'll feel creatively inspired and giddy, ready to get to work on any artistic task at hand.",
+  "description_html": "Tagalonz is a slightly indica dominant hybrid strain (60% indica/40% sativa) created through crossing the delicious Peanut Butter Breath X Oreoz strains. This tasty bud steals its name from the infamous Girl Scout cookie, offering a flavor that is reminiscent and effects that aren't quite the same as indulging in an actual peanut butter patty cookie. The flavor of Tagalonz is definitely nutty and creamy with touches of rich chocolate and mouthwatering peanut butter. The aroma follows the same profile but with an added punch of sour citrus that intensifies the more that you toke. The Tagalonz high will hit you immediately upon your final exhale, filling you with a sense of pure happiness that can be a bit heady and unfocused at times. You'll feel creatively inspired and giddy, ready to get to work on any artistic task at hand.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f5d1959fab36252da95966c31bd34d4d",
+      "alt": "Weed Snobs | Tagalongz",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-weed-snobs-tagalongz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-weed-snobs-tagalongz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.819Z"
+}

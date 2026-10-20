@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-blueberry-kush-jeeter-infused-pre-roll-1g",
+  "name": "Blueberry Kush Jeeter Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Blueberry Kush is an indica strain made by crossing Blueberry and OG Kush. It has a lovely fruity sweet aroma and flavor true to its name, complemented with some light earthy undertones. This strain produces effects that slowly bring on a heavy body sensation, and relaxation. Blueberry Kush is a popular choice for evening use, as its dreamy effects will help you float into a deep sleep.",
+  "description_html": "Blueberry Kush is an indica strain made by crossing Blueberry and OG Kush. It has a lovely fruity sweet aroma and flavor true to its name, complemented with some light earthy undertones. This strain produces effects that slowly bring on a heavy body sensation, and relaxation. Blueberry Kush is a popular choice for evening use, as its dreamy effects will help you float into a deep sleep.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b01a94494f4e336af03fb818b40a583a",
+      "alt": "Blueberry Kush Jeeter Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-blueberry-kush-jeeter-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-blueberry-kush-jeeter-infused-pre-roll-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.764Z"
+}

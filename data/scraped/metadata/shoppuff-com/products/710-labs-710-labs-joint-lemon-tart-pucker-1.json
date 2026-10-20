@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-joint-lemon-tart-pucker-1",
+  "name": "710 Labs Joint | Lemon Tart Pucker #1",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b59f3e37557f2aeced3c8baaa014e90d",
+      "alt": "710 Labs Joint | Lemon Tart Pucker #1",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-joint-lemon-tart-pucker-1__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-joint-lemon-tart-pucker-1-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.889Z"
+}

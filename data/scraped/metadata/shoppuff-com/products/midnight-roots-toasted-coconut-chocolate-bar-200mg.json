@@ -1,0 +1,35 @@
+{
+  "slug": "midnight-roots-toasted-coconut-chocolate-bar-200mg",
+  "name": "Toasted Coconut Chocolate Bar | 200mg",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Midnight Roots",
+  "tags": [],
+  "description": "Midnight Roots has positioned itself as an industry standard creator and a connoisseur of luxury cannabis products. Their Midnight Bars are handmade artisan chocolates of the finest quality, fully tested (twice through MMFLA) and licensed through Choice Laboratories in Jackson, MI.",
+  "description_html": "Midnight Roots has positioned itself as an industry standard creator and a connoisseur of luxury cannabis products. Their Midnight Bars are handmade artisan chocolates of the finest quality, fully tested (twice through MMFLA) and licensed through Choice Laboratories in Jackson, MI.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7e6d6c75062b64dbee1ac598cd2e6ceb",
+      "alt": "Toasted Coconut Chocolate Bar | 200mg",
+      "local": "data\\scraped\\images\\shoppuff-com__midnight-roots-toasted-coconut-chocolate-bar-200mg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.75g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midnight-roots-toasted-coconut-chocolate-bar-200mg-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.796Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "cloverdale-cloverdale-gardens-candy-fritterz",
+  "name": "Cloverdale Gardens | Candy Fritterz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "Cloverdale",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0a428bb4ad5e73afeb1c153a65bfa868",
+      "alt": "Cloverdale Gardens | Candy Fritterz",
+      "local": "data\\scraped\\images\\shoppuff-com__cloverdale-cloverdale-gardens-candy-fritterz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloverdale-cloverdale-gardens-candy-fritterz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.705Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "grab-go-grab-go-thca-snow-caps-gobstopperz",
+  "name": "Grab & Go | THCA Snow Caps | Gobstopperz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 98,
+  "currency": "USD",
+  "price_range": "$5.00 – $98.00",
+  "available": true,
+  "vendor": "Grab & Go",
+  "tags": [],
+  "description": "THCA Infused Snow Caps\n\nDried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "THCA Infused Snow Caps<br /><br />Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/233d5e56932ac9c2603d6464eed78584",
+      "alt": "Grab & Go | THCA Snow Caps | Gobstopperz",
+      "local": "data\\scraped\\images\\shoppuff-com__grab-go-grab-go-thca-snow-caps-gobstopperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 98,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 49,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grab-go-grab-go-thca-snow-caps-gobstopperz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.600Z"
+}

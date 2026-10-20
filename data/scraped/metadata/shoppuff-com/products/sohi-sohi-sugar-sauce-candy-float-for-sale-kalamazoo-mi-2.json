@@ -1,0 +1,35 @@
+{
+  "slug": "sohi-sohi-sugar-sauce-candy-float-for-sale-kalamazoo-mi-2",
+  "name": "SoHi Sugar & Sauce | Candy Float",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "SoHi",
+  "tags": [],
+  "description": "1g Sugar & Sauce",
+  "description_html": "1g Sugar & Sauce                                                                                          <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0b930d58d75b429c90ff0c3af5851c9c",
+      "alt": "SoHi Sugar & Sauce | Candy Float",
+      "local": "data\\scraped\\images\\shoppuff-com__sohi-sohi-sugar-sauce-candy-float-for-sale-kalamazoo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sohi-sohi-sugar-sauce-candy-float-for-sale-kalamazoo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.878Z"
+}

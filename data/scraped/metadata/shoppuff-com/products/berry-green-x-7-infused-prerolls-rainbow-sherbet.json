@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-x-7-infused-prerolls-rainbow-sherbet",
+  "name": "Berry Green x 7 Infused Prerolls | Rainbow Sherbet",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Colorful chaos. Fruity fire with a high that hits every flavor of good.\n\nEffect: Euphoric lift with mellow body waves — a feel-good in every puff.",
+  "description_html": "Colorful chaos. Fruity fire with a high that hits every flavor of good.<br /><br />Effect: Euphoric lift with mellow body waves — a feel-good in every puff.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3f80ec9e5791ef2f2fcfe8c54f7fa307",
+      "alt": "Berry Green x 7 Infused Prerolls | Rainbow Sherbet",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-x-7-infused-prerolls-rainbow-sherbet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-x-7-infused-prerolls-rainbow-sherbet-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.245Z"
+}

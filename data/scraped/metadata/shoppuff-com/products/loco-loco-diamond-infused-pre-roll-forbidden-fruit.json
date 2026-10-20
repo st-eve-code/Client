@@ -1,0 +1,35 @@
+{
+  "slug": "loco-loco-diamond-infused-pre-roll-forbidden-fruit",
+  "name": "Loco Diamond Infused Pre-Roll | Forbidden Fruit",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "LOCO",
+  "tags": [],
+  "description": "1g Diamond Infused Pre-Roll",
+  "description_html": "1g Diamond Infused Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/87f352bf59fc83e8d2f9e4014fd1d886",
+      "alt": "Loco Diamond Infused Pre-Roll | Forbidden Fruit",
+      "local": "data\\scraped\\images\\shoppuff-com__loco-loco-diamond-infused-pre-roll-forbidden-fruit__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loco-loco-diamond-infused-pre-roll-forbidden-fruit-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.425Z"
+}

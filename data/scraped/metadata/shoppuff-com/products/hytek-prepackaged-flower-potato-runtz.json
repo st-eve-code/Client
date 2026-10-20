@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-prepackaged-flower-potato-runtz",
+  "name": "Hytek Prepackaged Flower | Potato Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "The candies just keep coming in strong!!!! The Potato Runtz gives off that sweet candy flavor. \n\nNo this is not a Potato Kush cross. This is the cut named after the artist Imran Potato. Slide on your caveman slippers and get ready for the ride!\n\nCategory: Hybrid\n\nCross: Zkittles x Gelato\n\nCut: Imran Potato",
+  "description_html": "The candies just keep coming in strong!!!! The Potato Runtz gives off that sweet candy flavor. <br /><br />No this is not a Potato Kush cross. This is the cut named after the artist Imran Potato. Slide on your caveman slippers and get ready for the ride!<br /><br />Category: Hybrid<br /><br />Cross: Zkittles x Gelato<br /><br />Cut: Imran Potato",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0470c1cdd524d927ad51e3dfc4d5474f",
+      "alt": "Hytek Prepackaged Flower | Potato Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-prepackaged-flower-potato-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-prepackaged-flower-potato-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.460Z"
+}

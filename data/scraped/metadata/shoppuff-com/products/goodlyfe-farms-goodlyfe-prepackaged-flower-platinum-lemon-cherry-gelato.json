@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-goodlyfe-prepackaged-flower-platinum-lemon-cherry-gelato",
+  "name": "Goodlyfe Prepackaged Flower | Platinum Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/946478195f59bf3f5433d0534b71bde7",
+      "alt": "Goodlyfe Prepackaged Flower | Platinum Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-goodlyfe-prepackaged-flower-platinum-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-goodlyfe-prepackaged-flower-platinum-lemon-cherry-gelato-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.454Z"
+}

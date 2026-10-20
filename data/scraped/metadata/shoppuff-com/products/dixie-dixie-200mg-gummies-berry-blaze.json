@@ -1,0 +1,35 @@
+{
+  "slug": "dixie-dixie-200mg-gummies-berry-blaze",
+  "name": "Dixie | 200mg Gummies | Berry Blaze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Dixie",
+  "tags": [],
+  "description": "Blazing with delightful, refreshing berry flavors. As a signature Dixie product, you can’t go wrong with this berry pack! It's sure to be a crowd-pleaser for anyone looking to blaze a new trail with edibles consumption.",
+  "description_html": "Blazing with delightful, refreshing berry flavors. As a signature Dixie product, you can’t go wrong with this berry pack! It's sure to be a crowd-pleaser for anyone looking to blaze a new trail with edibles consumption.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7c741c0139e69bcee50f028927c17129",
+      "alt": "Dixie | 200mg Gummies | Berry Blaze",
+      "local": "data\\scraped\\images\\shoppuff-com__dixie-dixie-200mg-gummies-berry-blaze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.185g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dixie-dixie-200mg-gummies-berry-blaze-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.346Z"
+}

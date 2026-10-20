@@ -1,0 +1,35 @@
+{
+  "slug": "dragonfly-dragonfly-infused-pre-roll-blueberry-banana-waffles",
+  "name": "Dragonfly Infused Pre-Roll | Blueberry Banana Waffles",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Dragonfly",
+  "tags": [],
+  "description": "1.25g Infused Pre-Roll",
+  "description_html": "1.25g Infused Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a76d64a25a9a3edaccbc58db2d9241c1",
+      "alt": "Dragonfly Infused Pre-Roll | Blueberry Banana Waffles",
+      "local": "data\\scraped\\images\\shoppuff-com__dragonfly-dragonfly-infused-pre-roll-blueberry-banana-waffles__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dragonfly-dragonfly-infused-pre-roll-blueberry-banana-waffles-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.405Z"
+}

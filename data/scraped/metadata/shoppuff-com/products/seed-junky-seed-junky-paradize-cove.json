@@ -1,0 +1,45 @@
+{
+  "slug": "seed-junky-seed-junky-paradize-cove",
+  "name": "Seed Junky | Paradize Cove",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 27,
+  "currency": "USD",
+  "price_range": "$9.00 – $27.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/52c6bd36001f53d5966676ec4dd817ce",
+      "alt": "Seed Junky | Paradize Cove",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-paradize-cove__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-paradize-cove-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.311Z"
+}

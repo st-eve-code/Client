@@ -1,0 +1,60 @@
+{
+  "slug": "nura-nura-don-mega",
+  "name": "Nura | Don Mega",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 89,
+  "currency": "USD",
+  "price_range": "$5.00 – $89.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "We’ve always strived to do one thing: make everyone happy with what they’re smoking. We aspire to be peoples go-to brand for all their smoking needs. Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "description_html": "We’ve always strived to do one thing: make everyone happy with what they’re smoking. We aspire to be peoples go-to brand for all their smoking needs. Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2d71b2ebdd3cc8c65294f7ff255b850e",
+      "alt": "Nura | Don Mega",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-nura-don-mega__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 89,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-nura-don-mega-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.400Z"
+}

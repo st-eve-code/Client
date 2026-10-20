@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-hand-roll-yellow-mermaid",
+  "name": "Peninsula Gardens Hand Roll | Yellow Mermaid",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Yellow Zushi x Bebesita by Pheno Addicts. A Z lovers dream. Very sweet floral Z nose that translates amazingly well to the smoke. Has a different back end than our plan Z and a wonderful high. Buds are mainly green and not the prettiest but she makes up for it with crazy good flavor.",
+  "description_html": "Yellow Zushi x Bebesita by Pheno Addicts. A Z lovers dream. Very sweet floral Z nose that translates amazingly well to the smoke. Has a different back end than our plan Z and a wonderful high. Buds are mainly green and not the prettiest but she makes up for it with crazy good flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1a81925773da63b0910a6dcbd51b5075",
+      "alt": "Peninsula Gardens Hand Roll | Yellow Mermaid",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-hand-roll-yellow-mermaid__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-hand-roll-yellow-mermaid-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.778Z"
+}

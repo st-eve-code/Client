@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-prepackaged-flower-lantz",
+  "name": "Peninsula Gardens Prepackaged Flower | Lantz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "We were gifted this cut from Chocolate at Hytek. Bred by Ridgeline Farms, it’s a cross of Ridgeline Runtz and Green Lantern. Varies from bright green to deep purple. Think of it as a Runtz with a heavy kick of lime. Incredible smoker for the candy lovers.",
+  "description_html": "We were gifted this cut from Chocolate at Hytek. Bred by Ridgeline Farms, it’s a cross of Ridgeline Runtz and Green Lantern. Varies from bright green to deep purple. Think of it as a Runtz with a heavy kick of lime. Incredible smoker for the candy lovers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7cb7cbf4b4c4ebe5cdbb94dad517ba3e",
+      "alt": "Peninsula Gardens Prepackaged Flower | Lantz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-prepackaged-flower-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-prepackaged-flower-lantz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.685Z"
+}

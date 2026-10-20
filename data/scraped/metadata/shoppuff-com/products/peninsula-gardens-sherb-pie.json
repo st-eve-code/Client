@@ -1,0 +1,55 @@
+{
+  "slug": "peninsula-gardens-sherb-pie",
+  "name": "Sherb Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 66,
+  "currency": "USD",
+  "price_range": "$6.00 – $66.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "@Bonez_grown cut of Seed Junky’s Sherb Cake. Ice Cream Cake x Sunset Sherbet. Beautiful purple buds that lean heavy towards the sherb smell and flavors with just enough of the cake flavor to compliment.",
+  "description_html": "@Bonez_grown cut of Seed Junky’s Sherb Cake. Ice Cream Cake x Sunset Sherbet. Beautiful purple buds that lean heavy towards the sherb smell and flavors with just enough of the cake flavor to compliment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ba6b31726a7919ffd74daacd217310e9",
+      "alt": "Sherb Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-sherb-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 66,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 36,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 18,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-sherb-pie-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.197Z"
+}

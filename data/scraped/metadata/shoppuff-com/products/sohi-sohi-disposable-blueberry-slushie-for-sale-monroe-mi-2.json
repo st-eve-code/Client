@@ -1,0 +1,35 @@
+{
+  "slug": "sohi-sohi-disposable-blueberry-slushie-for-sale-monroe-mi-2",
+  "name": "SoHi Disposable | Blueberry Slushie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "SoHi",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/07c051fe32d56c3777dd831b2d9453bb",
+      "alt": "SoHi Disposable | Blueberry Slushie",
+      "local": "data\\scraped\\images\\shoppuff-com__sohi-sohi-disposable-blueberry-slushie-for-sale-monroe-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sohi-sohi-disposable-blueberry-slushie-for-sale-monroe-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.661Z"
+}

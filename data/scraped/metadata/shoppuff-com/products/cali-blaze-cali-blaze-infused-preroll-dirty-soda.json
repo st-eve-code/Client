@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-infused-preroll-dirty-soda",
+  "name": "Cali Blaze Infused Preroll | Dirty Soda",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Infused with Liquid Diamonds: THC-A diamonds liquified for a clean, high-potency infusion. Clean, clear-headed potency — no muddled high.",
+  "description_html": "Infused with Liquid Diamonds: THC-A diamonds liquified for a clean, high-potency infusion. Clean, clear-headed potency — no muddled high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/69cb8968608e46915796914b4f113c63",
+      "alt": "Cali Blaze Infused Preroll | Dirty Soda",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-infused-preroll-dirty-soda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-infused-preroll-dirty-soda-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.693Z"
+}

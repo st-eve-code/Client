@@ -1,0 +1,35 @@
+{
+  "slug": "doja-exclusive-doja-prepackaged-flower-lemongrass-gas",
+  "name": "Doja Prepackaged Flower | Lemongrass Gas",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "Doja Exclusive",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fc00bf1c001165c47bdabc5fb6dcf71a",
+      "alt": "Doja Prepackaged Flower | Lemongrass Gas",
+      "local": "data\\scraped\\images\\shoppuff-com__doja-exclusive-doja-prepackaged-flower-lemongrass-gas__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doja-exclusive-doja-prepackaged-flower-lemongrass-gas-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.499Z"
+}

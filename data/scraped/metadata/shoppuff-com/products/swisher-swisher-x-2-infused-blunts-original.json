@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-swisher-x-2-infused-blunts-original",
+  "name": "Swisher x 2 Infused Blunts | Original",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Swisher",
+  "tags": [],
+  "description": "1.5g x 2 Infused Blunts\n3g Total\n\nExperience the familiar taste of nostalgia with Swisher Blunts Original - our classic, redefined.",
+  "description_html": "1.5g x 2 Infused Blunts<br />3g Total<br /><br />Experience the familiar taste of nostalgia with Swisher Blunts Original - our classic, redefined.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/326113050c18549058002103939de525",
+      "alt": "Swisher x 2 Infused Blunts | Original",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-swisher-x-2-infused-blunts-original__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-swisher-x-2-infused-blunts-original-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.425Z"
+}

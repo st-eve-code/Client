@@ -1,0 +1,35 @@
+{
+  "slug": "divvy-1g-x-2-infused-pre-roll-pack-watermelon-pineapple",
+  "name": "Divvy | 1g x 2 Infused Pre-Roll Pack | Watermelon Pineapple",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Divvy",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3096407b65907548318d4a325c59af8a",
+      "alt": "Divvy | 1g x 2 Infused Pre-Roll Pack | Watermelon Pineapple",
+      "local": "data\\scraped\\images\\shoppuff-com__divvy-1g-x-2-infused-pre-roll-pack-watermelon-pineapple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/divvy-1g-x-2-infused-pre-roll-pack-watermelon-pineapple-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.797Z"
+}

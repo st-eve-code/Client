@@ -1,0 +1,35 @@
+{
+  "slug": "loosies-1g-preroll-city-kush",
+  "name": "Loosies | 1g Preroll | City Kush",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1,
+  "price_max": 1,
+  "currency": "USD",
+  "price_range": "$1.00",
+  "available": true,
+  "vendor": "Loosies",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2be44e6bf03b5e9a300c1a4ed8d19eb8",
+      "alt": "Loosies | 1g Preroll | City Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__loosies-1g-preroll-city-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loosies-1g-preroll-city-kush-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.401Z"
+}

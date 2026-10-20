@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-prepackaged-flower-wedding-cake-badder",
+  "name": "OG Farms Prepackaged Flower | Wedding Cake Badder",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "Whether you’re stocking up or rolling through your go-to strain, OG Farms brings you a smooth, flavorful experience backed by trusted cultivation and dependable results.",
+  "description_html": "Whether you’re stocking up or rolling through your go-to strain, OG Farms brings you a smooth, flavorful experience backed by trusted cultivation and dependable results.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/88671869f2c30cc65b24eaa9ff49c56a",
+      "alt": "OG Farms Prepackaged Flower | Wedding Cake Badder",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-prepackaged-flower-wedding-cake-badder__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-prepackaged-flower-wedding-cake-badder-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.275Z"
+}

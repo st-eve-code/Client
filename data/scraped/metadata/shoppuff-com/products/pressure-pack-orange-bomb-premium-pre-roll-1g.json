@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-orange-bomb-premium-pre-roll-1g",
+  "name": "Orange Bomb Premium Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Orange Bomb produces a high that may help your mind expand into a state of euphoria. This strain has a citrusy aroma with notes of oranges on the inhale and Spices on the exhale. The possible uplifting effects are known to be long-lasting.",
+  "description_html": "Orange Bomb produces a high that may help your mind expand into a state of euphoria. This strain has a citrusy aroma with notes of oranges on the inhale and Spices on the exhale. The possible uplifting effects are known to be long-lasting.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/36a7c07c6de6b0a9b90cd3c0d4ffebdb",
+      "alt": "Orange Bomb Premium Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-orange-bomb-premium-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-orange-bomb-premium-pre-roll-1g-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.698Z"
+}

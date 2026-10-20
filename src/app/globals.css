@@ -2,7 +2,8 @@
 
 @theme inline {
   /* Fonts */
-  --font-plus-jakarta-sans: var(--font-plus-jakarta-sans), ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-display: var(--font-bricolage), ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --font-helvetica: 'Helvetica', ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 
   /* Colors */
@@ -11,7 +12,7 @@
   --color-text-secondary: #2563eb;
   --color-text-muted: #3f3f46;
   --color-accent: #111f2a;
-  --color-bg-surface: #eef5fa;
+  --color-bg-surface: #ffffff;
   --color-border: #e5e7eb;
   --color-border-strong: #6b7280;
   --color-gray-dark: #a1a1aa;
@@ -20,26 +21,28 @@
   --color-green-dark: #5eb047;
   --color-blue-light: #bbd6ed;
 
-  /* Typography scale */
-  --text-display: 42px;
-  --leading-display: 0.48;
-  --text-heading-lg: 30px;
-  --leading-heading-lg: 1.33;
-  --text-heading: 26px;
-  --leading-heading: 3;
-  --text-heading-sm: 22px;
-  --leading-heading-sm: 1.41;
+  /* Typography scale (desktop / mobile) */
+  --text-display: clamp(36px, 5.4vw, 56px);   /* H1 hero: 56 / 36 */
+  --leading-display: 1.05;
+  --tracking-display: -0.03em;
+  --text-heading-lg: clamp(26px, 3.3vw, 36px); /* H2 section: 36 / 26 */
+  --leading-heading-lg: 1.15;
+  --tracking-heading: -0.02em;
+  --text-heading: clamp(18px, 2vw, 20px);      /* H3 card group: 20 / 18 */
+  --leading-heading: 1.25;
+  --text-heading-sm: clamp(18px, 2.2vw, 20px);
+  --leading-heading-sm: 1.25;
   --text-subheading: 20px;
-  --leading-subheading: 1.55;
-  --text-body: 17px;
-  --leading-body: 1.38;
+  --leading-subheading: 1.4;
+  --text-body: clamp(15px, 1.1vw, 16px);       /* Body: 16 / 15 */
+  --leading-body: 1.6;
   --text-small: 15px;
-  --leading-small: 1.57;
+  --leading-small: 1.5;
   --text-caption: 13px;
-  --leading-caption: 1.69;
+  --leading-caption: 1.5;
 
   /* Layout */
-  --page-max-width: 1000px;
+  --page-max-width: 1280px;
   --card-padding: 8px;
   --element-gap: 8px;
   --spacing-unit: 4px;
@@ -74,6 +77,29 @@
   html {
     scroll-behavior: smooth;
   }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: var(--text-body);
+    line-height: var(--leading-body);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-display);
+    letter-spacing: var(--tracking-heading);
+  }
+
+  input,
+  button,
+  select,
+  textarea {
+    font-family: inherit;
+  }
 }
 
 @utility btn-primary {
@@ -84,6 +110,116 @@
   @apply hover:bg-[#91f974] hover:text-[#111f2a];
 }
 
+@utility font-display {
+  font-family: var(--font-display);
+  letter-spacing: var(--tracking-heading);
+}
+
+@utility tabular {
+  font-variant-numeric: tabular-nums;
+}
+
 @utility container-vapestore {
-  @apply max-w-[1000px] mx-auto px-4;
+  @apply max-w-[1280px] mx-auto px-5 lg:px-8;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Brand logo marquee */
+.marquee-track {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+  animation: marquee-scroll 40s linear infinite;
+}
+
+.marquee:hover .marquee-track {
+  animation-play-state: paused;
+}
+
+@keyframes marquee-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+/* Bento box grid */
+.bento-grid {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: repeat(5, auto);
+  gap: 20px 20px;
+  grid-template-areas:
+    "promo-1 promo-1"
+    "promo-2 promo-2"
+    "promo-3 promo-4"
+    "promo-3 promo-4"
+    "promo-5 promo-5";
+}
+
+.bento-promo-1 {
+  grid-area: promo-1;
+  height: 335px;
+}
+
+.bento-promo-2 {
+  grid-area: promo-2;
+  height: 254px;
+}
+
+.bento-promo-3 {
+  grid-area: promo-3;
+  height: 254px;
+}
+
+.bento-promo-4 {
+  grid-area: promo-4;
+  height: 254px;
+}
+
+.bento-promo-5 {
+  grid-area: promo-5;
+  height: 335px;
+}
+
+@media (min-width: 1024px) {
+  .bento-grid {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-template-rows: repeat(2, minmax(0, 1fr));
+    grid-template-areas:
+      "promo-1 promo-1 promo-2 promo-2 promo-5 promo-5"
+      "promo-1 promo-1 promo-3 promo-4 promo-5 promo-5";
+    max-height: 450px;
+    overflow: hidden;
+    gap: 20px;
+  }
+
+  .bento-promo-1 {
+    height: 100%;
+  }
+
+  .bento-promo-2 {
+    height: 100%;
+  }
+
+  .bento-promo-3,
+  .bento-promo-4 {
+    min-height: 227px;
+    height: 100%;
+  }
+
+  .bento-promo-5 {
+    height: 100%;
+  }
 }

@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-juicee-j",
+  "name": "Local Grove Live Rosin | Juicee J",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Cap Junky x (Gelato 41 x Sunset Sherbert BX) \n\nBreeder: Seed Junky Genetics \n\nAroma & Flavor: Sweet, gassy notes with dense trichome-covered buds \n\nEffects: Powerful hybrid – very strong and long-lasting effects",
+  "description_html": "Genetics: Cap Junky x (Gelato 41 x Sunset Sherbert BX) <br /><br />Breeder: Seed Junky Genetics <br /><br />Aroma & Flavor: Sweet, gassy notes with dense trichome-covered buds <br /><br />Effects: Powerful hybrid – very strong and long-lasting effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bbf2d81f01501951d545bf61bd55406f",
+      "alt": "Local Grove Live Rosin | Juicee J",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-juicee-j__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-juicee-j-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.946Z"
+}

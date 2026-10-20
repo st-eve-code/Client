@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-1g-pre-roll-pineapple-shotz",
+  "name": "Seed Junky | 1g Pre-Roll | Pineapple Shotz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Pineapple Shotz is a flavorful sativa that will help you loosen up and get the creativity flowing. The effects are a gentle wave of cerebral uplift, inducing a happy and sociable mood that is perfect for unwinding. Grab some friends and get ready for some shotz!",
+  "description_html": "Pineapple Shotz is a flavorful sativa that will help you loosen up and get the creativity flowing. The effects are a gentle wave of cerebral uplift, inducing a happy and sociable mood that is perfect for unwinding. Grab some friends and get ready for some shotz!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9fc4b12d3faaabc25b88c247849d5653",
+      "alt": "Seed Junky | 1g Pre-Roll | Pineapple Shotz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-1g-pre-roll-pineapple-shotz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-1g-pre-roll-pineapple-shotz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.930Z"
+}

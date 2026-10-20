@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-1-2g-handroll-bubblegum-gelato",
+  "name": "Hyman Cannabis | 1.2g Handroll | Bubblegum Gelato",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9d5ed087cfd30d1d173b26746c72f0f4",
+      "alt": "Hyman Cannabis | 1.2g Handroll | Bubblegum Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-1-2g-handroll-bubblegum-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-1-2g-handroll-bubblegum-gelato-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.833Z"
+}

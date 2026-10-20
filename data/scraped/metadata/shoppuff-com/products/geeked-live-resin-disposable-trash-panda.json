@@ -1,0 +1,35 @@
+{
+  "slug": "geeked-live-resin-disposable-trash-panda",
+  "name": "Geeked Live Resin Disposable | Trash Panda",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "Crafted with premium 100% live resin sourced from local small-batch growers, available in Indica, Sativa, and Hybrid varieties, capturing rich terpenes and authentic full-spectrum quality in every hit.",
+  "description_html": "Crafted with premium 100% live resin sourced from local small-batch growers, available in Indica, Sativa, and Hybrid varieties, capturing rich terpenes and authentic full-spectrum quality in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a20548cf216bc2dae9101243e0fa3fb6",
+      "alt": "Geeked Live Resin Disposable | Trash Panda",
+      "local": "data\\scraped\\images\\shoppuff-com__geeked-live-resin-disposable-trash-panda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/geeked-live-resin-disposable-trash-panda-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.631Z"
+}

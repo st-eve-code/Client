@@ -1,0 +1,35 @@
+{
+  "slug": "wise-guys-wise-guys-mac-1",
+  "name": "Wise Guys | MAC 1",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Wise Guys",
+  "tags": [],
+  "description": "Cross/Lineage: Alien Cookies F2 x Miracle 15\n\nFlavor: Creamy orange terps with cake undertones, smooth finish\n\nType/Leaning: Hybrid (Balanced)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Alien Cookies F2 x Miracle 15<br /><br />Flavor: Creamy orange terps with cake undertones, smooth finish<br /><br />Type/Leaning: Hybrid (Balanced)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b6f05c018bc23f49b5e10a29f9e9e47e",
+      "alt": "Wise Guys | MAC 1",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-wise-guys-mac-1__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-wise-guys-mac-1-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.727Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "mitten-canna-co-mitten-canna-co-rock-candy",
+  "name": "Mitten Canna Co | Rock Candy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8.4,
+  "price_max": 157.5,
+  "currency": "USD",
+  "price_range": "$8.40 – $157.50",
+  "available": true,
+  "vendor": "Mitten Canna Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8d084853d94283bd90ad36f11979715a",
+      "alt": "Mitten Canna Co | Rock Candy",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-canna-co-mitten-canna-co-rock-candy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 87.5,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 157.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-canna-co-mitten-canna-co-rock-candy-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.612Z"
+}

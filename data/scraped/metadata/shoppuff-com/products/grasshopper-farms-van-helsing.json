@@ -1,0 +1,40 @@
+{
+  "slug": "grasshopper-farms-van-helsing",
+  "name": "Grasshopper Farms | Van Helsing",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 60,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$60.00 – $99.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Dense, olive-hued buds boast dark purple undertones drenched in trichomes. This indica-dominant hybrid creates a smoke that floats over the palate like a cloud through dark skies. The floral, nutty, and subtly sweet flavors aren’t easy on the lungs, but they clear the mind and calm the body. Anxiety and depression will dissipate as your mind and body feel uplifted and refreshed. Great for any occasion, but ideal for conquering the night!",
+  "description_html": "Dense, olive-hued buds boast dark purple undertones drenched in trichomes. This indica-dominant hybrid creates a smoke that floats over the palate like a cloud through dark skies. The floral, nutty, and subtly sweet flavors aren’t easy on the lungs, but they clear the mind and calm the body. Anxiety and depression will dissipate as your mind and body feel uplifted and refreshed. Great for any occasion, but ideal for conquering the night!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0421a69d376f6d84e8b7102ee09d4561",
+      "alt": "Grasshopper Farms | Van Helsing",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-van-helsing__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-van-helsing-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.287Z"
+}

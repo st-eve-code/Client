@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-snoop-dogg-blunt-wraps",
+  "name": "Snoop Dogg Blunt Wraps",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "A hemp wrap is a tobacco-free and nicotine-free rolling sheet made from industrial hemp fiber. Designed as an alternative to traditional blunt wraps, it is thicker than standard rolling paper, burns slowly, and provides an earthy, neutral taste that complements legal smoking blends.",
+  "description_html": "A hemp wrap is a tobacco-free and nicotine-free rolling sheet made from industrial hemp fiber. Designed as an alternative to traditional blunt wraps, it is thicker than standard rolling paper, burns slowly, and provides an earthy, neutral taste that complements legal smoking blends.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/accessories.jpg",
+      "alt": "Snoop Dogg Blunt Wraps",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-snoop-dogg-blunt-wraps__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-snoop-dogg-blunt-wraps-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.521Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cherry-cookie-cold-cure-rosin",
+  "name": "Cherry Cookie Cold Cure Rosin",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 31.5,
+  "price_max": 31.5,
+  "currency": "USD",
+  "price_range": "$31.50",
+  "available": true,
+  "vendor": "Known.",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/53a8c01a6c6f0b6c43c699ba7e228253",
+      "alt": "Cherry Cookie Cold Cure Rosin",
+      "local": "data\\scraped\\images\\shoppuff-com__cherry-cookie-cold-cure-rosin__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 31.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cherry-cookie-cold-cure-rosin-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.159Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-3-5g-prepackaged-flower-bubblegum-sherb",
+  "name": "Seed Junky | 3.5g Prepackaged Flower | Bubblegum Sherb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Bubble Gum Sherb is a classic hybrid strain made by crossing Indiana Bubble Gum with an unknown indica strain. Marked by sweet and fruity flavors, this strain has the ability to numb your body while leaving you clearheaded.",
+  "description_html": "Bubble Gum Sherb is a classic hybrid strain made by crossing Indiana Bubble Gum with an unknown indica strain. Marked by sweet and fruity flavors, this strain has the ability to numb your body while leaving you clearheaded.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/61e49164730cd4d5bd585bce5ec447c0",
+      "alt": "Seed Junky | 3.5g Prepackaged Flower | Bubblegum Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-3-5g-prepackaged-flower-bubblegum-sherb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-3-5g-prepackaged-flower-bubblegum-sherb-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.780Z"
+}

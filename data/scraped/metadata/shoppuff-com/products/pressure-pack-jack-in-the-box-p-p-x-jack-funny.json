@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-jack-in-the-box-p-p-x-jack-funny",
+  "name": "Jack In The Box - P.P. x Jack Funny",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Our premium cannabis flower offers an exceptional experience with every strain. Handpicked and carefully cultivated, our flowers deliver rich flavors and potent effects, ensuring a superior smoke every time. Each bud is meticulously trimmed and cured to perfection, preserving its natural terpenes and cannabinoids. Experience the best of cannabis with our diverse selection of strains tailored to meet your every need.",
+  "description_html": "Our premium cannabis flower offers an exceptional experience with every strain. Handpicked and carefully cultivated, our flowers deliver rich flavors and potent effects, ensuring a superior smoke every time. Each bud is meticulously trimmed and cured to perfection, preserving its natural terpenes and cannabinoids. Experience the best of cannabis with our diverse selection of strains tailored to meet your every need.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/922cd3038ec307673c4eafa7a8bd89cb",
+      "alt": "Jack In The Box - P.P. x Jack Funny",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-jack-in-the-box-p-p-x-jack-funny__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-jack-in-the-box-p-p-x-jack-funny-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.884Z"
+}

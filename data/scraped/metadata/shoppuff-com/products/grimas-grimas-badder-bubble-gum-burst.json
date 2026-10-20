@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-badder-bubble-gum-burst",
+  "name": "Grimas Badder | Bubble Gum Burst",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/230c109afeaa23cec3dd3efeac5e0a45",
+      "alt": "Grimas Badder | Bubble Gum Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-badder-bubble-gum-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-badder-bubble-gum-burst-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.245Z"
+}

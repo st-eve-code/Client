@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-max-infused-preroll-honeydew",
+  "name": "Mitten Extracts | 3g Max Infused Preroll | Honeydew",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Light, crisp, and effortlessly smooth — Honeydew delivers a refreshing sweetness that never overwhelms. This mellow flavor brings a clean, cooling finish with every pull, making it the perfect all-day companion for anyone who loves fruity profiles without the punch. Easy, uplifting, and endlessly enjoyable.",
+  "description_html": "Light, crisp, and effortlessly smooth — Honeydew delivers a refreshing sweetness that never overwhelms. This mellow flavor brings a clean, cooling finish with every pull, making it the perfect all-day companion for anyone who loves fruity profiles without the punch. Easy, uplifting, and endlessly enjoyable.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d925d55dcf5c6ef8a6d76058dd7f8792",
+      "alt": "Mitten Extracts | 3g Max Infused Preroll | Honeydew",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-max-infused-preroll-honeydew__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-max-infused-preroll-honeydew-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.645Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-disposable-og-kush",
+  "name": "Stiiizy Disposable | OG Kush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "OG Kush is an indica with a classic sensory profile. It offers deep earthy and pine layers, balanced by spicy citrus notes.",
+  "description_html": "OG Kush is an indica with a classic sensory profile. It offers deep earthy and pine layers, balanced by spicy citrus notes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2216d11b23df23f99cacf9decfad706b",
+      "alt": "Stiiizy Disposable | OG Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-disposable-og-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-disposable-og-kush-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.258Z"
+}

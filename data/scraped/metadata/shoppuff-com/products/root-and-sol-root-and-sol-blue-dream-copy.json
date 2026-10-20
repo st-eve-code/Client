@@ -1,0 +1,35 @@
+{
+  "slug": "root-and-sol-root-and-sol-blue-dream-copy",
+  "name": "Root and Sol | Banana Banshee",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 31.2,
+  "price_max": 31.2,
+  "currency": "USD",
+  "price_range": "$31.20",
+  "available": true,
+  "vendor": "Root and Sol",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ae08fd318d9f881cd790d008b4c27b19",
+      "alt": "Root and Sol | Banana Banshee",
+      "local": "data\\scraped\\images\\shoppuff-com__root-and-sol-root-and-sol-blue-dream-copy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 31.2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/root-and-sol-root-and-sol-blue-dream-copy-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.454Z"
+}

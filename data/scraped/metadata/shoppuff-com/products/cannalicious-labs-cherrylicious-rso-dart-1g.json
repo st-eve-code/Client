@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cherrylicious-rso-dart-1g",
+  "name": "Cherrylicious RSO Dart | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Our famous RSO now available in cherry!\n\nRick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most medicinal cannabis concentrate available. It stimulates the endocannabinoid system to help prevent many ailments and to offer therapeutic benefits. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes. Cherrylicious is infused with natural cherry terpenes for a more palatable experience.",
+  "description_html": "Our famous RSO now available in cherry!<br /><br /><br /><br />Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most medicinal cannabis concentrate available. It stimulates the endocannabinoid system to help prevent many ailments and to offer therapeutic benefits. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes. Cherrylicious is infused with natural cherry terpenes for a more palatable experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c138b81c8c4dce353ad79805e426b7e2",
+      "alt": "Cherrylicious RSO Dart | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cherrylicious-rso-dart-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cherrylicious-rso-dart-1g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.611Z"
+}

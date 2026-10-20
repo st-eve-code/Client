@@ -1,0 +1,35 @@
+{
+  "slug": "a1za-a1za-prepackaged-flower-babadook",
+  "name": "A1ZA Prepackaged Flower | Babadook",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 125,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$125.00",
+  "available": true,
+  "vendor": "A1ZA",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/40ffc356878a75f55003a9c2570e0516",
+      "alt": "A1ZA Prepackaged Flower | Babadook",
+      "local": "data\\scraped\\images\\shoppuff-com__a1za-a1za-prepackaged-flower-babadook__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/a1za-a1za-prepackaged-flower-babadook-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.414Z"
+}

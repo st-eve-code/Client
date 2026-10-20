@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-1g-preroll-zandy",
+  "name": "Minntz | 1g Preroll | Zandy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "A potent indica crafted for those who appreciate rich flavor and deep relaxation. Delivers sweet candy notes layered with a loud, pungent aroma, creating a smooth yet flavorful smoke that lingers on the palate. Ride on the gentle wave into heavenly euphoria and let us ease your mind. Perfect for unwinding at the end of the day, this luxurious strain brings together indulgent flavor and powerful effects.",
+  "description_html": "A potent indica crafted for those who appreciate rich flavor and deep relaxation. Delivers sweet candy notes layered with a loud, pungent aroma, creating a smooth yet flavorful smoke that lingers on the palate. Ride on the gentle wave into heavenly euphoria and let us ease your mind. Perfect for unwinding at the end of the day, this luxurious strain brings together indulgent flavor and powerful effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4757054675b3cfc471d7b3cb24cfb711",
+      "alt": "Minntz | 1g Preroll | Zandy",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-1g-preroll-zandy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-1g-preroll-zandy-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.780Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "sohi-510-cart-grape-soda",
+  "name": "SoHi 510 Cart | Grape Soda",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "SoHi",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/123932d46550875d368ad9b7107f64e5",
+      "alt": "SoHi 510 Cart | Grape Soda",
+      "local": "data\\scraped\\images\\shoppuff-com__sohi-510-cart-grape-soda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sohi-510-cart-grape-soda-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.943Z"
+}

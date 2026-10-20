@@ -1,0 +1,40 @@
+{
+  "slug": "greenshift-greenshift-pineapple-donut",
+  "name": "Greenshift | Pineapple Donut",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$30.00 – $55.00",
+  "available": true,
+  "vendor": "Greenshift",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Greenshift | Pineapple Donut",
+      "local": "data\\scraped\\images\\shoppuff-com__greenshift-greenshift-pineapple-donut__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/greenshift-greenshift-pineapple-donut-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.602Z"
+}

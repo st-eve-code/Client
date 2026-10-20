@@ -1,0 +1,35 @@
+{
+  "slug": "lost-farm-200mg-live-resin-gummies-grape-x-purple-octane",
+  "name": "Lost Farm | 200mg Live Resin Gummies | Grape x Purple Octane",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Lost Farm",
+  "tags": [],
+  "description": "Lost Farm Live Resin Gummies Grape x Purple Octane 200mg 10pc\n\nLimited Edition Detroit Purps Collection",
+  "description_html": "Lost Farm Live Resin Gummies Grape x Purple Octane 200mg 10pc<br /><br />Limited Edition Detroit Purps Collection",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bd9ca4550786b26207287dfc7056a022",
+      "alt": "Lost Farm | 200mg Live Resin Gummies | Grape x Purple Octane",
+      "local": "data\\scraped\\images\\shoppuff-com__lost-farm-200mg-live-resin-gummies-grape-x-purple-octane__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/lost-farm-200mg-live-resin-gummies-grape-x-purple-octane-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.700Z"
+}

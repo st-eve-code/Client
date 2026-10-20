@@ -1,0 +1,35 @@
+{
+  "slug": "north-coast-x-adams-family-hash-rosin-jam-starburst-og-tier-3",
+  "name": "North Coast x Adams Family Hash Rosin Jam | Starburst OG (Tier 3)",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "North Coast",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "North Coast x Adams Family Hash Rosin Jam | Starburst OG (Tier 3)",
+      "local": "data\\scraped\\images\\shoppuff-com__north-coast-x-adams-family-hash-rosin-jam-starburst-og-tier-3__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/north-coast-x-adams-family-hash-rosin-jam-starburst-og-tier-3-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.307Z"
+}

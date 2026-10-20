@@ -1,0 +1,35 @@
+{
+  "slug": "candela-candela-double-glazed-donut-boston-cream-donut",
+  "name": "Candela Double Glazed Donut | Boston Cream Donut",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Candela",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Candela Double Glazed Donut | Boston Cream Donut",
+      "local": "data\\scraped\\images\\shoppuff-com__candela-candela-double-glazed-donut-boston-cream-donut__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/candela-candela-double-glazed-donut-boston-cream-donut-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.816Z"
+}

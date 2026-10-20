@@ -1,0 +1,35 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-purple-flamingo",
+  "name": "Heavyweight Heads | Purple Flamingo",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "PURPLE FLAMINGO IS A PHENO OF THE BELOVED GELATO STRAIN. SOUGHT AFTER FOR ITS CANDY AND CREAMY CAKE FLAVORS WITH A FRESH, GARDEN LIKE AROMA. THE EFFECTS WILL HELP RELIEVE STRESS WHILE ADDING A FLASH OF UPBEAT ENERGY.",
+  "description_html": "PURPLE FLAMINGO IS A PHENO OF THE BELOVED GELATO STRAIN. SOUGHT AFTER FOR ITS CANDY AND CREAMY CAKE FLAVORS WITH A FRESH, GARDEN LIKE AROMA. THE EFFECTS WILL HELP RELIEVE STRESS WHILE ADDING A FLASH OF UPBEAT ENERGY.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/812766782bdbf6f7383cbfbadf9e9904",
+      "alt": "Heavyweight Heads | Purple Flamingo",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-purple-flamingo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-purple-flamingo-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.418Z"
+}

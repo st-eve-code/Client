@@ -1,0 +1,60 @@
+{
+  "slug": "smoorhouse-arctic-buds-cherry-poppinz",
+  "name": "Smoorhouse | Arctic Buds | Cherry Poppinz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 250,
+  "currency": "USD",
+  "price_range": "$15.00 – $250.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "description_html": "Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3e47bc0c005901ec6df27daac7f18b51",
+      "alt": "Smoorhouse | Arctic Buds | Cherry Poppinz",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-arctic-buds-cherry-poppinz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 250,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-arctic-buds-cherry-poppinz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.629Z"
+}

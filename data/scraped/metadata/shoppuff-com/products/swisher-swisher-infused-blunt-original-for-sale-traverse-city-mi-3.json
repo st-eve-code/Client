@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-swisher-infused-blunt-original-for-sale-traverse-city-mi-3",
+  "name": "Original Blunt - 1.5g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.5,
+  "price_max": 8.5,
+  "currency": "USD",
+  "price_range": "$8.50",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Experience the familiar taste of nostalgia with Swisher Blunts Original — our classic, redefined.",
+  "description_html": "Experience the familiar taste of nostalgia with Swisher Blunts Original — our classic, redefined.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b8a84bca9f127f2021e266b722a63e50",
+      "alt": "Original Blunt - 1.5g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-swisher-infused-blunt-original-for-sale-traverse-city-mi-3__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 8.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-swisher-infused-blunt-original-for-sale-traverse-city-mi-3/",
+  "scraped_at": "2026-10-10T22:31:20.989Z"
+}

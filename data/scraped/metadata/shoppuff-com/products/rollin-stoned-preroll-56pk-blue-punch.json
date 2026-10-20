@@ -1,0 +1,35 @@
+{
+  "slug": "rollin-stoned-preroll-56pk-blue-punch",
+  "name": "Rollin Stoned Preroll 56pk | Blue Punch",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Rollin Stoned",
+  "tags": [],
+  "description": "56 x 1g Pre-Rolls\n\nBlue Punch delivers a juicy wave of blueberry brightness and natural sativa clarity — smooth, uplifting, and endlessly shareable.",
+  "description_html": "56 x 1g Pre-Rolls<br /><br /><br />Blue Punch delivers a juicy wave of blueberry brightness and natural sativa clarity — smooth, uplifting, and endlessly shareable.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7d4079568bed3bdb33852dd2521ebd70",
+      "alt": "Rollin Stoned Preroll 56pk | Blue Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__rollin-stoned-preroll-56pk-blue-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "56.0g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rollin-stoned-preroll-56pk-blue-punch-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.269Z"
+}

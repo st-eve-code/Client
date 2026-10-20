@@ -1,0 +1,35 @@
+{
+  "slug": "grown-rogue-grown-rogue-pre-roll-solar-berry",
+  "name": "Grown Rogue Pre-Roll | Solar Berry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Grown Rogue",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cacda714f9ff7a4cde1c41747fc4b1a2",
+      "alt": "Grown Rogue Pre-Roll | Solar Berry",
+      "local": "data\\scraped\\images\\shoppuff-com__grown-rogue-grown-rogue-pre-roll-solar-berry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grown-rogue-grown-rogue-pre-roll-solar-berry-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.749Z"
+}

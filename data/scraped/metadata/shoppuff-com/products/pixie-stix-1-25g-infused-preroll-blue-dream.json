@@ -1,0 +1,35 @@
+{
+  "slug": "pixie-stix-1-25g-infused-preroll-blue-dream",
+  "name": "Pixie Stix | 1.25g Infused Preroll | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Blue Dream sativa infused pre roll. \nOne 1.25g pre roll per pack.\n\nFlavors:\nBlueberry\nBerry\nEarthy",
+  "description_html": "Pixie Stix Blue Dream sativa infused pre roll. <br />One 1.25g pre roll per pack.<br /><br />Flavors:<br />Blueberry<br />Berry<br />Earthy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d96b8c0901956cbcc1625ed412e534b6",
+      "alt": "Pixie Stix | 1.25g Infused Preroll | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__pixie-stix-1-25g-infused-preroll-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pixie-stix-1-25g-infused-preroll-blue-dream-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.946Z"
+}

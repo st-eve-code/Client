@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-quad-infused-preroll-mango-sherbet",
+  "name": "Mango Sherbet Jeeter Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6.5,
+  "price_max": 6.5,
+  "currency": "USD",
+  "price_range": "$6.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Mango Sherbet blends juicy mango sweetness with a creamy sherbet twist, rounded out by a hint of earth. The buds are resinous and fragrant, filling the air with tropical fruit. A flavor this smooth is basically a vacation rolled into flower form.",
+  "description_html": "Mango Sherbet blends juicy mango sweetness with a creamy sherbet twist, rounded out by a hint of earth. The buds are resinous and fragrant, filling the air with tropical fruit. A flavor this smooth is basically a vacation rolled into flower form.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c5622e09caae53007eefa305a01be8df",
+      "alt": "Mango Sherbet Jeeter Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-quad-infused-preroll-mango-sherbet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-quad-infused-preroll-mango-sherbet-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.744Z"
+}

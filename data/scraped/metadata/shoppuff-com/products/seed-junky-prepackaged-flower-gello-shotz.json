@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-prepackaged-flower-gello-shotz",
+  "name": "Seed Junky Prepackaged Flower | Gello Shotz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Gello Shotz is a bright sativa with a tropical feel that produces a strong flavor of lime skittles. Gello Shotz gives you a boost of energy and creativity making this great for daytime use.",
+  "description_html": "Gello Shotz is a bright sativa with a tropical feel that produces a strong flavor of lime skittles. Gello Shotz gives you a boost of energy and creativity making this great for daytime use.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2dc38453129d29c0fa8d12d50936db74",
+      "alt": "Seed Junky Prepackaged Flower | Gello Shotz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-prepackaged-flower-gello-shotz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-prepackaged-flower-gello-shotz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.571Z"
+}

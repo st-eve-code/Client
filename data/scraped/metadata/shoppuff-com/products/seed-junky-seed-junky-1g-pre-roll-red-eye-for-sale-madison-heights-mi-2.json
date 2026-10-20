@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-1g-pre-roll-red-eye-for-sale-madison-heights-mi-2",
+  "name": "Seed Junky | 1g Pre-Roll | Red Eye",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Red Eye is a potent indica with intense flavor of Cherry Cola and a sweet sugary, funky aroma. The sedative effects of this strain make it great to unwind and have a relaxing night.",
+  "description_html": "Red Eye is a potent indica with intense flavor of Cherry Cola and a sweet sugary, funky aroma. The sedative effects of this strain make it great to unwind and have a relaxing night.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c8d9747d155eee0fcddd4b52e2c2a1ec",
+      "alt": "Seed Junky | 1g Pre-Roll | Red Eye",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-1g-pre-roll-red-eye-for-sale-madison-heights-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-1g-pre-roll-red-eye-for-sale-madison-heights-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.896Z"
+}

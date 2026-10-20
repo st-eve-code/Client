@@ -1,0 +1,50 @@
+{
+  "slug": "wise-guys-blueberry-muffin",
+  "name": "Wise Guys | Blueberry Muffin",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 16,
+  "price_max": 72,
+  "currency": "USD",
+  "price_range": "$16.00 – $72.00",
+  "available": true,
+  "vendor": "Wise Guys",
+  "tags": [],
+  "description": "Cross/Lineage: Razzleberry x Purple Panty Dropper\n\nFlavor: Bluebery muffin all the way, sweet finish\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Razzleberry x Purple Panty Dropper<br /><br />Flavor: Bluebery muffin all the way, sweet finish<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/018313956c9a54e3503affb0cb353416",
+      "alt": "Wise Guys | Blueberry Muffin",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-blueberry-muffin__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 72,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-blueberry-muffin-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.470Z"
+}

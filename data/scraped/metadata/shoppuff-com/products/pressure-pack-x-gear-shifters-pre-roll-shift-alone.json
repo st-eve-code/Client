@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-x-gear-shifters-pre-roll-shift-alone",
+  "name": "Pressure Pack x Gear Shifters Pre-Roll | Shift Alone",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1cb7a1213a48ecc9f9a44020fe7c349c",
+      "alt": "Pressure Pack x Gear Shifters Pre-Roll | Shift Alone",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-x-gear-shifters-pre-roll-shift-alone__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-x-gear-shifters-pre-roll-shift-alone-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.194Z"
+}

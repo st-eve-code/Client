@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-goodlyfe-1g-infused-pre-roll-blueberry-banana-pancake",
+  "name": "GoodLyfe | 1g Infused Pre-Roll | Blueberry Banana Pancake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Blueberry Banana Pancakes is an indica dominant hybrid strain with an aroma that matches its taste. This strain features notes of bright blueberry compote and mashed banana, followed by a taste of perfectly griddled pancake, smothered in maple syrup. Its dominant terpenes include Myrcene, ß-caryophyllene, and Linalool.",
+  "description_html": "Blueberry Banana Pancakes is an indica dominant hybrid strain with an aroma that matches its taste. This strain features notes of bright blueberry compote and mashed banana, followed by a taste of perfectly griddled pancake, smothered in maple syrup. Its dominant terpenes include Myrcene, ß-caryophyllene, and Linalool.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a41771a6cc40353ab88013c108628048",
+      "alt": "GoodLyfe | 1g Infused Pre-Roll | Blueberry Banana Pancake",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-goodlyfe-1g-infused-pre-roll-blueberry-banana-pancake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-goodlyfe-1g-infused-pre-roll-blueberry-banana-pancake-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.407Z"
+}

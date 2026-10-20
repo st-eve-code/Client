@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-shatter-blue-cookies",
+  "name": "Cannalicious Shatter | Blue Cookies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Shatter is a super smooth and ultra-refined cannabis extract that comes from cured plant material. The excess terpenes evaporate during the drying process which results in a lower terpene profile, but high cannabinoid percentage. It is produced as a flat patty with a glass-like stability and has an immediate activation time.",
+  "description_html": "Shatter is a super smooth and ultra-refined cannabis extract that comes from cured plant material. The excess terpenes evaporate during the drying process which results in a lower terpene profile, but high cannabinoid percentage. It is produced as a flat patty with a glass-like stability and has an immediate activation time.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1b20dcab975d34f14cefe87c443ae387",
+      "alt": "Cannalicious Shatter | Blue Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-shatter-blue-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-shatter-blue-cookies-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.772Z"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "top-smile-high-club-zip-hoodie",
+  "name": "Hoodie - Smile High Club Full Zip",
+  "site": "ochoextracts-com",
+  "category": "swag",
+  "price_min": 44.99,
+  "price_max": 44.99,
+  "currency": "GBP",
+  "price_range": "£44.99",
+  "available": true,
+  "sku": "SHC-HOODIE-XL",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "Swag"
+  ],
+  "description": "Built for comfort and daily wear, the Smile High Club Zip Hoodie features a clean black design with contrasting white drawstrings and subtle white screen-printed logo detailing. The full-zip construction makes it perfect for layering, while the relaxed fit keeps the look effortless and versatile.\n\nFeatures:\n\n• Smile High Club screen-printed on left chest\n\n• Large dripping smiley screen-printed on back\n\n• Soft cotton construction\n\n• Full-zip hoodie design\n\n• Black colorway\n\n• Adjustable drawstring hood\n\n• Relaxed everyday fit",
+  "description_html": "<div class=\"text-base my-auto mx-auto [--thread-content-margin:var(--thread-content-margin-xs,calc(var(--spacing)*4))] @w-sm/main:[--thread-content-margin:var(--thread-content-margin-sm,calc(var(--spacing)*6))] @w-lg/main:[--thread-content-margin:var(--thread-content-margin-lg,calc(var(--spacing)*16))] px-(--thread-content-margin)\">\n<div class=\"[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn\">\n<div class=\"flex max-w-full flex-col gap-4 grow\">\n<div data-message-author-role=\"assistant\" data-message-id=\"74010bc9-02f9-4803-a660-446c63f9f55a\" dir=\"auto\" data-message-model-slug=\"gpt-5-5\" class=\"min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal outline-none keyboard-focused:focus-ring [.text-message+&amp;]:mt-1\">\n<div class=\"flex w-full flex-col gap-1 empty:hidden\">\n<div class=\"markdown prose dark:prose-invert wrap-break-word w-full light markdown-new-styling\">\n<p data-start=\"1509\" data-end=\"1787\">Built for comfort and daily wear, the <strong>Smile High Club Zip Hoodie</strong> features a clean black design with contrasting white drawstrings and subtle white screen-printed logo detailing. The full-zip construction makes it perfect for layering, while the relaxed fit keeps the look effortless and versatile.</p>\n<p data-start=\"1789\" data-end=\"1941\" data-is-last-node=\"\" data-is-only-node=\"\"><strong data-start=\"1789\" data-end=\"1802\">Features:</strong></p>\n<ul>\n<li data-start=\"1789\" data-end=\"1941\">Smile High Club screen-printed on left chest</li>\n<li data-start=\"1789\" data-end=\"1941\">Large dripping smiley screen-printed on back</li>\n<li data-start=\"1789\" data-end=\"1941\">Soft cotton construction<br>\n</li>\n<li data-start=\"1789\" data-end=\"1941\">Full-zip hoodie design<br>\n</li>\n<li data-start=\"1789\" data-end=\"1941\">Black colorway<br>\n</li>\n<li data-start=\"1789\" data-end=\"1941\">Adjustable drawstring hood<br>\n</li>\n<li data-start=\"1789\" data-end=\"1941\">Relaxed everyday fit</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/SHC_Zip-Site.png?v=1779301779",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__top-smile-high-club-zip-hoodie__000.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 45869195100346,
+      "title": "XL",
+      "price": 44.99,
+      "sku": "SHC-HOODIE-XL",
+      "available": true
+    },
+    {
+      "id": 45870054342842,
+      "title": "L",
+      "price": 44.99,
+      "sku": "SHC-HOODIE-LRG",
+      "available": true
+    }
+  ],
+  "collections": [
+    "swag"
+  ],
+  "source_url": "https://ochoextracts.com/products/top-smile-high-club-zip-hoodie",
+  "scraped_at": "2026-10-10T21:42:46.209Z"
+}

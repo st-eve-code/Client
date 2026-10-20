@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-preroll-modified-bananas",
+  "name": "Cali Blaze Preroll | Modified Bananas",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5f374d65ea0deba1a4c22341e1f8fe39",
+      "alt": "Cali Blaze Preroll | Modified Bananas",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-preroll-modified-bananas__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-preroll-modified-bananas-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.219Z"
+}

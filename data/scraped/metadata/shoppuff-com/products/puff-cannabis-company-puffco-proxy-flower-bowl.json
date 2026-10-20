@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puffco-proxy-flower-bowl",
+  "name": "Puffco | Proxy Flower Bowl",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Puffco",
+  "tags": [],
+  "description": "We love flower, too. The Proxy Flower Bowl is a small, simple glass accessory that adds flower function to the Proxy Collection. Insert it into any Proxy Piece – you will never need a flower pipe again.",
+  "description_html": "We love flower, too. The Proxy Flower Bowl is a small, simple glass accessory that adds flower function to the Proxy Collection. Insert it into any Proxy Piece – you will never need a flower pipe again.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/942d3ffe587d882cc957af277f7d1151",
+      "alt": "Puffco | Proxy Flower Bowl",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puffco-proxy-flower-bowl__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puffco-proxy-flower-bowl-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.894Z"
+}

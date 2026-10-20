@@ -1,0 +1,35 @@
+{
+  "slug": "plant-nerd-plant-nerd-hand-roll-deep-fried-ice-cream",
+  "name": "Plant Nerd Hand Roll | Deep Fried Ice Cream",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "This strain lives up to its hype. The cross is Ice Cream Cake x Deep Breath and was bred by Bulletproof Genetics here in Michigan. The pheno we’re growing has a gassy, melony terp profile; think of cantaloupe mixed with the OG freshness of Deep Breath. Why we’re growing it is simple: it has a unique fruity nose, it tastes great, and it smokes great. Can’t really get much better than that.",
+  "description_html": "This strain lives up to its hype. The cross is Ice Cream Cake x Deep Breath and was bred by Bulletproof Genetics here in Michigan. The pheno we’re growing has a gassy, melony terp profile; think of cantaloupe mixed with the OG freshness of Deep Breath. Why we’re growing it is simple: it has a unique fruity nose, it tastes great, and it smokes great. Can’t really get much better than that.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/31daa56eba1a6bf56db87a94faa3088a",
+      "alt": "Plant Nerd Hand Roll | Deep Fried Ice Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-hand-roll-deep-fried-ice-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-hand-roll-deep-fried-ice-cream-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.893Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-candy-bonez",
+  "name": "Candy Bonez Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Sherb Cream Pie x Obama Runtz\n\nBreeder: Beanfiendz \n\nTerpenes: Caryophyllene, Myrcene, Limonene\n\nEffects: Relaxed, Creative, Happy\n\nAroma: Sweet Cream, Citrus, Earthy Spice\n\nCandy Bonez is a sweet, flavorful ride that will have your taste buds dancing. A tantalizing mix of Sherb Cream Pie and Obama Runtz, this strain wraps you in a sugary, creamy blanket with a burst of citrus brightness. The effects are the perfect blend of relaxation and euphoria, sparking creativity and a carefree happiness that makes every moment feel like a celebration. Let Candy Bonez take you on a smooth, sweet journey where chill vibes and inspired thoughts collide.",
+  "description_html": "Lineage: Sherb Cream Pie x Obama Runtz<br /><br />Breeder: Beanfiendz <br /><br />Terpenes: Caryophyllene, Myrcene, Limonene<br /><br />Effects: Relaxed, Creative, Happy<br /><br />Aroma: Sweet Cream, Citrus, Earthy Spice<br /><br />Candy Bonez is a sweet, flavorful ride that will have your taste buds dancing. A tantalizing mix of Sherb Cream Pie and Obama Runtz, this strain wraps you in a sugary, creamy blanket with a burst of citrus brightness. The effects are the perfect blend of relaxation and euphoria, sparking creativity and a carefree happiness that makes every moment feel like a celebration. Let Candy Bonez take you on a smooth, sweet journey where chill vibes and inspired thoughts collide.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/811c53b36eb0996a39f95a9d55de2a61",
+      "alt": "Candy Bonez Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-candy-bonez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-candy-bonez-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.112Z"
+}

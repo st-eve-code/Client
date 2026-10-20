@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-tamalez",
+  "name": "Northwoods | Tamalez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "Tamalez flavor profile has strong influence from Chile Verde. Featuring prominent notes of spice, earth and herbs followed by undertones of sweetness from the Obama Runtz. This flower gives you the whole package of bag appeal, smell and flavor.",
+  "description_html": "Tamalez flavor profile has strong influence from Chile Verde. Featuring prominent notes of spice, earth and herbs followed by undertones of sweetness from the Obama Runtz. This flower gives you the whole package of bag appeal, smell and flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/840029eb11458ebe38e3aa7e919fe4ae",
+      "alt": "Northwoods | Tamalez",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-tamalez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-tamalez-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.632Z"
+}

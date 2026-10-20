@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-muha-meds-510-cartridge-mellow-dew",
+  "name": "Muha Meds 510 Cartridge | Mellow Dew",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/vaporizers.jpg",
+      "alt": "Muha Meds 510 Cartridge | Mellow Dew",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-muha-meds-510-cartridge-mellow-dew__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-muha-meds-510-cartridge-mellow-dew-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.352Z"
+}

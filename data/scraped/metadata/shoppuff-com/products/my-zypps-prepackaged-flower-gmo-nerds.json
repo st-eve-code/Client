@@ -1,0 +1,35 @@
+{
+  "slug": "my-zypps-prepackaged-flower-gmo-nerds",
+  "name": "My Zypps - Ounce - GMO Nerds",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Zypps",
+  "tags": [],
+  "description": "Sun-grown, full-bud, full ounce. The My Zypps GMO Nerds ounce delivers a full 28 grams of quality sun-grown flower — cured for full flavor and a smooth, even burn.\n\nGMO Nerds pairs savory funk with candy sweetness: pungent garlic and earthy gas up front, cut with a bright, sugary fruit-candy finish.\n\n28G sun-grown flower — full ounce of whole bud\nBest value — full-ounce pricing at the lowest cost per gram\nSignature GMO Nerds flavor — garlicky gas and earthy funk with a candy-sweet finish\n\nMy Zypps GMO Nerds is ready whenever you are.\n\nFor adult use only. Must be 21+. Keep out of reach of children and pets.",
+  "description_html": "Sun-grown, full-bud, full ounce. The My Zypps GMO Nerds ounce delivers a full 28 grams of quality sun-grown flower — cured for full flavor and a smooth, even burn.<br /><br />GMO Nerds pairs savory funk with candy sweetness: pungent garlic and earthy gas up front, cut with a bright, sugary fruit-candy finish.<br /><br />28G sun-grown flower — full ounce of whole bud<br />Best value — full-ounce pricing at the lowest cost per gram<br />Signature GMO Nerds flavor — garlicky gas and earthy funk with a candy-sweet finish<br /><br />My Zypps GMO Nerds is ready whenever you are.<br /><br />For adult use only. Must be 21+. Keep out of reach of children and pets.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7bc15e89622c3a22e99ff8d34c0c679f",
+      "alt": "My Zypps - Ounce - GMO Nerds",
+      "local": "data\\scraped\\images\\shoppuff-com__my-zypps-prepackaged-flower-gmo-nerds__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/my-zypps-prepackaged-flower-gmo-nerds-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.445Z"
+}

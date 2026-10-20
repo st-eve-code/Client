@@ -1,0 +1,45 @@
+{
+  "slug": "goodlyfe-goodlyfe-caramel-cream",
+  "name": "Goodlyfe | Caramel Cream",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$5.00 – $20.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e682d63ac2dfa8f56ac1b614a476a6bb",
+      "alt": "Goodlyfe | Caramel Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-goodlyfe-caramel-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-goodlyfe-caramel-cream-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.764Z"
+}

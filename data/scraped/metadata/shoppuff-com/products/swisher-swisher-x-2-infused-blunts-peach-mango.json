@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-swisher-x-2-infused-blunts-peach-mango",
+  "name": "Peach Mango Blunts - 2x1.5g - 3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Enjoy the perfect blend of ripe mango and the clean taste of peach with Swisher Blunts Peach Mango.",
+  "description_html": "Enjoy the perfect blend of ripe mango and the clean taste of peach with Swisher Blunts Peach Mango.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1e7ac32808cdc0bbc061ab6c2685a207",
+      "alt": "Peach Mango Blunts - 2x1.5g - 3g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-swisher-x-2-infused-blunts-peach-mango__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-swisher-x-2-infused-blunts-peach-mango-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.095Z"
+}

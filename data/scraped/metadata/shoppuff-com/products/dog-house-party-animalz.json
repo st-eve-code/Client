@@ -1,0 +1,60 @@
+{
+  "slug": "dog-house-party-animalz",
+  "name": "Dog House | Party Animalz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "Lemon Cherry Gelato x Z Animal | Candy, Gas\n\nParty Animalz brings a punchy hit of lemon-candy sweetness over a smooth cookie-dough finish. The aroma is loud and sweet with just a hint of spice. Dense, frosty buds with streaks of purple.",
+  "description_html": "Lemon Cherry Gelato x Z Animal | Candy, Gas<br /><br />Party Animalz brings a punchy hit of lemon-candy sweetness over a smooth cookie-dough finish. The aroma is loud and sweet with just a hint of spice. Dense, frosty buds with streaks of purple.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/abe778e3b2929d53e2b59e5f692cbeb0",
+      "alt": "Dog House | Party Animalz",
+      "local": "data\\scraped\\images\\shoppuff-com__dog-house-party-animalz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dog-house-party-animalz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.350Z"
+}

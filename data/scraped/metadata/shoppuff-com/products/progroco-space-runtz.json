@@ -1,0 +1,45 @@
+{
+  "slug": "progroco-space-runtz",
+  "name": "Space Runtz Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8.4,
+  "price_max": 24.5,
+  "currency": "USD",
+  "price_range": "$8.40 – $24.50",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Runtz x Mike Larry Type: Hybrid Terpenes: D-Limonene, Caryophyllene, Linalool Effects: Talkative, Relaxed, Giggly Houston, prepare for flavor liftoff! This intergalactic treat blasts off with sweet candy terps before launching you into deep space relaxation. Pro Gro's master growers have engineered this cosmic creation to deliver stellar potency with meteor shower effects. Warning: may cause spontaneous space walks and zero-gravity giggles.",
+  "description_html": "Lineage: Runtz x Mike Larry Type: Hybrid Terpenes: D-Limonene, Caryophyllene, Linalool Effects: Talkative, Relaxed, Giggly Houston, prepare for flavor liftoff! This intergalactic treat blasts off with sweet candy terps before launching you into deep space relaxation. Pro Gro's master growers have engineered this cosmic creation to deliver stellar potency with meteor shower effects. Warning: may cause spontaneous space walks and zero-gravity giggles.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bd930eddf01c9b0e2faa40092d2b32dc",
+      "alt": "Space Runtz Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__progroco-space-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/progroco-space-runtz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.717Z"
+}

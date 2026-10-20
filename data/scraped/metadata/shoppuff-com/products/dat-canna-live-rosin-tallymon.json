@@ -1,0 +1,35 @@
+{
+  "slug": "dat-canna-live-rosin-tallymon",
+  "name": "Dat Canna Live Rosin | Tallymon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Dat Canna",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/363bdd808eaf0781bb4a774307f0b7c4",
+      "alt": "Dat Canna Live Rosin | Tallymon",
+      "local": "data\\scraped\\images\\shoppuff-com__dat-canna-live-rosin-tallymon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dat-canna-live-rosin-tallymon-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.303Z"
+}

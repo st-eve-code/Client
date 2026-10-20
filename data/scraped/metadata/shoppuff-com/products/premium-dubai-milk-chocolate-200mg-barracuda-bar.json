@@ -1,0 +1,35 @@
+{
+  "slug": "premium-dubai-milk-chocolate-200mg-barracuda-bar",
+  "name": "Premium Dubai Milk Chocolate | 200mg Barracuda Bar",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "The 200mg THC-infused Premium Dubai Chocolate Bar offers a luxurious fusion of rich milk chocolate, creamy pistachio, and toasted buttery phyllo dough, delivering a smooth, indulgent experience with a potent, full-body high. Perfect for those craving premium flavor and powerful effects.",
+  "description_html": "The 200mg THC-infused Premium Dubai Chocolate Bar offers a luxurious fusion of rich milk chocolate, creamy pistachio, and toasted buttery phyllo dough, delivering a smooth, indulgent experience with a potent, full-body high. Perfect for those craving premium flavor and powerful effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b32205303efe89cb800497fab4b0ee31",
+      "alt": "Premium Dubai Milk Chocolate | 200mg Barracuda Bar",
+      "local": "data\\scraped\\images\\shoppuff-com__premium-dubai-milk-chocolate-200mg-barracuda-bar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/premium-dubai-milk-chocolate-200mg-barracuda-bar-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.960Z"
+}

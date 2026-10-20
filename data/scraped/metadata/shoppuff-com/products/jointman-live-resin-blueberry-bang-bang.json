@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-live-resin-blueberry-bang-bang",
+  "name": "Jointman Live Resin | Blueberry Bang Bang",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 21,
+  "price_max": 21,
+  "currency": "USD",
+  "price_range": "$21.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5949bd666a85fed613e442d3061ab338",
+      "alt": "Jointman Live Resin | Blueberry Bang Bang",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-live-resin-blueberry-bang-bang__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 21,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-live-resin-blueberry-bang-bang-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.505Z"
+}

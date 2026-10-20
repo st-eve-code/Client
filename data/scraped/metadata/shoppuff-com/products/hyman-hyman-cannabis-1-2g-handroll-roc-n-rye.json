@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-1-2g-handroll-roc-n-rye",
+  "name": "Hyman Cannabis | 1.2g Handroll | Roc N Rye",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Hybrid\n\nFlavors: Nutty, Sweet, Chocolate\n\nAromas: Sweet, Vanilla, Citrus\n\nExperience: Happy, Uplifting, Relaxing",
+  "description_html": "Strain Type: Hybrid<br /><br />Flavors: Nutty, Sweet, Chocolate<br /><br />Aromas: Sweet, Vanilla, Citrus<br /><br />Experience: Happy, Uplifting, Relaxing",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/16aae12fa80ec722125c4f1ce4d84687",
+      "alt": "Hyman Cannabis | 1.2g Handroll | Roc N Rye",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-1-2g-handroll-roc-n-rye__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-1-2g-handroll-roc-n-rye-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.670Z"
+}

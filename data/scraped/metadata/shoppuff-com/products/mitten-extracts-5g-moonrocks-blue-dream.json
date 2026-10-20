@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-5g-moonrocks-blue-dream",
+  "name": "Mitten Extracts | 5g Moonrocks | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "A timeless favorite turned up a notch, Blue Dream Moon Rocks combine sweet berry flavor with subtle earthy notes. The triple-layer infusion enhances the experience, delivering smooth flavor with elevated potency.",
+  "description_html": "A timeless favorite turned up a notch, Blue Dream Moon Rocks combine sweet berry flavor with subtle earthy notes. The triple-layer infusion enhances the experience, delivering smooth flavor with elevated potency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/77b7741c886458bdf0e03c477955f98b",
+      "alt": "Mitten Extracts | 5g Moonrocks | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-5g-moonrocks-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-5g-moonrocks-blue-dream-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.601Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-lemon-cherry-beltz",
+  "name": "Lemon Cherry Belts Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Rainbow Belts x Lemon Cherry Gelato Type: Indica-dominant hybrid Terpenes: Beta-Caryophyllene, Limonene, Myrcene Aroma: Sweet citrus, specifically notes of lemon and cherry, with a subtle earthy undertone Effects: Uplifting, relaxation, creative and focus Like your favorite candy—just grown up. This indica-dominant hybrid serves up sweet lemon zest and ripe cherry goodness with a creamy-smooth finish and a whisper of earthiness. The vibe kicks off bright and euphoric, boosting mood and focus, then eases into a calm, full-body chill that tells your nerves to clock out early. Powered by limonene, myrcene, and beta-caryophyllene, it’s the perfect treat for happy minds, creative sparks, and laid-back evenings.",
+  "description_html": "Lineage: Rainbow Belts x Lemon Cherry Gelato Type: Indica-dominant hybrid Terpenes: Beta-Caryophyllene, Limonene, Myrcene Aroma: Sweet citrus, specifically notes of lemon and cherry, with a subtle earthy undertone Effects: Uplifting, relaxation, creative and focus Like your favorite candy—just grown up. This indica-dominant hybrid serves up sweet lemon zest and ripe cherry goodness with a creamy-smooth finish and a whisper of earthiness. The vibe kicks off bright and euphoric, boosting mood and focus, then eases into a calm, full-body chill that tells your nerves to clock out early. Powered by limonene, myrcene, and beta-caryophyllene, it’s the perfect treat for happy minds, creative sparks, and laid-back evenings.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a552490d16f660be1dd214da7c505bd8",
+      "alt": "Lemon Cherry Belts Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-lemon-cherry-beltz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-lemon-cherry-beltz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.492Z"
+}

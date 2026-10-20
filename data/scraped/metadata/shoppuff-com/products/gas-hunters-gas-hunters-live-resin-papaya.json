@@ -1,0 +1,35 @@
+{
+  "slug": "gas-hunters-gas-hunters-live-resin-papaya",
+  "name": "Gas Hunters Live Resin | Papaya",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "GAS HUNTERS",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8f609d0baf43b28346161d810fea833d",
+      "alt": "Gas Hunters Live Resin | Papaya",
+      "local": "data\\scraped\\images\\shoppuff-com__gas-hunters-gas-hunters-live-resin-papaya__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gas-hunters-gas-hunters-live-resin-papaya-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.361Z"
+}

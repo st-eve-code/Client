@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-zig-zag-organic-hemp-rolling-papers",
+  "name": "Zig Zag - Organic Hemp Rolling Papers",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "organic hemp rolling papers.",
+  "description_html": "organic hemp rolling papers.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/094947e17d0c7814ee6585d5b82910df",
+      "alt": "Zig Zag - Organic Hemp Rolling Papers",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-zig-zag-organic-hemp-rolling-papers__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-zig-zag-organic-hemp-rolling-papers-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.196Z"
+}

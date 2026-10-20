@@ -1,0 +1,40 @@
+{
+  "slug": "super-dope-prepackaged-flower-mega-z-dark",
+  "name": "Super Dope Prepackaged Flower | Mega Z Dark",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 38.5,
+  "price_max": 38.5,
+  "currency": "USD",
+  "price_range": "$38.50",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Mega Z Dark dives deep into the dark side of Z with a very strong Skittlez profile blended with a sharp Sherbert tartness. Enjoy a special blend that expresses itself in ways Skittlez wouldn’t normally.",
+  "description_html": "Mega Z Dark dives deep into the dark side of Z with a very strong Skittlez profile blended with a sharp Sherbert tartness. Enjoy a special blend that expresses itself in ways Skittlez wouldn’t normally.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/abdaeefff91c453a21423c768967aaf0",
+      "alt": "Super Dope Prepackaged Flower | Mega Z Dark",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-prepackaged-flower-mega-z-dark__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 38.5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 38.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-prepackaged-flower-mega-z-dark-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.490Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-infused-preroll-juice-man-copy",
+  "name": "Grimas Infused Preroll | Jelly Rancher",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Grimas Infused Preroll | Jelly Rancher",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-infused-preroll-juice-man-copy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-infused-preroll-juice-man-copy-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.391Z"
+}

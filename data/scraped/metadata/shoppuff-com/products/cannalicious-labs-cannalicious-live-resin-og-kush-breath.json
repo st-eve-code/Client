@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-live-resin-og-kush-breath",
+  "name": "Cannalicious Live Resin | OG Kush Breath",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Georgia Pie is a hybrid cannabis strain tasting of fresh peach cobbler with an intense cerebral euphoria mixed with a relaxing body high commonly used by consumers dealing with chronic pain.",
+  "description_html": "Georgia Pie is a hybrid cannabis strain tasting of fresh peach cobbler with an intense cerebral euphoria mixed with a relaxing body high commonly used by consumers dealing with chronic pain.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/27b1658f1a849555dbee132976550d44",
+      "alt": "Cannalicious Live Resin | OG Kush Breath",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-live-resin-og-kush-breath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-live-resin-og-kush-breath-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.417Z"
+}

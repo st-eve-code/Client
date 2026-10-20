@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-1g-live-rosin-the-hive",
+  "name": "Local Grove | 1g Live Rosin | The Hive",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 33.75,
+  "price_max": 33.75,
+  "currency": "USD",
+  "price_range": "$33.75",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Honey Banana x Papaya \n\nBreeder: Bloom Seed Co \n\nAroma & Flavor: Candy banana mixed with fruity papaya \n\nEffects: Hybrid – flavorful concentrate-focused cultivar",
+  "description_html": "Genetics: Honey Banana x Papaya <br /><br />Breeder: Bloom Seed Co <br /><br />Aroma & Flavor: Candy banana mixed with fruity papaya <br /><br />Effects: Hybrid – flavorful concentrate-focused cultivar",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9223537c0d37919f51214593c4d103e8",
+      "alt": "Local Grove | 1g Live Rosin | The Hive",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-1g-live-rosin-the-hive__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 33.75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-1g-live-rosin-the-hive-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.046Z"
+}

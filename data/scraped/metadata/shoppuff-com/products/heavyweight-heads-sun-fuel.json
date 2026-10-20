@@ -1,0 +1,60 @@
+{
+  "slug": "heavyweight-heads-sun-fuel",
+  "name": "Sun Fuel",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6.4,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$6.40 – $100.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "This sweet OG tasting genetic is from the sherbert family crossed with The SFV OG. Of all of the phenotypes this is the most kush like, with some New York City diesel taste proles.\nSweet, kush, diesel, uplifting, happy.",
+  "description_html": "This sweet OG tasting genetic is from the sherbert family crossed with The SFV OG. Of all of the phenotypes this is the most kush like, with some New York City diesel taste proles.<br />Sweet, kush, diesel, uplifting, happy.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/856d1e7ef8e666e23ea307dbe663ffec",
+      "alt": "Sun Fuel",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-sun-fuel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 56,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6.4,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 32,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12.8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 100,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-sun-fuel-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.637Z"
+}

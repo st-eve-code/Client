@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-200mg-drizzle-cooking-oil",
+  "name": "Gelato | 200mg Drizzle | Cooking Oil",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Premium Canola Oil infused with 200mg distillate, easy to measure in teaspoon serving sizes. \n\n200mg Cooking Oil",
+  "description_html": "Premium Canola Oil infused with 200mg distillate, easy to measure in teaspoon serving sizes. <br /><br />200mg Cooking Oil",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a550eab7952677bada5b3060df1f9341",
+      "alt": "Gelato | 200mg Drizzle | Cooking Oil",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-200mg-drizzle-cooking-oil__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.75g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-200mg-drizzle-cooking-oil-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.397Z"
+}

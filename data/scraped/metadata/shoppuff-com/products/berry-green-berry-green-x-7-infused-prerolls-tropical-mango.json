@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-x-7-infused-prerolls-tropical-mango",
+  "name": "Berry Green x 7 Infused Prerolls | Tropical Mango",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Juicy island heat. Smooth pull, loud finish — pure vacation energy.\n\nEffect: Balanced lift that hits the sweet spot between chill and charge.",
+  "description_html": "Juicy island heat. Smooth pull, loud finish — pure vacation energy.<br /><br />Effect: Balanced lift that hits the sweet spot between chill and charge.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/694501954dd3375e24397fd6d0639a9a",
+      "alt": "Berry Green x 7 Infused Prerolls | Tropical Mango",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-x-7-infused-prerolls-tropical-mango__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-x-7-infused-prerolls-tropical-mango-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.346Z"
+}

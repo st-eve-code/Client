@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-wax-bucket-island-sweet-skunk",
+  "name": "Cannalicious Wax Bucket | Island Sweet Skunk",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Wax is a terpene and cannabinoid-rich concentrate with a cream-like texture that provides a rich and flavorful experience. It has an easy-to-work-with consistency and an immediate activation time.\n\nActivation time: Immediate\n1/4 Ounce",
+  "description_html": "Wax is a terpene and cannabinoid-rich concentrate with a cream-like texture that provides a rich and flavorful experience. It has an easy-to-work-with consistency and an immediate activation time.<br /><br />Activation time: Immediate<br />1/4 Ounce",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cb89faad31dd26530edbd692dc738f07",
+      "alt": "Cannalicious Wax Bucket | Island Sweet Skunk",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-wax-bucket-island-sweet-skunk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-wax-bucket-island-sweet-skunk-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.782Z"
+}

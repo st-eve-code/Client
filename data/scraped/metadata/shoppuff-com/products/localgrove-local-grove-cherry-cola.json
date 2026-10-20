@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-cherry-cola",
+  "name": "Local Grove | Cherry Cola",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$10.00 – $175.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Runtz x Brain Stew \n\nBreeder: Local Grove \n\nSelected by: Local Grove (seed hunt, in-house pheno) \n\nAroma & Flavor: Dark cherry smell and taste with dense, frosty buds \n\nEffects: Hybrid – balanced effects with a flavorful, smooth smoke",
+  "description_html": "Genetics: Runtz x Brain Stew <br /><br />Breeder: Local Grove <br /><br />Selected by: Local Grove (seed hunt, in-house pheno) <br /><br />Aroma & Flavor: Dark cherry smell and taste with dense, frosty buds <br /><br />Effects: Hybrid – balanced effects with a flavorful, smooth smoke",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/96b76ccbd64599e1ef6c62663bab433a",
+      "alt": "Local Grove | Cherry Cola",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-cherry-cola__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-cherry-cola-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.922Z"
+}

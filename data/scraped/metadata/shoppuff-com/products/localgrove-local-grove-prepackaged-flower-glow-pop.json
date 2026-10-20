@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-glow-pop",
+  "name": "Local Grove Prepackaged Flower | Glow Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Permanent Marker x Runtz \n\nBreeder: Local Grove \n\nAroma & Flavor: Candy, sherb, and marker taste with smooth transitions \n\nEffects: Hybrid – exceptional balance of flavor and potency",
+  "description_html": "Genetics: Permanent Marker x Runtz <br /><br />Breeder: Local Grove <br /><br />Aroma & Flavor: Candy, sherb, and marker taste with smooth transitions <br /><br />Effects: Hybrid – exceptional balance of flavor and potency",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6a458340a27211e9409bcc4758eddd26",
+      "alt": "Local Grove Prepackaged Flower | Glow Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-glow-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-glow-pop-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.279Z"
+}

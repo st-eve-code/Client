@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-x-cookies-disposable-blue-slushie",
+  "name": "Muha Meds x Cookies Disposable | Blue Slushie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5310914fe292ccdc69741119fa3088b5",
+      "alt": "Muha Meds x Cookies Disposable | Blue Slushie",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-x-cookies-disposable-blue-slushie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-x-cookies-disposable-blue-slushie-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.292Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-white-rhino-glass-straw",
+  "name": "White Rhino | Glass Straw",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "PRODUCT FEATURES: \n Quartz Dab Straw\n Glass Concentrate Device \n Silicone Cap Included \n 5” Tall Straw \n 12mm Width",
+  "description_html": "PRODUCT FEATURES: <br /> Quartz Dab Straw<br /> Glass Concentrate Device <br /> Silicone Cap Included <br /> 5” Tall Straw <br /> 12mm Width",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0d4cba96a6218e7ab75dd56ed521e716",
+      "alt": "White Rhino | Glass Straw",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-white-rhino-glass-straw__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-white-rhino-glass-straw-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.935Z"
+}

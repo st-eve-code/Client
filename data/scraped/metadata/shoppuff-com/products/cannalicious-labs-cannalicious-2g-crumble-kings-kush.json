@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-2g-crumble-kings-kush",
+  "name": "Cannalicious | 2g Crumble | King's Kush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 18.75,
+  "price_max": 18.75,
+  "currency": "USD",
+  "price_range": "$18.75",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Crumble is a cannabis concentrate extracted from cured plant material. While wax and crumble will have similar potencies, compared to the smooth, honey like texture of wax, Crumble has a dry and more brittle appearance. This makes it easier to handle and a bit more versatile for consumption.",
+  "description_html": "Crumble is a cannabis concentrate extracted from cured plant material. While wax and crumble will have similar potencies, compared to the smooth, honey like texture of wax, Crumble has a dry and more brittle appearance. This makes it easier to handle and a bit more versatile for consumption.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3e6b4d001486934f12b64716faa8f6c7",
+      "alt": "Cannalicious | 2g Crumble | King's Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-2g-crumble-kings-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 18.75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-2g-crumble-kings-kush-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.381Z"
+}

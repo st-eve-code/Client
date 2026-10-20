@@ -1,0 +1,60 @@
+{
+  "slug": "goldkine-goldkine-bananaconda",
+  "name": "Goldkine | Bananaconda",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 89,
+  "currency": "USD",
+  "price_range": "$5.00 – $89.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Meet Animal Tree, a balanced hybrid from Lemon Tree and Animal Mints strains. Ideal for easing negative thoughts and lifting bad moods, its high starts with a gentle tingle that evolves into a buzzy euphoria and light relaxation. Animal Tree treats chronic stress, anxiety, depression, pain, and appetite loss. Enjoy its super sour lemony citrus flavor with a minty exhale and its aroma of spicy skunky diesel, fresh mint, and sour citrus. Animal Tree features fluffy, neon green nugs with dark leaves, bright orange hairs, and chunky white trichomes. Relax and elevate your day with Animal Tree.",
+  "description_html": "Meet Animal Tree, a balanced hybrid from Lemon Tree and Animal Mints strains. Ideal for easing negative thoughts and lifting bad moods, its high starts with a gentle tingle that evolves into a buzzy euphoria and light relaxation. Animal Tree treats chronic stress, anxiety, depression, pain, and appetite loss. Enjoy its super sour lemony citrus flavor with a minty exhale and its aroma of spicy skunky diesel, fresh mint, and sour citrus. Animal Tree features fluffy, neon green nugs with dark leaves, bright orange hairs, and chunky white trichomes. Relax and elevate your day with Animal Tree.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/63e64e8a12704cdc56a7768d1fb7b112",
+      "alt": "Goldkine | Bananaconda",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-bananaconda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 89,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-bananaconda-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.503Z"
+}

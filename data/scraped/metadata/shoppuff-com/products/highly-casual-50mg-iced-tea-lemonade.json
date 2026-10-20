@@ -1,0 +1,35 @@
+{
+  "slug": "highly-casual-50mg-iced-tea-lemonade",
+  "name": "Highly Casual | 50mg Iced Tea | Lemonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Highly Casual",
+  "tags": [],
+  "description": "A refreshing, crushable twist on the classic Arnold Palmer – we infused ours with THC! This lemonade forward bevy will be sure improve your golf swing with a hangover free buzz either actually or mentally! With a hint of tea, this is sure to hit the sweet spot of nostalgia you're seeking with the classic pairing of Lemonade and Iced Tea. Big flavor, bigger chill and packing a serious 50mg of premium Nano THC. It’s the taste of Nostalgia, with the kind of buzz you only get as an adult. Sip it slow, or don’t — either way, it’s gonna hit.",
+  "description_html": "A refreshing, crushable twist on the classic Arnold Palmer – we infused ours with THC! This lemonade forward bevy will be sure improve your golf swing with a hangover free buzz either actually or mentally! With a hint of tea, this is sure to hit the sweet spot of nostalgia you're seeking with the classic pairing of Lemonade and Iced Tea. Big flavor, bigger chill and packing a serious 50mg of premium Nano THC. It’s the taste of Nostalgia, with the kind of buzz you only get as an adult. Sip it slow, or don’t — either way, it’s gonna hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e06a200e5131d4ddb5d09baf342a7946",
+      "alt": "Highly Casual | 50mg Iced Tea | Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__highly-casual-50mg-iced-tea-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/highly-casual-50mg-iced-tea-lemonade-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.455Z"
+}

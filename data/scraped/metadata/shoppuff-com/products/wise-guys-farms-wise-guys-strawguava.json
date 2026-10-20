@@ -1,0 +1,40 @@
+{
+  "slug": "wise-guys-farms-wise-guys-strawguava",
+  "name": "Wise Guys | Strawguava",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$30.00 – $55.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: Strawnana x Papaya\n\nFlavor: Strawberry rotting fruit terps with a sweet candy finish\n\nType/Leaning: Hybrid (Sativa-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Strawnana x Papaya<br /><br />Flavor: Strawberry rotting fruit terps with a sweet candy finish<br /><br />Type/Leaning: Hybrid (Sativa-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ccf917236e7efe9831ee06439f0fb06f",
+      "alt": "Wise Guys | Strawguava",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-farms-wise-guys-strawguava__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-farms-wise-guys-strawguava-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.612Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-5pk-joints-banana-rickscotti",
+  "name": "710 Labs | 5pk Joints | Banana Rickscotti",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "710 Labs | 5pk Joints | Banana Rickscotti",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-5pk-joints-banana-rickscotti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.75g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-5pk-joints-banana-rickscotti-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.906Z"
+}

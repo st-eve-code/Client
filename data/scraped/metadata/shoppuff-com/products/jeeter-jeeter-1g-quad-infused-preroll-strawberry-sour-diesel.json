@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-1g-quad-infused-preroll-strawberry-sour-diesel",
+  "name": "Jeeter | 1g Quad Infused Preroll | Strawberry Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Strawberry Sour Diesel crosses two legacy strains, Sour Diesel and Strawberry Cough, to create a fruity sativa with a serious gas kick. Expect sweet, candied strawberry on the inhale with hints of floral, followed by a sharp exhale of citrusy pine and classic diesel. Bold, flavorful, and perfect for on the go, this one’s got range.",
+  "description_html": "Strawberry Sour Diesel crosses two legacy strains, Sour Diesel and Strawberry Cough, to create a fruity sativa with a serious gas kick. Expect sweet, candied strawberry on the inhale with hints of floral, followed by a sharp exhale of citrusy pine and classic diesel. Bold, flavorful, and perfect for on the go, this one’s got range.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/81d2d77afb36fcc18f70c375fa7c5947",
+      "alt": "Jeeter | 1g Quad Infused Preroll | Strawberry Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-1g-quad-infused-preroll-strawberry-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-1g-quad-infused-preroll-strawberry-sour-diesel-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.523Z"
+}

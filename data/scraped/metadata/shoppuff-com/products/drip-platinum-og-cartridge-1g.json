@@ -1,0 +1,35 @@
+{
+  "slug": "drip-platinum-og-cartridge-1g",
+  "name": "Platinum OG Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Platinum OG brings that deep, grounded vibe with rich earthy flavor and a hit of pine. It’s a mellow, slow-burn kind of session — best enjoyed when you’re ready to kick back and fully disconnect.",
+  "description_html": "Platinum OG brings that deep, grounded vibe with rich earthy flavor and a hit of pine. It’s a mellow, slow-burn kind of session — best enjoyed when you’re ready to kick back and fully disconnect.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4569e5b672e3c805cdc9d5cf3a4da88d",
+      "alt": "Platinum OG Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-platinum-og-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-platinum-og-cartridge-1g-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.486Z"
+}

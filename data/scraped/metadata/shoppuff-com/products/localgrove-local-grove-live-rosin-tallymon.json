@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-tallymon",
+  "name": "Local Grove Live Rosin | Tallymon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 28,
+  "price_max": 28,
+  "currency": "USD",
+  "price_range": "$28.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Tallymon is a cross of (Banana OG x Dosidos) x Papaya. Bred by Oni Seed Co.\n\nGenetics are the #1 factor in determining the quality of cannabis, we carefully source quality genetics from different breeders throughout the world. The vast majority of Localgrove’s cultivars are pheno hunted and selected from seed for their unique smell and taste.",
+  "description_html": "Tallymon is a cross of (Banana OG x Dosidos) x Papaya. Bred by Oni Seed Co.<br /><br />Genetics are the #1 factor in determining the quality of cannabis, we carefully source quality genetics from different breeders throughout the world. The vast majority of Localgrove’s cultivars are pheno hunted and selected from seed for their unique smell and taste.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/71ff75780a1bec172b7f2c99a9230be8",
+      "alt": "Local Grove Live Rosin | Tallymon",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-tallymon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 28,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-tallymon-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.443Z"
+}

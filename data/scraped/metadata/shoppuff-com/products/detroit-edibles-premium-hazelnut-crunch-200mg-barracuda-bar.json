@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-premium-hazelnut-crunch-200mg-barracuda-bar",
+  "name": "Premium Hazelnut Crunch | 200mg Barracuda Bar",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "?This 200mg THC-infused Hazelnut Crunch Chocolate Bar combines creamy hazelnut spread with crispy corn flakes for a rich, nutty bite and satisfying crunch. A deliciously potent treat perfect for those seeking a flavorful and elevated experience.",
+  "description_html": "?This 200mg THC-infused Hazelnut Crunch Chocolate Bar combines creamy hazelnut spread with crispy corn flakes for a rich, nutty bite and satisfying crunch. A deliciously potent treat perfect for those seeking a flavorful and elevated experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9a440dce75c34bf4629300ae3ba4fe4f",
+      "alt": "Premium Hazelnut Crunch | 200mg Barracuda Bar",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-premium-hazelnut-crunch-200mg-barracuda-bar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-premium-hazelnut-crunch-200mg-barracuda-bar-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.915Z"
+}

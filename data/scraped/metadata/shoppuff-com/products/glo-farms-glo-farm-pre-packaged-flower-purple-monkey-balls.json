@@ -1,0 +1,35 @@
+{
+  "slug": "glo-farms-glo-farm-pre-packaged-flower-purple-monkey-balls",
+  "name": "Glo Farm Pre-Packaged Flower | Purple Monkey Balls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Glo Farms",
+  "tags": [],
+  "description": "3.5g Pre-Pack",
+  "description_html": "3.5g Pre-Pack",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4feda5c4ab1a0a2b49bd672150de869e",
+      "alt": "Glo Farm Pre-Packaged Flower | Purple Monkey Balls",
+      "local": "data\\scraped\\images\\shoppuff-com__glo-farms-glo-farm-pre-packaged-flower-purple-monkey-balls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glo-farms-glo-farm-pre-packaged-flower-purple-monkey-balls-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.414Z"
+}

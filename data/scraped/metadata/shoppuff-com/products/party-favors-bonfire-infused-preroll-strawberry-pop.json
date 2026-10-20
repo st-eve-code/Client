@@ -1,0 +1,35 @@
+{
+  "slug": "party-favors-bonfire-infused-preroll-strawberry-pop",
+  "name": "Party Favors Bonfire Infused Preroll | Strawberry Pop",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Party Favors",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8863f8e20022d17bd073de25468064de",
+      "alt": "Party Favors Bonfire Infused Preroll | Strawberry Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__party-favors-bonfire-infused-preroll-strawberry-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/party-favors-bonfire-infused-preroll-strawberry-pop-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.652Z"
+}

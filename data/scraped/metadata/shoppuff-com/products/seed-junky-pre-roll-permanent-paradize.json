@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-pre-roll-permanent-paradize",
+  "name": "Seed Junky Pre-Roll | Permanent Paradize",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Permanent Paradize is there when you need a blissful-relaxing hybrid with tons of flavor. This is a gassier strain with back-end tropical sweetness. Guaranteed to take you on a cerebral vacation.",
+  "description_html": "Permanent Paradize is there when you need a blissful-relaxing hybrid with tons of flavor. This is a gassier strain with back-end tropical sweetness. Guaranteed to take you on a cerebral vacation.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/15483cc9a840566e28449c12f584e982",
+      "alt": "Seed Junky Pre-Roll | Permanent Paradize",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-pre-roll-permanent-paradize__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-pre-roll-permanent-paradize-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.570Z"
+}

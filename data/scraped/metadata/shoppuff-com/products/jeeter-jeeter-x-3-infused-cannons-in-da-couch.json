@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-x-3-infused-cannons-in-da-couch",
+  "name": "Jeeter x 3 Infused Cannons | In Da Couch",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "In Da Couch Jeeter Cannon Live Resin - 3 Pack: 3 x 0.5g Cannons totaling 1.5 Grams Per Pack | Indica | Premium Flower Infused w/ Live Resin",
+  "description_html": "In Da Couch Jeeter Cannon Live Resin - 3 Pack: 3 x 0.5g Cannons totaling 1.5 Grams Per Pack | Indica | Premium Flower Infused w/ Live Resin",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c849d421c20c277732bcc02c3badd7ce",
+      "alt": "Jeeter x 3 Infused Cannons | In Da Couch",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-x-3-infused-cannons-in-da-couch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-x-3-infused-cannons-in-da-couch-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.797Z"
+}

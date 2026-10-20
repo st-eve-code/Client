@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-pre-roll-starry-night-1g",
+  "name": "Local Grove Pre-Roll | Starry Night | 1G",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Starry Night is one of Localgrove's most potent and popular strains. It has subtle gas and candy smell with powerful effects.",
+  "description_html": "Starry Night is one of Localgrove's most potent and popular strains. It has subtle gas and candy smell with powerful effects.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b7e71d011da21a067458a5cf20570b54",
+      "alt": "Local Grove Pre-Roll | Starry Night | 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-pre-roll-starry-night-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-pre-roll-starry-night-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.864Z"
+}

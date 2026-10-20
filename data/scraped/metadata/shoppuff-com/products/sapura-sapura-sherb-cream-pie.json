@@ -1,0 +1,45 @@
+{
+  "slug": "sapura-sapura-sherb-cream-pie",
+  "name": "Sapura | Sherb Cream Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$8.00 – $20.00",
+  "available": true,
+  "vendor": "Sapura",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/24f8019466845bbc938f41e6920cc8ee",
+      "alt": "Sapura | Sherb Cream Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__sapura-sapura-sherb-cream-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sapura-sapura-sherb-cream-pie-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.631Z"
+}

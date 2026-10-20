@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-live-resin-bucket-garlic-mintz",
+  "name": "Cannalicious Live Resin Bucket | Garlic Mintz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 65,
+  "price_max": 65,
+  "currency": "USD",
+  "price_range": "$65.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Cannalicious Live Resin Bucket | Garlic Mintz",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-live-resin-bucket-garlic-mintz__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-live-resin-bucket-garlic-mintz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.248Z"
+}

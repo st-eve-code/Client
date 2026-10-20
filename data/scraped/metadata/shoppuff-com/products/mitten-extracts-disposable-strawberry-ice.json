@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-disposable-strawberry-ice",
+  "name": "Mitten Extracts Disposable | Strawberry Ice",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Bursting with candy-sweet strawberry flavor and layered with a cool iced finish, Strawberry Ice is as refreshing as it is delicious. Smooth, fruity pulls melt into an icy exhale that keeps the profile balanced and uplifting. This limited-edition 2g disposable delivers a mellow, feel-good high paired with a flavor that’s crisp, sweet, and impossible to put down. A perfect pick for flavor chasers and fans of chilled, fruity profiles.",
+  "description_html": "Bursting with candy-sweet strawberry flavor and layered with a cool iced finish, Strawberry Ice is as refreshing as it is delicious. Smooth, fruity pulls melt into an icy exhale that keeps the profile balanced and uplifting. This limited-edition 2g disposable delivers a mellow, feel-good high paired with a flavor that’s crisp, sweet, and impossible to put down. A perfect pick for flavor chasers and fans of chilled, fruity profiles.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/00c24270d2d1eff6b5bc2da7ed308ccf",
+      "alt": "Mitten Extracts Disposable | Strawberry Ice",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-disposable-strawberry-ice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-disposable-strawberry-ice-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.200Z"
+}

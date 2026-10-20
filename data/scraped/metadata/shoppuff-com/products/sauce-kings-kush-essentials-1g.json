@@ -1,0 +1,35 @@
+{
+  "slug": "sauce-kings-kush-essentials-1g",
+  "name": "Kings Kush - Essentials - 1G",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Sauce",
+  "tags": [],
+  "description": "King’s Kush is an indica strain made by crossing OG Kush with Grape. King’s Kush produces gradual, yet powerful effects that will make you feel relaxed and euphoric. This strain features a flavor profile that is similar to a tangy grape with undertones of lavender. King’s Kush is a great choice to relieve symptoms associated with insomnia.\n\nTaste: Tangy, Citrus, Grape\nFeel: Creative, Social, High Energy\nStrain: OG Kush x Grape",
+  "description_html": "<br />King’s Kush is an indica strain made by crossing OG Kush with Grape. King’s Kush produces gradual, yet powerful effects that will make you feel relaxed and euphoric. This strain features a flavor profile that is similar to a tangy grape with undertones of lavender. King’s Kush is a great choice to relieve symptoms associated with insomnia.<br /><br />Taste: Tangy, Citrus, Grape<br />Feel: Creative, Social, High Energy<br />Strain: OG Kush x Grape<br /><br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0fe66d978bf7d4c7d03336d866b6816f",
+      "alt": "Kings Kush - Essentials - 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__sauce-kings-kush-essentials-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sauce-kings-kush-essentials-1g-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.918Z"
+}

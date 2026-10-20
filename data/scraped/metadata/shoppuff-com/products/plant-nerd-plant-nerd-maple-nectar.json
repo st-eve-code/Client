@@ -1,0 +1,60 @@
+{
+  "slug": "plant-nerd-plant-nerd-maple-nectar",
+  "name": "Plant Nerd | Maple Nectar",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150.99,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.99",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Black Maple x Papaya by Bloom Seed Co. We hunted this strain because the cross sounds so unique, and honestly, we just wanted to try the flower. The pheno we kept mixes the maple/caramel earthy sweetness of Black Maple with a gassy, slightly sour, fruity punch from the Papaya. The taste comes through on the smoke and we’re excited to have it in the rotation.",
+  "description_html": "Black Maple x Papaya by Bloom Seed Co. We hunted this strain because the cross sounds so unique, and honestly, we just wanted to try the flower. The pheno we kept mixes the maple/caramel earthy sweetness of Black Maple with a gassy, slightly sour, fruity punch from the Papaya. The taste comes through on the smoke and we’re excited to have it in the rotation.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dfb81b023c459b04e879e4790822ef49",
+      "alt": "Plant Nerd | Maple Nectar",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-maple-nectar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-maple-nectar-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.286Z"
+}

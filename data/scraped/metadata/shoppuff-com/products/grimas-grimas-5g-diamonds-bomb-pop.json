@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-5g-diamonds-bomb-pop",
+  "name": "Grimas | 5g Diamonds | Bomb Pop",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Grimas in its simplest form is cannabis. But Grimas is so much more than JUST cannabis. When you want to get high, sure, you might use cannabis. When you want to come up with the next great idea, create an epic story for your friends to enjoy, or simply need an escape from the hectic every day… that’s where you can rely on Grimas. Yes, Grimas is cannabis. And yes, Grimas is THE experience.",
+  "description_html": "Grimas in its simplest form is cannabis. But Grimas is so much more than JUST cannabis. When you want to get high, sure, you might use cannabis. When you want to come up with the next great idea, create an epic story for your friends to enjoy, or simply need an escape from the hectic every day… that’s where you can rely on Grimas. Yes, Grimas is cannabis. And yes, Grimas is THE experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c09703a69b90fc226909bc17444d019b",
+      "alt": "Grimas | 5g Diamonds | Bomb Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-5g-diamonds-bomb-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-5g-diamonds-bomb-pop-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.584Z"
+}

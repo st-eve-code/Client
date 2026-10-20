@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-pre-roll-gorilla-glue",
+  "name": "Gorilla Glue - 1g Pre-Roll",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Jungle Juice",
+  "tags": [],
+  "description": "Smooth and potent, our 1g Gorilla Glue Indica pre-roll hits your body with deep relaxation and leaves you feeling happy, uplifted, and in control.",
+  "description_html": "Smooth and potent, our 1g Gorilla Glue Indica pre-roll hits your body with deep relaxation and leaves you feeling happy, uplifted, and in control.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/44864685e0f3184681c9cd7841ffcad3",
+      "alt": "Gorilla Glue - 1g Pre-Roll",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-pre-roll-gorilla-glue__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-pre-roll-gorilla-glue-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.547Z"
+}

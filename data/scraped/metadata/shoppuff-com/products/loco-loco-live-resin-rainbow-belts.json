@@ -1,0 +1,35 @@
+{
+  "slug": "loco-loco-live-resin-rainbow-belts",
+  "name": "Loco Live Resin | Rainbow Belts",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "LOCO",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Loco Live Resin | Rainbow Belts",
+      "local": "data\\scraped\\images\\shoppuff-com__loco-loco-live-resin-rainbow-belts__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loco-loco-live-resin-rainbow-belts-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.868Z"
+}

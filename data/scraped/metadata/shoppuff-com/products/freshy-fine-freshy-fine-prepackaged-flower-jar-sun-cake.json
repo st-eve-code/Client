@@ -1,0 +1,35 @@
+{
+  "slug": "freshy-fine-freshy-fine-prepackaged-flower-jar-sun-cake",
+  "name": "Freshy Fine Prepackaged Flower Jar | Sun Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 125,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$125.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3b9dc1b01925978f3941702d19680eb0",
+      "alt": "Freshy Fine Prepackaged Flower Jar | Sun Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-freshy-fine-prepackaged-flower-jar-sun-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-freshy-fine-prepackaged-flower-jar-sun-cake-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.842Z"
+}

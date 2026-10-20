@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-grinder-plastic",
+  "name": "Grinder | Plastic",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "This Plastic Grinder is a two-piece plastic grinder that is lightweight and portable. It’s so easy to use and has a smooth swivel system that easily breaks up and grinds your herb to your desired consistency. \n*please check in store for all available colors",
+  "description_html": "This Plastic Grinder is a two-piece plastic grinder that is lightweight and portable. It’s so easy to use and has a smooth swivel system that easily breaks up and grinds your herb to your desired consistency. <br />*please check in store for all available colors<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b6278b6c95e8adfb46da93038d0c53e5",
+      "alt": "Grinder | Plastic",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-grinder-plastic__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-grinder-plastic-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.922Z"
+}

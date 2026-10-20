@@ -1,0 +1,35 @@
+{
+  "slug": "shatter-house-extracts-shatter-house-live-resin-pancakes",
+  "name": "Shatter House Live Resin | Pancakes",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 14.99,
+  "price_max": 14.99,
+  "currency": "USD",
+  "price_range": "$14.99",
+  "available": true,
+  "vendor": "Shatter House Extracts",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Shatter House Live Resin | Pancakes",
+      "local": "data\\scraped\\images\\shoppuff-com__shatter-house-extracts-shatter-house-live-resin-pancakes__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 14.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/shatter-house-extracts-shatter-house-live-resin-pancakes-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.392Z"
+}

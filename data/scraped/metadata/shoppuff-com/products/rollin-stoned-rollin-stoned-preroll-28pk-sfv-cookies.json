@@ -1,0 +1,35 @@
+{
+  "slug": "rollin-stoned-rollin-stoned-preroll-28pk-sfv-cookies",
+  "name": "Rollin Stoned Preroll 28pk | SFV Cookies",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Rollin Stoned",
+  "tags": [],
+  "description": "28pk 1g Pre-Rolls\n\nExpect a warm body calm and peaceful mental quiet that helps you slow down, reset, and melt into the moment. Steady. Comforting. Effortlessly serene.",
+  "description_html": "28pk 1g Pre-Rolls<br /><br />Expect a warm body calm and peaceful mental quiet that helps you slow down, reset, and melt into the moment. Steady. Comforting. Effortlessly serene.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/999263804442b7101ab94067f4553132",
+      "alt": "Rollin Stoned Preroll 28pk | SFV Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__rollin-stoned-rollin-stoned-preroll-28pk-sfv-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rollin-stoned-rollin-stoned-preroll-28pk-sfv-cookies-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.244Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-infused-blunt-watermelon",
+  "name": "Watermelon Blunt - 1.5g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5.95,
+  "price_max": 5.95,
+  "currency": "USD",
+  "price_range": "$5.95",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Treat yourself to the taste of summer with Swisher Blunts Watermelon. A burst of sweetness in every puff.",
+  "description_html": "Treat yourself to the taste of summer with Swisher Blunts Watermelon. A burst of sweetness in every puff.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f85c6c5d076f6d60443d209668b17775",
+      "alt": "Watermelon Blunt - 1.5g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-infused-blunt-watermelon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 5.95,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-infused-blunt-watermelon-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.502Z"
+}

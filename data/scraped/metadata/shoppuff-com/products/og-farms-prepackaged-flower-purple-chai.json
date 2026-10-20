@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-prepackaged-flower-purple-chai",
+  "name": "OG Farms Prepackaged Flower | Purple Chai",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "Whether you’re stocking up or rolling through your go-to strain, OG Farms brings you a smooth, flavorful experience backed by trusted cultivation and dependable results.",
+  "description_html": "Whether you’re stocking up or rolling through your go-to strain, OG Farms brings you a smooth, flavorful experience backed by trusted cultivation and dependable results.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/88671869f2c30cc65b24eaa9ff49c56a",
+      "alt": "OG Farms Prepackaged Flower | Purple Chai",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-prepackaged-flower-purple-chai__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-prepackaged-flower-purple-chai-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.189Z"
+}

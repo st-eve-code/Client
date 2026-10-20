@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getCategory } from "@/lib/catalog";
+import { getCategory, groupLabel } from "@/lib/catalog";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { ProductGrid } from "@/components/ProductGrid";
 import { Pagination } from "@/components/Pagination";
@@ -49,8 +49,8 @@ export default async function CategoryPage({
         />
 
         <div className="mt-6 mb-8">
-          <p className="mb-2 text-sm font-bold uppercase tracking-widest text-[#5eb047]">
-            {data.group === "weedmaps" ? "Cannabis" : data.group === "vs2" ? "Vape Tanks" : "Vape Store"}
+          <p className="mb-2 text-sm font-semibold text-[#5eb047]">
+            {groupLabel(data.group)}
           </p>
           <h1 className="text-[var(--text-heading-lg)] leading-[var(--leading-heading-lg)] font-extrabold text-[var(--color-text-primary)]">
             {data.label}

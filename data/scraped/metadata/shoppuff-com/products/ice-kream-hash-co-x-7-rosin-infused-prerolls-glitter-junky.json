@@ -1,0 +1,35 @@
+{
+  "slug": "ice-kream-hash-co-x-7-rosin-infused-prerolls-glitter-junky",
+  "name": "Ice Kream Hash Co. x 7 Rosin Infused Prerolls | Glitter Junky",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 32.5,
+  "price_max": 32.5,
+  "currency": "USD",
+  "price_range": "$32.50",
+  "available": true,
+  "vendor": "Ice Kream Hash Co.",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Ice Kream Hash Co. x 7 Rosin Infused Prerolls | Glitter Junky",
+      "local": "data\\scraped\\images\\shoppuff-com__ice-kream-hash-co-x-7-rosin-infused-prerolls-glitter-junky__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 32.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/ice-kream-hash-co-x-7-rosin-infused-prerolls-glitter-junky-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.575Z"
+}

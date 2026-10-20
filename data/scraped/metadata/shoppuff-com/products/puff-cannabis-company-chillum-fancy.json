@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-chillum-fancy",
+  "name": "Chillum | Fancy",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "This borosilicate glass gem is wrapped in a durable silicone cover, making it as tough as your favorite grinder and as reliable as your go-to battery.\n***Available in an assortment of colors.**",
+  "description_html": "This borosilicate glass gem is wrapped in a durable silicone cover, making it as tough as your favorite grinder and as reliable as your go-to battery.<br />***Available in an assortment of colors.**<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4360ad54d4ca84979e91d4265435d526",
+      "alt": "Chillum | Fancy",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-chillum-fancy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-chillum-fancy-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.922Z"
+}

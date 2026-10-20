@@ -1,0 +1,35 @@
+{
+  "slug": "mad-labs-mad-labs-disposable-lemon-cherry-gelato",
+  "name": "Mad Labs Disposable | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Mad Labs",
+  "tags": [],
+  "description": "A balanced hybrid known for its dessert-like sweetness and uplifting-yet-relaxing effects, offering a smooth mix of mood elevation and gentle body calm ideal for anytime unwinding. A burst of tangy lemon and ripe cherry sweetness layered with subtle berry undertones and a smooth, lightly earthy finish.",
+  "description_html": "A balanced hybrid known for its dessert-like sweetness and uplifting-yet-relaxing effects, offering a smooth mix of mood elevation and gentle body calm ideal for anytime unwinding. A burst of tangy lemon and ripe cherry sweetness layered with subtle berry undertones and a smooth, lightly earthy finish.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/620c3457f86e41483d083ccddf59e231",
+      "alt": "Mad Labs Disposable | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-labs-mad-labs-disposable-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-labs-mad-labs-disposable-lemon-cherry-gelato-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.490Z"
+}

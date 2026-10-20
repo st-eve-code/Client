@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-purple-push-pop",
+  "name": "Seed Junky Pre-Roll | Purple Push Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Grapes, candy, hints of gas, Immediately gives a strong head buzz that melts down into your body bringing you in a blissful state. Great for movie nights.",
+  "description_html": "Grapes, candy, hints of gas, Immediately gives a strong head buzz that melts down into your body bringing you in a blissful state. Great for movie nights.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e2b0879f36124af94eb60595e490c988",
+      "alt": "Seed Junky Pre-Roll | Purple Push Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-purple-push-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-purple-push-pop-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.020Z"
+}

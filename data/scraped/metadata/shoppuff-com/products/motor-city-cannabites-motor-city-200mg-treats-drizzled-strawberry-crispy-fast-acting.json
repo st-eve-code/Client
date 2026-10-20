@@ -1,0 +1,35 @@
+{
+  "slug": "motor-city-cannabites-motor-city-200mg-treats-drizzled-strawberry-crispy-fast-acting",
+  "name": "Motor City | 200mg Treats | Drizzled Strawberry Crispy Fast Acting",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Motor City Cannabites",
+  "tags": [],
+  "description": "200mg Fast Acting Chocolate Drizzled Rice Crispy Treat",
+  "description_html": "200mg Fast Acting Chocolate Drizzled Rice Crispy Treat",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/aa9055a28bad3a3c953d63f3d96bb3ed",
+      "alt": "Motor City | 200mg Treats | Drizzled Strawberry Crispy Fast Acting",
+      "local": "data\\scraped\\images\\shoppuff-com__motor-city-cannabites-motor-city-200mg-treats-drizzled-strawberry-crispy-fast-acting__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.4g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/motor-city-cannabites-motor-city-200mg-treats-drizzled-strawberry-crispy-fast-acting-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.681Z"
+}

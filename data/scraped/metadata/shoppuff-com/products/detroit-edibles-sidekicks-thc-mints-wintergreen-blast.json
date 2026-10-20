@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-sidekicks-thc-mints-wintergreen-blast",
+  "name": "Sidekicks THC Mints - Wintergreen Blast",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Designed for consumers looking for a micro-dose option, the 2.5mg sugar-free Sidekicks THC Mints are the perfect size for a quick way to relax when you're on the move. Each pack contains 50 mints for a total of 125mg of THC.",
+  "description_html": "Designed for consumers looking for a micro-dose option, the 2.5mg sugar-free Sidekicks THC Mints are the perfect size for a quick way to relax when you're on the move. Each pack contains 50 mints for a total of 125mg of THC.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c8540f48256334b5c72cd6e925edd85f",
+      "alt": "Sidekicks THC Mints - Wintergreen Blast",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-sidekicks-thc-mints-wintergreen-blast__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.31g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-sidekicks-thc-mints-wintergreen-blast-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.273Z"
+}

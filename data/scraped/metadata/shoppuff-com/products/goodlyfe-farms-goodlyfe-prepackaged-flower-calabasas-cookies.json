@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-goodlyfe-prepackaged-flower-calabasas-cookies",
+  "name": "Goodlyfe Prepackaged Flower | Calabasas Cookies",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7421f8d54bd80ecd7244ec75040cc358",
+      "alt": "Goodlyfe Prepackaged Flower | Calabasas Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-goodlyfe-prepackaged-flower-calabasas-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-goodlyfe-prepackaged-flower-calabasas-cookies-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.454Z"
+}

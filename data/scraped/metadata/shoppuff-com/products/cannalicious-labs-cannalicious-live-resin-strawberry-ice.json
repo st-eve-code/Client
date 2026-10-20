@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-live-resin-strawberry-ice",
+  "name": "Cannalicious Live Resin | Strawberry Ice",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Live Resin is created from flower that has been flash frozen at the time of harvest to preserve all the trichomes, which produce the terpenes and cannabinoids that give the flower it’s rich flavor and complex aroma.",
+  "description_html": "Live Resin is created from flower that has been flash frozen at the time of harvest to preserve all the trichomes, which produce the terpenes and cannabinoids that give the flower it’s rich flavor and complex aroma.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a7b3df62d60a53d9a8241336108b5db6",
+      "alt": "Cannalicious Live Resin | Strawberry Ice",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-live-resin-strawberry-ice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-live-resin-strawberry-ice-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.426Z"
+}

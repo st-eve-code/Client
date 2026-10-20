@@ -1,0 +1,60 @@
+{
+  "slug": "goldkine-spritzer",
+  "name": "Goldkine | Spritzer",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Meet Spritzer, an evenly balanced hybrid born from the delicious cross of Runtz and (Grape Pie X Miracle Alien Cookies). Perfect for energizing your afternoon without the anxiety, Spritzer offers a sweet and fruity cherry berry flavor with hints of fresh flowers and a touch of black pepper. The aroma is equally captivating, blending sweet and fruity notes with pungent earthy undertones and savory gas. Spritzer's high delivers a sense of lifted euphoria and creativity, energizing you and boosting sociability—ideal for tackling your to-do list or engaging in conversations. Spritzer is great for managing chronic stress, anxiety, inflammation, depression, mood swings, and chronic pain. Its oversized, spade-shaped bright neon green nugs, adorned with thin orange hairs and golden amber crystal trichomes, make Spritzer as visually appealing as it is effective.",
+  "description_html": "Meet Spritzer, an evenly balanced hybrid born from the delicious cross of Runtz and (Grape Pie X Miracle Alien Cookies). Perfect for energizing your afternoon without the anxiety, Spritzer offers a sweet and fruity cherry berry flavor with hints of fresh flowers and a touch of black pepper. The aroma is equally captivating, blending sweet and fruity notes with pungent earthy undertones and savory gas. Spritzer's high delivers a sense of lifted euphoria and creativity, energizing you and boosting sociability—ideal for tackling your to-do list or engaging in conversations. Spritzer is great for managing chronic stress, anxiety, inflammation, depression, mood swings, and chronic pain. Its oversized, spade-shaped bright neon green nugs, adorned with thin orange hairs and golden amber crystal trichomes, make Spritzer as visually appealing as it is effective.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e36474b499c8c7ce36a82800c798cd38",
+      "alt": "Goldkine | Spritzer",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-spritzer__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 65,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-spritzer-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.343Z"
+}

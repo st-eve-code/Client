@@ -1,0 +1,35 @@
+{
+  "slug": "superfire-infused-preroll-glazed-donut",
+  "name": "Superfire Infused Preroll | Glazed Donut",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Superfire",
+  "tags": [],
+  "description": "Ignite your day with Superfire Infused Pre-Rolls. Infused with premium oil and natural terpenes that burn smooth and delicious through to the very end. Whether you’re chilling at home or hanging with friends, these pre-rolls bring the perfect mix of flavor and potency. Light up, relax, and enjoy the blaze\n\n1.2g Pre-Roll - Premium Distillate and Natural Terpenes - 20 Strains",
+  "description_html": "Ignite your day with Superfire Infused Pre-Rolls. Infused with premium oil and natural terpenes that burn smooth and delicious through to the very end. Whether you’re chilling at home or hanging with friends, these pre-rolls bring the perfect mix of flavor and potency. Light up, relax, and enjoy the blaze<br /><br /><br />1.2g Pre-Roll - Premium Distillate and Natural Terpenes - 20 Strains",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/27ad7b9db52fc616f00a5e38160bc234",
+      "alt": "Superfire Infused Preroll | Glazed Donut",
+      "local": "data\\scraped\\images\\shoppuff-com__superfire-infused-preroll-glazed-donut__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/superfire-infused-preroll-glazed-donut-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.504Z"
+}

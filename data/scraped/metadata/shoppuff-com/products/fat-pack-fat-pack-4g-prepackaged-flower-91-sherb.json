@@ -1,0 +1,35 @@
+{
+  "slug": "fat-pack-fat-pack-4g-prepackaged-flower-91-sherb",
+  "name": "Fat Pack | 4g Prepackaged Flower | 91 Sherb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$17.00",
+  "available": true,
+  "vendor": "Fat Pack",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Fat Pack | 4g Prepackaged Flower | 91 Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__fat-pack-fat-pack-4g-prepackaged-flower-91-sherb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4g",
+      "price": 17,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fat-pack-fat-pack-4g-prepackaged-flower-91-sherb-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.750Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-pre-roll-creamy-smoothie",
+  "name": "Flower Power Cannabis Pre-Roll | Creamy Smoothie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "1G Preroll of our strain Creamy Smoothie. Made with 100% premium flower; no shake, no trim.\n\nCREAM X Gelonade | Indica-Dominant Hybrid\n\nDominant Terpenes: Limonene, Caryophyllene, Nerolidol",
+  "description_html": "1G Preroll of our strain Creamy Smoothie. Made with 100% premium flower; no shake, no trim.<br /><br /><br /><br />CREAM X Gelonade | Indica-Dominant Hybrid<br /><br />Dominant Terpenes: Limonene, Caryophyllene, Nerolidol",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7932b9747b12ce3917344b046fc36c09",
+      "alt": "Flower Power Cannabis Pre-Roll | Creamy Smoothie",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-pre-roll-creamy-smoothie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-pre-roll-creamy-smoothie-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.217Z"
+}

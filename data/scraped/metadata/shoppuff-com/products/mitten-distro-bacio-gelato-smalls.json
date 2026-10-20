@@ -1,0 +1,40 @@
+{
+  "slug": "mitten-distro-bacio-gelato-smalls",
+  "name": "Mitten Distro | Bacio Gelato (Smalls)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$20.00 – $40.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a731b4953bcabe0b2c4d206dccf4ac41",
+      "alt": "Mitten Distro | Bacio Gelato (Smalls)",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-distro-bacio-gelato-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-distro-bacio-gelato-smalls-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.687Z"
+}

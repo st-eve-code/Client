@@ -1,0 +1,35 @@
+{
+  "slug": "freshy-fine-freshy-fine-14g-prepackaged-flower-jar-grease-fire",
+  "name": "Freshy Fine | 14g Prepackaged Flower Jar | Grease Fire",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 130,
+  "price_max": 130,
+  "currency": "USD",
+  "price_range": "$130.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a82976f5129566d654cf19390068bd9",
+      "alt": "Freshy Fine | 14g Prepackaged Flower Jar | Grease Fire",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-freshy-fine-14g-prepackaged-flower-jar-grease-fire__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 130,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-freshy-fine-14g-prepackaged-flower-jar-grease-fire-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.937Z"
+}

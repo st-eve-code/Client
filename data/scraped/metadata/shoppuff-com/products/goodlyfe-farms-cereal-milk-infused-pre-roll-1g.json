@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-cereal-milk-infused-pre-roll-1g",
+  "name": "Cereal Milk Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 1.5,
+  "price_max": 1.5,
+  "currency": "USD",
+  "price_range": "$1.50",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Cereal Milk is a sativa dominant hybrid strain that is dense and creamy with a strong sweet and starchy aroma. This strain’s aroma and flavor contain notes of toasted bread, caramelized fruit, and strawberry over a light earthy base. Cereal Milk will make you feel both calm and happy. Its dominant terpenes are D-Limonene and Myrcene.",
+  "description_html": "Cereal Milk is a sativa dominant hybrid strain that is dense and creamy with a strong sweet and starchy aroma. This strain’s aroma and flavor contain notes of toasted bread, caramelized fruit, and strawberry over a light earthy base. Cereal Milk will make you feel both calm and happy. Its dominant terpenes are D-Limonene and Myrcene.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a587515806124c993d40e610b04c0b8",
+      "alt": "Cereal Milk Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-cereal-milk-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-cereal-milk-infused-pre-roll-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.323Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "wojo-live-rosin-mega-mind",
+  "name": "Wojo Live Rosin | Mega Mind",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Wojo Co",
+  "tags": [],
+  "description": "1g Live Rosin",
+  "description_html": "1g Live Rosin",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/63745c6fe659b58b27cf225314f672a9",
+      "alt": "Wojo Live Rosin | Mega Mind",
+      "local": "data\\scraped\\images\\shoppuff-com__wojo-live-rosin-mega-mind__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wojo-live-rosin-mega-mind-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.392Z"
+}

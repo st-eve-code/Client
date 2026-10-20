@@ -1,0 +1,50 @@
+{
+  "slug": "amber-waves-pit-boss",
+  "name": "Amber Waves | Pit Boss",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 16,
+  "price_max": 72,
+  "currency": "USD",
+  "price_range": "$16.00 – $72.00",
+  "available": true,
+  "vendor": "Amber Waves Cannabis Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Amber Waves | Pit Boss",
+      "local": "data\\scraped\\images\\shoppuff-com__amber-waves-pit-boss__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 72,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/amber-waves-pit-boss-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.478Z"
+}

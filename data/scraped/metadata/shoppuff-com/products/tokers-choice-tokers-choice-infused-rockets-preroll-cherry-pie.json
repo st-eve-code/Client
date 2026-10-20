@@ -1,0 +1,35 @@
+{
+  "slug": "tokers-choice-tokers-choice-infused-rockets-preroll-cherry-pie",
+  "name": "Toker's Choice Infused \"Rockets\" Preroll | Cherry Pie",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Toker's Choice",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/416bbd97a4b16ab13a0d6e859711a92b",
+      "alt": "Toker's Choice Infused \"Rockets\" Preroll | Cherry Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__tokers-choice-tokers-choice-infused-rockets-preroll-cherry-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tokers-choice-tokers-choice-infused-rockets-preroll-cherry-pie-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.923Z"
+}

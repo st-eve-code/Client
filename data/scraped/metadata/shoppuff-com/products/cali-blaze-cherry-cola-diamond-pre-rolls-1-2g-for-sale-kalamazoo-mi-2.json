@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cherry-cola-diamond-pre-rolls-1-2g-for-sale-kalamazoo-mi-2",
+  "name": "Cherry Cola Diamond Pre-Rolls | 1.2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Our classic flower, infused with liquid diamonds for a flavorful and potent high!",
+  "description_html": "Our classic flower, infused with liquid diamonds for a flavorful and potent high!<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/517875f4d219b08e3ed3144f6e1ee18a",
+      "alt": "Cherry Cola Diamond Pre-Rolls | 1.2g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cherry-cola-diamond-pre-rolls-1-2g-for-sale-kalamazoo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cherry-cola-diamond-pre-rolls-1-2g-for-sale-kalamazoo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.875Z"
+}

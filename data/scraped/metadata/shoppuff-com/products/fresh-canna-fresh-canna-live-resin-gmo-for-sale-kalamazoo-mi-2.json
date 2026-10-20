@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-fresh-canna-live-resin-gmo-for-sale-kalamazoo-mi-2",
+  "name": "Fresh Canna Live Resin | GMO",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/52c56bc3a4d4bd40221a10df746fd5b1",
+      "alt": "Fresh Canna Live Resin | GMO",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-live-resin-gmo-for-sale-kalamazoo-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-live-resin-gmo-for-sale-kalamazoo-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.676Z"
+}

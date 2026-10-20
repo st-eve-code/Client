@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-infused-preroll-15pk-lemon-cherry-gelato",
+  "name": "Berry Green Infused Preroll 15pk | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Vibrant cherry sweetness meets zesty citrus bite for a hybrid that feels bright, lush, and full of flavor.",
+  "description_html": "Vibrant cherry sweetness meets zesty citrus bite for a hybrid that feels bright, lush, and full of flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0dc2fdd1b19239f108d4d2713fd7905f",
+      "alt": "Berry Green Infused Preroll 15pk | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-infused-preroll-15pk-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-infused-preroll-15pk-lemon-cherry-gelato-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.268Z"
+}

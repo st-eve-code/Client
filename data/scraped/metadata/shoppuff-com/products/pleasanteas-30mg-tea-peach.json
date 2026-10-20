@@ -1,0 +1,35 @@
+{
+  "slug": "pleasanteas-30mg-tea-peach",
+  "name": "Pleasanteas | 30mg Tea | Peach",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Pleasanteas",
+  "tags": [],
+  "description": "30mg Infused Tea\n\nArguably the tastiest orchard fruit: ripe, juicy peaches are a tasty treat with rich Michigan history. Our favorite seasonal fruit, available 24/7, 365. Talk about a drink the really has it all.\n\n--\n\nPleasanteas are best served ice cold & enjoyed with your friends. Cheers!",
+  "description_html": "30mg Infused Tea<br /><br />Arguably the tastiest orchard fruit: ripe, juicy peaches are a tasty treat with rich Michigan history. Our favorite seasonal fruit, available 24/7, 365. Talk about a drink the really has it all.<br /><br />--<br /><br />Pleasanteas are best served ice cold & enjoyed with your friends. Cheers!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/97f13fed849c715eb090a99cfaaa597a",
+      "alt": "Pleasanteas | 30mg Tea | Peach",
+      "local": "data\\scraped\\images\\shoppuff-com__pleasanteas-30mg-tea-peach__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "12.0g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pleasanteas-30mg-tea-peach-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.997Z"
+}

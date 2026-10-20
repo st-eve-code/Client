@@ -1,0 +1,50 @@
+{
+  "slug": "goldkine-goldkine-peanut-butter-pie",
+  "name": "Goldkine | Peanut Butter Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Indulge in the decadent delight of Peanut Butter Pie, an indica-dominant strain that is a flavorful treat, enveloping your senses with a nutty, chocolatey aroma and earthy undertones. Perfect for easing pain, anxiety, and sleeplessness, Peanut Butter Pie offers a potent punch that leaves you insanely relaxed. Much like peanut butter sticking to the roof of your mouth, this strain will leave you blissfully stuck in a state of serene contentment. Dive into the rich flavors and calming effects of Peanut Butter Pie and let it elevate your cannabis experience.",
+  "description_html": "Indulge in the decadent delight of Peanut Butter Pie, an indica-dominant strain that is a flavorful treat, enveloping your senses with a nutty, chocolatey aroma and earthy undertones. Perfect for easing pain, anxiety, and sleeplessness, Peanut Butter Pie offers a potent punch that leaves you insanely relaxed. Much like peanut butter sticking to the roof of your mouth, this strain will leave you blissfully stuck in a state of serene contentment. Dive into the rich flavors and calming effects of Peanut Butter Pie and let it elevate your cannabis experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/930aadc342b2f30eb6da773775aee132",
+      "alt": "Goldkine | Peanut Butter Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-peanut-butter-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-peanut-butter-pie-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.757Z"
+}

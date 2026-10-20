@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-brain-stew",
+  "name": "Local Grove Live Rosin | Brain Stew",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 37.5,
+  "price_max": 37.5,
+  "currency": "USD",
+  "price_range": "$37.50",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "2022 Hightimes Cannabis Cup 1st place winner. Brain Stew is a cross of the parent strains Triangle Kush x Runtz.\n\nGenetics are the #1 factor in determining the quality of cannabis, we carefully source quality genetics from different breeders throughout the world. The vast majority of Localgrove’s cultivars are pheno hunted and selected from seed for their unique smell and taste.",
+  "description_html": "2022 Hightimes Cannabis Cup 1st place winner. Brain Stew is a cross of the parent strains Triangle Kush x Runtz.<br /><br />Genetics are the #1 factor in determining the quality of cannabis, we carefully source quality genetics from different breeders throughout the world. The vast majority of Localgrove’s cultivars are pheno hunted and selected from seed for their unique smell and taste.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bb430d9097746d269765d20e146e0893",
+      "alt": "Local Grove Live Rosin | Brain Stew",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-brain-stew__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 37.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-brain-stew-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.725Z"
+}

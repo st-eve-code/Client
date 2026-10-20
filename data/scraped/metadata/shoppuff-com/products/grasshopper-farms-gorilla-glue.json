@@ -1,0 +1,55 @@
+{
+  "slug": "grasshopper-farms-gorilla-glue",
+  "name": "Grasshopper Farms | Gorilla Glue",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 70,
+  "currency": "USD",
+  "price_range": "$8.00 – $70.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Syrupy layers of trichomes make the orange pistils and lime-green highlights of this indica-dominant hybrid’s buds almost indistinguishable. A pungent earthy diesel aroma features a hoppy floral sweetness that smokes sweet, crisp, and light on the lungs. The fast-acting head high contrasts with a creeping, comforting body high ideal for those who need to manage pain, stress, depression, and anxiety without feeling glued to the couch or bed.",
+  "description_html": "Syrupy layers of trichomes make the orange pistils and lime-green highlights of this indica-dominant hybrid’s buds almost indistinguishable. A pungent earthy diesel aroma features a hoppy floral sweetness that smokes sweet, crisp, and light on the lungs. The fast-acting head high contrasts with a creeping, comforting body high ideal for those who need to manage pain, stress, depression, and anxiety without feeling glued to the couch or bed.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c2c12ac4ed23497f7a7f61b00ed9e45b",
+      "alt": "Grasshopper Farms | Gorilla Glue",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-gorilla-glue__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-gorilla-glue-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.612Z"
+}

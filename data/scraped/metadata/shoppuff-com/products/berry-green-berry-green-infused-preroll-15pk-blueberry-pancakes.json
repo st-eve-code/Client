@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-infused-preroll-15pk-blueberry-pancakes",
+  "name": "Berry Green Infused Preroll 15pk | Blueberry Pancakes",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Warm blueberry. Soft sweetness. Slow-motion unwind. Blueberry Pancakes delivers cozy comfort with a rich, berry-forward flavor and deeply relaxing finish.",
+  "description_html": "Warm blueberry. Soft sweetness. Slow-motion unwind. Blueberry Pancakes delivers cozy comfort with a rich, berry-forward flavor and deeply relaxing finish.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/13bc82ff4016acb5a47fc875d07a68b8",
+      "alt": "Berry Green Infused Preroll 15pk | Blueberry Pancakes",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-infused-preroll-15pk-blueberry-pancakes__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-infused-preroll-15pk-blueberry-pancakes-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.267Z"
+}

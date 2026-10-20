@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-headspace",
+  "name": "Local Grove Prepackaged Flower | Headspace",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 110,
+  "price_max": 110,
+  "currency": "USD",
+  "price_range": "$110.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Runtz x Brain Stew \n\nBreeder: Local Grove \n\nSelected by: Local Grove (seed hunt, in-house pheno) \n\nAroma & Flavor: Dark cherry smell and taste with dense, frosty buds \n\nEffects: Hybrid – balanced effects with a flavorful, smooth smoke",
+  "description_html": "Genetics: Runtz x Brain Stew <br /><br />Breeder: Local Grove <br /><br />Selected by: Local Grove (seed hunt, in-house pheno) <br /><br />Aroma & Flavor: Dark cherry smell and taste with dense, frosty buds <br /><br />Effects: Hybrid – balanced effects with a flavorful, smooth smoke",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cfd7e4ee31fe6a1da8988b0f7cff5678",
+      "alt": "Local Grove Prepackaged Flower | Headspace",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-headspace__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-headspace-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.726Z"
+}

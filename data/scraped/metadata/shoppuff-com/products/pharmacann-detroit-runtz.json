@@ -1,0 +1,50 @@
+{
+  "slug": "pharmacann-detroit-runtz",
+  "name": "PharmaCann | Detroit Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 90,
+  "currency": "USD",
+  "price_range": "$20.00 – $90.00",
+  "available": true,
+  "vendor": "PharmaCann",
+  "tags": [],
+  "description": "You'll feel an instant sense of happiness wash over you as soon as you exhale, leaving your brain no room for negative moods or racing thoughts. You'll find that you're more sociable and charismatic in this state, happily chatting with those around you. A light physical tingle comes next, slowly working its way into your physical form and leaving you feeling stimulated and pretty kicked back. These effects make Donny Burger perfect for treating inflammation, chronic pain, insomnia, depression and chronic stress.",
+  "description_html": "You'll feel an instant sense of happiness wash over you as soon as you exhale, leaving your brain no room for negative moods or racing thoughts. You'll find that you're more sociable and charismatic in this state, happily chatting with those around you. A light physical tingle comes next, slowly working its way into your physical form and leaving you feeling stimulated and pretty kicked back. These effects make Donny Burger perfect for treating inflammation, chronic pain, insomnia, depression and chronic stress.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c261348a3f8ad352d6bab07f4df407be",
+      "alt": "PharmaCann | Detroit Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__pharmacann-detroit-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pharmacann-detroit-runtz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.808Z"
+}

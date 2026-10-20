@@ -1,0 +1,35 @@
+{
+  "slug": "homiez-homiez-preroll-28pk-super-lemon-haze",
+  "name": "Homiez Preroll 28pk | Super Lemon Haze",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "HOMIEZ",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/07db85d7c4fdf020f6a1f2df0f1dd448",
+      "alt": "Homiez Preroll 28pk | Super Lemon Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__homiez-homiez-preroll-28pk-super-lemon-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/homiez-homiez-preroll-28pk-super-lemon-haze-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.788Z"
+}

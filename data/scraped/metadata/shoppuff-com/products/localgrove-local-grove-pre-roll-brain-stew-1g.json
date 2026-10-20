@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-pre-roll-brain-stew-1g",
+  "name": "Local Grove Pre-Roll | Brain Stew | 1G",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Triangle Kush x Runtz \n\nBreeder: Clearwater Genetics \n\nAroma & Flavor: Creamy undertones with berry candy sweetness \n\nEffects: Balanced hybrid – uplifting yet smooth with a relaxing finish",
+  "description_html": "Genetics: Triangle Kush x Runtz <br /><br />Breeder: Clearwater Genetics <br /><br />Aroma & Flavor: Creamy undertones with berry candy sweetness <br /><br />Effects: Balanced hybrid – uplifting yet smooth with a relaxing finish",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/853ca3ff2446cf269f9e556b546169f8",
+      "alt": "Local Grove Pre-Roll | Brain Stew | 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-pre-roll-brain-stew-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-pre-roll-brain-stew-1g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.582Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-cannabis-northwoods-kush-sorbet",
+  "name": "Northwoods | Kush Sorbet",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "Kush Sorbet (Sunset Sherbet x Triangle Kush) has a sweet and fruity sour citrus flavor with hints of mint and earth. The aroma is just as solid with hints of citrus, earth, spice and fruit.",
+  "description_html": "Kush Sorbet (Sunset Sherbet x Triangle Kush) has a sweet and fruity sour citrus flavor with hints of mint and earth. The aroma is just as solid with hints of citrus, earth, spice and fruit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a4c43a9bc688084c9290a9749435bdec",
+      "alt": "Northwoods | Kush Sorbet",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-cannabis-northwoods-kush-sorbet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-cannabis-northwoods-kush-sorbet-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.251Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "known-dirty-gak-13-1g-cold-cure-rosin",
+  "name": "Dirty GAK #13 1g Cold Cure Rosin",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Known.",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/158eb370e4db857ef0942979be4d6bb2",
+      "alt": "Dirty GAK #13 1g Cold Cure Rosin",
+      "local": "data\\scraped\\images\\shoppuff-com__known-dirty-gak-13-1g-cold-cure-rosin__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/known-dirty-gak-13-1g-cold-cure-rosin-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.916Z"
+}

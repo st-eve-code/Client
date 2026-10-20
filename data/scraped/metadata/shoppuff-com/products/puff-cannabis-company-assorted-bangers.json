@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-assorted-bangers",
+  "name": "Assorted Bangers",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "An assortment of bangers that are made for a variety of different rigs and set ups. Available in both metal and quartz, also in male and female",
+  "description_html": "An assortment of bangers that are made for a variety of different rigs and set ups. Available in both metal and quartz, also in male and female<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b72a74372448e31369cb0a6b470dab3d",
+      "alt": "Assorted Bangers",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-assorted-bangers__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-assorted-bangers-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.687Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-bubble-hash-infused-blunntz-bubble-bath",
+  "name": "Minntz Bubble Hash Infused Blunntz | Bubble Bath",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5af686efee57db4a27c0003a3fbc17b5",
+      "alt": "Minntz Bubble Hash Infused Blunntz | Bubble Bath",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-bubble-hash-infused-blunntz-bubble-bath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-bubble-hash-infused-blunntz-bubble-bath-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.577Z"
+}

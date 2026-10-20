@@ -1,0 +1,60 @@
+{
+  "slug": "cosmic-cowboy-infused-snowballs-pink-runtz",
+  "name": "Cosmic Cowboy | Infused Snowballs | Pink Runtz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 110,
+  "currency": "USD",
+  "price_range": "$5.00 – $110.00",
+  "available": true,
+  "vendor": "Cosmic Cowboy",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d50b1f19e54c5efc08b77b46a90b6d7a",
+      "alt": "Cosmic Cowboy | Infused Snowballs | Pink Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__cosmic-cowboy-infused-snowballs-pink-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cosmic-cowboy-infused-snowballs-pink-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.296Z"
+}

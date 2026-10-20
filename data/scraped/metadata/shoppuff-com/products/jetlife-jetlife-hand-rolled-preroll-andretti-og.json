@@ -1,0 +1,35 @@
+{
+  "slug": "jetlife-jetlife-hand-rolled-preroll-andretti-og",
+  "name": "Jetlife Hand Rolled Preroll | Andretti OG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Jetlife",
+  "tags": [],
+  "description": "1.5g Hand Rolled Preroll \n\nRolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis.",
+  "description_html": "1.5g Hand Rolled Preroll <br /><br />Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/070cf3bcb23c021591f8c6b781c0f2c5",
+      "alt": "Jetlife Hand Rolled Preroll | Andretti OG",
+      "local": "data\\scraped\\images\\shoppuff-com__jetlife-jetlife-hand-rolled-preroll-andretti-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jetlife-jetlife-hand-rolled-preroll-andretti-og-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.591Z"
+}

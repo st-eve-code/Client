@@ -1,0 +1,40 @@
+{
+  "slug": "mitten-extracts-strawberry-sherbet-disposable",
+  "name": "Mitten Extracts Disposable | Strawberry Sherbet",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$15.00 – $25.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Strawberry Sherbet (Hybrid) - Flavor = crisp strawberry + sour citrus + sweet berries. Long-lasting functioning high. Premium Distillate + Live Resin Terpenes\n\n1-gram rechargeable disposable vapes are perfect for those that are on-the-go and that prioritize convenience. Each flavor is created with Premium distillate + Live Resin terpenes. We hold ourselves to a high standard of quality and a high standard of potency. Mitten + PLUS Disposables empower customers to reach new highs.",
+  "description_html": "Strawberry Sherbet (Hybrid) - Flavor = crisp strawberry + sour citrus + sweet berries. Long-lasting functioning high. Premium Distillate + Live Resin Terpenes<br /><br />1-gram rechargeable disposable vapes are perfect for those that are on-the-go and that prioritize convenience. Each flavor is created with Premium distillate + Live Resin terpenes. We hold ourselves to a high standard of quality and a high standard of potency. Mitten + PLUS Disposables empower customers to reach new highs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/af8f16428aa9f90767434d1879dce09e",
+      "alt": "Mitten Extracts Disposable | Strawberry Sherbet",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-strawberry-sherbet-disposable__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-strawberry-sherbet-disposable-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.780Z"
+}

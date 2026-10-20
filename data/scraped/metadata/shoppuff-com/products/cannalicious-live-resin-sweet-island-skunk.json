@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-live-resin-sweet-island-skunk",
+  "name": "Cannalicious Live Resin | Sweet Island Skunk",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5619-Puff-JointStore-Sturgis.webp",
+      "alt": "Cannalicious Live Resin | Sweet Island Skunk",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-live-resin-sweet-island-skunk__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-live-resin-sweet-island-skunk-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.849Z"
+}

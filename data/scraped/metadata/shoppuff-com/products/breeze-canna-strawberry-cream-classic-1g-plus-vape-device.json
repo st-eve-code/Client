@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-strawberry-cream-classic-1g-plus-vape-device",
+  "name": "Strawberry Cream - Classic 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15.5,
+  "price_max": 15.5,
+  "currency": "USD",
+  "price_range": "$15.50",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Indulge in the luscious combination of ripe strawberries and smooth cream, delivering a sweet and creamy vaping experience.",
+  "description_html": "Indulge in the luscious combination of ripe strawberries and smooth cream, delivering a sweet and creamy vaping experience.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/838f61baa603fcb9ed4c9d36a85d97b8",
+      "alt": "Strawberry Cream - Classic 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-strawberry-cream-classic-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-strawberry-cream-classic-1g-plus-vape-device-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.060Z"
+}

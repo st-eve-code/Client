@@ -1,0 +1,55 @@
+{
+  "slug": "rare-michigan-genetics-rare-michigan-cadbury-og",
+  "name": "Rare Michigan | Cadbury OG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$6.00 – $55.00",
+  "available": true,
+  "vendor": "Rare Michigan Genetics",
+  "tags": [],
+  "description": "Cadbury OG is as smooth as the finest chocolate from Belgium and packing a punch like no other. Cadbury's hard, keefy buds will lift you into its savory, smokey taste. A high that starts in the brain and travels all around your body, this hybrid strain is perfect for all your high activities!",
+  "description_html": "Cadbury OG is as smooth as the finest chocolate from Belgium and packing a punch like no other.  Cadbury's hard, keefy buds will lift you into its savory, smokey taste.  A high that starts in the brain and travels all around your body, this hybrid strain is perfect for all your high activities!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5d5986f34e941f2586155305981f11e4",
+      "alt": "Rare Michigan | Cadbury OG",
+      "local": "data\\scraped\\images\\shoppuff-com__rare-michigan-genetics-rare-michigan-cadbury-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rare-michigan-genetics-rare-michigan-cadbury-og-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.554Z"
+}

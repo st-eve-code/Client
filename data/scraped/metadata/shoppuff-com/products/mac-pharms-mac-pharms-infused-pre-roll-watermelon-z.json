@@ -1,0 +1,35 @@
+{
+  "slug": "mac-pharms-mac-pharms-infused-pre-roll-watermelon-z",
+  "name": "Mac Pharms Infused Pre-roll | Watermelon Z",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mac Pharms",
+  "tags": [],
+  "description": "Watermelon Zkittlez is candy-fruity and smooth with a gently calming float.\nFlavor: Fruit-and-candy with a slightly sour, earthy undercurrent.",
+  "description_html": "Watermelon Zkittlez is candy-fruity and smooth with a gently calming float.<br />Flavor: Fruit-and-candy with a slightly sour, earthy undercurrent.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/388e21a8c7bb72d9d340172af2178789",
+      "alt": "Mac Pharms Infused Pre-roll | Watermelon Z",
+      "local": "data\\scraped\\images\\shoppuff-com__mac-pharms-mac-pharms-infused-pre-roll-watermelon-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mac-pharms-mac-pharms-infused-pre-roll-watermelon-z-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.421Z"
+}

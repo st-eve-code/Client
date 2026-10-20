@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-pre-roll-pack-lemon-cherry",
+  "name": "Top Smoke Pre-Roll Pack | Lemon Cherry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 24,
+  "price_max": 24,
+  "currency": "USD",
+  "price_range": "$24.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Lemon Cherry is a hybrid strain made by crossing Sunset Sherbet x Girl Scout Cookies. This strains effects include tingly, relaxed, and euphoric. 28 one gram pre-rolls.",
+  "description_html": "Lemon Cherry is a hybrid strain made by crossing Sunset Sherbet x Girl Scout Cookies. This strains effects include tingly, relaxed, and euphoric. 28 one gram pre-rolls.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/32d9130696808bc00dcf9916f16f9610",
+      "alt": "Top Smoke Pre-Roll Pack | Lemon Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-pre-roll-pack-lemon-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-pre-roll-pack-lemon-cherry-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.096Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "primitiv-primitiv-prepackaged-flower-kodiak-cake",
+  "name": "Primitiv Prepackaged Flower | Kodiak Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Primitiv",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ee8c506e18193a946c13a46008e83360",
+      "alt": "Primitiv Prepackaged Flower | Kodiak Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__primitiv-primitiv-prepackaged-flower-kodiak-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/primitiv-primitiv-prepackaged-flower-kodiak-cake-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.884Z"
+}

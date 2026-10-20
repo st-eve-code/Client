@@ -1,0 +1,60 @@
+{
+  "slug": "fattys-royal-gorilla-for-sale-bay-city-mi-2",
+  "name": "Fatty's | Gorilla Glue #3",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$8.00 – $175.00",
+  "available": true,
+  "vendor": "Fatty's",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Fatty's | Gorilla Glue #3",
+      "local": "data\\scraped\\images\\shoppuff-com__fattys-royal-gorilla-for-sale-bay-city-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fattys-royal-gorilla-for-sale-bay-city-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.558Z"
+}

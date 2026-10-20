@@ -1,0 +1,35 @@
+{
+  "slug": "motor-city-cannabites-motor-city-200mg-treats-fast-acting-fudge-brownie",
+  "name": "Motor City | 200mg Treats | Fast Acting Fudge Brownie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Motor City Cannabites",
+  "tags": [],
+  "description": "200mg Fast Acting Fudge Brownie",
+  "description_html": "200mg Fast Acting Fudge Brownie",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0ce257c511c75852a8a682b511426463",
+      "alt": "Motor City | 200mg Treats | Fast Acting Fudge Brownie",
+      "local": "data\\scraped\\images\\shoppuff-com__motor-city-cannabites-motor-city-200mg-treats-fast-acting-fudge-brownie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/motor-city-cannabites-motor-city-200mg-treats-fast-acting-fudge-brownie-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.680Z"
+}

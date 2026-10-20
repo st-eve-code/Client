@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-premium-preroll-blue-nerdz",
+  "name": "Local Grove Premium Preroll | Blue Nerdz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Blue Sherb x Zkittlez \n\nBreeder: Unknown \n\nAroma & Flavor: Candy-like aroma and taste with blue and purple hues \n\nEffects: Hybrid – sweet flavor profile with a surprisingly heavy punch",
+  "description_html": "Genetics: Blue Sherb x Zkittlez <br /><br />Breeder: Unknown <br /><br />Aroma & Flavor: Candy-like aroma and taste with blue and purple hues <br /><br />Effects: Hybrid – sweet flavor profile with a surprisingly heavy punch",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/486ef918bf044bb39928e6ad9e6f28b8",
+      "alt": "Local Grove Premium Preroll | Blue Nerdz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-premium-preroll-blue-nerdz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-premium-preroll-blue-nerdz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.463Z"
+}

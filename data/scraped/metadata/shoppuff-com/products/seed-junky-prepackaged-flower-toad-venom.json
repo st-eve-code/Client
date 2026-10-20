@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-prepackaged-flower-toad-venom",
+  "name": "Seed Junky Prepackaged Flower | Toad Venom",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Toad Venom is smooth and sweet with creamy, candy notes and a gassy finish. More chill than sinister, Toad Venom settles in heavy, calming, and deeply comforting, making it a strain built for slowing down and sinking into the couch. Led by caryophyllene, myrcene, and humulene, it's an indica-style smoke made for unwinding.\n\nAnimal Face x (Sin Mints)",
+  "description_html": "Toad Venom is smooth and sweet with creamy, candy notes and a gassy finish. More chill than sinister, Toad Venom settles in heavy, calming, and deeply comforting, making it a strain built for slowing down and sinking into the couch. Led by caryophyllene, myrcene, and humulene, it's an indica-style smoke made for unwinding.<br /><br />Animal Face x (Sin Mints)",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/071cc876c821504b1ecaec1ac50de875",
+      "alt": "Seed Junky Prepackaged Flower | Toad Venom",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-prepackaged-flower-toad-venom__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-prepackaged-flower-toad-venom-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.717Z"
+}

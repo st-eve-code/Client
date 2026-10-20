@@ -1,0 +1,35 @@
+{
+  "slug": "suno-600mg-tincture-111-thccbdthca",
+  "name": "SUNO | 600mg Tincture | 1:1:1 THC:CBD:THCA",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "SUNO",
+  "tags": [],
+  "description": "SUNO 1:1:1 Tincture is formulated with 100% hemp seed oil and with equal parts of THC, CBD, and THCA.\n\nEach bottle is made with approx. 600mg total cannabinoids (196mg THC, 192mg CBD, 199mg THCA), and contains 30mL of tincture with 1 serving being equal to 1mL (1 full dropper) that will provide approx. 6.63mg THC, 6.4mg CBD, and 6.53mg THCA. Each dropper is metered to allow for accurate dosing every single time.\n\nSUNO 1:1:1 tincture does not contain any nut oil and is the only tincture currently available made with hemp seed oil (refined/golden) to offer a 100% cannabis based tincture.",
+  "description_html": "SUNO 1:1:1 Tincture is formulated with 100% hemp seed oil and with equal parts of THC, CBD, and THCA.<br /><br />Each bottle is made with approx. 600mg total cannabinoids (196mg THC, 192mg CBD, 199mg THCA), and contains 30mL of tincture with 1 serving being equal to 1mL (1 full dropper) that will provide approx. 6.63mg THC, 6.4mg CBD, and 6.53mg THCA. Each dropper is metered to allow for accurate dosing every single time.<br /><br />SUNO 1:1:1 tincture does not contain any nut oil and is the only tincture currently available made with hemp seed oil (refined/golden) to offer a 100% cannabis based tincture.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9fc4458c2ed7037d920c748679d476f0",
+      "alt": "SUNO | 600mg Tincture | 1:1:1 THC:CBD:THCA",
+      "local": "data\\scraped\\images\\shoppuff-com__suno-600mg-tincture-111-thccbdthca__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".8g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TINCTURES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/suno-600mg-tincture-111-thccbdthca-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.944Z"
+}

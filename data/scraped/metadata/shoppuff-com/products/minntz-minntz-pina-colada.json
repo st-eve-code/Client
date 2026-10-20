@@ -1,0 +1,60 @@
+{
+  "slug": "minntz-minntz-pina-colada",
+  "name": "Minntz | Pina Colada",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Tropical pineapple and creamy fruit aromas create a\nrich, flavorful sensory experience. This sativa's uplifting effects spark happiness, creativity, and social energy, making it ideal for fun, engaging moments with friends.",
+  "description_html": "Tropical pineapple and creamy fruit aromas create a<br />rich, flavorful sensory experience. This sativa's uplifting effects spark happiness, creativity, and social energy, making it ideal for fun, engaging moments with friends.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e70efc0c462263509ff2a709dfe191a3",
+      "alt": "Minntz | Pina Colada",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-pina-colada__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-pina-colada-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.466Z"
+}

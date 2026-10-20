@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-flower-power-cannabis-pre-roll-lemon-mist",
+  "name": "Flower Power Cannabis Pre-Roll | Lemon Mist",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "1G Preroll of our brand new strain Lemon Mist. Made with 100% premium flower; no shake, no trim.\n\n(Lemon Tree X Cream Smoothie) X (Sweet Retreat X Zkittles) | Sativa Dominant Hybrid\n\nDominant Terpenes: Limonene, Linalool, Myrcene, Humulene",
+  "description_html": "1G Preroll of our brand new strain Lemon Mist. Made with 100% premium flower; no shake, no trim.<br /><br /><br /><br />(Lemon Tree X Cream Smoothie) X (Sweet Retreat X Zkittles) | Sativa Dominant Hybrid<br /><br />Dominant Terpenes: Limonene, Linalool, Myrcene, Humulene",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/86da77da798cb7234c2c83259b9b2a38",
+      "alt": "Flower Power Cannabis Pre-Roll | Lemon Mist",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-flower-power-cannabis-pre-roll-lemon-mist__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-flower-power-cannabis-pre-roll-lemon-mist-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.556Z"
+}

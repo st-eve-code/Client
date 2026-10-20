@@ -1,0 +1,60 @@
+{
+  "slug": "cloud-farms-cap-junky",
+  "name": "Cloud Farms | Cap Junky",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 125.99,
+  "currency": "USD",
+  "price_range": "$7.00 – $125.99",
+  "available": true,
+  "vendor": "Cloud Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d61ababeae08ae02b54ed00f9b869638",
+      "alt": "Cloud Farms | Cap Junky",
+      "local": "data\\scraped\\images\\shoppuff-com__cloud-farms-cap-junky__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 125.99,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloud-farms-cap-junky-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.781Z"
+}

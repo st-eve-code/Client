@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-breeze-canna-disposable-berry-burst",
+  "name": "Breeze Canna Disposable | Berry Burst",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Summertime vibes with raspberry, cherry, and citrus.\n\nEuphoric, Energetic, Happy",
+  "description_html": "Summertime vibes with raspberry, cherry, and citrus.<br /><br />Euphoric, Energetic, Happy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7a0951c642f9e4878bb25883ed3eea9b",
+      "alt": "Breeze Canna Disposable | Berry Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-breeze-canna-disposable-berry-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-breeze-canna-disposable-berry-burst-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.435Z"
+}

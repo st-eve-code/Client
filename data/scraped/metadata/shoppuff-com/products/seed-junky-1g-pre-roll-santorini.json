@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-1g-pre-roll-santorini",
+  "name": "Seed Junky | 1g Pre-Roll | Santorini",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Named after the serene Greek island, Santorini is a Cherry Pie x Girl Scout Cookies cross that delivers a sweet cookie aroma with notes of spice, camphor, and toasted marshmallow. This smooth, flavorful smoke brings on calming, stony effects that relax the body while keeping the mind clear and inspired, perfect for a functional unwind.",
+  "description_html": "Named after the serene Greek island, Santorini is a Cherry Pie x Girl Scout Cookies cross that delivers a sweet cookie aroma with notes of spice, camphor, and toasted marshmallow. This smooth, flavorful smoke brings on calming, stony effects that relax the body while keeping the mind clear and inspired, perfect for a functional unwind.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a1213166792fdb52dda2638aa1ce3a48",
+      "alt": "Seed Junky | 1g Pre-Roll | Santorini",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-1g-pre-roll-santorini__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-1g-pre-roll-santorini-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.469Z"
+}

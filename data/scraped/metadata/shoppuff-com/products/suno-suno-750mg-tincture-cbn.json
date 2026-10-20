@@ -1,0 +1,35 @@
+{
+  "slug": "suno-suno-750mg-tincture-cbn",
+  "name": "Suno | 750mg Tincture | CBN",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "SUNO",
+  "tags": [],
+  "description": "A tincture is a mixture of an herbal extract and a liquid (usually alcohol or MCT oil) that is administered orally or sublingually via a dropper. Tinctures are generally high in potency and are intended to give consumers a sugar-free, gluten-free, inhalation-free cannabis experience.",
+  "description_html": "A tincture is a mixture of an herbal extract and a liquid (usually alcohol or MCT oil) that is administered orally or sublingually via a dropper. Tinctures are generally high in potency and are intended to give consumers a sugar-free, gluten-free, inhalation-free cannabis experience. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4c1e6671bd9f0314a7ec8db1f1f5b99c",
+      "alt": "Suno | 750mg Tincture | CBN",
+      "local": "data\\scraped\\images\\shoppuff-com__suno-suno-750mg-tincture-cbn__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".8g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TINCTURES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/suno-suno-750mg-tincture-cbn-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.879Z"
+}

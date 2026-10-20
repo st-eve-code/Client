@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-hand-roll-fun-dip",
+  "name": "Peninsula Gardens Hand Roll | Fun Dip",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Zkittlez x Sweet Retreat\n\nMore candy from the PG gang. Bred by Fiya Farmer she’s got beautiful purple flower with a sweet exotic pastry smell that translates perfectly into the smoke. You’ll also notice a nice Z backend from the zkittlez. We’re really excited for this one and we know you’ll be too!",
+  "description_html": "Zkittlez x Sweet Retreat<br /><br />More candy from the PG gang. Bred by Fiya Farmer she’s got beautiful purple flower with a sweet exotic pastry smell that translates perfectly into the smoke. You’ll also notice a nice Z backend from the zkittlez. We’re really excited for this one and we know you’ll be too!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b65e912d7c736c76f9113c5e724f04de",
+      "alt": "Peninsula Gardens Hand Roll | Fun Dip",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-hand-roll-fun-dip__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-hand-roll-fun-dip-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.867Z"
+}

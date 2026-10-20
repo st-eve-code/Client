@@ -1,0 +1,60 @@
+{
+  "slug": "pressure-pack-kilos-kandy",
+  "name": "Pressure Pack | Kilos Kandy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Pressure Pack | Kilos Kandy",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-kilos-kandy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-kilos-kandy-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.581Z"
+}

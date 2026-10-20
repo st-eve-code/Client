@@ -1,0 +1,35 @@
+{
+  "slug": "fat-pack-fat-pack-prepackaged-flower-deep-fried-ice-cream",
+  "name": "Fat Pack Prepackaged Flower | Deep Fried Ice Cream",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Fat Pack",
+  "tags": [],
+  "description": "Strain: Deep Fried Ice Cream (Hybrid - Indica Dominant)\n\nTerpene Profile: Highlighted terpenes include beta-caryophyllene, limonene, and linalool.\n\nIndulge in the decadent flavors and euphoric effects of Deep Fried Ice Cream, an indulgent hybrid leaning towards indica dominance. With its sweet and creamy taste, reminiscent of its namesake dessert, Deep Fried Ice Cream offers a luxurious sensory experience. Its tranquilizing effects gently ease the mind and body into a state of relaxation, making it the perfect treat to unwind and savor.",
+  "description_html": "Strain: Deep Fried Ice Cream (Hybrid - Indica Dominant)<br /><br />Terpene Profile: Highlighted terpenes include beta-caryophyllene, limonene, and linalool.<br /><br /><br /><br />Indulge in the decadent flavors and euphoric effects of Deep Fried Ice Cream, an indulgent hybrid leaning towards indica dominance. With its sweet and creamy taste, reminiscent of its namesake dessert, Deep Fried Ice Cream offers a luxurious sensory experience. Its tranquilizing effects gently ease the mind and body into a state of relaxation, making it the perfect treat to unwind and savor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/55ac84fd1c56ee876b799221b0f2b97a",
+      "alt": "Fat Pack Prepackaged Flower | Deep Fried Ice Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__fat-pack-fat-pack-prepackaged-flower-deep-fried-ice-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fat-pack-fat-pack-prepackaged-flower-deep-fried-ice-cream-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.217Z"
+}

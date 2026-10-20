@@ -1,0 +1,35 @@
+{
+  "slug": "drip-510-cartridge-white-runtz",
+  "name": "Drip 510 Cartridge | White Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "White Runtz keeps it classy with a smooth inhale and a mellow, sweet finish. This hybrid’s all about balance — not too heavy, not too hype — just a steady, full-bodied session you can vibe with.",
+  "description_html": "White Runtz keeps it classy with a smooth inhale and a mellow, sweet finish. This hybrid’s all about balance — not too heavy, not too hype — just a steady, full-bodied session you can vibe with.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4b9e5b35c4fa03741fc29de7f9f68b31",
+      "alt": "Drip 510 Cartridge | White Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-510-cartridge-white-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-510-cartridge-white-runtz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.393Z"
+}

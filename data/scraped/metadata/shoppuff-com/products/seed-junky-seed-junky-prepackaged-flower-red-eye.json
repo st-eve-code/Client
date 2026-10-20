@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-red-eye",
+  "name": "Seed Junky Prepackaged Flower | Red Eye",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Red Eye is a potent indica with intense flavors of Cherry Cola and a sweet sugary, funky aroma. The sedating effects of this strain make it great to unwind and have a relaxing night.",
+  "description_html": "Red Eye is a potent indica with intense flavors of Cherry Cola and a sweet sugary, funky aroma. The sedating effects of this strain make it great to unwind and have a relaxing night.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/17179bb12d1adad6a91d42c950a7315f",
+      "alt": "Seed Junky Prepackaged Flower | Red Eye",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-red-eye__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-red-eye-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.424Z"
+}

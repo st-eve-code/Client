@@ -1,0 +1,35 @@
+{
+  "slug": "camino-yuzu-lemon-camino-gummies",
+  "name": "Yuzu Lemon Camino Gummies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Camino",
+  "tags": [],
+  "description": "Rediscover your center with the zesty goodness of Camino gummies — a flavor-packed wellness treat crafted for those seeking calm, clarity, and balance in every bite. Infused with high-quality CBD and the bright citrus blend of Japanese yuzu and lemon, these gummies offer a smooth path to peace of mind without the psychoactive effects.",
+  "description_html": "Rediscover your center with the zesty goodness of Camino gummies — a flavor-packed wellness treat crafted for those seeking calm, clarity, and balance in every bite. Infused with high-quality CBD and the bright citrus blend of Japanese yuzu and lemon, these gummies offer a smooth path to peace of mind without the psychoactive effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0569010f98261bd3a6d08710fbeac17d",
+      "alt": "Yuzu Lemon Camino Gummies",
+      "local": "data\\scraped\\images\\shoppuff-com__camino-yuzu-lemon-camino-gummies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4.445g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/camino-yuzu-lemon-camino-gummies-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.075Z"
+}

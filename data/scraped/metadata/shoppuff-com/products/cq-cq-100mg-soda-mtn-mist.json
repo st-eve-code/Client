@@ -1,0 +1,35 @@
+{
+  "slug": "cq-cq-100mg-soda-mtn-mist",
+  "name": "CQ | 100mg Soda | MTN Mist",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "CQ",
+  "tags": [],
+  "description": "A cannabis infused energy drink featuring nootropics, adaptogens, and B vitamins. Adaptogens are known to enhance the body’s resistance to stress, anxiety, and fatigue. Nootropics have been shown to enhance cognitive function. Game on! Contains 75mg of natural caffeine sourced from green coffee extract. Sweetened with cane sugar. 12 oz can",
+  "description_html": "A cannabis infused energy drink featuring nootropics, adaptogens, and B vitamins. Adaptogens are known to enhance the body’s resistance to stress, anxiety, and fatigue. Nootropics have been shown to enhance cognitive function. Game on! Contains 75mg of natural caffeine sourced from green coffee extract. Sweetened with cane sugar. 12 oz can",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0bb89075eafc9e429a1ec0448952e839",
+      "alt": "CQ | 100mg Soda | MTN Mist",
+      "local": "data\\scraped\\images\\shoppuff-com__cq-cq-100mg-soda-mtn-mist__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cq-cq-100mg-soda-mtn-mist-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.523Z"
+}

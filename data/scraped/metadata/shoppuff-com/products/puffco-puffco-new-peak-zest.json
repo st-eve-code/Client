@@ -1,0 +1,35 @@
+{
+  "slug": "puffco-puffco-new-peak-zest",
+  "name": "Puffco | New Peak | Zest",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 250,
+  "price_max": 250,
+  "currency": "USD",
+  "price_range": "$250.00",
+  "available": true,
+  "vendor": "Puffco",
+  "tags": [],
+  "description": "The Peak is the most effortless dab experience ever. Smarter, simpler, and comfy in-hand, our original intelligent vaporizer now features a 3D Chamber, Joystick Cap, and real-time temperature control. With its seamless single-button interface, premium water filtration and four dialed heat presets, the Peak makes enjoying hash easy — every time.",
+  "description_html": "The Peak is the most effortless dab experience ever. Smarter, simpler, and comfy in-hand, our original intelligent vaporizer now features a 3D Chamber, Joystick Cap, and real-time temperature control. With its seamless single-button interface, premium water filtration and four dialed heat presets, the Peak makes enjoying hash easy — every time. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/116eacd06266583629cee0f7df29efd8",
+      "alt": "Puffco | New Peak | Zest",
+      "local": "data\\scraped\\images\\shoppuff-com__puffco-puffco-new-peak-zest__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 250,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puffco-puffco-new-peak-zest-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.458Z"
+}

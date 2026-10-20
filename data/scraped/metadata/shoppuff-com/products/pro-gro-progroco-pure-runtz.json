@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-pure-runtz",
+  "name": "Pure Runtz Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Zkittlez x Gelato Type: Hybrid Terpenes: Limonene, Myrcene, Linalool Effects: Cerebral, Focused, Creative Aroma: Fruity, Gassy, Cheesy Dive into the delectable world of Pure Runtz, where sweet dreams meet potent reality. This tantalizing strain is a symphony of tropical fruit flavors, blending together in a blissful dance on your taste buds. Pure Runtz isn't just a strain; it's an experience – a burst of euphoria that transports you to a sun-soaked paradise. With its uplifting effects and delightful aroma, Pure Runtz is the perfect companion for those seeking a flavorful escape into a world of relaxation and happiness.",
+  "description_html": "Lineage: Zkittlez x Gelato Type: Hybrid Terpenes: Limonene, Myrcene, Linalool Effects: Cerebral, Focused, Creative Aroma: Fruity, Gassy, Cheesy Dive into the delectable world of Pure Runtz, where sweet dreams meet potent reality. This tantalizing strain is a symphony of tropical fruit flavors, blending together in a blissful dance on your taste buds. Pure Runtz isn't just a strain; it's an experience – a burst of euphoria that transports you to a sun-soaked paradise. With its uplifting effects and delightful aroma, Pure Runtz is the perfect companion for those seeking a flavorful escape into a world of relaxation and happiness.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b3246486b403a3494790e1293cc43baa",
+      "alt": "Pure Runtz Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-pure-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-pure-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.739Z"
+}

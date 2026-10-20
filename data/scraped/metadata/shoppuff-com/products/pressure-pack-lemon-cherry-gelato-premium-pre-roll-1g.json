@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-lemon-cherry-gelato-premium-pre-roll-1g",
+  "name": "Lemon Cherry Gelato Premium Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Lemon Cherry Gelato is a soothing high that will have you feeling relaxed and able to kick back and feel at ease. Now available in 1g preroll.",
+  "description_html": "Lemon Cherry Gelato is a soothing high that will have you feeling relaxed and able to kick back and feel at ease. Now available in 1g preroll.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2d44ed431dcb1109edae2cbd52baaa53",
+      "alt": "Lemon Cherry Gelato Premium Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-lemon-cherry-gelato-premium-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-lemon-cherry-gelato-premium-pre-roll-1g-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.701Z"
+}

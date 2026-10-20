@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-banana-orange-smoothie-classic-1g-plus-vape-device-breeze-canna",
+  "name": "Banana Orange Smoothie - Classic 1g PLUS Vape Device - BREEZE Canna",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Dive into a creamy blend of ripe bananas and zesty oranges, delivering a refreshing and smooth vaping experience that tantalizes your taste buds.",
+  "description_html": "Dive into a creamy blend of ripe bananas and zesty oranges, delivering a refreshing and smooth vaping experience that tantalizes your taste buds.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c22374e78f326358b18a78f2ce8d806a",
+      "alt": "Banana Orange Smoothie - Classic 1g PLUS Vape Device - BREEZE Canna",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-banana-orange-smoothie-classic-1g-plus-vape-device-breeze-canna__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-banana-orange-smoothie-classic-1g-plus-vape-device-breeze-canna-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.264Z"
+}

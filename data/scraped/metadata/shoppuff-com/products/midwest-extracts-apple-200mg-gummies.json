@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-apple-200mg-gummies",
+  "name": "Apple | 200mg Gummies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 1.5,
+  "price_max": 1.5,
+  "currency": "USD",
+  "price_range": "$1.50",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "8 gummies per package 25 mg THC per gummy\n\n200mg per package\n\nHand-crafted, vegan, and gluten-free.",
+  "description_html": "8 gummies per package 25 mg THC per gummy<br /><br />200mg per package<br /><br />Hand-crafted, vegan, and gluten-free.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f40f3fc531e6b2674cf44cea2966cd85",
+      "alt": "Apple | 200mg Gummies",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-apple-200mg-gummies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.727g",
+      "price": 1.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-apple-200mg-gummies-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.265Z"
+}

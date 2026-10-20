@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-1g-live-rosin-lime-heads",
+  "name": "Local Grove | 1g Live Rosin | Lime Heads",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Lime 1 clone x Mandelbrot 707 Headband \n\nBreeder: Meangene x Skunktek \n\nAroma & Flavor: Lime green buds with a sour OG aroma \n\nEffects: Hybrid – versatile cultivar great in both flower and concentrates",
+  "description_html": "Genetics: Lime 1 clone x Mandelbrot 707 Headband <br /><br />Breeder: Meangene x Skunktek <br /><br />Aroma & Flavor: Lime green buds with a sour OG aroma <br /><br />Effects: Hybrid – versatile cultivar great in both flower and concentrates",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f188d9ab75d83288e747841a2af1e244",
+      "alt": "Local Grove | 1g Live Rosin | Lime Heads",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-1g-live-rosin-lime-heads__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-1g-live-rosin-lime-heads-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.358Z"
+}

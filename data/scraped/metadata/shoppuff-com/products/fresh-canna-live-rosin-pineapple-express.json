@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-live-rosin-pineapple-express",
+  "name": "Fresh Canna Live Rosin | Pineapple Express",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5e3fc27037f066328df009fbe1323f9f",
+      "alt": "Fresh Canna Live Rosin | Pineapple Express",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-live-rosin-pineapple-express__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-live-rosin-pineapple-express-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.400Z"
+}

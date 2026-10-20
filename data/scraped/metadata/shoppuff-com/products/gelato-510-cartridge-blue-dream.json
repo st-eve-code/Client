@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-510-cartridge-blue-dream",
+  "name": "Gelato 510 Cartridge | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/594a3ac61a0ff194e1b95f4bd3369d1b",
+      "alt": "Gelato 510 Cartridge | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-510-cartridge-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-510-cartridge-blue-dream-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.280Z"
+}

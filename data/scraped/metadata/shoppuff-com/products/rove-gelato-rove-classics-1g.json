@@ -1,0 +1,35 @@
+{
+  "slug": "rove-gelato-rove-classics-1g",
+  "name": "Gelato | ROVE Classics | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "Sink into pure relaxation with Gelato's luscious watermelon sweetness. This soothing indica wraps you in waves of tranquility, melting away tension while delivering a peaceful, full-body calm. \n• Floral \n• Sweet \n• Pepper",
+  "description_html": "Sink into pure relaxation with Gelato's luscious watermelon sweetness. This soothing indica wraps you in waves of tranquility, melting away tension while delivering a peaceful, full-body calm. <br />• Floral <br />• Sweet <br />• Pepper<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bdeed898f0877174c6560700598b5a51",
+      "alt": "Gelato | ROVE Classics | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-gelato-rove-classics-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-gelato-rove-classics-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.746Z"
+}

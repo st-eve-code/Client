@@ -1,0 +1,55 @@
+{
+  "slug": "oak-canna-oak-canna-jealousy",
+  "name": "Oak Canna | Jealousy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 70,
+  "currency": "USD",
+  "price_range": "$8.00 – $70.00",
+  "available": true,
+  "vendor": "Oak Canna",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/55fb9a673dd2d4b967f6679283ead1ba",
+      "alt": "Oak Canna | Jealousy",
+      "local": "data\\scraped\\images\\shoppuff-com__oak-canna-oak-canna-jealousy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/oak-canna-oak-canna-jealousy-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.454Z"
+}

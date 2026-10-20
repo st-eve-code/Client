@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-reserve-infused-preroll-son-of-a-peach",
+  "name": "Jeeter Reserve Infused Preroll | Son of a Peach",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$17.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Introducing Jeeter Reserve — small-batch, limited-edition strains pulled straight from the Jeeter Vault, exclusively available at select Jeeter Reserve Stores.",
+  "description_html": "Introducing Jeeter Reserve — small-batch, limited-edition strains pulled straight from the Jeeter Vault, exclusively available at select Jeeter Reserve Stores.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/56b17153ff0673134376923661b588af",
+      "alt": "Jeeter Reserve Infused Preroll | Son of a Peach",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-reserve-infused-preroll-son-of-a-peach__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 17,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-reserve-infused-preroll-son-of-a-peach-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.440Z"
+}

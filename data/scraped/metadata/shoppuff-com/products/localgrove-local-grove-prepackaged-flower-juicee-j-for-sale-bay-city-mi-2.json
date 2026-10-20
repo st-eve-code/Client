@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-juicee-j-for-sale-bay-city-mi-2",
+  "name": "Local Grove Prepackaged Flower | Juicee J",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 110,
+  "price_max": 110,
+  "currency": "USD",
+  "price_range": "$110.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Cap Junky x (Gelato 41 x Sunset Sherbert BX) \n\nBreeder: Seed Junky Genetics \n\nAroma & Flavor: Sweet, gassy notes with dense trichome-covered buds \n\nEffects: Powerful hybrid – very strong and long-lasting effects",
+  "description_html": "Genetics: Cap Junky x (Gelato 41 x Sunset Sherbert BX) <br /><br />Breeder: Seed Junky Genetics <br /><br />Aroma & Flavor: Sweet, gassy notes with dense trichome-covered buds <br /><br />Effects: Powerful hybrid – very strong and long-lasting effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1dc06956c8f11fb71bc48994cb6052a2",
+      "alt": "Local Grove Prepackaged Flower | Juicee J",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-juicee-j-for-sale-bay-city-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-juicee-j-for-sale-bay-city-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.846Z"
+}

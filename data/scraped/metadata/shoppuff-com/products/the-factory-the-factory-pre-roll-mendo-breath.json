@@ -1,0 +1,35 @@
+{
+  "slug": "the-factory-the-factory-pre-roll-mendo-breath",
+  "name": "The Factory Pre-Roll | Mendo Breath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "The Factory",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02b3c876b2578763d45a4268aa987561",
+      "alt": "The Factory Pre-Roll | Mendo Breath",
+      "local": "data\\scraped\\images\\shoppuff-com__the-factory-the-factory-pre-roll-mendo-breath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-factory-the-factory-pre-roll-mendo-breath-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.195Z"
+}

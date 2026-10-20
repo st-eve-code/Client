@@ -1,0 +1,35 @@
+{
+  "slug": "humblebee-products-humblebee-live-resin-banjo",
+  "name": "Humblebee Live Resin | Banjo",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 22,
+  "price_max": 22,
+  "currency": "USD",
+  "price_range": "$22.00",
+  "available": true,
+  "vendor": "Humblebee Products",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6326a6ae616229baa374a4017e7e77c6",
+      "alt": "Humblebee Live Resin | Banjo",
+      "local": "data\\scraped\\images\\shoppuff-com__humblebee-products-humblebee-live-resin-banjo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 22,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/humblebee-products-humblebee-live-resin-banjo-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.447Z"
+}

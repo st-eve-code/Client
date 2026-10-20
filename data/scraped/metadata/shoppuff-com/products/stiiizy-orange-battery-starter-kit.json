@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-orange-battery-starter-kit",
+  "name": "Orange Battery Starter Kit",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Starter Kit Includes:\nOfficial Original STIIIZY Battery\nUSB Charging Cable\n210mAh Rechargeable Battery\nUSB Charging Port\nVoltage: 3.2+-0.1V\n*Pods sold separately",
+  "description_html": "Starter Kit Includes:<br />Official Original STIIIZY Battery<br />USB Charging Cable<br />210mAh Rechargeable Battery<br />USB Charging Port<br />Voltage: 3.2+-0.1V<br />*Pods sold separately<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/eb56c564156e856aaf3ae79850697785",
+      "alt": "Orange Battery Starter Kit",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-orange-battery-starter-kit__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "Unit",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-orange-battery-starter-kit-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.688Z"
+}

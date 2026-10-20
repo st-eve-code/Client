@@ -1,0 +1,35 @@
+{
+  "slug": "drip-do-si-dos-cartridge-1g",
+  "name": "Do-Si-Dos Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Do Si Dos has a creamy, nutty profile with a touch of funk that lingers just right. The vibe leans deep and dreamy — perfect for shutting the world out and sinking into the moment.",
+  "description_html": "Do Si Dos has a creamy, nutty profile with a touch of funk that lingers just right. The vibe leans deep and dreamy — perfect for shutting the world out and sinking into the moment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cb7f6b52e29d8be75b481deb4dc3fe32",
+      "alt": "Do-Si-Dos Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-do-si-dos-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-do-si-dos-cartridge-1g-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.350Z"
+}

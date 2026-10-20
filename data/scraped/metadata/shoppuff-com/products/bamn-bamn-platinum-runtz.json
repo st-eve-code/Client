@@ -1,0 +1,60 @@
+{
+  "slug": "bamn-bamn-platinum-runtz",
+  "name": "BAMN | Platinum Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$8.00 – $125.00",
+  "available": true,
+  "vendor": "BAMN",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "BAMN | Platinum Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__bamn-bamn-platinum-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bamn-bamn-platinum-runtz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.511Z"
+}

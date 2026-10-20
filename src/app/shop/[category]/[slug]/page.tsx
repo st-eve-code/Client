@@ -1,14 +1,11 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import {
-  getShopProduct,
-  priceLabel,
-  weedmapsCategoryLabel,
-  WM_PREFIX,
-  VS2_PREFIX,
-} from "@/lib/catalog";
+import { getShopProduct, cleanDescription, categoryLabel } from "@/lib/catalog";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { ProductGallery } from "@/components/ProductGallery";
+import { Price, VariantPrice } from "@/components/Price";
+import { FavouriteButton } from "@/components/FavouriteButton";
+import { AddToCartButton } from "@/components/AddToCartButton";
 
 export async function generateMetadata({
   params,
@@ -18,36 +15,6 @@ export async function generateMetadata({
   const { category, slug } = await params;
   const product = await getShopProduct(category, slug);
   return product ? { title: product.title } : { title: "Product" };
-}
-
-function currencySymbol(currency?: string): string {
-  switch (currency) {
-    case "GBP":
-      return "\u00a3";
-    case "USD":
-      return "$";
-    case "EUR":
-      return "\u20ac";
-    default:
-      return currency ? `${currency} ` : "";
-  }
-}
-
-function humanCategoryLabel(category: string): string {
-  if (category.startsWith(WM_PREFIX)) {
-    return weedmapsCategoryLabel(category.slice(WM_PREFIX.length));
-  }
-  if (category.startsWith(VS2_PREFIX)) {
-    return category
-      .slice(VS2_PREFIX.length)
-      .split("-")
-      .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-      .join(" ");
-  }
-  return category
-    .split("-")
-    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
-    .join(" ");
 }
 
 export default async function ProductPage({
@@ -62,16 +29,26 @@ export default async function ProductPage({
     notFound();
   }
 
-  const categoryLabel = humanCategoryLabel(category);
+  const label = categoryLabel(category);
+  const paragraphs = cleanDescription(product.description_html, product.description);
+  const coverImage = product.images[0];
 
-  // Prefer rich HTML description; fall back to plain-text paragraphs.
-  const hasHtml = Boolean(product.description_html?.trim());
-  const paragraphs = hasHtml
-    ? []
-    : (product.description ?? "")
-        .split(/\n+/)
-        .map((p) => p.trim())
-        .filter(Boolean);
+  // Shared by the cart and favourites buttons
+  const cartItem = {
+    category: product.category,
+    slug: product.slug,
+    title: product.title,
+    brand: product.brand ?? "",
+    price: product.price ?? null,
+    image: coverImage
+      ? {
+          file: coverImage.file,
+          width: coverImage.width,
+          height: coverImage.height,
+        }
+      : null,
+    href: `/shop/${product.category}/${product.slug}`,
+  };
 
   return (
     <section className="bg-[var(--color-bg-canvas)]">
@@ -80,7 +57,7 @@ export default async function ProductPage({
           crumbs={[
             { label: "Home", href: "/" },
             { label: "Shop", href: "/shop" },
-            { label: categoryLabel, href: `/shop/${product.category}` },
+            { label, href: `/shop/${product.category}` },
             { label: product.title },
           ]}
         />
@@ -94,8 +71,9 @@ export default async function ProductPage({
           />
 
           <div>
+            {/* Title + brand */}
             {product.brand ? (
-              <p className="text-sm font-bold uppercase tracking-widest text-[#5eb047] mb-2">
+              <p className="mb-2 text-xs font-medium text-[var(--color-text-muted)]">
                 {product.brand}
               </p>
             ) : null}
@@ -103,19 +81,25 @@ export default async function ProductPage({
               {product.title}
             </h1>
 
-            {product.images.length > 0 ? (
-              <p className="mt-1 text-sm text-[var(--color-text-muted)]">
-                {product.images.length} image{product.images.length > 1 ? "s" : ""}
-              </p>
-            ) : null}
+            {/* Price */}
+            <Price
+              price={product.price}
+              className="tabular mt-4 block text-2xl font-bold text-[var(--color-text-primary)]"
+            />
 
-            <p className="mt-4 text-2xl font-extrabold text-[var(--color-text-primary)]">
-              {priceLabel(product)}
-            </p>
+            {/* Add to Cart + Favourite */}
+            <div className="mt-5 flex items-center gap-3">
+              <AddToCartButton item={cartItem} />
+              <FavouriteButton
+                item={cartItem}
+                className="h-[52px] w-[52px] shrink-0 border border-[var(--color-border)] bg-white text-[#111f2a] hover:text-[#ef4444]"
+              />
+            </div>
 
+            {/* Variants */}
             {product.variants?.length ? (
               <div className="mt-6">
-                <h2 className="mb-2 text-sm font-bold uppercase tracking-widest text-[var(--color-text-muted)]">
+                <h2 className="mb-2 text-sm font-semibold text-[var(--color-text-muted)]">
                   Variants
                 </h2>
                 <ul className="divide-y divide-[var(--color-border)] overflow-hidden rounded-[var(--radius-8)] border border-[var(--color-border)]">
@@ -129,15 +113,16 @@ export default async function ProductPage({
                       </span>
                       <span className="flex items-center gap-3">
                         {variant.available === false ? (
-                          <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
+                          <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-xs font-semibold text-[var(--color-text-muted)]">
                             Out of stock
                           </span>
                         ) : null}
                         {variant.price !== undefined ? (
-                          <span className="font-bold text-[var(--color-text-primary)]">
-                            {currencySymbol(product.price?.currency)}
-                            {variant.price.toFixed(2)}
-                          </span>
+                          <VariantPrice
+                            amount={variant.price}
+                            currency={product.price?.currency ?? "USD"}
+                            className="font-bold text-[var(--color-text-primary)]"
+                          />
                         ) : null}
                       </span>
                     </li>
@@ -146,6 +131,7 @@ export default async function ProductPage({
               </div>
             ) : null}
 
+            {/* Tags */}
             {product.tags.length > 0 ? (
               <div className="mt-6 flex flex-wrap gap-2">
                 {product.tags.map((tag) => (
@@ -159,56 +145,19 @@ export default async function ProductPage({
               </div>
             ) : null}
 
-            {(hasHtml || paragraphs.length > 0) ? (
+            {/* Description */}
+            {paragraphs.length > 0 ? (
               <div className="mt-8">
-                <h2 className="mb-3 text-sm font-bold uppercase tracking-widest text-[var(--color-text-muted)]">
+                <h2 className="mb-3 text-sm font-semibold text-[var(--color-text-muted)]">
                   Description
                 </h2>
-                {hasHtml ? (
-                  <div
-                    className="prose prose-sm max-w-none text-[var(--color-text-primary)] [&_a]:text-[#2563eb] [&_a]:underline [&_strong]:font-bold"
-                    dangerouslySetInnerHTML={{ __html: product.description_html! }}
-                  />
-                ) : (
-                  <div className="space-y-3 text-[var(--text-body)] leading-[var(--leading-body)] text-[var(--color-text-primary)]">
-                    {paragraphs.map((p, i) => (
-                      <p key={i}>{p}</p>
-                    ))}
-                  </div>
-                )}
+                <div className="space-y-3 text-sm leading-relaxed text-[var(--color-text-primary)]">
+                  {paragraphs.map((p, i) => (
+                    <p key={i}>{p}</p>
+                  ))}
+                </div>
               </div>
             ) : null}
-
-            <div className="mt-8 rounded-[var(--radius-8)] bg-[var(--color-bg-surface)] p-4 text-sm text-[var(--color-text-muted)]">
-              <dl className="space-y-1">
-                {product.site ? (
-                  <div className="flex justify-between gap-4">
-                    <dt className="font-bold">Source</dt>
-                    <dd>{product.site}</dd>
-                  </div>
-                ) : null}
-                {product.collections?.length ? (
-                  <div className="flex justify-between gap-4">
-                    <dt className="font-bold">Collections</dt>
-                    <dd className="text-right">{product.collections.join(", ")}</dd>
-                  </div>
-                ) : null}
-                {product.scrapedAt ? (
-                  <div className="flex justify-between gap-4">
-                    <dt className="font-bold">Scraped</dt>
-                    <dd>{new Date(product.scrapedAt).toLocaleString()}</dd>
-                  </div>
-                ) : null}
-              </dl>
-              <a
-                href={product.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-3 inline-block font-bold text-[#2563eb] underline-offset-2 hover:underline"
-              >
-                View original listing &rarr;
-              </a>
-            </div>
           </div>
         </div>
       </div>

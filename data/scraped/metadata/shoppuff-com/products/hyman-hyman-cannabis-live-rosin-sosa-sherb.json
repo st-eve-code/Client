@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-live-rosin-sosa-sherb",
+  "name": "Hyman Cannabis Live Rosin | Sosa Sherb",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Sosa Sherb\n\nStrain Type: Hybrid \n\nMood : Peaceful & Relaxed\n\nFlavor & Aroma : Berry & Creamy",
+  "description_html": "Sosa Sherb<br /><br />Strain Type: Hybrid <br /><br />Mood : Peaceful & Relaxed<br /><br />Flavor & Aroma : Berry & Creamy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/03883077f959ff64657763b76768b5ba",
+      "alt": "Hyman Cannabis Live Rosin | Sosa Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-live-rosin-sosa-sherb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-live-rosin-sosa-sherb-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.449Z"
+}

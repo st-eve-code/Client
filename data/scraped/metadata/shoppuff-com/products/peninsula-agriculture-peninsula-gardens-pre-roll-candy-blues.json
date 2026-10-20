@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-agriculture-peninsula-gardens-pre-roll-candy-blues",
+  "name": "Peninsula Gardens Pre-Roll | Candy Blues",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Peninsula Agriculture",
+  "tags": [],
+  "description": "Bred by Bean Fiendz and selected by Bonez Grown. This cross of Blue Nerdz and Sherb Cream Pie is mouthwatering. Major blast of candy flavor that is sure to have you coming back time and time again.",
+  "description_html": "Bred by Bean Fiendz and selected by Bonez Grown. This cross of Blue Nerdz and Sherb Cream Pie is mouthwatering. Major blast of candy flavor that is sure to have you coming back time and time again.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/99fd00837587b430b12e6ff10b01997e",
+      "alt": "Peninsula Gardens Pre-Roll | Candy Blues",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-agriculture-peninsula-gardens-pre-roll-candy-blues__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-agriculture-peninsula-gardens-pre-roll-candy-blues-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.351Z"
+}

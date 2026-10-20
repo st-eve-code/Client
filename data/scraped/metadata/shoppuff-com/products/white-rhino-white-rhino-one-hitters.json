@@ -1,0 +1,35 @@
+{
+  "slug": "white-rhino-white-rhino-one-hitters",
+  "name": "White Rhino One Hitters",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "White Rhino",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/accessories.jpg",
+      "alt": "White Rhino One Hitters",
+      "local": "data\\scraped\\images\\shoppuff-com__white-rhino-white-rhino-one-hitters__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/white-rhino-white-rhino-one-hitters-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.864Z"
+}

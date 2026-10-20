@@ -1,0 +1,35 @@
+{
+  "slug": "healthy-greens-healthy-greens-zoda-shake-copy",
+  "name": "Healthy Greens | Zprite Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Healthy Greens",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9959de8a1c73234113c31df901654445",
+      "alt": "Healthy Greens | Zprite Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__healthy-greens-healthy-greens-zoda-shake-copy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/healthy-greens-healthy-greens-zoda-shake-copy-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.586Z"
+}

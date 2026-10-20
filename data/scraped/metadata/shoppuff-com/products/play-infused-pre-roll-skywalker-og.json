@@ -1,0 +1,35 @@
+{
+  "slug": "play-infused-pre-roll-skywalker-og",
+  "name": "Play Infused Pre-Roll | Skywalker OG",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Play by Rkive",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/40368ef07562fd056ead6f4c1a560c70",
+      "alt": "Play Infused Pre-Roll | Skywalker OG",
+      "local": "data\\scraped\\images\\shoppuff-com__play-infused-pre-roll-skywalker-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/play-infused-pre-roll-skywalker-og-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.658Z"
+}

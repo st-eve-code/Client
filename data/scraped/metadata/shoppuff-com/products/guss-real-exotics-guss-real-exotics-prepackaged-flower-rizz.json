@@ -1,0 +1,35 @@
+{
+  "slug": "guss-real-exotics-guss-real-exotics-prepackaged-flower-rizz",
+  "name": "Gus's Real Exotics Prepackaged Flower | Rizz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 99,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$99.00",
+  "available": true,
+  "vendor": "Gus's Real Exotics",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4ccd7068ebbb5c940e045978afb9abd9",
+      "alt": "Gus's Real Exotics Prepackaged Flower | Rizz",
+      "local": "data\\scraped\\images\\shoppuff-com__guss-real-exotics-guss-real-exotics-prepackaged-flower-rizz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guss-real-exotics-guss-real-exotics-prepackaged-flower-rizz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.246Z"
+}

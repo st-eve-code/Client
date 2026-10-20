@@ -1,0 +1,60 @@
+{
+  "slug": "smoorhouse-arctic-buds-electric-lantz",
+  "name": "Smoorhouse | Arctic Buds | Electric Lantz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 11,
+  "price_max": 220,
+  "currency": "USD",
+  "price_range": "$11.00 – $220.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "description_html": "Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0341f1dec3220582648a62ecb20e8e96",
+      "alt": "Smoorhouse | Arctic Buds | Electric Lantz",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-arctic-buds-electric-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 11,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 22,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 220,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-arctic-buds-electric-lantz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.603Z"
+}

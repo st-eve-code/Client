@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-pre-roll-roc-n-rye",
+  "name": "Hyman Cannabis Pre-Roll | Roc N Rye",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9430c70416bbef588c5b3ccfe1820ad1",
+      "alt": "Hyman Cannabis Pre-Roll | Roc N Rye",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-pre-roll-roc-n-rye__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-pre-roll-roc-n-rye-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.804Z"
+}

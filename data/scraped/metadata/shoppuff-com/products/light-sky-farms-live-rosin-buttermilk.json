@@ -1,0 +1,35 @@
+{
+  "slug": "light-sky-farms-live-rosin-buttermilk",
+  "name": "Light Sky Farms Live Rosin | Buttermilk",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "LightSky Farms",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5617-Puff-JointStore-Oscoda.webp",
+      "alt": "Light Sky Farms Live Rosin | Buttermilk",
+      "local": "data\\scraped\\images\\shoppuff-com__light-sky-farms-live-rosin-buttermilk__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/light-sky-farms-live-rosin-buttermilk-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.878Z"
+}

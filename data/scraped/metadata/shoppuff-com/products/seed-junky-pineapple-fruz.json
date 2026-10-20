@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-pineapple-fruz",
+  "name": "Seed Junky | Pineapple Fruz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 199,
+  "currency": "USD",
+  "price_range": "$12.00 – $199.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Red Eye is one of Seed Junky’s most potent indicas. With intense flavors of candy and gas this strains sedative effects will have you flying off to dreamland.",
+  "description_html": "Red Eye is one of Seed Junky’s most potent indicas. With intense flavors of candy and gas this strains sedative effects will have you flying off to dreamland.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2783cfd760ecbaa14da55210e0825b91",
+      "alt": "Seed Junky | Pineapple Fruz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-pineapple-fruz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 199,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-pineapple-fruz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.818Z"
+}

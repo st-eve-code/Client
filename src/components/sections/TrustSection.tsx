@@ -24,7 +24,7 @@ export function TrustSection() {
         <h2 className="text-[var(--text-heading-lg)] leading-[var(--leading-heading-lg)] font-bold text-[var(--color-text-primary)] mb-10">
           Your Trusted Source for All Vaping Needs
         </h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-5 gap-y-8">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-6 lg:gap-x-8 gap-y-8">
           {POINTS.map((point) => (
             <div key={point.title} className="bg-white rounded-[var(--radius-8)] p-4">
               <span className="block w-10 h-1 rounded-full bg-[#d3fdc7] mb-4" />

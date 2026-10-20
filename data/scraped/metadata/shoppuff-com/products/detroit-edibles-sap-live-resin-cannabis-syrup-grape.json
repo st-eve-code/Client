@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-sap-live-resin-cannabis-syrup-grape",
+  "name": "Sap Live Resin Cannabis Syrup - Grape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Sap Live Resin Cannabis Syrup is made from pure full-spectrum live resin extract infused into tapioca syrup. It gives consumers all the amazing benefits of the 'Entourage Effect' and is much healthier than corn syrup products. Plus, we infused a potent dose of CBN that will help you fall asleep faster and stay asleep longer. Just mix it in your favorite drink or take a shot straight from the bottle!",
+  "description_html": "Sap Live Resin Cannabis Syrup is made from pure full-spectrum live resin extract infused into tapioca syrup. It gives consumers all the amazing benefits of the 'Entourage Effect' and is much healthier than corn syrup products. Plus, we infused a potent dose of CBN that will help you fall asleep faster and stay asleep longer. Just mix it in your favorite drink or take a shot straight from the bottle!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9843dd074d2e7cc3b01e983f81801be9",
+      "alt": "Sap Live Resin Cannabis Syrup - Grape",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-sap-live-resin-cannabis-syrup-grape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.075g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-sap-live-resin-cannabis-syrup-grape-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.489Z"
+}

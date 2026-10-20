@@ -1,0 +1,35 @@
+{
+  "slug": "monopoly-melts-live-rosin-banana-pop-rocks",
+  "name": "Monopoly Melts Live Rosin | Banana Pop Rocks",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Monopoly Melts",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5619-Puff-JointStore-Sturgis.webp",
+      "alt": "Monopoly Melts Live Rosin | Banana Pop Rocks",
+      "local": "data\\scraped\\images\\shoppuff-com__monopoly-melts-live-rosin-banana-pop-rocks__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/monopoly-melts-live-rosin-banana-pop-rocks-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.877Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-biiig-battery",
+  "name": "Stiiizy BIIIG Battery",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "ADVANCED KIT .",
+  "description_html": "ADVANCED KIT .<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/168095d6b6ca83a5f0b67954008cf780",
+      "alt": "Stiiizy BIIIG Battery",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-biiig-battery__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-biiig-battery-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.845Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-pre-roll-dankaroos",
+  "name": "Hyman Cannabis Pre-Roll | Dankaroos",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/42103c55cb16b42ce48fd5e1a479b6bf",
+      "alt": "Hyman Cannabis Pre-Roll | Dankaroos",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-pre-roll-dankaroos__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-pre-roll-dankaroos-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.805Z"
+}

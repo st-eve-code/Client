@@ -1,0 +1,55 @@
+{
+  "slug": "northwoods-jedi-kush",
+  "name": "Northwoods | Jedi Kush",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.2,
+  "price_max": 38.5,
+  "currency": "USD",
+  "price_range": "$4.20 – $38.50",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "The initial taste of Momochi is a burst of fruity sweetness, with pronounced notes of tropical fruits, and hints of citrus, earthy, herbal undertones.",
+  "description_html": "The initial taste of Momochi is a burst of fruity sweetness, with pronounced notes of tropical fruits, and hints of citrus, earthy, herbal undertones.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a856c26eb25901382254b4a18fe7d933",
+      "alt": "Northwoods | Jedi Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-jedi-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 10.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 21,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4.2,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 38.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-jedi-kush-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.624Z"
+}

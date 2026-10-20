@@ -1,0 +1,60 @@
+{
+  "slug": "pharmacann-pink-runtz",
+  "name": "PharmaCann | Pink Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 122.5,
+  "currency": "USD",
+  "price_range": "$7.00 – $122.50",
+  "available": true,
+  "vendor": "PharmaCann",
+  "tags": [],
+  "description": "Pink Runtz is a rare evenly balanced hybrid strain (50% indica/50% sativa) created either as a phenotype of the infamous Runtz strain, a Zkittlez X Gelato cross, or as a cross of the delicious Rainbow Sherbet X Pink Panties strains. The high starts with a rush of cerebral effects, filling you with a happy sense of high-flying euphoria that immediately pushes out any negative or racing thoughts, replacing them with heady unfocused bliss. As your mind settles into this buzzy state, a tingle will begin to spread throughout your physical form, leaving you totally relaxed and kicked back, pain-free from head to toe. Pink Runtz an edge in treating conditions such has depression, chronic stress or PTSD, mood swings, nausea or appetite loss and chronic fatigue.",
+  "description_html": "Pink Runtz is a rare evenly balanced hybrid strain (50% indica/50% sativa) created either as a phenotype of the infamous Runtz strain, a Zkittlez X Gelato cross, or as a cross of the delicious Rainbow Sherbet X Pink Panties strains. The high starts with a rush of cerebral effects, filling you with a happy sense of high-flying euphoria that immediately pushes out any negative or racing thoughts, replacing them with heady unfocused bliss. As your mind settles into this buzzy state, a tingle will begin to spread throughout your physical form, leaving you totally relaxed and kicked back, pain-free from head to toe. Pink Runtz an edge in treating conditions such has depression, chronic stress or PTSD, mood swings, nausea or appetite loss and chronic fatigue.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ab45c5e9654ab6d1a959b82f898a8df9",
+      "alt": "PharmaCann | Pink Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__pharmacann-pink-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 122.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 63,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pharmacann-pink-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.792Z"
+}

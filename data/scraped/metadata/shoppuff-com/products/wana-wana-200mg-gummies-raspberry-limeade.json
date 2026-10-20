@@ -1,0 +1,35 @@
+{
+  "slug": "wana-wana-200mg-gummies-raspberry-limeade",
+  "name": "Wana | 200mg Gummies | Raspberry Limeade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Wana",
+  "tags": [],
+  "description": "These uniquely refreshing gummies bring combine a tart burst of flavor with 30+ uplifting terpenes.",
+  "description_html": "These uniquely refreshing gummies bring combine a tart burst of flavor with 30+ uplifting terpenes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/faa1312ed4da098523101773b4c147b2",
+      "alt": "Wana | 200mg Gummies | Raspberry Limeade",
+      "local": "data\\scraped\\images\\shoppuff-com__wana-wana-200mg-gummies-raspberry-limeade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wana-wana-200mg-gummies-raspberry-limeade-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.438Z"
+}

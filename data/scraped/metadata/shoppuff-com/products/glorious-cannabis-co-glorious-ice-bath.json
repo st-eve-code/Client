@@ -1,0 +1,60 @@
+{
+  "slug": "glorious-cannabis-co-glorious-ice-bath",
+  "name": "Glorious | Ice Bath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "The high starts with an immediate cerebral rush that leaves you feeling uplifted yet calm in a state of hazy bliss that numbs your mind and body. As this full body high builds and builds, you'll fall into a heavy stone that leaves you hopelessly immovable for hours on end. Because of these heavy narcotic effects, Ice Bath is often chosen by patients who suffer from conditions such as chronic pain, insomnia, chronic stress or anxiety, and tension or muscle spasms.",
+  "description_html": "The high starts with an immediate cerebral rush that leaves you feeling uplifted yet calm in a state of hazy bliss that numbs your mind and body. As this full body high builds and builds, you'll fall into a heavy stone that leaves you hopelessly immovable for hours on end. Because of these heavy narcotic effects, Ice Bath is often chosen by patients who suffer from conditions such as chronic pain, insomnia, chronic stress or anxiety, and tension or muscle spasms.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6cfd05225ec759b2fdf44359cd2f7a45",
+      "alt": "Glorious | Ice Bath",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-ice-bath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-ice-bath-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.805Z"
+}

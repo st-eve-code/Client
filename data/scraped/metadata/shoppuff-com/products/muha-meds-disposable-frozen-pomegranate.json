@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-disposable-frozen-pomegranate",
+  "name": "Muha Meds Disposable (3rd Gen) | Frozen Pomegranate",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Frozen Pomegranate is a lively sativa with a tingly, awake buzz that sharpens focus and boosts energy. The tangy, fruity flavor is layered with an icy coolness that makes every puff crisp and refreshing. Perfect for sparking movement, ideas, or just good vibes.",
+  "description_html": "Frozen Pomegranate is a lively sativa with a tingly, awake buzz that sharpens focus and boosts energy. The tangy, fruity flavor is layered with an icy coolness that makes every puff crisp and refreshing. Perfect for sparking movement, ideas, or just good vibes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f6ca50b79a4b833b985e778577634cd6",
+      "alt": "Muha Meds Disposable (3rd Gen) | Frozen Pomegranate",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-disposable-frozen-pomegranate__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-disposable-frozen-pomegranate-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.087Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-1g-infused-preroll-15pk-jokerz",
+  "name": "Berry Green | 1g Infused Preroll 15pk | Jokerz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Playful on the surface. Serious under the hood. Jokerz mixes creamy candy notes with earthy depth for a smooth hybrid that relaxes without slowing you down.",
+  "description_html": "Playful on the surface. Serious under the hood. Jokerz mixes creamy candy notes with earthy depth for a smooth hybrid that relaxes without slowing you down.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8e3fa3377d56aef99f71c85a081879e0",
+      "alt": "Berry Green | 1g Infused Preroll 15pk | Jokerz",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-1g-infused-preroll-15pk-jokerz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-1g-infused-preroll-15pk-jokerz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.268Z"
+}

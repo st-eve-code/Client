@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-minntz-prepackaged-flower-pina-colada",
+  "name": "Minntz Prepackaged Flower | Pina Colada",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Tropical pineapple and creamy fruit aromas create a rich, flavorful sensory experience. This Sativa’s uplifting effects spark happiness, creativity, and social energy, making it ideal for fun, engaging moments with friends.",
+  "description_html": "Tropical pineapple and creamy fruit aromas create a rich, flavorful sensory experience. This Sativa’s uplifting effects spark happiness, creativity, and social energy, making it ideal for fun, engaging moments with friends.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c6fd26ba3ec0360844c8c0728c3f4ef6",
+      "alt": "Minntz Prepackaged Flower | Pina Colada",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-prepackaged-flower-pina-colada__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-prepackaged-flower-pina-colada-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.814Z"
+}

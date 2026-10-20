@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-snowballs-ice-cream-cake",
+  "name": "White Boy Rick Snowballs | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 31.5,
+  "price_max": 31.5,
+  "currency": "USD",
+  "price_range": "$31.50",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/42c5bbeabd0b13d87a4167a0152c3c95",
+      "alt": "White Boy Rick Snowballs | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-snowballs-ice-cream-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 31.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-snowballs-ice-cream-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.811Z"
+}

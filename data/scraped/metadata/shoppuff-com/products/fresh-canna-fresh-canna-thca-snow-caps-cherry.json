@@ -1,0 +1,50 @@
+{
+  "slug": "fresh-canna-fresh-canna-thca-snow-caps-cherry",
+  "name": "Fresh Canna | THCA Snow Caps | Cherry",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 198,
+  "currency": "USD",
+  "price_range": "$30.00 – $198.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "THCA Infused Snow Caps\n\nDried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "THCA Infused Snow Caps<br /><br />Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/233d5e56932ac9c2603d6464eed78584",
+      "alt": "Fresh Canna | THCA Snow Caps | Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-thca-snow-caps-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 198,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-thca-snow-caps-cherry-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.247Z"
+}

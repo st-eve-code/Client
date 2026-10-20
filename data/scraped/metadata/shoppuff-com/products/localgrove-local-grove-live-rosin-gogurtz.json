@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-gogurtz",
+  "name": "Local Grove Live Rosin | Gogurtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 37.5,
+  "price_max": 37.5,
+  "currency": "USD",
+  "price_range": "$37.50",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Gogurtz (Runtz x Cap Junky) bred by Seedjunky and Capulator selected by Localgrove.",
+  "description_html": "Gogurtz (Runtz x Cap Junky) bred by Seedjunky and Capulator selected by Localgrove.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f58cc4f9a3c44dd0284fdf114a9c7116",
+      "alt": "Local Grove Live Rosin | Gogurtz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-gogurtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 37.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-gogurtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.828Z"
+}

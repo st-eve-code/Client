@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-cannabis-co-churro-fire-styxx-1g",
+  "name": "Churro Fire Styxx | 1G",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3.99,
+  "price_max": 3.99,
+  "currency": "USD",
+  "price_range": "$3.99",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Indulge in Churro. Cinnamon sugar and creamy vanilla custard blend into a warm, delightful treat. Each puff rolls in like a comforting wave, rich yet impossible to resist. Dessert just got a remix. Slow Burn. Better high.",
+  "description_html": "Indulge in Churro. Cinnamon sugar and creamy vanilla custard blend into a warm, delightful treat. Each puff rolls in like a comforting wave, rich yet impossible to resist. Dessert just got a remix. Slow Burn. Better high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8db69e86ef891db47f5eccc95154bfac",
+      "alt": "Churro Fire Styxx | 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-churro-fire-styxx-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-churro-fire-styxx-1g-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.700Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-permanent-marker",
+  "name": "Local Grove | Permanent Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$10.00 – $175.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: (Biscotti x Sherb Bx) x Jealousy \n\nBreeder: Seed Junky Genetics \n\nAroma & Flavor: Pungent, marker-like aroma with gassy, funky undertones \n\nEffects: Hybrid – strong cerebral buzz with relaxing body effects",
+  "description_html": "Genetics: (Biscotti x Sherb Bx) x Jealousy <br /><br />Breeder: Seed Junky Genetics <br /><br />Aroma & Flavor: Pungent, marker-like aroma with gassy, funky undertones <br /><br />Effects: Hybrid – strong cerebral buzz with relaxing body effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ec800452bfb165c572caf3a2b55e481c",
+      "alt": "Local Grove | Permanent Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-permanent-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-permanent-marker-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.582Z"
+}

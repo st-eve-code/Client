@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-moonrocks-blueberry-runtz",
+  "name": "Mitten Extracts Moonrocks | Blueberry Runtz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Juicy blueberry sweetness and candy-like undertones define Blueberry Runtz Moon Rocks. Enhanced with concentrate and coated in kief, this premium offering delivers rich flavor and a powerful, long-lasting smoke.",
+  "description_html": "Juicy blueberry sweetness and candy-like undertones define Blueberry Runtz Moon Rocks. Enhanced with concentrate and coated in kief, this premium offering delivers rich flavor and a powerful, long-lasting smoke.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6acc6005b388aec004efb204da9f5c7d",
+      "alt": "Mitten Extracts Moonrocks | Blueberry Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-moonrocks-blueberry-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-moonrocks-blueberry-runtz-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.535Z"
+}

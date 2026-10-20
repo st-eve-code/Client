@@ -1,0 +1,35 @@
+{
+  "slug": "loco-loco-live-resin-5g-chop-suey",
+  "name": "LOCO Live Resin 5g - Chop Suey",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCO",
+  "tags": [],
+  "description": "Loco 5g Live Resin Chop Suey\n\n(Chop Suey is a slightly sativa dominant hybrid strain created through a three-way cross of the potent Cinderella X AK47 X Grapefruit strains.",
+  "description_html": "Loco 5g Live Resin Chop Suey<br /><br />(Chop Suey is a slightly sativa dominant hybrid strain created through a three-way cross of the potent Cinderella X AK47 X Grapefruit strains.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/721354c9b2e49f4773e7d29c5f17949f",
+      "alt": "LOCO Live Resin 5g - Chop Suey",
+      "local": "data\\scraped\\images\\shoppuff-com__loco-loco-live-resin-5g-chop-suey__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loco-loco-live-resin-5g-chop-suey-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.864Z"
+}

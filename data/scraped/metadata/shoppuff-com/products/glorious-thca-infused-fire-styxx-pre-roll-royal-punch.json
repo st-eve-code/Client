@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-thca-infused-fire-styxx-pre-roll-royal-punch",
+  "name": "Glorious THCA Infused Fire Styxx Pre-Roll | Royal Punch",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Rule the flavor kingdom with Royal Punch. Grape and mixed berries create a lush, juicy blend with a regal edge. Sweet, bold, and full of character, it’s a taste fit for the crown.",
+  "description_html": "Rule the flavor kingdom with Royal Punch. Grape and mixed berries create a lush, juicy blend with a regal edge. Sweet, bold, and full of character, it’s a taste fit for the crown.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/719c027a374587ce7d8a93a8bde9d914",
+      "alt": "Glorious THCA Infused Fire Styxx Pre-Roll | Royal Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-thca-infused-fire-styxx-pre-roll-royal-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-thca-infused-fire-styxx-pre-roll-royal-punch-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.973Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "fattys-fattys-pre-roll-spritzer",
+  "name": "Fatty's Pre-Roll | Spritzer",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Fatty's",
+  "tags": [],
+  "description": "Discover the convenience of pre-rolled joints as an excellent and accessible method for cannabis consumption. Essentially, pre-rolls consist of ground cannabis, rolling papers, and a filter tip, offering a simplified and hassle-free way to enjoy smokable cannabis. Explore the benefits of pre-rolled joints for a straightforward and enjoyable cannabis experience.",
+  "description_html": "Discover the convenience of pre-rolled joints as an excellent and accessible method for cannabis consumption. Essentially, pre-rolls consist of ground cannabis, rolling papers, and a filter tip, offering a simplified and hassle-free way to enjoy smokable cannabis. Explore the benefits of pre-rolled joints for a straightforward and enjoyable cannabis experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/38c4693cd6d170e60a11a5ccc9bd79a4",
+      "alt": "Fatty's Pre-Roll | Spritzer",
+      "local": "data\\scraped\\images\\shoppuff-com__fattys-fattys-pre-roll-spritzer__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fattys-fattys-pre-roll-spritzer-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.484Z"
+}

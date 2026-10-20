@@ -1,0 +1,35 @@
+{
+  "slug": "drip-510-cartridge-blue-dream",
+  "name": "Drip 510 Cartridge | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7.49,
+  "price_max": 7.49,
+  "currency": "USD",
+  "price_range": "$7.49",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Blue Dream is light, bright, and easy to vibe with — smooth berry flavor with a gentle herbal edge. Ideal for daytime cruising or anytime you want to float without fading.",
+  "description_html": "Blue Dream is light, bright, and easy to vibe with — smooth berry flavor with a gentle herbal edge. Ideal for daytime cruising or anytime you want to float without fading.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0db2d03c42c3e0c9e0c37250c9554186",
+      "alt": "Drip 510 Cartridge | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-510-cartridge-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.49,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-510-cartridge-blue-dream-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.091Z"
+}

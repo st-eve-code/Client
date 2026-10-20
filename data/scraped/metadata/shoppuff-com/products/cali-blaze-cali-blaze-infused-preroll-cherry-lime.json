@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-infused-preroll-cherry-lime",
+  "name": "Cali Blaze Infused Preroll | Cherry Lime",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "1.2g Infused Preroll\n\nRolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "1.2g Infused Preroll<br /><br /><br /><br />Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dd273555a234b9aa57a2b833a2caf01e",
+      "alt": "Cali Blaze Infused Preroll | Cherry Lime",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-infused-preroll-cherry-lime__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-infused-preroll-cherry-lime-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.170Z"
+}

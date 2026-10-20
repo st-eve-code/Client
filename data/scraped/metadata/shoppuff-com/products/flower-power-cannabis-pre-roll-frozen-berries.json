@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-pre-roll-frozen-berries",
+  "name": "Flower Power Cannabis Pre-Roll | Frozen Berries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "1G Preroll of our brand new strain Frozen Berries. Made with 100% premium flower; no shake, no trim.\n\n(Gassius Clay X Billy Kimber) X Sweet Retreat | Indica Dominant Hybrid\n\nDominant Terpenes: Limonene, Linalool, Myrcene",
+  "description_html": "1G Preroll of our brand new strain Frozen Berries. Made with 100% premium flower; no shake, no trim.<br /><br /><br /><br />(Gassius Clay X Billy Kimber) X Sweet Retreat | Indica Dominant Hybrid<br /><br />Dominant Terpenes: Limonene, Linalool, Myrcene",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4601080e384ad707f5481e2fa8ac5d57",
+      "alt": "Flower Power Cannabis Pre-Roll | Frozen Berries",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-pre-roll-frozen-berries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-pre-roll-frozen-berries-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.406Z"
+}

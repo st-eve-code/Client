@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-pre-roll-pack-zkittlez",
+  "name": "Top Smoke Pre-Roll Pack | Zkittlez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 24,
+  "price_max": 24,
+  "currency": "USD",
+  "price_range": "$24.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/45b45d5e088f24cbabe1f82f3d50c3bf",
+      "alt": "Top Smoke Pre-Roll Pack | Zkittlez",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-pre-roll-pack-zkittlez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-pre-roll-pack-zkittlez-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.096Z"
+}

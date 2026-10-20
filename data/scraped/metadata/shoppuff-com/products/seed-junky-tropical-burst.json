@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-tropical-burst",
+  "name": "Seed Junky | Tropical Burst",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 200,
+  "currency": "USD",
+  "price_range": "$10.00 – $200.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Hit the Jackpot with Wild Cherry, a potent indica strain that deals a winning hand of bold flavors. The gassy aroma draws you in, followed by a sweet-and-tart blend of cherry, candy, citrus, and a hint of spice.",
+  "description_html": "Hit the Jackpot with Wild Cherry, a potent indica strain that deals a winning hand of bold flavors. The gassy aroma draws you in, followed by a sweet-and-tart blend of cherry, candy, citrus, and a hint of spice.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e2746aebe9cb2d396f4897047c06b9ef",
+      "alt": "Seed Junky | Tropical Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-tropical-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 200,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-tropical-burst-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.784Z"
+}

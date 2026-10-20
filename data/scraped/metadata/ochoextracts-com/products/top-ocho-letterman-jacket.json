@@ -1,0 +1,54 @@
+{
+  "slug": "top-ocho-letterman-jacket",
+  "name": "Jacket - Ocho Extracts Airplane Mode Letterman",
+  "site": "ochoextracts-com",
+  "category": "swag",
+  "price_min": 49.99,
+  "price_max": 49.99,
+  "currency": "GBP",
+  "price_range": "£49.99",
+  "available": true,
+  "sku": "LTM-JACKET-MED",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "Swag"
+  ],
+  "description": "*Runs small, so order a size above!\n\nThe OCHO Letterman Jacket blends classic varsity styling with premium everyday comfort. Made from a heavyweight ring spun cotton blend, this jacket features a soft cotton-faced fabric for a clean, elevated feel.\n\nDesigned with striped knitted collar, cuffs, and waistband detailing, the piece delivers a timeless athletic-inspired look with modern streetwear versatility. Finished with press-stud button closures, a taped back neck, this jacket combines comfort, style, and practicality in one staple layer.\n\nFeatures:• 9.8 oz. heavyweight fabric• 80% ring spun cotton / 20% polyester blend• Soft cotton-faced finish• Striped knitted collar, cuffs, and waistband• Press-stud button closure• Taped back neck for comfort• Classic varsity-inspired styling",
+  "description_html": "<p data-start=\"0\" data-end=\"246\">*Runs small, so order a size above!</p>\n<p data-start=\"0\" data-end=\"246\">The <strong>OCHO Letterman Jacket</strong> blends classic varsity styling with premium everyday comfort. Made from a heavyweight ring spun cotton blend, this jacket features a soft cotton-faced fabric for a clean, elevated feel.</p>\n<p data-start=\"248\" data-end=\"658\">Designed with striped knitted collar, cuffs, and waistband detailing, the piece delivers a timeless athletic-inspired look with modern streetwear versatility. Finished with press-stud button closures, a taped back neck, this jacket combines comfort, style, and practicality in one staple layer.</p>\n<p data-start=\"660\" data-end=\"1068\"><strong data-start=\"660\" data-end=\"673\">Features:</strong><br data-start=\"673\" data-end=\"676\">• 9.8 oz. heavyweight fabric<br data-start=\"704\" data-end=\"707\">• 80% ring spun cotton / 20% polyester blend<br data-start=\"751\" data-end=\"754\">• Soft cotton-faced finish<br data-start=\"780\" data-end=\"783\">• Striped knitted collar, cuffs, and waistband<br data-start=\"829\" data-end=\"832\">• Press-stud button closure<br data-start=\"859\" data-end=\"862\">• Taped back neck for comfort<br data-start=\"1029\" data-end=\"1032\">• Classic varsity-inspired styling</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Jacket-Mockup.png?v=1779306943",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__top-ocho-letterman-jacket__000.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 45869197131962,
+      "title": "M",
+      "price": 49.99,
+      "sku": "LTM-JACKET-MED",
+      "available": true
+    },
+    {
+      "id": 45869197164730,
+      "title": "L",
+      "price": 49.99,
+      "sku": "LTM-JACKET-LRG",
+      "available": true
+    },
+    {
+      "id": 45869197197498,
+      "title": "XL",
+      "price": 49.99,
+      "sku": "LTM-JACKET-XL",
+      "available": true
+    }
+  ],
+  "collections": [
+    "swag"
+  ],
+  "source_url": "https://ochoextracts.com/products/top-ocho-letterman-jacket",
+  "scraped_at": "2026-10-10T21:42:46.209Z"
+}

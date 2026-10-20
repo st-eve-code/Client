@@ -1,0 +1,35 @@
+{
+  "slug": "cypher-solventless-cypher-solventless-live-rosin-tallymon",
+  "name": "Cypher Solventless Live Rosin | Tallymon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Cypher Solventless",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5321598fa281dd529d17df14be9d4618",
+      "alt": "Cypher Solventless Live Rosin | Tallymon",
+      "local": "data\\scraped\\images\\shoppuff-com__cypher-solventless-cypher-solventless-live-rosin-tallymon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cypher-solventless-cypher-solventless-live-rosin-tallymon-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.884Z"
+}

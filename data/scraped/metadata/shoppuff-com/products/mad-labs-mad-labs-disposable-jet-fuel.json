@@ -1,0 +1,35 @@
+{
+  "slug": "mad-labs-mad-labs-disposable-jet-fuel",
+  "name": "Mad Labs Disposable | Jet Fuel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Mad Labs",
+  "tags": [],
+  "description": "A high-octane classic dominating with an intensely sharp, pungent diesel aroma, chemical brightness, and crisp, resinous pine undertones.",
+  "description_html": "A high-octane classic dominating with an intensely sharp, pungent diesel aroma, chemical brightness, and crisp, resinous pine undertones.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/898b235be6d63a200e1c8dde22c76381",
+      "alt": "Mad Labs Disposable | Jet Fuel",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-labs-mad-labs-disposable-jet-fuel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-labs-mad-labs-disposable-jet-fuel-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.490Z"
+}

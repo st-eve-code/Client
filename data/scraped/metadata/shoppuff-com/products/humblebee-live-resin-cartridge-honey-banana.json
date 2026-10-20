@@ -1,0 +1,35 @@
+{
+  "slug": "humblebee-live-resin-cartridge-honey-banana",
+  "name": "Humblebee Live Resin Cartridge | Honey Banana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Humblebee Products",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/vaporizers.jpg",
+      "alt": "Humblebee Live Resin Cartridge | Honey Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__humblebee-live-resin-cartridge-honey-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/humblebee-live-resin-cartridge-honey-banana-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.712Z"
+}

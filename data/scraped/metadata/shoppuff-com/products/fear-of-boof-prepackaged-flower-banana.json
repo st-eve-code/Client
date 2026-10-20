@@ -1,0 +1,35 @@
+{
+  "slug": "fear-of-boof-prepackaged-flower-banana",
+  "name": "Fear of Boof Prepackaged Flower | Banana",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "Fear of Boof",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a1055d51f0817edc1adf6373b023209c",
+      "alt": "Fear of Boof Prepackaged Flower | Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__fear-of-boof-prepackaged-flower-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fear-of-boof-prepackaged-flower-banana-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.577Z"
+}

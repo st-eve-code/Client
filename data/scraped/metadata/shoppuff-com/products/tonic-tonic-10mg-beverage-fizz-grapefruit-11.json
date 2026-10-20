@@ -1,0 +1,35 @@
+{
+  "slug": "tonic-tonic-10mg-beverage-fizz-grapefruit-11",
+  "name": "Tonic | 10mg Beverage | Fizz Grapefruit 1:1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Tonic",
+  "tags": [],
+  "description": "10mg THC : 10mg CBD\n\nEnjoy the perfect balance of flavor and effects with Tonic Fizz 1:1 Grapefruit. Infused with 10mg of cannabis extract in an equal 1:1 ratio of CBD to THC, this sparkling beverage offers a harmonious and refreshing experience. The tangy and slightly sweet grapefruit flavor makes it ideal for relaxation, socializing, or finding focus. Treat yourself to this bubbly and uplifting drink for a balanced cannabis moment.",
+  "description_html": "10mg THC : 10mg CBD<br /><br />Enjoy the perfect balance of flavor and effects with Tonic Fizz 1:1 Grapefruit. Infused with 10mg of cannabis extract in an equal 1:1 ratio of CBD to THC, this sparkling beverage offers a harmonious and refreshing experience. The tangy and slightly sweet grapefruit flavor makes it ideal for relaxation, socializing, or finding focus. Treat yourself to this bubbly and uplifting drink for a balanced cannabis moment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a665e4cd765b9abc250d650e31e03152",
+      "alt": "Tonic | 10mg Beverage | Fizz Grapefruit 1:1",
+      "local": "data\\scraped\\images\\shoppuff-com__tonic-tonic-10mg-beverage-fizz-grapefruit-11__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5.625g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tonic-tonic-10mg-beverage-fizz-grapefruit-11-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.712Z"
+}

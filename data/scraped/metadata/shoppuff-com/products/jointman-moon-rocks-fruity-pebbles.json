@@ -1,0 +1,40 @@
+{
+  "slug": "jointman-moon-rocks-fruity-pebbles",
+  "name": "Jointman | Moon Rocks | Fruity Pebbles",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 125,
+  "price_max": 250,
+  "currency": "USD",
+  "price_range": "$125.00 – $250.00",
+  "available": true,
+  "vendor": "Jointman",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Jointman | Moon Rocks | Fruity Pebbles",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-moon-rocks-fruity-pebbles__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 250,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-moon-rocks-fruity-pebbles-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.762Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "light-sky-farms-live-resin-blue-skunk",
+  "name": "Blue Skunk Live Resin 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "LightSky Farms",
+  "tags": [],
+  "description": "Introducing Blue Skunk Live Resin, a harmonious fusion born from the genetic union of Blueberry and Skunk #1.The enchanting Blueberry parentage imparts a luscious sweetness, reminiscent of ripe berries plucked under a summer sky. This delightful note is skillfully intertwined with the earthy and skunky undertones inherited from the legendary Skunk #1, creating a complex aroma profile that captivates the senses from the first encounter.",
+  "description_html": "Introducing Blue Skunk Live Resin, a harmonious fusion born from the genetic union of Blueberry and Skunk #1.The enchanting Blueberry parentage imparts a luscious sweetness, reminiscent of ripe berries plucked under a summer sky. This delightful note is skillfully intertwined with the earthy and skunky undertones inherited from the legendary Skunk #1, creating a complex aroma profile that captivates the senses from the first encounter.<br /><br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/eb8053b1db925f9bfab9ebf72190dbcc",
+      "alt": "Blue Skunk Live Resin 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__light-sky-farms-live-resin-blue-skunk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/light-sky-farms-live-resin-blue-skunk-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.288Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "dee-thai-2g-dee-blunt-honey-banana",
+  "name": "2g Dee Blunt Honey Banana",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "DEE Thai",
+  "tags": [],
+  "description": "Hand-rolled with a wooden filter designed for a smooth and even burn. 2g whole nug flower infused with solventless bubble hash and tropical terps!",
+  "description_html": "Hand-rolled with a wooden filter designed for a smooth and even burn. 2g whole nug flower infused with solventless bubble hash and tropical terps!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/39c8fa1a6524ff03e6620bfc466e8ff6",
+      "alt": "2g Dee Blunt Honey Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__dee-thai-2g-dee-blunt-honey-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dee-thai-2g-dee-blunt-honey-banana-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.822Z"
+}

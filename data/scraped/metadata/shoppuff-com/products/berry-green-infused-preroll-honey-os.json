@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-infused-preroll-honey-os",
+  "name": "Berry Green Infused Preroll | Honey O's",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 1.5,
+  "price_max": 1.5,
+  "currency": "USD",
+  "price_range": "$1.50",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Golden buzz energy. Sweet cereal drip with a high that keeps you locked in and lifted.\n\nEffect: Smooth focus and uplifted energy for all-day motion.",
+  "description_html": "Golden buzz energy. Sweet cereal drip with a high that keeps you locked in and lifted.<br /><br />Effect: Smooth focus and uplifted energy for all-day motion.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/917a196edb30fe9c73834c0c4eb5ed09",
+      "alt": "Berry Green Infused Preroll | Honey O's",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-infused-preroll-honey-os__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-infused-preroll-honey-os-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.224Z"
+}

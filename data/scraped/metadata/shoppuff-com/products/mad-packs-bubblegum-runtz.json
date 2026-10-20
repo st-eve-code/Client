@@ -1,0 +1,60 @@
+{
+  "slug": "mad-packs-bubblegum-runtz",
+  "name": "Mad Packs | Bubblegum Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "Sweet, fruity, and candy-inspired — Trixz is an indica known for its rich dessert-like flavor and smooth, satisfying smoke. Notes of mixed berries and creamy candy blend with subtle tropical sweetness for a bold, flavorful experience. Trixz delivers a euphoric, relaxing high that melts into soothing body effects, making it a great choice for unwinding, easing stress, and settling into a calm, laid-back evening.",
+  "description_html": "Sweet, fruity, and candy-inspired — Trixz is an indica known for its rich dessert-like flavor and smooth, satisfying smoke. Notes of mixed berries and creamy candy blend with subtle tropical sweetness for a bold, flavorful experience. Trixz delivers a euphoric, relaxing high that melts into soothing body effects, making it a great choice for unwinding, easing stress, and settling into a calm, laid-back evening.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fd1e5f77b5c5c945754761cbacd2bccd",
+      "alt": "Mad Packs | Bubblegum Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-bubblegum-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-bubblegum-runtz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.701Z"
+}

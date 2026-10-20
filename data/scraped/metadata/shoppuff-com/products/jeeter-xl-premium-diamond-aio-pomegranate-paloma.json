@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-xl-premium-diamond-aio-pomegranate-paloma",
+  "name": "Jeeter XL Premium Diamond AIO | Pomegranate Paloma",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6b365a2c8dfc6ed5fe653203cb84bcfb",
+      "alt": "Jeeter XL Premium Diamond AIO | Pomegranate Paloma",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-xl-premium-diamond-aio-pomegranate-paloma__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-xl-premium-diamond-aio-pomegranate-paloma-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.872Z"
+}

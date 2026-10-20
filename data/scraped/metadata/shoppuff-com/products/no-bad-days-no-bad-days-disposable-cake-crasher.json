@@ -1,0 +1,35 @@
+{
+  "slug": "no-bad-days-no-bad-days-disposable-cake-crasher",
+  "name": "No Bad Days Disposable | Cake Crasher",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "No Bad Days",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/44c089c01b9b2c802c104ad41ad1ff30",
+      "alt": "No Bad Days Disposable | Cake Crasher",
+      "local": "data\\scraped\\images\\shoppuff-com__no-bad-days-no-bad-days-disposable-cake-crasher__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/no-bad-days-no-bad-days-disposable-cake-crasher-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.164Z"
+}

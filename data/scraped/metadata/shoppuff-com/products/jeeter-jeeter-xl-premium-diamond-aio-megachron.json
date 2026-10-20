@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-xl-premium-diamond-aio-megachron",
+  "name": "Jeeter XL Premium Diamond AIO | Megachron",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/99c9d91afd4f2ec1e358904eb10aa68d",
+      "alt": "Jeeter XL Premium Diamond AIO | Megachron",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-xl-premium-diamond-aio-megachron__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-xl-premium-diamond-aio-megachron-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.793Z"
+}

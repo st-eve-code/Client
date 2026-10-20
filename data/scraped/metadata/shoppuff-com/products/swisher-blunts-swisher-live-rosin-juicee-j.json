@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-blunts-swisher-live-rosin-juicee-j",
+  "name": "Swisher Live Rosin | Juicee J",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5617-Puff-JointStore-Oscoda.webp",
+      "alt": "Swisher Live Rosin | Juicee J",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-blunts-swisher-live-rosin-juicee-j__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-blunts-swisher-live-rosin-juicee-j-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.889Z"
+}

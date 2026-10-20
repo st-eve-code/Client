@@ -1,0 +1,35 @@
+{
+  "slug": "drip-gods-gift-cartridge-1g",
+  "name": "God's Gift Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "God’s Gift feels like wrapping yourself in a warm blanket of grape and herbs. Smooth and serene, this one’s ideal for zoning out, tuning in, or just floating through your evening.",
+  "description_html": "God’s Gift feels like wrapping yourself in a warm blanket of grape and herbs. Smooth and serene, this one’s ideal for zoning out, tuning in, or just floating through your evening.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f96d3fdf76a9c9e3678864fdaf79fcc9",
+      "alt": "God's Gift Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-gods-gift-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-gods-gift-cartridge-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.511Z"
+}

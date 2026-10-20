@@ -1,0 +1,40 @@
+{
+  "slug": "fresh-canna-fresh-canna-live-resin-gmo",
+  "name": "Fresh Canna Live Resin | GMO",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$8.00 – $35.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Step into heavy-hitting relaxation with Fresh Canna’s Live Resin Wax – GMO, an indica-dominant powerhouse known for its pungent aroma, knockout potency, and long-lasting effects. Crafted from fresh-frozen cannabis, this terpene-rich live resin wax delivers a smooth, flavorful, and deeply soothing dabbing experience. With bold garlic, diesel, and spicy earth notes, GMO (aka Garlic Cookies) brings an intense body high that melts away stress, tension, and pain while keeping the mind blissfully euphoric and at ease. Perfect for evening sessions, deep relaxation, or heavy couch-lock, this strain is a must-have for indica lovers seeking serious relief.",
+  "description_html": "Step into heavy-hitting relaxation with Fresh Canna’s Live Resin Wax – GMO, an indica-dominant powerhouse known for its pungent aroma, knockout potency, and long-lasting effects. Crafted from fresh-frozen cannabis, this terpene-rich live resin wax delivers a smooth, flavorful, and deeply soothing dabbing experience. With bold garlic, diesel, and spicy earth notes, GMO (aka Garlic Cookies) brings an intense body high that melts away stress, tension, and pain while keeping the mind blissfully euphoric and at ease. Perfect for evening sessions, deep relaxation, or heavy couch-lock, this strain is a must-have for indica lovers seeking serious relief.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1711380504fa8fdbbdbf26e478d58506",
+      "alt": "Fresh Canna Live Resin | GMO",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-live-resin-gmo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-live-resin-gmo-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.316Z"
+}

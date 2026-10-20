@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-disposable-bursting-blueberry-lemonade",
+  "name": "Blueberry Lemonade - Classic 1g PLUS Vape Device — BREEZE Canna",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Enjoy the perfect summer combo with this refreshing balance of sweet blueberries and tangy lemonade. Enhanced with limonene, humulene, and alpha pinene terpenes, this invigorating blend offers a refreshing experience that's both relaxing and energizing – just like sipping your favorite drink on the porch.",
+  "description_html": "Enjoy the perfect summer combo with this refreshing balance of sweet blueberries and tangy lemonade. Enhanced with limonene, humulene, and alpha pinene terpenes, this invigorating blend offers a refreshing experience that's both relaxing and energizing – just like sipping your favorite drink on the porch.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d3437528113ad89de48634cf0fbeae7b",
+      "alt": "Blueberry Lemonade - Classic 1g PLUS Vape Device — BREEZE Canna",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-disposable-bursting-blueberry-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-disposable-bursting-blueberry-lemonade-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.264Z"
+}

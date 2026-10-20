@@ -1,0 +1,35 @@
+{
+  "slug": "mac-pharms-x-5-infused-prerolls-cactus-jack",
+  "name": "Mac Pharms x 5 Infused Prerolls | Cactus Jack",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Mac Pharms",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Mac Pharms x 5 Infused Prerolls | Cactus Jack",
+      "local": "data\\scraped\\images\\shoppuff-com__mac-pharms-x-5-infused-prerolls-cactus-jack__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mac-pharms-x-5-infused-prerolls-cactus-jack-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.699Z"
+}

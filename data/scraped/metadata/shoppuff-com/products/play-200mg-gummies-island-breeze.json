@@ -1,0 +1,35 @@
+{
+  "slug": "play-200mg-gummies-island-breeze",
+  "name": "Play | Island Breeze | 200mg | Gummies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 1.5,
+  "price_max": 1.5,
+  "currency": "USD",
+  "price_range": "$1.50",
+  "available": true,
+  "vendor": "Play Cannabis",
+  "tags": [],
+  "description": "Take a trip without leaving the couch. Play Island Breeze Gummies mix tropical fruit flavors with a sugar-coated finish that tastes like vacation. Each piece delivers 50mg of THC for a chill, balanced high that brings the sunshine vibes wherever you are.\n\nPerfect for beach days, lake trips, or just vibing at home.\n\nFlavor: Tropical fruit blend\n\nTexture: Sugar-dusted and chewy\n\nPotency: 50mg THC per gummy (200mg total)\n\nVibe: Smooth, sunny, and ready to Play",
+  "description_html": "Take a trip without leaving the couch. Play Island Breeze Gummies mix tropical fruit flavors with a sugar-coated finish that tastes like vacation. Each piece delivers 50mg of THC for a chill, balanced high that brings the sunshine vibes wherever you are.<br /><br />Perfect for beach days, lake trips, or just vibing at home.<br /><br />Flavor: Tropical fruit blend<br /><br />Texture: Sugar-dusted and chewy<br /><br />Potency: 50mg THC per gummy (200mg total)<br /><br />Vibe: Smooth, sunny, and ready to Play",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0fd6f345a1c771ae582a9e22c9fc23dc",
+      "alt": "Play | Island Breeze | 200mg | Gummies",
+      "local": "data\\scraped\\images\\shoppuff-com__play-200mg-gummies-island-breeze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 1.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/play-200mg-gummies-island-breeze-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.260Z"
+}

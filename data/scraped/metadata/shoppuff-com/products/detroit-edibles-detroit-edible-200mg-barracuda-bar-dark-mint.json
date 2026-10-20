@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-detroit-edible-200mg-barracuda-bar-dark-mint",
+  "name": "Detroit Edible | 200mg Barracuda Bar | Dark Mint",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Barracuda Mint Dark Chocolate Bars are crafted from the highest-quality ingredients. These bars are made from deliciously smooth dark chocolate combined with a burst of fresh mint flavor and the purest distillate from our very own Michigan-made Cannalicious Labs for the smoothest consumption experience to date.",
+  "description_html": "Barracuda Mint Dark Chocolate Bars are crafted from the highest-quality ingredients. These bars are made from deliciously smooth dark chocolate combined with a burst of fresh mint flavor and the purest distillate from our very own Michigan-made Cannalicious Labs for the smoothest consumption experience to date.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d8aaafd7f8126cb8f64f5b558863c574",
+      "alt": "Detroit Edible | 200mg Barracuda Bar | Dark Mint",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-detroit-edible-200mg-barracuda-bar-dark-mint__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-detroit-edible-200mg-barracuda-bar-dark-mint-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.779Z"
+}

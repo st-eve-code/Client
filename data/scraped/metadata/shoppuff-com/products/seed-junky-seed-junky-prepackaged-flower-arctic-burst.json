@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-arctic-burst",
+  "name": "Seed Junky Prepackaged Flower | Arctic Burst",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Arctic Burst hits like a rush of frozen flavor—think blue icee slush with a sweet, fruity twist and a crisp pine finish. The cool sensation lingers on your tongue, leaving a refreshing, almost mouthwatering feeling that keeps you coming back. High in flavor and smooth on the exhale, this strain delivers a balanced, uplifting high that keeps you calm, clear, and locked in. It’s a flavorful escape with a frosty edge.",
+  "description_html": "Arctic Burst hits like a rush of frozen flavor—think blue icee slush with a sweet, fruity twist and a crisp pine finish. The cool sensation lingers on your tongue, leaving a refreshing, almost mouthwatering feeling that keeps you coming back. High in flavor and smooth on the exhale, this strain delivers a balanced, uplifting high that keeps you calm, clear, and locked in. It’s a flavorful escape with a frosty edge.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8f8ba43637d202bb0505eface5797675",
+      "alt": "Seed Junky Prepackaged Flower | Arctic Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-arctic-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-arctic-burst-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.858Z"
+}

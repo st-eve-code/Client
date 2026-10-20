@@ -1,0 +1,55 @@
+{
+  "slug": "jointman-peanut-butter-pie",
+  "name": "Jointman | Peanut Butter Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 80,
+  "currency": "USD",
+  "price_range": "$8.00 – $80.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/edda6becbed3ce5bdffe6475e35ec045",
+      "alt": "Jointman | Peanut Butter Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-peanut-butter-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-peanut-butter-pie-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.467Z"
+}

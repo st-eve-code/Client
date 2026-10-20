@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-donut-blunt-blueberry",
+  "name": "Cali Blaze Donut Blunt | Blueberry",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "1.2G of delicious flavor-filled flower, infused with live resin and capped off with a glass tip.\n\nHeavy hitting, flavor-filled cannabis products to bring that Cali-vibe to your blazing sesh!",
+  "description_html": "1.2G of delicious flavor-filled flower, infused with live resin and capped off with a glass tip.<br /><br />Heavy hitting, flavor-filled cannabis products to bring that Cali-vibe to your blazing sesh!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/171ab6f8749fb89b381479e23d1ab6c7",
+      "alt": "Cali Blaze Donut Blunt | Blueberry",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-donut-blunt-blueberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-donut-blunt-blueberry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.249Z"
+}

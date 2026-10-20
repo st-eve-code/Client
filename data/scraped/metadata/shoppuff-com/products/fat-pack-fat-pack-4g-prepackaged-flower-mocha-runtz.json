@@ -1,0 +1,35 @@
+{
+  "slug": "fat-pack-fat-pack-4g-prepackaged-flower-mocha-runtz",
+  "name": "Fat Pack | 4g Prepackaged Flower | Mocha Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$17.00",
+  "available": true,
+  "vendor": "Fat Pack",
+  "tags": [],
+  "description": "Fat Pack: The Original 4 Gram Eighth – a half gram better. Mocha Runtz, bred from Lemon Cherry Gelato BX2, is a balanced hybrid with euphoric cerebral effects and mellow body relaxation. Its coffee-chocolate aroma with sweet, creamy undertones is enhanced by Caryophyllene, Limonene, and Linalool. Both flavorful and smooth, it’s great for day or night.",
+  "description_html": "Fat Pack: The Original 4 Gram Eighth – a half gram better. Mocha Runtz, bred from Lemon Cherry Gelato BX2, is a balanced hybrid with euphoric cerebral effects and mellow body relaxation. Its coffee-chocolate aroma with sweet, creamy undertones is enhanced by Caryophyllene, Limonene, and Linalool. Both flavorful and smooth, it’s great for day or night.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c17b334301aa4e986a5d1a367ec9ada8",
+      "alt": "Fat Pack | 4g Prepackaged Flower | Mocha Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__fat-pack-fat-pack-4g-prepackaged-flower-mocha-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4g",
+      "price": 17,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fat-pack-fat-pack-4g-prepackaged-flower-mocha-runtz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.594Z"
+}

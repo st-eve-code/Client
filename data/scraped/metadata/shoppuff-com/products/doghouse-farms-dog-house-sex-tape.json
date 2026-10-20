@@ -1,0 +1,60 @@
+{
+  "slug": "doghouse-farms-dog-house-sex-tape",
+  "name": "Dog House | Sex Tape",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$10.00 – $175.00",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "A cross of Jealousy and Pink Lady, this strain offers a sweet, fruity flavor with citrus hints and creamy undertones. The aroma blends fruity notes with subtle earthiness. Dense and frosty buds showcase vibrant greens and purples, making it both visually striking and potent.",
+  "description_html": "A cross of Jealousy and Pink Lady, this strain offers a sweet, fruity flavor with citrus hints and creamy undertones. The aroma blends fruity notes with subtle earthiness. Dense and frosty buds showcase vibrant greens and purples, making it both visually striking and potent.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bad752fa3509eb6d95a82943c353dd3d",
+      "alt": "Dog House | Sex Tape",
+      "local": "data\\scraped\\images\\shoppuff-com__doghouse-farms-dog-house-sex-tape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doghouse-farms-dog-house-sex-tape-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.705Z"
+}

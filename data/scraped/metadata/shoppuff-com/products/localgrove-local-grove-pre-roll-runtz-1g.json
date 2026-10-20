@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-pre-roll-runtz-1g",
+  "name": "Local Grove Pre-Roll | Runtz | 1G",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Zkittlez x Gelato #33 \n\nBreeder: Unknown \n\nAroma & Flavor: Candy-like with sweet gas, tropical and earthy undertones \n\nEffects: Balanced hybrid – euphoric, flavorful, and relaxing",
+  "description_html": "Genetics: Zkittlez x Gelato #33 <br /><br />Breeder: Unknown <br /><br />Aroma & Flavor: Candy-like with sweet gas, tropical and earthy undertones <br /><br />Effects: Balanced hybrid – euphoric, flavorful, and relaxing",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/061b806aa3cdf695a94cf61f2e32212c",
+      "alt": "Local Grove Pre-Roll | Runtz | 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-pre-roll-runtz-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-pre-roll-runtz-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.725Z"
+}

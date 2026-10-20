@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-quad-infused-preroll-high-tide",
+  "name": "Jeeter Quad Infused Preroll | High Tide",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Meet High Tide - Sativa: a harmonious fusion of Pina Colada and Acai Berry. Enjoy a balanced 50/50 mix of tropical flavors with subtle hints of wood and pine.",
+  "description_html": "Meet High Tide - Sativa: a harmonious fusion of Pina Colada and Acai Berry. Enjoy a balanced 50/50 mix of tropical flavors with subtle hints of wood and pine.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02ba14247cefc5ca3444029207d8525a",
+      "alt": "Jeeter Quad Infused Preroll | High Tide",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-quad-infused-preroll-high-tide__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-quad-infused-preroll-high-tide-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.417Z"
+}

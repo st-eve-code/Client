@@ -1,61 +1,67 @@
 import Image from "next/image";
 import Link from "next/link";
-import { getCategories } from "@/lib/catalog";
-import { CategoryDropdown } from "./CategoryDropdown";
+import { getCategories, getNavSections } from "@/lib/catalog";
+import { CurrencyDropdown } from "./CurrencyDropdown";
 import { MobileNav } from "./MobileNav";
+import { NavMenu } from "./NavMenu";
+import { NavSearch, type SearchCategory } from "./NavSearch";
+import { UspBar } from "./UspBar";
+import { FavouritesNavIcon } from "./FavouritesNavIcon";
+import { CartNavIcon } from "./CartNavIcon";
 
 export async function SiteHeader() {
-  const categories = await getCategories();
-  const quickLinks = [
-    { slug: "e-liquid", label: "E-Liquids" },
-    { slug: "vape-kits", label: "Vape Kits" },
-    { slug: "pod-vape-kits", label: "Pods" },
-    { slug: "coils", label: "Coils" },
-  ]
-    .map((link) => ({
-      ...link,
-      live: categories.some((c) => c.slug === link.slug),
-    }))
-    .filter((link) => link.live);
+  const [categories, menu] = await Promise.all([getCategories(), getNavSections()]);
+
+  const searchCategories: SearchCategory[] = categories.map((category) => ({
+    slug: category.slug,
+    label: category.label,
+    count: category.count,
+  }));
 
   return (
-    <header className="sticky top-0 z-[100] bg-[#080f15]">
-      <div className="container-vapestore">
-        <div className="h-[95px] flex items-center justify-between gap-4">
-          <div className="flex items-center gap-8">
-            <Link href="/" className="flex items-center gap-2">
-              <Image
-                src="/favicon-large.png"
-                alt="Vapestore"
-                width={40}
-                height={40}
-                className="rounded-full"
-                priority
-              />
-              <span className="hidden sm:inline text-white font-bold text-lg tracking-tight">
-                Vapestore
-              </span>
-            </Link>
-            <nav className="hidden md:flex items-center gap-6 text-sm text-white/90">
-              <CategoryDropdown categories={categories} />
-              {quickLinks.map((link) => (
-                <Link
-                  key={link.slug}
-                  href={`/shop/${link.slug}`}
-                  className="hover:text-white transition-colors duration-[var(--duration-base)] ease-[var(--ease-custom-1)]"
-                >
-                  {link.label}
-                </Link>
-              ))}
-            </nav>
-          </div>
-          <div className="flex items-center gap-4 text-white">
-            <span className="text-sm hidden sm:inline">Account</span>
-            <span className="text-sm">{0}</span>
-            <MobileNav categories={categories} />
-          </div>
+    <div className="sticky top-0 z-[100]">
+      <div className="border-b border-[#1f2935] bg-[#111f2a]">
+        <div className="container-vapestore flex items-center justify-center gap-2 py-2">
+          <p className="text-[12px] font-bold text-white">
+            Black Market Friday &mdash; 10% discount with code{" "}
+            <span className="text-[#91f974]">VS10</span>
+          </p>
         </div>
       </div>
-    </header>
+
+      <header className="bg-[#080f15]">
+        <div className="container-vapestore flex items-center justify-between gap-x-4 py-3">
+          <div className="flex min-w-0 shrink-0 items-center gap-2 sm:gap-4">
+            <MobileNav categories={categories} />
+            <Link href="/" className="flex items-center gap-2.5">
+              <Image
+                src="/noface.png"
+                alt="nofacetrap"
+                width={60}
+                height={60}
+                className="h-11 w-11 rounded-full sm:h-[60px] sm:w-[60px]"
+                priority
+              />
+              <span className="font-display hidden text-2xl font-extrabold text-white sm:inline">
+                nofacetrap
+              </span>
+            </Link>
+          </div>
+
+          <NavSearch categories={searchCategories} />
+
+          <div className="flex shrink-0 items-center gap-4">
+            <CurrencyDropdown />
+            <div aria-hidden="true" className="h-9 w-px bg-[#1b374c]" />
+            <FavouritesNavIcon />
+            <CartNavIcon />
+          </div>
+        </div>
+
+        <NavMenu menu={menu} />
+      </header>
+
+      <UspBar />
+    </div>
   );
 }

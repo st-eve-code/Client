@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-cannabis-handroll-jackknife",
+  "name": "Jacknife | 1.2 G Handcraft",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Jackknife | 1.2G Handcraft | HYMAN | REC \nThe HYMAN 1.2G Handcraft is a next-level pre-roll designed for those who appreciate true flower integrity. Rolled exclusively with a single, intact nug of premium HYMAN flower, each Handcraft maintains maximum flavor and potency. Finished with a glass tip and H2O brushed for a smooth, even burn, this is a thoughtfully engineered smoke from start to finish. \nOne nug. One roll. \nCrafted to stand apart. \nStrain Type: Sativa \nAromas: Sweet, Creamy, Earthy \nFlavors: Citrus, Orange, Vanilla \nExperience: Creative, Uplifting, Mellow",
+  "description_html": "Jackknife | 1.2G Handcraft | HYMAN | REC <br />The HYMAN 1.2G Handcraft is a next-level pre-roll designed for those who appreciate true flower integrity. Rolled exclusively with a single, intact nug of premium HYMAN flower, each Handcraft maintains maximum flavor and potency. Finished with a glass tip and H2O brushed for a smooth, even burn, this is a thoughtfully engineered smoke from start to finish. <br />One nug. One roll. <br />Crafted to stand apart. <br />Strain Type: Sativa <br />Aromas: Sweet, Creamy, Earthy <br />Flavors: Citrus, Orange, Vanilla <br />Experience: Creative, Uplifting, Mellow<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a801d5d286ca74ea78507bcabd948e23",
+      "alt": "Jacknife | 1.2 G Handcraft",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-cannabis-handroll-jackknife__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-cannabis-handroll-jackknife-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.195Z"
+}

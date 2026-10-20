@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-white-raspberry-original-pod-1g",
+  "name": "White Raspberry Original Pod | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "White Raspberry is an indica with a vibrant sensory profile. It showcases raspberry and tropical notes.",
+  "description_html": "White Raspberry is an indica with a vibrant sensory profile. It showcases raspberry and tropical notes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9dc0544e66e530c52313685021fda919",
+      "alt": "White Raspberry Original Pod | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-white-raspberry-original-pod-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-white-raspberry-original-pod-1g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.869Z"
+}

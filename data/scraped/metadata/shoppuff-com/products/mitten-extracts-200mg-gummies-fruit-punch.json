@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-200mg-gummies-fruit-punch",
+  "name": "Mitten Extracts | 200mg Gummies | Fruit Punch",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "A vibrant medley of tropical and orchard fruits bursting with flavor. Sweet, tangy, and irresistibly bold—this one’s a party in every bite.",
+  "description_html": "A vibrant medley of tropical and orchard fruits bursting with flavor. Sweet, tangy, and irresistibly bold—this one’s a party in every bite.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6cce7e33cf4785fcd0bddefec1c86807",
+      "alt": "Mitten Extracts | 200mg Gummies | Fruit Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-200mg-gummies-fruit-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-200mg-gummies-fruit-punch-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.074Z"
+}

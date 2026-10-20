@@ -1,0 +1,35 @@
+{
+  "slug": "apollo-apollo-200mg-chocolate-bar-milk-chocolate",
+  "name": "Apollo | 200mg Chocolate Bar | Milk Chocolate",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Apollo",
+  "tags": [],
+  "description": "Cannabis chocolates are popular because the dominant chocolate flavor overpowers the \"green\" taste you may find in other edibles. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "description_html": "Cannabis chocolates are popular because the dominant chocolate flavor overpowers the \"green\" taste you may find in other edibles. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/69bec003c0a66c637bac31404b7a46a0",
+      "alt": "Apollo | 200mg Chocolate Bar | Milk Chocolate",
+      "local": "data\\scraped\\images\\shoppuff-com__apollo-apollo-200mg-chocolate-bar-milk-chocolate__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.2g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/apollo-apollo-200mg-chocolate-bar-milk-chocolate-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.166Z"
+}

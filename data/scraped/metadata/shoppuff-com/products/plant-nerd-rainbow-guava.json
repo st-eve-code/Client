@@ -1,0 +1,60 @@
+{
+  "slug": "plant-nerd-rainbow-guava",
+  "name": "Plant Nerd | Rainbow Guava",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "The cross is Rainbow Belts x Strawberry Guava by Bloom Seed Co. We’re growing Rainbow Guava because we wanted a strain that combined loud tropical fruit terps with strong bag appeal and dense trichome coverage. Rainbow Guava has vibrant green and purple buds stacked with bright orange hairs and coated in golden-white trichomes throughout. The nose is packed with sweet strawberry, ripe guava, pineapple, and subtle floral spice that carries over directly into the flavor. It’s a flavorful, eye-catching strain with a balanced hybrid high and some of the best tropical candy terps in our lineup.",
+  "description_html": "The cross is Rainbow Belts x Strawberry Guava by Bloom Seed Co. We’re growing Rainbow Guava because we wanted a strain that combined loud tropical fruit terps with strong bag appeal and dense trichome coverage. Rainbow Guava has vibrant green and purple buds stacked with bright orange hairs and coated in golden-white trichomes throughout. The nose is packed with sweet strawberry, ripe guava, pineapple, and subtle floral spice that carries over directly into the flavor. It’s a flavorful, eye-catching strain with a balanced hybrid high and some of the best tropical candy terps in our lineup.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4802137cb2add3dc30eac9f4c36b8d5f",
+      "alt": "Plant Nerd | Rainbow Guava",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-rainbow-guava__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-rainbow-guava-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.513Z"
+}

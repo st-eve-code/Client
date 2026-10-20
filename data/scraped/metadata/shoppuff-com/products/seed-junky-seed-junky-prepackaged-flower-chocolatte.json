@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-chocolatte",
+  "name": "Seed Junky Prepackaged Flower | Chocolatte",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Seed Junky Chocolatte eighth is a rich and indulgent smoke that lives up to its dessert-inspired name. The aroma greets you with deep notes of cocoa, roasted coffee, and sweet earth, underscored by a hint of creamy vanilla. On the palate, it delivers a smooth blend of mocha and subtle spice, with a velvety texture that lingers on the exhale. The experience is equally balanced—beginning with an uplifting cerebral buzz that enhances mood and creativity, followed by a warm, soothing body relaxation that makes it ideal for day-to-evening enjoyment.",
+  "description_html": "Seed Junky Chocolatte eighth is a rich and indulgent smoke that lives up to its dessert-inspired name. The aroma greets you with deep notes of cocoa, roasted coffee, and sweet earth, underscored by a hint of creamy vanilla. On the palate, it delivers a smooth blend of mocha and subtle spice, with a velvety texture that lingers on the exhale. The experience is equally balanced—beginning with an uplifting cerebral buzz that enhances mood and creativity, followed by a warm, soothing body relaxation that makes it ideal for day-to-evening enjoyment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ab0720f75d69a89889681613c11ef30c",
+      "alt": "Seed Junky Prepackaged Flower | Chocolatte",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-chocolatte__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-chocolatte-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.659Z"
+}

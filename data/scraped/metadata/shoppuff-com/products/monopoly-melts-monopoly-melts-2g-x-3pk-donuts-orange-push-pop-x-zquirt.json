@@ -1,0 +1,35 @@
+{
+  "slug": "monopoly-melts-monopoly-melts-2g-x-3pk-donuts-orange-push-pop-x-zquirt",
+  "name": "Monopoly Melts | 2g x 3pk Donuts | Orange Push Pop x Zquirt",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 100,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$100.00",
+  "available": true,
+  "vendor": "Monopoly Melts",
+  "tags": [],
+  "description": "ProGro Collab\n1.5G Orange Push Pop Flower x .5G Zquirt x3",
+  "description_html": "ProGro Collab<br />1.5G Orange Push Pop Flower x .5G Zquirt x3",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4663738b02647d07e29c1a31cca7d2d9",
+      "alt": "Monopoly Melts | 2g x 3pk Donuts | Orange Push Pop x Zquirt",
+      "local": "data\\scraped\\images\\shoppuff-com__monopoly-melts-monopoly-melts-2g-x-3pk-donuts-orange-push-pop-x-zquirt__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.0g",
+      "price": 100,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/monopoly-melts-monopoly-melts-2g-x-3pk-donuts-orange-push-pop-x-zquirt-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.897Z"
+}

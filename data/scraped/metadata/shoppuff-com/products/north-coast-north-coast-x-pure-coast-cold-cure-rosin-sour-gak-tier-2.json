@@ -1,0 +1,35 @@
+{
+  "slug": "north-coast-north-coast-x-pure-coast-cold-cure-rosin-sour-gak-tier-2",
+  "name": "North Coast x Pure Coast Cold Cure Rosin | Sour Gak (Tier 2)",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "North Coast",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "North Coast x Pure Coast Cold Cure Rosin | Sour Gak (Tier 2)",
+      "local": "data\\scraped\\images\\shoppuff-com__north-coast-north-coast-x-pure-coast-cold-cure-rosin-sour-gak-tier-2__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/north-coast-north-coast-x-pure-coast-cold-cure-rosin-sour-gak-tier-2-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.830Z"
+}

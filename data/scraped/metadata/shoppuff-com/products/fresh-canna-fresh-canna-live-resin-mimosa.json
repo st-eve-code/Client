@@ -1,0 +1,40 @@
+{
+  "slug": "fresh-canna-fresh-canna-live-resin-mimosa",
+  "name": "Fresh Canna Live Resin | Mimosa",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 9,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$9.00 – $30.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Wake up your senses with Fresh Canna’s Live Resin Wax – Mimosa, a vibrant, citrus-packed sativa-hybrid that delivers a smooth balance of energy, euphoria, and relaxation. Crafted from fresh-frozen cannabis, this terpene-rich extract preserves the full flavor and potency for an elevated dabbing experience. Bursting with sweet orange, zesty citrus, and subtle tropical undertones, Mimosa delivers an uplifting cerebral buzz that enhances focus, creativity, and mood. As the effects settle, a gentle body relaxation kicks in, making it perfect for daytime sessions, social events, or creative bursts.",
+  "description_html": "Wake up your senses with Fresh Canna’s Live Resin Wax – Mimosa, a vibrant, citrus-packed sativa-hybrid that delivers a smooth balance of energy, euphoria, and relaxation. Crafted from fresh-frozen cannabis, this terpene-rich extract preserves the full flavor and potency for an elevated dabbing experience. Bursting with sweet orange, zesty citrus, and subtle tropical undertones, Mimosa delivers an uplifting cerebral buzz that enhances focus, creativity, and mood. As the effects settle, a gentle body relaxation kicks in, making it perfect for daytime sessions, social events, or creative bursts.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8ab044a4f9ca086405bc1ad14c713174",
+      "alt": "Fresh Canna Live Resin | Mimosa",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-live-resin-mimosa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-live-resin-mimosa-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.261Z"
+}

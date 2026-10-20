@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-cannabis-handroll-honolulu-punch",
+  "name": "Hyman Cannabis Handroll | Honolulu Punch",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Hybrid\n\nFlavors: Blueberry, Citrus, Sweet, Grape\n\nAromas: Sweet, Tropical, Vanilla\n\nExperience: Energizing, Uplifting, Relaxing",
+  "description_html": "Strain Type: Hybrid<br /><br />Flavors: Blueberry, Citrus, Sweet, Grape<br /><br />Aromas: Sweet, Tropical, Vanilla<br /><br />Experience: Energizing, Uplifting, Relaxing",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/38e74a8486213da3dd89a9b998ca0da2",
+      "alt": "Hyman Cannabis Handroll | Honolulu Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-cannabis-handroll-honolulu-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-cannabis-handroll-honolulu-punch-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.944Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-barracuda-bertha-cannabis-cups-peanut-butter",
+  "name": "Barracuda Bertha Cannabis Cups – Peanut Butter",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "There's big, bigger and, then, Bertha. These delicious Belgian chocolate cups are filled with peanut butter and infused with a potent 100mg THC per cup. Two Bertha cups per pack and fully activates in 1-2 hours.",
+  "description_html": "There's big, bigger and, then, Bertha. These delicious Belgian chocolate cups are filled with peanut butter and infused with a potent 100mg THC per cup. Two Bertha cups per pack and fully activates in 1-2 hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/57aff24b5f0a9a669298db3b2f1ca7a5",
+      "alt": "Barracuda Bertha Cannabis Cups – Peanut Butter",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-barracuda-bertha-cannabis-cups-peanut-butter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.59g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-barracuda-bertha-cannabis-cups-peanut-butter-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.609Z"
+}

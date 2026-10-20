@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-rso-dart-rest",
+  "name": "Cannalicious RSO Dart | Rest",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Named after a Canadian medical marijuana activist, Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most holistic cannabis concentrate available. Rest RSO has a delightful berry flavor and is full of THC, CBD, CBN and a heavy indica terpene profile designed to help you fall asleep faster and stay asleep longer. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes.",
+  "description_html": "Named after a Canadian medical marijuana activist, Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most holistic cannabis concentrate available. Rest RSO has a delightful berry flavor and is full of THC, CBD, CBN and a heavy indica terpene profile designed to help you fall asleep faster and stay asleep longer. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1d763696dd0904e09c96150eed782f52",
+      "alt": "Cannalicious RSO Dart | Rest",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-rso-dart-rest__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-rso-dart-rest-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.717Z"
+}

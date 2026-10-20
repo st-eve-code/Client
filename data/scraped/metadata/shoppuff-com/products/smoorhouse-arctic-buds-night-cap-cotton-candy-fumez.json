@@ -1,0 +1,60 @@
+{
+  "slug": "smoorhouse-arctic-buds-night-cap-cotton-candy-fumez",
+  "name": "Smoorhouse | Arctic Buds | Night Cap Cotton Candy Fumez",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 250,
+  "currency": "USD",
+  "price_range": "$15.00 – $250.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Smoorhouse | Arctic Buds | Night Cap Cotton Candy Fumez",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-arctic-buds-night-cap-cotton-candy-fumez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 250,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-arctic-buds-night-cap-cotton-candy-fumez-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.629Z"
+}

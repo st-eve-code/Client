@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-pre-roll-mendo-breath",
+  "name": "Top Smoke Pre-Roll | Mendo Breath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "1G Pre-Roll",
+  "description_html": "1G Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/57428b7412af03b36cfa97e47ba2e8b5",
+      "alt": "Top Smoke Pre-Roll | Mendo Breath",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-pre-roll-mendo-breath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-pre-roll-mendo-breath-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.426Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "north-coast-north-coast-x-pressure-pack-x-heavy-trichome-solventless-snow-cone-gummy-runtz",
+  "name": "North Coast x Pressure Pack x Heavy Trichome Solventless Snow Cone | Gummy Runtz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "North Coast",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "North Coast x Pressure Pack x Heavy Trichome Solventless Snow Cone | Gummy Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__north-coast-north-coast-x-pressure-pack-x-heavy-trichome-solventless-snow-cone-gummy-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/north-coast-north-coast-x-pressure-pack-x-heavy-trichome-solventless-snow-cone-gummy-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.880Z"
+}

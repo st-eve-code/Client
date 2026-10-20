@@ -1,0 +1,35 @@
+{
+  "slug": "platinum-vape-2g-palm-disposable-raspberry-riptide",
+  "name": "Platinum Vape | 2g PALM Disposable | Raspberry Riptide",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Platinum Vape",
+  "tags": [],
+  "description": "Platinum Vape Palm 2g MAX AIO Disposable\n\nOn/Off: Press the button 5x quickly\n\nPreheat 5 Seconds: Press the button 2x quickly\n\nAdjust Device Voltage: Press the button 3x quickly (2.0v - 3.0v - 3.3v)",
+  "description_html": "Platinum Vape Palm 2g MAX AIO Disposable<br /><br />On/Off: Press the button 5x quickly<br /><br />Preheat 5 Seconds: Press the button 2x quickly<br /><br />Adjust Device Voltage: Press the button 3x quickly (2.0v - 3.0v - 3.3v)",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8df72b93239d0b7335fd289e849d10f5",
+      "alt": "Platinum Vape | 2g PALM Disposable | Raspberry Riptide",
+      "local": "data\\scraped\\images\\shoppuff-com__platinum-vape-2g-palm-disposable-raspberry-riptide__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/platinum-vape-2g-palm-disposable-raspberry-riptide-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.486Z"
+}

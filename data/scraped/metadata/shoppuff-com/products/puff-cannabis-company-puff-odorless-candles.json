@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-odorless-candles",
+  "name": "Puff | Odorless Candles",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Smoke odor candle. \nVariety of scents.",
+  "description_html": "Smoke odor candle. <br />Variety of scents.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/44108b71df326a5f6e4dee32782ff617",
+      "alt": "Puff | Odorless Candles",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-odorless-candles__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-odorless-candles-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.205Z"
+}

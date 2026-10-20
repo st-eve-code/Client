@@ -1,0 +1,35 @@
+{
+  "slug": "blume-blume-1-25g-hand-roll-garys-marker",
+  "name": "Blume | 1.25g Hand Roll | Gary's Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "BLUME",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bbc616be86d7aa253b5eb271926baa5b",
+      "alt": "Blume | 1.25g Hand Roll | Gary's Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__blume-blume-1-25g-hand-roll-garys-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/blume-blume-1-25g-hand-roll-garys-marker-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.833Z"
+}

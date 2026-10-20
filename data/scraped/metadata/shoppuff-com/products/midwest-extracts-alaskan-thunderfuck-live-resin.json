@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-alaskan-thunderfuck-live-resin",
+  "name": "Alaskan Thunderfuck Live Resin",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "5 grams premium live resin\n\nStrain Dominance: Sativa-dominant\n\nLineage: Unknown Sativa X Afghani X Unknown Ruderalis\n\nDominant Terpenes: Myrcene, Caryophyllene, Limonene",
+  "description_html": "5 grams premium live resin<br /><br />Strain Dominance: Sativa-dominant<br /><br />Lineage: Unknown Sativa X Afghani X Unknown Ruderalis<br /><br />Dominant Terpenes:  Myrcene, Caryophyllene, Limonene",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3b6de1b2e79be28697a7ed70c7cf1d60",
+      "alt": "Alaskan Thunderfuck Live Resin",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-alaskan-thunderfuck-live-resin__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-alaskan-thunderfuck-live-resin-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.783Z"
+}

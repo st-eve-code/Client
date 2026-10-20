@@ -1,0 +1,60 @@
+{
+  "slug": "peninsula-gardens-mocha-runtz",
+  "name": "Peninsula Gardens | Mocha Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "A Runtz BX from Seed Junky. Candy like you’d expect from any good Runtz cross, but has an extra kick of gas.",
+  "description_html": "A Runtz BX from Seed Junky. Candy like you’d expect from any good Runtz cross, but has an extra kick of gas.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3e0cbb95fb2b00798727655d04bac273",
+      "alt": "Peninsula Gardens | Mocha Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-mocha-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-mocha-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.573Z"
+}

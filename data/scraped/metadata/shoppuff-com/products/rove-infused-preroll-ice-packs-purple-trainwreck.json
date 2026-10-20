@@ -1,0 +1,35 @@
+{
+  "slug": "rove-infused-preroll-ice-packs-purple-trainwreck",
+  "name": "Purple Trainwreck - Infused Ice Packs (Rosin, Hash, and Diamonds) 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "Enjoy an unbeatable combination of deep relaxation and cerebral buzz - perfect for chill evenings, creative sessions, stress relief, or just a great time.",
+  "description_html": "Enjoy an unbeatable combination of deep relaxation and cerebral buzz - perfect for chill evenings, creative sessions, stress relief, or just a great time.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2a71627bc7f82346f6dc0faed31b0b99",
+      "alt": "Purple Trainwreck - Infused Ice Packs (Rosin, Hash, and Diamonds) 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-infused-preroll-ice-packs-purple-trainwreck__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-infused-preroll-ice-packs-purple-trainwreck-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.076Z"
+}

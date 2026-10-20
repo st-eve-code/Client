@@ -1,0 +1,35 @@
+{
+  "slug": "dragonfly-dragonfly-pre-roll-gym-bag",
+  "name": "Dragonfly Pre-roll | Gym Bag",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1,
+  "price_max": 1,
+  "currency": "USD",
+  "price_range": "$1.00",
+  "available": true,
+  "vendor": "Dragonfly",
+  "tags": [],
+  "description": "1g Pre-Roll",
+  "description_html": "1g Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d32874598cc3f4207c1d55f5cbf74f5b",
+      "alt": "Dragonfly Pre-roll | Gym Bag",
+      "local": "data\\scraped\\images\\shoppuff-com__dragonfly-dragonfly-pre-roll-gym-bag__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dragonfly-dragonfly-pre-roll-gym-bag-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.238Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-live-resin-blue-runtz",
+  "name": "Jointman Live Resin | Blue Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a70f87f261239661b1d5f249499c795",
+      "alt": "Jointman Live Resin | Blue Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-live-resin-blue-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-live-resin-blue-runtz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.715Z"
+}

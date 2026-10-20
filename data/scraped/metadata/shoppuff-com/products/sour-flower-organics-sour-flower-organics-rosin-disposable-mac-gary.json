@@ -1,0 +1,35 @@
+{
+  "slug": "sour-flower-organics-sour-flower-organics-rosin-disposable-mac-gary",
+  "name": "Sour Flower Organics Rosin Disposable | MAC Gary",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Sour Flower Organics",
+  "tags": [],
+  "description": ".5g Rosin Disposable",
+  "description_html": ".5g Rosin Disposable",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/vaporizers.jpg",
+      "alt": "Sour Flower Organics Rosin Disposable | MAC Gary",
+      "local": "data\\scraped\\images\\shoppuff-com__sour-flower-organics-sour-flower-organics-rosin-disposable-mac-gary__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".5g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sour-flower-organics-sour-flower-organics-rosin-disposable-mac-gary-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.667Z"
+}

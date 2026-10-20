@@ -1,0 +1,35 @@
+{
+  "slug": "mary-jones-mary-jones-100mg-soda-zero-sugar-berry-lemonade",
+  "name": "Mary Jones | 100mg Soda | Zero Sugar Berry Lemonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mary Jones",
+  "tags": [],
+  "description": "Craving that crisp cola taste without all the calories? Mary Jones Zero Berry Lemonade 100 mg has all the Lemonade goodness, none of the sugar, and a 100 mg kick. Perfect for when you want a guilt-free lift. Get the ultimate sugar-free Berry Lemonade experience with a stronger punch. Mary Jones Zero Berry Lemonade packs the same iconic cola taste, so you can enjoy more of what you love with zero compromise.",
+  "description_html": "Craving that crisp cola taste without all the calories? Mary Jones Zero Berry Lemonade 100 mg has all the Lemonade goodness, none of the sugar, and a 100 mg kick. Perfect for when you want a guilt-free lift. Get the ultimate sugar-free Berry Lemonade experience with a stronger punch. Mary Jones Zero Berry Lemonade packs the same iconic cola taste, so you can enjoy more of what you love with zero compromise.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/86d74a8eda25544b74d6c9be8d50c834",
+      "alt": "Mary Jones | 100mg Soda | Zero Sugar Berry Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__mary-jones-mary-jones-100mg-soda-zero-sugar-berry-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "12.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mary-jones-mary-jones-100mg-soda-zero-sugar-berry-lemonade-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.114Z"
+}

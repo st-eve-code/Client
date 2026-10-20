@@ -1,0 +1,35 @@
+{
+  "slug": "lightsky-farms-light-sky-farms-pre-roll-perfect-triangle",
+  "name": "Perfect Triangle Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "LightSky Farms",
+  "tags": [],
+  "description": "One gram Pre-Rolls packed with quality flower that has been spoon-fed and grown in-house at their facility. Their pre-rolls come in a variety of flavorful, unique strains.",
+  "description_html": "One gram Pre-Rolls packed with quality flower that has been spoon-fed and grown in-house at their facility. Their pre-rolls come in a variety of flavorful, unique strains. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/49300f4513a49b01f4b0fcff9e5081fd",
+      "alt": "Perfect Triangle Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__lightsky-farms-light-sky-farms-pre-roll-perfect-triangle__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/lightsky-farms-light-sky-farms-pre-roll-perfect-triangle-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.978Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "gold-crown-gold-crown-x-dog-house-crumble-crunch-berriez",
+  "name": "Gold Crown x Dog House Crumble | Crunch Berriez",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gold Crown",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Gold Crown x Dog House Crumble | Crunch Berriez",
+      "local": "data\\scraped\\images\\shoppuff-com__gold-crown-gold-crown-x-dog-house-crumble-crunch-berriez__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gold-crown-gold-crown-x-dog-house-crumble-crunch-berriez-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.728Z"
+}

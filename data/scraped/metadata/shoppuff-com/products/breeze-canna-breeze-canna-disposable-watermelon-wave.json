@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-breeze-canna-disposable-watermelon-wave",
+  "name": "Breeze Canna Disposable | Watermelon Wave",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "A slice of sweet and fresh ripe watermelon in every puff.\n\nEuphoric, sleepy, Relaxed.",
+  "description_html": "A slice of sweet and fresh ripe watermelon in every puff.<br /><br />Euphoric, sleepy, Relaxed.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4e8b90293b040dc400568206037d6f88",
+      "alt": "Breeze Canna Disposable | Watermelon Wave",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-breeze-canna-disposable-watermelon-wave__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-breeze-canna-disposable-watermelon-wave-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.587Z"
+}

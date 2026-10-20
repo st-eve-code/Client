@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-cannabis-co-preroll-wedding-cake",
+  "name": "Puff Cannabis Co. Preroll | Wedding Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dbfeb8007c4402ff36412100c12f8bf9",
+      "alt": "Puff Cannabis Co. Preroll | Wedding Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-cannabis-co-preroll-wedding-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-cannabis-co-preroll-wedding-cake-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.280Z"
+}

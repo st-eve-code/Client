@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-pre-roll-z-animals",
+  "name": "Flower Power Cannabis Pre-Roll | Z Animals",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "Runtz x Animal Mints | Indica-Dominant Hybrid\n\n1G Preroll of our brand new Z Animals. Made with 100% premium flower.",
+  "description_html": "Runtz x Animal Mints | Indica-Dominant Hybrid<br /><br />1G Preroll of our brand new Z Animals. Made with 100% premium flower.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3f9953d394418dd7b9819f330d0c71c3",
+      "alt": "Flower Power Cannabis Pre-Roll | Z Animals",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-pre-roll-z-animals__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-pre-roll-z-animals-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.266Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "nura-nura-marshmellow-og",
+  "name": "Nura | Marshmellow OG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "We’ve always strived to do one thing: make everyone happy with what they’re smoking. We aspire to be peoples go-to brand for all their smoking needs. Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "description_html": "We’ve always strived to do one thing: make everyone happy with what they’re smoking. We aspire to be peoples go-to brand for all their smoking needs. Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1e8d363980a6be57752251a5972fc2c0",
+      "alt": "Nura | Marshmellow OG",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-nura-marshmellow-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-nura-marshmellow-og-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.421Z"
+}

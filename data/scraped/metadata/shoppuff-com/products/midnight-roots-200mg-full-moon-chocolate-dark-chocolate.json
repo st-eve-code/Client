@@ -1,0 +1,35 @@
+{
+  "slug": "midnight-roots-200mg-full-moon-chocolate-dark-chocolate",
+  "name": "Midnight Roots | 200mg Full Moon Chocolate | Dark Chocolate",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Midnight Roots",
+  "tags": [],
+  "description": "Handcrafted Artisan top shelf chocolate. 70% cacao dark chocolate\n\nVelvety smooth, Rich, and Decadent Dark Chocolate.\n\n200mg Chocolate",
+  "description_html": "Handcrafted Artisan top shelf chocolate. 70% cacao dark chocolate<br /><br />Velvety smooth, Rich, and Decadent Dark Chocolate.<br /><br />200mg Chocolate",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4605b4c0b34780779329a17f6a0046a6",
+      "alt": "Midnight Roots | 200mg Full Moon Chocolate | Dark Chocolate",
+      "local": "data\\scraped\\images\\shoppuff-com__midnight-roots-200mg-full-moon-chocolate-dark-chocolate__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.45g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midnight-roots-200mg-full-moon-chocolate-dark-chocolate-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.998Z"
+}

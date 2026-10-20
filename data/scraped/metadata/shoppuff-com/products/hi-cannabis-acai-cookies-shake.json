@@ -1,0 +1,35 @@
+{
+  "slug": "hi-cannabis-acai-cookies-shake",
+  "name": "Hi Cannabis | Acai Cookies (Shake)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 19,
+  "price_max": 19,
+  "currency": "USD",
+  "price_range": "$19.00",
+  "available": true,
+  "vendor": "Hi Cannabis",
+  "tags": [],
+  "description": "The profile opens with a rush of gas and sweet floral haze, quickly giving way to deep grape gas layered with subtle creamy warmth. Hints of earthy pine and soft spice form the body, grounding the sweetness with dense, resinous weight. A cool menthol trace closes the finish, leaving a clean, fuel-rich depth that defines its gas-heavy, earth-anchored character.",
+  "description_html": "The profile opens with a rush of gas and sweet floral haze, quickly giving way to deep grape gas layered with subtle creamy warmth. Hints of earthy pine and soft spice form the body, grounding the sweetness with dense, resinous weight. A cool menthol trace closes the finish, leaving a clean, fuel-rich depth that defines its gas-heavy, earth-anchored character.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a61ceab44d99105232d74a7e1f7279a3",
+      "alt": "Hi Cannabis | Acai Cookies (Shake)",
+      "local": "data\\scraped\\images\\shoppuff-com__hi-cannabis-acai-cookies-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 19,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hi-cannabis-acai-cookies-shake-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.824Z"
+}

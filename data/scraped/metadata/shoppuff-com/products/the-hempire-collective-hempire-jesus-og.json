@@ -1,0 +1,60 @@
+{
+  "slug": "the-hempire-collective-hempire-jesus-og",
+  "name": "Hempire | Jesus OG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$10.00 – $175.00",
+  "available": true,
+  "vendor": "The Hempire Collective",
+  "tags": [],
+  "description": "The high is quite similar to how you would feel if someone punched you in the face, or maybe not. But you will feel something quite similar to say the least. You will experience a body and head rush that is mostly followed by confused thoughts and paralyzing spaciness. Additionally, you will feel energetic, which may feel strange at first, but it will last for quite some time. Its heavy effects will eventually relax your body and mind. You will also be able to function much more effectively and will feel clear headed, which is something to look forward to.",
+  "description_html": "The high is quite similar to how you would feel if someone punched you in the face, or maybe not. But you will feel something quite similar to say the least. You will experience a body and head rush that is mostly followed by confused thoughts and paralyzing spaciness. Additionally, you will feel energetic, which may feel strange at first, but it will last for quite some time. Its heavy effects will eventually relax your body and mind. You will also be able to function much more effectively and will feel clear headed, which is something to look forward to.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c65ff5c89c515dd99051a15d36cef0b7",
+      "alt": "Hempire | Jesus OG",
+      "local": "data\\scraped\\images\\shoppuff-com__the-hempire-collective-hempire-jesus-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-hempire-collective-hempire-jesus-og-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.743Z"
+}

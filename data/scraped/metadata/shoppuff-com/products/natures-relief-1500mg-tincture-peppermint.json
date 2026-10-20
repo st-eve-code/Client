@@ -1,0 +1,35 @@
+{
+  "slug": "natures-relief-1500mg-tincture-peppermint",
+  "name": "Nature's Relief | 1500mg Tincture | Peppermint",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Nature's Relief",
+  "tags": [],
+  "description": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "description_html": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Nature's Relief | 1500mg Tincture | Peppermint",
+      "local": "data\\scraped\\images\\shoppuff-com__natures-relief-1500mg-tincture-peppermint__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.62g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/natures-relief-1500mg-tincture-peppermint-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.464Z"
+}

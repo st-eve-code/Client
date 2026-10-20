@@ -1,0 +1,35 @@
+{
+  "slug": "mojo-200mg-chocolate-milk-chocolate-bites",
+  "name": "Mojo | 200mg Chocolate | Milk Chocolate Bites",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mojo",
+  "tags": [],
+  "description": "Look no further milk chocolate fans... Mojo's got what your looking for! These milk chocolate bites are silky, smooth and perfectly balanced. Infused with premium, high-potency distillate, pick these up today and dare yourself NOT to eat the whole bag!",
+  "description_html": "Look no further milk chocolate fans... Mojo's got what your looking for! These milk chocolate bites are silky, smooth and perfectly balanced. Infused with premium, high-potency distillate, pick these up today and dare yourself NOT to eat the whole bag!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/419b6109549021eba5ea73aacb4cefa6",
+      "alt": "Mojo | 200mg Chocolate | Milk Chocolate Bites",
+      "local": "data\\scraped\\images\\shoppuff-com__mojo-200mg-chocolate-milk-chocolate-bites__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.0g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mojo-200mg-chocolate-milk-chocolate-bites-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.090Z"
+}

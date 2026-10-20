@@ -1,0 +1,60 @@
+{
+  "slug": "mitten-canna-co-kool-aid-cobbler",
+  "name": "Mitten Canna Co | Kool-Aid Cobbler",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 180,
+  "currency": "USD",
+  "price_range": "$9.00 – $180.00",
+  "available": true,
+  "vendor": "Mitten Canna Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8d084853d94283bd90ad36f11979715a",
+      "alt": "Mitten Canna Co | Kool-Aid Cobbler",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-canna-co-kool-aid-cobbler__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 180,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-canna-co-kool-aid-cobbler-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.878Z"
+}

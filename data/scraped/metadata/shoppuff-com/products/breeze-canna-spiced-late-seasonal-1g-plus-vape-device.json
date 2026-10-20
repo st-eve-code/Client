@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-spiced-late-seasonal-1g-plus-vape-device",
+  "name": "Spiced Late - Seasonal 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Warm up with the comforting taste of a spiced latte, combining rich coffee flavors with a hint of cinnamon and nutmeg.",
+  "description_html": "Warm up with the comforting taste of a spiced latte, combining rich coffee flavors with a hint of cinnamon and nutmeg.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e00241f157bab83975f00090d0c9d037",
+      "alt": "Spiced Late - Seasonal 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-spiced-late-seasonal-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-spiced-late-seasonal-1g-plus-vape-device-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.802Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-crumble-pink-cookies",
+  "name": "Cannalicious Crumble | Pink Cookies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Crumble is a cannabis concentrate extracted from cured plant material. While wax and crumble will have similar potencies, compared to the smooth, honey like texture of wax, Crumble has a dry and more brittle appearance. This makes it easier to handle and a bit more versatile for consumption.",
+  "description_html": "Crumble is a cannabis concentrate extracted from cured plant material. While wax and crumble will have similar potencies, compared to the smooth, honey like texture of wax, Crumble has a dry and more brittle appearance. This makes it easier to handle and a bit more versatile for consumption.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0f0f64dc2ef4d108bd5176a6b7ec3436",
+      "alt": "Cannalicious Crumble | Pink Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-crumble-pink-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-crumble-pink-cookies-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.409Z"
+}

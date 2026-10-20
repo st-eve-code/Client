@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-high-tide-jeeter-infused-pre-roll-1g",
+  "name": "High Tide Jeeter Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6.5,
+  "price_max": 6.5,
+  "currency": "USD",
+  "price_range": "$6.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Meet High Tide - Sativa: a harmonious fusion of Pina Colada and Acai Berry. Enjoy a balanced 50/50 mix of tropical flavors with subtle hints of wood and pine.",
+  "description_html": "Meet High Tide - Sativa: a harmonious fusion of Pina Colada and Acai Berry. Enjoy a balanced 50/50 mix of tropical flavors with subtle hints of wood and pine.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02ba14247cefc5ca3444029207d8525a",
+      "alt": "High Tide Jeeter Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-high-tide-jeeter-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-high-tide-jeeter-infused-pre-roll-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.722Z"
+}

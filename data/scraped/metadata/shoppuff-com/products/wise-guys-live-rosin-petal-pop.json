@@ -1,0 +1,35 @@
+{
+  "slug": "wise-guys-live-rosin-petal-pop",
+  "name": "Wise Guys Live Rosin | Petal Pop",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Craft meets creativity in every jar. Our solventless rosin is stored in Miron violet glass to protect it from light and preserve peak freshness and potency. We produce all rosin in-house, then blend 2 to 6 unique strains into proprietary combinations you won’t find anywhere else. Every jar delivers a new flavor profile—bold, complex, and truly one-of-a-kind.",
+  "description_html": "Craft meets creativity in every jar. Our solventless rosin is stored in Miron violet glass to protect it from light and preserve peak freshness and potency. We produce all rosin in-house, then blend 2 to 6 unique strains into proprietary combinations you won’t find anywhere else. Every jar delivers a new flavor profile—bold, complex, and truly one-of-a-kind.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cda6eea5139d774f8a928bb4e14ff7a3",
+      "alt": "Wise Guys Live Rosin | Petal Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-live-rosin-petal-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-live-rosin-petal-pop-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.608Z"
+}

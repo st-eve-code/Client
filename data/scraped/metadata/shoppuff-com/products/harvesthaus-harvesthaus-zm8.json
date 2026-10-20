@@ -1,0 +1,45 @@
+{
+  "slug": "harvesthaus-harvesthaus-zm8",
+  "name": "Harvesthaus | ZM8",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 95,
+  "currency": "USD",
+  "price_range": "$30.00 – $95.00",
+  "available": true,
+  "vendor": "Harvesthaus",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Harvesthaus | ZM8",
+      "local": "data\\scraped\\images\\shoppuff-com__harvesthaus-harvesthaus-zm8__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 95,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/harvesthaus-harvesthaus-zm8-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.793Z"
+}

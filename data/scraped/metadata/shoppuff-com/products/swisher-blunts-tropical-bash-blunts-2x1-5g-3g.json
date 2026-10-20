@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-blunts-tropical-bash-blunts-2x1-5g-3g",
+  "name": "Tropical Bash Blunts - 2x1.5g - 3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "A vibrant blend of tropical fruits, Swisher Tropical Bash delivers the beach vibe of pineapple, coconut, and an island breeze in every puff.",
+  "description_html": "A vibrant blend of tropical fruits, Swisher Tropical Bash delivers the beach vibe of pineapple, coconut, and an island breeze in every puff.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3929953213accb9af2823dc54983fd3f",
+      "alt": "Tropical Bash Blunts - 2x1.5g - 3g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-blunts-tropical-bash-blunts-2x1-5g-3g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-blunts-tropical-bash-blunts-2x1-5g-3g-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.393Z"
+}

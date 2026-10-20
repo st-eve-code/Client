@@ -1,0 +1,35 @@
+{
+  "slug": "cloverdale-cloverdale-gardens-s-r-t-smalls",
+  "name": "Cloverdale Gardens | S.R.T. Smalls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Cloverdale",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Cloverdale Gardens | S.R.T. Smalls",
+      "local": "data\\scraped\\images\\shoppuff-com__cloverdale-cloverdale-gardens-s-r-t-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloverdale-cloverdale-gardens-s-r-t-smalls-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.420Z"
+}

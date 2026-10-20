@@ -1,0 +1,35 @@
+{
+  "slug": "dixie-200mg-gummies-tropic-twist",
+  "name": "Dixie | 200mg Gummies | Tropic Twist",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Dixie",
+  "tags": [],
+  "description": "Sit back, relax and let our fruity delicious Indica-dominant Tropic Twist gummies ease your mind and take you Caribbean dreaming. Easy to share with your friends at the beach or while stranded by yourself on a desert island.",
+  "description_html": "Sit back, relax and let our fruity delicious Indica-dominant Tropic Twist gummies ease your mind and take you Caribbean dreaming. Easy to share with your friends at the beach or while stranded by yourself on a desert island.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fdfc8bc16a2296f810f3a2a644d0151b",
+      "alt": "Dixie | 200mg Gummies | Tropic Twist",
+      "local": "data\\scraped\\images\\shoppuff-com__dixie-200mg-gummies-tropic-twist__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.185g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dixie-200mg-gummies-tropic-twist-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.002Z"
+}

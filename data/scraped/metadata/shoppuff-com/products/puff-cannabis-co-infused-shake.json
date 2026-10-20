@@ -1,0 +1,45 @@
+{
+  "slug": "puff-cannabis-co-infused-shake",
+  "name": "Puff Cannabis Co. | Infused Shake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12.5,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$12.50 – $50.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "THCA Infused Snow Caps\n\nDried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "THCA Infused Snow Caps<br /><br />Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/233d5e56932ac9c2603d6464eed78584",
+      "alt": "Puff Cannabis Co. | Infused Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-co-infused-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 12.5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-co-infused-shake-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.699Z"
+}

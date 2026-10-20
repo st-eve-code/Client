@@ -1,0 +1,35 @@
+{
+  "slug": "chill-medicated-200mg-syrup-grape",
+  "name": "Chill Medicated | 200mg Syrup | Grape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Chill Medicated",
+  "tags": [],
+  "description": "Dosage: 200mg THC\n\nActivation Time: 15 Minutes - 1 Hours\n\n120ML | 4 FL OZ\n\nPossesses a refreshing fruity Grape taste. Tropical, sweet, and tart.\n\nCarefully crafted by chemists, our nano-emulsified medicated syrup is fast-acting as it is water-soluble. Our syrup is sourced, produced, and tested locally.\n\nLooking for the perfect complement to your favorite beverage? Look no further. Take one teaspoon and ingest under the tongue or dilute with your choice of soda, water, or other beverages. Wait up to 1 hour and increase dosage as necessary to reach desired effects. Store in a cool environment and keep out of direct sunlight to preserve potency and flavor.",
+  "description_html": "Dosage: 200mg THC<br /><br />Activation Time: 15 Minutes - 1 Hours<br /><br />120ML | 4 FL OZ<br /><br />Possesses a refreshing fruity Grape taste. Tropical, sweet, and tart.<br /><br />Carefully crafted by chemists, our nano-emulsified medicated syrup is fast-acting as it is water-soluble. Our syrup is sourced, produced, and tested locally.<br /><br />Looking for the perfect complement to your favorite beverage? Look no further. Take one teaspoon and ingest under the tongue or dilute with your choice of soda, water, or other beverages. Wait up to 1 hour and increase dosage as necessary to reach desired effects. Store in a cool environment and keep out of direct sunlight to preserve potency and flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c2b79f50cc85ba765fcf6ae05386daac",
+      "alt": "Chill Medicated | 200mg Syrup | Grape",
+      "local": "data\\scraped\\images\\shoppuff-com__chill-medicated-200mg-syrup-grape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/chill-medicated-200mg-syrup-grape-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.950Z"
+}

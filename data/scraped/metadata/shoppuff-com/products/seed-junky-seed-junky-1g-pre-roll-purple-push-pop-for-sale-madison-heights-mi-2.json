@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-1g-pre-roll-purple-push-pop-for-sale-madison-heights-mi-2",
+  "name": "Seed Junky | 1g Pre-Roll | Purple Push Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Grapes, candy, hints of gas, Immediately gives a strong head buzz that melts down into your body bringing you in a blissful state. Great for movie nights.",
+  "description_html": "Grapes, candy, hints of gas, Immediately gives a strong head buzz that melts down into your body bringing you in a blissful state. Great for movie nights.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e2b0879f36124af94eb60595e490c988",
+      "alt": "Seed Junky | 1g Pre-Roll | Purple Push Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-1g-pre-roll-purple-push-pop-for-sale-madison-heights-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-1g-pre-roll-purple-push-pop-for-sale-madison-heights-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.898Z"
+}

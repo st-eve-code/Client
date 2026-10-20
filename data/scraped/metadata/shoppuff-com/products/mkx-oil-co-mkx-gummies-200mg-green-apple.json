@@ -1,0 +1,35 @@
+{
+  "slug": "mkx-oil-co-mkx-gummies-200mg-green-apple",
+  "name": "MKX Gummies 200mg - GREEN APPLE",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "HYBRID | 20MG THC PER PIECE | 10 PIECES",
+  "description_html": "HYBRID | 20MG THC PER PIECE | 10 PIECES",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d559035a2c5d32a6748b5d8e0b37b1bb",
+      "alt": "MKX Gummies 200mg - GREEN APPLE",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-mkx-gummies-200mg-green-apple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-mkx-gummies-200mg-green-apple-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.577Z"
+}

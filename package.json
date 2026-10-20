@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "scrape": "tsx scripts/scrape/run.ts all",
+    "scrape:shoppuff": "tsx scripts/scrape/sites/shoppuff/shoppuff.ts",
     "scrape:vape-kits": "tsx scripts/scrape/run.ts vape-kits",
     "scrape:e-liquid": "tsx scripts/scrape/run.ts e-liquid",
     "scrape:pod-vape-kits": "tsx scripts/scrape/run.ts pod-vape-kits",

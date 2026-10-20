@@ -1,0 +1,35 @@
+{
+  "slug": "farm-marcellus-gelato-41-x-donnie-burger",
+  "name": "Farm Marcellus | Gelato 41 x Donnie Burger",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 29,
+  "price_max": 29,
+  "currency": "USD",
+  "price_range": "$29.00",
+  "available": true,
+  "vendor": "Farm Marcellus LLC",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/56045601fedc60fd84a84df284a81d19",
+      "alt": "Farm Marcellus | Gelato 41 x Donnie Burger",
+      "local": "data\\scraped\\images\\shoppuff-com__farm-marcellus-gelato-41-x-donnie-burger__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 29,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/farm-marcellus-gelato-41-x-donnie-burger-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.694Z"
+}

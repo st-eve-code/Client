@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-donut-blunt-baja-blaze",
+  "name": "Cali Blaze Donut Blunt | Baja Blaze",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/405ae7da136c8e895507823ee2d384e0",
+      "alt": "Cali Blaze Donut Blunt | Baja Blaze",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-donut-blunt-baja-blaze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-donut-blunt-baja-blaze-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.423Z"
+}

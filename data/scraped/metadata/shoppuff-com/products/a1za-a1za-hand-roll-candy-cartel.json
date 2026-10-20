@@ -1,0 +1,35 @@
+{
+  "slug": "a1za-a1za-hand-roll-candy-cartel",
+  "name": "A1ZA Hand Roll | Candy Cartel",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "A1ZA",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b24d0114857724112f541ed7783cbd2c",
+      "alt": "A1ZA Hand Roll | Candy Cartel",
+      "local": "data\\scraped\\images\\shoppuff-com__a1za-a1za-hand-roll-candy-cartel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/a1za-a1za-hand-roll-candy-cartel-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.686Z"
+}

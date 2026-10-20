@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-battery",
+  "name": "Puff | Battery",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/accessories.jpg",
+      "alt": "Puff | Battery",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-battery__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-battery-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.835Z"
+}

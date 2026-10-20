@@ -1,0 +1,35 @@
+{
+  "slug": "farm-marcellus-llc-farm-marcellus-gelato-41-x-donnie-burger-shake",
+  "name": "Farm Marcellus | Gelato 41 x Donnie Burger (Shake)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Farm Marcellus LLC",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/56045601fedc60fd84a84df284a81d19",
+      "alt": "Farm Marcellus | Gelato 41 x Donnie Burger (Shake)",
+      "local": "data\\scraped\\images\\shoppuff-com__farm-marcellus-llc-farm-marcellus-gelato-41-x-donnie-burger-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/farm-marcellus-llc-farm-marcellus-gelato-41-x-donnie-burger-shake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.925Z"
+}

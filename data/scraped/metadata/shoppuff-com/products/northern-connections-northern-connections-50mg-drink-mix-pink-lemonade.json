@@ -1,0 +1,35 @@
+{
+  "slug": "northern-connections-northern-connections-50mg-drink-mix-pink-lemonade",
+  "name": "Northern Connections | 50mg Drink Mix | Pink Lemonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Northern Connections",
+  "tags": [],
+  "description": "Cannabis infused drinks are unique in the edible category because they generally have a much faster activation time than traditional edibles. It is important to start low and slow when consuming edibles so you don't over do it. As with all edibles, take extra caution to ensure they are out of the reach of children.",
+  "description_html": "Cannabis infused drinks are unique in the edible category because they generally have a much faster activation time than traditional edibles. It is important to start low and slow when consuming edibles so you don't over do it. As with all edibles, take extra caution to ensure they are out of the reach of children.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/296603ab2b4c6b5376e1fc2d3b901f48",
+      "alt": "Northern Connections | 50mg Drink Mix | Pink Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__northern-connections-northern-connections-50mg-drink-mix-pink-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.05g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northern-connections-northern-connections-50mg-drink-mix-pink-lemonade-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.901Z"
+}

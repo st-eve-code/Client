@@ -1,0 +1,35 @@
+{
+  "slug": "nura-nura-glitter-bomb",
+  "name": "Nura | Glitter Bomb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/30fdb200edcba979599d735be96bda2d",
+      "alt": "Nura | Glitter Bomb",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-nura-glitter-bomb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-nura-glitter-bomb-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.415Z"
+}

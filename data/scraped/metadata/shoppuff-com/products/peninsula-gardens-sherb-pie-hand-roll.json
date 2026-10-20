@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-sherb-pie-hand-roll",
+  "name": "Sherb Pie Hand Roll",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "@Bonez_grown cut of Seed Junky’s Sherb Cake. Ice Cream Cake x Sunset Sherbet. Beautiful purple buds that lean heavy towards the sherb smell and flavors with just enough of the cake flavor to compliment.",
+  "description_html": "@Bonez_grown cut of Seed Junky’s Sherb Cake. Ice Cream Cake x Sunset Sherbet. Beautiful purple buds that lean heavy towards the sherb smell and flavors with just enough of the cake flavor to compliment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/990d01cbd6b708570ed5d5452e0c1a80",
+      "alt": "Sherb Pie Hand Roll",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-sherb-pie-hand-roll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-sherb-pie-hand-roll-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.778Z"
+}

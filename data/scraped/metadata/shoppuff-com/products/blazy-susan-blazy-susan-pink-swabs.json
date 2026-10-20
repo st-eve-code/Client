@@ -1,0 +1,35 @@
+{
+  "slug": "blazy-susan-blazy-susan-pink-swabs",
+  "name": "Blazy Susan | Pink Swabs",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Blazy Susan",
+  "tags": [],
+  "description": "Slow Burning, GMO Free, Vegan, Ultra-Thin",
+  "description_html": "Slow Burning, GMO Free, Vegan, Ultra-Thin",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1f29c69349a8fdb4f1c29beaf0d17254",
+      "alt": "Blazy Susan | Pink Swabs",
+      "local": "data\\scraped\\images\\shoppuff-com__blazy-susan-blazy-susan-pink-swabs__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/blazy-susan-blazy-susan-pink-swabs-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.769Z"
+}

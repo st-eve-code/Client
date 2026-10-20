@@ -1,0 +1,35 @@
+{
+  "slug": "pro-gro-progroco-live-rosin-red-runtz",
+  "name": "ProGroCo Live Rosin | Red Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "ProGroCo Live Rosin | Red Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-live-rosin-red-runtz__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-live-rosin-red-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.803Z"
+}

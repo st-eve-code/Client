@@ -1,0 +1,55 @@
+{
+  "slug": "bamn-bamn-guava-rainbow",
+  "name": "BAMN | Guava Rainbow",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.2,
+  "price_max": 52.5,
+  "currency": "USD",
+  "price_range": "$4.20 – $52.50",
+  "available": true,
+  "vendor": "BAMN",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6aaa757991b58266662cbf990be39b25",
+      "alt": "BAMN | Guava Rainbow",
+      "local": "data\\scraped\\images\\shoppuff-com__bamn-bamn-guava-rainbow__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 52.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 28,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4.2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bamn-bamn-guava-rainbow-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.510Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "wise-guys-popz-41",
+  "name": "Wise Guys | Popz 41",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 95,
+  "currency": "USD",
+  "price_range": "$30.00 – $95.00",
+  "available": true,
+  "vendor": "Wise Guys",
+  "tags": [],
+  "description": "Cross/Lineage: Gelato 33 x Gelato\n\nFlavor: Fruit gelato terps\n\nType/Leaning: Hybrid (Indica-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Gelato 33 x Gelato<br /><br />Flavor: Fruit gelato terps<br /><br />Type/Leaning: Hybrid (Indica-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/af09f234798c93a2d9b8c5c924c6a96e",
+      "alt": "Wise Guys | Popz 41",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-popz-41__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 95,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-popz-41-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.486Z"
+}

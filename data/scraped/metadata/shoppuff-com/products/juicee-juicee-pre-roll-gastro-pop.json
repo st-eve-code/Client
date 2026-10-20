@@ -1,0 +1,35 @@
+{
+  "slug": "juicee-juicee-pre-roll-gastro-pop",
+  "name": "Juicee Pre-roll | Gastro Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "JUICEE",
+  "tags": [],
+  "description": "1g Local Grove Pre-Roll",
+  "description_html": "1g Local Grove Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/eba05c22964f4806c4fd794a69459bed",
+      "alt": "Juicee Pre-roll | Gastro Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__juicee-juicee-pre-roll-gastro-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/juicee-juicee-pre-roll-gastro-pop-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.271Z"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "crude-boys-crude-boys-live-resin-zushi-runtz-for-sale-sturgis-mi-2",
+  "name": "Crude Boys Live Resin | Zushi Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 80,
+  "currency": "USD",
+  "price_range": "$20.00 – $80.00",
+  "available": true,
+  "vendor": "Crude Boys",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/910989e9340aa1badb315d55b9beab8b",
+      "alt": "Crude Boys Live Resin | Zushi Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__crude-boys-crude-boys-live-resin-zushi-runtz-for-sale-sturgis-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "10g",
+      "price": 80,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/crude-boys-crude-boys-live-resin-zushi-runtz-for-sale-sturgis-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.749Z"
+}

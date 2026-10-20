@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-pre-roll-pack-ice-cream-cake",
+  "name": "Top Smoke Pre-Roll Pack | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Ice Cream Cake is an indica dominant hybrid strain made by crossing Wedding Cake x Gelato #33. This strain offers sedating effects that leave your mind and body completely relaxed. 28 one gram pre-rolls.",
+  "description_html": "Ice Cream Cake is an indica dominant hybrid strain made by crossing Wedding Cake x Gelato #33. This strain offers sedating effects that leave your mind and body completely relaxed. 28 one gram pre-rolls.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0fd9cb134fa0df1ee1ca50e55981928",
+      "alt": "Top Smoke Pre-Roll Pack | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-pre-roll-pack-ice-cream-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-pre-roll-pack-ice-cream-cake-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.422Z"
+}

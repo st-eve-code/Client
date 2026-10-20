@@ -1,0 +1,60 @@
+{
+  "slug": "zootiez-zootiez-moonrocks-zahiti",
+  "name": "Zootiez | Moonrocks | Zahiti",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.4,
+  "price_max": 168,
+  "currency": "USD",
+  "price_range": "$8.40 – $168.00",
+  "available": true,
+  "vendor": "Zootiez",
+  "tags": [],
+  "description": "ZOOTIEZ: MICHIGANS MOST POTENT SNOWBALLS, MOONROCKS AND INFUSED PRE ROLLS\n\nDon't settle for less—elevate your high with Zootiez.",
+  "description_html": "ZOOTIEZ: MICHIGANS MOST POTENT SNOWBALLS, MOONROCKS AND INFUSED PRE ROLLS<br /><br />Don't settle for less—elevate your high with Zootiez.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dcb5df46237f9c88cd2a39daea02dbd0",
+      "alt": "Zootiez | Moonrocks | Zahiti",
+      "local": "data\\scraped\\images\\shoppuff-com__zootiez-zootiez-moonrocks-zahiti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 84,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 168,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zootiez-zootiez-moonrocks-zahiti-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.183Z"
+}

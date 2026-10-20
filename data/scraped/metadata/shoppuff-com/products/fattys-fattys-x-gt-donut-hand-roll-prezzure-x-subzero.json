@@ -1,0 +1,35 @@
+{
+  "slug": "fattys-fattys-x-gt-donut-hand-roll-prezzure-x-subzero",
+  "name": "Fatty's x GT Donut Hand Roll | Prezzure x Subzero",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Fatty's",
+  "tags": [],
+  "description": "1.5g Hand Rolled Donut.",
+  "description_html": "1.5g Hand Rolled Donut. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c991d4227932eb7bef170add19de7f61",
+      "alt": "Fatty's x GT Donut Hand Roll | Prezzure x Subzero",
+      "local": "data\\scraped\\images\\shoppuff-com__fattys-fattys-x-gt-donut-hand-roll-prezzure-x-subzero__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fattys-fattys-x-gt-donut-hand-roll-prezzure-x-subzero-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.823Z"
+}

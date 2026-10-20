@@ -1,0 +1,40 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-3-5g-prepackaged-flower-starlink",
+  "name": "Peninsula Gardens Prepackaged Flower | Starlink",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$35.00 – $99.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Super sweet candy. Bred by @Codymikew, it’s a cross of LCG x Runtz. Some of the most perfect looking flowers in our garden. Structure, color, smell, and flavor. She checks every single box and is sure to take all of the candy lovers to the stars.",
+  "description_html": "Super sweet candy. Bred by @Codymikew, it’s a cross of LCG x Runtz. Some of the most perfect looking flowers in our garden. Structure, color, smell, and flavor. She checks every single box and is sure to take all of the candy lovers to the stars.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2db9108423316e0748847be507486c0a",
+      "alt": "Peninsula Gardens Prepackaged Flower | Starlink",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-3-5g-prepackaged-flower-starlink__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-3-5g-prepackaged-flower-starlink-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.746Z"
+}

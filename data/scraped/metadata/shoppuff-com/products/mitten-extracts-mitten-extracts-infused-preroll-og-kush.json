@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-infused-preroll-og-kush",
+  "name": "Mitten Extracts Infused Preroll | OG Kush",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "1.25g Infused Preroll\n\nThis classic indica strain features earthy pine and sour lemon flavors, known for its relaxing and calming body high. It’s perfect for winding down after a long day, providing soothing relaxation and stress relief.",
+  "description_html": "1.25g Infused Preroll<br /><br />This classic indica strain features earthy pine and sour lemon flavors, known for its relaxing and calming body high. It’s perfect for winding down after a long day, providing soothing relaxation and stress relief.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0fbadbaf0ec7aca93098ff5302d4ef6e",
+      "alt": "Mitten Extracts Infused Preroll | OG Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-infused-preroll-og-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-infused-preroll-og-kush-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.416Z"
+}

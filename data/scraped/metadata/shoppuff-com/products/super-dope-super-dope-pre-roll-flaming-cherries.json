@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-super-dope-pre-roll-flaming-cherries",
+  "name": "Super Dope Pre-roll | Flaming Cherries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "A powerful new hybrid born from the bold union of Fire OG and Super Dope's Cherry Popperz, this strain brings the best of both worlds: the heavy-hitting potency and earthy pine notes of the Fire OG blend seamlessly with the sweet, candy-coated cherry flavor of Cherry Popperz. Flaming Cherries is an exclusive release and quantities are extremely limited.",
+  "description_html": "A powerful new hybrid born from the bold union of Fire OG and Super Dope's Cherry Popperz, this strain brings the best of both worlds: the heavy-hitting potency and earthy pine notes of the Fire OG blend seamlessly with the sweet, candy-coated cherry flavor of Cherry Popperz. Flaming Cherries is an exclusive release and quantities are extremely limited.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b4d7d1ed30871b5e53ad6fb0233600bc",
+      "alt": "Super Dope Pre-roll | Flaming Cherries",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-pre-roll-flaming-cherries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-pre-roll-flaming-cherries-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.638Z"
+}

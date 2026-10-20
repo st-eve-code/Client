@@ -1,0 +1,60 @@
+{
+  "slug": "goldkine-goldkine-head-hunter",
+  "name": "Goldkine | Head Hunter",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Introducing Head Hunter, a scarily sweet indica-dominant hybrid from Tiki Madman, crafted from Pablo's Revenge and Ice Cream Cake BX. This dessert strain boasts a creamy, fruity, and gassy aroma and flavor. Head Hunter blends the best of indica and sativa effects, providing calming tranquility and uplifting stimulation. Each puff delivers euphoria, melting away stress and leading to blissful relaxation. With its captivating aroma of earthiness, citrus, and spice, Head Hunter tantalizes the senses, revealing new complexities with every inhale. Perfect for any occasion, this strain offers a rich, sensory journey and unparalleled enjoyment.",
+  "description_html": "Introducing Head Hunter, a scarily sweet indica-dominant hybrid from Tiki Madman, crafted from Pablo's Revenge and Ice Cream Cake BX. This dessert strain boasts a creamy, fruity, and gassy aroma and flavor. Head Hunter blends the best of indica and sativa effects, providing calming tranquility and uplifting stimulation. Each puff delivers euphoria, melting away stress and leading to blissful relaxation. With its captivating aroma of earthiness, citrus, and spice, Head Hunter tantalizes the senses, revealing new complexities with every inhale. Perfect for any occasion, this strain offers a rich, sensory journey and unparalleled enjoyment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f1c286b2ebbcf765bcc0966352064cbd",
+      "alt": "Goldkine | Head Hunter",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-head-hunter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 34,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-head-hunter-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.904Z"
+}

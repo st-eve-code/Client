@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-1g-pre-roll-lantz",
+  "name": "Peninsula Gardens | 1g Pre-Roll | Lantz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "We were gifted this cut from Chocolate at Hytek. Bred by Ridgeline Farms, it’s a cross of Ridgeline Runtz and Green Lantern. Varies from bright green to deep purple. Think of it as a Runtz with a heavy kick of lime. Incredible smoker for the candy lovers.",
+  "description_html": "We were gifted this cut from Chocolate at Hytek. Bred by Ridgeline Farms, it’s a cross of Ridgeline Runtz and Green Lantern. Varies from bright green to deep purple. Think of it as a Runtz with a heavy kick of lime. Incredible smoker for the candy lovers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ef52027ba629f5d7937c68a3ce99d83f",
+      "alt": "Peninsula Gardens | 1g Pre-Roll | Lantz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-1g-pre-roll-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-1g-pre-roll-lantz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.412Z"
+}

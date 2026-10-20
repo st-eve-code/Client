@@ -1,0 +1,35 @@
+{
+  "slug": "fattys-fattys-sherb-cream-pie",
+  "name": "Fatty's | Sherb Cream Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Fatty's",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/07f25763a151f65109c30efa3b0d596c",
+      "alt": "Fatty's | Sherb Cream Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__fattys-fattys-sherb-cream-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fattys-fattys-sherb-cream-pie-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.424Z"
+}

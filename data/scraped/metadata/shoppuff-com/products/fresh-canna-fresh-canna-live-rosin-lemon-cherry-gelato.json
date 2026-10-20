@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-fresh-canna-live-rosin-lemon-cherry-gelato",
+  "name": "Fresh Canna Live Rosin | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 52.5,
+  "price_max": 52.5,
+  "currency": "USD",
+  "price_range": "$52.50",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1802fc17bde21c3813c3d358b0553240",
+      "alt": "Fresh Canna Live Rosin | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-live-rosin-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 52.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-live-rosin-lemon-cherry-gelato-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.808Z"
+}

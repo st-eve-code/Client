@@ -1,0 +1,35 @@
+{
+  "slug": "raw-pre-rolled-tips",
+  "name": "Raw | Pre-Rolled Tips",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "RAW Pre-rolled Tips are made from the purest natural fibres, all of which are chlorine free and vegan friendly. The RAW Pre-Rolled Tips box contains 20 pre-rolled tips in a great matchbox style packaging, which makes sure that your tips never get crushed.",
+  "description_html": "RAW Pre-rolled Tips are made from the purest natural fibres, all of which are chlorine free and vegan friendly. The RAW Pre-Rolled Tips box contains 20 pre-rolled tips in a great matchbox style packaging, which makes sure that your tips never get crushed.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0aa32d8df3ec2545b56f87cac33fbd75",
+      "alt": "Raw | Pre-Rolled Tips",
+      "local": "data\\scraped\\images\\shoppuff-com__raw-pre-rolled-tips__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/raw-pre-rolled-tips-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.934Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "high-life-farms-rufios",
+  "name": "High Life Farms | Rufios",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$5.00 – $35.00",
+  "available": true,
+  "vendor": "High Life Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "High Life Farms | Rufios",
+      "local": "data\\scraped\\images\\shoppuff-com__high-life-farms-rufios__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/high-life-farms-rufios-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.283Z"
+}

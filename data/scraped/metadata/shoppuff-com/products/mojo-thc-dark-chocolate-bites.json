@@ -1,0 +1,35 @@
+{
+  "slug": "mojo-thc-dark-chocolate-bites",
+  "name": "THC Dark Chocolate Bites",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mojo",
+  "tags": [],
+  "description": "Look no further dark chocolate fans... Mojo's got what your looking for! These dark chocolate bites are silky, smooth and perfectly balanced. Infused with premium, high-potency distillate, pick these up today and dare yourself NOT to eat the whole bag!",
+  "description_html": "Look no further dark chocolate fans... Mojo's got what your looking for! These dark chocolate bites are silky, smooth and perfectly balanced. Infused with premium, high-potency distillate, pick these up today and dare yourself NOT to eat the whole bag!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/517ae88faef1f55c21b16c3d7ef9c4ba",
+      "alt": "THC Dark Chocolate Bites",
+      "local": "data\\scraped\\images\\shoppuff-com__mojo-thc-dark-chocolate-bites__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.25g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mojo-thc-dark-chocolate-bites-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.334Z"
+}

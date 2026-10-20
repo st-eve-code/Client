@@ -1,0 +1,35 @@
+{
+  "slug": "eastside-alchemy-eastside-alchemy-1g-live-rosin-d-lish",
+  "name": "Eastside Alchemy | 1g Live Rosin | D-Lish",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Eastside Alchemy",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ee0c8b130652b25e8efa665e08e26270",
+      "alt": "Eastside Alchemy | 1g Live Rosin | D-Lish",
+      "local": "data\\scraped\\images\\shoppuff-com__eastside-alchemy-eastside-alchemy-1g-live-rosin-d-lish__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/eastside-alchemy-eastside-alchemy-1g-live-rosin-d-lish-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.445Z"
+}

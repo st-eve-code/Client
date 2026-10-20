@@ -1,0 +1,35 @@
+{
+  "slug": "freight-train-canna-freight-train-canna-preroll-jelly-runtz",
+  "name": "Freight Train Canna Preroll | Jelly Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 2,
+  "price_max": 2,
+  "currency": "USD",
+  "price_range": "$2.00",
+  "available": true,
+  "vendor": "Freight Train Canna",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/34c529b58ffd9f563b3fbe0d903623e0",
+      "alt": "Freight Train Canna Preroll | Jelly Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__freight-train-canna-freight-train-canna-preroll-jelly-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freight-train-canna-freight-train-canna-preroll-jelly-runtz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.867Z"
+}

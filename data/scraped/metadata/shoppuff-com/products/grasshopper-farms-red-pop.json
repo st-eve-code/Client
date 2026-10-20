@@ -1,0 +1,60 @@
+{
+  "slug": "grasshopper-farms-red-pop",
+  "name": "Grasshopper Farms | Red Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Dark amber-colored hairs frill forest-green buds glazed with silky strands of trichomes on this hometown hybrid. Its sweet, coffee-like aroma creates a smooth, fruity, floral-flavored smoke that is very easy on the lungs. A modest THC level gives an ideal high for newcomers looking to relieve pain, stress, anxiety, and depression—without feeling overwhelmed. Just like its namesake, there’s never a bad time to enjoy our Red Pop.",
+  "description_html": "Dark amber-colored hairs frill forest-green buds glazed with silky strands of trichomes on this hometown hybrid. Its sweet, coffee-like aroma creates a smooth, fruity, floral-flavored smoke that is very easy on the lungs. A modest THC level gives an ideal high for newcomers looking to relieve pain, stress, anxiety, and depression—without feeling overwhelmed. Just like its namesake, there’s never a bad time to enjoy our Red Pop.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1fda41038193aec5dd0bb00aa16a12aa",
+      "alt": "Grasshopper Farms | Red Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-red-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 34,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-red-pop-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.573Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "northern-connections-northern-connections-200mg-topical",
+  "name": "Northern Connections | 200mg Topical",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Northern Connections",
+  "tags": [],
+  "description": "Topical cannabis products are intended to be absorbed into the bloodstream through your skin. While not intended to have psychoactive effects, topicals can range widely in potency and efficacy and should be applied incrementally. Topicals are primarily used to ease muscle and joint pain, but can also be used for headaches, cramps, and more. Warming the application area slightly beforehand will aid absorption.",
+  "description_html": "Topical cannabis products are intended to be absorbed into the bloodstream through your skin. While not intended to have psychoactive effects, topicals can range widely in potency and efficacy and should be applied incrementally. Topicals are primarily used to ease muscle and joint pain, but can also be used for headaches, cramps, and more. Warming the application area slightly beforehand will aid absorption.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/eed94f0e62b3b4b18a37b7dd1874d506",
+      "alt": "Northern Connections | 200mg Topical",
+      "local": "data\\scraped\\images\\shoppuff-com__northern-connections-northern-connections-200mg-topical__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.6g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northern-connections-northern-connections-200mg-topical-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.526Z"
+}

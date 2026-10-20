@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-infused-preroll-glazed-donut",
+  "name": "Berry Green Infused Preroll | Glazed Donut",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Soft, slow, and heavy-hitting. Sugar-sweet calm that melts your grind away.\n\nEffect: Pure body melt — built for deep relaxation and heavy eyes.",
+  "description_html": "Soft, slow, and heavy-hitting. Sugar-sweet calm that melts your grind away.<br /><br />Effect: Pure body melt — built for deep relaxation and heavy eyes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7fa93bc10bd22a11f496ce4fe26c1079",
+      "alt": "Berry Green Infused Preroll | Glazed Donut",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-infused-preroll-glazed-donut__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-infused-preroll-glazed-donut-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.227Z"
+}

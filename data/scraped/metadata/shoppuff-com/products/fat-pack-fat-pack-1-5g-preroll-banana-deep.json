@@ -1,0 +1,35 @@
+{
+  "slug": "fat-pack-fat-pack-1-5g-preroll-banana-deep",
+  "name": "Fat Pack | 1.5g Preroll | Banana Deep",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Fat Pack",
+  "tags": [],
+  "description": "Fat J: 1.5 Gram Preroll - a half gram better. From Banana OG x Deep Kush, Banana Deep is heavy-hitting with a deeply relaxing body high and calming euphoria. Its creamy banana aroma pairs with earthy sweetness from terpenes like Myrcene, Limonene, and Bisabolol. A powerhouse for evening relaxation.",
+  "description_html": "Fat J: 1.5 Gram Preroll - a half gram better. From Banana OG x Deep Kush, Banana Deep is heavy-hitting with a deeply relaxing body high and calming euphoria. Its creamy banana aroma pairs with earthy sweetness from terpenes like Myrcene, Limonene, and Bisabolol. A powerhouse for evening relaxation.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fccfe6ee0f023aa5e89d81b8d2733f8c",
+      "alt": "Fat Pack | 1.5g Preroll | Banana Deep",
+      "local": "data\\scraped\\images\\shoppuff-com__fat-pack-fat-pack-1-5g-preroll-banana-deep__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fat-pack-fat-pack-1-5g-preroll-banana-deep-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.594Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "euphoria-euphoria-prepackaged-flower-war-headz",
+  "name": "Euphoria Prepackaged Flower | War Headz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 99,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$99.00",
+  "available": true,
+  "vendor": "Euphoria",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/519d7e4842a74aa2cd92054a9056fbda",
+      "alt": "Euphoria Prepackaged Flower | War Headz",
+      "local": "data\\scraped\\images\\shoppuff-com__euphoria-euphoria-prepackaged-flower-war-headz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/euphoria-euphoria-prepackaged-flower-war-headz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.678Z"
+}

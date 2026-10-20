@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-disposable-creamsiclez",
+  "name": "Mitten Extracts Disposable | Creamsiclez",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Creamsiclez is a dreamy blend of juicy orange and smooth vanilla cream, crafted for those sunny summer vibes. This balanced hybrid delivers a mellow, feel-good experience, perfect for laid-back afternoons or creative bursts.",
+  "description_html": "Creamsiclez is a dreamy blend of juicy orange and smooth vanilla cream, crafted for those sunny summer vibes. This balanced hybrid delivers a mellow, feel-good experience, perfect for laid-back afternoons or creative bursts.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/af94aabeafdb0ac1db2f25bdfe8006e3",
+      "alt": "Mitten Extracts Disposable | Creamsiclez",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-disposable-creamsiclez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-disposable-creamsiclez-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.430Z"
+}

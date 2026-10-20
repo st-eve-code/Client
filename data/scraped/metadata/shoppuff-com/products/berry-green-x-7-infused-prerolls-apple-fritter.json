@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-x-7-infused-prerolls-apple-fritter",
+  "name": "Berry Green x 7 Infused Prerolls | Apple Fritter",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Sweet, gassy, and dangerously smooth. Apple Fritter hits like comfort food with a street bite.\n\nEffect: Balanced buzz built for chill nights and clear minds.",
+  "description_html": "Sweet, gassy, and dangerously smooth. Apple Fritter hits like comfort food with a street bite.<br /><br />Effect: Balanced buzz built for chill nights and clear minds.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/39d0b5363308634041151456c8b1abf4",
+      "alt": "Berry Green x 7 Infused Prerolls | Apple Fritter",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-x-7-infused-prerolls-apple-fritter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-x-7-infused-prerolls-apple-fritter-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.245Z"
+}

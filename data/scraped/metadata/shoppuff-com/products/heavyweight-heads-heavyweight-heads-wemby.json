@@ -1,0 +1,60 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-wemby",
+  "name": "Heavyweight Heads | Wemby",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 200,
+  "currency": "USD",
+  "price_range": "$10.00 – $200.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "You'll find yourself feeling sociable and outgoing, chatting with anyone and everyone around you, although you may fall in and out of fits of the giggles at times. A pang of hunger comes next, leaving you with a heavy case of the munchies and reaching for anything in sight to snack on.",
+  "description_html": "You'll find yourself feeling sociable and outgoing, chatting with anyone and everyone around you, although you may fall in and out of fits of the giggles at times. A pang of hunger comes next, leaving you with a heavy case of the munchies and reaching for anything in sight to snack on.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7fa2785132688f52251616b5fffd29be",
+      "alt": "Heavyweight Heads | Wemby",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-wemby__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 200,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-wemby-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.344Z"
+}

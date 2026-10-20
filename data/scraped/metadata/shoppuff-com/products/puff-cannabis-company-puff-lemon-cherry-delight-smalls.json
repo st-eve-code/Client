@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-lemon-cherry-delight-smalls",
+  "name": "Puff | Lemon Cherry Delight",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Puff | Lemon Cherry Delight",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-lemon-cherry-delight-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-lemon-cherry-delight-smalls-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.879Z"
+}

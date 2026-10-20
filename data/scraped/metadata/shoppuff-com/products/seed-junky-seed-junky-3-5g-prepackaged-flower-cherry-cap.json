@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-3-5g-prepackaged-flower-cherry-cap",
+  "name": "Seed Junky | 3.5g Prepackaged Flower | Cherry Cap",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Cherry Cap layers sweet cherry brightness with creamy dessert notes and a bold, gassy backbone. \nthe inhale leans fruity and smooth, while the exhale leaves a pungent, fuel- forward finish that reflects its powerhouse lineage. Effects strike with uplifting mental clarity and steady body calm, making it versatile for daytime creativity or evening relaxation. \n\nCherry Pie x Cap Junky",
+  "description_html": "Cherry Cap layers sweet cherry brightness with creamy dessert notes and a bold, gassy backbone. <br />the inhale leans fruity and smooth, while the exhale leaves a pungent, fuel- forward finish that reflects its powerhouse lineage. Effects strike with uplifting mental clarity and steady body calm, making it versatile for daytime creativity or evening relaxation. <br /><br />Cherry Pie x Cap Junky",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/52c6bd36001f53d5966676ec4dd817ce",
+      "alt": "Seed Junky | 3.5g Prepackaged Flower | Cherry Cap",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-3-5g-prepackaged-flower-cherry-cap__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-3-5g-prepackaged-flower-cherry-cap-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.929Z"
+}

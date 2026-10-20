@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-detroit-edible-200mg-crispy-treats-cookies-cream",
+  "name": "Detroit Edible | 200mg Crispy Treats | Cookies & Cream",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Detroit Edibles has taken Oreo-O’s cereal and transformed it into a delicious crispy and gooey marshmallow treat. If you’re a fan of cookies ’n cream flavor, this is the edible for you. Each crispy contains a potent 200mg of THC and will marsh-MELLOW you out with every bite.",
+  "description_html": "Detroit Edibles has taken Oreo-O’s cereal and transformed it into a delicious crispy and gooey marshmallow treat. If you’re a fan of cookies ’n cream flavor, this is the edible for you. Each crispy contains a potent 200mg of THC and will marsh-MELLOW you out with every bite.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/05badd81c8d9ecff0d5a3aaa75b55575",
+      "alt": "Detroit Edible | 200mg Crispy Treats | Cookies & Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-detroit-edible-200mg-crispy-treats-cookies-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.08g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-detroit-edible-200mg-crispy-treats-cookies-cream-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.784Z"
+}

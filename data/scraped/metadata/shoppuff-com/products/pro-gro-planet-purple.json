@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-planet-purple",
+  "name": "Planet Purple",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 122.5,
+  "currency": "USD",
+  "price_range": "$7.00 – $122.50",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: (Sunset Sherbert × Do Si Dos) and (Zkittlez x Do Si Dos) \n\nBreeder: Archive Seed Bank \n\nTerpenes: Caryophyllene, Limonene, Linalool \n\nEffects: Body Buzz, Euphoric, Calm \n\nAroma: Fruity, Pepper, Citrus \n\nEmbark on a cosmic journey with Planet Purple, a strain that's truly out of this world! Picture a celestial landscape where lush purple hues meet the sweet aroma of berries and earthy undertones. As you take flight with each inhale, a euphoric wave carries you through the cosmos, leaving stress light-years behind. The experience unfolds like a dazzling meteor shower, sparking creativity and a sense of cosmic connection. Planet Purple is an intergalactic adventure wrapped in a fragrant nebula; buckle up and let the voyage begin!",
+  "description_html": "Lineage: (Sunset Sherbert × Do Si Dos) and (Zkittlez x Do Si Dos) <br /><br />Breeder: Archive Seed Bank <br /><br />Terpenes: Caryophyllene, Limonene, Linalool <br /><br />Effects: Body Buzz, Euphoric, Calm <br /><br />Aroma: Fruity, Pepper, Citrus <br /><br />Embark on a cosmic journey with Planet Purple, a strain that's truly out of this world! Picture a celestial landscape where lush purple hues meet the sweet aroma of berries and earthy undertones. As you take flight with each inhale, a euphoric wave carries you through the cosmos, leaving stress light-years behind. The experience unfolds like a dazzling meteor shower, sparking creativity and a sense of cosmic connection. Planet Purple is an intergalactic adventure wrapped in a fragrant nebula; buckle up and let the voyage begin!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5032dcd84562d348791e9aaf625af1bb",
+      "alt": "Planet Purple",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-planet-purple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 122.5,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 63,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-planet-purple-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.718Z"
+}

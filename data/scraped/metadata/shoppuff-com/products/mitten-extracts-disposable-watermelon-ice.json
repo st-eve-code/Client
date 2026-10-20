@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-disposable-watermelon-ice",
+  "name": "Mitten Extracts Disposable | Watermelon Ice",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Sweet, icy, and seriously smooth, Watermelon Ice puts a frosty twist on a fan-favorite flavor. Juicy watermelon comes through up front, balanced by a cool, refreshing exhale that keeps things crisp without overpowering. This limited-edition 2g disposable offers an easygoing high and a clean, chilled-out finish—perfect for winter hangs, post-sesh relaxation, or anytime you want summer sweetness with a winter edge.",
+  "description_html": "Sweet, icy, and seriously smooth, Watermelon Ice puts a frosty twist on a fan-favorite flavor. Juicy watermelon comes through up front, balanced by a cool, refreshing exhale that keeps things crisp without overpowering. This limited-edition 2g disposable offers an easygoing high and a clean, chilled-out finish—perfect for winter hangs, post-sesh relaxation, or anytime you want summer sweetness with a winter edge.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a22c5f1ff143e3c75fc44aae04e98d9f",
+      "alt": "Mitten Extracts Disposable | Watermelon Ice",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-disposable-watermelon-ice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-disposable-watermelon-ice-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.200Z"
+}

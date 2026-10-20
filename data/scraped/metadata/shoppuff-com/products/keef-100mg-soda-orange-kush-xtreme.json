@@ -1,0 +1,35 @@
+{
+  "slug": "keef-100mg-soda-orange-kush-xtreme",
+  "name": "Keef | 100mg Soda | Orange Kush Xtreme",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 11.25,
+  "price_max": 11.25,
+  "currency": "USD",
+  "price_range": "$11.25",
+  "available": true,
+  "vendor": "Keef",
+  "tags": [],
+  "description": "Orange Kush Refreshing notes of orange citrus flavor and the perfect amount of carbonation – meet your new favorite orange soda.\n\nAll Classic Sodas are caffeine free. Infused with rotating Hybrid strains.",
+  "description_html": "Orange Kush Refreshing notes of orange citrus flavor and the perfect amount of carbonation – meet your new favorite orange soda.<br /><br />All Classic Sodas are caffeine free. Infused with rotating Hybrid strains.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c98c785520ae482eb0a5a055f1063999",
+      "alt": "Keef | 100mg Soda | Orange Kush Xtreme",
+      "local": "data\\scraped\\images\\shoppuff-com__keef-100mg-soda-orange-kush-xtreme__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 11.25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/keef-100mg-soda-orange-kush-xtreme-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.271Z"
+}

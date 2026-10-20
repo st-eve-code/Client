@@ -1,0 +1,60 @@
+{
+  "slug": "glorious-frosted-tipz",
+  "name": "Glorious | Frosted Tipz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 69,
+  "currency": "USD",
+  "price_range": "$4.00 – $69.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d6d2109384dd63bac68217726f45d6d8",
+      "alt": "Glorious | Frosted Tipz",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-frosted-tipz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 69,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-frosted-tipz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.596Z"
+}

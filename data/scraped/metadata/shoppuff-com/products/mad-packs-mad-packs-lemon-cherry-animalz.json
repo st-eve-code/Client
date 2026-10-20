@@ -1,0 +1,60 @@
+{
+  "slug": "mad-packs-mad-packs-lemon-cherry-animalz",
+  "name": "Mad Packs | Lemon Cherry Animalz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150.99,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.99",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "A vibrant blend of zesty lemon brightness and rich cherry sweetness, wrapped in creamy smooth smoke. Lemon Cherry Gelato delivers balanced effects that lift the mood while gently relaxing the body — perfect for flavorful enjoyment anytime.",
+  "description_html": "A vibrant blend of zesty lemon brightness and rich cherry sweetness, wrapped in creamy smooth smoke. Lemon Cherry Gelato delivers balanced effects that lift the mood while gently relaxing the body — perfect for flavorful enjoyment anytime.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/070b46d9190c2ce9448ab7416268b2bf",
+      "alt": "Mad Packs | Lemon Cherry Animalz",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-mad-packs-lemon-cherry-animalz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 150.99,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-mad-packs-lemon-cherry-animalz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.642Z"
+}

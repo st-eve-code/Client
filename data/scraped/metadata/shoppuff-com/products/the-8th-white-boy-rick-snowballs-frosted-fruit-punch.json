@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-snowballs-frosted-fruit-punch",
+  "name": "White Boy Rick Snowballs | Frosted Fruit Punch",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/419df7fd0793f47648df99b30b1f363c",
+      "alt": "White Boy Rick Snowballs | Frosted Fruit Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-snowballs-frosted-fruit-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-snowballs-frosted-fruit-punch-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.425Z"
+}

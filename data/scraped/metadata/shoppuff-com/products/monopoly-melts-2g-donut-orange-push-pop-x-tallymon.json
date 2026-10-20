@@ -1,0 +1,35 @@
+{
+  "slug": "monopoly-melts-2g-donut-orange-push-pop-x-tallymon",
+  "name": "Monopoly Melts | 2g Donut | Orange Push Pop x Tallymon",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Monopoly Melts",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/11fedd030246615757ddf6d9425b2e3e",
+      "alt": "Monopoly Melts | 2g Donut | Orange Push Pop x Tallymon",
+      "local": "data\\scraped\\images\\shoppuff-com__monopoly-melts-2g-donut-orange-push-pop-x-tallymon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/monopoly-melts-2g-donut-orange-push-pop-x-tallymon-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.832Z"
+}

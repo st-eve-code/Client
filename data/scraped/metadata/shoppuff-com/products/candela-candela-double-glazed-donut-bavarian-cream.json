@@ -1,0 +1,35 @@
+{
+  "slug": "candela-candela-double-glazed-donut-bavarian-cream",
+  "name": "\"Bavarian Cream\" Double Glazed Donut - 1.5G",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Candela",
+  "tags": [],
+  "description": "Bavarian Cream -\nSmooth, decadent, and silky at the edges, Bavarian Cream is a dessert-driven experience that blends velvety sweetness with a subtle undercurrent of richness. The flavor opens with waves of vanilla custard and fluffy pastry dough, glazed lightly with powdered sugar. Just as the creaminess settles in, a delicate swirl of floral spice and faint gas rounds out the profile, giving depth to the indulgence. The effect is balanced and approachable; heavy without couch locking, soothing without sedating—like sinking into a soft chair with a perfectly filled donut in hand. Bavarian Cream is pure comfort with a refined finish.",
+  "description_html": "<br />Bavarian Cream -<br />Smooth, decadent, and silky at the edges, Bavarian Cream is a dessert-driven experience that blends velvety sweetness with a subtle undercurrent of richness. The flavor opens with waves of vanilla custard and fluffy pastry dough, glazed lightly with powdered sugar. Just as the creaminess settles in, a delicate swirl of floral spice and faint gas rounds out the profile, giving depth to the indulgence. The effect is balanced and approachable; heavy without couch locking, soothing without sedating—like sinking into a soft chair with a perfectly filled donut in hand. Bavarian Cream is pure comfort with a refined finish.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/77e9b393dc90966f168c9936e1eb9555",
+      "alt": "\"Bavarian Cream\" Double Glazed Donut - 1.5G",
+      "local": "data\\scraped\\images\\shoppuff-com__candela-candela-double-glazed-donut-bavarian-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/candela-candela-double-glazed-donut-bavarian-cream-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.816Z"
+}

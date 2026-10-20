@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-x-7-infused-prerolls-tigers-blood",
+  "name": "Berry Green x 7 Infused Prerolls | Tiger's Blood",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Fierce flavor. Wild berry and watermelon gas that stalks slow and hits hard.\n\nEffect: Heavy relaxation with a savage edge — this one hunts your stress.",
+  "description_html": "Fierce flavor. Wild berry and watermelon gas that stalks slow and hits hard.<br /><br />Effect: Heavy relaxation with a savage edge — this one hunts your stress.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ea658b205ae99c2623ce409b67710fa1",
+      "alt": "Berry Green x 7 Infused Prerolls | Tiger's Blood",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-x-7-infused-prerolls-tigers-blood__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-x-7-infused-prerolls-tigers-blood-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.245Z"
+}

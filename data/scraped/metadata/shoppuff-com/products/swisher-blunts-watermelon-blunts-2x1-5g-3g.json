@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-blunts-watermelon-blunts-2x1-5g-3g",
+  "name": "Watermelon Blunts - 2x1.5g - 3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Treat yourself to the taste of summer with Swisher Blunts Watermelon. A burst of sweetness in every puff.",
+  "description_html": "Treat yourself to the taste of summer with Swisher Blunts Watermelon. A burst of sweetness in every puff.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c96368ec7ae8935f308152e07969ee5f",
+      "alt": "Watermelon Blunts - 2x1.5g - 3g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-blunts-watermelon-blunts-2x1-5g-3g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-blunts-watermelon-blunts-2x1-5g-3g-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.726Z"
+}

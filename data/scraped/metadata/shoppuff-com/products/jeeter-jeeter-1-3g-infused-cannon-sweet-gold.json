@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-1-3g-infused-cannon-sweet-gold",
+  "name": "Jeeter | 1.3g Infused Cannon | Sweet Gold",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fd0ca0c1ed8cddf38c661efd4a160c49",
+      "alt": "Jeeter | 1.3g Infused Cannon | Sweet Gold",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-1-3g-infused-cannon-sweet-gold__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-1-3g-infused-cannon-sweet-gold-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.428Z"
+}

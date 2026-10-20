@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-pineapple-haze-live-resin-gummies",
+  "name": "Pineapple Haze Live Resin Gummies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 11.25,
+  "price_max": 11.25,
+  "currency": "USD",
+  "price_range": "$11.25",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Premium Live Resin Gummies are made using pure full-spectrum live resin extract, which allows consumers to experience all the benefits of the “Entourage Effect”. These gummies are designed for experienced consumers and feature strain-specific cannabis derived terpenes. This delicious pineapple flavor has an activation time of 1-2 hours and a potent 200mg THC per package.",
+  "description_html": "Premium Live Resin Gummies are made using pure full-spectrum live resin extract, which allows consumers to experience all the benefits of the “Entourage Effect”. These gummies are designed for experienced consumers and feature strain-specific cannabis derived terpenes. This delicious pineapple flavor has an activation time of 1-2 hours and a potent 200mg THC per package.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c5831b65c82673816ca85803b738501c",
+      "alt": "Pineapple Haze Live Resin Gummies",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-pineapple-haze-live-resin-gummies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 11.25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-pineapple-haze-live-resin-gummies-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.741Z"
+}

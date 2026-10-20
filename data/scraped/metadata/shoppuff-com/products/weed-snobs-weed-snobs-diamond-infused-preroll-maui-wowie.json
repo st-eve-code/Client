@@ -1,0 +1,35 @@
+{
+  "slug": "weed-snobs-weed-snobs-diamond-infused-preroll-maui-wowie",
+  "name": "Weed Snobs Diamond Infused Preroll | Maui Wowie",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Maui Wowie is a sativa dominate strain that has hints of pineapple and other tropical fruits. This strain produces mostly happy, uplifted, and relaxed effects.",
+  "description_html": "Maui Wowie is a sativa dominate strain that has hints of pineapple and other tropical fruits. This strain produces mostly happy, uplifted, and relaxed effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bec61cffc2aaa64de867e869e6764278",
+      "alt": "Weed Snobs Diamond Infused Preroll | Maui Wowie",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-weed-snobs-diamond-infused-preroll-maui-wowie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-weed-snobs-diamond-infused-preroll-maui-wowie-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.236Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cypher-solventless-cypher-solventless-live-rosin-double-dipped-strawberry",
+  "name": "Cypher Solventless Live Rosin | Double Dipped Strawberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 150,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$150.00",
+  "available": true,
+  "vendor": "Cypher Solventless",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5620-Puff-JointStore-TraverseCity.webp",
+      "alt": "Cypher Solventless Live Rosin | Double Dipped Strawberry",
+      "local": "data\\scraped\\images\\shoppuff-com__cypher-solventless-cypher-solventless-live-rosin-double-dipped-strawberry__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cypher-solventless-cypher-solventless-live-rosin-double-dipped-strawberry-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.842Z"
+}

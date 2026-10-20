@@ -1,0 +1,35 @@
+{
+  "slug": "tonic-tonic-10mg-beverage-fizz-lemon-lime-51",
+  "name": "Tonic | 10mg Beverage | Fizz Lemon Lime 5:1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Tonic",
+  "tags": [],
+  "description": "50mg CBD : 10mg THC Beverage\n\nRefresh your senses with Tonic Fizz 5:1 Lemon Lime. Infused with 10mg of premium cannabis extract in a 5:1 CBD to THC ratio, this sparkling beverage offers a mild and balanced experience. The crisp lemon-lime flavor provides a zesty and invigorating twist, perfect for relaxation, easing stress, or enhancing social moments. Enjoy this bubbly treat for a refreshing and calming cannabis experience.",
+  "description_html": "50mg CBD : 10mg THC Beverage<br /><br />Refresh your senses with Tonic Fizz 5:1 Lemon Lime. Infused with 10mg of premium cannabis extract in a 5:1 CBD to THC ratio, this sparkling beverage offers a mild and balanced experience. The crisp lemon-lime flavor provides a zesty and invigorating twist, perfect for relaxation, easing stress, or enhancing social moments. Enjoy this bubbly treat for a refreshing and calming cannabis experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/54dea47dc34318d24c8d5692715dc17e",
+      "alt": "Tonic | 10mg Beverage | Fizz Lemon Lime 5:1",
+      "local": "data\\scraped\\images\\shoppuff-com__tonic-tonic-10mg-beverage-fizz-lemon-lime-51__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5.625g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tonic-tonic-10mg-beverage-fizz-lemon-lime-51-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.468Z"
+}

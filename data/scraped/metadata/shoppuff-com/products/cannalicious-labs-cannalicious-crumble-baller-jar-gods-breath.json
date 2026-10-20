@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-crumble-baller-jar-gods-breath",
+  "name": "Cannalicious Crumble Baller Jar | God's Breath",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5617-Puff-JointStore-Oscoda.webp",
+      "alt": "Cannalicious Crumble Baller Jar | God's Breath",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-crumble-baller-jar-gods-breath__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-crumble-baller-jar-gods-breath-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.911Z"
+}

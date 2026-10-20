@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-pressure-pack-pre-roll-kashlato",
+  "name": "Kashlato Premium Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "A floral, fruity, and woody aroma is accompanied by sherbet and fruity flavors. This strain will have you feeling relaxed and calm.",
+  "description_html": "A floral, fruity, and woody aroma is accompanied by sherbet and fruity flavors. This strain will have you feeling relaxed and calm.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/058993413708ea64ce0dd36421748d79",
+      "alt": "Kashlato Premium Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-pressure-pack-pre-roll-kashlato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-pressure-pack-pre-roll-kashlato-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.245Z"
+}

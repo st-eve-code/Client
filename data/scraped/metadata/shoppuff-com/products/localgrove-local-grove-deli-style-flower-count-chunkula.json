@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-deli-style-flower-count-chunkula",
+  "name": "Local Grove Deli Style Flower | Count Chunkula",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 180,
+  "currency": "USD",
+  "price_range": "$9.00 – $180.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Mochi Gelato x Runtz Breeder: Clearwater Genetics Selected by: Local Grove (seed hunt, in-house pheno) Aroma & Flavor: Chocolate and candy notes from dense purple buds Effects: Indica-leaning hybrid – relaxing and flavorful Count Chunkula is a decadent cross of Mochi Gelato and Runtz. This unique strain offers chocolate and candy aromas layered over vibrant purple buds.",
+  "description_html": "Genetics: Mochi Gelato x Runtz Breeder: Clearwater Genetics Selected by: Local Grove (seed hunt, in-house pheno) Aroma & Flavor: Chocolate and candy notes from dense purple buds Effects: Indica-leaning hybrid – relaxing and flavorful Count Chunkula is a decadent cross of Mochi Gelato and Runtz. This unique strain offers chocolate and candy aromas layered over vibrant purple buds.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5c64f38eca7938b91e69ed27b4694b2a",
+      "alt": "Local Grove Deli Style Flower | Count Chunkula",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-deli-style-flower-count-chunkula__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 180,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-deli-style-flower-count-chunkula-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.864Z"
+}

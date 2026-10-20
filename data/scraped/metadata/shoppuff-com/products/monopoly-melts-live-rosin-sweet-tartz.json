@@ -1,0 +1,40 @@
+{
+  "slug": "monopoly-melts-live-rosin-sweet-tartz",
+  "name": "Monopoly Melts | 1g Live Rosin | Sweet Tartz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$50.00 – $150.00",
+  "available": true,
+  "vendor": "Monopoly Melts",
+  "tags": [],
+  "description": "Zkittlez x Lavender Lemonade x Papaya 3.0 Sweet candy terps meet citrus peel and a touch of funky fruit. Loud on the nose, smooth on the smoke, and flavor that will keep you coming back for more.",
+  "description_html": "Zkittlez x Lavender Lemonade x Papaya 3.0 Sweet candy terps meet citrus peel and a touch of funky fruit. Loud on the nose, smooth on the smoke, and flavor that will keep you coming back for more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d87733ee7da5f5f029242cabcea1b182",
+      "alt": "Monopoly Melts | 1g Live Rosin | Sweet Tartz",
+      "local": "data\\scraped\\images\\shoppuff-com__monopoly-melts-live-rosin-sweet-tartz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "3g",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/monopoly-melts-live-rosin-sweet-tartz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.877Z"
+}

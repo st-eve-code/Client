@@ -1,0 +1,35 @@
+{
+  "slug": "monopoly-melts-monopoly-melts-live-rosin-sunset-papaya",
+  "name": "Monopoly Melts Live Rosin | Sunset Papaya",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 37.5,
+  "price_max": 37.5,
+  "currency": "USD",
+  "price_range": "$37.50",
+  "available": true,
+  "vendor": "Monopoly Melts",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5616-Puff-JointStore-Monroe.webp",
+      "alt": "Monopoly Melts Live Rosin | Sunset Papaya",
+      "local": "data\\scraped\\images\\shoppuff-com__monopoly-melts-monopoly-melts-live-rosin-sunset-papaya__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 37.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/monopoly-melts-monopoly-melts-live-rosin-sunset-papaya-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.225Z"
+}

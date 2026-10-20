@@ -1,0 +1,35 @@
+{
+  "slug": "play-cannabis-play-forbidden-fruit-1g-hash-rosin-cartridge",
+  "name": "Play | Forbidden Fruit | 1g | Hash Rosin Cartridge",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Play Cannabis",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7401304898e45b10596cf1d178e570f6",
+      "alt": "Play | Forbidden Fruit | 1g | Hash Rosin Cartridge",
+      "local": "data\\scraped\\images\\shoppuff-com__play-cannabis-play-forbidden-fruit-1g-hash-rosin-cartridge__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/play-cannabis-play-forbidden-fruit-1g-hash-rosin-cartridge-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.656Z"
+}

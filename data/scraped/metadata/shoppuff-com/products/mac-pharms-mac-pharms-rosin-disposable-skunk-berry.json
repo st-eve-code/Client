@@ -1,0 +1,35 @@
+{
+  "slug": "mac-pharms-mac-pharms-rosin-disposable-skunk-berry",
+  "name": "Mac Pharms Rosin Disposable | Skunk Berry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Mac Pharms",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/216a4287b10abd991cdf99ea0b66acac",
+      "alt": "Mac Pharms Rosin Disposable | Skunk Berry",
+      "local": "data\\scraped\\images\\shoppuff-com__mac-pharms-mac-pharms-rosin-disposable-skunk-berry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mac-pharms-mac-pharms-rosin-disposable-skunk-berry-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.866Z"
+}

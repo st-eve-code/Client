@@ -1,0 +1,35 @@
+{
+  "slug": "lightsky-farms-larry-bird-mints",
+  "name": "Larry Bird Mints",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "LightSky Farms",
+  "tags": [],
+  "description": "Sunset Sherbet x Thin Mint Girl Scout Cookies Bred by: Zamnesia Seeds Top Terpenes: Limonene, Caryophyllene Pinene",
+  "description_html": "Sunset Sherbet x Thin Mint Girl Scout Cookies Bred by: Zamnesia Seeds Top Terpenes: Limonene, Caryophyllene Pinene<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4e8db5e0a3c85420fe68fe92b4d85699",
+      "alt": "Larry Bird Mints",
+      "local": "data\\scraped\\images\\shoppuff-com__lightsky-farms-larry-bird-mints__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/lightsky-farms-larry-bird-mints-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.460Z"
+}

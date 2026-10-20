@@ -1,0 +1,35 @@
+{
+  "slug": "sky-makers-sky-makers-disposable-rainbow-runtz",
+  "name": "Sky Makers Disposable | Rainbow Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Sky Makers",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/eabb5a5ecc72bdc3df98ead1305aa0ed",
+      "alt": "Sky Makers Disposable | Rainbow Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__sky-makers-sky-makers-disposable-rainbow-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sky-makers-sky-makers-disposable-rainbow-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.866Z"
+}

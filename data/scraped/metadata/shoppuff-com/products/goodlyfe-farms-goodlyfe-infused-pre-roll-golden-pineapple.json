@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-goodlyfe-infused-pre-roll-golden-pineapple",
+  "name": "Goodlyfe Infused Pre-Roll | Golden Pineapple",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a86aefd1c6ad70717dd004dccfd1a9ed",
+      "alt": "Goodlyfe Infused Pre-Roll | Golden Pineapple",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-goodlyfe-infused-pre-roll-golden-pineapple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-goodlyfe-infused-pre-roll-golden-pineapple-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.804Z"
+}

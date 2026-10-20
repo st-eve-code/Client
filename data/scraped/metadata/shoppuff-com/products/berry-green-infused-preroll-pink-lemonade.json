@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-infused-preroll-pink-lemonade",
+  "name": "Berry Green Infused Preroll | Pink Lemonade",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Sweet, sour, and sharp. A fast spark that wakes up the room and keeps you lit.\n\nEffect: Instant mood boost — perfect for daytime hustle or night-out vibes.",
+  "description_html": "Sweet, sour, and sharp. A fast spark that wakes up the room and keeps you lit.<br /><br />Effect: Instant mood boost — perfect for daytime hustle or night-out vibes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5df56ce4de9c851042e592a48057acba",
+      "alt": "Berry Green Infused Preroll | Pink Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-infused-preroll-pink-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-infused-preroll-pink-lemonade-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.225Z"
+}

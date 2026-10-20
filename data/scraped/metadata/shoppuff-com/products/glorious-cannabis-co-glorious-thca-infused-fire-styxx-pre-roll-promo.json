@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-cannabis-co-glorious-thca-infused-fire-styxx-pre-roll-promo",
+  "name": "Glorious THCA Infused Fire Styxx Pre-Roll",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Glorious THCA Infused Fire Styxx Pre-Roll",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-thca-infused-fire-styxx-pre-roll-promo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-thca-infused-fire-styxx-pre-roll-promo-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.642Z"
+}

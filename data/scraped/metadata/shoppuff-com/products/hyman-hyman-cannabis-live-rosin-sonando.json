@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-live-rosin-sonando",
+  "name": "Hyman Cannabis Live Rosin | Sonando",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 22.5,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$22.50",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Sativa \n\nAromas: Fruity, Sweet, Herbal \n\nFlavors: Citrus, Orange, Berry\n\nExperience: Creative, Energizing, Happy",
+  "description_html": "Strain Type: Sativa <br /><br />Aromas: Fruity, Sweet, Herbal <br /><br />Flavors: Citrus, Orange, Berry<br /><br />Experience: Creative, Energizing, Happy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/347fa9db1577ac1babb4bfb4114bd504",
+      "alt": "Hyman Cannabis Live Rosin | Sonando",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-live-rosin-sonando__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 22.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-live-rosin-sonando-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.360Z"
+}

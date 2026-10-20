@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-disposable-galactic-diesel",
+  "name": "Muha Meds Disposable (3rd Gen) | Galactic Diesel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Galactic Diesel is a pungent, dank indica built for deep relaxation. Its bold, earthy diesel flavor packs a punch, while the heavy, hazy effects ease both mind and body into bliss. Ideal for late nights when you want to drift into the cosmos.",
+  "description_html": "Galactic Diesel is a pungent, dank indica built for deep relaxation. Its bold, earthy diesel flavor packs a punch, while the heavy, hazy effects ease both mind and body into bliss. Ideal for late nights when you want to drift into the cosmos.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/087f07fe11fc280cc05efadbcbb17a0b",
+      "alt": "Muha Meds Disposable (3rd Gen) | Galactic Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-disposable-galactic-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-disposable-galactic-diesel-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.087Z"
+}

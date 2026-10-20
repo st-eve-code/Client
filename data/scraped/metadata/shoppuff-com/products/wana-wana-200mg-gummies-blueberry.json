@@ -1,0 +1,35 @@
+{
+  "slug": "wana-wana-200mg-gummies-blueberry",
+  "name": "Wana | 200mg Gummies | Blueberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Wana",
+  "tags": [],
+  "description": "Infused with a terpene-enhanced indica distillate, our not-too-sweet, not-too-tart gummies can evoke feelings of relaxation and calm.",
+  "description_html": "Infused with a terpene-enhanced indica distillate, our not-too-sweet, not-too-tart gummies can evoke feelings of relaxation and calm.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0d1813da2c1b9f06ac7bbc42125b67d5",
+      "alt": "Wana | 200mg Gummies | Blueberry",
+      "local": "data\\scraped\\images\\shoppuff-com__wana-wana-200mg-gummies-blueberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".2g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wana-wana-200mg-gummies-blueberry-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.416Z"
+}

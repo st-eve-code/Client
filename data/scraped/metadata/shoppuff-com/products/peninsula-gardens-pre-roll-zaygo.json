@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-pre-roll-zaygo",
+  "name": "Peninsula Gardens Pre-Roll | Zaygo",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Cookies & Cream x Red Pop. Lots of strawberry red pop flavor and smell. Extremely frosty flower with speckles of bright green and purple throughout. Similar to our Bahama Berry and Strawberries and Cream so if you like either of those this is right up your alley.",
+  "description_html": "Cookies & Cream x Red Pop. Lots of strawberry red pop flavor and smell. Extremely frosty flower with speckles of bright green and purple throughout. Similar to our Bahama Berry and Strawberries and Cream so if you like either of those this is right up your alley.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6676e7e128e5428bcf9a2f1519a0611d",
+      "alt": "Peninsula Gardens Pre-Roll | Zaygo",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-pre-roll-zaygo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-pre-roll-zaygo-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.918Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-white-boy-rick-prepackaged-flower-noriega-og",
+  "name": "White Boy Rick Prepackaged Flower | Noriega OG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "White Boy Rick Prepackaged Flower | Noriega OG",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-white-boy-rick-prepackaged-flower-noriega-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-white-boy-rick-prepackaged-flower-noriega-og-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.427Z"
+}

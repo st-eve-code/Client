@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-sour-diesel-infused-pre-roll-1g",
+  "name": "Sour Diesel Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Sour Diesel is a sativa dominant hybrid and one of the more famous strains around, heavily referenced in pop culture. This strain has an aroma and flavor that is pungent and filled with earthy notes and, of course, diesel. Sour Diesel is a titillating option for an energy and mood boost, while also being great for relaxation and management of pain and inflammation. Its dominant terpenes include ß-Caryophyllene, Limonene, and a-Humulene.",
+  "description_html": "Sour Diesel is a sativa dominant hybrid and one of the more famous strains around, heavily referenced in pop culture. This strain has an aroma and flavor that is pungent and filled with earthy notes and, of course, diesel. Sour Diesel is a titillating option for an energy and mood boost, while also being great for relaxation and management of pain and inflammation. Its dominant terpenes include ß-Caryophyllene, Limonene, and a-Humulene.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e3a265c383e360bda3354dc8816cd165",
+      "alt": "Sour Diesel Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-sour-diesel-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-sour-diesel-infused-pre-roll-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.576Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cloud-9-cloud-9-infused-preroll-motown-pound-cake",
+  "name": "Cloud 9 Infused Preroll | Motown Pound Cake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Cloud 9",
+  "tags": [],
+  "description": "Motown Pound Cake\n\nSmooth and full of Detroit soul. Motown Pound Cake is for laid-back legends, the kind of high that wraps around you like a slow jam and doesn’t let go.\n\nFlavor Profile: Sweet Cream · Lemon Cake · Gas\n\nEffects: Sedative Euphoria · Deep Relaxation\n\nPrimary Terpenes: Limonene, Myrcene, ß-Caryophyllene",
+  "description_html": "Motown Pound Cake<br /><br />Smooth and full of Detroit soul. Motown Pound Cake is for laid-back legends, the kind of high that wraps around you like a slow jam and doesn’t let go.<br /><br />Flavor Profile: Sweet Cream · Lemon Cake · Gas<br /><br />Effects: Sedative Euphoria · Deep Relaxation<br /><br />Primary Terpenes: Limonene, Myrcene, ß-Caryophyllene",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6d7d84e7e38dc6996c162450d15d710b",
+      "alt": "Cloud 9 Infused Preroll | Motown Pound Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__cloud-9-cloud-9-infused-preroll-motown-pound-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloud-9-cloud-9-infused-preroll-motown-pound-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.024Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-original-z-premium-pre-roll-1g",
+  "name": "Original Z Premium Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Original Z features a sweet, tropical blend of fruit flavors. Now available in a one gram preroll.",
+  "description_html": "Original Z features a sweet, tropical blend of fruit flavors. Now available in a one gram preroll.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/04956395a29c752e4e9f9bed0426ba7a",
+      "alt": "Original Z Premium Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-original-z-premium-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-original-z-premium-pre-roll-1g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.626Z"
+}

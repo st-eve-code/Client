@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-1-3g-infused-cannon-indigo",
+  "name": "Jeeter | 1.3g Infused Cannon | Indigo",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Introducing the Cannon Live Resin Joint. Each joint includes one 1.3g Cannon. What sets Cannons apart is their premium flower combined with 100% live resin, delivering a full spectrum high terpene extract made from fresh frozen flower.\n- Premium Flower\n- 1 Cannon Totaling 1.3 Grams\n- 100% Live Resin Made From Fresh Frozen Flower",
+  "description_html": "Introducing the Cannon Live Resin Joint. Each joint includes one 1.3g Cannon. What sets Cannons apart is their premium flower combined with 100% live resin, delivering a full spectrum high terpene extract made from fresh frozen flower.<br />- Premium Flower<br />- 1 Cannon Totaling 1.3 Grams<br />- 100% Live Resin Made From Fresh Frozen Flower",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6c1dbb601b9081aaaf24e2418cbebbd9",
+      "alt": "Jeeter | 1.3g Infused Cannon | Indigo",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-1-3g-infused-cannon-indigo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-1-3g-infused-cannon-indigo-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.834Z"
+}

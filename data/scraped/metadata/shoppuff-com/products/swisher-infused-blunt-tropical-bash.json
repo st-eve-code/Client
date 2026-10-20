@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-infused-blunt-tropical-bash",
+  "name": "Tropical Bash Blunt - 1.5g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.5,
+  "price_max": 8.5,
+  "currency": "USD",
+  "price_range": "$8.50",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "A vibrant blend of tropical fruits, Swisher Tropical Bash delivers the beach vibe of pineapple, coconut, and an island breeze in every puff.",
+  "description_html": "A vibrant blend of tropical fruits, Swisher Tropical Bash delivers the beach vibe of pineapple, coconut, and an island breeze in every puff.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f85c6c5d076f6d60443d209668b17775",
+      "alt": "Tropical Bash Blunt - 1.5g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-infused-blunt-tropical-bash__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 8.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-infused-blunt-tropical-bash-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.502Z"
+}

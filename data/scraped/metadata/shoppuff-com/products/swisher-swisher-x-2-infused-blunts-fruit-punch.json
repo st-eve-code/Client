@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-swisher-x-2-infused-blunts-fruit-punch",
+  "name": "Swisher x 2 Infused Blunts | Fruit Punch",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "1.5g x 2 Infused Blunts\n3g Total",
+  "description_html": "1.5g x 2 Infused Blunts<br />3g Total",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b67b3c6a95d1501f88003c694300eb16",
+      "alt": "Swisher x 2 Infused Blunts | Fruit Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-swisher-x-2-infused-blunts-fruit-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-swisher-x-2-infused-blunts-fruit-punch-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.668Z"
+}

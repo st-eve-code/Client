@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-poison-gushers",
+  "name": "Poison Gusherz Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 180,
+  "currency": "USD",
+  "price_range": "$9.00 – $180.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Durban Poison x Gushers Type: Sativa-dominant Hybrid Terpenes: Caryophyllene, Limonene, and Myrcene Aroma: Fruity sweetness with an edge of earthy spice Effects: Balanced high that can be relaxing yet uplifting Poison Gushers is a bold, flavor-packed cultivar that delivers a rush of fruity sweetness with an edge of earthy spice. Crafted for true cannabis enthusiasts, this strain combines vibrant, resinous buds with a balanced profile that’s both uplifting and deeply relaxing. Expect a burst of juicy, candy-like aroma on the nose, followed by a smooth, lingering finish. Perfect for unwinding after a long day or sparking creativity, Poison Gushers stands out as a precision-grown Michigan favorite—always fresh, always potent, always memorable.",
+  "description_html": "Lineage: Durban Poison x Gushers Type: Sativa-dominant Hybrid Terpenes: Caryophyllene, Limonene, and Myrcene Aroma: Fruity sweetness with an edge of earthy spice Effects: Balanced high that can be relaxing yet uplifting Poison Gushers is a bold, flavor-packed cultivar that delivers a rush of fruity sweetness with an edge of earthy spice. Crafted for true cannabis enthusiasts, this strain combines vibrant, resinous buds with a balanced profile that’s both uplifting and deeply relaxing. Expect a burst of juicy, candy-like aroma on the nose, followed by a smooth, lingering finish. Perfect for unwinding after a long day or sparking creativity, Poison Gushers stands out as a precision-grown Michigan favorite—always fresh, always potent, always memorable.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7cdfd7c457c0d4427061b85a67ce2dfb",
+      "alt": "Poison Gusherz Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-poison-gushers__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 180,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-poison-gushers-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.910Z"
+}

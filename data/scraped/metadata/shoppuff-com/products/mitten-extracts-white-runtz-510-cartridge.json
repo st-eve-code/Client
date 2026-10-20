@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-white-runtz-510-cartridge",
+  "name": "Mitten Extracts 510 Cartridge | White Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "This indica/sativa hybrid is the intersection of Gelato and Zkittles. It’s euphoric, happy and relaxed feelings with it’s sweet and fruity flavoring will leave the consumer in a happy cloud. It’s crystallized trichomes present a diamond-like shine.",
+  "description_html": "This indica/sativa hybrid is the intersection of Gelato and Zkittles. It’s euphoric, happy and relaxed feelings with it’s sweet and fruity flavoring will leave the consumer in a happy cloud. It’s crystallized trichomes present a diamond-like shine.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9bba50d0366a4b83d6396923ea632cf8",
+      "alt": "Mitten Extracts 510 Cartridge | White Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-white-runtz-510-cartridge__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-white-runtz-510-cartridge-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.995Z"
+}

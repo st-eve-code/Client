@@ -1,0 +1,50 @@
+{
+  "slug": "glorious-cannabis-co-glorious-grandpas-rpg",
+  "name": "Intrinsic | Grandpa's RPG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$20.00 – $125.00",
+  "available": true,
+  "vendor": "Intrinsic",
+  "tags": [],
+  "description": "You'll feel chatty and ready to carry on conversations with anyone and everyone around you. This is accompanied by a sense of physical relaxation that helps your body settle into a pain-free state of ease. Grandpa's RPG a great choice for treating those suffering from conditions such as chronic stress or anxiety, depression or mood swings, chronic pain and insomnia.",
+  "description_html": "You'll feel chatty and ready to carry on conversations with anyone and everyone around you. This is accompanied by a sense of physical relaxation that helps your body settle into a pain-free state of ease. Grandpa's RPG a great choice for treating those suffering from conditions such as chronic stress or anxiety, depression or mood swings, chronic pain and insomnia.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/60b005ab7a0ad40b29968ccc71f27b13",
+      "alt": "Intrinsic | Grandpa's RPG",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-grandpas-rpg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-grandpas-rpg-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.949Z"
+}

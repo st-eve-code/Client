@@ -1,0 +1,35 @@
+{
+  "slug": "apex-solventless-apex-solventless-baby-dino-doink-hash-hole-gogurt-parfait",
+  "name": "Apex Solventless Baby Dino Doink Hash Hole | Gogurt Parfait",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Apex Solventless",
+  "tags": [],
+  "description": "Apex Solventless x Local Grove",
+  "description_html": "Apex Solventless x Local Grove",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Apex Solventless Baby Dino Doink Hash Hole | Gogurt Parfait",
+      "local": "data\\scraped\\images\\shoppuff-com__apex-solventless-apex-solventless-baby-dino-doink-hash-hole-gogurt-parfait__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/apex-solventless-apex-solventless-baby-dino-doink-hash-hole-gogurt-parfait-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.825Z"
+}

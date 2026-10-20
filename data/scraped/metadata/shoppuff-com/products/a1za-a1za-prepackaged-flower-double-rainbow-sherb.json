@@ -1,0 +1,35 @@
+{
+  "slug": "a1za-a1za-prepackaged-flower-double-rainbow-sherb",
+  "name": "A1ZA Prepackaged Flower | Double Rainbow Sherb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 84,
+  "price_max": 84,
+  "currency": "USD",
+  "price_range": "$84.00",
+  "available": true,
+  "vendor": "A1ZA",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bc6b097036d33d5272f5d21cdaa44057",
+      "alt": "A1ZA Prepackaged Flower | Double Rainbow Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__a1za-a1za-prepackaged-flower-double-rainbow-sherb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 84,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/a1za-a1za-prepackaged-flower-double-rainbow-sherb-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.686Z"
+}

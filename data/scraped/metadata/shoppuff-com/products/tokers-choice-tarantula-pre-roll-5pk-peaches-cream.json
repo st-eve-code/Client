@@ -1,0 +1,35 @@
+{
+  "slug": "tokers-choice-tarantula-pre-roll-5pk-peaches-cream",
+  "name": "Toker's Choice Tarantula Pre-Roll 5pk | Peaches & Cream",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 18,
+  "price_max": 18,
+  "currency": "USD",
+  "price_range": "$18.00",
+  "available": true,
+  "vendor": "Toker's Choice",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/95c0f23f737dcafbda4dbb71be2a639e",
+      "alt": "Toker's Choice Tarantula Pre-Roll 5pk | Peaches & Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__tokers-choice-tarantula-pre-roll-5pk-peaches-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 18,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tokers-choice-tarantula-pre-roll-5pk-peaches-cream-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.538Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "guerilla-grown-guerilla-grown-betty-white",
+  "name": "Guerilla Grown | Betty White",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "Guerilla Grown",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8b6efed6fd341c9b3342f35bec435551",
+      "alt": "Guerilla Grown | Betty White",
+      "local": "data\\scraped\\images\\shoppuff-com__guerilla-grown-guerilla-grown-betty-white__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guerilla-grown-guerilla-grown-betty-white-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.034Z"
+}

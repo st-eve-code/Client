@@ -1,0 +1,40 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-count-chunkula-3-5g",
+  "name": "Local Grove Prepackaged Flower | Count Chunkula | 3.5G",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$35.00 – $120.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Mochi Gelato x Runtz \n\nBreeder: Clearwater Genetics \n\nAroma & Flavor: Chocolate and candy notes from dense purple buds \n\nEffects: Indica-leaning hybrid – relaxing and flavorful",
+  "description_html": "Genetics: Mochi Gelato x Runtz <br /><br />Breeder: Clearwater Genetics <br /><br />Aroma & Flavor: Chocolate and candy notes from dense purple buds <br /><br />Effects: Indica-leaning hybrid – relaxing and flavorful",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fb4a52020cc55aea9e08e47c2576070a",
+      "alt": "Local Grove Prepackaged Flower | Count Chunkula | 3.5G",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-count-chunkula-3-5g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 120,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-count-chunkula-3-5g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.551Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edible-200mg-sap-syrup-blue-razz",
+  "name": "Detroit Edible | 200mg SAP Syrup | Blue Razz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Sap Live Resin Cannabis Syrup is made from pure full-spectrum live resin extract infused into tapioca syrup. It gives consumers all the amazing benefits of the 'Entourage Effect' and is much healthier than corn syrup products. Just mix it in your favorite drink or take a shot straight from the bottle!",
+  "description_html": "Sap Live Resin Cannabis Syrup is made from pure full-spectrum live resin extract infused into tapioca syrup. It gives consumers all the amazing benefits of the 'Entourage Effect' and is much healthier than corn syrup products. Just mix it in your favorite drink or take a shot straight from the bottle!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a9c97647864ad87c56bb9d243359a377",
+      "alt": "Detroit Edible | 200mg SAP Syrup | Blue Razz",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edible-200mg-sap-syrup-blue-razz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.075g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edible-200mg-sap-syrup-blue-razz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.939Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "cloud-farms-moon-candy",
+  "name": "Cloud Farms | Moon Candy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 9,
+  "currency": "USD",
+  "price_range": "$3.00 – $9.00",
+  "available": true,
+  "vendor": "Cloud Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/09b6d903f08543326868cba8ab043db6",
+      "alt": "Cloud Farms | Moon Candy",
+      "local": "data\\scraped\\images\\shoppuff-com__cloud-farms-moon-candy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cloud-farms-moon-candy-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.538Z"
+}

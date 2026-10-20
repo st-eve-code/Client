@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-200mg-live-resin-gummies-grape-stomper",
+  "name": "Cannalicious | 200mg Live Resin Gummies | Grape Stomper",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Premium Live Resin Gummies are made using pure full-spectrum live resin extract, which allows consumers to experience all the benefits of the “Entourage Effect”. These gummies are designed for experienced consumers and feature strain-specific cannabis derived terpenes.",
+  "description_html": "Premium Live Resin Gummies are made using pure full-spectrum live resin extract, which allows consumers to experience all the benefits of the “Entourage Effect”. These gummies are designed for experienced consumers and feature strain-specific cannabis derived terpenes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9c6a4c6ff6bab14a5a139f9a5c012cde",
+      "alt": "Cannalicious | 200mg Live Resin Gummies | Grape Stomper",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-200mg-live-resin-gummies-grape-stomper__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-200mg-live-resin-gummies-grape-stomper-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.444Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "apex-solventless-apex-solventless-live-rosin-tier-1-blueberry-zyrup",
+  "name": "Apex Solventless Live Rosin Tier 1 | Blueberry Zyrup",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "Apex Solventless",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b2a499c742aa07a6de352e77b60df142",
+      "alt": "Apex Solventless Live Rosin Tier 1 | Blueberry Zyrup",
+      "local": "data\\scraped\\images\\shoppuff-com__apex-solventless-apex-solventless-live-rosin-tier-1-blueberry-zyrup__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/apex-solventless-apex-solventless-live-rosin-tier-1-blueberry-zyrup-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.842Z"
+}

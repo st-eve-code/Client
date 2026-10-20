@@ -1,0 +1,60 @@
+{
+  "slug": "guss-real-exotics-guss-real-exotics-2-hearted-kush-smalls",
+  "name": "Gus's Real Exotics | 2 Hearted Kush (Smalls)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$5.00 – $125.00",
+  "available": true,
+  "vendor": "Gus's Real Exotics",
+  "tags": [],
+  "description": "$125 BOGO Flower Tier",
+  "description_html": "$125 BOGO Flower Tier",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e35b61da967b4085277713578fa0507c",
+      "alt": "Gus's Real Exotics | 2 Hearted Kush (Smalls)",
+      "local": "data\\scraped\\images\\shoppuff-com__guss-real-exotics-guss-real-exotics-2-hearted-kush-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guss-real-exotics-guss-real-exotics-2-hearted-kush-smalls-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.900Z"
+}

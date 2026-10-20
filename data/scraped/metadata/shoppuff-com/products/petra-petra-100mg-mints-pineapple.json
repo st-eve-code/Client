@@ -1,0 +1,35 @@
+{
+  "slug": "petra-petra-100mg-mints-pineapple",
+  "name": "Petra | 100mg Mints | Pineapple",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Petra",
+  "tags": [],
+  "description": "Exercise your willpower with our sweetest Petra flavor yet. Each morsel tastes like ripe, juicy pineapple and will leave you craving more. This product does not contain any allergens. 5mg THC per serving 100mg THC per package 40 mints per pack",
+  "description_html": "Exercise your willpower with our sweetest Petra flavor yet. Each morsel tastes like ripe, juicy pineapple and will leave you craving more. This product does not contain any allergens. 5mg THC per serving 100mg THC per package 40 mints per pack",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c69af44eb84e27d6c670bbf70e338a8a",
+      "alt": "Petra | 100mg Mints | Pineapple",
+      "local": "data\\scraped\\images\\shoppuff-com__petra-petra-100mg-mints-pineapple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.855g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/petra-petra-100mg-mints-pineapple-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.932Z"
+}

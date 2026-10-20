@@ -1,0 +1,40 @@
+{
+  "slug": "mkx-oil-co-mkx-1g-510-cartridge-apple-fritter",
+  "name": "MKX | 1g 510 Cartridge | Apple Fritter",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$8.00 – $15.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "Elevate your cannabis experience with our new THC Disposables! Crafted for bold flavor enthusiasts, our enhanced hardware delivers a potent fusion of your favorite flavors in each puff. Say goodbye to refills and recharges, and embrace the cannabis-derived terpenes. Additionally, our cutting-edge hardware features a convenient Type-C charging port, ensuring a swift and hassle-free recharging experience.",
+  "description_html": "Elevate your cannabis experience with our new THC Disposables! Crafted for bold flavor enthusiasts, our enhanced hardware delivers a potent fusion of your favorite flavors in each puff. Say goodbye to refills and recharges, and embrace the cannabis-derived terpenes. Additionally, our cutting-edge hardware features a convenient Type-C charging port, ensuring a swift and hassle-free recharging experience.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/01451755e0e7e68f7f58eacadbf57a9c",
+      "alt": "MKX | 1g 510 Cartridge | Apple Fritter",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-mkx-1g-510-cartridge-apple-fritter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-mkx-1g-510-cartridge-apple-fritter-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.241Z"
+}

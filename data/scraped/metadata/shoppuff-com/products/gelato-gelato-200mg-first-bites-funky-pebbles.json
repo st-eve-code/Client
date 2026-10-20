@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-200mg-first-bites-funky-pebbles",
+  "name": "Gelato | 200mg First Bites | Funky Pebbles",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Our Cinna Clusterz first bites are cinnamon cereal treat bites portioned in 10 (20mg) pieces for easy dosing and a delicious crispy treat experience.",
+  "description_html": "Our Cinna Clusterz first bites are cinnamon cereal treat bites portioned in 10 (20mg) pieces for easy dosing and a delicious crispy treat experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d8508ea4119f36f17969f5268e6841c7",
+      "alt": "Gelato | 200mg First Bites | Funky Pebbles",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-200mg-first-bites-funky-pebbles__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4.0075g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-200mg-first-bites-funky-pebbles-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.775Z"
+}

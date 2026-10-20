@@ -1,0 +1,35 @@
+{
+  "slug": "green-dr-100mg-cbd-bath-bomb-deep-muscle",
+  "name": "Green DR | 100mg CBD Bath Bomb | Deep Muscle",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Green Dr. CBD",
+  "tags": [],
+  "description": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "description_html": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2e97f2f5e3e3f694eaf5ba9b9007e0ce",
+      "alt": "Green DR | 100mg CBD Bath Bomb | Deep Muscle",
+      "local": "data\\scraped\\images\\shoppuff-com__green-dr-100mg-cbd-bath-bomb-deep-muscle__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/green-dr-100mg-cbd-bath-bomb-deep-muscle-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.342Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-mike-tyson-papers-cones",
+  "name": "Mike Tyson Papers/Cones",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "king size papers.",
+  "description_html": "king size papers.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/accessories.jpg",
+      "alt": "Mike Tyson Papers/Cones",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-mike-tyson-papers-cones__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-mike-tyson-papers-cones-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.845Z"
+}

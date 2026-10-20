@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-live-resin-baller-jar-slurpicane",
+  "name": "Cannalicious Live Resin Baller Jar | Slurpicane",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 65,
+  "price_max": 65,
+  "currency": "USD",
+  "price_range": "$65.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Live Resin is created from flower that has been flash frozen at the time of harvest to preserve all the trichomes, which produce the terpenes and cannabinoids that give the flower it’s rich flavor and complex aroma. The special “baller” jar gives you a full 7 grams of product and the activation time is immediate.",
+  "description_html": "Live Resin is created from flower that has been flash frozen at the time of harvest to preserve all the trichomes, which produce the terpenes and cannabinoids that give the flower it’s rich flavor and complex aroma. The special “baller” jar gives you a full 7 grams of product and the activation time is immediate.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8347490cbc3e55f112fffce76a12b194",
+      "alt": "Cannalicious Live Resin Baller Jar | Slurpicane",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-live-resin-baller-jar-slurpicane__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-live-resin-baller-jar-slurpicane-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.546Z"
+}

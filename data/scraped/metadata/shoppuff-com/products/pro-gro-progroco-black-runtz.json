@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-black-runtz",
+  "name": "Black Runtz Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 157.5,
+  "currency": "USD",
+  "price_range": "$9.00 – $157.50",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Gelato X Zkittlez\n\nType: Hybrid \n\nEffects: Euphoric, Sociable, Relaxed\n\nAroma: Sweet, Creamy, Candy, Spicy Berries",
+  "description_html": "Lineage: Gelato X Zkittlez<br /><br />Type: Hybrid <br /><br />Effects: Euphoric, Sociable, Relaxed<br /><br />Aroma: Sweet, Creamy, Candy, Spicy Berries",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/440ca20e260507fc87341c1c04d39b67",
+      "alt": "Black Runtz Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-black-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 22.5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 157.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 81,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-black-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.910Z"
+}

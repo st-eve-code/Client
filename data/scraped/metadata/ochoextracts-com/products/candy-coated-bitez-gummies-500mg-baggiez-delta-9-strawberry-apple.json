@@ -1,0 +1,52 @@
+{
+  "slug": "candy-coated-bitez-gummies-500mg-baggiez-delta-9-strawberry-apple",
+  "name": "Candy Coated BITEZ Gummies 500mg Baggiez | Delta-9 | Strawberry Apple",
+  "site": "ochoextracts-com",
+  "category": "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+  "price_min": 5.99,
+  "price_max": 5.99,
+  "currency": "GBP",
+  "price_range": "£5.99",
+  "available": true,
+  "sku": "S-D9-BITEZ-SA",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "CANDY COATED D9",
+    "Delta-9",
+    "Gummies",
+    "Ocho Extracts"
+  ],
+  "description": "Strawberry Apple tastes like the fruit stand took a detour through the candy aisle. Ripe strawberry brings a jammy sweetness while crisp green apple cuts through with a bright, tangy snap. Then comes the tiny, colorful crunchy candy coating, adding a crackly finish before you hit two soft, chewy gummy layers packing 50mg of hemp-derived Delta-9 THC in each gummy underneath.",
+  "description_html": "<p><strong>Strawberry Apple tastes like the fruit stand took a detour through the candy aisle.</strong> Ripe strawberry brings a jammy sweetness while crisp green apple cuts through with a bright, tangy snap. Then comes the <strong>tiny, colorful crunchy candy coating</strong>, adding a crackly finish before you hit <strong>two soft, chewy gummy layers packing 50mg of hemp-derived Delta-9 THC in each gummy</strong> underneath.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-GUMMY-SA.png?v=1789076959",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-strawberry-apple__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-BAGGY-SA.png?v=1789063414",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-strawberry-apple__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46612940161210,
+      "title": "Default Title",
+      "price": 5.99,
+      "sku": "S-D9-BITEZ-SA",
+      "available": true
+    }
+  ],
+  "collections": [
+    "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+    "double-stacked-bitez-gummies",
+    "gourmet-gummies",
+    "ocho-extracts"
+  ],
+  "source_url": "https://ochoextracts.com/products/candy-coated-bitez-gummies-500mg-baggiez-delta-9-strawberry-apple",
+  "scraped_at": "2026-10-10T21:42:36.207Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "webweavers-tarantula-pre-roll-blue-widow",
+  "name": "Webweavers Tarantula Pre-Roll | Blue Widow",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Web Weavers",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/22c2761d9735d2a844617961b01b48bb",
+      "alt": "Webweavers Tarantula Pre-Roll | Blue Widow",
+      "local": "data\\scraped\\images\\shoppuff-com__webweavers-tarantula-pre-roll-blue-widow__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/webweavers-tarantula-pre-roll-blue-widow-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.261Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-cannabis-northwoods-cap-junky",
+  "name": "Northwoods | Cap Junky",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$10.00 – $175.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "The Cap Junky strain is rich in terpenes, providing a pungent aroma that is sour and funky. The dense, frosted buds fill the rooms with notes of exotic fruit and menthol, contrasted with bitter hints of gasoline and black pepper.",
+  "description_html": "The Cap Junky strain is rich in terpenes, providing a pungent aroma that is sour and funky. The dense, frosted buds fill the rooms with notes of exotic fruit and menthol, contrasted with bitter hints of gasoline and black pepper.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7df0d119a7fcf351af9b74594682509d",
+      "alt": "Northwoods | Cap Junky",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-cannabis-northwoods-cap-junky__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 175,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-cannabis-northwoods-cap-junky-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.603Z"
+}

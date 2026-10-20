@@ -1,0 +1,35 @@
+{
+  "slug": "jesters-jesters-infused-pre-roll-og-gg-4",
+  "name": "Jesters Infused Pre-Roll | OG GG #4",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Jesters",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1d82a41755543f99a3a9a40a380d9b90",
+      "alt": "Jesters Infused Pre-Roll | OG GG #4",
+      "local": "data\\scraped\\images\\shoppuff-com__jesters-jesters-infused-pre-roll-og-gg-4__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jesters-jesters-infused-pre-roll-og-gg-4-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.729Z"
+}

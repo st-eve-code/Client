@@ -1,0 +1,35 @@
+{
+  "slug": "society-c-society-c-gastro-pop",
+  "name": "Society C | Gastro Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Society C",
+  "tags": [],
+  "description": "Gastro Pop was originally created as a collaboration between Cookies and Compound Genetics and is made by crossing Apples and Bananas with Grape Gas. This hybrid makes for a super terpy strain heavy on the fruit and gas notes. Fans of strains with a strong nose are sure to love this one in their bowl. This exotic should have you feeling happy, relaxed and euphoric.\n\nStaying true to our legacy heritage, our premium flower is all single sourced from our leading-edge 57,000 sq ft cultivation facility and top shelf phenotypes are chosen for optimal potency, flavor and effect. Our nice fluffy buds are all dried to perfection and hand-trimmed to ensure the best possible user experience.",
+  "description_html": "Gastro Pop was originally created as a collaboration between Cookies and Compound Genetics and is made by crossing Apples and Bananas with Grape Gas. This hybrid makes for a super terpy strain heavy on the fruit and gas notes. Fans of strains with a strong nose are sure to love this one in their bowl. This exotic should have you feeling happy, relaxed and euphoric.<br /><br />Staying true to our legacy heritage, our premium flower is all single sourced from our leading-edge 57,000 sq ft cultivation facility and top shelf phenotypes are chosen for optimal potency, flavor and effect. Our nice fluffy buds are all dried to perfection and hand-trimmed to ensure the best possible user experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8bc82e3f50aad428258e7d0b6f21a21f",
+      "alt": "Society C | Gastro Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__society-c-society-c-gastro-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/society-c-society-c-gastro-pop-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.417Z"
+}

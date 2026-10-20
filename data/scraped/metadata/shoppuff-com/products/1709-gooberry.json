@@ -1,0 +1,60 @@
+{
+  "slug": "1709-gooberry",
+  "name": "1709 | Gooberry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "1709",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fbc612d6fe10045bb5d4c67b37edfeff",
+      "alt": "1709 | Gooberry",
+      "local": "data\\scraped\\images\\shoppuff-com__1709-gooberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/1709-gooberry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.599Z"
+}

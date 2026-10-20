@@ -1,0 +1,35 @@
+{
+  "slug": "homiez-homiez-infused-preroll-14pk-super-sour-diesel",
+  "name": "Homiez Infused Preroll 14pk | Super Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "HOMIEZ",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/735e924a1d0a8786393a43657f3f16b7",
+      "alt": "Homiez Infused Preroll 14pk | Super Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__homiez-homiez-infused-preroll-14pk-super-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/homiez-homiez-infused-preroll-14pk-super-sour-diesel-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.322Z"
+}

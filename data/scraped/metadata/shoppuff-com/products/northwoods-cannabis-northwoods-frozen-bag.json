@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-cannabis-northwoods-frozen-bag",
+  "name": "Northwoods | Frozen Bag",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "The initial taste of Momochi is a burst of fruity sweetness, with pronounced notes of tropical fruits, and hints of citrus, earthy, herbal undertones.",
+  "description_html": "The initial taste of Momochi is a burst of fruity sweetness, with pronounced notes of tropical fruits, and hints of citrus, earthy, herbal undertones.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2f6555db67339ff247141cb51495d7f7",
+      "alt": "Northwoods | Frozen Bag",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-cannabis-northwoods-frozen-bag__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-cannabis-northwoods-frozen-bag-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.321Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "highly-casual-5mg-seltzer-blueberry-pineapple-11",
+  "name": "Highly Casual | 5mg Seltzer | Blueberry + Pineapple 1:1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Highly Casual",
+  "tags": [],
+  "description": "Ever mixed blueberries and pineapples together? Not recently? Well, you’re in luck, because our Blueberry + Pineapple seltzer is the Highly Casual Wildcard.\n\nIt’s fresh. It’s got zip. It tastes just like that energy drink you like, without all the weird stuff inside. Our Blueberry + Pineapple just has great tasting fruit flavor, seltzer, and weed. There might be more ingredients than that, but you get where we’re going.",
+  "description_html": "Ever mixed blueberries and pineapples together? Not recently? Well, you’re in luck, because our Blueberry + Pineapple seltzer is the Highly Casual Wildcard.<br /><br />It’s fresh. It’s got zip. It tastes just like that energy drink you like, without all the weird stuff inside. Our Blueberry + Pineapple just has great tasting fruit flavor, seltzer, and weed. There might be more ingredients than that, but you get where we’re going.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/afe241110a744d1ea614786f513d9aa9",
+      "alt": "Highly Casual | 5mg Seltzer | Blueberry + Pineapple 1:1",
+      "local": "data\\scraped\\images\\shoppuff-com__highly-casual-5mg-seltzer-blueberry-pineapple-11__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/highly-casual-5mg-seltzer-blueberry-pineapple-11-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.860Z"
+}

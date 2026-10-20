@@ -1,0 +1,35 @@
+{
+  "slug": "smoorhouse-x-7-bubble-hash-diamond-infused-prerolls-electric-lantz",
+  "name": "Smoorhouse x 7 Bubble Hash & Diamond Infused Prerolls | Electric Lantz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Pack of 7 (.5g) bubble hash infused pre-rolls. Total of 3.5g.\n\nPremium indoor flower\nBubble hash + diamond-infused\nHand-trimmed and batch-tested\n\nMagic Sherblato Flavor: Creamy sherbet, pine, gas\nTerpenes: Limonene, Linalool, Humulene\nFeel: Uplifting, clear-headed, lightly euphoric",
+  "description_html": "Pack of 7 (.5g) bubble hash infused pre-rolls. Total of 3.5g.<br /><br />Premium indoor flower<br />Bubble hash + diamond-infused<br />Hand-trimmed and batch-tested<br /><br />Magic Sherblato Flavor: Creamy sherbet, pine, gas<br />Terpenes: Limonene, Linalool, Humulene<br />Feel: Uplifting, clear-headed, lightly euphoric",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Smoorhouse x 7 Bubble Hash & Diamond Infused Prerolls | Electric Lantz",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-x-7-bubble-hash-diamond-infused-prerolls-electric-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-x-7-bubble-hash-diamond-infused-prerolls-electric-lantz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.908Z"
+}

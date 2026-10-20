@@ -1,0 +1,35 @@
+{
+  "slug": "rise-20mg-rso-tablets-2pk-super-boof",
+  "name": "Rise | 20mg RSO Tablets 2pk | Super Boof",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "Rise RSO tablets 2pk super boof",
+  "description_html": "Rise RSO tablets 2pk super boof<br />                                                                                  <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5619-Puff-JointStore-Sturgis.webp",
+      "alt": "Rise | 20mg RSO Tablets 2pk | Super Boof",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-20mg-rso-tablets-2pk-super-boof__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".7g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ORAL"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-20mg-rso-tablets-2pk-super-boof-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.532Z"
+}

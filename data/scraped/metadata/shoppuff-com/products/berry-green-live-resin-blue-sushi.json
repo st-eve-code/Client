@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-live-resin-blue-sushi",
+  "name": "Berry Green Live Resin | Blue Sushi",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Cool, refined, and flavor-rich — Blue Zushi Live Resin blends berry sweetness with subtle gas and herbal notes. The effect lands balanced and composed, with a calm clarity and polished, premium finish.",
+  "description_html": "Cool, refined, and flavor-rich — Blue Zushi Live Resin blends berry sweetness with subtle gas and herbal notes. The effect lands balanced and composed, with a calm clarity and polished, premium finish.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dbcdfad18f80ec0089761ee7bcbe306d",
+      "alt": "Berry Green Live Resin | Blue Sushi",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-live-resin-blue-sushi__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-live-resin-blue-sushi-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.244Z"
+}

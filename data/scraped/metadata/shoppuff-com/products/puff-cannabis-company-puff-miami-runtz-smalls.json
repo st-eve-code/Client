@@ -1,0 +1,60 @@
+{
+  "slug": "puff-cannabis-company-puff-miami-runtz-smalls",
+  "name": "Puff | Miami Runtz Smalls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$8.00 – $125.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Puff | Miami Runtz Smalls",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-miami-runtz-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-miami-runtz-smalls-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.766Z"
+}

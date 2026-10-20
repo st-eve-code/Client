@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-candy-bowl-cartridge-1g",
+  "name": "Candy Bowl Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Full Gram with 90% + THC, Cannabis Terpenes that are 100% Cannabis Derived in Premium Cartridges.",
+  "description_html": "Full Gram with 90% + THC, Cannabis Terpenes that are 100% Cannabis Derived in Premium Cartridges.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/08f6ea62be3ddaafca3139589cf9cb3c",
+      "alt": "Candy Bowl Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-candy-bowl-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-candy-bowl-cartridge-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.647Z"
+}

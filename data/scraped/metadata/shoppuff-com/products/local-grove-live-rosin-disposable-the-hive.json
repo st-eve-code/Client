@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-live-rosin-disposable-the-hive",
+  "name": "Local Grove Live Rosin Disposable | The Hive",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Honey Banana x Papaya \n\nBreeder: Bloom Seed Co \n\nAroma & Flavor: Candy banana mixed with fruity papaya \n\nEffects: Hybrid – flavorful concentrate-focused cultivar",
+  "description_html": "Genetics: Honey Banana x Papaya <br /><br />Breeder: Bloom Seed Co <br /><br />Aroma & Flavor: Candy banana mixed with fruity papaya <br /><br />Effects: Hybrid – flavorful concentrate-focused cultivar",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/52d42c15246a00c99f5d7459b459514e",
+      "alt": "Local Grove Live Rosin Disposable | The Hive",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-live-rosin-disposable-the-hive__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-live-rosin-disposable-the-hive-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.557Z"
+}

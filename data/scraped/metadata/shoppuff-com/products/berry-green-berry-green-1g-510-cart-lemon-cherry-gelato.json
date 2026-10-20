@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-1g-510-cart-lemon-cherry-gelato",
+  "name": "Berry Green | 1g 510 Cart | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Sweet meets savage. Citrus fire with a cherry sting.\n\nBorn to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "description_html": "Sweet meets savage. Citrus fire with a cherry sting.<br /><br />Born to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/358954bbd587c5b0695f85899725c621",
+      "alt": "Berry Green | 1g 510 Cart | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-1g-510-cart-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-1g-510-cart-lemon-cherry-gelato-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.263Z"
+}

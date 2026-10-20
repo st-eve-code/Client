@@ -1,0 +1,35 @@
+{
+  "slug": "rollganic-rollganic-live-resin-the-whip",
+  "name": "Rollganic Live Resin | The Whip",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6.25,
+  "price_max": 6.25,
+  "currency": "USD",
+  "price_range": "$6.25",
+  "available": true,
+  "vendor": "Rollganic",
+  "tags": [],
+  "description": "This premium concentrate is crafted from the highly regarded The Whip strain, which is known for its uplifting effects and tantalizing flavor profile.\n\nThe Whip strain offers a balanced flavor profile with sweet citrus, tropical fruit, and a touch of earthy spice.\n\nThese complex and refreshing notes are accompanied by subtle hints of pine, making for a vibrant and enticing aromatic experience that will captivate your senses.",
+  "description_html": "This premium concentrate is crafted from the highly regarded The Whip strain, which is known for its uplifting effects and tantalizing flavor profile.<br /><br />The Whip strain offers a balanced flavor profile with sweet citrus, tropical fruit, and a touch of earthy spice.<br /><br />These complex and refreshing notes are accompanied by subtle hints of pine, making for a vibrant and enticing aromatic experience that will captivate your senses.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1d1fbf7ae94942e3297613e20ebca191",
+      "alt": "Rollganic Live Resin | The Whip",
+      "local": "data\\scraped\\images\\shoppuff-com__rollganic-rollganic-live-resin-the-whip__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rollganic-rollganic-live-resin-the-whip-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.872Z"
+}

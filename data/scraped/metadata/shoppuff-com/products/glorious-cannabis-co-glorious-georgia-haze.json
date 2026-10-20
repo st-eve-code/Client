@@ -1,0 +1,60 @@
+{
+  "slug": "glorious-cannabis-co-glorious-georgia-haze",
+  "name": "Glorious | Georgia Haze",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$8.00 – $125.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "The Georgia Haze high settles in a few minutes after your final toke, slowly working its way through your mind into a lifted state of pure happiness and euphoria that’s lightly tingly and hazy in nature. This tingly effect will soon work its way throughout the rest of your body, leaving you calm, totally at ease and pretty hungry at times.",
+  "description_html": "The Georgia Haze high settles in a few minutes after your final toke, slowly working its way through your mind into a lifted state of pure happiness and euphoria that’s lightly tingly and hazy in nature. This tingly effect will soon work its way throughout the rest of your body, leaving you calm, totally at ease and pretty hungry at times.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/35b7e746a1bd2c4597981ca47d931661",
+      "alt": "Glorious | Georgia Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-georgia-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-georgia-haze-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.596Z"
+}

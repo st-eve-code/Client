@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-1-3g-solventless-infused-cannon-hurricane",
+  "name": "Jeeter | 1.3g Solventless Infused Cannon | Hurricane",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 22.5,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$22.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d18499733e264c6b7fd5a90761ef8a94",
+      "alt": "Jeeter | 1.3g Solventless Infused Cannon | Hurricane",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-1-3g-solventless-infused-cannon-hurricane__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 22.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-1-3g-solventless-infused-cannon-hurricane-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.110Z"
+}

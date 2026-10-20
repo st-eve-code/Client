@@ -1,0 +1,35 @@
+{
+  "slug": "amnesia-amnesia-1-3-bubble-hash-infused-preroll-cherry-pie",
+  "name": "Amnesia | 1.3 Bubble Hash Infused Preroll | Cherry Pie",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Amnesia",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f3b5267b7fb122f12ffe912a9f88c443",
+      "alt": "Amnesia | 1.3 Bubble Hash Infused Preroll | Cherry Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__amnesia-amnesia-1-3-bubble-hash-infused-preroll-cherry-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/amnesia-amnesia-1-3-bubble-hash-infused-preroll-cherry-pie-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.701Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "old-school-hash-co-old-school-hash-co-live-rosin-sour-diesel",
+  "name": "Old School Hash Co. Live Rosin | Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Old School Hash Co.",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5616-Puff-JointStore-Monroe.webp",
+      "alt": "Old School Hash Co. Live Rosin | Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__old-school-hash-co-old-school-hash-co-live-rosin-sour-diesel__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/old-school-hash-co-old-school-hash-co-live-rosin-sour-diesel-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.829Z"
+}

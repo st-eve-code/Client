@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-disposable-og-kush",
+  "name": "Mitten Extracts Disposable | OG Kush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Few strains carry the reputation of OG Kush. With earthy pine notes layered with citrus spice, this classic indica defines the word “smooth.” This 2g disposable captures the strain’s legacy with a rich, full-bodied flavor and heavy, calming effects that make it the gold standard for relaxation. When only the original will do, OG Kush is the one to reach for.",
+  "description_html": "Few strains carry the reputation of OG Kush. With earthy pine notes layered with citrus spice, this classic indica defines the word “smooth.” This 2g disposable captures the strain’s legacy with a rich, full-bodied flavor and heavy, calming effects that make it the gold standard for relaxation. When only the original will do, OG Kush is the one to reach for.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9ae4fe7ba358cc311e19b1635b36f981",
+      "alt": "Mitten Extracts Disposable | OG Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-disposable-og-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-disposable-og-kush-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.074Z"
+}

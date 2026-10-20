@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-x-3-infused-cannons-venom-og",
+  "name": "Jeeter x 3 Infused Cannons | Venom OG",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/719cfce6be47793a1bc518858a171044",
+      "alt": "Jeeter x 3 Infused Cannons | Venom OG",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-x-3-infused-cannons-venom-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-x-3-infused-cannons-venom-og-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.194Z"
+}

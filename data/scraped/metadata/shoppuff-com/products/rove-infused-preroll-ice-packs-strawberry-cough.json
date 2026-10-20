@@ -1,0 +1,35 @@
+{
+  "slug": "rove-infused-preroll-ice-packs-strawberry-cough",
+  "name": "Strawberry Cough - Infused Ice Packs (Rosin, Hash, and Diamonds) 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "This sativa bursts with fresh strawberry flavor and delivers an energizing, flavorful session that fits right into a productive afternoon or a social night out.",
+  "description_html": "This sativa bursts with fresh strawberry flavor and delivers an energizing, flavorful session that fits right into a productive afternoon or a social night out.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/588a9a0c1d54a40cdcc2bc6e8b69c1e2",
+      "alt": "Strawberry Cough - Infused Ice Packs (Rosin, Hash, and Diamonds) 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-infused-preroll-ice-packs-strawberry-cough__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-infused-preroll-ice-packs-strawberry-cough-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.406Z"
+}

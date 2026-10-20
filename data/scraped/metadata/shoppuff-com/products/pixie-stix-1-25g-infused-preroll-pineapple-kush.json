@@ -1,0 +1,35 @@
+{
+  "slug": "pixie-stix-1-25g-infused-preroll-pineapple-kush",
+  "name": "Pixie Stix | 1.25g Infused Preroll | Pineapple Kush",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Pineapple Kush indica infused pre roll. \nOne 1.25g pre roll per pack.\n\nFlavors:\nPineapple\nGrapefruit\nEarthy\nPepper\nSweet",
+  "description_html": "Pixie Stix Pineapple Kush indica infused pre roll. <br />One 1.25g pre roll per pack.<br /><br />Flavors:<br />Pineapple<br />Grapefruit<br />Earthy<br />Pepper<br />Sweet",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e0c5e8a3357781b48b1727a651e1eb7b",
+      "alt": "Pixie Stix | 1.25g Infused Preroll | Pineapple Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__pixie-stix-1-25g-infused-preroll-pineapple-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pixie-stix-1-25g-infused-preroll-pineapple-kush-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.875Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-breeze-canna-disposable-fruit-punch",
+  "name": "Breeze Canna Disposable | Fruit Punch",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Sweet and tangy fruit with tropical beach vibes.\n\nEffects | Uplifted - Aroused - Happy",
+  "description_html": "Sweet and tangy fruit with tropical beach vibes.<br /><br />Effects | Uplifted - Aroused - Happy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a5a9e2653244a91aa22714b223da03c6",
+      "alt": "Breeze Canna Disposable | Fruit Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-breeze-canna-disposable-fruit-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-breeze-canna-disposable-fruit-punch-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.587Z"
+}

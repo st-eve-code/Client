@@ -1,0 +1,35 @@
+{
+  "slug": "rise-suno-2500mg-tincture-cbd",
+  "name": "Suno | 2500mg Tincture | CBD",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "Suno CBD Tincture is formulated with 100% all-natural refined hemp seed oil, contains 2500mg CBD per bottle, and is THC free.\n\nEach dropper is metered to allow for accurate dosing every single time.\n\nSuno CBD tincture does not contain any nut oil, is made with hemp seed oil (refined/golden) to offer a 100% cannabis-based tincture, and hemp-derived CBD isolate.\n\nEach bottle contains 30mL of tincture and provides 83.3mg CBD per serving (equal to 30 servings/bottle).",
+  "description_html": "Suno CBD Tincture is formulated with 100% all-natural refined hemp seed oil, contains 2500mg CBD per bottle, and is THC free.<br /><br />Each dropper is metered to allow for accurate dosing every single time.<br /><br />Suno CBD tincture does not contain any nut oil, is made with hemp seed oil (refined/golden) to offer a 100% cannabis-based tincture, and hemp-derived CBD isolate.<br /><br />Each bottle contains 30mL of tincture and provides 83.3mg CBD per serving (equal to 30 servings/bottle).",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Suno | 2500mg Tincture | CBD",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-suno-2500mg-tincture-cbd__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".8g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-suno-2500mg-tincture-cbd-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.690Z"
+}

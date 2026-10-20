@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-donnutz-38-special",
+  "name": "Minntz Donnutz | 38 Special",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9d7d5ad162b684784f4b4cb93fae5c11",
+      "alt": "Minntz Donnutz | 38 Special",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-donnutz-38-special__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-donnutz-38-special-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.822Z"
+}

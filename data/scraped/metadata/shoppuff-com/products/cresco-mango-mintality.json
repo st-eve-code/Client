@@ -1,0 +1,35 @@
+{
+  "slug": "cresco-mango-mintality",
+  "name": "Cresco | Mango Mintality",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.8,
+  "price_max": 4.8,
+  "currency": "USD",
+  "price_range": "$4.80",
+  "available": true,
+  "vendor": "Cresco",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/71518fcb568c6d859fea8fc6cc11652e",
+      "alt": "Cresco | Mango Mintality",
+      "local": "data\\scraped\\images\\shoppuff-com__cresco-mango-mintality__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4.8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cresco-mango-mintality-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.621Z"
+}

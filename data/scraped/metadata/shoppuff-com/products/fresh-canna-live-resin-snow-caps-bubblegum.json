@@ -1,0 +1,45 @@
+{
+  "slug": "fresh-canna-live-resin-snow-caps-bubblegum",
+  "name": "Fresh Canna | Live Resin Snow Caps | Bubblegum",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$5.00 – $20.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/415528be7edad24fb3a23f121d7c0698",
+      "alt": "Fresh Canna | Live Resin Snow Caps | Bubblegum",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-live-resin-snow-caps-bubblegum__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-live-resin-snow-caps-bubblegum-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.671Z"
+}

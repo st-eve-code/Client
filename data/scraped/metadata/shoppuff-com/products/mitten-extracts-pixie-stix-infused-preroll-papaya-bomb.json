@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-pixie-stix-infused-preroll-papaya-bomb",
+  "name": "Pixie Stix Infused Preroll | Papaya Bomb",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "currency": "USD",
+  "price_range": "$3.50",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Papaya Bomb hybrid infused pre roll. \nOne 1.25g pre roll per pack.\n\nFlavors:\nEarthy\nSweet",
+  "description_html": "Pixie Stix Papaya Bomb hybrid infused pre roll. <br />One 1.25g pre roll per pack.<br /><br />Flavors:<br />Earthy<br />Sweet",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/da1749ea589d5ee0aa89d88d21694c7c",
+      "alt": "Pixie Stix Infused Preroll | Papaya Bomb",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-pixie-stix-infused-preroll-papaya-bomb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 3.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-pixie-stix-infused-preroll-papaya-bomb-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.848Z"
+}

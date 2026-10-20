@@ -1,0 +1,35 @@
+{
+  "slug": "grab-go-grab-go-diamonds-kiwi-runtz",
+  "name": "Grab & Go Diamonds | Kiwi Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Grab & Go",
+  "tags": [],
+  "description": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "description_html": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9e230166fbacde9915a4283ba73f260c",
+      "alt": "Grab & Go Diamonds | Kiwi Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__grab-go-grab-go-diamonds-kiwi-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grab-go-grab-go-diamonds-kiwi-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.446Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "pharmacann-satellitez-shake",
+  "name": "PharmaCann | Satellitez (Shake)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10.08,
+  "price_max": 10.08,
+  "currency": "USD",
+  "price_range": "$10.08",
+  "available": true,
+  "vendor": "PharmaCann",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "PharmaCann | Satellitez (Shake)",
+      "local": "data\\scraped\\images\\shoppuff-com__pharmacann-satellitez-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 10.08,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pharmacann-satellitez-shake-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.309Z"
+}

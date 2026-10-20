@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-sugar-plum-jeeter-infused-pre-roll-1g",
+  "name": "Sugar Plum Jeeter Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "This sweet and earthy-flavored sativa is truly a treat. With a light body high built for creativity, this strain leaves no limitations on the imagination. With hints of sour notes to round out the trifecta of flavors, this multi-sensory experience is perfect for any night. Life can always be sweeter with our new infused sugar plum pre-rolls.",
+  "description_html": "This sweet and earthy-flavored sativa is truly a treat. With a light body high built for creativity, this strain leaves no limitations on the imagination. With hints of sour notes to round out the trifecta of flavors, this multi-sensory experience is perfect for any night. Life can always be sweeter with our new infused sugar plum pre-rolls.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6bc3fb43fbd60713c37fff054dd9f098",
+      "alt": "Sugar Plum Jeeter Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-sugar-plum-jeeter-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-sugar-plum-jeeter-infused-pre-roll-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.789Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-baller-brush-watermelon-runtz",
+  "name": "Gelato Baller Brush | Watermelon Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/591895625e3cc15fd5dc9c5381f993a0",
+      "alt": "Gelato Baller Brush | Watermelon Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-baller-brush-watermelon-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-baller-brush-watermelon-runtz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.622Z"
+}

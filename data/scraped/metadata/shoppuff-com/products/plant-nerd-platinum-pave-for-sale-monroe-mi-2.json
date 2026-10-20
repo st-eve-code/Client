@@ -1,0 +1,60 @@
+{
+  "slug": "plant-nerd-platinum-pave-for-sale-monroe-mi-2",
+  "name": "Plant Nerd | Platinum Pave",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Platinum Pavé (pronounced pa-vay) is a cross of Spritzer and Pavé bred by Compound Genetics. The flower’s nose has a mix of Champagne sweetness, effervescent cream soda, and diesel. The flavors really come through on slower burning hand rolls and joints. It’s quickly becoming one of our favorite strains.\n\nCross: Spritzer x Pavé\n\nCategory: Hybrid",
+  "description_html": "Platinum Pavé (pronounced pa-vay) is a cross of Spritzer and Pavé bred by Compound Genetics. The flower’s nose has a mix of Champagne sweetness, effervescent cream soda, and diesel. The flavors really come through on slower burning hand rolls and joints. It’s quickly becoming one of our favorite strains.<br /><br />Cross:  Spritzer x Pavé<br /><br />Category: Hybrid",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02e039c2103d93d4ff7a9acf8d0c151d",
+      "alt": "Plant Nerd | Platinum Pave",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-platinum-pave-for-sale-monroe-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-platinum-pave-for-sale-monroe-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.788Z"
+}

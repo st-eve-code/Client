@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-quad-infused-preroll-grapefruit-romulan",
+  "name": "Jeeter Quad Infused Preroll | Grapefruit Romulan",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6.5,
+  "price_max": 6.5,
+  "currency": "USD",
+  "price_range": "$6.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Grapefruit Romulan is a descendant of the popular strains Romulan and Grapefruit. This strain, not surprisingly, has a strong grapefruit aroma and flavor. The high is calming and focused, with a mood boost, increased sociability, and physical relaxation.",
+  "description_html": "Grapefruit Romulan is a descendant of the popular strains Romulan and Grapefruit. This strain, not surprisingly, has a strong grapefruit aroma and flavor. The high is calming and focused, with a mood boost, increased sociability, and physical relaxation.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a4ee3be6cc2f3c45e4ec003417f6a037",
+      "alt": "Jeeter Quad Infused Preroll | Grapefruit Romulan",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-quad-infused-preroll-grapefruit-romulan__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-quad-infused-preroll-grapefruit-romulan-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.590Z"
+}

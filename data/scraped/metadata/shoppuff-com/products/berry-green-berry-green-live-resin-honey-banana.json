@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-live-resin-honey-banana",
+  "name": "Berry Green Live Resin | Honey Banana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Warm honey. Ripe banana. Soft calm. Honey Banana Live Resin delivers a creamy, dessert-like flavor with a mellow, comforting high that settles the body and softens the mind. Sweet, soothing, and beautifully smooth.",
+  "description_html": "Warm honey. Ripe banana. Soft calm. Honey Banana Live Resin delivers a creamy, dessert-like flavor with a mellow, comforting high that settles the body and softens the mind. Sweet, soothing, and beautifully smooth.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d1b8f4ae562cf54363b87ce9a46a6ffd",
+      "alt": "Berry Green Live Resin | Honey Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-live-resin-honey-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-live-resin-honey-banana-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.244Z"
+}

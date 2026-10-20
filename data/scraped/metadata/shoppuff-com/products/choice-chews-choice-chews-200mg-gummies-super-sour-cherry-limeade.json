@@ -1,0 +1,35 @@
+{
+  "slug": "choice-chews-choice-chews-200mg-gummies-super-sour-cherry-limeade",
+  "name": "Choice Chews | 200mg Gummies | Super Sour Cherry Limeade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Choice Chews",
+  "tags": [],
+  "description": "What better way to brighten your day than with the zesty flavor of Choice Chews' Sour Cherry Limeaid gummies! We've combined the naturally tangy taste of limeaid with the bold punch of sour cherries and infused it with the uplifting power of sativa to create the perfect pick-me-up.",
+  "description_html": "What better way to brighten your day than with the zesty flavor of Choice Chews' Sour Cherry Limeaid gummies! We've combined the naturally tangy taste of limeaid with the bold punch of sour cherries and infused it with the uplifting power of sativa to create the perfect pick-me-up.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d917f91600d4342f14017737c69a67db",
+      "alt": "Choice Chews | 200mg Gummies | Super Sour Cherry Limeade",
+      "local": "data\\scraped\\images\\shoppuff-com__choice-chews-choice-chews-200mg-gummies-super-sour-cherry-limeade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.78g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/choice-chews-choice-chews-200mg-gummies-super-sour-cherry-limeade-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.350Z"
+}

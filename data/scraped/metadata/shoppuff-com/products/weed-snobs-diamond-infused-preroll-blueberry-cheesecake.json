@@ -1,0 +1,35 @@
+{
+  "slug": "weed-snobs-diamond-infused-preroll-blueberry-cheesecake",
+  "name": "Weed Snobs Diamond Infused Preroll | Blueberry Cheesecake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Blueberry Cheesecake is a indica dominate strain that is a rather popular cross of Big Buddha Cheese and the eminent Blueberry. This strain produces mostly calming but euphoric, happy and creative effects.",
+  "description_html": "Blueberry Cheesecake is a indica dominate strain that is a rather popular cross of Big Buddha Cheese and the eminent Blueberry. This strain produces mostly calming but euphoric, happy and creative effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bb85d1f0c574d0f8efde7c4d86db93ab",
+      "alt": "Weed Snobs Diamond Infused Preroll | Blueberry Cheesecake",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-diamond-infused-preroll-blueberry-cheesecake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-diamond-infused-preroll-blueberry-cheesecake-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.239Z"
+}

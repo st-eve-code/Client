@@ -1,0 +1,60 @@
+{
+  "slug": "rare-michigan-alien-cream-cookies",
+  "name": "Rare Michigan | Alien Cream Cookies",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 149,
+  "currency": "USD",
+  "price_range": "$9.00 – $149.00",
+  "available": true,
+  "vendor": "Rare Michigan Genetics",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5d5986f34e941f2586155305981f11e4",
+      "alt": "Rare Michigan | Alien Cream Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__rare-michigan-alien-cream-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 149,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rare-michigan-alien-cream-cookies-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.580Z"
+}

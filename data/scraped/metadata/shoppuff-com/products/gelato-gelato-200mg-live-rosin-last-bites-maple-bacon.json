@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-200mg-live-rosin-last-bites-maple-bacon",
+  "name": "Gelato | 200mg Live Rosin Last Bites | Maple Bacon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Our signature last bite cones are now infused with Rosin. The premium terps from the rosin create longer lasting more medicinal effects.",
+  "description_html": "Our signature last bite cones are now infused with Rosin. The premium terps from the rosin create longer lasting more medicinal effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8d4199b182bd888636ec924dee2b2c4c",
+      "alt": "Gelato | 200mg Live Rosin Last Bites | Maple Bacon",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-200mg-live-rosin-last-bites-maple-bacon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.25g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-200mg-live-rosin-last-bites-maple-bacon-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:20.650Z"
+}

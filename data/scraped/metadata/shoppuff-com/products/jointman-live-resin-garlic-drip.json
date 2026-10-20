@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-live-resin-garlic-drip",
+  "name": "Jointman Live Resin | Garlic Drip",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5949bd666a85fed613e442d3061ab338",
+      "alt": "Jointman Live Resin | Garlic Drip",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-live-resin-garlic-drip__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-live-resin-garlic-drip-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.387Z"
+}

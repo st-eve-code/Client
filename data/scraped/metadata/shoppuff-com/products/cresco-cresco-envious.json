@@ -1,0 +1,60 @@
+{
+  "slug": "cresco-cresco-envious",
+  "name": "Cresco | Envious",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Cresco",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f66100c8892d8c8205623b1429cb90cb",
+      "alt": "Cresco | Envious",
+      "local": "data\\scraped\\images\\shoppuff-com__cresco-cresco-envious__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 34,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cresco-cresco-envious-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.700Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "bow-house-prepackaged-flower-blue-nerdz",
+  "name": "Bow House Prepackaged Flower | Blue Nerdz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 65,
+  "price_max": 65,
+  "currency": "USD",
+  "price_range": "$65.00",
+  "available": true,
+  "vendor": "Bowhouse",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4f343707457fc9924acd37c3c4261768",
+      "alt": "Bow House Prepackaged Flower | Blue Nerdz",
+      "local": "data\\scraped\\images\\shoppuff-com__bow-house-prepackaged-flower-blue-nerdz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 65,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bow-house-prepackaged-flower-blue-nerdz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.102Z"
+}

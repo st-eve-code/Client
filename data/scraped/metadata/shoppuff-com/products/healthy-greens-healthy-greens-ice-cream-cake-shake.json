@@ -1,0 +1,35 @@
+{
+  "slug": "healthy-greens-healthy-greens-ice-cream-cake-shake",
+  "name": "Healthy Greens | Ice Cream Cake Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 29,
+  "price_max": 29,
+  "currency": "USD",
+  "price_range": "$29.00",
+  "available": true,
+  "vendor": "Healthy Greens",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Healthy Greens | Ice Cream Cake Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__healthy-greens-healthy-greens-ice-cream-cake-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 29,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/healthy-greens-healthy-greens-ice-cream-cake-shake-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.431Z"
+}

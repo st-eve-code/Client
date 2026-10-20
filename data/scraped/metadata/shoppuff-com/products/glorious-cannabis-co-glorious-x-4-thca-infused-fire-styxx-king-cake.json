@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-cannabis-co-glorious-x-4-thca-infused-fire-styxx-king-cake",
+  "name": "Glorious x 4 THCa Infused Fire Styxx | King Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d7419c56d86740490778408bf5ebc921",
+      "alt": "Glorious x 4 THCa Infused Fire Styxx | King Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-x-4-thca-infused-fire-styxx-king-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-x-4-thca-infused-fire-styxx-king-cake-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.420Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-minntz-prepackaged-flower-b-52",
+  "name": "Minntz Prepackaged Flower | B-52",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bec32cbd680fff0d9649411b8129d37a",
+      "alt": "Minntz Prepackaged Flower | B-52",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-prepackaged-flower-b-52__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-prepackaged-flower-b-52-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.814Z"
+}

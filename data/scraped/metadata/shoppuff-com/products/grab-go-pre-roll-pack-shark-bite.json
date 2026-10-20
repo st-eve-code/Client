@@ -1,0 +1,35 @@
+{
+  "slug": "grab-go-pre-roll-pack-shark-bite",
+  "name": "Grab & Go Pre-Roll Pack | Shark Bite",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Grab & Go",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/84f2b3cc90d24c301acf62509d0d124c",
+      "alt": "Grab & Go Pre-Roll Pack | Shark Bite",
+      "local": "data\\scraped\\images\\shoppuff-com__grab-go-pre-roll-pack-shark-bite__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grab-go-pre-roll-pack-shark-bite-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.999Z"
+}

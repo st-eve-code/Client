@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-fresh-canna-thca-snow-caps-lemon-cherry-gelato",
+  "name": "Fresh Canna | THCA Snow Caps | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "THCA Infused Snow Caps",
+  "description_html": "THCA Infused Snow Caps",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/233d5e56932ac9c2603d6464eed78584",
+      "alt": "Fresh Canna | THCA Snow Caps | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-thca-snow-caps-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-thca-snow-caps-lemon-cherry-gelato-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.415Z"
+}

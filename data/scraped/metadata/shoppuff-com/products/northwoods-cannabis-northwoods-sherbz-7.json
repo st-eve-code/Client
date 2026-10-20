@@ -1,0 +1,55 @@
+{
+  "slug": "northwoods-cannabis-northwoods-sherbz-7",
+  "name": "Northwoods | Sherbz #7",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$6.00 – $60.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/425b6a31502f4821b7cfa2f5e8f7d121",
+      "alt": "Northwoods | Sherbz #7",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-cannabis-northwoods-sherbz-7__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 34,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-cannabis-northwoods-sherbz-7-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.453Z"
+}

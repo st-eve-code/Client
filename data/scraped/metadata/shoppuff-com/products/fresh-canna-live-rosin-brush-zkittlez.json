@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-live-rosin-brush-zkittlez",
+  "name": "Fresh Canna Live Rosin Brush | Zkittlez",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/91653d9560b382b678eeddd305021225",
+      "alt": "Fresh Canna Live Rosin Brush | Zkittlez",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-live-rosin-brush-zkittlez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-live-rosin-brush-zkittlez-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.288Z"
+}

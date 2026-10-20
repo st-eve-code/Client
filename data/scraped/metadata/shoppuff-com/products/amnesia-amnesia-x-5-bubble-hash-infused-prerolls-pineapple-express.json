@@ -1,0 +1,35 @@
+{
+  "slug": "amnesia-amnesia-x-5-bubble-hash-infused-prerolls-pineapple-express",
+  "name": "Amnesia x 5 Bubble Hash Infused Prerolls | Pineapple Express",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 32,
+  "price_max": 32,
+  "currency": "USD",
+  "price_range": "$32.00",
+  "available": true,
+  "vendor": "Amnesia",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e3e54fe0a49c1d97703c364e5cbedaa4",
+      "alt": "Amnesia x 5 Bubble Hash Infused Prerolls | Pineapple Express",
+      "local": "data\\scraped\\images\\shoppuff-com__amnesia-amnesia-x-5-bubble-hash-infused-prerolls-pineapple-express__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 32,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/amnesia-amnesia-x-5-bubble-hash-infused-prerolls-pineapple-express-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.701Z"
+}

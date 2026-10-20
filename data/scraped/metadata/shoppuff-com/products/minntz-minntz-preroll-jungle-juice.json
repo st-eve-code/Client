@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-minntz-preroll-jungle-juice",
+  "name": "Minntz Preroll | Jungle Juice",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "A potent indica crafted for those who appreciate rich flavor and deep relaxation. Delivers sweet candy notes layered with a loud, pungent aroma, creating a smooth yet flavorful smoke that lingers on the palate. Ride on the gentle wave into heavenly euphoria and let us ease your mind. Perfect for unwinding at the end of the day, this luxurious strain brings together indulgent flavor and powerful effects.",
+  "description_html": "A potent indica crafted for those who appreciate rich flavor and deep relaxation. Delivers sweet candy notes layered with a loud, pungent aroma, creating a smooth yet flavorful smoke that lingers on the palate. Ride on the gentle wave into heavenly euphoria and let us ease your mind. Perfect for unwinding at the end of the day, this luxurious strain brings together indulgent flavor and powerful effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4757054675b3cfc471d7b3cb24cfb711",
+      "alt": "Minntz Preroll | Jungle Juice",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-preroll-jungle-juice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-preroll-jungle-juice-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.901Z"
+}

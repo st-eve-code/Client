@@ -1,0 +1,35 @@
+{
+  "slug": "l-train-l-train-moonrock-blunt-fireball",
+  "name": "L-Train Moonrock Blunt | Fireball",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "L-Train",
+  "tags": [],
+  "description": "Elevate your smoking experience to celestial heights with our premium Moonrock style Infused Blunt. Crafted for connoisseurs who seek that perfect balance between potency and flavor, this exquisite blunt is a harmonious fusion of top-tier cannabis flower, pure THC distillate, and powdered kief all wrapped in our 100% tobacco free hemp Blunts. Enjoy a burst of flavor and a senses of cultural nostalgia with every puff!\n\nIgnite your senses with our delicious Fireball Blunt. Infused with the bold, sweet-spicy flavor of cinnamon, this premium blunt delivers a warm and exhilarating smoking experience. Perfect for those who crave a little heat, our Fireball Blunt offers a fiery twist with every puff. Spark up and enjoy.",
+  "description_html": "Elevate your smoking experience to celestial heights with our premium Moonrock style Infused Blunt. Crafted for connoisseurs who seek that perfect balance between potency and flavor, this exquisite blunt is a harmonious fusion of top-tier cannabis flower, pure THC distillate, and powdered kief all wrapped in our 100% tobacco free hemp Blunts. Enjoy a burst of flavor and a senses of cultural nostalgia with every puff!<br /><br />Ignite your senses with our delicious Fireball Blunt. Infused with the bold, sweet-spicy flavor of cinnamon, this premium blunt delivers a warm and exhilarating smoking experience. Perfect for those who crave a little heat, our Fireball Blunt offers a fiery twist with every puff. Spark up and enjoy.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8052789feb07fd8a1e8a68fb2c0f84e9",
+      "alt": "L-Train Moonrock Blunt | Fireball",
+      "local": "data\\scraped\\images\\shoppuff-com__l-train-l-train-moonrock-blunt-fireball__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/l-train-l-train-moonrock-blunt-fireball-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.030Z"
+}

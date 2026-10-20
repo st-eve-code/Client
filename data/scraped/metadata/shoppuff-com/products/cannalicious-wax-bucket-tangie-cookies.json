@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-wax-bucket-tangie-cookies",
+  "name": "Cannalicious Wax Bucket | Tangie Cookies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Wax Baller Jar (1/4-Ounce)\nWax is a terpene and cannabinoid-rich concentrate with a cream-like texture that provides a rich and flavorful experience. It has an easy-to-work-with consistency and an immediate activation time.",
+  "description_html": "Wax Baller Jar (1/4-Ounce)<br />Wax is a terpene and cannabinoid-rich concentrate with a cream-like texture that provides a rich and flavorful experience. It has an easy-to-work-with consistency and an immediate activation time.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a0c9b4b82a46d3f8d35e4fe8ba0f2942",
+      "alt": "Cannalicious Wax Bucket | Tangie Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-wax-bucket-tangie-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-wax-bucket-tangie-cookies-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.807Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-persy-rosin-faux-fauna-f2-5",
+  "name": "710 Labs Persy Rosin | Faux Fauna F2 #5",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 42,
+  "price_max": 42,
+  "currency": "USD",
+  "price_range": "$42.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5619-Puff-JointStore-Sturgis.webp",
+      "alt": "710 Labs Persy Rosin | Faux Fauna F2 #5",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-persy-rosin-faux-fauna-f2-5__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 42,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-persy-rosin-faux-fauna-f2-5-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.881Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "white-boy-rick-disposable-white-gummy",
+  "name": "White Boy Rick Disposable | White Gummy",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c655800acf0cd1d76e4aac6857845f20",
+      "alt": "White Boy Rick Disposable | White Gummy",
+      "local": "data\\scraped\\images\\shoppuff-com__white-boy-rick-disposable-white-gummy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/white-boy-rick-disposable-white-gummy-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.302Z"
+}

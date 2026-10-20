@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-1g-pre-roll-magic-shotz-for-sale-madison-heights-mi-2",
+  "name": "Seed Junky | 1g Pre-Roll | Magic Shotz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Magic Shotz is a balanced hybrid that will have your tastebuds doing backflips. The effects are euphoric and dreamy, perfect for a movie night. There are strong notes of creamy gas and tropical fruit that will have you smacking your lips hit after hit. Don't be surprised when your bag magically disappears.",
+  "description_html": "Magic Shotz is a balanced hybrid that will have your tastebuds doing backflips. The effects are euphoric and dreamy, perfect for a movie night. There are strong notes of creamy gas and tropical fruit that will have you smacking your lips hit after hit. Don't be surprised when your bag magically disappears.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b8ced58a08a0661e924b5e6b9c1fbdba",
+      "alt": "Seed Junky | 1g Pre-Roll | Magic Shotz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-1g-pre-roll-magic-shotz-for-sale-madison-heights-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-1g-pre-roll-magic-shotz-for-sale-madison-heights-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.898Z"
+}

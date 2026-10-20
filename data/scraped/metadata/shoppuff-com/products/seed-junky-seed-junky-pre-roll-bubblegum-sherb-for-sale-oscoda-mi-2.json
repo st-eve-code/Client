@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-bubblegum-sherb-for-sale-oscoda-mi-2",
+  "name": "Seed Junky Pre-Roll | Bubblegum Sherb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Bubble Gum Sherb is a classic hybrid made by crossing Indiana Bubble Gum with Sherb. Marked by sweet and fruity flavors, this functional strain will have you in cruise control all day long.",
+  "description_html": "Bubble Gum Sherb is a classic hybrid made by crossing Indiana Bubble Gum with Sherb. Marked by sweet and fruity flavors, this functional strain will have you in cruise control all day long.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bf216d0a04cf584879f4f7d21d5731d5",
+      "alt": "Seed Junky Pre-Roll | Bubblegum Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-bubblegum-sherb-for-sale-oscoda-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-bubblegum-sherb-for-sale-oscoda-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.835Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "puffgo-live-rosin-portable-concentrate-strawberry-pie",
+  "name": "PuffGo Live Rosin Portable Concentrate | Strawberry Pie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "PuffGo",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/358c4006a32a3868194aa6c6bc1e58f5",
+      "alt": "PuffGo Live Rosin Portable Concentrate | Strawberry Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__puffgo-live-rosin-portable-concentrate-strawberry-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puffgo-live-rosin-portable-concentrate-strawberry-pie-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.078Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "pro-gro-progroco-candy-fumez",
+  "name": "Candy Fumez Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$9.00 – $99.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Zkittlez x Sherbanger\n\nBreeder: Bloom Seed Co.\n\nTerpenes: Caryophyllene, Limonene, Linalool \n\nEffects: Sedative, Head & Body Buzz, Dream State \n\nAroma: Floral, Berry, Funk, Earthy \n\nGet ready to take your taste buds on a joyride with Candy Fumez – the ultimate fusion of sweetness and fuel! Picture this: a candy store meets a gas station, and the result is a tantalizing blend of sugary delights with a hint of diesel. This strain is your ticket to a flavor-packed adventure where the gassy undertones rev up the fun. With Candy Fumez, you're not just enjoying a sweet treat – you're cruising through clouds of confectionery euphoria with a hint of fuel-injected excitement.",
+  "description_html": "Lineage: Zkittlez x Sherbanger<br /><br />Breeder: Bloom Seed Co.<br /><br />Terpenes: Caryophyllene, Limonene, Linalool <br /><br />Effects: Sedative, Head & Body Buzz, Dream State <br /><br />Aroma: Floral, Berry, Funk, Earthy <br /><br />Get ready to take your taste buds on a joyride with Candy Fumez – the ultimate fusion of sweetness and fuel! Picture this: a candy store meets a gas station, and the result is a tantalizing blend of sugary delights with a hint of diesel. This strain is your ticket to a flavor-packed adventure where the gassy undertones rev up the fun. With Candy Fumez, you're not just enjoying a sweet treat – you're cruising through clouds of confectionery euphoria with a hint of fuel-injected excitement.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2848142698fc883a81ed16aa7d28b491",
+      "alt": "Candy Fumez Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-candy-fumez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-candy-fumez-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.590Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "doobies-1g-pre-roll-white-widow",
+  "name": "Doobies | 1g Pre-Roll | White Widow",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1,
+  "price_max": 1,
+  "currency": "USD",
+  "price_range": "$1.00",
+  "available": true,
+  "vendor": "Doobies",
+  "tags": [],
+  "description": "1g Pre-Roll",
+  "description_html": "1g Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8be7c9155b87e82b57fde7f23f2fdbfe",
+      "alt": "Doobies | 1g Pre-Roll | White Widow",
+      "local": "data\\scraped\\images\\shoppuff-com__doobies-1g-pre-roll-white-widow__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doobies-1g-pre-roll-white-widow-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.774Z"
+}

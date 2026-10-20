@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-x-5-reserve-infused-prerolls-son-of-a-peach",
+  "name": "Jeeter x 5 Reserve Infused Prerolls | Son of a Peach",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Introducing Jeeter Reserve — small-batch, limited-edition strains pulled straight from the Jeeter Vault, exclusively available at select Jeeter Reserve Stores.",
+  "description_html": "Introducing Jeeter Reserve — small-batch, limited-edition strains pulled straight from the Jeeter Vault, exclusively available at select Jeeter Reserve Stores.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/91b71a2e178c77207695640993f12b50",
+      "alt": "Jeeter x 5 Reserve Infused Prerolls | Son of a Peach",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-x-5-reserve-infused-prerolls-son-of-a-peach__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-x-5-reserve-infused-prerolls-son-of-a-peach-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.441Z"
+}

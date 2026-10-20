@@ -1,0 +1,35 @@
+{
+  "slug": "muha-meds-disposable-3rd-gen-guava-mango-z",
+  "name": "Muha Meds Disposable (3rd Gen) | Guava Mango Z",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Muha Meds",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/40052db941203773a75156a9c1df5614",
+      "alt": "Muha Meds Disposable (3rd Gen) | Guava Mango Z",
+      "local": "data\\scraped\\images\\shoppuff-com__muha-meds-disposable-3rd-gen-guava-mango-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/muha-meds-disposable-3rd-gen-guava-mango-z-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.828Z"
+}

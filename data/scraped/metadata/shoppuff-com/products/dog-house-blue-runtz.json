@@ -1,0 +1,35 @@
+{
+  "slug": "dog-house-blue-runtz",
+  "name": "Dog House | Blue Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 24.5,
+  "price_max": 24.5,
+  "currency": "USD",
+  "price_range": "$24.50",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "Blue Power x Runtz | Indica | Sweet \nTerpenes: Limonene, Myrcene, Linalool\n\nBlue Runtz, an indica-dominant hybrid, showcases visually striking buds in deep purple and electric blue. Its aroma and flavor burst with sweet blueberry and grape notes, complemented by hints of citrus and spice. Loved for its balanced effects, it induces euphoria and relaxation without heavy sedation, appealing to both recreational and medicinal users.",
+  "description_html": "Blue Power x Runtz | Indica | Sweet <br />Terpenes: Limonene, Myrcene, Linalool<br /><br />Blue Runtz, an indica-dominant hybrid, showcases visually striking buds in deep purple and electric blue. Its aroma and flavor burst with sweet blueberry and grape notes, complemented by hints of citrus and spice. Loved for its balanced effects, it induces euphoria and relaxation without heavy sedation, appealing to both recreational and medicinal users.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8b0095578b7e915d5bdf59a5894fe334",
+      "alt": "Dog House | Blue Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__dog-house-blue-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 24.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dog-house-blue-runtz-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.665Z"
+}

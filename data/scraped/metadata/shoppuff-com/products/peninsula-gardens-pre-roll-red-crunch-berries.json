@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-pre-roll-red-crunch-berries",
+  "name": "Peninsula Gardens Pre-Roll | Red Crunch Berries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 9,
+  "currency": "USD",
+  "price_range": "$9.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "A sweet, berry-cereal flavor and doughy undertones. This indica-leaning hybrid delivers smooth, terp-rich hits with relaxing, happy effects and a balanced high.",
+  "description_html": "A sweet, berry-cereal flavor and doughy undertones. This indica-leaning hybrid delivers smooth, terp-rich hits with relaxing, happy effects and a balanced high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/edd44f5267036931dd4c75a52fe7b627",
+      "alt": "Peninsula Gardens Pre-Roll | Red Crunch Berries",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-pre-roll-red-crunch-berries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-pre-roll-red-crunch-berries-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.685Z"
+}

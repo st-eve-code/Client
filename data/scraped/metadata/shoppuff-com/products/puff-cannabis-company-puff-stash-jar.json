@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-stash-jar",
+  "name": "Puff Stash Jar",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Puff Stash Jar",
+  "description_html": "Puff Stash Jar<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/edea3ebc1275927177b5cc0c01776e34",
+      "alt": "Puff Stash Jar",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-stash-jar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-stash-jar-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.893Z"
+}

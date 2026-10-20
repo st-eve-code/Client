@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-lqd-pod-white-widow",
+  "name": "Stiiizy LQD Pod | White Widow",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "This indica-dominant strain offers a complex profile of spicy and earthy tones, with an earthy undertone.\n\nDesigned for the best tastes, and delivering an experience that's simply unmatched. Convenience meets luxury in every hit, giving you an elevated experience.",
+  "description_html": "This indica-dominant strain offers a complex profile of spicy and earthy tones, with an earthy undertone.<br /><br /><br />Designed for the best tastes, and delivering an experience that's simply unmatched. Convenience meets luxury in every hit, giving you an elevated experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/34db75c7dd3c4267ef66f522d27e8a4d",
+      "alt": "Stiiizy LQD Pod | White Widow",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-lqd-pod-white-widow__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-lqd-pod-white-widow-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.768Z"
+}

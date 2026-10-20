@@ -1,0 +1,35 @@
+{
+  "slug": "cypher-solventless-cypher-solventless-live-rosin-devil-driver",
+  "name": "Cypher Solventless Live Rosin | Devil Driver",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Cypher Solventless",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f4ffe66ea46ad9ca6aadd3ac7f40e409",
+      "alt": "Cypher Solventless Live Rosin | Devil Driver",
+      "local": "data\\scraped\\images\\shoppuff-com__cypher-solventless-cypher-solventless-live-rosin-devil-driver__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cypher-solventless-cypher-solventless-live-rosin-devil-driver-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.741Z"
+}

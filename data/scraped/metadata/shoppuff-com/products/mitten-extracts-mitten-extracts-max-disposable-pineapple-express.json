@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-max-disposable-pineapple-express",
+  "name": "Mitten Extracts Max Disposable | Pineapple Express",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 24,
+  "price_max": 24,
+  "currency": "USD",
+  "price_range": "$24.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "A sativa-dominant hybrid combining pineapple and cedar flavors, known for its energizing and creative effects. It’s a great choice for daytime use, helping boost productivity, focus, and creativity throughout the day.",
+  "description_html": "A sativa-dominant hybrid combining pineapple and cedar flavors, known for its energizing and creative effects. It’s a great choice for daytime use, helping boost productivity, focus, and creativity throughout the day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/29e274109efafa95ad8b7bf74fa575d9",
+      "alt": "Mitten Extracts Max Disposable | Pineapple Express",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-max-disposable-pineapple-express__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-max-disposable-pineapple-express-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.418Z"
+}

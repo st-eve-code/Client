@@ -1,0 +1,35 @@
+{
+  "slug": "cheech-chong-cheech-chong-live-rosin-bananaconda",
+  "name": "Cheech & Chong Live Rosin | Bananaconda",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 32,
+  "price_max": 32,
+  "currency": "USD",
+  "price_range": "$32.00",
+  "available": true,
+  "vendor": "Cheech & Chong",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e2675049df1213086f7a47c2a92ec1a7",
+      "alt": "Cheech & Chong Live Rosin | Bananaconda",
+      "local": "data\\scraped\\images\\shoppuff-com__cheech-chong-cheech-chong-live-rosin-bananaconda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 32,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cheech-chong-cheech-chong-live-rosin-bananaconda-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.429Z"
+}

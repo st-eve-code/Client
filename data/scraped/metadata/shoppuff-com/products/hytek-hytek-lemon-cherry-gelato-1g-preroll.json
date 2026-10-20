@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-hytek-lemon-cherry-gelato-1g-preroll",
+  "name": "HYTEK | LEMON CHERRY GELATO | 1G PREROLL",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "A citrusy, cherry icy with a little bit of that Sunday morning clean smell of Pinesol. You know, like cleaning your kitchen with a lemon cherry icy. Very similar to Runtz (wink) - No, It's not Runtz. \n\nCategory: Hybrid\n\nBreeder: Backpack Boys\n\nCross: Zkittles x Gelato 41",
+  "description_html": "A citrusy, cherry icy with a little bit of that Sunday morning clean smell of Pinesol. You know, like cleaning your kitchen with a lemon cherry icy. Very similar to Runtz (wink) - No, It's not Runtz. <br /><br /><br />Category: Hybrid<br /><br />Breeder: Backpack Boys<br /><br />Cross: Zkittles x Gelato 41",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6d4c29d50d95f90f6d3469d7d1e0bf4d",
+      "alt": "HYTEK | LEMON CHERRY GELATO | 1G PREROLL",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-lemon-cherry-gelato-1g-preroll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-lemon-cherry-gelato-1g-preroll-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.804Z"
+}

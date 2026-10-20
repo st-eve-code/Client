@@ -1,0 +1,60 @@
+{
+  "slug": "progroco-pink-papaya",
+  "name": "ProGroCo | Pink Papaya",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 199,
+  "currency": "USD",
+  "price_range": "$12.00 – $199.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: RainbowSherbV2 x Pink Guava #16 \n\nTerpenes: Caryophyllene, D-Limonene, Linalool \n\nAroma: Tropical, Funky, Creamy \n\nEffects: Euphoric, Relaxed, Hungry",
+  "description_html": "Lineage: RainbowSherbV2 x Pink Guava #16  <br /><br />Terpenes: Caryophyllene, D-Limonene, Linalool <br /><br />Aroma: Tropical, Funky, Creamy <br /><br />Effects: Euphoric, Relaxed, Hungry",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "ProGroCo | Pink Papaya",
+      "local": "data\\scraped\\images\\shoppuff-com__progroco-pink-papaya__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 199,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/progroco-pink-papaya-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.935Z"
+}

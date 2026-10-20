@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-pixie-stix-infused-preroll-blue-dream",
+  "name": "Pixie Stix Infused Preroll | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Blue Dream sativa infused pre roll. \nOne 1.25g pre roll per pack.\n\nFlavors:\nBlueberry\nBerry\nEarthy",
+  "description_html": "Pixie Stix Blue Dream sativa infused pre roll. <br />One 1.25g pre roll per pack.<br /><br />Flavors:<br />Blueberry<br />Berry<br />Earthy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a07eb04f30c9d075cf58868e561d3f00",
+      "alt": "Pixie Stix Infused Preroll | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-pixie-stix-infused-preroll-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-pixie-stix-infused-preroll-blue-dream-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.848Z"
+}

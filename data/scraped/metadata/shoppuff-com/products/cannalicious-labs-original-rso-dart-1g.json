@@ -1,0 +1,40 @@
+{
+  "slug": "cannalicious-labs-original-rso-dart-1g",
+  "name": "Original RSO Dart | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$10.00 – $15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most medicinal cannabis concentrate available. It stimulates the endocannabinoid system to help prevent many ailments and to offer therapeutic benefits. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes.",
+  "description_html": "Rick Simpson Oil (RSO) is a cannabinoid-rich, broad-spectrum extract that contains all the beneficial plant matter and is the most medicinal cannabis concentrate available. It stimulates the endocannabinoid system to help prevent many ailments and to offer therapeutic benefits. It should only be ingested and never vaped/smoked and has an activation time of 15-60 minutes.<br /><br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e448fa834d69e9a29266941848b95ac6",
+      "alt": "Original RSO Dart | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-original-rso-dart-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-original-rso-dart-1g-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.694Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "gelonade-510-cartridge",
+  "name": "Mitten Extracts 510 Cartridge | Gelonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Gelonade’s citrus and sweet fruity flavors are complemented by hints of sour lemon and creamy vanilla. The strain is perfect for those seeking euphoria, sociability, and tingling arousal.",
+  "description_html": "Gelonade’s citrus and sweet fruity flavors are complemented by hints of sour lemon and creamy vanilla. The strain is perfect for those seeking euphoria, sociability, and tingling arousal.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a8148fb6b55f2b765826030d9bd3b29e",
+      "alt": "Mitten Extracts 510 Cartridge | Gelonade",
+      "local": "data\\scraped\\images\\shoppuff-com__gelonade-510-cartridge__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelonade-510-cartridge-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.954Z"
+}

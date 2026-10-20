@@ -1,0 +1,35 @@
+{
+  "slug": "homiez-homiez-baller-bucket-berry-sanders",
+  "name": "Homiez Baller Bucket | Berry Sanders",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "HOMIEZ",
+  "tags": [],
+  "description": "Concentrates are where the Homiez magic really shines.\n\nPacked with the best parts of cannabis, they come in all kinds of textures and flavors, each offering a unique way to elevate your sesh. Dab ’em, sprinkle ’em into a joint for an extra kick, or dial in the vibes by infusing them into edibles—however you roll, concentrates, let you customize your high and keep things anything but basic.",
+  "description_html": "Concentrates are where the Homiez magic really shines.<br /><br />Packed with the best parts of cannabis, they come in all kinds of textures and flavors, each offering a unique way to elevate your sesh. Dab ’em, sprinkle ’em into a joint for an extra kick, or dial in the vibes by infusing them into edibles—however you roll, concentrates, let you customize your high and keep things anything but basic.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/728b879c961b276f834139ae1de820c2",
+      "alt": "Homiez Baller Bucket | Berry Sanders",
+      "local": "data\\scraped\\images\\shoppuff-com__homiez-homiez-baller-bucket-berry-sanders__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/homiez-homiez-baller-bucket-berry-sanders-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.583Z"
+}

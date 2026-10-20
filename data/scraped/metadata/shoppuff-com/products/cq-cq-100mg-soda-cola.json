@@ -1,0 +1,35 @@
+{
+  "slug": "cq-cq-100mg-soda-cola",
+  "name": "CQ | 100mg Soda | Cola",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "CQ",
+  "tags": [],
+  "description": "PEACE. LOVE. CANNABIS.™\n\nBorn and raised in Venice Beach, California, we've been perfecting the sweet spot between fun and function since 2008. We believe that normalized, legal cannabis use makes for a better world. Crafted from the highest quality ingredients, expect a refreshing infusion of real fruit and terpene-rich cannabis for a deliciously juicy buzz. We make wellness tasty, relaxing and fun. We love what we do.\n\nA classic Mexican style cola infused with cannabis, sweetened with cane sugar and crafted from the highest quality ingredients. Caffeinated to give you that extra boost you need.",
+  "description_html": "PEACE. LOVE. CANNABIS.™<br /><br />Born and raised in Venice Beach, California, we've been perfecting the sweet spot between fun and function since 2008. We believe that normalized, legal cannabis use makes for a better world. Crafted from the highest quality ingredients, expect a refreshing infusion of real fruit and terpene-rich cannabis for a deliciously juicy buzz. We make wellness tasty, relaxing and fun. We love what we do.<br /><br />A classic Mexican style cola infused with cannabis, sweetened with cane sugar and crafted from the highest quality ingredients. Caffeinated to give you that extra boost you need.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/782fbd44603ac1e8267964fb375c10d1",
+      "alt": "CQ | 100mg Soda | Cola",
+      "local": "data\\scraped\\images\\shoppuff-com__cq-cq-100mg-soda-cola__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cq-cq-100mg-soda-cola-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.215Z"
+}

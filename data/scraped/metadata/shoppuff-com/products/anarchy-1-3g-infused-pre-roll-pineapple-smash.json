@@ -1,0 +1,35 @@
+{
+  "slug": "anarchy-1-3g-infused-pre-roll-pineapple-smash",
+  "name": "Anarchy | 1.3g Infused Pre-Roll | Pineapple Smash",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Anarchy",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ab56de5c3d09c6ab2379d8e3d512e0b8",
+      "alt": "Anarchy | 1.3g Infused Pre-Roll | Pineapple Smash",
+      "local": "data\\scraped\\images\\shoppuff-com__anarchy-1-3g-infused-pre-roll-pineapple-smash__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/anarchy-1-3g-infused-pre-roll-pineapple-smash-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.730Z"
+}

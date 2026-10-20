@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-40s-joint-sour-diesel",
+  "name": "Stiiizy | 40's Joint | Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Elevate your pre-roll game. STIIIZY 40's pre-rolls are setting the standard with, cannabis infused joints coated evenly with kief. Using our proprietary live resin infusion methods, we’ve designed every pre-roll to have a unique profile. Each and every STIIIZY 40's is packed with premium, high quality flower specifically made for a quality experience.\n\nFlavors: Diesel, Lemon, Citrus",
+  "description_html": "Elevate your pre-roll game. STIIIZY 40's pre-rolls are setting the standard with, cannabis infused joints coated evenly with kief. Using our proprietary live resin infusion methods, we’ve designed every pre-roll to have a unique profile. Each and every STIIIZY 40's is packed with premium, high quality flower specifically made for a quality experience.<br /><br />Flavors: Diesel, Lemon, Citrus",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a87708dcc86d2301f6c0365d7244309f",
+      "alt": "Stiiizy | 40's Joint | Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-joint-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-joint-sour-diesel-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.388Z"
+}

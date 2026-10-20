@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-preroll-alpha-runtz",
+  "name": "Local Grove Preroll | Alpha Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Alpha Runtz is created by crossing the parent strains Bacio Gelato x Runtz. The high is a head to toe high that builds in potency as the hours tick by. The warming sensation begins in your head, leaving you feeling hazy, but happy, before slowly spreading down your neck until it reaches your spine and limbs. Enjoy the smooth rush as you fall into a deep and melting couch lock that lasts for a couple of hours. On the long come down, expect to fall into a peaceful and wakeless sleep.",
+  "description_html": "Alpha Runtz is created by crossing the parent strains Bacio Gelato x Runtz. The high is a head to toe high that builds in potency as the hours tick by. The warming sensation begins in your head, leaving you feeling hazy, but happy, before slowly spreading down your neck until it reaches your spine and limbs. Enjoy the smooth rush as you fall into a deep and melting couch lock that lasts for a couple of hours. On the long come down, expect to fall into a peaceful and wakeless sleep.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/74066d6ec5a1665c576adcd757e66730",
+      "alt": "Local Grove Preroll | Alpha Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-preroll-alpha-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-preroll-alpha-runtz-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.953Z"
+}

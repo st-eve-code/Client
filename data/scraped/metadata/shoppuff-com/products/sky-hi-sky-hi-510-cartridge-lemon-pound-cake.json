@@ -1,0 +1,35 @@
+{
+  "slug": "sky-hi-sky-hi-510-cartridge-lemon-pound-cake",
+  "name": "Sky-Hi 510 Cartridge | Lemon Pound Cake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Sky-Hi",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c8f52e6b7b1bcb22d8af7aaf4207084a",
+      "alt": "Sky-Hi 510 Cartridge | Lemon Pound Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__sky-hi-sky-hi-510-cartridge-lemon-pound-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sky-hi-sky-hi-510-cartridge-lemon-pound-cake-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.931Z"
+}

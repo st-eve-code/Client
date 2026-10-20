@@ -1,0 +1,35 @@
+{
+  "slug": "banned-banned-200mg-gummies-watermelon-lemonade",
+  "name": "Banned | 200mg Gummies | Watermelon Lemonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 9,
+  "price_max": 9,
+  "currency": "USD",
+  "price_range": "$9.00",
+  "available": true,
+  "vendor": "Banned",
+  "tags": [],
+  "description": "4 x 50mg Nerd Filled Gummies",
+  "description_html": "4 x 50mg Nerd Filled Gummies",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/db8e497043546cb29ae657af61f6cad8",
+      "alt": "Banned | 200mg Gummies | Watermelon Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__banned-banned-200mg-gummies-watermelon-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/banned-banned-200mg-gummies-watermelon-lemonade-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.818Z"
+}

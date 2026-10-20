@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-sweet-peach-classic-1g-plus-vape-device",
+  "name": "Sweet Peach - Classic 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15.5,
+  "price_max": 15.5,
+  "currency": "USD",
+  "price_range": "$15.50",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Savor the juicy sweetness of ripe peaches, offering a delightful and refreshing vape experience.",
+  "description_html": "Savor the juicy sweetness of ripe peaches, offering a delightful and refreshing vape experience.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f22529a2563f8bb1ff845c2158b95690",
+      "alt": "Sweet Peach - Classic 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-sweet-peach-classic-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-sweet-peach-classic-1g-plus-vape-device-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.879Z"
+}

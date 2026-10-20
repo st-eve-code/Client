@@ -1,0 +1,35 @@
+{
+  "slug": "keef-keef-100mg-soda-blue-razz-xtreme",
+  "name": "Keef Classic Soda Blue Razz XTREME | 100mg",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Keef",
+  "tags": [],
+  "description": "Indulge in the ultimate berry soda experience with our expertly crafted blend of natural raspberry and blueberry flavors. All Classic Soda is caffeine free.",
+  "description_html": "Indulge in the ultimate berry soda experience with our expertly crafted blend of natural raspberry and blueberry flavors. All Classic Soda is caffeine free.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cfd248545bd7613a3d8f21b0e5828a12",
+      "alt": "Keef Classic Soda Blue Razz XTREME | 100mg",
+      "local": "data\\scraped\\images\\shoppuff-com__keef-keef-100mg-soda-blue-razz-xtreme__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/keef-keef-100mg-soda-blue-razz-xtreme-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.015Z"
+}

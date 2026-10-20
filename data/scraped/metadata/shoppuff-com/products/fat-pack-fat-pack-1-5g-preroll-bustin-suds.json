@@ -1,0 +1,35 @@
+{
+  "slug": "fat-pack-fat-pack-1-5g-preroll-bustin-suds",
+  "name": "Fat Pack | 1.5g Preroll | Bustin Suds",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Fat Pack",
+  "tags": [],
+  "description": "Fat J: 1.5 Gram Preroll - a half gram better. Lemon Haze x Do-Si-Dos create Bustin’ Suds, an uplifting, social strain with fizzy citrus sweetness. Its terpene mix of Limonene, Caryophyllene, and Pinene makes it energetic and creative while offering mild body ease. A fun and refreshing option for day or night.",
+  "description_html": "Fat J: 1.5 Gram Preroll - a half gram better. Lemon Haze x Do-Si-Dos create Bustin’ Suds, an uplifting, social strain with fizzy citrus sweetness. Its terpene mix of Limonene, Caryophyllene, and Pinene makes it energetic and creative while offering mild body ease. A fun and refreshing option for day or night.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8914584b02b59b9e87e36465e33c75a4",
+      "alt": "Fat Pack | 1.5g Preroll | Bustin Suds",
+      "local": "data\\scraped\\images\\shoppuff-com__fat-pack-fat-pack-1-5g-preroll-bustin-suds__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fat-pack-fat-pack-1-5g-preroll-bustin-suds-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.594Z"
+}

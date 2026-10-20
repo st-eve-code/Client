@@ -1,0 +1,35 @@
+{
+  "slug": "gas-hunters-gas-hunters-disposable-orange-rock-candy",
+  "name": "Gas Hunters Disposable | Orange Rock Candy",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "GAS HUNTERS",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8f609d0baf43b28346161d810fea833d",
+      "alt": "Gas Hunters Disposable | Orange Rock Candy",
+      "local": "data\\scraped\\images\\shoppuff-com__gas-hunters-gas-hunters-disposable-orange-rock-candy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gas-hunters-gas-hunters-disposable-orange-rock-candy-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.354Z"
+}

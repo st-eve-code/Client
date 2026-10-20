@@ -1,0 +1,35 @@
+{
+  "slug": "crude-boys-disposable-mai-tai",
+  "name": "Crude Boys Disposable | Mai Tai",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Crude Boys",
+  "tags": [],
+  "description": "Crude Boys \"Big Ripper\" all-in-one vape pens are 2 grams of high potency THC distillate in a sleek, rechargeable, ready to use device. Featuring our hottest Crude Boys flavors!",
+  "description_html": "Crude Boys \"Big Ripper\" all-in-one vape pens are 2 grams of high potency THC distillate in a sleek, rechargeable, ready to use device. Featuring our hottest Crude Boys flavors!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5cdf4e0f9f4c25f1e95d831014aa508a",
+      "alt": "Crude Boys Disposable | Mai Tai",
+      "local": "data\\scraped\\images\\shoppuff-com__crude-boys-disposable-mai-tai__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/crude-boys-disposable-mai-tai-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.038Z"
+}

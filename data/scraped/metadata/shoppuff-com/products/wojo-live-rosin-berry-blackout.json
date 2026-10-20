@@ -1,0 +1,35 @@
+{
+  "slug": "wojo-live-rosin-berry-blackout",
+  "name": "Wojo Live Rosin | Berry Blackout",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Wojo Co",
+  "tags": [],
+  "description": "1g Live Rosin",
+  "description_html": "1g Live Rosin",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f72081e96ef7b575b608bee9330a2318",
+      "alt": "Wojo Live Rosin | Berry Blackout",
+      "local": "data\\scraped\\images\\shoppuff-com__wojo-live-rosin-berry-blackout__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wojo-live-rosin-berry-blackout-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.298Z"
+}

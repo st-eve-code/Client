@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-infused-preroll-baja-blaze-copy",
+  "name": "Shiva's Hash Hashbone | 1.2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "A classic bone, done with hash. Premium indoor flower infused with hash and rolled into a 1.2 gram joint. Strain-specific and rotating.",
+  "description_html": "A classic bone, done with hash. Premium indoor flower infused with hash and rolled into a 1.2 gram joint. Strain-specific and rotating.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/00f4e63bf964f07fa60680ac375ac160",
+      "alt": "Shiva's Hash Hashbone | 1.2g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-infused-preroll-baja-blaze-copy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-infused-preroll-baja-blaze-copy-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.477Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "crude-boys-crude-boys-live-resin-pina-colada",
+  "name": "Crude Boys Live Resin | Pina Colada",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Crude Boys",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c7fa7db0b4ce7c3a942eb3e1f9df84b4",
+      "alt": "Crude Boys Live Resin | Pina Colada",
+      "local": "data\\scraped\\images\\shoppuff-com__crude-boys-crude-boys-live-resin-pina-colada__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/crude-boys-crude-boys-live-resin-pina-colada-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.301Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "gelato-snowballs-candy-runtz",
+  "name": "Gelato | Snowballs | Candy Runtz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 240,
+  "currency": "USD",
+  "price_range": "$12.00 – $240.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/07c9d90d3fe4140a79f1051933bf4833",
+      "alt": "Gelato | Snowballs | Candy Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-snowballs-candy-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 120,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 240,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-snowballs-candy-runtz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.683Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-infused-preroll-strawberry-cough",
+  "name": "Mitten Extracts Infused Preroll | Strawberry Cough",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "1.25g Infused Preroll\n\nA distinct strawberry flavor paired with an uplifting cerebral buzz, this refreshing sativa is known for its invigorating effects. It's a favorite choice for those seeking an energizing and refreshing experience.",
+  "description_html": "1.25g Infused Preroll<br /><br />A distinct strawberry flavor paired with an uplifting cerebral buzz, this refreshing sativa is known for its invigorating effects. It's a favorite choice for those seeking an energizing and refreshing experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5ec0d23f2c1a8d973e9ba9447ad35213",
+      "alt": "Mitten Extracts Infused Preroll | Strawberry Cough",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-infused-preroll-strawberry-cough__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-infused-preroll-strawberry-cough-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.422Z"
+}

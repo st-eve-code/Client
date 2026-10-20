@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-200mg-gems-blueberry",
+  "name": "Cali Blaze | 200mg Gems | Blueberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Edibles are created either by infusing cooking oil or butter with cannabis extract, or by mixing extract directly into other ingredients. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "description_html": "Edibles are created either by infusing cooking oil or butter with cannabis extract, or by mixing extract directly into other ingredients. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/edibles.jpg",
+      "alt": "Cali Blaze | 200mg Gems | Blueberry",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-200mg-gems-blueberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-200mg-gems-blueberry-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.345Z"
+}

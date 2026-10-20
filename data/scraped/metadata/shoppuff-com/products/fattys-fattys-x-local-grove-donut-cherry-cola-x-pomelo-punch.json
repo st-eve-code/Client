@@ -1,0 +1,35 @@
+{
+  "slug": "fattys-fattys-x-local-grove-donut-cherry-cola-x-pomelo-punch",
+  "name": "Fatty's x Local Grove Donut | Cherry Cola x Pomelo Punch",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Fatty's",
+  "tags": [],
+  "description": "1.3g Hash Rosin Infused Pre-Roll\nAlso known as a hash hole, a doughnut joint is essentially a joint with a rolled-up hash snake delicately placed on a bed of flower, then wrapped so the hash sits in the middle of the joint, completely surrounded by the flower.",
+  "description_html": "1.3g Hash Rosin Infused Pre-Roll<br />Also known as a hash hole, a doughnut joint is essentially a joint with a rolled-up hash snake delicately placed on a bed of flower, then wrapped so the hash sits in the middle of the joint, completely surrounded by the flower.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/31bca55687bf9bc9e7f072c9cca42172",
+      "alt": "Fatty's x Local Grove Donut | Cherry Cola x Pomelo Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__fattys-fattys-x-local-grove-donut-cherry-cola-x-pomelo-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fattys-fattys-x-local-grove-donut-cherry-cola-x-pomelo-punch-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.892Z"
+}

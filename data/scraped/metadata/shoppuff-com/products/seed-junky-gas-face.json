@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-gas-face",
+  "name": "Seed Junky | Gas Face",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 199,
+  "currency": "USD",
+  "price_range": "$12.00 – $199.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Gello Shotz is a bright sativa with a tropical feel that produces a strong flavor of lime skittles. Gello Shotz gives you a boost of energy and creativity making this great for daytime use.",
+  "description_html": "Gello Shotz is a bright sativa with a tropical feel that produces a strong flavor of lime skittles. Gello Shotz gives you a boost of energy and creativity making this great for daytime use.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ba21be5ede151a82c2ce15f230033c6b",
+      "alt": "Seed Junky | Gas Face",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-gas-face__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 199,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-gas-face-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.820Z"
+}

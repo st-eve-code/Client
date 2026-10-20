@@ -1,0 +1,35 @@
+{
+  "slug": "gas-hunters-gas-hunters-disposable-blue-slushie",
+  "name": "Gas Hunters Disposable | Blue Slushie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 13,
+  "price_max": 13,
+  "currency": "USD",
+  "price_range": "$13.00",
+  "available": true,
+  "vendor": "GAS HUNTERS",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/656f2f6db729916a30f634bd9b74265e",
+      "alt": "Gas Hunters Disposable | Blue Slushie",
+      "local": "data\\scraped\\images\\shoppuff-com__gas-hunters-gas-hunters-disposable-blue-slushie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gas-hunters-gas-hunters-disposable-blue-slushie-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.571Z"
+}

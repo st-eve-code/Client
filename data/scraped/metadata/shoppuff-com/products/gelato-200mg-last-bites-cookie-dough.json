@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-200mg-last-bites-cookie-dough",
+  "name": "Gelato | 200mg Last Bites | Cookie Dough",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Cookie Dough flavored chocolate with cookie crunch pieces in a mini waffle cone. \n\n200mg Total",
+  "description_html": "Cookie Dough flavored chocolate with cookie crunch pieces in a mini waffle cone. <br /><br />200mg Total",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/26877de8e5756588be0e1b1085cad3c3",
+      "alt": "Gelato | 200mg Last Bites | Cookie Dough",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-200mg-last-bites-cookie-dough__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-200mg-last-bites-cookie-dough-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.640Z"
+}

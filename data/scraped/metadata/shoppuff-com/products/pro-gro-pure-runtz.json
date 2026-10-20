@@ -1,0 +1,55 @@
+{
+  "slug": "pro-gro-pure-runtz",
+  "name": "Pure Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$5.00 – $55.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Zkittlez x Gelato \n\nType: Hybrid\n\nTerpenes: Limonene, Myrcene, Linalool \n\nEffects: Cerebral, Focused, Creative \n\nAroma: Fruity, Gassy, Cheesy\n\nDive into the delectable world of Pure Runtz, where sweet dreams meet potent reality. This tantalizing strain is a symphony of tropical fruit flavors, blending together in a blissful dance on your taste buds. Pure Runtz isn't just a strain; it's an experience – a burst of euphoria that transports you to a sun-soaked paradise. With its uplifting effects and delightful aroma, Pure Runtz is the perfect companion for those seeking a flavorful escape into a world of relaxation and happiness.",
+  "description_html": "Lineage: Zkittlez x Gelato  <br /><br />Type: Hybrid<br /><br />Terpenes: Limonene, Myrcene, Linalool <br /><br />Effects: Cerebral, Focused, Creative <br /><br />Aroma: Fruity, Gassy, Cheesy<br /><br /><br />Dive into the delectable world of Pure Runtz, where sweet dreams meet potent reality. This tantalizing strain is a symphony of tropical fruit flavors, blending together in a blissful dance on your taste buds. Pure Runtz isn't just a strain; it's an experience – a burst of euphoria that transports you to a sun-soaked paradise. With its uplifting effects and delightful aroma, Pure Runtz is the perfect companion for those seeking a flavorful escape into a world of relaxation and happiness.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b3246486b403a3494790e1293cc43baa",
+      "alt": "Pure Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-pure-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-pure-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.551Z"
+}

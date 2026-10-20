@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-live-resin-disposable-mango-sour",
+  "name": "Jeeter Live Resin Disposable | Mango Sour",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Jeeter All In One Live Resin Vape | 1G | Pocket Ready\n\nBold flavor. Big clouds. Full-spectrum experience. Our 1g AIO Live Resin vape brings out the full complexity of fresh-frozen extract. Each component is tuned to the viscosity and terpene profile of live resin, delivering strong effects and rich, strain-specific flavor in every pull.",
+  "description_html": "Jeeter All In One Live Resin Vape | 1G | Pocket Ready<br /><br />Bold flavor. Big clouds. Full-spectrum experience. Our 1g AIO Live Resin vape brings out the full complexity of fresh-frozen extract. Each component is tuned to the viscosity and terpene profile of live resin, delivering strong effects and rich, strain-specific flavor in every pull.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2a5babc500ec529ade1f30f19cb22d26",
+      "alt": "Jeeter Live Resin Disposable | Mango Sour",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-live-resin-disposable-mango-sour__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-live-resin-disposable-mango-sour-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.338Z"
+}

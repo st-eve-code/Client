@@ -1,0 +1,35 @@
+{
+  "slug": "drip-drip-510-cartridge-garlic-cookies",
+  "name": "Drip 510 Cartridge | Garlic Cookies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4f627c1075b24ac2295315eb48e1b473",
+      "alt": "Drip 510 Cartridge | Garlic Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-drip-510-cartridge-garlic-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-drip-510-cartridge-garlic-cookies-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.290Z"
+}

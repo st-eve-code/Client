@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-cannabis-co-1g-preroll-biscotti",
+  "name": "Puff Cannabis Co. | 1g Preroll | Biscotti",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 2,
+  "price_max": 2,
+  "currency": "USD",
+  "price_range": "$2.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dbfeb8007c4402ff36412100c12f8bf9",
+      "alt": "Puff Cannabis Co. | 1g Preroll | Biscotti",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-cannabis-co-1g-preroll-biscotti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-cannabis-co-1g-preroll-biscotti-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.917Z"
+}

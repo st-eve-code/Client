@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-detroit-edible-100mg-sidekicks-cinnamon-spark",
+  "name": "Detroit Edible | 100mg Sidekicks | Cinnamon Spark",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Designed for consumers looking for a micro-dose option, the 2.5mg sugar-free Sidekicks THC Mints are the perfect size for a quick way to relax when you're on the move. Each pack contains a total of 100mg of THC.",
+  "description_html": "Designed for consumers looking for a micro-dose option, the 2.5mg sugar-free Sidekicks THC Mints are the perfect size for a quick way to relax when you're on the move. Each pack contains a total of 100mg of THC.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e0d1c7850556956f338d3179b28e7df4",
+      "alt": "Detroit Edible | 100mg Sidekicks | Cinnamon Spark",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-detroit-edible-100mg-sidekicks-cinnamon-spark__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.855g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-detroit-edible-100mg-sidekicks-cinnamon-spark-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.784Z"
+}

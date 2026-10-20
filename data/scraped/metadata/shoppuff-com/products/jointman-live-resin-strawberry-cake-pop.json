@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-live-resin-strawberry-cake-pop",
+  "name": "Jointman Live Resin | Strawberry Cake Pop",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Step into the world of next-level dabs with the Jointman 5g Live Resin Concentrate — crafted for connoisseurs who demand potency without compromise. Extracted from fresh, premium flower, this live resin locks in every terpene and cannabinoid for a true-to-plant, full-spectrum experience that hits hard and tastes like the source.",
+  "description_html": "Step into the world of next-level dabs with the Jointman 5g Live Resin Concentrate — crafted for connoisseurs who demand potency without compromise. Extracted from fresh, premium flower, this live resin locks in every terpene and cannabinoid for a true-to-plant, full-spectrum experience that hits hard and tastes like the source.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5949bd666a85fed613e442d3061ab338",
+      "alt": "Jointman Live Resin | Strawberry Cake Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-live-resin-strawberry-cake-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-live-resin-strawberry-cake-pop-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.670Z"
+}

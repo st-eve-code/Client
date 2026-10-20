@@ -1,0 +1,35 @@
+{
+  "slug": "old-school-hash-co-temple-ball-headband",
+  "name": "Old School Hash Co. Temple Ball | Headband",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Old School Hash Co.",
+  "tags": [],
+  "description": "Solventless, hand-rolled and slow-cured, our 1g Temple Ball is a nod to artisanal hash-making. This resinous hash form is a smooth, oily texture that softens with warmth; allowing you to easily infuse your own joints by rolling small pieces into snakes. This full melt product can be added to any session or smoked by itself. Packed in our signature reusable tin.",
+  "description_html": "Solventless, hand-rolled and slow-cured, our 1g Temple Ball is a nod to artisanal hash-making. This resinous hash form is a smooth, oily texture that softens with warmth; allowing you to easily infuse your own joints by rolling small pieces into snakes. This full melt product can be added to any session or smoked by itself. Packed in our signature reusable tin.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0aecc2b0c24dddd5d184f2c53afcaff5",
+      "alt": "Old School Hash Co. Temple Ball | Headband",
+      "local": "data\\scraped\\images\\shoppuff-com__old-school-hash-co-temple-ball-headband__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/old-school-hash-co-temple-ball-headband-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.340Z"
+}

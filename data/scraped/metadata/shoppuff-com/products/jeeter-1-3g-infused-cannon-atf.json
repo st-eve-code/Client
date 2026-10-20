@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-1-3g-infused-cannon-atf",
+  "name": "Jeeter | 1.3g Infused Cannon | ATF",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "INFUSED W/ LIVE RESIN\n\n1.3 grams of exotic indoor flower infused with live resin (full spectrum oil retaining a higher concentration of cannabinoids and terpenes). It showcases complimentary strains of high quality live resin and flower paired together for complex flavor and unique effects.",
+  "description_html": "INFUSED W/ LIVE RESIN<br /><br />1.3 grams of exotic indoor flower infused with live resin (full spectrum oil retaining a higher concentration of cannabinoids and terpenes). It showcases complimentary strains of high quality live resin and flower paired together for complex flavor and unique effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a8ce75aa860207cec1ef166109b171c1",
+      "alt": "Jeeter | 1.3g Infused Cannon | ATF",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-1-3g-infused-cannon-atf__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-1-3g-infused-cannon-atf-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.282Z"
+}

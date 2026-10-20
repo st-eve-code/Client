@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-1-5g-infused-blunt-blueberry-raspberry",
+  "name": "Blueberry Pie Blunt - 1.5g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.5,
+  "price_max": 8.5,
+  "currency": "USD",
+  "price_range": "$8.50",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "Enjoy the perfect fusion of sweet vanilla and tart blueberry with Swisher Blunts Blueberry Pie.",
+  "description_html": "Enjoy the perfect fusion of sweet vanilla and tart blueberry with Swisher Blunts Blueberry Pie.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b8b9c5f76149da51f4ce9ff9b651fa1c",
+      "alt": "Blueberry Pie Blunt - 1.5g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-1-5g-infused-blunt-blueberry-raspberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 8.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-1-5g-infused-blunt-blueberry-raspberry-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.770Z"
+}

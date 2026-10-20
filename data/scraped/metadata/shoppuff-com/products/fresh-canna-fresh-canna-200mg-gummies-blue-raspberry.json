@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-fresh-canna-200mg-gummies-blue-raspberry",
+  "name": "Fresh Canna | 200mg Gummies | Blue Raspberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "40mg per piece gummies.\n200mg per package",
+  "description_html": "40mg per piece gummies.<br />200mg per package<br />                                                                   <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/33a0dfdd4b9bc600a3e7cd521e1cc474",
+      "alt": "Fresh Canna | 200mg Gummies | Blue Raspberry",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-200mg-gummies-blue-raspberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.1875g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-200mg-gummies-blue-raspberry-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.804Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-motor-breath",
+  "name": "Heavyweight Heads | Motor Breath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$5.00 – $45.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b97887f4936c2c00df55cbc6c75c596a",
+      "alt": "Heavyweight Heads | Motor Breath",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-motor-breath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-motor-breath-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.409Z"
+}

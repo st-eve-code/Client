@@ -1,0 +1,35 @@
+{
+  "slug": "amnesia-amnesia-510-cartridge-og",
+  "name": "Amnesia 510 Cartridge | OG",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Amnesia",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d9c64b0df93f72ef4baf8dd705f46908",
+      "alt": "Amnesia 510 Cartridge | OG",
+      "local": "data\\scraped\\images\\shoppuff-com__amnesia-amnesia-510-cartridge-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/amnesia-amnesia-510-cartridge-og-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.249Z"
+}

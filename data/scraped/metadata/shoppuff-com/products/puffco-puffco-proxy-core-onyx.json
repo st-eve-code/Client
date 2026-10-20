@@ -1,0 +1,35 @@
+{
+  "slug": "puffco-puffco-proxy-core-onyx",
+  "name": "Puffco | Proxy Core | Onyx",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 230,
+  "price_max": 230,
+  "currency": "USD",
+  "price_range": "$230.00",
+  "available": true,
+  "vendor": "Puffco",
+  "tags": [],
+  "description": "The new Proxy Core is engineered for daily life – maximum portability, uncompromising power.\n\nDriven by our patented 3D Chamber and the Puffco Connect app’s deep customization, Core delivers full spectrum flavor and impressive clouds in a glass-free, highly pocketable form. And when you combine the ceramic terp pearls with Core's impact airpath design, you’re getting a direct, intimate hit that rumbles as you inhale.",
+  "description_html": "The new Proxy Core is engineered for daily life – maximum portability, uncompromising power.<br /><br />Driven by our patented 3D Chamber and the Puffco Connect app’s deep customization, Core delivers full spectrum flavor and impressive clouds in a glass-free, highly pocketable form. And when you combine the ceramic terp pearls with Core's impact airpath design, you’re getting a direct, intimate hit that rumbles as you inhale.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1fc41081e5ad33260e44888959b6395f",
+      "alt": "Puffco | Proxy Core | Onyx",
+      "local": "data\\scraped\\images\\shoppuff-com__puffco-puffco-proxy-core-onyx__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 230,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puffco-puffco-proxy-core-onyx-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.377Z"
+}

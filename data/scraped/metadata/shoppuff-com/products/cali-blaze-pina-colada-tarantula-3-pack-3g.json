@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-pina-colada-tarantula-3-pack-3g",
+  "name": "Pina Colada Tarantula 3-pack | 3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "3 flower filled joints infused with pure THCA and rolled in kief.",
+  "description_html": "3 flower filled joints infused with pure THCA and rolled in kief.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e73af61a8162e612bab5f6fc666ca106",
+      "alt": "Pina Colada Tarantula 3-pack | 3g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-pina-colada-tarantula-3-pack-3g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-pina-colada-tarantula-3-pack-3g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.503Z"
+}

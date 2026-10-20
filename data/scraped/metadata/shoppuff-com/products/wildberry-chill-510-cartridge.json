@@ -1,0 +1,35 @@
+{
+  "slug": "wildberry-chill-510-cartridge",
+  "name": "Platinum Vape 510 Cartridge | Wildberry Chill",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Platinum Vape",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bd6e0d6bfabd41434865b6711d764a9a",
+      "alt": "Platinum Vape 510 Cartridge | Wildberry Chill",
+      "local": "data\\scraped\\images\\shoppuff-com__wildberry-chill-510-cartridge__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wildberry-chill-510-cartridge-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.073Z"
+}

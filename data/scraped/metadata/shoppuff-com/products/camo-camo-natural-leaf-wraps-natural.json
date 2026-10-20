@@ -1,0 +1,35 @@
+{
+  "slug": "camo-camo-natural-leaf-wraps-natural",
+  "name": "Camo | Natural Leaf Wraps | Natural",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Camo",
+  "tags": [],
+  "description": "Camo Natural Leaf Wraps are made from chamomile and mate plants, these are totally different from any other wrap! These slow-burning, self-rolling wraps pair perfectly with herbal blends. 5 wraps come in each resealable foil pack.",
+  "description_html": "Camo Natural Leaf Wraps are made from chamomile and mate plants, these are totally different from any other wrap! These slow-burning, self-rolling wraps pair perfectly with herbal blends. 5 wraps come in each resealable foil pack.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/98624bf68dfab87fb966f73998e2abb4",
+      "alt": "Camo | Natural Leaf Wraps | Natural",
+      "local": "data\\scraped\\images\\shoppuff-com__camo-camo-natural-leaf-wraps-natural__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/camo-camo-natural-leaf-wraps-natural-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.563Z"
+}

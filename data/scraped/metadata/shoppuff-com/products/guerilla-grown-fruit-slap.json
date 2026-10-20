@@ -1,0 +1,60 @@
+{
+  "slug": "guerilla-grown-fruit-slap",
+  "name": "Guerilla Grown | Fruit Slap",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 89,
+  "currency": "USD",
+  "price_range": "$5.00 – $89.00",
+  "available": true,
+  "vendor": "Guerilla Grown",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Guerilla Grown | Fruit Slap",
+      "local": "data\\scraped\\images\\shoppuff-com__guerilla-grown-fruit-slap__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 89,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guerilla-grown-fruit-slap-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.577Z"
+}

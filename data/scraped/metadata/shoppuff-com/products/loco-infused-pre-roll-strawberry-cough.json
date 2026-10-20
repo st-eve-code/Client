@@ -1,0 +1,35 @@
+{
+  "slug": "loco-infused-pre-roll-strawberry-cough",
+  "name": "Loco Infused Pre-Roll | Strawberry Cough",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "LOCO",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/386ec3cf36c22d82fda46fe82cdb3283",
+      "alt": "Loco Infused Pre-Roll | Strawberry Cough",
+      "local": "data\\scraped\\images\\shoppuff-com__loco-infused-pre-roll-strawberry-cough__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loco-infused-pre-roll-strawberry-cough-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.062Z"
+}

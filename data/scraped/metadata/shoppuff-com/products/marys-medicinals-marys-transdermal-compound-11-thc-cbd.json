@@ -1,0 +1,35 @@
+{
+  "slug": "marys-medicinals-marys-transdermal-compound-11-thc-cbd",
+  "name": "Mary's | Transdermal Compound 1:1 | THC : CBD",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Mary's Medicinals",
+  "tags": [],
+  "description": "With a perfect balance of natural ingredients, Relief Compound offers swift relief, effortlessly restoring your comfort and well-being. Mentholated for an instant cooling effect, our 1:1 Relief Compound is the perfect solution for those needing spot-specific relief.",
+  "description_html": "With a perfect balance of natural ingredients, Relief Compound offers swift relief, effortlessly restoring your comfort and well-being. Mentholated for an instant cooling effect, our 1:1 Relief Compound is the perfect solution for those needing spot-specific relief.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/05cab45bc135c4b38b7e96ea35603c31",
+      "alt": "Mary's | Transdermal Compound 1:1 | THC : CBD",
+      "local": "data\\scraped\\images\\shoppuff-com__marys-medicinals-marys-transdermal-compound-11-thc-cbd__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/marys-medicinals-marys-transdermal-compound-11-thc-cbd-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.683Z"
+}

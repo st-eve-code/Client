@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-lsp-live-resin-cannon-1-3g",
+  "name": "LSP Live Resin Cannon | 1.3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 22,
+  "price_max": 22,
+  "currency": "USD",
+  "price_range": "$22.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "From premium fresh frozen indoor flower to 100% live resin infusion, each Cannon is crafted to perfection, with a full spectrum high terpene extract and custom ceramic 8mm filters, promising a smoking experience that's as intense as it is unforgettable and ensuring a smooth and flavorful ride every time.",
+  "description_html": "From premium fresh frozen indoor flower to 100% live resin infusion, each Cannon is crafted to perfection, with a full spectrum high terpene extract and custom ceramic 8mm filters, promising a smoking experience that's as intense as it is unforgettable and ensuring a smooth and flavorful ride every time.<br /><br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/904c5de86ed5c3a4b4b32a5d024c77ba",
+      "alt": "LSP Live Resin Cannon | 1.3g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-lsp-live-resin-cannon-1-3g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 22,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-lsp-live-resin-cannon-1-3g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.817Z"
+}

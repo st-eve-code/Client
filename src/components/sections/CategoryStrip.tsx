@@ -22,7 +22,7 @@ export async function CategoryStrip() {
   return (
     <section className="bg-[var(--color-bg-surface)]">
       <div className="container-vapestore pb-3 pt-10">
-        <ul className="flex flex-wrap items-center gap-2">
+        <ul className="flex flex-wrap items-center gap-3">
           {pills.map(({ label, href }) => (
             <li key={label}>
               <Link

@@ -1,0 +1,35 @@
+{
+  "slug": "natures-relief-natures-relief-1500mg-cbd-roll-on-rapid-relief",
+  "name": "Nature's Relief | 1500mg CBD Roll On | Rapid Relief",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Nature's Relief",
+  "tags": [],
+  "description": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "description_html": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f72bb442fe2df3f1e654bb4b6e44564a",
+      "alt": "Nature's Relief | 1500mg CBD Roll On | Rapid Relief",
+      "local": "data\\scraped\\images\\shoppuff-com__natures-relief-natures-relief-1500mg-cbd-roll-on-rapid-relief__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/natures-relief-natures-relief-1500mg-cbd-roll-on-rapid-relief-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.800Z"
+}

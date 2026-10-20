@@ -1,0 +1,35 @@
+{
+  "slug": "sunburst-peach-200mg-gummies",
+  "name": "Choice Chews | 200mg Gummies | Sunburst Peach",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 3.75,
+  "price_max": 3.75,
+  "currency": "USD",
+  "price_range": "$3.75",
+  "available": true,
+  "vendor": "Choice Chews",
+  "tags": [],
+  "description": "Bursting with the luscious flavor of ripe, sun-kissed peaches, Sunburst Peach is a juicy, sweet treat that tastes like summer in every bite.",
+  "description_html": "Bursting with the luscious flavor of ripe, sun-kissed peaches, Sunburst Peach is a juicy, sweet treat that tastes like summer in every bite.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6773954264a65062d25b201887894770",
+      "alt": "Choice Chews | 200mg Gummies | Sunburst Peach",
+      "local": "data\\scraped\\images\\shoppuff-com__sunburst-peach-200mg-gummies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.8125g",
+      "price": 3.75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sunburst-peach-200mg-gummies-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.186Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-grape-tarantula-1g",
+  "name": "Grape Tarantula | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5.99,
+  "price_max": 5.99,
+  "currency": "USD",
+  "price_range": "$5.99",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Dark grape, like the real fruit, not the candy. Heavy indica that's all about sedation. Myrcene-dominant terpene profile puts you to sleep if that's what you're after. A nightstand staple for evening wind-down.\n\n* Liquid Diamond Infused: Injected with concentrate for amplified potency.\n* Kief Crusted: Rolled in kief for an extra layer of flavor and THC.",
+  "description_html": "Dark grape, like the real fruit, not the candy. Heavy indica that's all about sedation. Myrcene-dominant terpene profile puts you to sleep if that's what you're after. A nightstand staple for evening wind-down.<br /><br />* Liquid Diamond Infused: Injected with concentrate for amplified potency.<br />* Kief Crusted: Rolled in kief for an extra layer of flavor and THC.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3dac682f77a34394b2d2771f49b60e17",
+      "alt": "Grape Tarantula | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-grape-tarantula-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-grape-tarantula-1g-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.408Z"
+}

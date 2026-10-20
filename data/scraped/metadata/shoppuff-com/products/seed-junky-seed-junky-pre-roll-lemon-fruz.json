@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-lemon-fruz",
+  "name": "Seed Junky Pre-Roll | Lemon Fruz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Experience the vibrant taste of Lemon Fruz, a sativa inspired by the finest Italian citrus. With fresh lemon zest, candy sweetness, and earthy undertones, this strain is a terpene-rich delight. Lemon Fruz offers a deliciously refreshing citrus treat, perfect for unwinding while keeping your senses sharp.",
+  "description_html": "Experience the vibrant taste of Lemon Fruz, a sativa inspired by the finest Italian citrus. With fresh lemon zest, candy sweetness, and earthy undertones, this strain is a terpene-rich delight. Lemon Fruz offers a deliciously refreshing citrus treat, perfect for unwinding while keeping your senses sharp.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/91471ce10b4784c149d268cc54b428c2",
+      "alt": "Seed Junky Pre-Roll | Lemon Fruz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-lemon-fruz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-lemon-fruz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.257Z"
+}

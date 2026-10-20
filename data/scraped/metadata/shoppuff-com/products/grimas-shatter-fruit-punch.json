@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-shatter-fruit-punch",
+  "name": "Grimas Shatter | Fruit Punch",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Shatter is a form of concentrate that is made by extracting cannabinoids and terpenes from cured cannabis flower. Shatter is translucent and stable at room temperature, but can range in consistency from very brittle to having a \"pull-n-snap\" quality.",
+  "description_html": "Shatter is a form of concentrate that is made by extracting cannabinoids and terpenes from cured cannabis flower. Shatter is translucent and stable at room temperature, but can range in consistency from very brittle to having a \"pull-n-snap\" quality.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Grimas Shatter | Fruit Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-shatter-fruit-punch__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-shatter-fruit-punch-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.454Z"
+}

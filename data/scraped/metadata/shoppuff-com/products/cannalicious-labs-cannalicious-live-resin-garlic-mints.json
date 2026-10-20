@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-live-resin-garlic-mints",
+  "name": "Cannalicious Live Resin | Garlic Mints",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Garlic Mints is a pungent and euphoric indica-dominant hybrid cross between Garlic Cookies and Animal Mints, known for its savory garlic aroma and for delivering a calming and relaxing body high. Garlic Mints may help in managing chronic stress, anxiety, headaches, migraines, and muscle spasms.",
+  "description_html": "Garlic Mints is a pungent and euphoric indica-dominant hybrid cross between Garlic Cookies and Animal Mints, known for its savory garlic aroma and for delivering a calming and relaxing body high. Garlic Mints may help in managing chronic stress, anxiety, headaches, migraines, and muscle spasms.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/14184a06b8393dcf79062f3e1ab197ae",
+      "alt": "Cannalicious Live Resin | Garlic Mints",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-live-resin-garlic-mints__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-live-resin-garlic-mints-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.285Z"
+}

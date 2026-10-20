@@ -1,0 +1,60 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-blueberry-muffin",
+  "name": "Heavyweight Heads | Blueberry Muffin",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "You'll find yourself feeling sociable and outgoing, chatting with anyone and everyone around you, although you may fall in and out of fits of the giggles at times. A pang of hunger comes next, leaving you with a heavy case of the munchies and reaching for anything in sight to snack on.",
+  "description_html": "You'll find yourself feeling sociable and outgoing, chatting with anyone and everyone around you, although you may fall in and out of fits of the giggles at times. A pang of hunger comes next, leaving you with a heavy case of the munchies and reaching for anything in sight to snack on.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Heavyweight Heads | Blueberry Muffin",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-blueberry-muffin__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-blueberry-muffin-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.936Z"
+}

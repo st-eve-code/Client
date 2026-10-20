@@ -1,0 +1,60 @@
+{
+  "slug": "society-c-headband",
+  "name": "Society C | Headband",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Society C",
+  "tags": [],
+  "description": "Society C's Headband is a groovy hybrid strain, mixing OG Kush and Sour Diesel. It has a tasty creamy lemon-diesel flavor and features terpenes like myrcene, caryophyllene, and limonene. Users usually feel euphoric, creative, and a bit cerebral when they smoke it.",
+  "description_html": "Society C's Headband is a groovy hybrid strain, mixing OG Kush and Sour Diesel. It has a tasty creamy lemon-diesel flavor and features terpenes like myrcene, caryophyllene, and limonene. Users usually feel euphoric, creative, and a bit cerebral when they smoke it.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bd996333c11e9d95c3381c8523b67ea0",
+      "alt": "Society C | Headband",
+      "local": "data\\scraped\\images\\shoppuff-com__society-c-headband__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/society-c-headband-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.743Z"
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "hat-embroidered-hemp-leaf-snapback-black-copy",
+  "name": "Top - Ocho Extracts Airplane Mode Long Sleeved Tee",
+  "site": "ochoextracts-com",
+  "category": "swag",
+  "price_min": 29.99,
+  "price_max": 29.99,
+  "currency": "GBP",
+  "price_range": "£29.99",
+  "available": true,
+  "sku": "AIRPLANE-LS-SM",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "Swag"
+  ],
+  "description": "Stay grounded while flying high with the Ocho Extracts Airplane Mode Long Sleeved Tee. Designed with a bold back graphic of girl in 'Do Not Disturb', and signature OCHO detailing, this black cotton long sleeve delivers a clean streetwear look with everyday comfort. Finished with subtle front chest logo accent, this piece is built for laid-back fits and cooler nights.\n\nFeatures:• Soft cotton construction• Black long sleeve design• Large Airplane Mode back screen print graphic• Left chest logo detail• Relaxed everyday fit",
+  "description_html": "<p data-end=\"368\" data-start=\"37\">Stay grounded while flying high with the <strong>Ocho Extracts Airplane Mode Long Sleeved Tee. </strong>Designed with a bold back graphic of girl in 'Do Not Disturb', and signature OCHO detailing, this black cotton long sleeve delivers a clean streetwear look with everyday comfort. Finished with subtle front chest logo accent, this piece is built for laid-back fits and cooler nights.</p>\n<p data-end=\"534\" data-start=\"370\"><span style=\"text-decoration: underline;\"><strong data-end=\"383\" data-start=\"370\">Features:</strong></span><br data-end=\"386\" data-start=\"383\">• Soft cotton construction<br data-end=\"415\" data-start=\"412\">• Black long sleeve design<br data-end=\"444\" data-start=\"441\">• Large Airplane Mode back screen print graphic<br data-end=\"481\" data-start=\"478\">• Left chest logo detail<br data-end=\"510\" data-start=\"507\">• Relaxed everyday fit</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Airplane_Mode.png?v=1779311819",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__hat-embroidered-hemp-leaf-snapback-black-copy__000.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 45869204701370,
+      "title": "S",
+      "price": 29.99,
+      "sku": "AIRPLANE-LS-SM",
+      "available": true
+    },
+    {
+      "id": 45869204734138,
+      "title": "M",
+      "price": 29.99,
+      "sku": "AIRPLANE-LS-MD",
+      "available": true
+    },
+    {
+      "id": 45869204766906,
+      "title": "L",
+      "price": 29.99,
+      "sku": "AIRPLANE-LS-LRG",
+      "available": true
+    },
+    {
+      "id": 45869204799674,
+      "title": "XL",
+      "price": 29.99,
+      "sku": "AIRPLANE-LS-XL",
+      "available": true
+    }
+  ],
+  "collections": [
+    "swag"
+  ],
+  "source_url": "https://ochoextracts.com/products/hat-embroidered-hemp-leaf-snapback-black-copy",
+  "scraped_at": "2026-10-10T21:42:46.209Z"
+}

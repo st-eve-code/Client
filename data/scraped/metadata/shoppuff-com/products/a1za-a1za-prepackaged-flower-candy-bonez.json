@@ -1,0 +1,35 @@
+{
+  "slug": "a1za-a1za-prepackaged-flower-candy-bonez",
+  "name": "A1ZA Prepackaged Flower | Candy Bonez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 84,
+  "price_max": 84,
+  "currency": "USD",
+  "price_range": "$84.00",
+  "available": true,
+  "vendor": "A1ZA",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/abe6ef7b29860ae0bfbc9c3d80226ee4",
+      "alt": "A1ZA Prepackaged Flower | Candy Bonez",
+      "local": "data\\scraped\\images\\shoppuff-com__a1za-a1za-prepackaged-flower-candy-bonez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 84,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/a1za-a1za-prepackaged-flower-candy-bonez-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.686Z"
+}

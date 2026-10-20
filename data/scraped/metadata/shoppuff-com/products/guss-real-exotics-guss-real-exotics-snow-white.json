@@ -1,0 +1,60 @@
+{
+  "slug": "guss-real-exotics-guss-real-exotics-snow-white",
+  "name": "Gus's Real Exotics | Snow White",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$5.00 – $125.00",
+  "available": true,
+  "vendor": "Gus's Real Exotics",
+  "tags": [],
+  "description": "*$125 Bogo Flower Tier\n\nSnow White by Gus's Real Exotics is an indica-dominant hybrid cannabis strain crossing White Widow and Northern Lights.\n\nStrain Profile/ Effects:\nType: Indica-dominant hybrid\n\nAroma: Deeply earthy, sweet, and woody with a sharp kick of pine\n\nTaste: Clean and smooth finish with refreshing citrus undertones on the exhale\n\nEffects: Balanced high providing soothing physical relaxation paired with a calm, clear-headed mental mood lift (without heavy couch-lock)",
+  "description_html": "*$125 Bogo Flower Tier<br /><br />Snow White by Gus's Real Exotics is an indica-dominant hybrid cannabis strain crossing White Widow and Northern Lights.<br /><br />Strain Profile/ Effects:<br />Type: Indica-dominant hybrid<br /><br />Aroma: Deeply earthy, sweet, and woody with a sharp kick of pine<br /><br />Taste: Clean and smooth finish with refreshing citrus undertones on the exhale<br /><br />Effects: Balanced high providing soothing physical relaxation paired with a calm, clear-headed mental mood lift (without heavy couch-lock)",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e35b61da967b4085277713578fa0507c",
+      "alt": "Gus's Real Exotics | Snow White",
+      "local": "data\\scraped\\images\\shoppuff-com__guss-real-exotics-guss-real-exotics-snow-white__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guss-real-exotics-guss-real-exotics-snow-white-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.901Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-super-dope-5g-prepackaged-flower-lemon-popperz-minis",
+  "name": "Super Dope | 5g Prepackaged Flower | Lemon Popperz Minis",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Lemon Popperz, an exotic blend of Gelato 41 crossed with Lemon Tree, gives off candy terps with the a “41 lemon funk” profile.",
+  "description_html": "Lemon Popperz, an exotic blend of Gelato 41 crossed with Lemon Tree, gives off candy terps with the a “41 lemon funk” profile.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/06c684ba56785a1e054cf5c6db054732",
+      "alt": "Super Dope | 5g Prepackaged Flower | Lemon Popperz Minis",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-5g-prepackaged-flower-lemon-popperz-minis__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-5g-prepackaged-flower-lemon-popperz-minis-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.508Z"
+}

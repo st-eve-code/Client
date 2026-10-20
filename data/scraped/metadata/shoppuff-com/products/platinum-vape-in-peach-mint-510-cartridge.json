@@ -1,0 +1,35 @@
+{
+  "slug": "platinum-vape-in-peach-mint-510-cartridge",
+  "name": "In-Peach-Mint 510 Cartridge",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4.99,
+  "price_max": 4.99,
+  "currency": "USD",
+  "price_range": "$4.99",
+  "available": true,
+  "vendor": "Platinum Vape",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c8f729a2623ddee7087a1e180c5f24c8",
+      "alt": "In-Peach-Mint 510 Cartridge",
+      "local": "data\\scraped\\images\\shoppuff-com__platinum-vape-in-peach-mint-510-cartridge__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/platinum-vape-in-peach-mint-510-cartridge-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.700Z"
+}

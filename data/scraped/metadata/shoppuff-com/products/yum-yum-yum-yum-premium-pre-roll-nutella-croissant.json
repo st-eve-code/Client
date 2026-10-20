@@ -1,0 +1,35 @@
+{
+  "slug": "yum-yum-yum-yum-premium-pre-roll-nutella-croissant",
+  "name": "Yum Yum Premium Pre-Roll | Nutella Croissant",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10.5,
+  "price_max": 10.5,
+  "currency": "USD",
+  "price_range": "$10.50",
+  "available": true,
+  "vendor": "Yum Yum",
+  "tags": [],
+  "description": "1.5g Premium Pre-Roll\n\nRolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "1.5g Premium Pre-Roll<br /><br />Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8c46b0af2315473018b5cda05662ca1d",
+      "alt": "Yum Yum Premium Pre-Roll | Nutella Croissant",
+      "local": "data\\scraped\\images\\shoppuff-com__yum-yum-yum-yum-premium-pre-roll-nutella-croissant__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 10.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/yum-yum-yum-yum-premium-pre-roll-nutella-croissant-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.806Z"
+}

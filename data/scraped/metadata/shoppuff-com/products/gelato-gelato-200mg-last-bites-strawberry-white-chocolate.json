@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-200mg-last-bites-strawberry-white-chocolate",
+  "name": "Gelato | 200mg Last Bites | Strawberry White Chocolate",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "200mg Edible\nGelato | 200mg Last Bites | Strawberry White Chocolate.",
+  "description_html": "200mg Edible<br />Gelato | 200mg Last Bites | Strawberry White Chocolate.                             <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/609859f8e1e8d20f8e93a142b61e455e",
+      "alt": "Gelato | 200mg Last Bites | Strawberry White Chocolate",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-200mg-last-bites-strawberry-white-chocolate__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.25g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-200mg-last-bites-strawberry-white-chocolate-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.785Z"
+}

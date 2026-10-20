@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-original-z-hash-holes-1g",
+  "name": "Original Z Hash Holes | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": ".85g flower + .15g rosin hand rolled with a custom glass tip. Original Z features a sweet, tropical blend of fruit flavors. It has long-lasting and lifted effects that will leave you feeling buzzy and happy from head to toe.",
+  "description_html": ".85g flower + .15g rosin hand rolled with a custom glass tip. Original Z features a sweet, tropical blend of fruit flavors. It has long-lasting and lifted effects that will leave you feeling buzzy and happy from head to toe.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e0cd647ea0f8973255083a162630060c",
+      "alt": "Original Z Hash Holes | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-original-z-hash-holes-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-original-z-hash-holes-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.052Z"
+}

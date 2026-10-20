@@ -1,0 +1,35 @@
+{
+  "slug": "light-sky-farms-live-resin-permanent-zoap",
+  "name": "Light Sky Farms Live Resin | Permanent Zoap",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "LightSky Farms",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4bca56286306bd0471814bc79abd2859",
+      "alt": "Light Sky Farms Live Resin | Permanent Zoap",
+      "local": "data\\scraped\\images\\shoppuff-com__light-sky-farms-live-resin-permanent-zoap__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/light-sky-farms-live-resin-permanent-zoap-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.288Z"
+}

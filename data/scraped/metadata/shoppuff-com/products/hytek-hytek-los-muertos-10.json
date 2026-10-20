@@ -1,0 +1,60 @@
+{
+  "slug": "hytek-hytek-los-muertos-10",
+  "name": "Hytek | Los Muertos 10",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "The Los Muertos aka Dia de Los Muertos, is a head smacker!! Sweet and spicy, gassy taste with a hint of a creamy diesel on the exhale.\n\nIts like eating cold Tres Leche in a South Columbian cocaine camp on a hot day! \n\nCategory: Indica Leaning Hybrid\n\nBreeder: Lit Farms\n\nCross: Motorbreath 15 x Project 4516",
+  "description_html": "The Los Muertos aka Dia de Los Muertos, is a head smacker!! Sweet and spicy, gassy taste with a hint of a creamy diesel on the exhale.<br /><br />Its like eating cold Tres Leche in a South Columbian cocaine camp on a hot day! <br /><br />Category: Indica Leaning Hybrid<br /><br />Breeder: Lit Farms<br /><br />Cross: Motorbreath 15 x Project 4516",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/210b3a056dc271d857ad00af28550a56",
+      "alt": "Hytek | Los Muertos 10",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-los-muertos-10__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-los-muertos-10-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.807Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-og-farms-prepackaged-flower-chem-dawg",
+  "name": "OG Farms Prepackaged Flower | Chem Dawg",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "Whether you’re stocking up or rolling through your go-to strain, OG Farms brings you a smooth, flavorful experience backed by trusted cultivation and dependable results.",
+  "description_html": "Whether you’re stocking up or rolling through your go-to strain, OG Farms brings you a smooth, flavorful experience backed by trusted cultivation and dependable results.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9396a40c7f208e15f5613419edc80d7d",
+      "alt": "OG Farms Prepackaged Flower | Chem Dawg",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-og-farms-prepackaged-flower-chem-dawg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-og-farms-prepackaged-flower-chem-dawg-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.209Z"
+}

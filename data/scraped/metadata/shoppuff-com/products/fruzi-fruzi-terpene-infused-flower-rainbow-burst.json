@@ -1,0 +1,35 @@
+{
+  "slug": "fruzi-fruzi-terpene-infused-flower-rainbow-burst",
+  "name": "Fruzi | Terpene Infused Flower | Rainbow Burst",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Fruzi",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1a3f61361bee61e09363bf22e9958a6e",
+      "alt": "Fruzi | Terpene Infused Flower | Rainbow Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__fruzi-fruzi-terpene-infused-flower-rainbow-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fruzi-fruzi-terpene-infused-flower-rainbow-burst-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.426Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-pixie-stix-infused-preroll-lemon-cherry-gelato",
+  "name": "Pixie Stix Infused Preroll | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Lemon Cherry Gelato hybrid infused pre roll. \nOne 1.25g pre roll per pack.\n\nFlavors:\nLemon\nCitrus\nSweet\nBerry\nEarthy\nPine",
+  "description_html": "Pixie Stix Lemon Cherry Gelato hybrid infused pre roll. <br />One 1.25g pre roll per pack.<br /><br />Flavors:<br />Lemon<br />Citrus<br />Sweet<br />Berry<br />Earthy<br />Pine",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/65f50222ee12a31220edfa6a6e551a66",
+      "alt": "Pixie Stix Infused Preroll | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-pixie-stix-infused-preroll-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-pixie-stix-infused-preroll-lemon-cherry-gelato-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.849Z"
+}

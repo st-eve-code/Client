@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-pixie-stix-infused-preroll-runtz",
+  "name": "Pixie Stix Infused Preroll | Runtz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Runtz hybrid infused pre roll. \nOne 1.25g pre roll per pack.\n\nFlavors:\nSweet\nBerry\nTropical\nCitrus\nEarthy",
+  "description_html": "Pixie Stix Runtz hybrid infused pre roll. <br />One 1.25g pre roll per pack.<br /><br />Flavors:<br />Sweet<br />Berry<br />Tropical<br />Citrus<br />Earthy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5965be26b2fafccc46f960c5a89d568c",
+      "alt": "Pixie Stix Infused Preroll | Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-pixie-stix-infused-preroll-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-pixie-stix-infused-preroll-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.848Z"
+}

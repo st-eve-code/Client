@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-prepackaged-flower-animal-face",
+  "name": "Goodlyfe Prepackaged Flower | Animal Face",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 49,
+  "price_max": 49,
+  "currency": "USD",
+  "price_range": "$49.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Goodlyfe Prepackaged Flower | Animal Face",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-prepackaged-flower-animal-face__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 49,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-prepackaged-flower-animal-face-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.762Z"
+}

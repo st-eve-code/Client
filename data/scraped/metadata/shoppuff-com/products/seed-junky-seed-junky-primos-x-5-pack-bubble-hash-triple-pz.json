@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-primos-x-5-pack-bubble-hash-triple-pz",
+  "name": "Seed Junky Primos x 5 Pack Bubble Hash | Triple P'z",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Single sourced, strain specific, whole nug pre-roll, no trim, no shake ever! Strong notes of gas, fuel, creamy sweetness these dense purple buds will have you on cloud 420. Each puff has full body flavor and will have you melting into relaxation in no time. Primos are made with premium indoor flower and bubble hash.",
+  "description_html": "Single sourced, strain specific, whole nug pre-roll, no trim, no shake ever! Strong notes of gas, fuel, creamy sweetness these dense purple buds will have you on cloud 420. Each puff has full body flavor and will have you melting into relaxation in no time. Primos are made with premium indoor flower and bubble hash.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Seed Junky Primos x 5 Pack Bubble Hash | Triple P'z",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-primos-x-5-pack-bubble-hash-triple-pz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-primos-x-5-pack-bubble-hash-triple-pz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.858Z"
+}

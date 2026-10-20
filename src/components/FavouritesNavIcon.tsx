@@ -1,0 +1,24 @@
+"use client";
+
+import Link from "next/link";
+import { useFavourites } from "./FavouritesProvider";
+import { HeartIcon } from "./FavouriteButton";
+
+export function FavouritesNavIcon() {
+  const { count } = useFavourites();
+
+  return (
+    <Link
+      href="/favourites"
+      aria-label={`Favourites (${count})`}
+      className="relative text-white transition-colors duration-[var(--duration-base)] hover:text-[#91f974]"
+    >
+      <HeartIcon className="h-6 w-6" />
+      {count > 0 ? (
+        <span className="absolute -right-2 -top-2 flex h-4 min-w-4 items-center justify-center rounded-full bg-[#ef4444] px-1 text-[10px] font-bold text-white">
+          {count}
+        </span>
+      ) : null}
+    </Link>
+  );
+}

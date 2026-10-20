@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-live-rosin-gastro-pop",
+  "name": "Local Grove Live Rosin | Gastro Pop",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Apples & Bananas x Grape Gas \n\nBreeder: Compound Genetics \n\nAroma & Flavor: Fruit gas aroma with smaller but potent buds \n\nEffects: Hybrid – surprisingly strong for a fruity strain",
+  "description_html": "Genetics: Apples & Bananas x Grape Gas <br /><br />Breeder: Compound Genetics <br /><br />Aroma & Flavor: Fruit gas aroma with smaller but potent buds <br /><br />Effects: Hybrid – surprisingly strong for a fruity strain",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/30293e2356b2700654c13cb0197dcbce",
+      "alt": "Local Grove Live Rosin | Gastro Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-live-rosin-gastro-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-live-rosin-gastro-pop-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.648Z"
+}

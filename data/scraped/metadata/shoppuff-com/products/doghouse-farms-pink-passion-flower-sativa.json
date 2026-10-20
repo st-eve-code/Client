@@ -1,0 +1,55 @@
+{
+  "slug": "doghouse-farms-pink-passion-flower-sativa",
+  "name": "Pink Passion - Flower - Sativa",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 66.5,
+  "currency": "USD",
+  "price_range": "$7.00 – $66.50",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "Apples and Bananas x Grape Gas | Sativa | Fruity\nTerpenes: Myrcene, Pinene, Ocimene\n\nPink Passion blends tangy passion fruit flavors with sweet citrus and floral notes, underpinned by lemony freshness and a hint of earthy kush. Its aroma is a captivating mix of sweet citrus and sour earth, creating a rich sensory experience. This hybrid strain offers a balanced, creative, and joyful high.",
+  "description_html": "Apples and Bananas x Grape Gas | Sativa | Fruity<br />Terpenes: Myrcene, Pinene, Ocimene<br /><br />Pink Passion blends tangy passion fruit flavors with sweet citrus and floral notes, underpinned by lemony freshness and a hint of earthy kush. Its aroma is a captivating mix of sweet citrus and sour earth, creating a rich sensory experience. This hybrid strain offers a balanced, creative, and joyful high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/13fbb8d708b24f67127a52c2ee97925f",
+      "alt": "Pink Passion - Flower - Sativa",
+      "local": "data\\scraped\\images\\shoppuff-com__doghouse-farms-pink-passion-flower-sativa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 38.5,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 66.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 21,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doghouse-farms-pink-passion-flower-sativa-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.310Z"
+}

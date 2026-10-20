@@ -1,0 +1,52 @@
+{
+  "slug": "candy-coated-bitez-gummies-500mg-baggiez-delta-9-strawberry-lemonade",
+  "name": "Candy Coated BITEZ Gummies 500mg Baggiez | Delta-9 | Strawberry Lemonade",
+  "site": "ochoextracts-com",
+  "category": "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+  "price_min": 5.99,
+  "price_max": 5.99,
+  "currency": "GBP",
+  "price_range": "£5.99",
+  "available": true,
+  "sku": "OE-D9-BITEZ-SL",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "CANDY COATED D9",
+    "Delta-9",
+    "Gummies",
+    "Ocho Extracts"
+  ],
+  "description": "Strawberry Lemonade tastes like the lemonade stand discovered the candy aisle. Juicy strawberry brings a ripe, almost syrupy sweetness before a squeeze of bright lemon cuts in with just enough pucker. The whole thing gets wrapped in tiny, colorful crunchy candies, creating a crackly first bite before giving way to two soft, chewy gummy layers packing 50mg of hemp-derived Delta-9 THC in each gummy underneath.",
+  "description_html": "<p><strong>Strawberry Lemonade tastes like the lemonade stand discovered the candy aisle.</strong> Juicy strawberry brings a ripe, almost syrupy sweetness before a squeeze of bright lemon cuts in with just enough pucker. The whole thing gets wrapped in <strong>tiny, colorful crunchy candies</strong>, creating a crackly first bite before giving way to <strong>two soft, chewy gummy layers packing 50mg of hemp-derived Delta-9 THC in each gummy</strong> underneath.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-GUMMY-SL.png?v=1789076975",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-strawberry-lemonade__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-BAGGY-SL.png?v=1789063414",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-strawberry-lemonade__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46612998193338,
+      "title": "Default Title",
+      "price": 5.99,
+      "sku": "OE-D9-BITEZ-SL",
+      "available": true
+    }
+  ],
+  "collections": [
+    "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+    "double-stacked-bitez-gummies",
+    "gourmet-gummies",
+    "ocho-extracts"
+  ],
+  "source_url": "https://ochoextracts.com/products/candy-coated-bitez-gummies-500mg-baggiez-delta-9-strawberry-lemonade",
+  "scraped_at": "2026-10-10T21:42:36.207Z"
+}

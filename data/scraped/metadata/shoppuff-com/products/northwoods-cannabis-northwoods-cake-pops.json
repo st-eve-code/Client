@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-cannabis-northwoods-cake-pops",
+  "name": "Northwoods | Cake Pops",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "This strain inherits the sweet, cake-like scent from Cakelatto, with notes of vanilla, cream, and a hint of citrus while the Biscotti influence adds earthy and nutty undertones. Cake Pops delivers a mouthwatering flavor profile that mirrors its aromatic complexity. The initial inhale reveals a sweet and creamy essence, reminiscent of a decadent dessert. The flavor evolves as earthy and nutty undertones emerge, providing a well-balanced and satisfying experience for the palate.",
+  "description_html": "This strain inherits the sweet, cake-like scent from Cakelatto, with notes of vanilla, cream, and a hint of citrus while the Biscotti influence adds earthy and nutty undertones. Cake Pops delivers a mouthwatering flavor profile that mirrors its aromatic complexity. The initial inhale reveals a sweet and creamy essence, reminiscent of a decadent dessert. The flavor evolves as earthy and nutty undertones emerge, providing a well-balanced and satisfying experience for the palate.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a64fa97a44fd4790c3a8cee2435652d4",
+      "alt": "Northwoods | Cake Pops",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-cannabis-northwoods-cake-pops__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-cannabis-northwoods-cake-pops-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.154Z"
+}

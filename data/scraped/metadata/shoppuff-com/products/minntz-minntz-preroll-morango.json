@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-minntz-preroll-morango",
+  "name": "Minntz Preroll | Morango",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0f7601c25b340c35420a0fbf9fa8c3d2",
+      "alt": "Minntz Preroll | Morango",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-preroll-morango__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-preroll-morango-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.578Z"
+}

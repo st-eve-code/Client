@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-detroit-edible-200mg-crispy-treats-cinnamon-toast",
+  "name": "Detroit Edible | 200mg Crispy Treats | Cinnamon Toast",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Detroit Edibles has taken Cinnamon Toast Crunch cereal and transformed it into a delicious crispy and gooey marshmallow treat. If you’re a fan of cinnamon and sugar, this is the edible for you. Each crispy contains a potent 200mg of THC and will marsh-MELLOW you out with every bite. Fully activates in 1-2 hours.",
+  "description_html": "Detroit Edibles has taken Cinnamon Toast Crunch cereal and transformed it into a delicious crispy and gooey marshmallow treat. If you’re a fan of cinnamon and sugar, this is the edible for you. Each crispy contains a potent 200mg of THC and will marsh-MELLOW you out with every bite. Fully activates in 1-2 hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/674d0dab6d68851d3fb89ea5606f835d",
+      "alt": "Detroit Edible | 200mg Crispy Treats | Cinnamon Toast",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-detroit-edible-200mg-crispy-treats-cinnamon-toast__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.08g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-detroit-edible-200mg-crispy-treats-cinnamon-toast-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.784Z"
+}

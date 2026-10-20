@@ -1,0 +1,60 @@
+{
+  "slug": "doghouse-farms-dog-house-purple-panties",
+  "name": "Dog House | Purple Panties",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 200,
+  "currency": "USD",
+  "price_range": "$10.00 – $200.00",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "Purple Panties is a cross of Purple Octane and Pink Lady. It has a sweet concord grape flavor with a hint of fuel, and the aroma mirrors this with fruity and gassy notes. The buds are dense, frosty, and visually striking.",
+  "description_html": "Purple Panties is a cross of Purple Octane and Pink Lady. It has a sweet concord grape flavor with a hint of fuel, and the aroma mirrors this with fruity and gassy notes. The buds are dense, frosty, and visually striking.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/35d5cddca2228fca3490628565957a2f",
+      "alt": "Dog House | Purple Panties",
+      "local": "data\\scraped\\images\\shoppuff-com__doghouse-farms-dog-house-purple-panties__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 200,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doghouse-farms-dog-house-purple-panties-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.770Z"
+}

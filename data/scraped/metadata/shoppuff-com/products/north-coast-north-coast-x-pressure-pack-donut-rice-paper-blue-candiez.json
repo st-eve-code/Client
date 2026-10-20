@@ -1,0 +1,35 @@
+{
+  "slug": "north-coast-north-coast-x-pressure-pack-donut-rice-paper-blue-candiez",
+  "name": "North Coast X Pressure Pack Donut Rice Paper | Blue Candiez",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 39,
+  "price_max": 39,
+  "currency": "USD",
+  "price_range": "$39.00",
+  "available": true,
+  "vendor": "North Coast",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "North Coast X Pressure Pack Donut Rice Paper | Blue Candiez",
+      "local": "data\\scraped\\images\\shoppuff-com__north-coast-north-coast-x-pressure-pack-donut-rice-paper-blue-candiez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 39,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/north-coast-north-coast-x-pressure-pack-donut-rice-paper-blue-candiez-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.890Z"
+}

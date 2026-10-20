@@ -1,0 +1,45 @@
+{
+  "slug": "weed-snobs-zoap-marker",
+  "name": "Weed Snobs | Zoap Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5.6,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$5.60 – $14.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6f647eae949bbd0203294522773e3ddf",
+      "alt": "Weed Snobs | Zoap Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-zoap-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5.6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 11.2,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-zoap-marker-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.492Z"
+}

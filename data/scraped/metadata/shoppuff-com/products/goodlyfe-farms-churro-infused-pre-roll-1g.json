@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-churro-infused-pre-roll-1g",
+  "name": "Churro Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Churro is a balanced hybrid strain that embodies the dessert of the same name. Its aroma and flavor are that of delicious, deep fried dough with hints of vanilla and cinnamon.",
+  "description_html": "Churro is a balanced hybrid strain that embodies the dessert of the same name. Its aroma and flavor are that of delicious, deep fried dough with hints of vanilla and cinnamon.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/82ed35d666d4cc420f14645e6e056846",
+      "alt": "Churro Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-churro-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-churro-infused-pre-roll-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.576Z"
+}

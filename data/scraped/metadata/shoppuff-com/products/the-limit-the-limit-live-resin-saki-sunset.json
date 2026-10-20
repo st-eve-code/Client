@@ -1,0 +1,35 @@
+{
+  "slug": "the-limit-the-limit-live-resin-saki-sunset",
+  "name": "The Limit Live Resin | Saki Sunset",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "The Limit",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d4d7b219183f96a294a81b3f5e5ea807",
+      "alt": "The Limit Live Resin | Saki Sunset",
+      "local": "data\\scraped\\images\\shoppuff-com__the-limit-the-limit-live-resin-saki-sunset__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-limit-the-limit-live-resin-saki-sunset-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.185Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "eastside-alchemy-live-rosin-pomelo-punch-5",
+  "name": "Eastside Alchemy Live Rosin | Pomelo Punch #5",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Eastside Alchemy",
+  "tags": [],
+  "description": "Pomelo Punch #5 - 1g Live Hash Rosin - Single Source - Bloom Seed Co.\n\nGenetics: Orange Mints x Papaya\n\nAs always - Fire in, Fire out.",
+  "description_html": "Pomelo Punch #5 - 1g Live Hash Rosin - Single Source - Bloom Seed Co.<br /><br />Genetics: Orange Mints x Papaya<br /><br />As always - Fire in, Fire out.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9b0f2f1bf0a3f0aa2f1b511f57ba7a74",
+      "alt": "Eastside Alchemy Live Rosin | Pomelo Punch #5",
+      "local": "data\\scraped\\images\\shoppuff-com__eastside-alchemy-live-rosin-pomelo-punch-5__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/eastside-alchemy-live-rosin-pomelo-punch-5-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.857Z"
+}

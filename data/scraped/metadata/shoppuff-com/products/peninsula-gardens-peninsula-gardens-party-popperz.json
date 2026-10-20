@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-party-popperz",
+  "name": "Peninsula Gardens | Party Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 24,
+  "price_max": 24,
+  "currency": "USD",
+  "price_range": "$24.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Another straight candy. Smokes very similar to our runtz with some subtle differences we think you'll absolutely love.",
+  "description_html": "Another straight candy. Smokes very similar to our runtz with some subtle differences we think you'll absolutely love.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a4ab0eab90468d3672458884bd0b0273",
+      "alt": "Peninsula Gardens | Party Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-party-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-party-popperz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.455Z"
+}

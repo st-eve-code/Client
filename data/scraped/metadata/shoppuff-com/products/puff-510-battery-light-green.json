@@ -1,0 +1,35 @@
+{
+  "slug": "puff-510-battery-light-green",
+  "name": "Puff | 510 Battery | Light Green",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "3.3V - 4.8V Adjustable Voltage\nPreheat Function\nTYPE-C Charging Cable Included\n\nA 510 thread battery is the standard, universal power source for most vape pens, named for its 10-thread, 0.5mm connector that screws onto various cartridges (vape carts), heating the oil inside to create vapor for inhalation, offering features like auto-draw or button activation and variable voltage settings.",
+  "description_html": "3.3V - 4.8V Adjustable Voltage<br />Preheat Function<br />TYPE-C Charging Cable Included<br /><br />A 510 thread battery is the standard, universal power source for most vape pens, named for its 10-thread, 0.5mm connector that screws onto various cartridges (vape carts), heating the oil inside to create vapor for inhalation, offering features like auto-draw or button activation and variable voltage settings.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/60a2ed2e8acfd11f757044932047e78a",
+      "alt": "Puff | 510 Battery | Light Green",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-510-battery-light-green__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-510-battery-light-green-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.219Z"
+}

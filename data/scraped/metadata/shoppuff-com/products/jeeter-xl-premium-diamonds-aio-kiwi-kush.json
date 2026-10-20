@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-xl-premium-diamonds-aio-kiwi-kush",
+  "name": "Jeeter | Kiwi Kush | 2G Liquid Diamond XL All-In-One Vape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Kiwi Kush is an indica with a flavor that lives up to its name. The inhale bursts with ripe kiwi and tropical sweetness, while the exhale adds a tangy mix of spice and earth. Refreshing and flavorful, Kiwi Kush brings a crisp fruit twist to classic kush.",
+  "description_html": "Kiwi Kush is an indica with a flavor that lives up to its name. The inhale bursts with ripe kiwi and tropical sweetness, while the exhale adds a tangy mix of spice and earth. Refreshing and flavorful, Kiwi Kush brings a crisp fruit twist to classic kush.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8af10aabace5354f6313e1ced7d3e292",
+      "alt": "Jeeter | Kiwi Kush | 2G Liquid Diamond XL All-In-One Vape",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-xl-premium-diamonds-aio-kiwi-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-xl-premium-diamonds-aio-kiwi-kush-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.743Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "mitten-canna-co-mitten-canna-co-barney",
+  "name": "Mitten Canna Co | Barney",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7.5,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$7.50 – $22.50",
+  "available": true,
+  "vendor": "Mitten Canna Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8d084853d94283bd90ad36f11979715a",
+      "alt": "Mitten Canna Co | Barney",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-canna-co-mitten-canna-co-barney__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 22.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-canna-co-mitten-canna-co-barney-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.721Z"
+}

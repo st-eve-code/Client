@@ -1,0 +1,35 @@
+{
+  "slug": "midzotics-midzotics-dark-web",
+  "name": "Midzotics | Dark Web",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Midzotics",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cb593417085099b6179d1068c9462018",
+      "alt": "Midzotics | Dark Web",
+      "local": "data\\scraped\\images\\shoppuff-com__midzotics-midzotics-dark-web__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midzotics-midzotics-dark-web-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.429Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "dog-house-mega",
+  "name": "Dog House | Mega",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 95,
+  "currency": "USD",
+  "price_range": "$10.00 – $95.00",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "RS 11 x Sherb Cream Pie | Sweet, Fruit\n\nMega is a powerhouse cross of RS 11 and Sherb Cream Pie, bred by BeanFiendsz to deliver a flavor profile that lives up to its name. Bursting with creamy sherbet notes and hints of ripe berries, its aroma fills the room with a blend of sugary citrus and soft vanilla. The buds are dense and vibrant, showcasing deep purples swirled with bright orange hairs, all wrapped in a frosty layer of trichomes.",
+  "description_html": "RS 11 x Sherb Cream Pie | Sweet, Fruit<br /><br />Mega is a powerhouse cross of RS 11 and Sherb Cream Pie, bred by BeanFiendsz to deliver a flavor profile that lives up to its name. Bursting with creamy sherbet notes and hints of ripe berries, its aroma fills the room with a blend of sugary citrus and soft vanilla. The buds are dense and vibrant, showcasing deep purples swirled with bright orange hairs, all wrapped in a frosty layer of trichomes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1e70f1ea462092d8385d8aeab78c204f",
+      "alt": "Dog House | Mega",
+      "local": "data\\scraped\\images\\shoppuff-com__dog-house-mega__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 95,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dog-house-mega-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.310Z"
+}

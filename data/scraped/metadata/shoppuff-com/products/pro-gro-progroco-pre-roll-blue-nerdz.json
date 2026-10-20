@@ -1,0 +1,35 @@
+{
+  "slug": "pro-gro-progroco-pre-roll-blue-nerdz",
+  "name": "Blue Nerdz 1g Pre-Roll",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Blue sherb (Blue cookies x sunset sherb) x Nerdz\n\nType: Hybrid\n\nTerpenes: β-Myrcene, Limonene, Linalool\n\nEffects: Focused,Relaxed\n\nAroma: Apple, Blueberry, Apricot",
+  "description_html": "Lineage: Blue sherb (Blue cookies x sunset sherb) x Nerdz<br /><br />Type: Hybrid<br /><br />Terpenes: β-Myrcene, Limonene, Linalool<br /><br />Effects: Focused,Relaxed<br /><br />Aroma: Apple, Blueberry, Apricot<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/626a5053a8da859db7817061a6901f12",
+      "alt": "Blue Nerdz 1g Pre-Roll",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-pre-roll-blue-nerdz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-pre-roll-blue-nerdz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.790Z"
+}

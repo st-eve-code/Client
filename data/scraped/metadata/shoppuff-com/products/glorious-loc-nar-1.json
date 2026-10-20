@@ -1,0 +1,60 @@
+{
+  "slug": "glorious-loc-nar-1",
+  "name": "Intrinsic | Georgia Pine",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.2,
+  "price_max": 69.3,
+  "currency": "USD",
+  "price_range": "$4.20 – $69.30",
+  "available": true,
+  "vendor": "Intrinsic",
+  "tags": [],
+  "description": "You'll feel the heady effects almost immediately, lifting your mind into a state of happy euphoria that's accompanied by a boost of creativity. As you find your mind wandering through artistic ideas and visions, a deeply relaxing tingle will begin to work its way throughout your entire body. This buzzing effect can turn stimulating and arousing at times, too.",
+  "description_html": "You'll feel the heady effects almost immediately, lifting your mind into a state of happy euphoria that's accompanied by a boost of creativity. As you find your mind wandering through artistic ideas and visions, a deeply relaxing tingle will begin to work its way throughout your entire body. This buzzing effect can turn stimulating and arousing at times, too.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/10fd1a39d08bbb8d0d520e91df66ce9f",
+      "alt": "Intrinsic | Georgia Pine",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-loc-nar-1__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 10.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4.2,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 69.3,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 21,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 38.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-loc-nar-1-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.640Z"
+}

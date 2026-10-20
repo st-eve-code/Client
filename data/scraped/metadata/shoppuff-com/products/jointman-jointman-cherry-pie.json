@@ -1,0 +1,60 @@
+{
+  "slug": "jointman-jointman-cherry-pie",
+  "name": "Jointman | Cherry Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 149,
+  "currency": "USD",
+  "price_range": "$9.00 – $149.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/edda6becbed3ce5bdffe6475e35ec045",
+      "alt": "Jointman | Cherry Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-jointman-cherry-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 149,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-jointman-cherry-pie-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.456Z"
+}

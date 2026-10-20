@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-zebra-ztripez",
+  "name": "Seed Junky Prepackaged Flower | Zebra Ztripez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Zebra Ztripez offers a complex high and a flavor profile that's anything but black and white. This powerful hybrid delights dank lovers with its rainbow of expressions. Zebra Ztripez is Zkittlez and Animal Cookies bx1, which was backcrossed with Lemon Cherry Gelato. This strain stacks candy on candy for a rich, flavorful smoke bursting with sweet aromas.",
+  "description_html": "Zebra Ztripez offers a complex high and a flavor profile that's anything but black and white. This powerful hybrid delights dank lovers with its rainbow of expressions. Zebra Ztripez is Zkittlez and Animal Cookies bx1, which was backcrossed with Lemon Cherry Gelato. This strain stacks candy on candy for a rich, flavorful smoke bursting with sweet aromas.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8ef29794c0cb96a14196b7d509ec6cb6",
+      "alt": "Seed Junky Prepackaged Flower | Zebra Ztripez",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-zebra-ztripez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-zebra-ztripez-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.245Z"
+}

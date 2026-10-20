@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-pre-roll-pbj-gelato",
+  "name": "Top Smoke Pre-Roll | PBJ Gelato",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0b843c5a612b558ba0d4ab18d5726e1c",
+      "alt": "Top Smoke Pre-Roll | PBJ Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-pre-roll-pbj-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-pre-roll-pbj-gelato-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.431Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "bamn-bamn-1g-x-5-pre-roll-pack-zkittlez",
+  "name": "BAMN | 1g x 5 Pre-Roll Pack | Zkittlez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "BAMN",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bd56bf46281c14fbe7447314f4eba06a",
+      "alt": "BAMN | 1g x 5 Pre-Roll Pack | Zkittlez",
+      "local": "data\\scraped\\images\\shoppuff-com__bamn-bamn-1g-x-5-pre-roll-pack-zkittlez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bamn-bamn-1g-x-5-pre-roll-pack-zkittlez-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.718Z"
+}

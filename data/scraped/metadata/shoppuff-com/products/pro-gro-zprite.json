@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-zprite",
+  "name": "ProGroCo | Zprite",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 199,
+  "currency": "USD",
+  "price_range": "$12.00 – $199.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Blue dream cookie chemchee x Jelly Roll\n\nType: Hybrid \n\nTerpenes: limonene, myrcene, caryophyllene, & pinene \n\nEffects: Uplifting and energizing at first, with a creative, social buzz and mood-brightening euphoria. Smooth transition into a relaxed, easygoing body high without heavy sedation. Perfect for daytime hangs, creative sessions, or sparking up a party.\n\nAroma: Bursting with sweet lemon-lime soda, candy zest, and a subtle herbal undertone. Opens up with bright citrus and finishes with a creamy, fizzy sweetness.",
+  "description_html": "Lineage: Blue dream cookie chemchee x Jelly Roll<br /><br />Type: Hybrid <br /><br />Terpenes: limonene, myrcene, caryophyllene, & pinene <br /><br />Effects: Uplifting and energizing at first, with a creative, social buzz and mood-brightening euphoria. Smooth transition into a relaxed, easygoing body high without heavy sedation. Perfect for daytime hangs, creative sessions, or sparking up a party.<br /><br />Aroma: Bursting with sweet lemon-lime soda, candy zest, and a subtle herbal undertone. Opens up with bright citrus and finishes with a creamy, fizzy sweetness.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/993ad51b01c356284ea5d10c270d5e05",
+      "alt": "ProGroCo | Zprite",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-zprite__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 199,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-zprite-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.916Z"
+}

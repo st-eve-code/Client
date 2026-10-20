@@ -1,0 +1,60 @@
+{
+  "slug": "jointman-jointman-moon-rocks-blue-gator-aid",
+  "name": "Jointman | Moon Rocks | Blue Gator-Aid",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 9,
+  "price_max": 198,
+  "currency": "USD",
+  "price_range": "$9.00 – $198.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5e0139c3ffea8fd2e798a9b70fd1266b",
+      "alt": "Jointman | Moon Rocks | Blue Gator-Aid",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-jointman-moon-rocks-blue-gator-aid__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 198,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-jointman-moon-rocks-blue-gator-aid-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.338Z"
+}

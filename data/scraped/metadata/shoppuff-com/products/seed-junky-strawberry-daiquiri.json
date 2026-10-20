@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-strawberry-daiquiri",
+  "name": "Seed Junky | Strawberry Daiquiri",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 200,
+  "currency": "USD",
+  "price_range": "$10.00 – $200.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Caffeine doesn't just wake you up, it electrifies your mind and flips the switch to hyper drive. Bright and fruity, it delivers a blast of sweet candy, like Fun Dip and Sweet Tarts, layered with tropical citrus, creamy lime, and a heavy gas finish that keeps the flavor loud all the way through. This strain doesn't creep. It hits fast and hits hard, launching you into a wired head high that feels electric, focused, and creatively charged Pertect for idea sprints, deep dives, or getting way too into your to-do list, Catteine keeps your mind moving and your senses lit.",
+  "description_html": "Caffeine doesn't just wake you up, it electrifies your mind and flips the switch to hyper drive. Bright and fruity, it delivers a blast of sweet candy, like Fun Dip and Sweet Tarts, layered with tropical citrus, creamy lime, and a heavy gas finish that keeps the flavor loud all the way through. This strain doesn't creep. It hits fast and hits hard, launching you into a wired head high that feels electric, focused, and creatively charged Pertect for idea sprints, deep dives, or getting way too into your to-do list, Catteine keeps your mind moving and your senses lit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d25b98e79c544f894f7baccf9fc583f4",
+      "alt": "Seed Junky | Strawberry Daiquiri",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-strawberry-daiquiri__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 200,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-strawberry-daiquiri-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.784Z"
+}

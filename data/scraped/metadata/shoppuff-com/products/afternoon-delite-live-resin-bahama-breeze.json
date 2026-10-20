@@ -1,0 +1,35 @@
+{
+  "slug": "afternoon-delite-live-resin-bahama-breeze",
+  "name": "Afternoon Delite Live Resin | Bahama Breeze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Afternoon Delite",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5965-New_Buff.png",
+      "alt": "Afternoon Delite Live Resin | Bahama Breeze",
+      "local": "data\\scraped\\images\\shoppuff-com__afternoon-delite-live-resin-bahama-breeze__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/afternoon-delite-live-resin-bahama-breeze-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.336Z"
+}

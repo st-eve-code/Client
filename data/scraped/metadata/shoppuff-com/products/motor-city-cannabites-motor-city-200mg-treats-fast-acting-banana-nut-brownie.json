@@ -1,0 +1,35 @@
+{
+  "slug": "motor-city-cannabites-motor-city-200mg-treats-fast-acting-banana-nut-brownie",
+  "name": "Motor City | 200mg Treats | Fast Acting Banana Nut Brownie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Motor City Cannabites",
+  "tags": [],
+  "description": "100mg- (2) 50mg Brownies",
+  "description_html": "100mg- (2) 50mg Brownies",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0d2e98af4a9a770546cb1f80ac9506c9",
+      "alt": "Motor City | 200mg Treats | Fast Acting Banana Nut Brownie",
+      "local": "data\\scraped\\images\\shoppuff-com__motor-city-cannabites-motor-city-200mg-treats-fast-acting-banana-nut-brownie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/motor-city-cannabites-motor-city-200mg-treats-fast-acting-banana-nut-brownie-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.681Z"
+}

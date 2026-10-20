@@ -1,0 +1,35 @@
+{
+  "slug": "zasso-zasso-hand-roll-power",
+  "name": "Zasso Hand Roll | Power",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Zasso",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/76a837bfb4d63afdf30d55880285f5e6",
+      "alt": "Zasso Hand Roll | Power",
+      "local": "data\\scraped\\images\\shoppuff-com__zasso-zasso-hand-roll-power__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zasso-zasso-hand-roll-power-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.673Z"
+}

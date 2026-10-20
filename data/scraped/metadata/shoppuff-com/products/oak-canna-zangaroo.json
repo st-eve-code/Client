@@ -1,0 +1,60 @@
+{
+  "slug": "oak-canna-zangaroo",
+  "name": "Oak Canna | Zangaroo",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Oak Canna",
+  "tags": [],
+  "description": "The Zangaroo strain is a potent hybrid , Zangaroo is known for being a sweet, fruity, and highly aromatic cultivar. It provides a balanced high that usually begins with an uplifting, euphoric head lift before settling into a smooth, relaxed state.",
+  "description_html": "The Zangaroo strain is a potent hybrid , Zangaroo is known for being a sweet, fruity, and highly aromatic cultivar. It provides a balanced high that usually begins with an uplifting, euphoric head lift before settling into a smooth, relaxed state.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e435b846d64dc553dc6d860481c4aa2b",
+      "alt": "Oak Canna | Zangaroo",
+      "local": "data\\scraped\\images\\shoppuff-com__oak-canna-zangaroo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/oak-canna-zangaroo-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.902Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-510-cart-pineapple-pop",
+  "name": "Berry Green 510 Cart | Pineapple Pop",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Tropical blaze with a pop of chaos. One pull — instant getaway.\n\nBorn to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "description_html": "Tropical blaze with a pop of chaos. One pull — instant getaway.<br /><br />Born to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a154cf9b1d1cfbc1ab253ac39f1dad2d",
+      "alt": "Berry Green 510 Cart | Pineapple Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-510-cart-pineapple-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-510-cart-pineapple-pop-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.284Z"
+}

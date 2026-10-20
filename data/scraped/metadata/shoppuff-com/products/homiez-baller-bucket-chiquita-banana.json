@@ -1,0 +1,35 @@
+{
+  "slug": "homiez-baller-bucket-chiquita-banana",
+  "name": "Homiez Baller Bucket | Chiquita Banana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "HOMIEZ",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/069a39b2cd024115e7676d44994c5a9c",
+      "alt": "Homiez Baller Bucket | Chiquita Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__homiez-baller-bucket-chiquita-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/homiez-baller-bucket-chiquita-banana-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.444Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cherry-pie-tarantula-1g",
+  "name": "Cherry Pie Tarantula | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Our essential tarantula joint. One gram of flower, infused with flavor and coated in kief.",
+  "description_html": "Our essential tarantula joint. One gram of flower, infused with flavor and coated in kief.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7aa2b12277ca8e34156928970b8f2f8e",
+      "alt": "Cherry Pie Tarantula | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cherry-pie-tarantula-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cherry-pie-tarantula-1g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.859Z"
+}

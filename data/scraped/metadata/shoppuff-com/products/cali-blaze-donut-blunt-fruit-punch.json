@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-donut-blunt-fruit-punch",
+  "name": "Fruit Punch Donut | 1.2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Everyone loves donuts. A 1.2 gram glass-tip donut blunt wrapped in hemp, packed with top-shelf indoor flower, infused with live resin and rolled in kief. Finished in a full glass of red fruit punch.",
+  "description_html": "Everyone loves donuts. A 1.2 gram glass-tip donut blunt wrapped in hemp, packed with top-shelf indoor flower, infused with live resin and rolled in kief. Finished in a full glass of red fruit punch.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/86f0f40907422f0c1f669773dfceb8a3",
+      "alt": "Fruit Punch Donut | 1.2g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-donut-blunt-fruit-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-donut-blunt-fruit-punch-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.703Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "hashish-boyz-hashish-boyz-infused-hippie-stix-pancakes",
+  "name": "Hashish Boyz Infused Hippie Stix | Pancakes",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Hashish Boyz",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/53ba0ad9005ea27b7c0c9950cb09b127",
+      "alt": "Hashish Boyz Infused Hippie Stix | Pancakes",
+      "local": "data\\scraped\\images\\shoppuff-com__hashish-boyz-hashish-boyz-infused-hippie-stix-pancakes__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hashish-boyz-hashish-boyz-infused-hippie-stix-pancakes-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.418Z"
+}

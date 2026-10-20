@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-super-dope-pre-roll-plum-popperz",
+  "name": "Super Dope Pre-Roll | Plum Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "A Runtz cut crossed with Skittlez, the flavor most closely resembles a milky, creamy, sweet candy profile. It is regarded as the heaviest of the Popperz family in terms of potency and pressure, and effects.\n\nThis strain features a sweet and fairly typical Gelato flavor, with grape/gas/cream/ stonefruit/black plum scents dominating. The flavor is a nice sweet gassy grape + cherry limeade with light rubbery chemical smoke behind.",
+  "description_html": "A Runtz cut crossed with Skittlez, the flavor most closely resembles a milky, creamy, sweet candy profile. It is regarded as the heaviest of the Popperz family in terms of potency and pressure, and effects.<br /><br />This strain features a sweet and fairly typical Gelato flavor, with grape/gas/cream/ stonefruit/black plum scents dominating. The flavor is a nice sweet gassy grape + cherry limeade with light rubbery chemical smoke behind.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6d5439f6fdee9c11de06c6b238c7c17a",
+      "alt": "Super Dope Pre-Roll | Plum Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-pre-roll-plum-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-pre-roll-plum-popperz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.637Z"
+}

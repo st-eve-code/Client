@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-xl-premium-diamonds-aio-juneberry",
+  "name": "Jeeter | Juneberry | 2G Liquid Diamond XL All-In-One Vape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Bright, berry forward, and lightly fizzy. Juneberry opens with syrupy dark berry and a crisp citrus pop, giving blueberry energy with a little sparkle. Sweet on the inhale, smooth on the exhale, and finished with a clean blend of berry and soft cherry.",
+  "description_html": "Bright, berry forward, and lightly fizzy. Juneberry opens with syrupy dark berry and a crisp citrus pop, giving blueberry energy with a little sparkle. Sweet on the inhale, smooth on the exhale, and finished with a clean blend of berry and soft cherry.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bfbb4c49d49330eb1b13ded2e0577121",
+      "alt": "Jeeter | Juneberry | 2G Liquid Diamond XL All-In-One Vape",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-xl-premium-diamonds-aio-juneberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-xl-premium-diamonds-aio-juneberry-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.684Z"
+}

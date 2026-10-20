@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-cherry-lemon-mango-classic-1g-plus-vape-device",
+  "name": "Cherry Lemon Mango - Classic 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15.5,
+  "price_max": 15.5,
+  "currency": "USD",
+  "price_range": "$15.50",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Savor the exotic fusion of juicy cherries, tangy lemons, and ripe mangoes for a tropical escape in every puff.",
+  "description_html": "Savor the exotic fusion of juicy cherries, tangy lemons, and ripe mangoes for a tropical escape in every puff.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c90798ee7eb6074604051c08f77bf418",
+      "alt": "Cherry Lemon Mango - Classic 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-cherry-lemon-mango-classic-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-cherry-lemon-mango-classic-1g-plus-vape-device-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.877Z"
+}

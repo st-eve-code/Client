@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-tarantula-preroll-baja-blaze",
+  "name": "Baja Blaze Tarantula | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "One and done. The signature 1g Tarantula: premium indoor flower infused with liquid diamonds and crusted in kief, finished in bright citrus with a salted lime edge. One gram, one glass-tipped joint, nothing left to build.",
+  "description_html": "One and done. The signature 1g Tarantula: premium indoor flower infused with liquid diamonds and crusted in kief, finished in bright citrus with a salted lime edge. One gram, one glass-tipped joint, nothing left to build.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/00fdc1115f901330cda69e1c3e0029be",
+      "alt": "Baja Blaze Tarantula | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-tarantula-preroll-baja-blaze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-tarantula-preroll-baja-blaze-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.217Z"
+}

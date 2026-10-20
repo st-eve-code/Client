@@ -1,0 +1,40 @@
+{
+  "slug": "fresh-canna-fresh-canna-200mg-gummies-grape-ape",
+  "name": "Fresh Canna | 200mg Gummies | Grape Ape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Indica\n\n40mg per piece\n\n5 Gummies per bag\n\nFresh Canna THC Infused 200mg Gummies Grape Ape\n\nGummies will have you calm, happy, and relaxed!",
+  "description_html": "Indica<br /><br />40mg per piece<br /><br />5 Gummies per bag<br /><br />Fresh Canna THC Infused 200mg Gummies Grape Ape<br /><br />Gummies will have you calm, happy, and relaxed!<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c2c5d90004127863e43ac8ef22640d92",
+      "alt": "Fresh Canna | 200mg Gummies | Grape Ape",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-200mg-gummies-grape-ape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.1875g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "2.19g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-200mg-gummies-grape-ape-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.867Z"
+}

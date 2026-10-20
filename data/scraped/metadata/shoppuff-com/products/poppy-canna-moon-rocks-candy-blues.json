@@ -1,0 +1,50 @@
+{
+  "slug": "poppy-canna-moon-rocks-candy-blues",
+  "name": "Poppy Canna | Moon Rocks | Candy Blues",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$5.00 – $30.00",
+  "available": true,
+  "vendor": "Poppy Canna",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bb7dfc876ee5f73f58e8ad5a93e64bde",
+      "alt": "Poppy Canna | Moon Rocks | Candy Blues",
+      "local": "data\\scraped\\images\\shoppuff-com__poppy-canna-moon-rocks-candy-blues__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/poppy-canna-moon-rocks-candy-blues-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.362Z"
+}

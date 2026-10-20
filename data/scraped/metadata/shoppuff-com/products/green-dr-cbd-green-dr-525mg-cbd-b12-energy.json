@@ -1,0 +1,35 @@
+{
+  "slug": "green-dr-cbd-green-dr-525mg-cbd-b12-energy",
+  "name": "Green DR | 525mg CBD + B12 | Energy",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Green Dr. CBD",
+  "tags": [],
+  "description": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "description_html": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5721-0.jpg",
+      "alt": "Green DR | 525mg CBD + B12 | Energy",
+      "local": "data\\scraped\\images\\shoppuff-com__green-dr-cbd-green-dr-525mg-cbd-b12-energy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/green-dr-cbd-green-dr-525mg-cbd-b12-energy-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.273Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "doghouse-farms-dog-house-pink-passion",
+  "name": "Dog House | Pink Passion",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 112.5,
+  "currency": "USD",
+  "price_range": "$6.00 – $112.50",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "Apples and Bananas x Grape Gas | Sativa | Fruity\nTerpenes: Myrcene, Pinene, Ocimene\n\nPink Passion blends tangy passion fruit flavors with sweet citrus and floral notes, underpinned by lemony freshness and a hint of earthy kush. Its aroma is a captivating mix of sweet citrus and sour earth, creating a rich sensory experience. This hybrid strain offers a balanced, creative, and joyful high.",
+  "description_html": "Apples and Bananas x Grape Gas | Sativa | Fruity<br />Terpenes: Myrcene, Pinene, Ocimene<br /><br />Pink Passion blends tangy passion fruit flavors with sweet citrus and floral notes, underpinned by lemony freshness and a hint of earthy kush. Its aroma is a captivating mix of sweet citrus and sour earth, creating a rich sensory experience. This hybrid strain offers a balanced, creative, and joyful high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/13fbb8d708b24f67127a52c2ee97925f",
+      "alt": "Dog House | Pink Passion",
+      "local": "data\\scraped\\images\\shoppuff-com__doghouse-farms-dog-house-pink-passion__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 32.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 62.5,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 112.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doghouse-farms-dog-house-pink-passion-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.350Z"
+}

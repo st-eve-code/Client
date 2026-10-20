@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-cannabis-mini-eclair-preroll-roc-n-rye",
+  "name": "Hyman Cannabis Mini Eclair Preroll | Roc n' Rye",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Twice infused. Twice enjoyed. Each Éclair blends premium flower (0.6g) with cold-cured, single-source rosin (0.1g), then finishes strong with a glass tip and H2O brushing for a smooth, even burn. Built to taste better and burn smarter.\n\nStrain Type: Hybrid\n\nFlavors: Sweet, Citrus, Grapefruit\n\nAromas: Pungent, Diesel, Strawberry\n\nExperience: Sociable, Happy, Creative",
+  "description_html": "Twice infused. Twice enjoyed. Each Éclair blends premium flower (0.6g) with cold-cured, single-source rosin (0.1g), then finishes strong with a glass tip and H2O brushing for a smooth, even burn. Built to taste better and burn smarter.<br /><br />Strain Type: Hybrid<br /><br />Flavors: Sweet, Citrus, Grapefruit<br /><br />Aromas: Pungent, Diesel, Strawberry<br /><br />Experience: Sociable, Happy, Creative",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0516ab1d38137f4ffd19ffbb6264a9d1",
+      "alt": "Hyman Cannabis Mini Eclair Preroll | Roc n' Rye",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-cannabis-mini-eclair-preroll-roc-n-rye__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".7g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-cannabis-mini-eclair-preroll-roc-n-rye-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.760Z"
+}

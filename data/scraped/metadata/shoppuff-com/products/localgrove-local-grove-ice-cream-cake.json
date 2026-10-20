@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-ice-cream-cake",
+  "name": "Local Grove | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Gelato #33 x Wedding Cake\n\nBreeder: Seed Junky Genetics\n\nSelected by: Local Grove (seed hunt, in-house pheno)\n\nAroma & Flavor: Vanilla cream layered with strong gas\n\nEffects: Indica-dominant – relaxing body high with sweet, gassy undertones",
+  "description_html": "Genetics: Gelato #33 x Wedding Cake<br /><br />Breeder: Seed Junky Genetics<br /><br />Selected by: Local Grove (seed hunt, in-house pheno)<br /><br />Aroma & Flavor: Vanilla cream layered with strong gas<br /><br />Effects: Indica-dominant – relaxing body high with sweet, gassy undertones",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ffa1613e730372cdd6690bf02b667301",
+      "alt": "Local Grove | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-ice-cream-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-ice-cream-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.817Z"
+}

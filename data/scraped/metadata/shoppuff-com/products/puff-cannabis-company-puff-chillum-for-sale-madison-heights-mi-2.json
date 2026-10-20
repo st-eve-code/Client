@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-chillum-for-sale-madison-heights-mi-2",
+  "name": "Puff | Chillum",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Enjoy the simple smoking experience with BIO Stix chillums. Made with borosilicate glass, these high-quality chillums give smooth hits every time.",
+  "description_html": "Enjoy the simple smoking experience with BIO Stix chillums. Made with borosilicate glass, these high-quality chillums give smooth hits every time.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/57ca35391b3d7fea118370dd0dadf63b",
+      "alt": "Puff | Chillum",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-chillum-for-sale-madison-heights-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-chillum-for-sale-madison-heights-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.893Z"
+}

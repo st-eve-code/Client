@@ -1,0 +1,52 @@
+{
+  "slug": "bitez-thca-delta-9-thcp-2000mg-gummies-cherry-mango",
+  "name": "BITEZ - Delta-8 + Delta-9 + THCP 2000MG Gummies - Cherry Mango",
+  "site": "ochoextracts-com",
+  "category": "double-stacked-2000mg-bitez-baggiez",
+  "price_min": 5.99,
+  "price_max": 5.99,
+  "currency": "GBP",
+  "price_range": "£5.99",
+  "available": true,
+  "sku": "OE-BITEZ-CM",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "BITEZ Baggiez",
+    "Gummies",
+    "Hemp THC Gummies",
+    "Ocho Extracts"
+  ],
+  "description": "Discover the exotic fusion of Cherry Mango in our Double-Stacked BITEZ gummies! These delightful treats blend the tart richness of cherries with the tropical sweetness of mango, creating a tantalizing flavor experience. Each gummy is powerfully infused with a precise blend of Detla-8, Delta-9, and THCP, delivering a potent 1,000mg dose per piece. Enclosed in each package are two of these vibrant, flavor-packed gummies, crafted to perfection to ensure a delicious and exhilarating adventure with every bite.\n\nCherry Mango layers juicy Cherry with tropical Mango flavor, packing 2,000mg per bag and 1,000mg per gummy. Each gummy features a potent blend of THCP, Delta-9, and Delta-8 for a stacked BITEZ experience.",
+  "description_html": "<p class=\"p1\">Discover the exotic fusion of Cherry Mango in our Double-Stacked BITEZ gummies! These delightful treats blend the tart richness of cherries with the tropical sweetness of mango, creating a tantalizing flavor experience. Each gummy is powerfully infused with a precise blend of <strong>Detla-8</strong>, <strong>Delta-9</strong>, and <strong>THCP</strong>, delivering a potent <strong>1,000mg dose per piece</strong>. Enclosed in each package are two of these vibrant, flavor-packed gummies, crafted to perfection to ensure a delicious and exhilarating adventure with every bite.</p>\n<p>Cherry Mango layers juicy <strong>Cherry</strong> with tropical <strong>Mango</strong> flavor, packing <strong>2,000mg per bag and 1,000mg per gummy</strong>. Each gummy features a potent blend of <strong>THCP, Delta-9, and Delta-8</strong> for a stacked BITEZ experience.</p>\n<!---->",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Bitez-Transparent_Baggy-CM.png?v=1757517796",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__bitez-thca-delta-9-thcp-2000mg-gummies-cherry-mango__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Bitez_Gummy-Cherry_Mango-Splash.png?v=1757517800",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__bitez-thca-delta-9-thcp-2000mg-gummies-cherry-mango__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 44309862908090,
+      "title": "Default Title",
+      "price": 5.99,
+      "sku": "OE-BITEZ-CM",
+      "available": true
+    }
+  ],
+  "collections": [
+    "double-stacked-2000mg-bitez-baggiez",
+    "double-stacked-bitez-gummies",
+    "gourmet-gummies",
+    "ocho-extracts"
+  ],
+  "source_url": "https://ochoextracts.com/products/bitez-thca-delta-9-thcp-2000mg-gummies-cherry-mango",
+  "scraped_at": "2026-10-10T21:42:37.762Z"
+}

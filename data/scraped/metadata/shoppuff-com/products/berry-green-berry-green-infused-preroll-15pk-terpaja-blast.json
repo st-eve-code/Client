@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-infused-preroll-15pk-terpaja-blast",
+  "name": "Berry Green Infused Preroll 15pk | Terpaja Blast",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Flavor turned all the way up. Terpaja Blast layers tropical fruit, citrus zest, and sweet herbal depth into a bold, terpene-rich hybrid.",
+  "description_html": "Flavor turned all the way up. Terpaja Blast layers tropical fruit, citrus zest, and sweet herbal depth into a bold, terpene-rich hybrid.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/156945bb4053dc86f49494701ac15f4f",
+      "alt": "Berry Green Infused Preroll 15pk | Terpaja Blast",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-infused-preroll-15pk-terpaja-blast__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-infused-preroll-15pk-terpaja-blast-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.267Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "suno-200mg-tablets-thc",
+  "name": "SUNO | 200mg Tablets | THC",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "SUNO",
+  "tags": [],
+  "description": "Established out of a desire to improve patient well-being, SUNO products provide a robust custom cannabis platform. Each tablet contains 10mg total cannabinoids and natural terpenes. SUNO products are also free of sugar, gluten, and nuts.\n10mg THC Tablets are psychoactive and promote relaxation, comfort, and euphoria.\n\nTHC Tablets - 10mg per tablet. 20 tablets/bottle\n\nCustom ratios. Custom doses. Custom cannabis.",
+  "description_html": "Established out of a desire to improve patient well-being, SUNO products provide a robust custom cannabis platform. Each tablet contains 10mg total cannabinoids and natural terpenes. SUNO products are also free of sugar, gluten, and nuts.<br />10mg THC Tablets are psychoactive and promote relaxation, comfort, and euphoria.<br /><br />THC Tablets - 10mg per tablet. 20 tablets/bottle<br /><br />Custom ratios. Custom doses. Custom cannabis.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/41f3d75ee44d74aa894bc1428d9ddefa",
+      "alt": "SUNO | 200mg Tablets | THC",
+      "local": "data\\scraped\\images\\shoppuff-com__suno-200mg-tablets-thc__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ORAL"
+  ],
+  "source_url": "https://www.shoppuff.com/products/suno-200mg-tablets-thc-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.583Z"
+}

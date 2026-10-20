@@ -1,0 +1,50 @@
+{
+  "slug": "harvesthaus-sunset-sherbert",
+  "name": "Harvesthaus | Sunset Sherbert",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$20.00 – $125.00",
+  "available": true,
+  "vendor": "Harvesthaus",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f8c717d9844eef84c42f8197f496396d",
+      "alt": "Harvesthaus | Sunset Sherbert",
+      "local": "data\\scraped\\images\\shoppuff-com__harvesthaus-sunset-sherbert__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/harvesthaus-sunset-sherbert-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.921Z"
+}

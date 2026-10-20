@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-infused-pre-roll-ice-cream-cake",
+  "name": "Top Smoke Infused Pre-Roll | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 1.99,
+  "price_max": 1.99,
+  "currency": "USD",
+  "price_range": "$1.99",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a707e2afb74f3b58d8495816349090fd",
+      "alt": "Top Smoke Infused Pre-Roll | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-infused-pre-roll-ice-cream-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-infused-pre-roll-ice-cream-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.071Z"
+}

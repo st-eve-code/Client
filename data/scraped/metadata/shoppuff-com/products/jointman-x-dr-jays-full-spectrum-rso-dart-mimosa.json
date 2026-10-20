@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-x-dr-jays-full-spectrum-rso-dart-mimosa",
+  "name": "Jointman x Dr. Jay's Full Spectrum RSO Dart | Mimosa",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Jointman",
+  "tags": [],
+  "description": "RSO, or Rick Simpson Oil, is named after a Canadian cancer patient turned cannabis activist. RSO is sometimes referred to as a \"whole plant\" or \"full spectrum\" extract because it retains the full cannabinoid, terpene, and chlorophyll profile of the source material by using specific solvents.",
+  "description_html": "RSO, or Rick Simpson Oil, is named after a Canadian cancer patient turned cannabis activist. RSO is sometimes referred to as a \"whole plant\" or \"full spectrum\" extract because it retains the full cannabinoid, terpene, and chlorophyll profile of the source material by using specific solvents.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5616-Puff-JointStore-Monroe.webp",
+      "alt": "Jointman x Dr. Jay's Full Spectrum RSO Dart | Mimosa",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-x-dr-jays-full-spectrum-rso-dart-mimosa__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-x-dr-jays-full-spectrum-rso-dart-mimosa-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.942Z"
+}

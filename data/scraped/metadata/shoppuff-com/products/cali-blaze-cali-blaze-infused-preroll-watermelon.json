@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-infused-preroll-watermelon",
+  "name": "Cali Blaze Infused Preroll | Watermelon",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "1.2g Infused Pre-roll.",
+  "description_html": "1.2g Infused Pre-roll.                                                                            <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/617377bdc80ccfda3631dddd7e32949e",
+      "alt": "Cali Blaze Infused Preroll | Watermelon",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-infused-preroll-watermelon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-infused-preroll-watermelon-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.771Z"
+}

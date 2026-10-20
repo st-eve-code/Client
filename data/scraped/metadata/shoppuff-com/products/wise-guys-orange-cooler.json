@@ -1,0 +1,60 @@
+{
+  "slug": "wise-guys-orange-cooler",
+  "name": "Wise Guys | Orange Cooler",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 69,
+  "currency": "USD",
+  "price_range": "$4.00 – $69.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1e1d42327c73f4d0c8d4d0231565705c",
+      "alt": "Wise Guys | Orange Cooler",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-orange-cooler__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 69,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-orange-cooler-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.792Z"
+}

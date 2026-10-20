@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-breeze-canna-pro-disposable-spearmint",
+  "name": "Spearmint - Synergy 1g PRO Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Revitalize your senses with the crisp and cool sensation of spearmint, offering a refreshing minty escape ideal for a clean and invigorating experience.",
+  "description_html": "Revitalize your senses with the crisp and cool sensation of spearmint, offering a refreshing minty escape ideal for a clean and invigorating experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c685d004dfe5d5763668217ffc58a261",
+      "alt": "Spearmint - Synergy 1g PRO Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-breeze-canna-pro-disposable-spearmint__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-breeze-canna-pro-disposable-spearmint-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.928Z"
+}

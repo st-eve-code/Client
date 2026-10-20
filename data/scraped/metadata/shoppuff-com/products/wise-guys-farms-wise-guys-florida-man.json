@@ -1,0 +1,50 @@
+{
+  "slug": "wise-guys-farms-wise-guys-florida-man",
+  "name": "Wise Guys | Florida Man",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 75,
+  "currency": "USD",
+  "price_range": "$12.00 – $75.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0ed022fde626471ba86330cd8088415",
+      "alt": "Wise Guys | Florida Man",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-farms-wise-guys-florida-man__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-farms-wise-guys-florida-man-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.513Z"
+}

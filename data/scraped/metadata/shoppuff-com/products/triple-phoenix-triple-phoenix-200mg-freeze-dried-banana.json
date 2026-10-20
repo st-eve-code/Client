@@ -1,0 +1,35 @@
+{
+  "slug": "triple-phoenix-triple-phoenix-200mg-freeze-dried-banana",
+  "name": "Triple Phoenix | 200mg Freeze Dried | Banana",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Triple Phoenix",
+  "tags": [],
+  "description": "Banana chips captured at the peak of freshness and infused with 200mg of THC per package (10pc per pack). All natural, no added sugars, and GMO-free, this is a healthier alternative to our confections. Great option for sharing or micro dosing. Great for a quick snack, or try it on cereal, oatmeal and yogurt. Easy to take on the go!",
+  "description_html": "Banana chips captured at the peak of freshness and infused with 200mg of THC per package (10pc per pack). All natural, no added sugars, and GMO-free, this is a healthier alternative to our confections. Great option for sharing or micro dosing. Great for a quick snack, or try it on cereal, oatmeal and yogurt. Easy to take on the go!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/73da68918f9ecbd442f76247ad4c3950",
+      "alt": "Triple Phoenix | 200mg Freeze Dried | Banana",
+      "local": "data\\scraped\\images\\shoppuff-com__triple-phoenix-triple-phoenix-200mg-freeze-dried-banana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/triple-phoenix-triple-phoenix-200mg-freeze-dried-banana-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.347Z"
+}

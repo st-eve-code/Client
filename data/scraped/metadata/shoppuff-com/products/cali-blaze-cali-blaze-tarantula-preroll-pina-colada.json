@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-tarantula-preroll-pina-colada",
+  "name": "Cali Blaze Tarantula Preroll | Pina Colada",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Our essential tarantula joint. One gram of flower, infused with flavor and coated in kief. Heavy hitting, flavor-filled cannabis products to bring that Cali-vibe to your blazing sesh!\n\nPina Colada is reminiscent of a brief vacation in every puff, carrying you off to sunny shores where relaxation is always the order of the day.",
+  "description_html": "Our essential tarantula joint. One gram of flower, infused with flavor and coated in kief. Heavy hitting, flavor-filled cannabis products to bring that Cali-vibe to your blazing sesh!<br /><br />Pina Colada is reminiscent of a brief vacation in every puff, carrying you off to sunny shores where relaxation is always the order of the day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7792d863aab0f0bd99e8a03b7db9ebe2",
+      "alt": "Cali Blaze Tarantula Preroll | Pina Colada",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-tarantula-preroll-pina-colada__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-tarantula-preroll-pina-colada-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.418Z"
+}

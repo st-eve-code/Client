@@ -1,0 +1,40 @@
+{
+  "slug": "wise-guys-wise-guys-lemon-lime-smalls",
+  "name": "Wise Guys | Lemon Lime (Smalls)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$20.00 – $40.00",
+  "available": true,
+  "vendor": "Wise Guys",
+  "tags": [],
+  "description": "Cross/Lineage: Shrom x Purple Punch\n\nFlavor: Siera Mist terps with a loud nose\n\nType/Leaning: Hybrid (Sativa-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Shrom x Purple Punch<br /><br />Flavor: Siera Mist terps with a loud nose<br /><br />Type/Leaning: Hybrid (Sativa-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0ed022fde626471ba86330cd8088415",
+      "alt": "Wise Guys | Lemon Lime (Smalls)",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-wise-guys-lemon-lime-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-wise-guys-lemon-lime-smalls-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.727Z"
+}

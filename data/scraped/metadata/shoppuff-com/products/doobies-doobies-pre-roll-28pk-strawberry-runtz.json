@@ -1,0 +1,35 @@
+{
+  "slug": "doobies-doobies-pre-roll-28pk-strawberry-runtz",
+  "name": "Doobies Pre-Roll 28pk | Strawberry Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Doobies",
+  "tags": [],
+  "description": "28g Total\n1g x 28 Pre-Rolls",
+  "description_html": "28g Total<br />1g x 28 Pre-Rolls",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e2cc1f8e8f7d602f38359e63c1066bfd",
+      "alt": "Doobies Pre-Roll 28pk | Strawberry Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__doobies-doobies-pre-roll-28pk-strawberry-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doobies-doobies-pre-roll-28pk-strawberry-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.871Z"
+}

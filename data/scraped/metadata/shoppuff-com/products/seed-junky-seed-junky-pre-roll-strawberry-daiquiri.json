@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-strawberry-daiquiri",
+  "name": "Seed Junky Pre-Roll | Strawberry Daiquiri",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Strawberry Daiquiri is a high-impact hybrid that explodes with flavor from the very first inhale. Juicy strawberry takes the lead, accompanied by sweet citrus notes of lime, sugary caramel, and an intense burst of carbonation that cuts through the fruit for an irresistible finish. Don't let the name fool you, this hybrid packs a punch. Strawberry Daiquiri delivers a fast-paced, euphoric high that feels almost otherworldly.",
+  "description_html": "Strawberry Daiquiri is a high-impact hybrid that explodes with flavor from the very first inhale. Juicy strawberry takes the lead, accompanied by sweet citrus notes of lime, sugary caramel, and an intense burst of carbonation that cuts through the fruit for an irresistible finish. Don't let the name fool you, this hybrid packs a punch. Strawberry Daiquiri delivers a fast-paced, euphoric high that feels almost otherworldly.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1db090ca376eea2b00d11a16e4486448",
+      "alt": "Seed Junky Pre-Roll | Strawberry Daiquiri",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-strawberry-daiquiri__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-strawberry-daiquiri-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.717Z"
+}

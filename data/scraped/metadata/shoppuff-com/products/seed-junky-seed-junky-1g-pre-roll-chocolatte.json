@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-1g-pre-roll-chocolatte",
+  "name": "Seed Junky | 1g Pre-Roll | Chocolatte",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Seed Junky Chocolatte eighth is a rich and indulgent smoke that lives up to its dessert-inspired name. The aroma greets you with deep notes of cocoa, roasted coffee, and sweet earth, underscored by a hint of creamy vanilla. On the palate, it delivers a smooth blend of mocha and subtle spice, with a velvety texture that lingers on the exhale. The experience is equally balanced—beginning with an uplifting cerebral buzz that enhances mood and creativity, followed by a warm, soothing body relaxation that makes it ideal for day-to-evening enjoyment.",
+  "description_html": "Seed Junky Chocolatte eighth is a rich and indulgent smoke that lives up to its dessert-inspired name. The aroma greets you with deep notes of cocoa, roasted coffee, and sweet earth, underscored by a hint of creamy vanilla. On the palate, it delivers a smooth blend of mocha and subtle spice, with a velvety texture that lingers on the exhale. The experience is equally balanced—beginning with an uplifting cerebral buzz that enhances mood and creativity, followed by a warm, soothing body relaxation that makes it ideal for day-to-evening enjoyment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/31bbe85cd113184a2fe74e18eb38e2e3",
+      "alt": "Seed Junky | 1g Pre-Roll | Chocolatte",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-1g-pre-roll-chocolatte__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-1g-pre-roll-chocolatte-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.910Z"
+}

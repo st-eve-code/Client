@@ -1,0 +1,35 @@
+{
+  "slug": "stickee-live-resin-marmalade",
+  "name": "STICKEE | Marmalade | Sativa | Live Resin Concentrate | 1G",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Stickee",
+  "tags": [],
+  "description": "⭐️⭐️⭐️⭐️⭐️ \" . . . breakfast is cancelled. I bought this thinking it would pair nicely with toast. Spoiler: I never made it to the toaster.\" Marmalade is citrusy, bright, and sticky with sunshine flavor. It starts creative then ends horizontal and content. #1 in Michigan. House-Made by Detour Farms.",
+  "description_html": "⭐️⭐️⭐️⭐️⭐️ \" . . . breakfast is cancelled.  I bought this thinking it would pair nicely with toast. Spoiler: I never made it to the toaster.\" Marmalade is citrusy, bright, and sticky with sunshine flavor. It starts creative then ends horizontal and content. #1 in Michigan. House-Made by Detour Farms.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7dd6ae9d1e619fa51d95bc1cfcc5b444",
+      "alt": "STICKEE | Marmalade | Sativa | Live Resin Concentrate | 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__stickee-live-resin-marmalade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stickee-live-resin-marmalade-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.834Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-pina-colada-seasonal-1g-pro-vape-device",
+  "name": "Pina Colada - Seasonal 1g PRO Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Indulge in the creamy blend of coconut and pineapple, capturing the essence of a classic Pina Colada and offering a tropical getaway in every puff.",
+  "description_html": "Indulge in the creamy blend of coconut and pineapple, capturing the essence of a classic Pina Colada and offering a tropical getaway in every puff.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/57fe255d68ed8656f2bc6d585dc11f31",
+      "alt": "Pina Colada - Seasonal 1g PRO Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-pina-colada-seasonal-1g-pro-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-pina-colada-seasonal-1g-pro-vape-device-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.288Z"
+}

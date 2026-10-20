@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-quad-infused-preroll-apple-fritter",
+  "name": "Apple Fritter Jeeter Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6.5,
+  "price_max": 6.5,
+  "currency": "USD",
+  "price_range": "$6.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Apple Fritter is an evenly balanced hybrid strain created by crossing Sour Apple and Animal Cookies. Its mouthwatering, super sweet fruity apple flavor and lightly cakey vanilla exhale will leave you begging for more after your first hit. The aroma is similar, with an herbal effect as well. This strain's high starts almost immediately.",
+  "description_html": "Apple Fritter is an evenly balanced hybrid strain created by crossing Sour Apple and Animal Cookies. Its mouthwatering, super sweet fruity apple flavor and lightly cakey vanilla exhale will leave you begging for more after your first hit. The aroma is similar, with an herbal effect as well. This strain's high starts almost immediately.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ddc21942d90bed7bc47c477f9f069716",
+      "alt": "Apple Fritter Jeeter Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-quad-infused-preroll-apple-fritter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-quad-infused-preroll-apple-fritter-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.338Z"
+}

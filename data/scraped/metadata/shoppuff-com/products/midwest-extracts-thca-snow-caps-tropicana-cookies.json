@@ -1,0 +1,60 @@
+{
+  "slug": "midwest-extracts-thca-snow-caps-tropicana-cookies",
+  "name": "Midwest Extracts | THCA Snow Caps | Tropicana Cookies",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 9,
+  "price_max": 198,
+  "currency": "USD",
+  "price_range": "$9.00 – $198.00",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/35be8fd79fa82f21c8b8200b90b36894",
+      "alt": "Midwest Extracts | THCA Snow Caps | Tropicana Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-thca-snow-caps-tropicana-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 198,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-thca-snow-caps-tropicana-cookies-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.885Z"
+}

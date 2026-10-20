@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-detroit-edible-200mg-barracuda-bar-peanut-butter-milk-chocolate",
+  "name": "Detroit Edible | 200mg Barracuda Bar | Peanut Butter Milk Chocolate",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Barracuda Bars are crafted from the highest-quality ingredients. The chocolate is made of 65% Belgian chocolate combined with the purest distillate from our very own Michigan-made Cannalicious Labs for the smoothest consumption experience to date.",
+  "description_html": "Barracuda Bars are crafted from the highest-quality ingredients. The chocolate is made of 65% Belgian chocolate combined with the purest distillate from our very own Michigan-made Cannalicious Labs for the smoothest consumption experience to date.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4e263c5bf2eb5b386bec524e746ef9e8",
+      "alt": "Detroit Edible | 200mg Barracuda Bar | Peanut Butter Milk Chocolate",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-detroit-edible-200mg-barracuda-bar-peanut-butter-milk-chocolate__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-detroit-edible-200mg-barracuda-bar-peanut-butter-milk-chocolate-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.779Z"
+}

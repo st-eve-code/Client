@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-infused-preroll-blue-coconut",
+  "name": "Blue Coconut Liquid Diamond Pre-Roll | 1.2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Meet your sidekick. A 1.2 gram single joint of premium indoor flower, infused with liquid diamonds and terpenes and finished in blue raspberry meeting toasted coconut. Built to go the distance.",
+  "description_html": "Meet your sidekick. A 1.2 gram single joint of premium indoor flower, infused with liquid diamonds and terpenes and finished in blue raspberry meeting toasted coconut. Built to go the distance.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/60ad8e8d06a389939be70b443fc68a0b",
+      "alt": "Blue Coconut Liquid Diamond Pre-Roll | 1.2g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-infused-preroll-blue-coconut__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-infused-preroll-blue-coconut-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.763Z"
+}

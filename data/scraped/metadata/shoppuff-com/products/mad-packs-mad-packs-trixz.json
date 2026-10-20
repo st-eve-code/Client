@@ -1,0 +1,60 @@
+{
+  "slug": "mad-packs-mad-packs-trixz",
+  "name": "Mad Packs | Trixz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5.6,
+  "price_max": 105,
+  "currency": "USD",
+  "price_range": "$5.60 – $105.00",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "Sweet, fruity, and candy-inspired — Trixz is an indica known for its rich dessert-like flavor and smooth, satisfying smoke. Notes of mixed berries and creamy candy blend with subtle tropical sweetness for a bold, flavorful experience. Trixz delivers a euphoric, relaxing high that melts into soothing body effects, making it a great choice for unwinding, easing stress, and settling into a calm, laid-back evening.",
+  "description_html": "Sweet, fruity, and candy-inspired — Trixz is an indica known for its rich dessert-like flavor and smooth, satisfying smoke. Notes of mixed berries and creamy candy blend with subtle tropical sweetness for a bold, flavorful experience. Trixz delivers a euphoric, relaxing high that melts into soothing body effects, making it a great choice for unwinding, easing stress, and settling into a calm, laid-back evening.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fd1e5f77b5c5c945754761cbacd2bccd",
+      "alt": "Mad Packs | Trixz",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-mad-packs-trixz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5.6,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 31.5,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 59.5,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 105,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 11.2,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-mad-packs-trixz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.606Z"
+}

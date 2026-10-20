@@ -1,0 +1,55 @@
+{
+  "slug": "cresco-government-oasis",
+  "name": "Cresco | Government Oasis",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.8,
+  "price_max": 48,
+  "currency": "USD",
+  "price_range": "$4.80 – $48.00",
+  "available": true,
+  "vendor": "Cresco",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f42febbe1a783c4850b3987839271ec4",
+      "alt": "Cresco | Government Oasis",
+      "local": "data\\scraped\\images\\shoppuff-com__cresco-government-oasis__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4.8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 9.6,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 13.6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 48,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 27.2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cresco-government-oasis-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.605Z"
+}

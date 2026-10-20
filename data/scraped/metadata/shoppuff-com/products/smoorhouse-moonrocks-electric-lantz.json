@@ -1,0 +1,60 @@
+{
+  "slug": "smoorhouse-moonrocks-electric-lantz",
+  "name": "SmoorHouse | Moonrocks | Electric Lantz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 250,
+  "currency": "USD",
+  "price_range": "$12.00 – $250.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "SmoorHouse | Moonrocks | Electric Lantz",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-moonrocks-electric-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 250,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-moonrocks-electric-lantz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.908Z"
+}

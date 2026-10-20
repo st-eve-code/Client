@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-milk-chocolate-peanut-butter-barracuda-bar-200mg",
+  "name": "Milk Chocolate Peanut Butter Barracuda Bar | 200mg",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Barracuda Bars are crafted from the highest-quality ingredients. The chocolate is made of 65% Belgian chocolate combined with the purest distillate from our very own Michigan-made Cannalicious Labs for the smoothest consumption experience to date.",
+  "description_html": "Barracuda Bars are crafted from the highest-quality ingredients. The chocolate is made of 65% Belgian chocolate combined with the purest distillate from our very own Michigan-made Cannalicious Labs for the smoothest consumption experience to date.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4e263c5bf2eb5b386bec524e746ef9e8",
+      "alt": "Milk Chocolate Peanut Butter Barracuda Bar | 200mg",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-milk-chocolate-peanut-butter-barracuda-bar-200mg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-milk-chocolate-peanut-butter-barracuda-bar-200mg-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.724Z"
+}

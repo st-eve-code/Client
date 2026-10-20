@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-1g-infused-preroll-orange-creamsicle",
+  "name": "Berry Green | 1g Infused Preroll | Orange Creamsicle",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Citrus heat with a creamy fade. Bold, bright, and smooth as sin.\n\nEffect: Uplifting creativity with a calm, balanced body high.",
+  "description_html": "Citrus heat with a creamy fade. Bold, bright, and smooth as sin.<br /><br />Effect: Uplifting creativity with a calm, balanced body high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c5cf9ac7a0bbf787fe402649c5d30cb1",
+      "alt": "Berry Green | 1g Infused Preroll | Orange Creamsicle",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-1g-infused-preroll-orange-creamsicle__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-1g-infused-preroll-orange-creamsicle-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.233Z"
+}

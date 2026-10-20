@@ -1,0 +1,45 @@
+{
+  "slug": "grasshopper-farms-grasshopper-farms-super-buff-cherries",
+  "name": "Grasshopper Farms | Super Buff Cherries",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$6.00 – $17.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Ooey, gooey trichomes glaze the succulent, green, bulbous buds of this pure Indica strain like frosting on a cinnamon roll. Its savory, earthy aroma features a hint of mocha and gives way to a potent, piquant smoke that is certain to invigorate the lungs. Indulging in this strain brings an immediate sense of tranquility, making it ideal for easing anxiety, aches, and pains. You’ll want to keep the munchies close, but your pillow even closer.",
+  "description_html": "Ooey, gooey trichomes glaze the succulent, green, bulbous buds of this pure Indica strain like frosting on a cinnamon roll. Its savory, earthy aroma features a hint of mocha and gives way to a potent, piquant smoke that is certain to invigorate the lungs. Indulging in this strain brings an immediate sense of tranquility, making it ideal for easing anxiety, aches, and pains. You’ll want to keep the munchies close, but your pillow even closer.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/81ecb1adba6e78087e07d87fc076a8d3",
+      "alt": "Grasshopper Farms | Super Buff Cherries",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-grasshopper-farms-super-buff-cherries__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-grasshopper-farms-super-buff-cherries-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.686Z"
+}

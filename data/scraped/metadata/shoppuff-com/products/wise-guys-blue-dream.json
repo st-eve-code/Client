@@ -1,0 +1,60 @@
+{
+  "slug": "wise-guys-blue-dream",
+  "name": "Wise Guys | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: DJ Short's Blueberry F5 x Santa Cruz Haze\n\nFlavor: Citrus with a light astringent undertone\n\nType/Leaning: Hybrid (Sativa-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: DJ Short's Blueberry F5 x Santa Cruz Haze<br /><br />Flavor: Citrus with a light astringent undertone<br /><br />Type/Leaning: Hybrid (Sativa-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ccf917236e7efe9831ee06439f0fb06f",
+      "alt": "Wise Guys | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-blue-dream-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.792Z"
+}

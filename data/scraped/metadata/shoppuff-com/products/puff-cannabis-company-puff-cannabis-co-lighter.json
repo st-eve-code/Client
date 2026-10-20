@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puff-cannabis-co-lighter",
+  "name": "Puff Cannabis Co | Lighter",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Introducing the Puff lighter by Puff Cannabis Company readily available to enhance your shopping experience by being a one stop shop!",
+  "description_html": "Introducing the Puff lighter by Puff Cannabis Company readily available to enhance your shopping experience by being a one stop shop!<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6519d4f50f805f106393eda403da969a",
+      "alt": "Puff Cannabis Co | Lighter",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puff-cannabis-co-lighter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puff-cannabis-co-lighter-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.001Z"
+}

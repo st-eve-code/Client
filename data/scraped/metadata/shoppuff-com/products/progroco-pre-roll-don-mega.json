@@ -1,0 +1,35 @@
+{
+  "slug": "progroco-pre-roll-don-mega",
+  "name": "Don Mega 1g Pre-Roll",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: GMO x Black Banana Type: Hybrid Terpenes: D-Limonene, Caryophyllene, ß-Myrcene Effects: Relaxed, Sleepy, Calming Aroma: Skunk, Chem, Garlic Step into the bold realm of Don Mega, a strain that commands attention and respect. With buds that glisten like the city lights in the night, this powerhouse hybrid is a fusion of potency and elegance. The aroma dances between earthy and citrus notes, a scent that mirrors the dynamic cityscape it represents. Don Mega's effects are a symphony of relaxation and euphoria, providing a luxurious escape from the everyday hustle. This strain is like the quintessential top hat and cane of the cannabis realm, beckoning you to indulge in a high that befits royalty.",
+  "description_html": "Lineage: GMO x Black Banana Type: Hybrid Terpenes: D-Limonene, Caryophyllene, ß-Myrcene Effects: Relaxed, Sleepy, Calming Aroma: Skunk, Chem, Garlic Step into the bold realm of Don Mega, a strain that commands attention and respect. With buds that glisten like the city lights in the night, this powerhouse hybrid is a fusion of potency and elegance. The aroma dances between earthy and citrus notes, a scent that mirrors the dynamic cityscape it represents. Don Mega's effects are a symphony of relaxation and euphoria, providing a luxurious escape from the everyday hustle. This strain is like the quintessential top hat and cane of the cannabis realm, beckoning you to indulge in a high that befits royalty.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/afc941f8b94a2adab7e7e458ceb3ceff",
+      "alt": "Don Mega 1g Pre-Roll",
+      "local": "data\\scraped\\images\\shoppuff-com__progroco-pre-roll-don-mega__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/progroco-pre-roll-don-mega-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.499Z"
+}

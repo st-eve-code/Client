@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-pineapple-fruz",
+  "name": "Seed Junky Pre-Roll | Pineapple Fruz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Pineapple Fruz is a sativa with bright flavors of sweet ripe tropical fruit and a gassy OG aroma. The effects are euphoric and perfect for a creative day.",
+  "description_html": "Pineapple Fruz is a sativa with bright flavors of sweet ripe tropical fruit and a gassy OG aroma. The effects are euphoric and perfect for a creative day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d1906cc9c1a9746212deecd177121ff0",
+      "alt": "Seed Junky Pre-Roll | Pineapple Fruz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-pineapple-fruz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-pineapple-fruz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.622Z"
+}

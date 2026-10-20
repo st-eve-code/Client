@@ -1,0 +1,35 @@
+{
+  "slug": "mad-packs-mad-packs-pre-packaged-flower-mia-runtz",
+  "name": "Mad Packs Pre-Packaged Flower | MIA Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "Sweet, fruity, and perfectly balanced — Mia Runtz is a hybrid known for its vibrant flavor and smooth, feel-good effects. Notes of ripe berries, subtle cherry, and a hint of citrus come together for a rich, flavorful smoke.\n\nMia Runtz delivers a happy, uplifting head high that gently settles into relaxing body effects, creating a balanced experience that’s great for unwinding without feeling too heavy.",
+  "description_html": "Sweet, fruity, and perfectly balanced — Mia Runtz is a hybrid known for its vibrant flavor and smooth, feel-good effects. Notes of ripe berries, subtle cherry, and a hint of citrus come together for a rich, flavorful smoke.<br /><br />Mia Runtz delivers a happy, uplifting head high that gently settles into relaxing body effects, creating a balanced experience that’s great for unwinding without feeling too heavy.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5395a87d0ce658737b0361c4c38843ba",
+      "alt": "Mad Packs Pre-Packaged Flower | MIA Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-mad-packs-pre-packaged-flower-mia-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-mad-packs-pre-packaged-flower-mia-runtz-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.605Z"
+}

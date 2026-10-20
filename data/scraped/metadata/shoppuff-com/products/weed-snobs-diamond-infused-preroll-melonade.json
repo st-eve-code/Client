@@ -1,0 +1,35 @@
+{
+  "slug": "weed-snobs-diamond-infused-preroll-melonade",
+  "name": "Weed Snobs Diamond Infused Preroll | Melonade",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Melonade is a hybrid strain that has a sweet fruity flavor reminiscent of watermelon with citrus notes. This strain produces mostly euphoric, relaxed, and happy effects.",
+  "description_html": "Melonade is a hybrid strain that has a sweet fruity flavor reminiscent of watermelon with citrus notes. This strain produces mostly euphoric, relaxed, and happy effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/82d91359df21f2c493a237fc844731da",
+      "alt": "Weed Snobs Diamond Infused Preroll | Melonade",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-diamond-infused-preroll-melonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-diamond-infused-preroll-melonade-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.239Z"
+}

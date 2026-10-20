@@ -1,0 +1,35 @@
+{
+  "slug": "anti-drama-anti-drama-pre-roll-jungle-berry",
+  "name": "Anti-Drama Pre-Roll | Jungle Berry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1,
+  "price_max": 1,
+  "currency": "USD",
+  "price_range": "$1.00",
+  "available": true,
+  "vendor": "Anti-Drama",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Anti-Drama Pre-Roll | Jungle Berry",
+      "local": "data\\scraped\\images\\shoppuff-com__anti-drama-anti-drama-pre-roll-jungle-berry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/anti-drama-anti-drama-pre-roll-jungle-berry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.331Z"
+}

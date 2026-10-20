@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-candy-fumez",
+  "name": "Local Grove Live Rosin | Candy Fumez",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Zkittlez x Sherbanger\n\nBreeder: Boston Roots Seed Co x Bloom Seed Co\n\nSelected by: Local Grove (seed hunt, in-house pheno)\n\nAroma & Flavor: Sweet candy gas\n\nEffects: Hybrid – flavorful, smooth, and potent effects.",
+  "description_html": "Genetics: Zkittlez x Sherbanger<br /><br />Breeder: Boston Roots Seed Co x Bloom Seed Co<br /><br />Selected by: Local Grove (seed hunt, in-house pheno)<br /><br />Aroma & Flavor: Sweet candy gas<br /><br />Effects: Hybrid – flavorful, smooth, and potent effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/74e8f43a20c1a432fc1119e6a390b437",
+      "alt": "Local Grove Live Rosin | Candy Fumez",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-candy-fumez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-candy-fumez-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.424Z"
+}

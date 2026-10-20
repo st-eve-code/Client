@@ -1,0 +1,35 @@
+{
+  "slug": "guerilla-grown-king-kongz-infused-preroll-blue-raspberry",
+  "name": "King Kongz Infused Preroll | Blue Raspberry",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Guerilla Grown",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a8aa9ade04a16b68b8becfe9c06cf785",
+      "alt": "King Kongz Infused Preroll | Blue Raspberry",
+      "local": "data\\scraped\\images\\shoppuff-com__guerilla-grown-king-kongz-infused-preroll-blue-raspberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guerilla-grown-king-kongz-infused-preroll-blue-raspberry-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.867Z"
+}

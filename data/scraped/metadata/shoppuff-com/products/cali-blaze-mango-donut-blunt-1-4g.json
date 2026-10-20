@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-mango-donut-blunt-1-4g",
+  "name": "Mango Donut Blunt | 1.4g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "1.2G of delicious flavor-filled flower, infused with live resin and capped off with a glass tip.",
+  "description_html": "1.2G of delicious flavor-filled flower, infused with live resin and capped off with a glass tip.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/405ae7da136c8e895507823ee2d384e0",
+      "alt": "Mango Donut Blunt | 1.4g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-mango-donut-blunt-1-4g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-mango-donut-blunt-1-4g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.795Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "grasshopper-farms-grasshopper-farms-jealousy",
+  "name": "Grasshopper Farms | Jealousy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$5.00 – $99.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Yellow and orange pistils weave through the tightly curled emerald green buds of this sun-grown, Indica-dominant hybrid, reminiscent of delicate threads in fine lace. Its pungent, earthy aroma carries a hint of diesel, leading to a rich, heavy smoke that’s sure to tickle the lungs. Despite its Indica dominance, this strain stimulates both the mind and body, sparking creativity and boosting energy. While it may not be your favorite sin, it’s sure to become your new favorite strain.",
+  "description_html": "Yellow and orange pistils weave through the tightly curled emerald green buds of this sun-grown, Indica-dominant hybrid, reminiscent of delicate threads in fine lace. Its pungent, earthy aroma carries a hint of diesel, leading to a rich, heavy smoke that’s sure to tickle the lungs. Despite its Indica dominance, this strain stimulates both the mind and body, sparking creativity and boosting energy. While it may not be your favorite sin, it’s sure to become your new favorite strain.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c347c71db98f1098cf0a2ae126cc4b77",
+      "alt": "Grasshopper Farms | Jealousy",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-grasshopper-farms-jealousy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-grasshopper-farms-jealousy-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.411Z"
+}

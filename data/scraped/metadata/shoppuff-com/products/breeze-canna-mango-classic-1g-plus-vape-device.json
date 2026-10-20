@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-mango-classic-1g-plus-vape-device",
+  "name": "Mango - Classic 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 18,
+  "price_max": 18,
+  "currency": "USD",
+  "price_range": "$18.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Delight in the succulent taste of ripe mangoes, providing a sweet and tropical escape with every puff.",
+  "description_html": "Delight in the succulent taste of ripe mangoes, providing a sweet and tropical escape with every puff.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/01a1d4dccdd8c869ba2ecaaf7e0e99dc",
+      "alt": "Mango - Classic 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-mango-classic-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 18,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-mango-classic-1g-plus-vape-device-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.886Z"
+}

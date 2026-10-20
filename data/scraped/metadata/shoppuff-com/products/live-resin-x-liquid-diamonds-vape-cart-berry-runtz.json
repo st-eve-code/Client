@@ -1,0 +1,35 @@
+{
+  "slug": "live-resin-x-liquid-diamonds-vape-cart-berry-runtz",
+  "name": "STICKEE | Berry Runtz | 1G | Liquid Diamonds + Live Resin 510 Vape Cart",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Stickee",
+  "tags": [],
+  "description": "Sweet, juicy berry candy flavor that hits so smooth it turns “one more” into a full-blown lifestyle decision. It’s basically dessert in vapor form. Stickee. Always Good.",
+  "description_html": "Sweet, juicy berry candy flavor that hits so smooth it turns “one more” into a full-blown lifestyle decision. It’s basically dessert in vapor form.  Stickee. Always Good.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/de8151b9da878a78d37636428aa79163",
+      "alt": "STICKEE | Berry Runtz | 1G | Liquid Diamonds + Live Resin 510 Vape Cart",
+      "local": "data\\scraped\\images\\shoppuff-com__live-resin-x-liquid-diamonds-vape-cart-berry-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/live-resin-x-liquid-diamonds-vape-cart-berry-runtz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.451Z"
+}

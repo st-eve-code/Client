@@ -1,0 +1,35 @@
+{
+  "slug": "fun-dip-1g-pre-roll",
+  "name": "Fun Dip 1g Pre-Roll",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Doja Exclusive",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d5dffcfdd1e81f84f69a1c1a6f277eae",
+      "alt": "Fun Dip 1g Pre-Roll",
+      "local": "data\\scraped\\images\\shoppuff-com__fun-dip-1g-pre-roll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fun-dip-1g-pre-roll-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.786Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-x-23pk-prerolls-game-6",
+  "name": "Jointman x 23pk Prerolls | Game 6",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 22.5,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$22.50",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a07b264f70d29c28b3c851796c572cba",
+      "alt": "Jointman x 23pk Prerolls | Game 6",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-x-23pk-prerolls-game-6__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 22.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-x-23pk-prerolls-game-6-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.670Z"
+}

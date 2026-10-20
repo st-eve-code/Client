@@ -1,0 +1,35 @@
+{
+  "slug": "drip-mimosa-cartridge-1g",
+  "name": "Mimosa Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Mimosa is bright, bubbly, and made for good times — think brunch energy without the buzz. Crisp citrus and subtle florals make this one a solid go-to for social sparks and sunny moods.",
+  "description_html": "Mimosa is bright, bubbly, and made for good times — think brunch energy without the buzz. Crisp citrus and subtle florals make this one a solid go-to for social sparks and sunny moods.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/11ad470fb7a742f3dc3d04d12d1027b7",
+      "alt": "Mimosa Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-mimosa-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-mimosa-cartridge-1g-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.221Z"
+}

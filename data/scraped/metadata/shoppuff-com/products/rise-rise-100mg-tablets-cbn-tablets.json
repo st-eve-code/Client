@@ -1,0 +1,35 @@
+{
+  "slug": "rise-rise-100mg-tablets-cbn-tablets",
+  "name": "Rise | 100mg Tablets | CBN Tablets",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ba4b11fb04f61535587972a45defe3b1",
+      "alt": "Rise | 100mg Tablets | CBN Tablets",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-rise-100mg-tablets-cbn-tablets__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.125g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ORAL"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-rise-100mg-tablets-cbn-tablets-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.299Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "wojo-co-wojo-live-rosin-banana-boat",
+  "name": "Wojo Live Rosin | Banana Boat",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 31.5,
+  "price_max": 31.5,
+  "currency": "USD",
+  "price_range": "$31.50",
+  "available": true,
+  "vendor": "Wojo Co",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5613-Puff-JointStore-Kalamazoo.webp",
+      "alt": "Wojo Live Rosin | Banana Boat",
+      "local": "data\\scraped\\images\\shoppuff-com__wojo-co-wojo-live-rosin-banana-boat__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 31.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wojo-co-wojo-live-rosin-banana-boat-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.601Z"
+}

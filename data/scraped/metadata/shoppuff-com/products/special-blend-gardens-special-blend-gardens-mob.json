@@ -1,0 +1,45 @@
+{
+  "slug": "special-blend-gardens-special-blend-gardens-mob",
+  "name": "Special Blend Gardens | MOB",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$9.00 – $25.00",
+  "available": true,
+  "vendor": "Special Blend Gardens",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7b8d04e521ef0843ccd9d7e321fbc6f7",
+      "alt": "Special Blend Gardens | MOB",
+      "local": "data\\scraped\\images\\shoppuff-com__special-blend-gardens-special-blend-gardens-mob__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/special-blend-gardens-special-blend-gardens-mob-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.462Z"
+}

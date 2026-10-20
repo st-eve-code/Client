@@ -1,0 +1,60 @@
+{
+  "slug": "joes-grow-llc-joes-grow-strawberries-n-cream",
+  "name": "Joe's Grow | Strawberries n Cream",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Joe's Grow LLC",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Joe's Grow | Strawberries n Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__joes-grow-llc-joes-grow-strawberries-n-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/joes-grow-llc-joes-grow-strawberries-n-cream-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.802Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-infused-preroll-raspberry-lemonade",
+  "name": "Grimas Infused Preroll | Raspberry Lemonade",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1b9485826d29c97e59c7e51ec4dcf44b",
+      "alt": "Grimas Infused Preroll | Raspberry Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-infused-preroll-raspberry-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-infused-preroll-raspberry-lemonade-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.289Z"
+}

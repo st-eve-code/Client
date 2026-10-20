@@ -1,0 +1,55 @@
+{
+  "slug": "glorious-cannabis-co-glorious-dat-big-nasty",
+  "name": "Glorious | Dat Big Nasty",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$6.00 – $50.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "This calming state is accompanied from start to finish with a boost in creativity and sociability, allowing you the mental space that you need to chat with friends or simply get creating some amazing artwork. Dat Big Nasty is often chosen to treat a variety of conditions including chronic stress or anxiety PTSD, depression, chronic pain and arthritis.",
+  "description_html": "This calming state is accompanied from start to finish with a boost in creativity and sociability, allowing you the mental space that you need to chat with friends or simply get creating some amazing artwork. Dat Big Nasty is often chosen to treat a variety of conditions including chronic stress or anxiety PTSD, depression, chronic pain and arthritis.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/20e43dd5e0d52c1546b52789004eff47",
+      "alt": "Glorious | Dat Big Nasty",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-dat-big-nasty__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-dat-big-nasty-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.760Z"
+}

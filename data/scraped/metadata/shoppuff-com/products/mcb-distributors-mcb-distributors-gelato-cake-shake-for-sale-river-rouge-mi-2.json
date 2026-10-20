@@ -1,0 +1,35 @@
+{
+  "slug": "mcb-distributors-mcb-distributors-gelato-cake-shake-for-sale-river-rouge-mi-2",
+  "name": "MCB Distributors | Gelato Cake (Shake)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "MCB Distributors",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "MCB Distributors | Gelato Cake (Shake)",
+      "local": "data\\scraped\\images\\shoppuff-com__mcb-distributors-mcb-distributors-gelato-cake-shake-for-sale-river-rouge-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mcb-distributors-mcb-distributors-gelato-cake-shake-for-sale-river-rouge-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.707Z"
+}

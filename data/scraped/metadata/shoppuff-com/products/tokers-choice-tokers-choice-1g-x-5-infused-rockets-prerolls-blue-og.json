@@ -1,0 +1,35 @@
+{
+  "slug": "tokers-choice-tokers-choice-1g-x-5-infused-rockets-prerolls-blue-og",
+  "name": "Toker's Choice | 1g x 5 Infused \"Rockets\" Prerolls | Blue OG",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Toker's Choice",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4c0ebfe00665b00a5bfc52816c890953",
+      "alt": "Toker's Choice | 1g x 5 Infused \"Rockets\" Prerolls | Blue OG",
+      "local": "data\\scraped\\images\\shoppuff-com__tokers-choice-tokers-choice-1g-x-5-infused-rockets-prerolls-blue-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tokers-choice-tokers-choice-1g-x-5-infused-rockets-prerolls-blue-og-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.910Z"
+}

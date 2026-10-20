@@ -1,0 +1,35 @@
+{
+  "slug": "mojo-mojo-200mg-chocolate-cookie-bars",
+  "name": "Mojo | 200mg Chocolate | Cookie Bars",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Mojo",
+  "tags": [],
+  "description": "Experience the texture and flavor combo of your dreams! A crispy chocolate cookie topped with cannabis infused, smooth, milk chocolate. It's the 10mg chocolate edible of your dreams!",
+  "description_html": "Experience the texture and flavor combo of your dreams! A crispy chocolate cookie topped with cannabis infused, smooth, milk chocolate. It's the 10mg chocolate edible of your dreams!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/58ad854979df6e860f7285816639454b",
+      "alt": "Mojo | 200mg Chocolate | Cookie Bars",
+      "local": "data\\scraped\\images\\shoppuff-com__mojo-mojo-200mg-chocolate-cookie-bars__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "8.1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mojo-mojo-200mg-chocolate-cookie-bars-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.282Z"
+}

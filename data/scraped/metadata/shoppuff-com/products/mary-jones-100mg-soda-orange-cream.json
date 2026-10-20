@@ -1,0 +1,35 @@
+{
+  "slug": "mary-jones-100mg-soda-orange-cream",
+  "name": "Mary Jones | 100mg Soda | Orange & Cream",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mary Jones",
+  "tags": [],
+  "description": "Same Jones.\nMore Mary.\nMore flavors, higher dosages, only available in dispensaries.\n\nMary Jones’ Orange and Cream is a luxurious fusion of juicy, sun-kissed oranges and silky cream, creating a dreamy, indulgent flavor. It’s a perfect treat for those who savor a sweet, comforting embrace in every sip.",
+  "description_html": "Same Jones.<br />More Mary.<br />More flavors, higher dosages, only available in dispensaries.<br /><br />Mary Jones’ Orange and Cream is a luxurious fusion of juicy, sun-kissed oranges and silky cream, creating a dreamy, indulgent flavor. It’s a perfect treat for those who savor a sweet, comforting embrace in every sip.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/96ef81675724135df697e90f9886fab9",
+      "alt": "Mary Jones | 100mg Soda | Orange & Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__mary-jones-100mg-soda-orange-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "12.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mary-jones-100mg-soda-orange-cream-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.304Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-bolo-marker",
+  "name": "Seed Junky | Bolo Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Bolo Marker is a flavor-forward cultivar, except bold notes of gas, sweet citrus, and a fruity-floral finish that lingers on the palate. The high rolls in smooth, uplifting the mood, sparking the senses, and settling into a calm, collected body feel. With its rich aroma and complex flavor, Bolo Marker is one to be on the lookout for.\n\nPermanent Marker x Permanent Marker",
+  "description_html": "Bolo Marker is a flavor-forward cultivar, except bold notes of gas, sweet citrus, and a fruity-floral finish that lingers on the palate. The high rolls in smooth, uplifting the mood, sparking the senses, and settling into a calm, collected body feel. With its rich aroma and complex flavor, Bolo Marker is one to be on the lookout for.<br /><br />Permanent Marker x Permanent Marker",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0687414959c4bdae2a294fb7320a9cf5",
+      "alt": "Seed Junky | Bolo Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-bolo-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-bolo-marker-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.285Z"
+}

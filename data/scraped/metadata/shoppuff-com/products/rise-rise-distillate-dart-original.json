@@ -1,0 +1,35 @@
+{
+  "slug": "rise-rise-distillate-dart-original",
+  "name": "RISE Distillate Dart – 1G",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "Established out of a desire to improve patient well-being, RISE products provide a robust custom cannabis platform. 1g Distillate syringes provide powerful cannabis support that can be used in a number of ways. Add into edibles, dab it, or add into flower. Custom ratios. Custom doses. Custom cannabis.",
+  "description_html": "Established out of a desire to improve patient well-being, RISE products provide a robust custom cannabis platform. 1g Distillate syringes provide powerful cannabis support that can be used in a number of ways. Add into edibles, dab it, or add into flower. Custom ratios. Custom doses. Custom cannabis.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/10fe55edb1c3b0559a6280a4f8e0ec43",
+      "alt": "RISE Distillate Dart – 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-rise-distillate-dart-original__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-rise-distillate-dart-original-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.449Z"
+}

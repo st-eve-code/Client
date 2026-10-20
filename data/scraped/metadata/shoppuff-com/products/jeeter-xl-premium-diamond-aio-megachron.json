@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-xl-premium-diamond-aio-megachron",
+  "name": "Jeeter | Juneberry | 2G Liquid Diamond XL All-In-One Vape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Bright, berry forward, and lightly fizzy. Juneberry opens with syrupy dark berry and a crisp citrus pop, giving blueberry energy with a little sparkle. Sweet on the inhale, smooth on the exhale, and finished with a clean blend of berry and soft cherry.",
+  "description_html": "Bright, berry forward, and lightly fizzy. Juneberry opens with syrupy dark berry and a crisp citrus pop, giving blueberry energy with a little sparkle. Sweet on the inhale, smooth on the exhale, and finished with a clean blend of berry and soft cherry.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/99c9d91afd4f2ec1e358904eb10aa68d",
+      "alt": "Jeeter | Juneberry | 2G Liquid Diamond XL All-In-One Vape",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-xl-premium-diamond-aio-megachron__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-xl-premium-diamond-aio-megachron-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.768Z"
+}

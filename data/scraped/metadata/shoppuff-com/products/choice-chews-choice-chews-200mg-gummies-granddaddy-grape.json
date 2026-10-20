@@ -1,0 +1,35 @@
+{
+  "slug": "choice-chews-choice-chews-200mg-gummies-granddaddy-grape",
+  "name": "Choice Chews | 200mg Gummies | Granddaddy Grape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Choice Chews",
+  "tags": [],
+  "description": "Indulge in the rich, calming taste of Choice Chews' Grandaddy Purple gummies. Infused with an indica blend, these gummies offer a luscious mix of grape and berry flavors, bringing a soothing, yet invigorating experience that makes relaxation effortless.",
+  "description_html": "Indulge in the rich, calming taste of Choice Chews' Grandaddy Purple gummies. Infused with an indica blend, these gummies offer a luscious mix of grape and berry flavors, bringing a soothing, yet invigorating experience that makes relaxation effortless.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/62b1ab843dee7ecad060897706806b80",
+      "alt": "Choice Chews | 200mg Gummies | Granddaddy Grape",
+      "local": "data\\scraped\\images\\shoppuff-com__choice-chews-choice-chews-200mg-gummies-granddaddy-grape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.78g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/choice-chews-choice-chews-200mg-gummies-granddaddy-grape-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.315Z"
+}

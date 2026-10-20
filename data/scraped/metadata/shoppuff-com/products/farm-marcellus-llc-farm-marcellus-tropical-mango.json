@@ -1,0 +1,35 @@
+{
+  "slug": "farm-marcellus-llc-farm-marcellus-tropical-mango",
+  "name": "Farm Marcellus | Tropical Mango",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Farm Marcellus LLC",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/56045601fedc60fd84a84df284a81d19",
+      "alt": "Farm Marcellus | Tropical Mango",
+      "local": "data\\scraped\\images\\shoppuff-com__farm-marcellus-llc-farm-marcellus-tropical-mango__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/farm-marcellus-llc-farm-marcellus-tropical-mango-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.931Z"
+}

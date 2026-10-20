@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-lqd-pod-cereal-milk",
+  "name": "Stiiizy LQD Pod | Cereal Milk",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Cereal Milk is a hybrid in the Live Resin Liquid Diamonds lineup with a smooth, layered profile featuring earthy citrus notes and subtle rounded undertones.",
+  "description_html": "Cereal Milk is a hybrid in the Live Resin Liquid Diamonds lineup with a smooth, layered profile featuring earthy citrus notes and subtle rounded undertones.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7757e415c2dc7ccd729b6773a8f92953",
+      "alt": "Stiiizy LQD Pod | Cereal Milk",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-lqd-pod-cereal-milk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-lqd-pod-cereal-milk-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.281Z"
+}

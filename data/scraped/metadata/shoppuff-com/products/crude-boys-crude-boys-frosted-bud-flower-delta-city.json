@@ -1,0 +1,35 @@
+{
+  "slug": "crude-boys-crude-boys-frosted-bud-flower-delta-city",
+  "name": "Crude Boys Frosted Bud Flower | Delta City",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 22,
+  "price_max": 22,
+  "currency": "USD",
+  "price_range": "$22.00",
+  "available": true,
+  "vendor": "Crude Boys",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Crude Boys Frosted Bud Flower | Delta City",
+      "local": "data\\scraped\\images\\shoppuff-com__crude-boys-crude-boys-frosted-bud-flower-delta-city__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 22,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/crude-boys-crude-boys-frosted-bud-flower-delta-city-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.428Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "drip-drip-510-cartridge-ice-cream-cake",
+  "name": "Drip 510 Cartridge | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Ice Cream Cake serves up a silky, dessert-forward vape with a soft body feel to match. Expect sweet, creamy clouds that wind down your mood and mellow out the moment.",
+  "description_html": "Ice Cream Cake serves up a silky, dessert-forward vape with a soft body feel to match. Expect sweet, creamy clouds that wind down your mood and mellow out the moment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/74451db581076d7185df12aeaae58f9c",
+      "alt": "Drip 510 Cartridge | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-drip-510-cartridge-ice-cream-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-drip-510-cartridge-ice-cream-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.798Z"
+}

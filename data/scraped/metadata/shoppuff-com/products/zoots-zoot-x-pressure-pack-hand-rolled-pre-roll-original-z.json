@@ -1,0 +1,35 @@
+{
+  "slug": "zoots-zoot-x-pressure-pack-hand-rolled-pre-roll-original-z",
+  "name": "Zoot x Pressure Pack Hand Rolled Pre-roll | Original Z",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Zoots",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Zoot x Pressure Pack Hand Rolled Pre-roll | Original Z",
+      "local": "data\\scraped\\images\\shoppuff-com__zoots-zoot-x-pressure-pack-hand-rolled-pre-roll-original-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zoots-zoot-x-pressure-pack-hand-rolled-pre-roll-original-z-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.438Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "bones-1-1g-preroll-blue-zushie",
+  "name": "Bones | 1.1g Preroll | Blue Zushie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 2,
+  "price_max": 2,
+  "currency": "USD",
+  "price_range": "$2.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Bones | 1.1g Preroll | Blue Zushie",
+      "local": "data\\scraped\\images\\shoppuff-com__bones-1-1g-preroll-blue-zushie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.1g",
+      "price": 2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bones-1-1g-preroll-blue-zushie-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.859Z"
+}

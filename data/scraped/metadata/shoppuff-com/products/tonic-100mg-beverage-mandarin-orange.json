@@ -1,0 +1,35 @@
+{
+  "slug": "tonic-100mg-beverage-mandarin-orange",
+  "name": "Tonic | 100mg Beverage | Mandarin Orange",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Tonic",
+  "tags": [],
+  "description": "Cannabis infused drinks are unique in the edible category because they generally have a much faster activation time than traditional edibles. It is important to start low and slow when consuming edibles so you don't over do it. As with all edibles, take extra caution to ensure they are out of the reach of children.",
+  "description_html": "Cannabis infused drinks are unique in the edible category because they generally have a much faster activation time than traditional edibles. It is important to start low and slow when consuming edibles so you don't over do it. As with all edibles, take extra caution to ensure they are out of the reach of children.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0b1f6e6a95ac938886f87f680ed17de4",
+      "alt": "Tonic | 100mg Beverage | Mandarin Orange",
+      "local": "data\\scraped\\images\\shoppuff-com__tonic-100mg-beverage-mandarin-orange__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tonic-100mg-beverage-mandarin-orange-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.269Z"
+}

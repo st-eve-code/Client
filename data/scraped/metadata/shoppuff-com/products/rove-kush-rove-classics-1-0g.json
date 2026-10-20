@@ -1,0 +1,35 @@
+{
+  "slug": "rove-kush-rove-classics-1-0g",
+  "name": "Kush | ROVE Classics | 1.0g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 18,
+  "price_max": 18,
+  "currency": "USD",
+  "price_range": "$18.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "KUSH • INDICA An indica dominant blend, Rove's Kush has fruity tasting notes with a smooth, mellow finish. The overall effect is calming and soothing to help fight stress, muscle spasms, nausea, and pain. • Berry • Sweet • Flowery",
+  "description_html": "KUSH • INDICA An indica dominant blend, Rove's Kush has fruity tasting notes with a smooth, mellow finish. The overall effect is calming and soothing to help fight stress, muscle spasms, nausea, and pain. • Berry • Sweet • Flowery<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f7e8fcc9124fcedd86f71096bfff5b51",
+      "alt": "Kush | ROVE Classics | 1.0g",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-kush-rove-classics-1-0g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 18,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-kush-rove-classics-1-0g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.781Z"
+}

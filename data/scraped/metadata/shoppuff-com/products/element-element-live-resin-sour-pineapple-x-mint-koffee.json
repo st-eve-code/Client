@@ -1,0 +1,35 @@
+{
+  "slug": "element-element-live-resin-sour-pineapple-x-mint-koffee",
+  "name": "Element Live Resin | Sour Pineapple x Mint Koffee",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Element",
+  "tags": [],
+  "description": "Crafted from precisely harvested fresh-frozen flowers, Element Live Resin captures the strain's characteristics at the exact time of harvest. Offering a strong cannabinoid and rich terpene profile, our skillful extraction methods and unique strain selection create a true full-spectrum experience.",
+  "description_html": "Crafted from precisely harvested fresh-frozen flowers, Element Live Resin captures the strain's characteristics at the exact time of harvest. Offering a strong cannabinoid and rich terpene profile, our skillful extraction methods and unique strain selection create a true full-spectrum experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1ad2e8f03cad342fe7a36372f91e8c83",
+      "alt": "Element Live Resin | Sour Pineapple x Mint Koffee",
+      "local": "data\\scraped\\images\\shoppuff-com__element-element-live-resin-sour-pineapple-x-mint-koffee__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/element-element-live-resin-sour-pineapple-x-mint-koffee-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.882Z"
+}

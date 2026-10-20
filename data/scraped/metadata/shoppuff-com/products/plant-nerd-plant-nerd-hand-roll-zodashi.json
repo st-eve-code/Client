@@ -1,0 +1,35 @@
+{
+  "slug": "plant-nerd-plant-nerd-hand-roll-zodashi",
+  "name": "Plant Nerd Hand Roll | Zodashi",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Black Maple x Papaya by Bloom Seed Co. We hunted this strain because the cross sounds so unique, and honestly, we just wanted to try the flower. The pheno we kept mixes the maple/caramel earthy sweetness of Black Maple with a gassy, slightly sour, fruity punch from the Papaya. The taste comes through on the smoke and we’re excited to have it in the rotation.",
+  "description_html": "Black Maple x Papaya by Bloom Seed Co. We hunted this strain because the cross sounds so unique, and honestly, we just wanted to try the flower. The pheno we kept mixes the maple/caramel earthy sweetness of Black Maple with a gassy, slightly sour, fruity punch from the Papaya. The taste comes through on the smoke and we’re excited to have it in the rotation.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/37153ed9c427290dd06060ea8a0323a7",
+      "alt": "Plant Nerd Hand Roll | Zodashi",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-hand-roll-zodashi__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-hand-roll-zodashi-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.895Z"
+}

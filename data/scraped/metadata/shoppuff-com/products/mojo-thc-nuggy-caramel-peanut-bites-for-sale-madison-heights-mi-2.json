@@ -1,0 +1,35 @@
+{
+  "slug": "mojo-thc-nuggy-caramel-peanut-bites-for-sale-madison-heights-mi-2",
+  "name": "THC Nuggy Caramel Peanut Bites",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mojo",
+  "tags": [],
+  "description": "Make today a little sweeter! Try Mojo's Nuggy Caramel Bites. Every crave-worthy piece is a perfectly balanced and smothered in that silky cannabis-infused chocolate Mojo is known for.",
+  "description_html": "Make today a little sweeter! Try Mojo's Nuggy Caramel Bites. Every crave-worthy piece is a perfectly balanced and smothered in that silky cannabis-infused chocolate Mojo is known for.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02346f4ff236e19376b6891b4c573480",
+      "alt": "THC Nuggy Caramel Peanut Bites",
+      "local": "data\\scraped\\images\\shoppuff-com__mojo-thc-nuggy-caramel-peanut-bites-for-sale-madison-heights-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mojo-thc-nuggy-caramel-peanut-bites-for-sale-madison-heights-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.893Z"
+}

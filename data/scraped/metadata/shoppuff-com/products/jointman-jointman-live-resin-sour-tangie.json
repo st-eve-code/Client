@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-jointman-live-resin-sour-tangie",
+  "name": "Jointman Live Resin | Sour Tangie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a70f87f261239661b1d5f249499c795",
+      "alt": "Jointman Live Resin | Sour Tangie",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-jointman-live-resin-sour-tangie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-jointman-live-resin-sour-tangie-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.349Z"
+}

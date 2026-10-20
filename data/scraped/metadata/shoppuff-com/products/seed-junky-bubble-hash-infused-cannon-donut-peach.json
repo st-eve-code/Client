@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-bubble-hash-infused-cannon-donut-peach",
+  "name": "Seed Junky Bubble Hash Infused Cannon | Donut Peach",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Inspired by the legendary flat peaches of ancient China—once said to grant immortality to those lucky enough to taste them. The aroma is loud and unmistakable: sweet peach, with a hit of peach ring candy. The flavor rolls in with notes of caramelized peaches and a clean, smooth finish. The experience starts off fun and uplifting before easing you into a relaxed, mellow state.\n\nZkittlez x Animal Cookies BX2 IX",
+  "description_html": "Inspired by the legendary flat peaches of ancient China—once said to grant immortality to those lucky enough to taste them. The aroma is loud and unmistakable: sweet peach, with a hit of peach ring candy. The flavor rolls in with notes of caramelized peaches and a clean, smooth finish. The experience starts off fun and uplifting before easing you into a relaxed, mellow state.<br /><br />Zkittlez x Animal Cookies BX2 IX",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6c19dc07c85e6970a3adca588d34fbe5",
+      "alt": "Seed Junky Bubble Hash Infused Cannon | Donut Peach",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-bubble-hash-infused-cannon-donut-peach__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-bubble-hash-infused-cannon-donut-peach-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.622Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-x-3-hash-infused-joint-multipack-z-pie-14-rainbow-belts",
+  "name": "710 Labs x 3 Hash Infused Joint Multipack | Z Pie #14 + Rainbow Belts",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 125,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$125.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "710 Labs x 3 Hash Infused Joint Multipack | Z Pie #14 + Rainbow Belts",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-x-3-hash-infused-joint-multipack-z-pie-14-rainbow-belts__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.0g",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-x-3-hash-infused-joint-multipack-z-pie-14-rainbow-belts-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.892Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "enterprise-cc-enterprise-cc-sweet-retreat-for-sale-oscoda-mi-2",
+  "name": "Enterprise CC | Sweet Retreat",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$6.00 – $60.00",
+  "available": true,
+  "vendor": "Enterprise CC",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4ffd35f7166e67a5c97a8dd10cee3333",
+      "alt": "Enterprise CC | Sweet Retreat",
+      "local": "data\\scraped\\images\\shoppuff-com__enterprise-cc-enterprise-cc-sweet-retreat-for-sale-oscoda-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/enterprise-cc-enterprise-cc-sweet-retreat-for-sale-oscoda-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.683Z"
+}

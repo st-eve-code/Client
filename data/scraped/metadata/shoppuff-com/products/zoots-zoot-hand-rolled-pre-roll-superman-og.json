@@ -1,0 +1,35 @@
+{
+  "slug": "zoots-zoot-hand-rolled-pre-roll-superman-og",
+  "name": "Zoot Hand Rolled Pre-roll | Superman OG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Zoots",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/62ac87667e7424ae584faafbb60d081d",
+      "alt": "Zoot Hand Rolled Pre-roll | Superman OG",
+      "local": "data\\scraped\\images\\shoppuff-com__zoots-zoot-hand-rolled-pre-roll-superman-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zoots-zoot-hand-rolled-pre-roll-superman-og-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:20.834Z"
+}

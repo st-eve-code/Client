@@ -1,0 +1,35 @@
+{
+  "slug": "high-chew-200mg-single-gummy-cherry",
+  "name": "High Chew | 200mg Single Gummy | Cherry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "High Chew",
+  "tags": [],
+  "description": "High Chew – Cherry (1-piece 200mg Fast-Acting Hybrid Gummy)\n\nSweet. Strong. Fast. High Chew packs 200mg of fast-acting hybrid THC into one bold Cherry gummy. A hard-hitting treat for heavy hitters who want effects that don’t wait.\n\n- Powered by Little Tree",
+  "description_html": "High Chew – Cherry (1-piece 200mg Fast-Acting Hybrid Gummy)<br /><br />Sweet. Strong. Fast. High Chew packs 200mg of fast-acting hybrid THC into one bold Cherry gummy. A hard-hitting treat for heavy hitters who want effects that don’t wait.<br /><br />- Powered by Little Tree",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ff17212cfd8af6a84ae9d4d1eb10db61",
+      "alt": "High Chew | 200mg Single Gummy | Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__high-chew-200mg-single-gummy-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.1605g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/high-chew-200mg-single-gummy-cherry-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.996Z"
+}

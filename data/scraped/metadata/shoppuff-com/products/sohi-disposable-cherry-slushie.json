@@ -1,0 +1,35 @@
+{
+  "slug": "sohi-disposable-cherry-slushie",
+  "name": "SoHi Disposable | Cherry Slushie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "SoHi",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/11e0767f028fa622d8f7b2d84c198991",
+      "alt": "SoHi Disposable | Cherry Slushie",
+      "local": "data\\scraped\\images\\shoppuff-com__sohi-disposable-cherry-slushie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sohi-disposable-cherry-slushie-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.943Z"
+}

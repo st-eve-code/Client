@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-max-disposable-super-lemon-haze",
+  "name": "Mitten Extracts Max Disposable | Super Lemon Haze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "A sativa-dominant strain with zesty lemon and citrus flavors, known for its energetic and uplifting effects. Ideal for daytime activities, it boosts motivation and focus, helping you stay active and alert all day long.",
+  "description_html": "A sativa-dominant strain with zesty lemon and citrus flavors, known for its energetic and uplifting effects. Ideal for daytime activities, it boosts motivation and focus, helping you stay active and alert all day long.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/98f8b65d37643c0a73d717e9dde79067",
+      "alt": "Mitten Extracts Max Disposable | Super Lemon Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-max-disposable-super-lemon-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-max-disposable-super-lemon-haze-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.436Z"
+}

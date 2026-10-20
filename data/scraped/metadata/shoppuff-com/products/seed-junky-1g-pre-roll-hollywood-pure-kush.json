@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-1g-pre-roll-hollywood-pure-kush",
+  "name": "Seed Junky | 1g Pre-Roll | Hollywood Pure Kush",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Seed Junky Chocolatte eighth is a rich and indulgent smoke that lives up to its dessert-inspired name. The aroma greets you with deep notes of cocoa, roasted coffee, and sweet earth, underscored by a hint of creamy vanilla. On the palate, it delivers a smooth blend of mocha and subtle spice, with a velvety texture that lingers on the exhale. The experience is equally balanced—beginning with an uplifting cerebral buzz that enhances mood and creativity, followed by a warm, soothing body relaxation that makes it ideal for day-to-evening enjoyment.",
+  "description_html": "Seed Junky Chocolatte eighth is a rich and indulgent smoke that lives up to its dessert-inspired name. The aroma greets you with deep notes of cocoa, roasted coffee, and sweet earth, underscored by a hint of creamy vanilla. On the palate, it delivers a smooth blend of mocha and subtle spice, with a velvety texture that lingers on the exhale. The experience is equally balanced—beginning with an uplifting cerebral buzz that enhances mood and creativity, followed by a warm, soothing body relaxation that makes it ideal for day-to-evening enjoyment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9e18b225fce4bbbc26072e5149c94fa3",
+      "alt": "Seed Junky | 1g Pre-Roll | Hollywood Pure Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-1g-pre-roll-hollywood-pure-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-1g-pre-roll-hollywood-pure-kush-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.905Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-3-5g-prepackaged-flower-bonfire",
+  "name": "Seed Junky | 3.5g Prepackaged Flower | Bonfire",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Bonfire is a balanced hybrid that delivers a bright, clear-headed lift paired with a smooth sense of calm. Notes of tropical fruit blend with refreshing cool mint and subtle earthy spice, creating a flavorful smoke that feels both uplifting and grounding. The experience provides an elevated mood while maintaining a relaxed, comfortable body feel, making it perfect for afternoon sessions or easygoing social moments.",
+  "description_html": "Bonfire is a balanced hybrid that delivers a bright, clear-headed lift paired with a smooth sense of calm. Notes of tropical fruit blend with refreshing cool mint and subtle earthy spice, creating a flavorful smoke that feels both uplifting and grounding. The experience provides an elevated mood while maintaining a relaxed, comfortable body feel, making it perfect for afternoon sessions or easygoing social moments.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/885e4ba28a657f06f5de67a6ddacbcf1",
+      "alt": "Seed Junky | 3.5g Prepackaged Flower | Bonfire",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-3-5g-prepackaged-flower-bonfire__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-3-5g-prepackaged-flower-bonfire-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.816Z"
+}

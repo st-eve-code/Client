@@ -1,0 +1,35 @@
+{
+  "slug": "detroit-edibles-rhino-gummy-blue-raspberry",
+  "name": "Rhino Gummy – Blue Raspberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Detroit Edibles",
+  "tags": [],
+  "description": "Bigger. Bolder. Introducing the all-new Rhino Gummy that packs a potent 200mg of THC. These delicious sugar-coated cannabis gummies come in three delicious flavors and include ridges for easy dosing. Experience the power of Rhino! Fully activates in 1-2 hours.",
+  "description_html": "Bigger. Bolder. Introducing the all-new Rhino Gummy that packs a potent 200mg of THC. These delicious sugar-coated cannabis gummies come in three delicious flavors and include ridges for easy dosing. Experience the power of Rhino! Fully activates in 1-2 hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9aec0d9457b1d23be5438358e4baa3d1",
+      "alt": "Rhino Gummy – Blue Raspberry",
+      "local": "data\\scraped\\images\\shoppuff-com__detroit-edibles-rhino-gummy-blue-raspberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.6125g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/detroit-edibles-rhino-gummy-blue-raspberry-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.199Z"
+}

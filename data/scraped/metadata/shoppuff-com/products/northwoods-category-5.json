@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-category-5",
+  "name": "Northwoods | Category 5",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4.2,
+  "price_max": 69.3,
+  "currency": "USD",
+  "price_range": "$4.20 – $69.30",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2f6555db67339ff247141cb51495d7f7",
+      "alt": "Northwoods | Category 5",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-category-5__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4.2,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 38.5,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 69.3,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 21,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-category-5-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.623Z"
+}

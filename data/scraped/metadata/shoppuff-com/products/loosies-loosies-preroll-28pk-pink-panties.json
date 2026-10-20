@@ -1,0 +1,35 @@
+{
+  "slug": "loosies-loosies-preroll-28pk-pink-panties",
+  "name": "Loosies Preroll 28pk | Pink Panties",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 24.5,
+  "price_max": 24.5,
+  "currency": "USD",
+  "price_range": "$24.50",
+  "available": true,
+  "vendor": "Loosies",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2be44e6bf03b5e9a300c1a4ed8d19eb8",
+      "alt": "Loosies Preroll 28pk | Pink Panties",
+      "local": "data\\scraped\\images\\shoppuff-com__loosies-loosies-preroll-28pk-pink-panties__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 24.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/loosies-loosies-preroll-28pk-pink-panties-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.536Z"
+}

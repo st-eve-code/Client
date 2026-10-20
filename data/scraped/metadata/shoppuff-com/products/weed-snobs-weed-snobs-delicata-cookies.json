@@ -1,0 +1,50 @@
+{
+  "slug": "weed-snobs-weed-snobs-delicata-cookies",
+  "name": "Weed Snobs | Delicata Cookies",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$12.00 – $55.00",
+  "available": true,
+  "vendor": "Weed Snobs",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6f647eae949bbd0203294522773e3ddf",
+      "alt": "Weed Snobs | Delicata Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__weed-snobs-weed-snobs-delicata-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/weed-snobs-weed-snobs-delicata-cookies-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.765Z"
+}

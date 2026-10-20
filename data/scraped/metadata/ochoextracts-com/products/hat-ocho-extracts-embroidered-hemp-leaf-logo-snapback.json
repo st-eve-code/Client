@@ -1,0 +1,52 @@
+{
+  "slug": "hat-ocho-extracts-embroidered-hemp-leaf-logo-snapback",
+  "name": "Hat - Embroidered Hemp Leaf Snapback",
+  "site": "ochoextracts-com",
+  "category": "swag",
+  "price_min": 24.99,
+  "price_max": 24.99,
+  "currency": "GBP",
+  "price_range": "£24.99",
+  "available": true,
+  "sku": "OCHO-LEAFCAP-BEIGE",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "Swag"
+  ],
+  "description": "Make a statement with the OCHO Extracts Embroidered Hemp Leaf Snapback. Featuring a structured cap with bold raised embroidery logo detailing and red hemp plant accent, this snapback blends clean streetwear styling with standout contrast.\n\nBuilt with an adjustable snapback closure for a comfortable fit, this piece is designed for everyday wear while adding a pop of color and personality to any fit. The raised embroidery finish adds premium texture and elevated detail to the overall design.\n\nFeatures:\n\n• Raised embroidered white and red logo detailing\n\n• Raised red embroidered hemp leaf accent\n\n• \nStructured snapback construction\n\n• Adjustable snapback closure\n\n• Black or beige cap colorway\n\n• Slightly curved brim styling\n\n• One size fits most",
+  "description_html": "<p>Make a statement with the <strong>OCHO Extracts Embroidered Hemp Leaf Snapback.</strong> Featuring a structured cap with bold raised embroidery logo detailing and red hemp plant accent, this snapback blends clean streetwear styling with standout contrast.</p>\n<p>Built with an adjustable snapback closure for a comfortable fit, this piece is designed for everyday wear while adding a pop of color and personality to any fit. The raised embroidery finish adds premium texture and elevated detail to the overall design.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Features:</strong></span></p>\n<ul>\n<li>Raised embroidered white and red logo detailing</li>\n<li>Raised red embroidered hemp leaf accent<meta charset=\"utf-8\">\n</li>\n<li>\n<meta charset=\"utf-8\">Structured snapback construction<br>\n</li>\n<li>Adjustable snapback closure</li>\n<li>Black or beige cap colorway<br>\n</li>\n<li>Slightly curved brim styling<br>\n</li>\n<li>One size fits most</li>\n</ul>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Hemp_Leaf-Black.png?v=1779316015",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__hat-ocho-extracts-embroidered-hemp-leaf-logo-snapback__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Hemp_Leaf-Beige.png?v=1779316125",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__hat-ocho-extracts-embroidered-hemp-leaf-logo-snapback__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 45866588078266,
+      "title": "Beige",
+      "price": 24.99,
+      "sku": "OCHO-LEAFCAP-BEIGE",
+      "available": true
+    },
+    {
+      "id": 45866588111034,
+      "title": "Black",
+      "price": 24.99,
+      "sku": "OCHO-LEAFCAP-BLK",
+      "available": true
+    }
+  ],
+  "collections": [
+    "swag"
+  ],
+  "source_url": "https://ochoextracts.com/products/hat-ocho-extracts-embroidered-hemp-leaf-logo-snapback",
+  "scraped_at": "2026-10-10T21:42:46.209Z"
+}

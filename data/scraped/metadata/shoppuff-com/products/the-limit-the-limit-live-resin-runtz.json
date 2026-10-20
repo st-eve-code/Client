@@ -1,0 +1,35 @@
+{
+  "slug": "the-limit-the-limit-live-resin-runtz",
+  "name": "The Limit Live Resin | Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "The Limit",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/309b6ec4c8a9a1d0f05596885a46223c",
+      "alt": "The Limit Live Resin | Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__the-limit-the-limit-live-resin-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-limit-the-limit-live-resin-runtz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.447Z"
+}

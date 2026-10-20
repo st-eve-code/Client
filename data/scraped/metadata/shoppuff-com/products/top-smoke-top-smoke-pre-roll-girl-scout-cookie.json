@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-pre-roll-girl-scout-cookie",
+  "name": "Top Smoke Pre-Roll | Girl Scout Cookie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "1G Pre-Roll",
+  "description_html": "1G Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6fc6639b51c2ac961f41c1df045c0aea",
+      "alt": "Top Smoke Pre-Roll | Girl Scout Cookie",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-pre-roll-girl-scout-cookie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-pre-roll-girl-scout-cookie-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.430Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "banned-banned-200mg-treats-caramel-potcorn",
+  "name": "Banned | 200mg Treats | Caramel Potcorn",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Banned",
+  "tags": [],
+  "description": "Welcome to the ultimate snacking experience – BANNED's THC-Infused Gourmet Popcorn, where bold flavors meet powerful effects.\n\nEach bag is packed with 200mg of full-spectrum THC, delivering an indulgent and long-lasting high that kicks in within 30 minutes.\n\nPerfect for those looking for a flavorful, elevated experience, our popcorn combines premium ingredients with precision infusion to ensure every bite is as delicious as it is potent.",
+  "description_html": "Welcome to the ultimate snacking experience – BANNED's THC-Infused Gourmet Popcorn, where bold flavors meet powerful effects.<br /><br />Each bag is packed with 200mg of full-spectrum THC, delivering an indulgent and long-lasting high that kicks in within 30 minutes.<br /><br />Perfect for those looking for a flavorful, elevated experience, our popcorn combines premium ingredients with precision infusion to ensure every bite is as delicious as it is potent.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cd738ff1c0ebcadf60a85e2ce109e666",
+      "alt": "Banned | 200mg Treats | Caramel Potcorn",
+      "local": "data\\scraped\\images\\shoppuff-com__banned-banned-200mg-treats-caramel-potcorn__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/banned-banned-200mg-treats-caramel-potcorn-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.283Z"
+}

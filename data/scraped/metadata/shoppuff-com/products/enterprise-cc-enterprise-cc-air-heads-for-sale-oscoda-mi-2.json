@@ -1,0 +1,55 @@
+{
+  "slug": "enterprise-cc-enterprise-cc-air-heads-for-sale-oscoda-mi-2",
+  "name": "Enterprise CC | Air Heads",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 80,
+  "currency": "USD",
+  "price_range": "$6.00 – $80.00",
+  "available": true,
+  "vendor": "Enterprise CC",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b00a0ae6596861e3351b45b2193ccec9",
+      "alt": "Enterprise CC | Air Heads",
+      "local": "data\\scraped\\images\\shoppuff-com__enterprise-cc-enterprise-cc-air-heads-for-sale-oscoda-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/enterprise-cc-enterprise-cc-air-heads-for-sale-oscoda-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.683Z"
+}

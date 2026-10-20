@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-live-resin-disposable-big-daddy-purple",
+  "name": "Jeeter Live Resin Disposable | Big Daddy Purple",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a71277ec51f9d2448a2cae3a421a4046",
+      "alt": "Jeeter Live Resin Disposable | Big Daddy Purple",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-live-resin-disposable-big-daddy-purple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-live-resin-disposable-big-daddy-purple-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.566Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "grimas-grimas-crumble-watermelon-splash",
+  "name": "Grimas Crumble | Watermelon Splash",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 11,
+  "price_max": 11,
+  "currency": "USD",
+  "price_range": "$11.00",
+  "available": true,
+  "vendor": "Grimas",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0bc37505e88cc50bed8f7bc814a48bb5",
+      "alt": "Grimas Crumble | Watermelon Splash",
+      "local": "data\\scraped\\images\\shoppuff-com__grimas-grimas-crumble-watermelon-splash__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 11,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grimas-grimas-crumble-watermelon-splash-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.347Z"
+}

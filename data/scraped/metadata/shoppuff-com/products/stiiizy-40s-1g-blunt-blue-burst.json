@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-40s-1g-blunt-blue-burst",
+  "name": "Stiiizy | 40's 1g Blunt | Blue Burst",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/47c4ee5b7a6b2bc31d9c14931997c982",
+      "alt": "Stiiizy | 40's 1g Blunt | Blue Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-1g-blunt-blue-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-1g-blunt-blue-burst-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.776Z"
+}

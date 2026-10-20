@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-spritzer-orange-mints",
+  "name": "Local Grove Live Rosin | Spritzer + Orange Mints",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Runtz x (Grape Pie x MAC) + Orange Push Pop x Animal Mints \n\nBADDER BLEND: Badder Blend Rosin is crafted by combining water hash from two complementary strains and pressing them together to create a single, unified solventless expression. This process allows terpene profiles to merge during extraction and curing, resulting in a smooth, whipped badder with layered flavor, enhanced depth, and balanced potency. The final product delivers a unique terpene experience that highlights the best characteristics of each strain while maintaining the clean, refined texture and quality Local Grove is known for.",
+  "description_html": "Genetics: Runtz x (Grape Pie x MAC) + Orange Push Pop x Animal Mints <br /><br />BADDER BLEND: Badder Blend Rosin is crafted by combining water hash from two complementary strains and pressing them together to create a single, unified solventless expression. This process allows terpene profiles to merge during extraction and curing, resulting in a smooth, whipped badder with layered flavor, enhanced depth, and balanced potency. The final product delivers a unique terpene experience that highlights the best characteristics of each strain while maintaining the clean, refined texture and quality Local Grove is known for.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/80037b5d8417be49982ac1b735356496",
+      "alt": "Local Grove Live Rosin | Spritzer + Orange Mints",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-spritzer-orange-mints__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-spritzer-orange-mints-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.721Z"
+}

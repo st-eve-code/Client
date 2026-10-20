@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-disposable-smartpuff-granddaddy-purp",
+  "name": "Cannalicious Disposable SmartPuff | Granddaddy Purp",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15.4,
+  "price_max": 15.4,
+  "currency": "USD",
+  "price_range": "$15.40",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/79b29475aaac3dc42bf59e16aebde809",
+      "alt": "Cannalicious Disposable SmartPuff | Granddaddy Purp",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-disposable-smartpuff-granddaddy-purp__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15.4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-disposable-smartpuff-granddaddy-purp-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.770Z"
+}

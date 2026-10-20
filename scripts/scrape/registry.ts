@@ -10,6 +10,7 @@ import { nicotinePouches } from "./sites/vapestore/nicotine-pouches.js";
 import { nicotineGum } from "./sites/vapestore/nicotine-gum.js";
 import { vapeAccessories } from "./sites/vapestore/vape-accessories.js";
 
+
 /**
  * Every category scraper registers here.
  * Add one entry per category (site-agnostic: a category may later collect
@@ -26,6 +27,7 @@ export const scrapers: CategoryScraper[] = [
   nicotinePouches,
   nicotineGum,
   vapeAccessories,
+  // add more category scrapers here
 ];
 
 export function byCategory(name: string): CategoryScraper | undefined {

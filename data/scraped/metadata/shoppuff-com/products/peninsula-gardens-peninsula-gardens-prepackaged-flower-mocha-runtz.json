@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-prepackaged-flower-mocha-runtz",
+  "name": "Peninsula Gardens Prepackaged Flower | Mocha Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "A Runtz BX from Seed Junky. Candy like you’d expect from any good Runtz cross, but has an extra kick of gas.",
+  "description_html": "A Runtz BX from Seed Junky. Candy like you’d expect from any good Runtz cross, but has an extra kick of gas.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1e2a899bd8c512189e50a080230ea486",
+      "alt": "Peninsula Gardens Prepackaged Flower | Mocha Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-prepackaged-flower-mocha-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-prepackaged-flower-mocha-runtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.495Z"
+}

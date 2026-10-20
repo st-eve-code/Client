@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-fresh-canna-live-resin-sour-diesel",
+  "name": "Fresh Canna Live Resin | Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Fuel your day with Fresh Canna’s Live Resin Wax – Sour Diesel, a legendary sativa powerhouse known for its fast-acting, energizing effects and bold, pungent aroma. Made from fresh-frozen cannabis, this terp-rich live resin preserves the strain’s full-spectrum potency for a smooth, flavorful, and hard-hitting experience. Expect sharp citrus, skunky diesel, and earthy spice in every dab, followed by an uplifting cerebral buzz that sparks creativity, focus, and motivation. Whether you need a wake-and-bake boost or a midday pick-me-up, Sour Diesel delivers pure, high-octane energy that keeps you going strong.",
+  "description_html": "Fuel your day with Fresh Canna’s Live Resin Wax – Sour Diesel, a legendary sativa powerhouse known for its fast-acting, energizing effects and bold, pungent aroma. Made from fresh-frozen cannabis, this terp-rich live resin preserves the strain’s full-spectrum potency for a smooth, flavorful, and hard-hitting experience. Expect sharp citrus, skunky diesel, and earthy spice in every dab, followed by an uplifting cerebral buzz that sparks creativity, focus, and motivation. Whether you need a wake-and-bake boost or a midday pick-me-up, Sour Diesel delivers pure, high-octane energy that keeps you going strong.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2597b43b94125ec5d4fcc46e92f956f2",
+      "alt": "Fresh Canna Live Resin | Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-live-resin-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-live-resin-sour-diesel-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.316Z"
+}

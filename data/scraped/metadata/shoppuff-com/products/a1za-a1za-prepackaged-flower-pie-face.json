@@ -1,0 +1,35 @@
+{
+  "slug": "a1za-a1za-prepackaged-flower-pie-face",
+  "name": "A1ZA Prepackaged Flower | Pie Face",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 100,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$100.00",
+  "available": true,
+  "vendor": "A1ZA",
+  "tags": [],
+  "description": "CLOWN OG X SHERB CREAM PIE \nDried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "CLOWN OG X SHERB CREAM PIE <br />Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/816ca4a0dd73cd54d00bcd80fbf5517a",
+      "alt": "A1ZA Prepackaged Flower | Pie Face",
+      "local": "data\\scraped\\images\\shoppuff-com__a1za-a1za-prepackaged-flower-pie-face__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 100,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/a1za-a1za-prepackaged-flower-pie-face-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.358Z"
+}

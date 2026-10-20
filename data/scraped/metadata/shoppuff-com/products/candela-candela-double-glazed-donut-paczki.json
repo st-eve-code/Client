@@ -1,0 +1,35 @@
+{
+  "slug": "candela-candela-double-glazed-donut-paczki",
+  "name": "\"Paczki\" Double Glazed Donut - 1.5G",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Candela",
+  "tags": [],
+  "description": "Paczki \n\nA confection for the senses, Paczki rolls in with a burst of bright citrus—sharp and zesty like lemon or orange glaze over golden dough—before melting into rich, cool waves of ripe berry. It’s the kind of inhale that recalls powdered sugar on your fingertips and jam that sticks to your smile. Hints of pine and a touch of gas emerge subtly in the background, grounding the profile like a warm bakery on a winter morning.",
+  "description_html": "Paczki <br /><br />A confection for the senses, Paczki rolls in with a burst of bright citrus—sharp and zesty like lemon or orange glaze over golden dough—before melting into rich, cool waves of ripe berry. It’s the kind of inhale that recalls powdered sugar on your fingertips and jam that sticks to your smile. Hints of pine and a touch of gas emerge subtly in the background, grounding the profile like a warm bakery on a winter morning. ",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ac192a4332e3ce740c51f9abee98e326",
+      "alt": "\"Paczki\" Double Glazed Donut - 1.5G",
+      "local": "data\\scraped\\images\\shoppuff-com__candela-candela-double-glazed-donut-paczki__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/candela-candela-double-glazed-donut-paczki-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.817Z"
+}

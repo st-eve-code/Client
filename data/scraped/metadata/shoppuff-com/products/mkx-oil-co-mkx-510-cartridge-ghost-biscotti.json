@@ -1,0 +1,40 @@
+{
+  "slug": "mkx-oil-co-mkx-510-cartridge-ghost-biscotti",
+  "name": "MKX 510 Cartridge | Ghost Biscotti",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$8.00 – $12.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/04b99c696b5f2098099e355b425f217c",
+      "alt": "MKX 510 Cartridge | Ghost Biscotti",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-mkx-510-cartridge-ghost-biscotti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-mkx-510-cartridge-ghost-biscotti-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.421Z"
+}

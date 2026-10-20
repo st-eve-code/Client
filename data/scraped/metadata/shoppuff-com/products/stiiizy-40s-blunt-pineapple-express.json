@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-40s-blunt-pineapple-express",
+  "name": "Stiiizy | 40's Blunt | Pineapple Express",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "STIIIZY 40's blunts are rolled with 100% tobacco free, kief dusted wraps. We’ve packed each infused blunt with premium, high quality flower. STIIIZY 40's Blunts are reinventing the experience by introducing unique profiles & unmatched strains with live resin infusion.\n\nPineapple Express is a sativa-dominant hybrid shaped by Trainwreck and Hawaiian, featuring a tropical profile with subtle layered undertones.",
+  "description_html": "STIIIZY 40's blunts are rolled with 100% tobacco free, kief dusted wraps. We’ve packed each infused blunt with premium, high quality flower. STIIIZY 40's Blunts are reinventing the experience by introducing unique profiles & unmatched strains with live resin infusion.<br /><br />Pineapple Express is a sativa-dominant hybrid shaped by Trainwreck and Hawaiian, featuring a tropical profile with subtle layered undertones.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5db14b5942b1470feb832e488fb1a8cb",
+      "alt": "Stiiizy | 40's Blunt | Pineapple Express",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-blunt-pineapple-express__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-blunt-pineapple-express-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.640Z"
+}

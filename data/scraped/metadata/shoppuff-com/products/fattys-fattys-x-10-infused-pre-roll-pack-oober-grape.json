@@ -1,0 +1,35 @@
+{
+  "slug": "fattys-fattys-x-10-infused-pre-roll-pack-oober-grape",
+  "name": "Fatty's x 10 Infused Pre-Roll Pack | Oober Grape",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Fatty's",
+  "tags": [],
+  "description": "0.7g x 10 Infused Pre-Roll Pack\n7g Total",
+  "description_html": "0.7g x 10 Infused Pre-Roll Pack<br />7g Total                                                     <br /><br /><br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bc3b08a8786e1e2a4dec0e16b102ee23",
+      "alt": "Fatty's x 10 Infused Pre-Roll Pack | Oober Grape",
+      "local": "data\\scraped\\images\\shoppuff-com__fattys-fattys-x-10-infused-pre-roll-pack-oober-grape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fattys-fattys-x-10-infused-pre-roll-pack-oober-grape-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.196Z"
+}

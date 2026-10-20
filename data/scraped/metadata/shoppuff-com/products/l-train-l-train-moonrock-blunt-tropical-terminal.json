@@ -1,0 +1,35 @@
+{
+  "slug": "l-train-l-train-moonrock-blunt-tropical-terminal",
+  "name": "L-Train Moonrock Blunt | Tropical Terminal",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "L-Train",
+  "tags": [],
+  "description": "Elevate your smoking experience to celestial heights with our premium Moonrock style Infused Blunt. Crafted for connoisseurs who seek that perfect balance between potency and flavor, this exquisite blunt is a harmonious fusion of top-tier cannabis flower, pure THC distillate, and powdered kief all wrapped in our 100% tobacco free hemp Blunts. Enjoy a burst of flavor and a senses of cultural nostalgia with every puff!\n\nExperience paradise with our Tropical Terminal Blunt. Infused with a vibrant blend of exotic fruit flavors, this premium blunt offers a smooth, refreshing smoking experience. Each puff transports you to a tropical oasis, perfect for a blissful escape any time of day. Enjoy the ultimate fruity getaway with our Tropical Terminal Blunt.",
+  "description_html": "Elevate your smoking experience to celestial heights with our premium Moonrock style Infused Blunt. Crafted for connoisseurs who seek that perfect balance between potency and flavor, this exquisite blunt is a harmonious fusion of top-tier cannabis flower, pure THC distillate, and powdered kief all wrapped in our 100% tobacco free hemp Blunts. Enjoy a burst of flavor and a senses of cultural nostalgia with every puff!<br /><br />Experience paradise with our Tropical Terminal Blunt. Infused with a vibrant blend of exotic fruit flavors, this premium blunt offers a smooth, refreshing smoking experience. Each puff transports you to a tropical oasis, perfect for a blissful escape any time of day. Enjoy the ultimate fruity getaway with our Tropical Terminal Blunt.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a1cbed6d8512cfec8ca829b679c95707",
+      "alt": "L-Train Moonrock Blunt | Tropical Terminal",
+      "local": "data\\scraped\\images\\shoppuff-com__l-train-l-train-moonrock-blunt-tropical-terminal__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/l-train-l-train-moonrock-blunt-tropical-terminal-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.030Z"
+}

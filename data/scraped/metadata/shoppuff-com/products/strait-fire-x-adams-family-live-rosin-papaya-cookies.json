@@ -1,0 +1,35 @@
+{
+  "slug": "strait-fire-x-adams-family-live-rosin-papaya-cookies",
+  "name": "Strait Fire x Adams Family Live Rosin | Papaya Cookies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Strait Fire",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8847d936e0fe37aa943d23bbee80b72b",
+      "alt": "Strait Fire x Adams Family Live Rosin | Papaya Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__strait-fire-x-adams-family-live-rosin-papaya-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/strait-fire-x-adams-family-live-rosin-papaya-cookies-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.581Z"
+}

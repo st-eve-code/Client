@@ -1,0 +1,45 @@
+{
+  "slug": "nura-nura-blueberry-cruffin",
+  "name": "Nura | Blueberry Cruffin",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 95,
+  "currency": "USD",
+  "price_range": "$30.00 – $95.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "We’ve always strived to do one thing: make everyone happy with what they’re smoking. We aspire to be peoples go-to brand for all their smoking needs. Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "description_html": "We’ve always strived to do one thing: make everyone happy with what they’re smoking. We aspire to be peoples go-to brand for all their smoking needs. Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/782b2e70c0c62343e37cd1d2fbadf0db",
+      "alt": "Nura | Blueberry Cruffin",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-nura-blueberry-cruffin__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 95,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-nura-blueberry-cruffin-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.458Z"
+}

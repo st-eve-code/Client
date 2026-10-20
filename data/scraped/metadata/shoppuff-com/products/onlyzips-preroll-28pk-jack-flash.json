@@ -1,0 +1,34 @@
+{
+  "slug": "onlyzips-preroll-28pk-jack-flash",
+  "name": "OnlyZips Preroll 28pk | Jack Flash",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "OnlyZips Preroll 28pk | Jack Flash",
+      "local": "data\\scraped\\images\\shoppuff-com__onlyzips-preroll-28pk-jack-flash__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/onlyzips-preroll-28pk-jack-flash-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.925Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-prepackaged-flower-jar-electric-kool-aid-6-2-of-2",
+  "name": "Peninsula Gardens Prepackaged Flower Jar | Electric Kool-Aid #6 (2 of 2)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours. <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Peninsula Gardens Prepackaged Flower Jar | Electric Kool-Aid #6 (2 of 2)",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-prepackaged-flower-jar-electric-kool-aid-6-2-of-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-prepackaged-flower-jar-electric-kool-aid-6-2-of-2-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.867Z"
+}

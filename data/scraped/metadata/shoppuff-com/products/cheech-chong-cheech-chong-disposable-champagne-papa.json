@@ -1,0 +1,35 @@
+{
+  "slug": "cheech-chong-cheech-chong-disposable-champagne-papa",
+  "name": "Cheech & Chong Disposable | Champagne Papa",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12.49,
+  "price_max": 12.49,
+  "currency": "USD",
+  "price_range": "$12.49",
+  "available": true,
+  "vendor": "Cheech & Chong",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d67ab96c9baced03a33b9f11672f9d6a",
+      "alt": "Cheech & Chong Disposable | Champagne Papa",
+      "local": "data\\scraped\\images\\shoppuff-com__cheech-chong-cheech-chong-disposable-champagne-papa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.49,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cheech-chong-cheech-chong-disposable-champagne-papa-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.695Z"
+}

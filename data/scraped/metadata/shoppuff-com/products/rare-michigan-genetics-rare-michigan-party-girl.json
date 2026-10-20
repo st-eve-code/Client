@@ -1,0 +1,55 @@
+{
+  "slug": "rare-michigan-genetics-rare-michigan-party-girl",
+  "name": "Rare Michigan | Party Girl",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 80,
+  "currency": "USD",
+  "price_range": "$9.00 – $80.00",
+  "available": true,
+  "vendor": "Rare Michigan Genetics",
+  "tags": [],
+  "description": "Party Girl: This Party Girl is a sativa dominant strain with lemon pepper terps that will grip an entire room and demand your full attention. Her flowers are the rock-hard buds you’ve come to expect from RMG with a thick coat of glistening crystals. Party Girl rocks your mind and body evenly as a true party animal should. Your ‘go-to gal’ when it’s time to party!",
+  "description_html": "Party Girl: This Party Girl is a sativa dominant strain with lemon pepper terps that will grip an entire room and demand your full attention. Her flowers are the rock-hard buds you’ve come to expect from RMG with a thick coat of glistening crystals. Party Girl rocks your mind and body evenly as a true party animal should. Your ‘go-to gal’ when it’s time to party!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5d5986f34e941f2586155305981f11e4",
+      "alt": "Rare Michigan | Party Girl",
+      "local": "data\\scraped\\images\\shoppuff-com__rare-michigan-genetics-rare-michigan-party-girl__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rare-michigan-genetics-rare-michigan-party-girl-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.674Z"
+}

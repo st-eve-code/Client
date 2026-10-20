@@ -1,0 +1,35 @@
+{
+  "slug": "lightsky-farms-light-sky-farms-prepackaged-flower-perfect-triangle",
+  "name": "Perfect Triangle",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "LightSky Farms",
+  "tags": [],
+  "description": "Satisfy your inner math-geek with Perfect Triangle, an Indica dominant strain crossed from Perfect OG and TKBX1. These citrusy, earthy-pine, and fuel buds present in beautifully distinct structures and produce calming, uplifted euphoria—perfect for keeping you stress-free and energized throughout the day.",
+  "description_html": "Satisfy your inner math-geek with Perfect Triangle, an Indica dominant strain crossed from Perfect OG and TKBX1. These citrusy, earthy-pine, and fuel buds present in beautifully distinct structures and produce calming, uplifted euphoria—perfect for keeping you stress-free and energized throughout the day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6a62655efa3470c8a43d72a1e4f87814",
+      "alt": "Perfect Triangle",
+      "local": "data\\scraped\\images\\shoppuff-com__lightsky-farms-light-sky-farms-prepackaged-flower-perfect-triangle__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/lightsky-farms-light-sky-farms-prepackaged-flower-perfect-triangle-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.372Z"
+}

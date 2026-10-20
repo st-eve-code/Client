@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-live-resin-frosted-truffle-pie",
+  "name": "Midwest Extracts Live Resin | Frosted Truffle Pie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/931065b0679370836b60dd169309ea30",
+      "alt": "Midwest Extracts Live Resin | Frosted Truffle Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-live-resin-frosted-truffle-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-live-resin-frosted-truffle-pie-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.335Z"
+}

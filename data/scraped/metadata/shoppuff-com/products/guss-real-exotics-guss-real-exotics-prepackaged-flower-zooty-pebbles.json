@@ -1,0 +1,40 @@
+{
+  "slug": "guss-real-exotics-guss-real-exotics-prepackaged-flower-zooty-pebbles",
+  "name": "Gus's Real Exotics Prepackaged Flower | Zooty Pebbles",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 22.5,
+  "price_max": 74.99,
+  "currency": "USD",
+  "price_range": "$22.50 – $74.99",
+  "available": true,
+  "vendor": "Gus's Real Exotics",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/94c8abbf5e9746db2d154e2e67071584",
+      "alt": "Gus's Real Exotics Prepackaged Flower | Zooty Pebbles",
+      "local": "data\\scraped\\images\\shoppuff-com__guss-real-exotics-guss-real-exotics-prepackaged-flower-zooty-pebbles__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 74.99,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 22.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guss-real-exotics-guss-real-exotics-prepackaged-flower-zooty-pebbles-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.205Z"
+}

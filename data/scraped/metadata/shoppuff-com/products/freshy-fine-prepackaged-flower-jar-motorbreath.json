@@ -1,0 +1,35 @@
+{
+  "slug": "freshy-fine-prepackaged-flower-jar-motorbreath",
+  "name": "Freshy Fine Prepackaged Flower Jar | Motorbreath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 75,
+  "price_max": 75,
+  "currency": "USD",
+  "price_range": "$75.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/93cd73a601d5093f12ac665eb7b0cd60",
+      "alt": "Freshy Fine Prepackaged Flower Jar | Motorbreath",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-prepackaged-flower-jar-motorbreath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-prepackaged-flower-jar-motorbreath-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.259Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "smoorhouse-arctic-buds-cotton-candy-fumez",
+  "name": "Smoorhouse | Arctic Buds | Cotton Candy Fumez",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$10.00 – $100.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Bad Apple Candy\nFLAVOR: Sour apple, sweet diesel, candy shell\nTERPENES: Caryophyllene, Limonene, Farnesene\nFEEL: Talkative, confident, sharp with a side of stoned\nVIBE: Night out starter, campfire crew, mood booster\n\nCurated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "description_html": "Bad Apple Candy<br />FLAVOR: Sour apple, sweet diesel, candy shell<br />TERPENES: Caryophyllene, Limonene, Farnesene<br />FEEL: Talkative, confident, sharp with a side of stoned<br />VIBE: Night out starter, campfire crew, mood booster<br /><br />Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Smoorhouse | Arctic Buds | Cotton Candy Fumez",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-arctic-buds-cotton-candy-fumez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 100,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-arctic-buds-cotton-candy-fumez-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.603Z"
+}

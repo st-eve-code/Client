@@ -1,0 +1,35 @@
+{
+  "slug": "rove-rove-0-6g-x-6-infused-preroll-ice-packs-sour-lime-haze",
+  "name": "ROVE | 0.6g x 6 Infused Preroll Ice Packs | Sour Lime Haze",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/71c6074f20382034b1887d0480ba8464",
+      "alt": "ROVE | 0.6g x 6 Infused Preroll Ice Packs | Sour Lime Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-rove-0-6g-x-6-infused-preroll-ice-packs-sour-lime-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.6g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-rove-0-6g-x-6-infused-preroll-ice-packs-sour-lime-haze-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.945Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-pro-disposable-blueberry-lemonade",
+  "name": "Breeze Canna PRO Disposable | Blueberry Lemonade",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Enjoy the perfect summer combo with this refreshing balance of sweet blueberries and tangy lemonade. Enhanced with limonene, humulene, and alpha pinene terpenes, this invigorating blend offers a refreshing experience that's both relaxing and energizing – just like sipping your favorite drink on the porch.",
+  "description_html": "Enjoy the perfect summer combo with this refreshing balance of sweet blueberries and tangy lemonade. Enhanced with limonene, humulene, and alpha pinene terpenes, this invigorating blend offers a refreshing experience that's both relaxing and energizing – just like sipping your favorite drink on the porch.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/eca6f55c6b2fc3422d89546e50266cc8",
+      "alt": "Breeze Canna PRO Disposable | Blueberry Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-pro-disposable-blueberry-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-pro-disposable-blueberry-lemonade-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.401Z"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "7-point-leaf-7-point-leaf-cereal-milk",
+  "name": "7 Point Leaf | Cereal Milk",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$6.00 – $17.00",
+  "available": true,
+  "vendor": "7 Point Leaf",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/92f1c1a9147ad88dd8adab5463c24e0a",
+      "alt": "7 Point Leaf | Cereal Milk",
+      "local": "data\\scraped\\images\\shoppuff-com__7-point-leaf-7-point-leaf-cereal-milk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/7-point-leaf-7-point-leaf-cereal-milk-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.555Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-live-rosin-brush-sour-diesel",
+  "name": "Fresh Canna Live Rosin Brush | Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0ed8bb01788ed8c1fcd78406e15f4bb",
+      "alt": "Fresh Canna Live Rosin Brush | Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-live-rosin-brush-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-live-rosin-brush-sour-diesel-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.285Z"
+}

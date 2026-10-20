@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-lunar-lemon",
+  "name": "Lunar Lemon",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7.5,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$7.50 – $150.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Breeder: Archive Seed Bank \n\nLineage: Lemon Peel x Moonbow #112 \n\nTerpenes: D-Limonene, Caryophyllene, Linalool \n\nAroma: Citrus, Pepper, Sweet \n\nEffects: Creative, energizing, focused \n\nExperience the celestial delight of Lunar Lemon, a multiple award-winning, sativa dominant hybrid crafted by Archive Seed Bank. This unique strain is the harmonious result of blending zesty Lemon Peel with the euphoric Moonbow #112, creating an intense citrus aroma that gracefully matures into a sweet, floral finish. Ideal for indulging in the early hours of the day, Lunar Lemon promises a truly delightful cannabis experience.",
+  "description_html": "Breeder: Archive Seed Bank <br /><br />Lineage: Lemon Peel x Moonbow #112 <br /><br />Terpenes: D-Limonene, Caryophyllene, Linalool <br /><br />Aroma: Citrus, Pepper, Sweet  <br /><br />Effects: Creative, energizing, focused <br /><br />Experience the celestial delight of Lunar Lemon, a multiple award-winning, sativa dominant hybrid crafted by Archive Seed Bank. This unique strain is the harmonious result of blending zesty Lemon Peel with the euphoric Moonbow #112, creating an intense citrus aroma that gracefully matures into a sweet, floral finish. Ideal for indulging in the early hours of the day, Lunar Lemon promises a truly delightful cannabis experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/652505eeae36b033f88b96c0760d9d99",
+      "alt": "Lunar Lemon",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-lunar-lemon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 22.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 82.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-lunar-lemon-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.910Z"
+}

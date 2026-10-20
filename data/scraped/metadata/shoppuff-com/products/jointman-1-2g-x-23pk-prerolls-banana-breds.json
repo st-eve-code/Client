@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-1-2g-x-23pk-prerolls-banana-breds",
+  "name": "Jointman | 1.2g x 23pk Prerolls | Banana Breds",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Step onto the court with the undisputed GOAT of pre-rolls. Jointman’s 23-Pack delivers 23 premium joints, each packed with 1.2 grams of top-shelf flower, — a smooth, clean burn that scores every time.",
+  "description_html": "Step onto the court with the undisputed GOAT of pre-rolls. Jointman’s 23-Pack delivers 23 premium joints, each packed with 1.2 grams of top-shelf flower, — a smooth, clean burn that scores every time.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ffd3e7d1f241354d2882717b16a07e8c",
+      "alt": "Jointman | 1.2g x 23pk Prerolls | Banana Breds",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-1-2g-x-23pk-prerolls-banana-breds__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-1-2g-x-23pk-prerolls-banana-breds-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.592Z"
+}

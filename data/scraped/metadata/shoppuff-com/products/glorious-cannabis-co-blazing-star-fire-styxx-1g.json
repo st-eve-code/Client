@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-cannabis-co-blazing-star-fire-styxx-1g",
+  "name": "Blazing Star Fire Styxx | 1G",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Bursting with peach flavor, Blazing Star delivers a fruity and creamy sweet adventure for your taste buds! This delightful blend will have you reaching for the stars. Slow Burn. Better High.",
+  "description_html": "Bursting with peach flavor, Blazing Star delivers a fruity and creamy sweet adventure for your taste buds! This delightful blend will have you reaching for the stars. Slow Burn. Better High.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e110c2b7bb623b4f7127f800ad8aaed1",
+      "alt": "Blazing Star Fire Styxx | 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-blazing-star-fire-styxx-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-blazing-star-fire-styxx-1g-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:20.711Z"
+}

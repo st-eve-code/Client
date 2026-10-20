@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-prepackaged-flower-pineapple-fruz",
+  "name": "Seed Junky Prepackaged Flower | Pineapple Fruz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Pineapple Fruz is a sativa with bright flavors of sweet ripe tropical fruit and a gassy OG aroma. The effects are euphoric and perfect for a creative day.",
+  "description_html": "Pineapple Fruz is a sativa with bright flavors of sweet ripe tropical fruit and a gassy OG aroma. The effects are euphoric and perfect for a creative day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d49670008b1b348f044d476fb34a3a1d",
+      "alt": "Seed Junky Prepackaged Flower | Pineapple Fruz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-prepackaged-flower-pineapple-fruz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-prepackaged-flower-pineapple-fruz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.708Z"
+}

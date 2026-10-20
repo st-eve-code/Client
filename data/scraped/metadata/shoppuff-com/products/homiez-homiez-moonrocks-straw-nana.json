@@ -1,0 +1,45 @@
+{
+  "slug": "homiez-homiez-moonrocks-straw-nana",
+  "name": "Homiez | Moonrocks | Straw Nana",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 49.5,
+  "currency": "USD",
+  "price_range": "$15.00 – $49.50",
+  "available": true,
+  "vendor": "HOMIEZ",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/69ac2ee88e6e70a309174e40101ac6cf",
+      "alt": "Homiez | Moonrocks | Straw Nana",
+      "local": "data\\scraped\\images\\shoppuff-com__homiez-homiez-moonrocks-straw-nana__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 49.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/homiez-homiez-moonrocks-straw-nana-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.506Z"
+}

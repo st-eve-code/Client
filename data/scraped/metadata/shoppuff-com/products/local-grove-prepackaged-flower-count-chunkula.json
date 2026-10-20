@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-prepackaged-flower-count-chunkula",
+  "name": "Local Grove Prepackaged Flower | Alpha Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 120,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$120.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Local Grove Prepackaged Flower | Alpha Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-prepackaged-flower-count-chunkula__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 120,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-prepackaged-flower-count-chunkula-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.338Z"
+}

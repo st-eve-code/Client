@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-minntz-preroll-bubble-bath",
+  "name": "Minntz Preroll | Bubble Bath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Fruity and refreshing aromas awaken the senses in this India leaning flavor, delivering a crisp, tropical-forward profile. Its effects are calm and clear-headed, helping you stay focused and productive while maintaining a relaxed state of mind.",
+  "description_html": "Fruity and refreshing aromas awaken the senses in this India leaning flavor, delivering a crisp, tropical-forward profile. Its effects are calm and clear-headed, helping you stay focused and productive while maintaining a relaxed state of mind.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/61d45d682ad576b72ef1f143cf6a7671",
+      "alt": "Minntz Preroll | Bubble Bath",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-preroll-bubble-bath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-preroll-bubble-bath-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.901Z"
+}

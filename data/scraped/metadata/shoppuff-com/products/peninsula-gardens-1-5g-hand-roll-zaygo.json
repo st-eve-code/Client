@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-1-5g-hand-roll-zaygo",
+  "name": "Peninsula Gardens | 1.5g Hand Roll | Zaygo",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Cookies & Cream x Red Pop. Lots of strawberry red pop flavor and smell. Extremely frosty flower with speckles of bright green and purple throughout. Similar to our Bahama Berry and Strawberries and Cream so if you like either of those this is right up your alley.",
+  "description_html": "Cookies & Cream x Red Pop. Lots of strawberry red pop flavor and smell. Extremely frosty flower with speckles of bright green and purple throughout. Similar to our Bahama Berry and Strawberries and Cream so if you like either of those this is right up your alley.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0da1c05ddb5e7289eeb16a8c8c45bfa2",
+      "alt": "Peninsula Gardens | 1.5g Hand Roll | Zaygo",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-1-5g-hand-roll-zaygo__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-1-5g-hand-roll-zaygo-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.566Z"
+}

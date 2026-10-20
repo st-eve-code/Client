@@ -1,0 +1,35 @@
+{
+  "slug": "rosslyn-live-rosin-deep-fried-ice-cream",
+  "name": "Rosslyn Live Rosin | Deep Fried Ice Cream",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Rosslyn",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/90bb8a2ebb8be670e6df9a9e56ba54f9",
+      "alt": "Rosslyn Live Rosin | Deep Fried Ice Cream",
+      "local": "data\\scraped\\images\\shoppuff-com__rosslyn-live-rosin-deep-fried-ice-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rosslyn-live-rosin-deep-fried-ice-cream-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.275Z"
+}

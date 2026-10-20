@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-crumble-baller-jar-biker-kush",
+  "name": "Cannalicious Crumble Baller Jar | Biker Kush",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "7g Crumble Jar",
+  "description_html": "7g Crumble Jar",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2019da9df39b25bf837cd717e926b6f9",
+      "alt": "Cannalicious Crumble Baller Jar | Biker Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-crumble-baller-jar-biker-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-crumble-baller-jar-biker-kush-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.944Z"
+}

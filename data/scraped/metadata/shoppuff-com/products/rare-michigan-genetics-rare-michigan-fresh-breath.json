@@ -1,0 +1,60 @@
+{
+  "slug": "rare-michigan-genetics-rare-michigan-fresh-breath",
+  "name": "Rare Michigan | Fresh Breath",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Rare Michigan Genetics",
+  "tags": [],
+  "description": "Fresh Breath: Experience the potent effects of this premium cannabis flower. Boasting a pungent, grapy gas aroma, this strain features rock hard buds covered in huge trichomes. Prepare for a heavy, powerful high that delivers a deeply relaxing and euphoric experience.",
+  "description_html": "Fresh Breath: Experience the potent effects of this premium cannabis flower. Boasting a pungent, grapy gas aroma, this strain features rock hard buds covered in huge trichomes. Prepare for a heavy, powerful high that delivers a deeply relaxing and euphoric experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5d5986f34e941f2586155305981f11e4",
+      "alt": "Rare Michigan | Fresh Breath",
+      "local": "data\\scraped\\images\\shoppuff-com__rare-michigan-genetics-rare-michigan-fresh-breath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rare-michigan-genetics-rare-michigan-fresh-breath-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.280Z"
+}

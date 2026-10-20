@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-white-rhino-glass-tips",
+  "name": "White Rhino Glass Tips",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "White Rhino Glass Tips",
+  "description_html": "White Rhino Glass Tips                                                                                     <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/33672d2570dd0a5093b996d0fa2be392",
+      "alt": "White Rhino Glass Tips",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-white-rhino-glass-tips__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-white-rhino-glass-tips-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.893Z"
+}

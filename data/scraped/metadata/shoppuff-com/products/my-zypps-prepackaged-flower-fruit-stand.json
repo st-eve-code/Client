@@ -1,0 +1,35 @@
+{
+  "slug": "my-zypps-prepackaged-flower-fruit-stand",
+  "name": "My Zypps - Ounce - Fruit Stand",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Zypps",
+  "tags": [],
+  "description": "Sun-grown, full-bud, full ounce. The My Zypps Fruit Stand ounce delivers a full 28 grams of quality sun-grown flower — cured for full flavor and a smooth, even burn.\n\nFruit Stand brings a fresh, fruit-forward profile: ripe mixed fruit and berry sweetness up front with a bright, juicy finish.\n\n28G sun-grown flower — full ounce of whole bud\nBest value — full-ounce pricing at the lowest cost per gram\nSignature Fruit Stand flavor — ripe mixed fruit and berry with a juicy finish\n\nMy Zypps Fruit Stand is ready whenever you are.\n\nFor adult use only. Must be 21+. Keep out of reach of children and pets.",
+  "description_html": "Sun-grown, full-bud, full ounce. The My Zypps Fruit Stand ounce delivers a full 28 grams of quality sun-grown flower — cured for full flavor and a smooth, even burn.<br /><br />Fruit Stand brings a fresh, fruit-forward profile: ripe mixed fruit and berry sweetness up front with a bright, juicy finish.<br /><br />28G sun-grown flower — full ounce of whole bud<br />Best value — full-ounce pricing at the lowest cost per gram<br />Signature Fruit Stand flavor — ripe mixed fruit and berry with a juicy finish<br /><br />My Zypps Fruit Stand is ready whenever you are.<br /><br />For adult use only. Must be 21+. Keep out of reach of children and pets.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f3ad6bf838d96397685fd9380a16ab5d",
+      "alt": "My Zypps - Ounce - Fruit Stand",
+      "local": "data\\scraped\\images\\shoppuff-com__my-zypps-prepackaged-flower-fruit-stand__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/my-zypps-prepackaged-flower-fruit-stand-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.843Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-wet-p",
+  "name": "Heavyweight Heads | Wet P",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 62.5,
+  "currency": "USD",
+  "price_range": "$3.00 – $62.50",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "Wet Paint is a pheno of the well-known gorilla glue strain, that draws most of its traits from the chocolate diesel parent. These dense buds have a diesel aroma, with flavors of chem and bubblegum. This indica-leaning hybrid will soon be a favorite.",
+  "description_html": "Wet Paint is a pheno of the well-known gorilla glue strain, that draws most of its traits from the chocolate diesel parent. These dense buds have a diesel aroma, with flavors of chem and bubblegum. This indica-leaning hybrid will soon be a favorite.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3398e5f263392daecac6c6944e8030d8",
+      "alt": "Heavyweight Heads | Wet P",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-wet-p__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 37.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 62.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-wet-p-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.506Z"
+}

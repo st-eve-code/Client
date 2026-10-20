@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-0-5g-x-7-infused-prerolls-pink-lemonade",
+  "name": "Berry Green | 0.5g x 7 Infused Prerolls | Pink Lemonade",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Sweet, sour, and sharp. A fast spark that wakes up the room and keeps you lit.\n\nEffect: Instant mood boost — perfect for daytime hustle or night-out vibes.",
+  "description_html": "Sweet, sour, and sharp. A fast spark that wakes up the room and keeps you lit.<br /><br />Effect: Instant mood boost — perfect for daytime hustle or night-out vibes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b72eff9a64ea59da268ca35e75dc664a",
+      "alt": "Berry Green | 0.5g x 7 Infused Prerolls | Pink Lemonade",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-0-5g-x-7-infused-prerolls-pink-lemonade__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-0-5g-x-7-infused-prerolls-pink-lemonade-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.733Z"
+}

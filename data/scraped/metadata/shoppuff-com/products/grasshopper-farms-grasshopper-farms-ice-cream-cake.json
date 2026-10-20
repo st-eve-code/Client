@@ -1,0 +1,60 @@
+{
+  "slug": "grasshopper-farms-grasshopper-farms-ice-cream-cake",
+  "name": "Grasshopper Farms | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Copper-colored pistils shimmer on the vibrant green buds of this sun-grown, Indica-dominant hybrid, reminiscent of sprinkles on its namesake. Its delightful aroma boasts nutty undertones with a touch of vanilla, delivering a sweet, creamy smoke that’s gentle on the lungs. The soothing effects on both the mind and body make it the perfect companion for a cozy night in—whether you’re binge-watching your favorite show or curling up in bed and letting your imagination soar.",
+  "description_html": "Copper-colored pistils shimmer on the vibrant green buds of this sun-grown, Indica-dominant hybrid, reminiscent of sprinkles on its namesake. Its delightful aroma boasts nutty undertones with a touch of vanilla, delivering a sweet, creamy smoke that’s gentle on the lungs. The soothing effects on both the mind and body make it the perfect companion for a cozy night in—whether you’re binge-watching your favorite show or curling up in bed and letting your imagination soar.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/73cf43d92ed953955dc405de15ebd671",
+      "alt": "Grasshopper Farms | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-grasshopper-farms-ice-cream-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 34,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-grasshopper-farms-ice-cream-cake-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.686Z"
+}

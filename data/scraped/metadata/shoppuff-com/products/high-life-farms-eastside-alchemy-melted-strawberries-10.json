@@ -1,0 +1,60 @@
+{
+  "slug": "high-life-farms-eastside-alchemy-melted-strawberries-10",
+  "name": "Eastside Alchemy | Melted Strawberries #10",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 79,
+  "currency": "USD",
+  "price_range": "$5.00 – $79.00",
+  "available": true,
+  "vendor": "Eastside Alchemy",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f28a428b35443383817476fe919b11d3",
+      "alt": "Eastside Alchemy | Melted Strawberries #10",
+      "local": "data\\scraped\\images\\shoppuff-com__high-life-farms-eastside-alchemy-melted-strawberries-10__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 79,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/high-life-farms-eastside-alchemy-melted-strawberries-10-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.769Z"
+}

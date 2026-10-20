@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-1-3g-infused-cannon-northern-blue",
+  "name": "Northern Blue Live Resin Cannon | 1.3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 18.75,
+  "price_max": 18.75,
+  "currency": "USD",
+  "price_range": "$18.75",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Introducing the NEW Cannon Live Resin. What sets these Cannons apart is their premium flower combined with 100% live resin, delivering a full spectrum high terpene extract made from fresh frozen flower.",
+  "description_html": "Introducing the NEW Cannon Live Resin. What sets these Cannons apart is their premium flower combined with 100% live resin, delivering a full spectrum high terpene extract made from fresh frozen flower.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/76719b1cb39518a24a01b839403f13ec",
+      "alt": "Northern Blue Live Resin Cannon | 1.3g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-1-3g-infused-cannon-northern-blue__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 18.75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-1-3g-infused-cannon-northern-blue-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.042Z"
+}

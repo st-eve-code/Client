@@ -1,0 +1,60 @@
+{
+  "slug": "cresco-cresco-laughing-buddha-smalls",
+  "name": "Cresco | Laughing Buddha Smalls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 89,
+  "currency": "USD",
+  "price_range": "$5.00 – $89.00",
+  "available": true,
+  "vendor": "Cresco",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f66100c8892d8c8205623b1429cb90cb",
+      "alt": "Cresco | Laughing Buddha Smalls",
+      "local": "data\\scraped\\images\\shoppuff-com__cresco-cresco-laughing-buddha-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 89,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cresco-cresco-laughing-buddha-smalls-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.939Z"
+}

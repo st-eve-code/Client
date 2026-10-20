@@ -1,0 +1,35 @@
+{
+  "slug": "rove-infused-preroll-ice-packs-frosted-melon",
+  "name": "Frosted Melon - Infused Ice Packs (Rosin, Hash, and Diamonds) 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "A perfectly balanced hybrid with a crisp, juicy sweetness and a smooth, easy finish. Ideal for those in-between moments when you want good vibes without losing your spark.",
+  "description_html": "A perfectly balanced hybrid with a crisp, juicy sweetness and a smooth, easy finish. Ideal for those in-between moments when you want good vibes without losing your spark.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/887af8bbef50922cc24cf4ef74aad933",
+      "alt": "Frosted Melon - Infused Ice Packs (Rosin, Hash, and Diamonds) 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-infused-preroll-ice-packs-frosted-melon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-infused-preroll-ice-packs-frosted-melon-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.406Z"
+}

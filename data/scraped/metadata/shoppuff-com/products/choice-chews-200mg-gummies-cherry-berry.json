@@ -1,0 +1,35 @@
+{
+  "slug": "choice-chews-200mg-gummies-cherry-berry",
+  "name": "Choice Chews | 200mg Gummies | Cherry Berry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Choice Chews",
+  "tags": [],
+  "description": "Relax and unwind with our award winning Choice Chew Cherry Berry gummies! We harnessed the untamed fruit flavor of one of Michigan's most prized specialty crops and combined it with the calming power of an indica to create the perfect marriage of flavor and feels. \n\nMade from scratch and infused with premium, high potency oil it's no wonder that Choice Chew Cherry Berry gummies are number one!",
+  "description_html": "Relax and unwind with our award winning Choice Chew Cherry Berry gummies! We harnessed the untamed fruit flavor of one of Michigan's most prized specialty crops and combined it with the calming power of an indica to create the perfect marriage of flavor and feels. <br /><br />Made from scratch and infused with premium, high potency oil it's no wonder that Choice Chew Cherry Berry gummies are number one!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7a37a48248de7cc5e8641d61ee28f184",
+      "alt": "Choice Chews | 200mg Gummies | Cherry Berry",
+      "local": "data\\scraped\\images\\shoppuff-com__choice-chews-200mg-gummies-cherry-berry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.8125g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/choice-chews-200mg-gummies-cherry-berry-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.020Z"
+}

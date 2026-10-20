@@ -1,0 +1,60 @@
+{
+  "slug": "gans-gans-pink-panther",
+  "name": "GANS | Pink Panther",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 179,
+  "currency": "USD",
+  "price_range": "$10.00 – $179.00",
+  "available": true,
+  "vendor": "GANS",
+  "tags": [],
+  "description": "Grape Fuego is known for a complex profile combining grape, spiced rum, and gasoline aromas. Lineage: It is a cross between Grape Pie and Horchata.",
+  "description_html": "Grape Fuego is known for a complex profile combining grape, spiced rum, and gasoline aromas.  Lineage: It is a cross between Grape Pie and Horchata.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9ced17136fcb5d2535c7566231f03c3c",
+      "alt": "GANS | Pink Panther",
+      "local": "data\\scraped\\images\\shoppuff-com__gans-gans-pink-panther__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 95,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 179,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gans-gans-pink-panther-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.839Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "glorious-cannabis-co-hot-lanta",
+  "name": "Hot Lanta",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Unique strains, carefully bred to produce trichomes and terpene profiles that are the epitome of flavor and effect.",
+  "description_html": "Unique strains, carefully bred to produce trichomes and terpene profiles that are the epitome of flavor and effect.<br /><br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2db2871aad5f8391371d8f8401ea9625",
+      "alt": "Hot Lanta",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-hot-lanta__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-hot-lanta-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.885Z"
+}

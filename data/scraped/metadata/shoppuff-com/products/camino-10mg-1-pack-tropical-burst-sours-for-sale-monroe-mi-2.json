@@ -1,0 +1,35 @@
+{
+  "slug": "camino-10mg-1-pack-tropical-burst-sours-for-sale-monroe-mi-2",
+  "name": "Camino | 10mg 1 Pack | Tropical Burst Sours",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 2,
+  "price_max": 2,
+  "currency": "USD",
+  "price_range": "$2.00",
+  "available": true,
+  "vendor": "Camino",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/251d26107aabc33b17b3efa0837aa6b7",
+      "alt": "Camino | 10mg 1 Pack | Tropical Burst Sours",
+      "local": "data\\scraped\\images\\shoppuff-com__camino-10mg-1-pack-tropical-burst-sours-for-sale-monroe-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".2g",
+      "price": 2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/camino-10mg-1-pack-tropical-burst-sours-for-sale-monroe-mi-2/",
+  "scraped_at": "2026-10-10T22:31:21.636Z"
+}

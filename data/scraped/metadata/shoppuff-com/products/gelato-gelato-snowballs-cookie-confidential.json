@@ -1,0 +1,55 @@
+{
+  "slug": "gelato-gelato-snowballs-cookie-confidential",
+  "name": "Gelato | Snowballs | Cookie Confidential",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 9,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$9.00 – $99.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/07c9d90d3fe4140a79f1051933bf4833",
+      "alt": "Gelato | Snowballs | Cookie Confidential",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-snowballs-cookie-confidential__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-snowballs-cookie-confidential-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.646Z"
+}

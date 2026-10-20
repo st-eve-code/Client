@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-prepackaged-flower-plan-z",
+  "name": "Peninsula Gardens Prepackaged Flower | Plan Z",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 99,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$99.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "A Rainbow Beltz 2.0 pheno. Bred by Archive and hunted by @monopolymeltz. Z terps for days. Bright green flowers that like most Zkittlez crosses aren't the prettiest but make up for it in flavor. A nice mellow high that also is an amazing hasher.",
+  "description_html": "A Rainbow Beltz 2.0 pheno. Bred by Archive and hunted by @monopolymeltz. Z terps for days. Bright green flowers that like most Zkittlez crosses aren't the prettiest but make up for it in flavor. A nice mellow high that also is an amazing hasher.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/79e61b1880cd5b8697c8f9e5de92be43",
+      "alt": "Peninsula Gardens Prepackaged Flower | Plan Z",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-prepackaged-flower-plan-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-prepackaged-flower-plan-z-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.778Z"
+}

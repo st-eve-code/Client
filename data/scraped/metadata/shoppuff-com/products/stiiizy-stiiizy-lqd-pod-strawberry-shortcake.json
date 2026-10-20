@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-lqd-pod-strawberry-shortcake",
+  "name": "Stiiizy LQD Pod | Strawberry Shortcake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 11.2,
+  "price_max": 11.2,
+  "currency": "USD",
+  "price_range": "$11.20",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Strawberry Shortcake is an indica with a berry and indulgent sensory profile. It highlights ripe strawberry and creamy notes.",
+  "description_html": "Strawberry Shortcake is an indica with a berry and indulgent sensory profile. It highlights ripe strawberry and creamy notes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/91a3096639545963732422ac7e9d9517",
+      "alt": "Stiiizy LQD Pod | Strawberry Shortcake",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-lqd-pod-strawberry-shortcake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 11.2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-lqd-pod-strawberry-shortcake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.530Z"
+}

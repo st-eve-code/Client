@@ -1,0 +1,35 @@
+{
+  "slug": "gas-hunters-gas-hunters-x-28-pre-roll-pack-super-boof",
+  "name": "Gas Hunters x 28 Pre-Roll Pack | Super Boof",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 29.99,
+  "price_max": 29.99,
+  "currency": "USD",
+  "price_range": "$29.99",
+  "available": true,
+  "vendor": "GAS HUNTERS",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/157d5f841e34b118ae18486bd3f4feb1",
+      "alt": "Gas Hunters x 28 Pre-Roll Pack | Super Boof",
+      "local": "data\\scraped\\images\\shoppuff-com__gas-hunters-gas-hunters-x-28-pre-roll-pack-super-boof__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 29.99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gas-hunters-gas-hunters-x-28-pre-roll-pack-super-boof-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.354Z"
+}

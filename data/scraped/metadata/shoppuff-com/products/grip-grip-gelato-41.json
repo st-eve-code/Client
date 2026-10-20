@@ -1,0 +1,50 @@
+{
+  "slug": "grip-grip-gelato-41",
+  "name": "Grip | Gelato 41",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$5.00 – $12.00",
+  "available": true,
+  "vendor": "Grip",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Grip | Gelato 41",
+      "local": "data\\scraped\\images\\shoppuff-com__grip-grip-gelato-41__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 7.5,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grip-grip-gelato-41-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.497Z"
+}

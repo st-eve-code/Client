@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-ice-cream-cake-3-5g",
+  "name": "Local Grove | Ice Cream Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 179,
+  "currency": "USD",
+  "price_range": "$10.00 – $179.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Gelato #33 x Wedding Cake\n\nBreeder: Seed Junky Genetics\n\nSelected by: Local Grove (seed hunt, in-house pheno)\n\nAroma & Flavor: Vanilla cream layered with strong gas\n\nEffects: Indica-dominant – relaxing body high with sweet, gassy undertones",
+  "description_html": "Genetics: Gelato #33 x Wedding Cake<br /><br />Breeder: Seed Junky Genetics<br /><br />Selected by: Local Grove (seed hunt, in-house pheno)<br /><br />Aroma & Flavor: Vanilla cream layered with strong gas<br /><br />Effects: Indica-dominant – relaxing body high with sweet, gassy undertones",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ffa1613e730372cdd6690bf02b667301",
+      "alt": "Local Grove | Ice Cream Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-ice-cream-cake-3-5g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 95,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 179,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-ice-cream-cake-3-5g-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.310Z"
+}

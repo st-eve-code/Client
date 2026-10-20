@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-runtz-pre-roll-pack",
+  "name": "Top Smoke - Runtz Pre-Roll Pack",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Runtz is a hybrid strain created by crossing Gelato x Zkittlez. Top Smoke 28 one gram pre-rolls.",
+  "description_html": "Runtz is a hybrid strain created by crossing Gelato x Zkittlez. Top Smoke 28 one gram pre-rolls.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2acafa9c352965f531d9489e963afc0d",
+      "alt": "Top Smoke - Runtz Pre-Roll Pack",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-runtz-pre-roll-pack__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-runtz-pre-roll-pack-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.865Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-persy-rosin-pod-mad-honey-42",
+  "name": "710 labs Persy Rosin Pod | Mad Honey #42",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 65,
+  "price_max": 65,
+  "currency": "USD",
+  "price_range": "$65.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/82b66d730a030620b463dc8777dc8950",
+      "alt": "710 labs Persy Rosin Pod | Mad Honey #42",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-persy-rosin-pod-mad-honey-42__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".5g",
+      "price": 65,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-persy-rosin-pod-mad-honey-42-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.286Z"
+}

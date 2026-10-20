@@ -1,0 +1,35 @@
+{
+  "slug": "the-limit-the-limit-live-resin-forbidden-fruit",
+  "name": "The Limit Live Resin | Forbidden Fruit",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "The Limit",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0ee283b78168f9117a9d709652bb07cd",
+      "alt": "The Limit Live Resin | Forbidden Fruit",
+      "local": "data\\scraped\\images\\shoppuff-com__the-limit-the-limit-live-resin-forbidden-fruit__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-limit-the-limit-live-resin-forbidden-fruit-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.448Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-disposable-gruntz",
+  "name": "Mitten Extracts Disposable | Gruntz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Gruntz is made by crossing Gelato and Skittles, Gruntz produces an uplifting sensation that leaves consumers feeling focused, tingly and euphoric. Gruntz has a tropical flavor profile, with undertones of grapefruit.",
+  "description_html": "Gruntz is made by crossing Gelato and Skittles, Gruntz produces an uplifting sensation that leaves consumers feeling focused, tingly and euphoric. Gruntz has a tropical flavor profile, with undertones of grapefruit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3af3c36bcae15cac3b849bb78b73883d",
+      "alt": "Mitten Extracts Disposable | Gruntz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-disposable-gruntz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-disposable-gruntz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.305Z"
+}

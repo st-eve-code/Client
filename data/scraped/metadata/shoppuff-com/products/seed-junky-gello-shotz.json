@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-gello-shotz",
+  "name": "Seed Junky | Gello Shotz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$6.00 – $120.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Gello Shotz is a bright sativa with a tropical feel that produces a strong flavor of lime skittles. Gello Shotz gives you a boost of energy and creativity making this great for daytime use.",
+  "description_html": "Gello Shotz is a bright sativa with a tropical feel that produces a strong flavor of lime skittles. Gello Shotz gives you a boost of energy and creativity making this great for daytime use.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ba21be5ede151a82c2ce15f230033c6b",
+      "alt": "Seed Junky | Gello Shotz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-gello-shotz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 120,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 66,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 36,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-gello-shotz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.287Z"
+}

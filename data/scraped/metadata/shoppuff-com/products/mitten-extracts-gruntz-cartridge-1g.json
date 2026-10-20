@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-gruntz-cartridge-1g",
+  "name": "Gruntz Cartridge | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Gruntz (Hybrid) 1g\n\nGruntz is made by crossing Gelato and Skittles, Gruntz produces an uplifting sensation that leaves consumers feeling focused, tingly and euphoric. Gruntz has a tropical flavor profile, with undertones of grapefruit.",
+  "description_html": "Gruntz (Hybrid) 1g<br /><br />Gruntz is made by crossing Gelato and Skittles, Gruntz produces an uplifting sensation that leaves consumers feeling focused, tingly and euphoric. Gruntz has a tropical flavor profile, with undertones of grapefruit.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/081a8bdc0c2167b5758d02bf5259a0a9",
+      "alt": "Gruntz Cartridge | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-gruntz-cartridge-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-gruntz-cartridge-1g-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.776Z"
+}

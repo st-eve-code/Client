@@ -1,0 +1,60 @@
+{
+  "slug": "minntz-minntz-king-perm",
+  "name": "Minntz | King Perm",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$6.00 – $120.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3440ac2d868cc7594b2e8e27abdd511c",
+      "alt": "Minntz | King Perm",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-king-perm__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 66,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 120,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 36,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-king-perm-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.578Z"
+}

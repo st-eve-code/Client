@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-1g-pre-roll-gas-face",
+  "name": "Seed Junky | 1g Pre-Roll | Gas Face",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Gas Face cannabis will check all the boxes—it's glistening, stanky, and dense, with a thick, strong smoke. Medical marijuana patients report Gas Face helping ease depression, stress, and anxiety, and consumers enjoy Gas Face weed for its creative, relaxing, and uplifting effects.",
+  "description_html": "Gas Face cannabis will check all the boxes—it's glistening, stanky, and dense, with a thick, strong smoke. Medical marijuana patients report Gas Face helping ease depression, stress, and anxiety, and consumers enjoy Gas Face weed for its creative, relaxing, and uplifting effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9750e606505ef210685eb5c9387a0c4c",
+      "alt": "Seed Junky | 1g Pre-Roll | Gas Face",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-1g-pre-roll-gas-face__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-1g-pre-roll-gas-face-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.027Z"
+}

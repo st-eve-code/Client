@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-0-65g-x-23pk-infused-prerolls-witches-brew",
+  "name": "Jointman | 0.65g x 23pk Infused Prerolls | Witches Brew",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Jointman",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2220a7a935a7ff113bc827001bd19c7d",
+      "alt": "Jointman | 0.65g x 23pk Infused Prerolls | Witches Brew",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-0-65g-x-23pk-infused-prerolls-witches-brew__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-0-65g-x-23pk-infused-prerolls-witches-brew-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.942Z"
+}

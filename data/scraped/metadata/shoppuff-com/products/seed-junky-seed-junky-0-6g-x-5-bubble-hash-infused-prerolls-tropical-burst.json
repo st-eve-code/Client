@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-0-6g-x-5-bubble-hash-infused-prerolls-tropical-burst",
+  "name": "Seed Junky | 0.6g x 5 Bubble Hash Infused Prerolls | Tropical Burst",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Single sourced hash infused pre-rolls. New premium indoor flavors, double the hash! No shake, no trim, double the hash!",
+  "description_html": "Single sourced hash infused pre-rolls. New premium indoor flavors, double the hash! No shake, no trim, double the hash!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/070512e61ce7431bd07a348e72e507c4",
+      "alt": "Seed Junky | 0.6g x 5 Bubble Hash Infused Prerolls | Tropical Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-0-6g-x-5-bubble-hash-infused-prerolls-tropical-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-0-6g-x-5-bubble-hash-infused-prerolls-tropical-burst-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.799Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "pharmacann-pharmacann-cherry-x-perm-shake",
+  "name": "PharmaCann | Cherry x Perm (Shake)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$3.00 – $40.00",
+  "available": true,
+  "vendor": "PharmaCann",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "PharmaCann | Cherry x Perm (Shake)",
+      "local": "data\\scraped\\images\\shoppuff-com__pharmacann-pharmacann-cherry-x-perm-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pharmacann-pharmacann-cherry-x-perm-shake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.699Z"
+}

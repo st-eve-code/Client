@@ -1,0 +1,52 @@
+{
+  "slug": "candy-coated-bitez-gummies-500mg-baggiez-delta-9-blue-razz",
+  "name": "Candy Coated BITEZ Gummies 500mg Baggiez | Delta-9 | Blue Razz",
+  "site": "ochoextracts-com",
+  "category": "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+  "price_min": 5.99,
+  "price_max": 5.99,
+  "currency": "GBP",
+  "price_range": "£5.99",
+  "available": true,
+  "sku": "OE-D9-BITEZ-BR",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "CANDY COATED D9",
+    "Delta-9",
+    "Gummies",
+    "Ocho Extracts"
+  ],
+  "description": "Blue Raspberry gets the full candy-coated treatment. Blue Razz Candy Coated Double-Stacked Delta-9 BITEZ burst with that classic blue raspberry combination of juicy berry sweetness and mouth-puckering tartness, wrapped in a layer of tiny, colorful crunchy candies. Beneath the crunch are two soft, chewy gummy layers with 50mg of hemp-derived Delta-9 THC in each gummy, bringing tangy flavor, candy crunch, satisfying chew, and Delta-9 together in every bite.",
+  "description_html": "<p class=\"PDq2pG_selectionAnchorContainer\"><meta charset=\"utf-8\"><strong>Blue Raspberry gets the full candy-coated treatment.</strong> Blue Razz Candy Coated Double-Stacked Delta-9 BITEZ burst with that classic blue raspberry combination of <strong>juicy berry sweetness and mouth-puckering tartness</strong>, wrapped in a layer of tiny, colorful crunchy candies. Beneath the crunch are <strong>two soft, chewy gummy layers with 50mg of hemp-derived Delta-9 THC in each gummy</strong>, bringing tangy flavor, candy crunch, satisfying chew, and Delta-9 together in every bite.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-GUMMY-BR.png?v=1789076831",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-blue-razz__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/CC-BITEZ-BAGGY-BR.png?v=1789063413",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__candy-coated-bitez-gummies-500mg-baggiez-delta-9-blue-razz__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46609133830330,
+      "title": "Default Title",
+      "price": 5.99,
+      "sku": "OE-D9-BITEZ-BR",
+      "available": true
+    }
+  ],
+  "collections": [
+    "candy-coated-double-stacked-bitez-gummies-delta-9-500mg",
+    "double-stacked-bitez-gummies",
+    "gourmet-gummies",
+    "ocho-extracts"
+  ],
+  "source_url": "https://ochoextracts.com/products/candy-coated-bitez-gummies-500mg-baggiez-delta-9-blue-razz",
+  "scraped_at": "2026-10-10T21:42:36.206Z"
+}

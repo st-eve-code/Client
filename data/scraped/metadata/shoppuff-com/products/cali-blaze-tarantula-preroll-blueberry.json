@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-tarantula-preroll-blueberry",
+  "name": "Cali Blaze Tarantula Preroll | Blueberry",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6.4,
+  "price_max": 6.4,
+  "currency": "USD",
+  "price_range": "$6.40",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "The OG berry strain, no frills. Pure blueberry flavor with deep indica roots. Heavy behind the eyes, great for nighttime. If you've been smoking cannabis for any length of time, you already know this one. We just made it stronger.\n\n* Liquid Diamond Infused: Injected with concentrate for amplified potency.\n* Kief Crusted: Rolled in kief for an extra layer of flavor and THC.",
+  "description_html": "The OG berry strain, no frills. Pure blueberry flavor with deep indica roots. Heavy behind the eyes, great for nighttime. If you've been smoking cannabis for any length of time, you already know this one. We just made it stronger.<br /><br />* Liquid Diamond Infused: Injected with concentrate for amplified potency.<br />* Kief Crusted: Rolled in kief for an extra layer of flavor and THC.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d41edd9dc93c53560425cb290b054698",
+      "alt": "Cali Blaze Tarantula Preroll | Blueberry",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-tarantula-preroll-blueberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-tarantula-preroll-blueberry-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.445Z"
+}

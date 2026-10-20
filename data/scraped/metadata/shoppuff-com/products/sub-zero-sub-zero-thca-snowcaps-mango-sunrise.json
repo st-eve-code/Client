@@ -1,0 +1,35 @@
+{
+  "slug": "sub-zero-sub-zero-thca-snowcaps-mango-sunrise",
+  "name": "Sub Zero | THCA Snowcaps | Mango Sunrise",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Sub Zero",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/639ad5a403dc92f5bbcc2b7715b2e02e",
+      "alt": "Sub Zero | THCA Snowcaps | Mango Sunrise",
+      "local": "data\\scraped\\images\\shoppuff-com__sub-zero-sub-zero-thca-snowcaps-mango-sunrise__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sub-zero-sub-zero-thca-snowcaps-mango-sunrise-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.419Z"
+}

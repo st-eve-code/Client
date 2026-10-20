@@ -1,0 +1,35 @@
+{
+  "slug": "candy-bonez-prepackaged-jar",
+  "name": "A1ZA Prepackaged Flower | Candy Bonez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 100,
+  "price_max": 100,
+  "currency": "USD",
+  "price_range": "$100.00",
+  "available": true,
+  "vendor": "A1ZA",
+  "tags": [],
+  "description": "SHERB CREAM PIE X OBAMA RUNTZ \nDried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "SHERB CREAM PIE X OBAMA RUNTZ <br />Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3020fde7051951103354671ce2da0320",
+      "alt": "A1ZA Prepackaged Flower | Candy Bonez",
+      "local": "data\\scraped\\images\\shoppuff-com__candy-bonez-prepackaged-jar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 100,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/candy-bonez-prepackaged-jar-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.054Z"
+}

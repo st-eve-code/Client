@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-hash-infused-joint-z-pie-9-watermelon-z-11",
+  "name": "710 Labs Hash Infused Joint | Z Pie #9 + Watermelon Z #11",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "1.5g Cherry Zest #4 Flower\n0.5g Strawberry Guava #9 Hash\n\nGenetics: (Z x Animal West) + (Strawberry Banana x Papaya)",
+  "description_html": "1.5g Cherry Zest #4 Flower<br />0.5g Strawberry Guava #9 Hash<br /><br />Genetics: (Z x Animal West) + (Strawberry Banana x Papaya)",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/388e54977b30edb17f4688fcd57dc4b3",
+      "alt": "710 Labs Hash Infused Joint | Z Pie #9 + Watermelon Z #11",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-hash-infused-joint-z-pie-9-watermelon-z-11__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-hash-infused-joint-z-pie-9-watermelon-z-11-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.896Z"
+}

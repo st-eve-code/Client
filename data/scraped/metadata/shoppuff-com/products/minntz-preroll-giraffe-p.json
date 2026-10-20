@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-preroll-giraffe-p",
+  "name": "Minntz Preroll | Giraffe P",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Zesty lime, tropical fruit, and a touch of gas create a vibrant and aromatic profile in this high potency hybrid. The effects are social, stimulating, and creatively inspiring, perfect for energized and engaging moments with friends.",
+  "description_html": "Zesty lime, tropical fruit, and a touch of gas create a vibrant and aromatic profile in this high potency hybrid. The effects are social, stimulating, and creatively inspiring, perfect for energized and engaging moments with friends.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/384e1eac3feb91dea1eb6f53bb0940d0",
+      "alt": "Minntz Preroll | Giraffe P",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-preroll-giraffe-p__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-preroll-giraffe-p-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.385Z"
+}

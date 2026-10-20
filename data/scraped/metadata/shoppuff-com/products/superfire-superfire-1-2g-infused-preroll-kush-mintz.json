@@ -1,0 +1,35 @@
+{
+  "slug": "superfire-superfire-1-2g-infused-preroll-kush-mintz",
+  "name": "Superfire | 1.2g Infused Preroll | Kush Mintz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Superfire",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/80179e61ba94358e38d45ef504eea132",
+      "alt": "Superfire | 1.2g Infused Preroll | Kush Mintz",
+      "local": "data\\scraped\\images\\shoppuff-com__superfire-superfire-1-2g-infused-preroll-kush-mintz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/superfire-superfire-1-2g-infused-preroll-kush-mintz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.028Z"
+}

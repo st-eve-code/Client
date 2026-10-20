@@ -1,0 +1,35 @@
+{
+  "slug": "rise-rise-200mg-tablets-rso-orange-push-pop",
+  "name": "Rise | 200mg Tablets | RSO + Orange Push Pop",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e96959133ef9e04a0ad7ae14c8b5b6d7",
+      "alt": "Rise | 200mg Tablets | RSO + Orange Push Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-rise-200mg-tablets-rso-orange-push-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".3g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ORAL"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-rise-200mg-tablets-rso-orange-push-pop-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.299Z"
+}

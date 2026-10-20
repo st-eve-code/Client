@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-moonbow-112",
+  "name": "Moonbow #112 Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Zkittlez x Do-Si-Dos Terpenes: Caryophyllene, Limonene, Myrcene Effects: Relaxed, Focused, Creative, Social Aroma: Pepper, Sweet, Earthy Strap in, space cadet, and prepare to boldly go where no taste bud has gone before! With Moonbow as your trusty cosmic guide, each inhale is like a launchpad, propelling you into a multi-dimensional experience that's so mind-bending, even Einstein would raise an eyebrow. Beam yourself to flavor town and get ready for a trip that's both out of this world, and right on the funny bone.",
+  "description_html": "Lineage: Zkittlez x Do-Si-Dos Terpenes: Caryophyllene, Limonene, Myrcene Effects: Relaxed, Focused, Creative, Social Aroma: Pepper, Sweet, Earthy Strap in, space cadet, and prepare to boldly go where no taste bud has gone before! With Moonbow as your trusty cosmic guide, each inhale is like a launchpad, propelling you into a multi-dimensional experience that's so mind-bending, even Einstein would raise an eyebrow. Beam yourself to flavor town and get ready for a trip that's both out of this world, and right on the funny bone.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8393dfe7fc9349aa576778a0344becf1",
+      "alt": "Moonbow #112 Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-moonbow-112__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-moonbow-112-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.739Z"
+}

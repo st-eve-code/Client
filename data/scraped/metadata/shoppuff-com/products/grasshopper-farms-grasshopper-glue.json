@@ -1,0 +1,40 @@
+{
+  "slug": "grasshopper-farms-grasshopper-glue",
+  "name": "Grasshopper Farms | Grasshopper Glue",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 60,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$60.00 – $99.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Vibrant hues of amber blanket the dark trichome-waxed buds of this tranquil sun-grown Indica. Savor its robust aroma, accented by notes of citrus and leather, which transitions into a velvety plush smoke gentle on the lungs. The mellow and serene effect of this strain offers a perfect opportunity to decompress mentally and physically without overwhelming sensations. The chill, soothing high associated with this strain serves as a passport to calmness, clarity, and relief.",
+  "description_html": "Vibrant hues of amber blanket the dark trichome-waxed buds of this tranquil sun-grown Indica. Savor its robust aroma, accented by notes of citrus and leather, which transitions into a velvety plush smoke gentle on the lungs. The mellow and serene effect of this strain offers a perfect opportunity to decompress mentally and physically without overwhelming sensations. The chill, soothing high associated with this strain serves as a passport to calmness, clarity, and relief.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4b774415f84123e34eec1b164fea77d2",
+      "alt": "Grasshopper Farms | Grasshopper Glue",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-grasshopper-glue__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-grasshopper-glue-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.547Z"
+}

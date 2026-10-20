@@ -1,0 +1,45 @@
+{
+  "slug": "guerilla-grown-guerilla-grown-say-less",
+  "name": "Guerilla Grown | Say Less",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$10.00 – $25.00",
+  "available": true,
+  "vendor": "Guerilla Grown",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7785e455387636c674ec85c04758eb14",
+      "alt": "Guerilla Grown | Say Less",
+      "local": "data\\scraped\\images\\shoppuff-com__guerilla-grown-guerilla-grown-say-less__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guerilla-grown-guerilla-grown-say-less-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.200Z"
+}

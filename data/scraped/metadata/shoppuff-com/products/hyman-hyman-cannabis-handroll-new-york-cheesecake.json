@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-handroll-new-york-cheesecake",
+  "name": "Hyman Cannabis Handroll | New York Cheesecake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "New York Supreme Cheesecake\n\nStrain Type: Hybrid\n\nFlavors: Sweet, Citrus, Grapefruit\n\nAromas: Pungent, Diesel, Strawberry\n\nExperience: Sociable, Happy, Creative",
+  "description_html": "New York Supreme Cheesecake<br /><br />Strain Type: Hybrid<br /><br />Flavors: Sweet, Citrus, Grapefruit<br /><br />Aromas: Pungent, Diesel, Strawberry<br /><br />Experience: Sociable, Happy, Creative",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a0deb3f4a47980b476fcb0b6b3dfb87e",
+      "alt": "Hyman Cannabis Handroll | New York Cheesecake",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-handroll-new-york-cheesecake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-handroll-new-york-cheesecake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.677Z"
+}

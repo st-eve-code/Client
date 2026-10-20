@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-1g-pre-roll-bora-bora",
+  "name": "Seed Junky | 1g Pre-Roll | Bora Bora",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Take a trip with Bora Bora, a tropical powerhouse bursting with bold, exotic flavor. Notes of Starburst candy, creamy fruit, bubblegum, and hibiscus flowers collide in a smooth, vacation worthy smoke. Sweet and floral on the inhale, gassy, rich and fruity on the exhale. Bora Bora delivers a layered, mouth coating experience that feels like paradise. With strong, lasting effects, this strain hits hard while keeping things breeze and fun. \n\nTropical Burst x Malibu BX2",
+  "description_html": "Take a trip with Bora Bora, a tropical powerhouse bursting with bold, exotic flavor. Notes of Starburst candy, creamy fruit, bubblegum, and hibiscus flowers collide in a smooth, vacation worthy smoke. Sweet and floral on the inhale, gassy, rich and fruity on the exhale. Bora Bora delivers a layered, mouth coating experience that feels like paradise. With strong, lasting effects, this strain hits hard while keeping things breeze and fun. <br /><br />Tropical Burst x Malibu BX2",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a270de0d2608c4e6e9e7b1175adde5b3",
+      "alt": "Seed Junky | 1g Pre-Roll | Bora Bora",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-1g-pre-roll-bora-bora__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-1g-pre-roll-bora-bora-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.678Z"
+}

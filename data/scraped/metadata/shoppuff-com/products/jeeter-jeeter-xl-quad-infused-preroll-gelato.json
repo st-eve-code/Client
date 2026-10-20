@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-xl-quad-infused-preroll-gelato",
+  "name": "Jeeter XL Quad Infused Preroll | Gelato",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Gelato is a cross between Sunset Sherbet and Thin Mint GSC. Since its birth, a number of phenotypes have been released, all with their own unique attributes. One of them is Gelato, a balanced hybrid with compact buds, staying true to its Cookie genetics. Like other Gelato phenotypes, Gelato is covered with fiery orange hairs while its buds can be dark green to purple. With sweet citrus and fruity flavors, Gelato offers an uplifting and energetic high that is perfect for any post-work activity after a long day.",
+  "description_html": "Gelato is a cross between Sunset Sherbet and Thin Mint GSC. Since its birth, a number of phenotypes have been released, all with their own unique attributes. One of them is Gelato, a balanced hybrid with compact buds, staying true to its Cookie genetics. Like other Gelato phenotypes, Gelato is covered with fiery orange hairs while its buds can be dark green to purple. With sweet citrus and fruity flavors, Gelato offers an uplifting and energetic high that is perfect for any post-work activity after a long day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d014402a0986ff62ce5dff7a16b5bcdc",
+      "alt": "Jeeter XL Quad Infused Preroll | Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-xl-quad-infused-preroll-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-xl-quad-infused-preroll-gelato-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.835Z"
+}

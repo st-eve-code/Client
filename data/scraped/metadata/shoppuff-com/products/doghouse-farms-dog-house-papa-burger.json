@@ -1,0 +1,60 @@
+{
+  "slug": "doghouse-farms-dog-house-papa-burger",
+  "name": "Dog House | Papa Burger",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8.4,
+  "price_max": 157.5,
+  "currency": "USD",
+  "price_range": "$8.40 – $157.50",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "Donny Burger x (Papaya x Modified Bananas) Indica | Funk Terpenes: 3.15% Myrcene, Limonene, Caryophyllene\n\nThis hybrid from California Seed Bank bears a creamy, tropical flavor profile. Papaya and banana notes are layered over a savory funk. Its dense, frosty buds packed with trichomes give it a potent kick.",
+  "description_html": "Donny Burger x (Papaya x Modified Bananas) Indica | Funk Terpenes: 3.15% Myrcene, Limonene, Caryophyllene<br /><br />This hybrid from California Seed Bank bears a creamy, tropical flavor profile. Papaya and banana notes are layered over a savory funk. Its dense, frosty buds packed with trichomes give it a potent kick.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d772b7a595e5352fb137f2c0ac482083",
+      "alt": "Dog House | Papa Burger",
+      "local": "data\\scraped\\images\\shoppuff-com__doghouse-farms-dog-house-papa-burger__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 87.5,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45.5,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 157.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doghouse-farms-dog-house-papa-burger-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.612Z"
+}

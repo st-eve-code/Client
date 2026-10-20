@@ -1,0 +1,35 @@
+{
+  "slug": "rare-michigan-10-x-pre-rolls-colombian-gold",
+  "name": "Rare Michigan | 10 x Pre-Rolls | Colombian Gold",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Rare Michigan Genetics",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b661e8f2c227a8a27181b369bf415641",
+      "alt": "Rare Michigan | 10 x Pre-Rolls | Colombian Gold",
+      "local": "data\\scraped\\images\\shoppuff-com__rare-michigan-10-x-pre-rolls-colombian-gold__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rare-michigan-10-x-pre-rolls-colombian-gold-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.923Z"
+}

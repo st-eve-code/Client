@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-xl-quad-infused-preroll-peaches",
+  "name": "Jeeter XL Quad Infused Preroll | Peaches",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/753386a143ac6657cd2473cd33e5e88b",
+      "alt": "Jeeter XL Quad Infused Preroll | Peaches",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-xl-quad-infused-preroll-peaches__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-xl-quad-infused-preroll-peaches-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.427Z"
+}

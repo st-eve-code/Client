@@ -1,0 +1,40 @@
+{
+  "slug": "hat-ocho-extracts-dripping-heart-logo",
+  "name": "Hat - Dripping Heart Snapback",
+  "site": "ochoextracts-com",
+  "category": "swag",
+  "price_min": 24.99,
+  "price_max": 24.99,
+  "currency": "GBP",
+  "price_range": "£24.99",
+  "available": true,
+  "sku": "OCHO-HEARTCAP-BLK",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "Swag"
+  ],
+  "description": "Clean, minimal, and comfortable low-crown hat to wear — the OCHO Extracts Dripping Heart Snapback is built for everyday rotation. Featuring a classic black adjustable cap design with a light tan screen-printed OCHO Extracts logo, this piece keeps the look subtle while still standing out.\n\nDesigned for comfort and versatility, the adjustable back closure allows for the perfect fit, while the lightweight structured design makes it easy to style with any outfit.\n\nFeatures:\n• Adjustable back closure\n• Black cap design\n• Light tan screen-printed OCHO Extracts logo\n• Lightweight everyday fit\n• Curved brim styling\n• One size fits most",
+  "description_html": "<p class=\"isSelectedEnd\"><span>Clean, minimal, and comfortable low-crown hat to wear — the <strong>OCHO Extracts Dripping Heart Snapback</strong> is built for everyday rotation. Featuring a classic black adjustable cap design with a light tan screen-printed OCHO Extracts logo, this piece keeps the look subtle while still standing out.</span></p>\n<p class=\"isSelectedEnd\"><span>Designed for comfort and versatility, the adjustable back closure allows for the perfect fit, while the lightweight structured design makes it easy to style with any outfit.</span></p>\n<p><span style=\"text-decoration: underline;\"><strong>Features:</strong></span><br><span>• Adjustable back closure</span><br><span>• Black cap design</span><br><span>• Light tan screen-printed OCHO Extracts logo</span><br><span>• Lightweight everyday fit</span><br><span>• Curved brim styling</span><br><span>• One size fits most</span></p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Dripping_Heart.png?v=1779313491",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__hat-ocho-extracts-dripping-heart-logo__000.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 45863539278010,
+      "title": "Default Title",
+      "price": 24.99,
+      "sku": "OCHO-HEARTCAP-BLK",
+      "available": true
+    }
+  ],
+  "collections": [
+    "swag"
+  ],
+  "source_url": "https://ochoextracts.com/products/hat-ocho-extracts-dripping-heart-logo",
+  "scraped_at": "2026-10-10T21:42:46.209Z"
+}

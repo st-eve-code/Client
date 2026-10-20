@@ -1,0 +1,35 @@
+{
+  "slug": "sohi-sugar-sauce-pancakes",
+  "name": "SoHi Sugar & Sauce | Pancakes",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "SoHi",
+  "tags": [],
+  "description": "1g Cured Resin Sugar & Sauce",
+  "description_html": "1g Cured Resin Sugar & Sauce",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9288aaa5f7c500fcebd00d8b096c1d30",
+      "alt": "SoHi Sugar & Sauce | Pancakes",
+      "local": "data\\scraped\\images\\shoppuff-com__sohi-sugar-sauce-pancakes__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sohi-sugar-sauce-pancakes-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.941Z"
+}

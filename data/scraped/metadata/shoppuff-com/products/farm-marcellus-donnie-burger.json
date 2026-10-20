@@ -1,0 +1,35 @@
+{
+  "slug": "farm-marcellus-donnie-burger",
+  "name": "Farm Marcellus | Donnie Burger",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 29,
+  "price_max": 29,
+  "currency": "USD",
+  "price_range": "$29.00",
+  "available": true,
+  "vendor": "Farm Marcellus LLC",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/16b6bfb9d4b1a9464a75bba74c1796ac",
+      "alt": "Farm Marcellus | Donnie Burger",
+      "local": "data\\scraped\\images\\shoppuff-com__farm-marcellus-donnie-burger__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 29,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/farm-marcellus-donnie-burger-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.694Z"
+}

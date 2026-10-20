@@ -1,0 +1,35 @@
+{
+  "slug": "wojo-x-3-stingerz-orange-cake",
+  "name": "Wojo x 3 Stingerz | Orange Cake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Wojo Co",
+  "tags": [],
+  "description": "0.5g x 3 Stingerz",
+  "description_html": "0.5g x 3 Stingerz",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/19a6d17595209e5c0250b30d8886d224",
+      "alt": "Wojo x 3 Stingerz | Orange Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__wojo-x-3-stingerz-orange-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wojo-x-3-stingerz-orange-cake-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.496Z"
+}

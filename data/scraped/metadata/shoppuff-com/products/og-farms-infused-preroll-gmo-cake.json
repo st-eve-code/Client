@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-infused-preroll-gmo-cake",
+  "name": "OG Farms Infused Preroll | GMO Cake",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "- 1.2g infused pre-roll\n\n- Infused with premium distillate oil\n\n- Enhanced with natural terpenes\n\n- Evenly packed for a smooth, consistent burn\n\n- Convenient, ready-to-smoke format",
+  "description_html": "- 1.2g infused pre-roll<br /><br />- Infused with premium distillate oil<br /><br />- Enhanced with natural terpenes<br /><br />- Evenly packed for a smooth, consistent burn<br /><br />- Convenient, ready-to-smoke format",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8be0274d15439203d86bc1203205965d",
+      "alt": "OG Farms Infused Preroll | GMO Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-infused-preroll-gmo-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-infused-preroll-gmo-cake-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.272Z"
+}

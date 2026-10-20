@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-1g-shatter-venomberry",
+  "name": "Cannalicious | 1g Shatter | Venomberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Shatter is a super smooth and ultra-refined cannabis extract that comes from cured plant material. The excess terpenes evaporate during the drying process which results in a lower terpene profile, but high cannabinoid percentage. It is produced as a flat patty with a glass-like stability and has an immediate activation time.",
+  "description_html": "Shatter is a super smooth and ultra-refined cannabis extract that comes from cured plant material. The excess terpenes evaporate during the drying process which results in a lower terpene profile, but high cannabinoid percentage. It is produced as a flat patty with a glass-like stability and has an immediate activation time.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7be50ad23ee5216c5feeac352ad1ce44",
+      "alt": "Cannalicious | 1g Shatter | Venomberry",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-1g-shatter-venomberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-1g-shatter-venomberry-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.358Z"
+}

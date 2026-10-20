@@ -1,0 +1,50 @@
+{
+  "slug": "nura-cannabis-nura-animal-face",
+  "name": "Nura | Animal Face",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$20.00 – $125.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "Animal Face is a 50/50 hybrid with Faceoff OG x Animal Mints genetics that delivers on a minty, skunk, and earthy taste that leaves you feeling uplifted and relaxed.\n\nOur dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "description_html": "Animal Face is a 50/50 hybrid with Faceoff OG x Animal Mints genetics that delivers on a minty, skunk, and earthy taste that leaves you feeling uplifted and relaxed.<br /><br />Our dedication to growing the highest quality cannabis for the people is what makes Nura Cannabis so special.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/39a0b5aa4fbf27eff8bb9052cf5b6a0b",
+      "alt": "Nura | Animal Face",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-cannabis-nura-animal-face__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-cannabis-nura-animal-face-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.008Z"
+}

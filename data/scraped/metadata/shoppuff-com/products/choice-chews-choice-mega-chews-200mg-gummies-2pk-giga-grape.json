@@ -1,0 +1,35 @@
+{
+  "slug": "choice-chews-choice-mega-chews-200mg-gummies-2pk-giga-grape",
+  "name": "Choice Mega-Chews | 200mg Gummies 2pk | Giga-Grape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Choice Chews",
+  "tags": [],
+  "description": "Indulge in the rich, calming taste of Choice Chews' Granddaddy Grape gummies. Infused with an indica blend, these gummies offer a luscious mix of grape and berry flavors, bringing a soothing, yet invigorating experience that makes relaxation effortless.",
+  "description_html": "Indulge in the rich, calming taste of Choice Chews' Granddaddy Grape gummies. Infused with an indica blend, these gummies offer a luscious mix of grape and berry flavors, bringing a soothing, yet invigorating experience that makes relaxation effortless.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b5f43410018a90a74175e17c0683161f",
+      "alt": "Choice Mega-Chews | 200mg Gummies 2pk | Giga-Grape",
+      "local": "data\\scraped\\images\\shoppuff-com__choice-chews-choice-mega-chews-200mg-gummies-2pk-giga-grape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.75g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/choice-chews-choice-mega-chews-200mg-gummies-2pk-giga-grape-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.429Z"
+}

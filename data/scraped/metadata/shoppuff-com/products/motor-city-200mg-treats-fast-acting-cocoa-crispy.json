@@ -1,0 +1,35 @@
+{
+  "slug": "motor-city-200mg-treats-fast-acting-cocoa-crispy",
+  "name": "Motor City | 200mg Treats | Fast Acting Cocoa Crispy",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Motor City Cannabites",
+  "tags": [],
+  "description": "200mg Fast Acting Cocoa Rice Crispy Treat by Motor City Cannabis.",
+  "description_html": "200mg Fast Acting Cocoa Rice Crispy Treat by Motor City Cannabis.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c51beb4ef801fdc420b62e6e852ed7ce",
+      "alt": "Motor City | 200mg Treats | Fast Acting Cocoa Crispy",
+      "local": "data\\scraped\\images\\shoppuff-com__motor-city-200mg-treats-fast-acting-cocoa-crispy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/motor-city-200mg-treats-fast-acting-cocoa-crispy-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.295Z"
+}

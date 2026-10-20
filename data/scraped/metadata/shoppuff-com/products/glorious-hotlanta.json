@@ -1,0 +1,60 @@
+{
+  "slug": "glorious-hotlanta",
+  "name": "Glorious | Hotlanta",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 69,
+  "currency": "USD",
+  "price_range": "$4.00 – $69.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "The high will come rolling in as soon as you exhale, gently cascading over both mind and body with a deep sense of relaxation and ease. You'll feel your body settling further and further into the couch, filled with a heavy sense that locks you straight down. As your body settles, your mind will be lifted into a stoney state of euphoria that puts a smile on your face before knocking you flat out with a heavy sedation.",
+  "description_html": "The high will come rolling in as soon as you exhale, gently cascading over both mind and body with a deep sense of relaxation and ease. You'll feel your body settling further and further into the couch, filled with a heavy sense that locks you straight down. As your body settles, your mind will be lifted into a stoney state of euphoria that puts a smile on your face before knocking you flat out with a heavy sedation.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0c594da2eed3ff20985b0f657bad0912",
+      "alt": "Glorious | Hotlanta",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-hotlanta__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 69,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-hotlanta-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.394Z"
+}

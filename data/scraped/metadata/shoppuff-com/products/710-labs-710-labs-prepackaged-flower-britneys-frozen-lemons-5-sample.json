@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-prepackaged-flower-britneys-frozen-lemons-5-sample",
+  "name": "710 Labs Prepackaged Flower | Britney's Frozen Lemons #5 (SAMPLE)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 220,
+  "price_max": 220,
+  "currency": "USD",
+  "price_range": "$220.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "710 Labs Prepackaged Flower | Britney's Frozen Lemons #5 (SAMPLE)",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-prepackaged-flower-britneys-frozen-lemons-5-sample__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 220,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-prepackaged-flower-britneys-frozen-lemons-5-sample-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.766Z"
+}

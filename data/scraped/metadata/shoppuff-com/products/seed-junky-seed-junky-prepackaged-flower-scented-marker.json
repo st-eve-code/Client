@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-scented-marker",
+  "name": "Seed Junky Prepackaged Flower | Scented Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "As nostalgic as a sun-faded mural in Old Town, Scented Marker brings loud, funky flavor and undeniable presence. Bursting with fruity candy and gas, this strain writes its name across your senses-bold, euphoric, and unforgettable. Perfect for leaving your mark. \n\nPineapple Fruz x Permanent Marker",
+  "description_html": "As nostalgic as a sun-faded mural in Old Town, Scented Marker brings loud, funky flavor and undeniable presence. Bursting with fruity candy and gas, this strain writes its name across your senses-bold, euphoric, and unforgettable. Perfect for leaving your mark. <br /><br />Pineapple Fruz x Permanent Marker",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cfba5e87e28b3a6bba0b11d0ea88b0d3",
+      "alt": "Seed Junky Prepackaged Flower | Scented Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-scented-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-scented-marker-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.791Z"
+}

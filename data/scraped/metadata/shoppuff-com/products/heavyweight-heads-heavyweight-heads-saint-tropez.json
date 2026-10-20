@@ -1,0 +1,60 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-saint-tropez",
+  "name": "Heavyweight Heads | Saint Tropez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 49.5,
+  "currency": "USD",
+  "price_range": "$3.00 – $49.50",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4b9cedbebcd9b5a6599f4184cf0629a1",
+      "alt": "Heavyweight Heads | Saint Tropez",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-saint-tropez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 7.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 49.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 27.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-saint-tropez-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.928Z"
+}

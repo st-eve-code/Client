@@ -1,0 +1,35 @@
+{
+  "slug": "grown-rogue-grown-rogue-pre-roll-violet-fire",
+  "name": "Grown Rogue Pre-Roll | Violet Fire",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Grown Rogue",
+  "tags": [],
+  "description": "A classic heavyweight from the Bay Area in California, this elite cultivar offers deep purple and green hues, with a heavy sedative effect. Gary Payton's large, dense buds are packed with pure power and an exquisite flavor that reminds its consumers why this plant is amongst the top cultivars in the world.\n\n{ Lineage: (Cookies x Cherry Pie) x Snowman }",
+  "description_html": "A classic heavyweight from the Bay Area in California, this elite cultivar offers deep purple and green hues, with a heavy sedative effect. Gary Payton's large, dense buds are packed with pure power and an exquisite flavor that reminds its consumers why this plant is amongst the top cultivars in the world.<br /><br />{ Lineage: (Cookies x Cherry Pie) x Snowman }<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cb10b38ff93c2021ce430e8da671bf7f",
+      "alt": "Grown Rogue Pre-Roll | Violet Fire",
+      "local": "data\\scraped\\images\\shoppuff-com__grown-rogue-grown-rogue-pre-roll-violet-fire__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grown-rogue-grown-rogue-pre-roll-violet-fire-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.892Z"
+}

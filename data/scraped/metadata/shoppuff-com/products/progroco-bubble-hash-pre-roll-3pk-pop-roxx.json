@@ -1,0 +1,35 @@
+{
+  "slug": "progroco-bubble-hash-pre-roll-3pk-pop-roxx",
+  "name": "ProGroCo Bubble Hash Pre-Roll 3PK | Pop Roxx",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fb541096cd7ee1fb56b61afa5b3204de",
+      "alt": "ProGroCo Bubble Hash Pre-Roll 3PK | Pop Roxx",
+      "local": "data\\scraped\\images\\shoppuff-com__progroco-bubble-hash-pre-roll-3pk-pop-roxx__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/progroco-bubble-hash-pre-roll-3pk-pop-roxx-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.930Z"
+}

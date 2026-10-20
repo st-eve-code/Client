@@ -1,0 +1,35 @@
+{
+  "slug": "vet-cbd-150mg-dog-treats-60ct-mobility-peanut-butter",
+  "name": "Vet CBD | 150mg Dog Treats 60ct | Mobility Peanut Butter",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "VetCBD",
+  "tags": [],
+  "description": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "description_html": "CBD products are made with hemp and contain only trace amounts of THC, and oftentimes none at all. These products are not intended to create a psychoactive effect, however inexperienced consumers should always start with small amounts.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5617-Puff-JointStore-Oscoda.webp",
+      "alt": "Vet CBD | 150mg Dog Treats 60ct | Mobility Peanut Butter",
+      "local": "data\\scraped\\images\\shoppuff-com__vet-cbd-150mg-dog-treats-60ct-mobility-peanut-butter__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/vet-cbd-150mg-dog-treats-60ct-mobility-peanut-butter-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.581Z"
+}

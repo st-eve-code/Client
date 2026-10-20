@@ -1,0 +1,35 @@
+{
+  "slug": "dragonfly-dragonfly-pre-roll-hashbar-og",
+  "name": "Dragonfly Pre-roll | Hashbar OG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1,
+  "price_max": 1,
+  "currency": "USD",
+  "price_range": "$1.00",
+  "available": true,
+  "vendor": "Dragonfly",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/47ad32025eaa40be839415ea4003484b",
+      "alt": "Dragonfly Pre-roll | Hashbar OG",
+      "local": "data\\scraped\\images\\shoppuff-com__dragonfly-dragonfly-pre-roll-hashbar-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dragonfly-dragonfly-pre-roll-hashbar-og-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.861Z"
+}

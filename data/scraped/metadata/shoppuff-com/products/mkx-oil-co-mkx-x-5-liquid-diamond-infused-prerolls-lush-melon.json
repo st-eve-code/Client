@@ -1,0 +1,35 @@
+{
+  "slug": "mkx-oil-co-mkx-x-5-liquid-diamond-infused-prerolls-lush-melon",
+  "name": "MKX x 5 Liquid Diamond Infused Prerolls | Lush Melon",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "TropiX Liquid Diamond Pre-Rolls (Half Gram/5pk) - 2.5G Lush Melon\n----\nThe Standard in Purity and Potency",
+  "description_html": "TropiX Liquid Diamond Pre-Rolls (Half Gram/5pk) - 2.5G Lush Melon<br />----<br />The Standard in Purity and Potency",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/643525e89829c1b2736358d51a94f213",
+      "alt": "MKX x 5 Liquid Diamond Infused Prerolls | Lush Melon",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-mkx-x-5-liquid-diamond-infused-prerolls-lush-melon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-mkx-x-5-liquid-diamond-infused-prerolls-lush-melon-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.798Z"
+}

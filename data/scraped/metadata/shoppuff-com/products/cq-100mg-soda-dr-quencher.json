@@ -1,0 +1,35 @@
+{
+  "slug": "cq-100mg-soda-dr-quencher",
+  "name": "CQ | 100mg Soda | Dr Quencher",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "CQ",
+  "tags": [],
+  "description": "PEACE. LOVE. CANNABIS.™\n\nBorn and raised in Venice Beach, California, we've been perfecting the sweet spot between fun and function since 2008. We believe that normalized, legal cannabis use makes for a better world. Crafted from the highest quality ingredients, expect a refreshing infusion of real fruit and terpene-rich cannabis for a deliciously juicy buzz. We make wellness tasty, relaxing and fun. We love what we do.\n\nWe said, “Let’s give ’em classic Dr taste, but cannabis infused and sweetened with cane sugar,” so that’s what we did. 100mg of THC, with a 50mg clean caffeine buzz to boot. VEGAN, NO GLUTEN.",
+  "description_html": "PEACE. LOVE. CANNABIS.™<br /><br />Born and raised in Venice Beach, California, we've been perfecting the sweet spot between fun and function since 2008. We believe that normalized, legal cannabis use makes for a better world. Crafted from the highest quality ingredients, expect a refreshing infusion of real fruit and terpene-rich cannabis for a deliciously juicy buzz. We make wellness tasty, relaxing and fun. We love what we do.<br /><br />We said, “Let’s give ’em classic Dr taste, but cannabis infused and sweetened with cane sugar,” so that’s what we did. 100mg of THC, with a 50mg clean caffeine buzz to boot. VEGAN, NO GLUTEN.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a0fe2256549303b794ad7955a5307dd8",
+      "alt": "CQ | 100mg Soda | Dr Quencher",
+      "local": "data\\scraped\\images\\shoppuff-com__cq-100mg-soda-dr-quencher__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cq-100mg-soda-dr-quencher-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.271Z"
+}

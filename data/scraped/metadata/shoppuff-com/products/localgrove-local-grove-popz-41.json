@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-popz-41",
+  "name": "Local Grove | Popz 41",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 180,
+  "currency": "USD",
+  "price_range": "$9.00 – $180.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Gelato 41 x Zkittlez \n\nBreeder: Unknown \n\nAroma & Flavor: Sweet candy and creamy gas, reminiscent of Runtz \n\nEffects: Balanced hybrid – euphoric head high with calming body effects",
+  "description_html": "Genetics: Gelato 41 x Zkittlez <br /><br />Breeder: Unknown <br /><br />Aroma & Flavor: Sweet candy and creamy gas, reminiscent of Runtz <br /><br />Effects: Balanced hybrid – euphoric head high with calming body effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ceb74cd2c35de698658fefa830c07057",
+      "alt": "Local Grove | Popz 41",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-popz-41__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 180,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-popz-41-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.454Z"
+}

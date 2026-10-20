@@ -1,0 +1,60 @@
+{
+  "slug": "minntz-cherry-cookies",
+  "name": "Minntz | Cherry Cookies",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$6.00 – $120.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Cherry Cookies wraps you in a warm, nostalgic haze from the very first hit. Sweet cherry notes melt into a creamy, cookie-rich finish, like something just pulled fresh from the oven. Smooth and comforting, this strain settles you into a relaxed, easy rhythm while keeping your mind lightly inspired. It’s the perfect\nunwind without the couch lock —soft, satisfying, and just the right amount of escape to land you in your happy place.\n\nFLAVOR: Sweet Cherry, Cookie, Creamy\nEFFECTS: Inspiring, Relaxing, Comforting",
+  "description_html": "Cherry Cookies wraps you in a warm, nostalgic haze from the very first hit. Sweet cherry notes melt into a creamy, cookie-rich finish, like something just pulled fresh from the oven. Smooth and comforting, this strain settles you into a relaxed, easy rhythm while keeping your mind lightly inspired. It’s the perfect<br />unwind without the couch lock —soft, satisfying, and just the right amount of escape to land you in your happy place.<br /><br />FLAVOR: Sweet Cherry, Cookie, Creamy<br />EFFECTS: Inspiring, Relaxing, Comforting",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/939564b5cd8417a6c96821eafd3b7b10",
+      "alt": "Minntz | Cherry Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-cherry-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 66,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 36,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 120,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-cherry-cookies-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.385Z"
+}

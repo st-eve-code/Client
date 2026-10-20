@@ -1,0 +1,35 @@
+{
+  "slug": "cresco-live-resin-cartridge-v6-haze",
+  "name": "Cresco Live Resin Cartridge | V6 Haze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Cresco",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/vaporizers.jpg",
+      "alt": "Cresco Live Resin Cartridge | V6 Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__cresco-live-resin-cartridge-v6-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cresco-live-resin-cartridge-v6-haze-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.621Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "minntz-minntz-zandy",
+  "name": "Minntz | Zandy",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 90,
+  "currency": "USD",
+  "price_range": "$20.00 – $90.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Zandy delivers a sweet candy-forward profile layered with creamy vanilla cake and finished with a smooth gas that lingers on the exhale. The flavor is rich yet balanced — dessert-like without being overpowering, with just enough gas to keep it grounded. Effects come on quick with a lifted, clear-headed high that settles into a relaxed body feel. It’s euphoric, smooth, and easy to stay functional - but perfect for zoning in without slowing down.\n\nFLAVOR: Sweet Candy, Vanilla Extract, Cream, Gas\nEFFECTS: Euphoric, Uplifted, Relaxed, Happy",
+  "description_html": "Zandy delivers a sweet candy-forward profile layered with creamy vanilla cake and finished with a smooth gas that lingers on the exhale. The flavor is rich yet balanced — dessert-like without being overpowering, with just enough gas to keep it grounded. Effects come on quick with a lifted, clear-headed high that settles into a relaxed body feel. It’s euphoric, smooth, and easy to stay functional - but perfect for zoning in without slowing down.<br /><br />FLAVOR: Sweet Candy, Vanilla Extract, Cream, Gas<br />EFFECTS: Euphoric, Uplifted, Relaxed, Happy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2434961612adf92bd2f03cc8354d8231",
+      "alt": "Minntz | Zandy",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-zandy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-zandy-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.499Z"
+}

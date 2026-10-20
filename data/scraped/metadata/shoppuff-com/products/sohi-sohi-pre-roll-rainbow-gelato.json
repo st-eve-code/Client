@@ -1,0 +1,35 @@
+{
+  "slug": "sohi-sohi-pre-roll-rainbow-gelato",
+  "name": "SoHi Pre-Roll | Rainbow Gelato",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "SoHi",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/38a0c8666e7d5830b512aae54f73fb89",
+      "alt": "SoHi Pre-Roll | Rainbow Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__sohi-sohi-pre-roll-rainbow-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sohi-sohi-pre-roll-rainbow-gelato-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.675Z"
+}

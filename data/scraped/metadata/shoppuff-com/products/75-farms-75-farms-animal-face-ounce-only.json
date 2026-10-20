@@ -1,0 +1,35 @@
+{
+  "slug": "75-farms-75-farms-animal-face-ounce-only",
+  "name": "75 Farms | Animal Face *OUNCE ONLY*",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "75 Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7e6ad915797a3028dd418e78bafeebf2",
+      "alt": "75 Farms | Animal Face *OUNCE ONLY*",
+      "local": "data\\scraped\\images\\shoppuff-com__75-farms-75-farms-animal-face-ounce-only__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/75-farms-75-farms-animal-face-ounce-only-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.449Z"
+}

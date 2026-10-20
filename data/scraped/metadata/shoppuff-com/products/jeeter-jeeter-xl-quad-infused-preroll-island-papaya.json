@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-xl-quad-infused-preroll-island-papaya",
+  "name": "Jeeter XL Quad Infused Preroll | Island Papaya",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7eb47bb0ae1508fc37b27da4acc218f0",
+      "alt": "Jeeter XL Quad Infused Preroll | Island Papaya",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-xl-quad-infused-preroll-island-papaya__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-xl-quad-infused-preroll-island-papaya-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.578Z"
+}

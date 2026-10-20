@@ -1,0 +1,35 @@
+{
+  "slug": "lil-balls-prepack-bustin-suds",
+  "name": "Lil' Balls Prepack - Bustin Suds",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 14.4,
+  "price_max": 14.4,
+  "currency": "USD",
+  "price_range": "$14.40",
+  "available": true,
+  "vendor": "Fat Pack",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/de7bf901bf3d7023f95a62c0822fba8b",
+      "alt": "Lil' Balls Prepack - Bustin Suds",
+      "local": "data\\scraped\\images\\shoppuff-com__lil-balls-prepack-bustin-suds__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4g",
+      "price": 14.4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/lil-balls-prepack-bustin-suds-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.213Z"
+}

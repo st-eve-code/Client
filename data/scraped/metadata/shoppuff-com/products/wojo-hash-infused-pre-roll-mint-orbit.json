@@ -1,0 +1,35 @@
+{
+  "slug": "wojo-hash-infused-pre-roll-mint-orbit",
+  "name": "Wojo Hash Infused Pre-roll | Mint Orbit",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Wojo Co",
+  "tags": [],
+  "description": "1g Bubble Hash Infused Pre-Roll",
+  "description_html": "1g Bubble Hash Infused Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7146c7e031677965843a72d83fcd143a",
+      "alt": "Wojo Hash Infused Pre-roll | Mint Orbit",
+      "local": "data\\scraped\\images\\shoppuff-com__wojo-hash-infused-pre-roll-mint-orbit__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wojo-hash-infused-pre-roll-mint-orbit-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.496Z"
+}

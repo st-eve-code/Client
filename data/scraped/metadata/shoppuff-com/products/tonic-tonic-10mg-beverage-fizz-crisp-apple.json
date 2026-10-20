@@ -1,0 +1,35 @@
+{
+  "slug": "tonic-tonic-10mg-beverage-fizz-crisp-apple",
+  "name": "Tonic | 10mg Beverage | Fizz Crisp Apple",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Tonic",
+  "tags": [],
+  "description": "10mg THC Beverage\nEnjoy the refreshing taste of Tonic Fizz in Crisp Apple. This sparkling cannabis-infused beverage delivers the crisp and sweet flavor of freshly picked apples, perfectly paired with a light effervescence. Infused with 10mg THC per bottle, it provides a gentle, uplifting high that promotes relaxation and enhances social moments. Perfect for daytime sipping, Tonic Fizz Crisp Apple is a flavorful and convenient way to elevate your cannabis experience.",
+  "description_html": "10mg THC Beverage<br />Enjoy the refreshing taste of Tonic Fizz in Crisp Apple. This sparkling cannabis-infused beverage delivers the crisp and sweet flavor of freshly picked apples, perfectly paired with a light effervescence. Infused with 10mg THC per bottle, it provides a gentle, uplifting high that promotes relaxation and enhances social moments. Perfect for daytime sipping, Tonic Fizz Crisp Apple is a flavorful and convenient way to elevate your cannabis experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c04f0fc3b58bb4fa6eefbe7946ddc74d",
+      "alt": "Tonic | 10mg Beverage | Fizz Crisp Apple",
+      "local": "data\\scraped\\images\\shoppuff-com__tonic-tonic-10mg-beverage-fizz-crisp-apple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5.625g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tonic-tonic-10mg-beverage-fizz-crisp-apple-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.468Z"
+}

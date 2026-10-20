@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-zprite",
+  "name": "ProGroCo | Zprite",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 225,
+  "currency": "USD",
+  "price_range": "$12.00 – $225.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Blue dream cookie chemchee x Jelly Roll\n\nType: Hybrid \n\nTerpenes: limonene, myrcene, caryophyllene, & pinene \n\nEffects: Uplifting and energizing at first, with a creative, social buzz and mood-brightening euphoria. Smooth transition into a relaxed, easygoing body high without heavy sedation. Perfect for daytime hangs, creative sessions, or sparking up a party.\n\nAroma: Bursting with sweet lemon-lime soda, candy zest, and a subtle herbal undertone. Opens up with bright citrus and finishes with a creamy, fizzy sweetness.",
+  "description_html": "Lineage: Blue dream cookie chemchee x Jelly Roll<br /><br />Type: Hybrid <br /><br />Terpenes: limonene, myrcene, caryophyllene, & pinene <br /><br />Effects: Uplifting and energizing at first, with a creative, social buzz and mood-brightening euphoria. Smooth transition into a relaxed, easygoing body high without heavy sedation. Perfect for daytime hangs, creative sessions, or sparking up a party.<br /><br />Aroma: Bursting with sweet lemon-lime soda, candy zest, and a subtle herbal undertone. Opens up with bright citrus and finishes with a creamy, fizzy sweetness.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/993ad51b01c356284ea5d10c270d5e05",
+      "alt": "ProGroCo | Zprite",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-zprite__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 225,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-zprite-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.315Z"
+}

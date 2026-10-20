@@ -1,0 +1,45 @@
+{
+  "slug": "the-foundry-the-foundry-apple-runtz",
+  "name": "The Foundry | Apple Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 24,
+  "currency": "USD",
+  "price_range": "$8.00 – $24.00",
+  "available": true,
+  "vendor": "The Foundry",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "The Foundry | Apple Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__the-foundry-the-foundry-apple-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-foundry-the-foundry-apple-runtz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.509Z"
+}

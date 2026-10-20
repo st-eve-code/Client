@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-donut-blunt-blue-muffin",
+  "name": "Cali Blaze Donut Blunt | Blue Muffin",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "1.2G of delicious flavor-filled flower, infused with live resin and capped off with a glass tip.\n\nHeavy hitting, flavor-filled cannabis products to bring that Cali-vibe to your blazing sesh!",
+  "description_html": "1.2G of delicious flavor-filled flower, infused with live resin and capped off with a glass tip.<br /><br />Heavy hitting, flavor-filled cannabis products to bring that Cali-vibe to your blazing sesh!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4f3c0400a2e71a5b092f253023eb11e8",
+      "alt": "Cali Blaze Donut Blunt | Blue Muffin",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-donut-blunt-blue-muffin__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-donut-blunt-blue-muffin-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.420Z"
+}

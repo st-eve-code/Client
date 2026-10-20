@@ -1,0 +1,35 @@
+{
+  "slug": "happy-happy-5g-baller-bucket-blue-cheese",
+  "name": "Happy | 5g Baller Bucket | Blue Cheese",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "HAPPY",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d86944493ad9b06ab78b0261130e2cb9",
+      "alt": "Happy | 5g Baller Bucket | Blue Cheese",
+      "local": "data\\scraped\\images\\shoppuff-com__happy-happy-5g-baller-bucket-blue-cheese__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/happy-happy-5g-baller-bucket-blue-cheese-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.821Z"
+}

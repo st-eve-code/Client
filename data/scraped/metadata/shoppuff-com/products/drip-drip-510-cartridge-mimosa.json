@@ -1,0 +1,35 @@
+{
+  "slug": "drip-drip-510-cartridge-mimosa",
+  "name": "Drip 510 Cartridge | Mimosa",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7.49,
+  "price_max": 7.49,
+  "currency": "USD",
+  "price_range": "$7.49",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Mimosa is bright, bubbly, and made for good times — think brunch energy without the buzz. Crisp citrus and subtle florals make this one a solid go-to for social sparks and sunny moods.",
+  "description_html": "Mimosa is bright, bubbly, and made for good times — think brunch energy without the buzz. Crisp citrus and subtle florals make this one a solid go-to for social sparks and sunny moods.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/11ad470fb7a742f3dc3d04d12d1027b7",
+      "alt": "Drip 510 Cartridge | Mimosa",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-drip-510-cartridge-mimosa__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.49,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-drip-510-cartridge-mimosa-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.364Z"
+}

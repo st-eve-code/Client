@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-prepackaged-flower-gogurtz",
+  "name": "Local Grove Prepackaged Flower | Gogurtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 120,
+  "price_max": 120,
+  "currency": "USD",
+  "price_range": "$120.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Cap Junky x Runtz \n\nBreeder: Seed Junky Genetics x Capulator \n\nAroma & Flavor: Creamy gas with dense, trichome-coated buds \n\nEffects: Powerful hybrid – heavy-hitting with strong, long-lasting effects",
+  "description_html": "Genetics: Cap Junky x Runtz <br /><br />Breeder: Seed Junky Genetics x Capulator <br /><br />Aroma & Flavor: Creamy gas with dense, trichome-coated buds <br /><br />Effects: Powerful hybrid – heavy-hitting with strong, long-lasting effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b3c0eb3a6003696c1cd34b919bcbfee1",
+      "alt": "Local Grove Prepackaged Flower | Gogurtz",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-prepackaged-flower-gogurtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 120,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-prepackaged-flower-gogurtz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.453Z"
+}

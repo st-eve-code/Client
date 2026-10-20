@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-pre-roll-pack-sherb",
+  "name": "Top Smoke Pre-Roll Pack | Sherb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 24,
+  "price_max": 24,
+  "currency": "USD",
+  "price_range": "$24.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "Sherb is an indica dominant hybrid strain made by crossing Sunset Sherbert x Wedding Cake. This strain will provide an ultra-relaxing high. 28 one gram pre-rolls.",
+  "description_html": "Sherb is an indica dominant hybrid strain made by crossing Sunset Sherbert x Wedding Cake. This strain will provide an ultra-relaxing high. 28 one gram pre-rolls.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d279cf97e2d672ad13b91648c62ea1a0",
+      "alt": "Top Smoke Pre-Roll Pack | Sherb",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-pre-roll-pack-sherb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-pre-roll-pack-sherb-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.301Z"
+}

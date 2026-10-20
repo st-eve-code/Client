@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-party-popperz-pre-roll",
+  "name": "Super Dope Pre-roll | Party Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Blending Cherry, Lemon, Bubblegum, and Plum for a bold, flavorful cannabis experience. This unique mix delivers a potent, sweet-tangy high, preserving each strain's cherishes qualities! Crated by Super Dope from Lemon Cherry Gelato roots, Party Popperz elevates every puff with vibrant energy.",
+  "description_html": "Blending Cherry, Lemon, Bubblegum, and Plum for a bold, flavorful cannabis experience. This unique mix delivers a potent, sweet-tangy high, preserving each strain's cherishes qualities! Crated by Super Dope from Lemon Cherry Gelato roots, Party Popperz elevates every puff with vibrant energy.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6d5439f6fdee9c11de06c6b238c7c17a",
+      "alt": "Super Dope Pre-roll | Party Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-party-popperz-pre-roll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-party-popperz-pre-roll-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.791Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-200mg-knockout-gummy-rainbow-sherbet",
+  "name": "Gelato | 200mg Knockout Gummy | Rainbow Sherbet",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "200mg Gummies",
+  "description_html": "200mg Gummies",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f2bf55a96614bcb9c4a90301ed7c7471",
+      "alt": "Gelato | 200mg Knockout Gummy | Rainbow Sherbet",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-200mg-knockout-gummy-rainbow-sherbet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.2g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-200mg-knockout-gummy-rainbow-sherbet-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.856Z"
+}

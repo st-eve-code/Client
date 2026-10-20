@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-prepackaged-flower-blue-nerds",
+  "name": "Local Grove Prepackaged Flower | Blue Nerds",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Blue Sherb x Zkittlez \n\nBreeder: Unknown \n\nAroma & Flavor: Candy-like aroma and taste with blue and purple hues \n\nEffects: Hybrid – sweet flavor profile with a surprisingly heavy punch",
+  "description_html": "Genetics: Blue Sherb x Zkittlez <br /><br />Breeder: Unknown <br /><br />Aroma & Flavor: Candy-like aroma and taste with blue and purple hues <br /><br />Effects: Hybrid – sweet flavor profile with a surprisingly heavy punch",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/259959f5709adc50b6f42345ff1679d9",
+      "alt": "Local Grove Prepackaged Flower | Blue Nerds",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-prepackaged-flower-blue-nerds__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-prepackaged-flower-blue-nerds-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.453Z"
+}

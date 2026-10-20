@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-1g-pod-magic-melon",
+  "name": "Stiiizy | 1g Pod | Magic Melon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 17,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$17.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Magic Melon delivers an aromatic scent with a kick of gas, complemented by melon and tropical mango notes. Taste profile is a mix of tropical notes.",
+  "description_html": "Magic Melon delivers an aromatic scent with a kick of gas, complemented by melon and tropical mango notes. Taste profile is a mix of tropical notes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b29f415dabf5ac32a6dcb83ecd5479fd",
+      "alt": "Stiiizy | 1g Pod | Magic Melon",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-1g-pod-magic-melon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 17,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-1g-pod-magic-melon-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.776Z"
+}

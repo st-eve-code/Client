@@ -1,0 +1,50 @@
+{
+  "slug": "farm-marcellus-wedding-cake-x-lcg",
+  "name": "Farm Marcellus | Wedding Cake x LCG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$5.00 – $25.00",
+  "available": true,
+  "vendor": "Farm Marcellus LLC",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/56045601fedc60fd84a84df284a81d19",
+      "alt": "Farm Marcellus | Wedding Cake x LCG",
+      "local": "data\\scraped\\images\\shoppuff-com__farm-marcellus-wedding-cake-x-lcg__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 12.5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/farm-marcellus-wedding-cake-x-lcg-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.934Z"
+}

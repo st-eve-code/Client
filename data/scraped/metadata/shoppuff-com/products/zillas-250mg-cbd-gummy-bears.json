@@ -1,0 +1,35 @@
+{
+  "slug": "zillas-250mg-cbd-gummy-bears",
+  "name": "Zilla's | 250mg CBD Gummy Bears",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Zilla's",
+  "tags": [],
+  "description": "HIGHLIGHTS :\nZILLA'S has multiple award-winning products for their consistent quality and amazing products.\nZILLA'S is licensed to handle and process hemp products in Michigan.\nZILLA'S is an original Michigan brand, located right here in the Great Lakes State.",
+  "description_html": "HIGHLIGHTS :<br />ZILLA'S has multiple award-winning products for their consistent quality and amazing products.<br />ZILLA'S is licensed to handle and process hemp products in Michigan.<br />ZILLA'S is an original Michigan brand, located right here in the Great Lakes State.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3f999b684568807c304a25ae21d76765",
+      "alt": "Zilla's | 250mg CBD Gummy Bears",
+      "local": "data\\scraped\\images\\shoppuff-com__zillas-250mg-cbd-gummy-bears__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zillas-250mg-cbd-gummy-bears-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.264Z"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "road-trip-motel-magic-mushroom-gummies-8-pack",
+  "name": "Road Trip Motel Magic Mushroom Gummies | 8-Pack",
+  "site": "ochoextracts-com",
+  "category": "gourmet-gummies",
+  "price_min": 27.99,
+  "price_max": 27.99,
+  "currency": "GBP",
+  "price_range": "£27.99",
+  "available": true,
+  "sku": "RT-MM-8CT-BC",
+  "vendor": "Road Trip",
+  "tags": [
+    "Gummies",
+    "Motel Magic",
+    "Mushroom Gummies",
+    "Mushrooms"
+  ],
+  "description": "The Details\n\n• 8 Gummies Per Pouch Built on Desert Stardust Mushroom Blend\n\n• Enhanced with 10:1 Lion's Mane + Maca Root + L-Theanine + Saffron Formula\n\n• Motivated Lift and Smooth Mood Support in Every Bite\n\n• Clear, Clean Headspace Without the Heavy Feeling\n\n• Warm, Uplifted Social Vibe Designed to Keep You Connected",
+  "description_html": "<h3>The Details</h3>\n<ul>\n<li>8 Gummies Per Pouch Built on Desert Stardust Mushroom Blend</li>\n<li>Enhanced with 10:1 Lion's Mane + Maca Root + L-Theanine + Saffron Formula</li>\n<li>Motivated Lift and Smooth Mood Support in Every Bite</li>\n<li>Clear, Clean Headspace Without the Heavy Feeling</li>\n<li>Warm, Uplifted Social Vibe Designed to Keep You Connected</li>\n</ul>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Road_Trip-MM-JP2.png?v=1788469687",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__road-trip-motel-magic-mushroom-gummies-8-pack__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Road_Trip-MM-BC.png?v=1788469517",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__road-trip-motel-magic-mushroom-gummies-8-pack__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46548119650490,
+      "title": "Black Cherry",
+      "price": 27.99,
+      "sku": "RT-MM-8CT-BC",
+      "available": true
+    },
+    {
+      "id": 46548119683258,
+      "title": "Juicy Peach",
+      "price": 27.99,
+      "sku": "RT-MM-8CT-JP",
+      "available": true
+    }
+  ],
+  "collections": [
+    "gourmet-gummies",
+    "mushroom-extract-products",
+    "mushroom-gummies",
+    "road-trip-mushroom-products"
+  ],
+  "source_url": "https://ochoextracts.com/products/road-trip-motel-magic-mushroom-gummies-8-pack",
+  "scraped_at": "2026-10-10T21:42:41.836Z"
+}

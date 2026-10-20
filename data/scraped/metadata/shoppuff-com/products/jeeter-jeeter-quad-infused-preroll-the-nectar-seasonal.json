@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-quad-infused-preroll-the-nectar-seasonal",
+  "name": "Jeeter Quad Infused Preroll | The Nectar (Seasonal)",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6.5,
+  "price_max": 6.5,
+  "currency": "USD",
+  "price_range": "$6.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "The Nectar captures the slower side of summer. Juicy peach and tart raspberry come together in a flavor profile that feels effortless and easygoing from the very first inhale.\n\nA bright raspberry pop leads the way before soft nectarine sweetness settles in, creating a smooth, balanced finish that lingers just enough. Whether it's a sunset on the beach, a backyard gathering, or a quiet evening outdoors, The Nectar was made for the moments when the day begins to slow down and the best part of summer is just getting started.",
+  "description_html": "The Nectar captures the slower side of summer. Juicy peach and tart raspberry come together in a flavor profile that feels effortless and easygoing from the very first inhale.<br /><br />A bright raspberry pop leads the way before soft nectarine sweetness settles in, creating a smooth, balanced finish that lingers just enough. Whether it's a sunset on the beach, a backyard gathering, or a quiet evening outdoors, The Nectar was made for the moments when the day begins to slow down and the best part of summer is just getting started.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6ad6a232457873b7bce2085cb7765d20",
+      "alt": "Jeeter Quad Infused Preroll | The Nectar (Seasonal)",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-quad-infused-preroll-the-nectar-seasonal__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-quad-infused-preroll-the-nectar-seasonal-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.606Z"
+}

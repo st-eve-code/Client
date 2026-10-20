@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-1-2g-infused-pre-roll-guava-gelato",
+  "name": "Midwest Extracts | 1.2g Infused Pre-Roll | Guava Gelato",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/10a7bf3185639ac2c3ce50f5e9a2e73e",
+      "alt": "Midwest Extracts | 1.2g Infused Pre-Roll | Guava Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-1-2g-infused-pre-roll-guava-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-1-2g-infused-pre-roll-guava-gelato-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.784Z"
+}

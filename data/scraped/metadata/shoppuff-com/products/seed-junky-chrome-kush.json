@@ -1,0 +1,60 @@
+{
+  "slug": "seed-junky-chrome-kush",
+  "name": "Seed Junky | Chrome Kush",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 200.99,
+  "currency": "USD",
+  "price_range": "$10.00 – $200.99",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Chrome Kush is the ultimate old school meets new school. This flower delivers a bold fusion of pungent gas and earthy kush with a unique metallic edge that gives the strain its name. Built for OG lovers, the inhale is loud and fuel-forward with rich kush undertones, while the exhale leaves behind a tangy sweetness. This indica provides deeply relaxing, euphoric effects that settle heavily into the body, making it ideal for unwinding, evening sessions and full body relaxation. \n\nHollywood Pure Kush x Permanent Marker",
+  "description_html": "Chrome Kush is the ultimate old school meets new school. This flower delivers a bold fusion of pungent gas and earthy kush with a unique metallic edge that gives the strain its name. Built for OG lovers, the inhale is loud and fuel-forward with rich kush undertones, while the exhale leaves behind a tangy sweetness. This indica provides deeply relaxing, euphoric effects that settle heavily into the body, making it ideal for unwinding, evening sessions and full body relaxation. <br /><br />Hollywood Pure Kush x Permanent Marker",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d7feb82fef0cf302255397effc9a2862",
+      "alt": "Seed Junky | Chrome Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-chrome-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 200.99,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 120,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-chrome-kush-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.627Z"
+}

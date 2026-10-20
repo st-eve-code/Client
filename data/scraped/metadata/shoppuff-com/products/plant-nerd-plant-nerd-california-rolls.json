@@ -1,0 +1,60 @@
+{
+  "slug": "plant-nerd-plant-nerd-california-rolls",
+  "name": "Plant Nerd | California Rolls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150.99,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.99",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "It has sour lemon candy, minty pine, and diesel rolled into one strain. Great flavor with purple/green flower with great trichome coverage.",
+  "description_html": "It has sour lemon candy, minty pine, and diesel rolled into one strain. Great flavor with purple/green flower with great trichome coverage.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b53b9ba9886aabc951c1e08ad0cff1f9",
+      "alt": "Plant Nerd | California Rolls",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-california-rolls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150.99,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-california-rolls-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.579Z"
+}

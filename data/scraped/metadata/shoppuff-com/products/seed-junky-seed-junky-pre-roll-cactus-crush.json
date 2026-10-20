@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-pre-roll-cactus-crush",
+  "name": "Seed Junky Pre-Roll | Cactus Crush",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Concha hits like a warm, toasted Mexican sweet bread—think buttery, sugary crust with deep undertones of earthy spice and a smooth, gassy exhale. Much like a Cap Junky or other \"Junky\" crosses, it offers a dense, resinous profile that smells of ripe fruit and pungent diesel. The experience is a 1-2 punch: an intense, tingly head rush that slowly melts into a focused, positive mood and long-lasting physical ease. It’s a rich, comforting classic that balances high-end potency with a refined, bakery-fresh flavor.",
+  "description_html": "Concha hits like a warm, toasted Mexican sweet bread—think buttery, sugary crust with deep undertones of earthy spice and a smooth, gassy exhale. Much like a Cap Junky or other \"Junky\" crosses, it offers a dense, resinous profile that smells of ripe fruit and pungent diesel. The experience is a 1-2 punch: an intense, tingly head rush that slowly melts into a focused, positive mood and long-lasting physical ease. It’s a rich, comforting classic that balances high-end potency with a refined, bakery-fresh flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/32240ee7e7def3e4cd09ea2587fa525c",
+      "alt": "Seed Junky Pre-Roll | Cactus Crush",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-pre-roll-cactus-crush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-pre-roll-cactus-crush-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.822Z"
+}

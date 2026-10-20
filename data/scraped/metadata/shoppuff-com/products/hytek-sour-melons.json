@@ -1,0 +1,50 @@
+{
+  "slug": "hytek-sour-melons",
+  "name": "Hytek | Sour Melons",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 90,
+  "currency": "USD",
+  "price_range": "$20.00 – $90.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Its like the bright sun coming out of nowhere on a cool cloudy day!! The Sour Melons gives off a Sour D punch with hints of melon. \n\nCategory: Sativa\nBreeder: Karma Genetics\nPheno: Selected in house\nCross: Sour D x Fresca Melon",
+  "description_html": "Its like the bright sun coming out of nowhere on a cool cloudy day!! The Sour Melons gives off a Sour D punch with hints of melon. <br /><br />Category: Sativa<br />Breeder: Karma Genetics<br />Pheno: Selected in house<br />Cross: Sour D x Fresca Melon",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0baba079db97ff80aba8649275108e0c",
+      "alt": "Hytek | Sour Melons",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-sour-melons__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 90,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-sour-melons-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.523Z"
+}

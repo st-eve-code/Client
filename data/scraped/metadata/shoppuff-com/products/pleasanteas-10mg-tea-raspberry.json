@@ -1,0 +1,35 @@
+{
+  "slug": "pleasanteas-10mg-tea-raspberry",
+  "name": "Pleasanteas | 10mg Tea | Raspberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Pleasanteas",
+  "tags": [],
+  "description": "10mg Infused raspberry flavored tea by Pleasanteas.",
+  "description_html": "10mg Infused raspberry flavored tea by Pleasanteas.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a2c0e281864bc47703dc7484429d7c1d",
+      "alt": "Pleasanteas | 10mg Tea | Raspberry",
+      "local": "data\\scraped\\images\\shoppuff-com__pleasanteas-10mg-tea-raspberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "12.0g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pleasanteas-10mg-tea-raspberry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.302Z"
+}

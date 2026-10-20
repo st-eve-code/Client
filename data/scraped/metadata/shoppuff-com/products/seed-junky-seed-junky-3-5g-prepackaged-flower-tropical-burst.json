@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-3-5g-prepackaged-flower-tropical-burst",
+  "name": "Seed Junky | 3.5g Prepackaged Flower | Tropical Burst",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Tropical Burst is a bright sativa that has the aroma of tropical citrus and creamy dough. The smell and taste of this strain have a near perfect translation to each other. Tropical Burst strain has powerful mouth coating citrus flavor and aroma, giving creative inspiration and a euphoric high to start the day.",
+  "description_html": "Tropical Burst is a bright sativa that has the aroma of tropical citrus and creamy dough. The smell and taste of this strain have a near perfect translation to each other. Tropical Burst strain has powerful mouth coating citrus flavor and aroma, giving creative inspiration and a euphoric high to start the day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c3af90d735278b46bdd1853f0ab3ab94",
+      "alt": "Seed Junky | 3.5g Prepackaged Flower | Tropical Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-3-5g-prepackaged-flower-tropical-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-3-5g-prepackaged-flower-tropical-burst-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.816Z"
+}

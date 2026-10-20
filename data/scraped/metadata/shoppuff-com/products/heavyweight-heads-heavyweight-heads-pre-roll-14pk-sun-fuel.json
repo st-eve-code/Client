@@ -1,0 +1,35 @@
+{
+  "slug": "heavyweight-heads-heavyweight-heads-pre-roll-14pk-sun-fuel",
+  "name": "Heavyweight Heads Pre-Roll 14pk | Sun Fuel",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Heavyweight Heads",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d38878e447c482cb5cc599425a42280d",
+      "alt": "Heavyweight Heads Pre-Roll 14pk | Sun Fuel",
+      "local": "data\\scraped\\images\\shoppuff-com__heavyweight-heads-heavyweight-heads-pre-roll-14pk-sun-fuel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/heavyweight-heads-heavyweight-heads-pre-roll-14pk-sun-fuel-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.357Z"
+}

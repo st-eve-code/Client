@@ -1,0 +1,35 @@
+{
+  "slug": "apex-apex-super-buff-cherry",
+  "name": "Apex | Super Buff Cherry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Apex",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1c194ac3a07c2a4f345a318db35db85f",
+      "alt": "Apex | Super Buff Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__apex-apex-super-buff-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/apex-apex-super-buff-cherry-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.414Z"
+}

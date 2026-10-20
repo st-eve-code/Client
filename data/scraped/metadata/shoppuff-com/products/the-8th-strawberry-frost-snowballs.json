@@ -1,0 +1,35 @@
+{
+  "slug": "the-8th-strawberry-frost-snowballs",
+  "name": "Strawberry Frost Snowballs",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "The 8th",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/984927d3c38c74d60739a0b4634ea915",
+      "alt": "Strawberry Frost Snowballs",
+      "local": "data\\scraped\\images\\shoppuff-com__the-8th-strawberry-frost-snowballs__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-8th-strawberry-frost-snowballs-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.402Z"
+}

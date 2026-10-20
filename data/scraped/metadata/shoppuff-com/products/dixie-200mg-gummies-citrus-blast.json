@@ -1,0 +1,35 @@
+{
+  "slug": "dixie-200mg-gummies-citrus-blast",
+  "name": "Dixie | 200mg Gummies | Citrus Blast",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Dixie",
+  "tags": [],
+  "description": "Blasting with juicy citrus flavors, we (and others) think this award-winning sativa-dominant gummy is the best tasting gummy around. Enjoy before a concert, barbecue, or anytime you’re looking for a truly tasty and consistently-dosed edible.",
+  "description_html": "Blasting with juicy citrus flavors, we (and others) think this award-winning sativa-dominant gummy is the best tasting gummy around. Enjoy before a concert, barbecue, or anytime you’re looking for a truly tasty and consistently-dosed edible.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/46b4106fe2d5ea37772f2edd1ac40f98",
+      "alt": "Dixie | 200mg Gummies | Citrus Blast",
+      "local": "data\\scraped\\images\\shoppuff-com__dixie-200mg-gummies-citrus-blast__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.185g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dixie-200mg-gummies-citrus-blast-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.040Z"
+}

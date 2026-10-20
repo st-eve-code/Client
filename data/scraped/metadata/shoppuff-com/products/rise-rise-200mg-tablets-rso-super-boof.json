@@ -1,0 +1,35 @@
+{
+  "slug": "rise-rise-200mg-tablets-rso-super-boof",
+  "name": "Rise | 200mg Tablets | RSO + Super Boof",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "RISE",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/35431cac26fb882851273f771e3ba94b",
+      "alt": "Rise | 200mg Tablets | RSO + Super Boof",
+      "local": "data\\scraped\\images\\shoppuff-com__rise-rise-200mg-tablets-rso-super-boof__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": ".3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ORAL"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rise-rise-200mg-tablets-rso-super-boof-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.451Z"
+}

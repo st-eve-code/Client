@@ -1,0 +1,40 @@
+{
+  "slug": "stiiizy-40s-blunt-watermelon-z",
+  "name": "Stiiizy | 40's Blunt | Watermelon Z",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 13,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$13.00 – $20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Elevate your pre-roll game. STIIIZY 40's pre-rolls are setting the standard with, cannabis infused joints coated evenly with kief. Using our proprietary live resin infusion methods, we’ve designed every pre-roll to have a unique profile. Each and every STIIIZY 40's is packed with premium, high quality flower specifically made for a quality experience.\n\nBISCOTTI\n\nTASTE: Earthy, Pine, Nutty\n\nFEELING: Relaxing, Sleepy, Giggly\n\nDESCRIPTION: An Indica-dominant strain that comes from Gelato #25 and South Florida OG. Biscotti delivers a powerful body high and delicious flavor.",
+  "description_html": "Elevate your pre-roll game. STIIIZY 40's pre-rolls are setting the standard with, cannabis infused joints coated evenly with kief. Using our proprietary live resin infusion methods, we’ve designed every pre-roll to have a unique profile. Each and every STIIIZY 40's is packed with premium, high quality flower specifically made for a quality experience.<br /><br />BISCOTTI<br /><br />TASTE: Earthy, Pine, Nutty<br /><br />FEELING: Relaxing, Sleepy, Giggly<br /><br />DESCRIPTION: An Indica-dominant strain that comes from Gelato #25 and South Florida OG. Biscotti delivers a powerful body high and delicious flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4585e957d6f0a4e2397bd63566003ca0",
+      "alt": "Stiiizy | 40's Blunt | Watermelon Z",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-blunt-watermelon-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 13,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-blunt-watermelon-z-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.757Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "dutch-touch-genetics-lilac-diesel",
+  "name": "Dutch Touch Genetics | Lilac Diesel",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Dutch Touch Genetics",
+  "tags": [],
+  "description": "3rd Place Sativa (High Times Cannabis Cup). Big buds have a complex terpene profile, including notes of citrus, sweet berries, earthy pine, and chem. Lilac Diesel is a great afternoon strain for a lackadaisical adventure.\n\nType: Sativa\n\nLineage: Silver Lemon Haze x Forbidden Fruit x NYC Cherry Pie x Citral Glue",
+  "description_html": "3rd Place Sativa (High Times Cannabis Cup). Big buds have a complex terpene profile, including notes of citrus, sweet berries, earthy pine, and chem. Lilac Diesel is a great afternoon strain for a lackadaisical adventure.<br /><br />Type: Sativa<br /><br />Lineage: Silver Lemon Haze x Forbidden Fruit x NYC Cherry Pie x Citral Glue",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/95bd19d5b87a7b7198d9822d1e2d4829",
+      "alt": "Dutch Touch Genetics | Lilac Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__dutch-touch-genetics-lilac-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dutch-touch-genetics-lilac-diesel-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.599Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "gans-bbl",
+  "name": "GANS | BBL",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "GANS",
+  "tags": [],
+  "description": "BBL is a cannabis strain developed by Gans Cannabis, a Detroit-based brand. It is an indica-dominant hybrid strain, created by crossing the strains Doc and Medellin.",
+  "description_html": "BBL is a cannabis strain developed by Gans Cannabis, a Detroit-based brand. It is an indica-dominant hybrid strain, created by crossing the strains Doc and Medellin.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1cf8dc7239871d4f25588d2abc6cfc50",
+      "alt": "GANS | BBL",
+      "local": "data\\scraped\\images\\shoppuff-com__gans-bbl__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gans-bbl-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.456Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-handroll-pillow-talk",
+  "name": "Hyman Cannabis Handroll | Pillow Talk",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Indica\n\nFlavors: Candy, Fruity\n\nAromas: Candy, Fruity\n\nExperience: Uplifting, Euphoria, Sleepy",
+  "description_html": "Strain Type: Indica<br /><br />Flavors: Candy, Fruity<br /><br />Aromas: Candy, Fruity<br /><br />Experience: Uplifting, Euphoria, Sleepy",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cb5fed9e66639d304b783c8257e0d471",
+      "alt": "Hyman Cannabis Handroll | Pillow Talk",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-handroll-pillow-talk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-handroll-pillow-talk-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.825Z"
+}

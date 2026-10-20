@@ -1,0 +1,60 @@
+{
+  "slug": "goldkine-goldkine-hash-burger",
+  "name": "Goldkine | Hash Burger",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$5.00 – $125.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Indulge in the bold, earthy essence of Hash Burger, a strain that offers a rich, savory experience with every puff. Its musky, herbal aroma, accented by hints of spice, creates a complex and satisfying flavor profile that lingers on the palate. Hash Burger’s effects are a perfect balance of focus and relaxation, providing an uplifting mental clarity while gently easing the body into a calm, soothing state. Whether you’re looking to unwind after a long day or stay engaged while easing stress, this strain keeps you mentally sharp without overwhelming sedation. Ideal for those who appreciate depth in both flavor and effect, Hash Burger is the ultimate companion for a well-rounded, enjoyable cannabis experience, delivering the perfect mix of relaxation and awareness whenever you need it.",
+  "description_html": "Indulge in the bold, earthy essence of Hash Burger, a strain that offers a rich, savory experience with every puff. Its musky, herbal aroma, accented by hints of spice, creates a complex and satisfying flavor profile that lingers on the palate. Hash Burger’s effects are a perfect balance of focus and relaxation, providing an uplifting mental clarity while gently easing the body into a calm, soothing state. Whether you’re looking to unwind after a long day or stay engaged while easing stress, this strain keeps you mentally sharp without overwhelming sedation. Ideal for those who appreciate depth in both flavor and effect, Hash Burger is the ultimate companion for a well-rounded, enjoyable cannabis experience, delivering the perfect mix of relaxation and awareness whenever you need it.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9eb7932a6216974a4845fe1f60cd2e48",
+      "alt": "Goldkine | Hash Burger",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-hash-burger__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 70,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-hash-burger-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.620Z"
+}

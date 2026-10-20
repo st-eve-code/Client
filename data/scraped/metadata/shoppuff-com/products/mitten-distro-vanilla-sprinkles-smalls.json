@@ -1,0 +1,55 @@
+{
+  "slug": "mitten-distro-vanilla-sprinkles-smalls",
+  "name": "Mitten Distro | Vanilla Sprinkles (Smalls)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$6.00 – $45.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a731b4953bcabe0b2c4d206dccf4ac41",
+      "alt": "Mitten Distro | Vanilla Sprinkles (Smalls)",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-distro-vanilla-sprinkles-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-distro-vanilla-sprinkles-smalls-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.504Z"
+}

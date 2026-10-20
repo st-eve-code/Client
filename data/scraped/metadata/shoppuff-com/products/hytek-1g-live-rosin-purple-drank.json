@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-1g-live-rosin-purple-drank",
+  "name": "Hytek | 1g Live Rosin | Purple Drank",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "1g Live Rosin",
+  "description_html": "1g Live Rosin",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4410a13655c71486ffba7c1fcd0e9cfb",
+      "alt": "Hytek | 1g Live Rosin | Purple Drank",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-1g-live-rosin-purple-drank__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-1g-live-rosin-purple-drank-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.871Z"
+}

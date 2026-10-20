@@ -1,0 +1,35 @@
+{
+  "slug": "cheech-chong-cheech-n-chong-infused-preroll-pink-champagne",
+  "name": "Cheech n Chong Infused Preroll | Pink Champagne",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 2.5,
+  "price_max": 2.5,
+  "currency": "USD",
+  "price_range": "$2.50",
+  "available": true,
+  "vendor": "Cheech & Chong",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5cc47daff64f6813d5d4c6dd5a7c452e",
+      "alt": "Cheech n Chong Infused Preroll | Pink Champagne",
+      "local": "data\\scraped\\images\\shoppuff-com__cheech-chong-cheech-n-chong-infused-preroll-pink-champagne__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.2g",
+      "price": 2.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cheech-chong-cheech-n-chong-infused-preroll-pink-champagne-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.810Z"
+}

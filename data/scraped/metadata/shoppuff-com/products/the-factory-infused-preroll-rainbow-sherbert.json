@@ -1,0 +1,35 @@
+{
+  "slug": "the-factory-infused-preroll-rainbow-sherbert",
+  "name": "The Factory Infused Preroll | Rainbow Sherbert",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/868e53cb2ac5de7a4a0b737d2d42c299",
+      "alt": "The Factory Infused Preroll | Rainbow Sherbert",
+      "local": "data\\scraped\\images\\shoppuff-com__the-factory-infused-preroll-rainbow-sherbert__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/the-factory-infused-preroll-rainbow-sherbert-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.665Z"
+}

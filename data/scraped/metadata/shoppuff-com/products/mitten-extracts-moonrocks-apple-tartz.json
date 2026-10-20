@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-moonrocks-apple-tartz",
+  "name": "Mitten Extracts Moonrocks | Apple Tartz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Crisp apple sweetness meets smooth dessert-style flavor in Apple Tartz Moon Rocks. The layered infusion of flower, concentrate, and kief delivers a rich, flavorful smoke with a potent finish.",
+  "description_html": "Crisp apple sweetness meets smooth dessert-style flavor in Apple Tartz Moon Rocks. The layered infusion of flower, concentrate, and kief delivers a rich, flavorful smoke with a potent finish.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/73316eb6fd87380772547daa6ff82365",
+      "alt": "Mitten Extracts Moonrocks | Apple Tartz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-moonrocks-apple-tartz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-moonrocks-apple-tartz-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.601Z"
+}

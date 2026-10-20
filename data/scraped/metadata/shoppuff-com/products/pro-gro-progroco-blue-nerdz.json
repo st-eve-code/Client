@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-blue-nerdz",
+  "name": "Blue Nerdz Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 200,
+  "currency": "USD",
+  "price_range": "$10.00 – $200.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Blue sherb (Blue cookies x sunset sherb) x Nerdz Type: Hybrid Terpenes: β-Myrcene, Limonene, Linalool Effects: Focused,Relaxed Aroma: Apple, Blueberry, Apricot Blue Nerdz is a nostalgic throwback to tangy blue raspberry candies. This indica-dominant strain brings a sweet and sour flavor profile, paired with an energetic high that’s perfect for focus. It’s a favorite for stress relief without leaving you couch-locked.",
+  "description_html": "Lineage: Blue sherb (Blue cookies x sunset sherb) x Nerdz Type: Hybrid Terpenes: β-Myrcene, Limonene, Linalool Effects: Focused,Relaxed Aroma: Apple, Blueberry, Apricot Blue Nerdz is a nostalgic throwback to tangy blue raspberry candies. This indica-dominant strain brings a sweet and sour flavor profile, paired with an energetic high that’s perfect for focus. It’s a favorite for stress relief without leaving you couch-locked.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cc116730ad160ab6a343dd0da3b3059c",
+      "alt": "Blue Nerdz Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-blue-nerdz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 50,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 200,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 100,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-blue-nerdz-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.822Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "wojo-co-wojo-live-rosin-sundae-driver",
+  "name": "Wojo Live Rosin | Sundae Driver",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Wojo Co",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8fd972553dc3ae27126eb4ebf4cf28ca",
+      "alt": "Wojo Live Rosin | Sundae Driver",
+      "local": "data\\scraped\\images\\shoppuff-com__wojo-co-wojo-live-rosin-sundae-driver__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wojo-co-wojo-live-rosin-sundae-driver-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.916Z"
+}

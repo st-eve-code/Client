@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-3-5g-prepackaged-flower-sour-shotz",
+  "name": "Seed Junky | 3.5g Prepackaged Flower | Sour Shotz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Sour Shotz embodies the electric culture of NYC, where bold flavors and vibrant energy collide. The tangy, fuel-like aroma pays homage to bustling city streets, while the creamy, fruity undertones evoke the indulgent treats found in iconic corner shops and bodegas. Sour Shotz delivers an energizing and creative high perfect for artists, dreamers and go-getters alike.",
+  "description_html": "Sour Shotz embodies the electric culture of NYC, where bold flavors and vibrant energy collide. The tangy, fuel-like aroma pays homage to bustling city streets, while the creamy, fruity undertones evoke the indulgent treats found in iconic corner shops and bodegas. Sour Shotz delivers an energizing and creative high perfect for artists, dreamers and go-getters alike.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/21fd64860874ada32f894404c2c7b9e7",
+      "alt": "Seed Junky | 3.5g Prepackaged Flower | Sour Shotz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-3-5g-prepackaged-flower-sour-shotz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-3-5g-prepackaged-flower-sour-shotz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.360Z"
+}

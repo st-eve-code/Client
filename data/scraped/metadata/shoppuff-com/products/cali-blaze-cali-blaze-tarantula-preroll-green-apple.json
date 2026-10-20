@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-cali-blaze-tarantula-preroll-green-apple",
+  "name": "Cali Blaze Tarantula Preroll | Green Apple",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Sour, crisp, and tart. The sativa genetics make this one energizing — think morning smoke or afternoon pick-me-up. The green apple flavor is punchy without being artificial. Clean finish with a slight citrus edge.\n\n* Liquid Diamond Infused: Injected with concentrate for amplified potency.\n* Kief Crusted: Rolled in kief for an extra layer of flavor and THC.",
+  "description_html": "Sour, crisp, and tart. The sativa genetics make this one energizing — think morning smoke or afternoon pick-me-up. The green apple flavor is punchy without being artificial. Clean finish with a slight citrus edge.<br /><br />* Liquid Diamond Infused: Injected with concentrate for amplified potency.<br />* Kief Crusted: Rolled in kief for an extra layer of flavor and THC.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0ea32cd529a7919bbd64be57323bdefd",
+      "alt": "Cali Blaze Tarantula Preroll | Green Apple",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-cali-blaze-tarantula-preroll-green-apple__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-cali-blaze-tarantula-preroll-green-apple-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.762Z"
+}

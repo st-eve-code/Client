@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-premium-preroll-juicee-j",
+  "name": "Local Grove Premium Preroll | Juicee J",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Cap Junky x (Gelato 41 x Sunset Sherbert BX) \n\nBreeder: Seed Junky Genetics \n\nAroma & Flavor: Sweet, gassy notes with dense trichome-covered buds \n\nEffects: Powerful hybrid – very strong and long-lasting effects",
+  "description_html": "Genetics: Cap Junky x (Gelato 41 x Sunset Sherbert BX) <br /><br />Breeder: Seed Junky Genetics <br /><br />Aroma & Flavor: Sweet, gassy notes with dense trichome-covered buds <br /><br />Effects: Powerful hybrid – very strong and long-lasting effects",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8ff4c145d760018f8ec7299aa8ebc2c4",
+      "alt": "Local Grove Premium Preroll | Juicee J",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-premium-preroll-juicee-j__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-premium-preroll-juicee-j-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.359Z"
+}

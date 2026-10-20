@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-premium-jack-original-pod-1g",
+  "name": "Premium Jack Original Pod | 1g",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Premium Jack is a sativa strain featuring vibrant buds and a bold aroma profile with dominant earthy, peppery, and herbal notes.",
+  "description_html": "Premium Jack is a sativa strain featuring vibrant buds and a bold aroma profile with dominant earthy, peppery, and herbal notes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3fe7b223375a21cfaea14c2887f40418",
+      "alt": "Premium Jack Original Pod | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-premium-jack-original-pod-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-premium-jack-original-pod-1g-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.485Z"
+}

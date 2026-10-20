@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-live-resin-disposable-rs11",
+  "name": "Jeeter Live Resin Disposable | RS11",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 17.5,
+  "price_max": 17.5,
+  "currency": "USD",
+  "price_range": "$17.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9beabbdbfb767cdf5faa3b249a285a19",
+      "alt": "Jeeter Live Resin Disposable | RS11",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-live-resin-disposable-rs11__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 17.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-live-resin-disposable-rs11-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.488Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tonic-tonic-100mg-beverage-tropical-punch-11",
+  "name": "Tonic | 100mg Beverage | Tropical Punch 1:1",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Tonic",
+  "tags": [],
+  "description": "Tropical Punch 1:1 Tonic is an incredibly delicious, cannabis infused beverage that incorporates a sophisticated liposomal encapsulation technology that delivers cannabinoids far more efficiently than traditional edibles. The original 12 oz Tonic includes the easy dose strip that simplifies dosing to keep you in control.",
+  "description_html": "Tropical Punch 1:1 Tonic is an incredibly delicious, cannabis infused beverage that incorporates a sophisticated liposomal encapsulation technology that delivers cannabinoids far more efficiently than traditional edibles. The original 12 oz Tonic includes the easy dose strip that simplifies dosing to keep you in control.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d0ef875e26f60099a3abf3d4afb64fca",
+      "alt": "Tonic | 100mg Beverage | Tropical Punch 1:1",
+      "local": "data\\scraped\\images\\shoppuff-com__tonic-tonic-100mg-beverage-tropical-punch-11__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tonic-tonic-100mg-beverage-tropical-punch-11-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.348Z"
+}

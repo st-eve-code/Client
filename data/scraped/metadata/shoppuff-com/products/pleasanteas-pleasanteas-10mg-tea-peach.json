@@ -1,0 +1,35 @@
+{
+  "slug": "pleasanteas-pleasanteas-10mg-tea-peach",
+  "name": "Pleasanteas | 10mg Tea | Peach",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Pleasanteas",
+  "tags": [],
+  "description": "10mg Infused Tea",
+  "description_html": "10mg Infused Tea",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fddae429c75f850e5fa601baadb90186",
+      "alt": "Pleasanteas | 10mg Tea | Peach",
+      "local": "data\\scraped\\images\\shoppuff-com__pleasanteas-pleasanteas-10mg-tea-peach__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "12.0g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pleasanteas-pleasanteas-10mg-tea-peach-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.678Z"
+}

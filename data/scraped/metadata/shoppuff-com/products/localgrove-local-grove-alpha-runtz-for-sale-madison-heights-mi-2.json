@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-alpha-runtz-for-sale-madison-heights-mi-2",
+  "name": "Local Grove | Alpha Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 179,
+  "currency": "USD",
+  "price_range": "$10.00 – $179.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Bacio Gelato x Runtz \n\nBreeder: Clearwater Genetics \n\nAroma & Flavor: Fresh lemony candy on the plant; cured buds reveal rich chocolate candy gas \n\nEffects: Hybrid – uplifting with a sweet, flavorful smoke and relaxing body finish",
+  "description_html": "Genetics: Bacio Gelato x Runtz <br /><br />Breeder: Clearwater Genetics <br /><br />Aroma & Flavor: Fresh lemony candy on the plant; cured buds reveal rich chocolate candy gas <br /><br />Effects: Hybrid – uplifting with a sweet, flavorful smoke and relaxing body finish",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b785b309d9d8f385d4d0d0857cea4550",
+      "alt": "Local Grove | Alpha Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-alpha-runtz-for-sale-madison-heights-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 179,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 95,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-alpha-runtz-for-sale-madison-heights-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.896Z"
+}

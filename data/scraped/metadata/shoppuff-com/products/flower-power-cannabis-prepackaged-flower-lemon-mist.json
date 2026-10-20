@@ -1,0 +1,35 @@
+{
+  "slug": "flower-power-cannabis-prepackaged-flower-lemon-mist",
+  "name": "Flower Power Cannabis Prepackaged Flower | Lemon Mist",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Flower Power Cannabis",
+  "tags": [],
+  "description": "3.5G Pre Pack of our brand new strain Lemon Mist. Hand-picked for the best experience.\n\n(Lemon Tree X Cream Smoothie) X (Sweet Retreat X Zkittles) | Sativa-Dominant Hybrid\n\nDominant Terpenes: Limonene, Linalool, Myrcene, Humulene",
+  "description_html": "3.5G Pre Pack of our brand new strain Lemon Mist. Hand-picked for the best experience.<br /><br /><br /><br />(Lemon Tree X Cream Smoothie) X (Sweet Retreat X Zkittles) | Sativa-Dominant Hybrid<br /><br />Dominant Terpenes: Limonene, Linalool, Myrcene, Humulene",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d66e053bc3635ec1630073136c0e5b0c",
+      "alt": "Flower Power Cannabis Prepackaged Flower | Lemon Mist",
+      "local": "data\\scraped\\images\\shoppuff-com__flower-power-cannabis-prepackaged-flower-lemon-mist__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/flower-power-cannabis-prepackaged-flower-lemon-mist-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.406Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "goodlyfe-farms-blue-raspberry-infused-pre-roll-1g",
+  "name": "Blue Raspberry Infused Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Goodlyfe",
+  "tags": [],
+  "description": "Blue Raspberry is a balanced hybrid strain where the blue flavor will give you flashbacks of the fruity, blue treats you used to enjoy as a child. Blue Raspberry has a heavy berry, fruit flavor forward with a citrusy and an almost licorice aftertaste. Its dominant terpenes are D-Limonene and Myrcene.",
+  "description_html": "Blue Raspberry is a balanced hybrid strain where the blue flavor will give you flashbacks of the fruity, blue treats you used to enjoy as a child. Blue Raspberry has a heavy berry, fruit flavor forward with a citrusy and an almost licorice aftertaste. Its dominant terpenes are D-Limonene and Myrcene.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/082ea3efa9822335ba82fec1f498c168",
+      "alt": "Blue Raspberry Infused Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__goodlyfe-farms-blue-raspberry-infused-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goodlyfe-farms-blue-raspberry-infused-pre-roll-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.342Z"
+}

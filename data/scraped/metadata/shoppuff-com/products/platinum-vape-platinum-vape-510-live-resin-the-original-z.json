@@ -1,0 +1,35 @@
+{
+  "slug": "platinum-vape-platinum-vape-510-live-resin-the-original-z",
+  "name": "Platinum Vape 510 Live Resin | The Original Z",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 14,
+  "price_max": 14,
+  "currency": "USD",
+  "price_range": "$14.00",
+  "available": true,
+  "vendor": "Platinum Vape",
+  "tags": [],
+  "description": "1g 510 Live Resin.",
+  "description_html": "1g 510 Live Resin.                                                                               <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/vaporizers.jpg",
+      "alt": "Platinum Vape 510 Live Resin | The Original Z",
+      "local": "data\\scraped\\images\\shoppuff-com__platinum-vape-platinum-vape-510-live-resin-the-original-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 14,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/platinum-vape-platinum-vape-510-live-resin-the-original-z-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.205Z"
+}

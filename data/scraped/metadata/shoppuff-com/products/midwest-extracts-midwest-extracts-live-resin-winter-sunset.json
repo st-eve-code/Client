@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-midwest-extracts-live-resin-winter-sunset",
+  "name": "Midwest Extracts Live Resin | Winter Sunset",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "Midwest Extracts Winter Sunset 5G Puck\n5 grams premium concentrate\n\nStrain Dominance: Hybrid\n\nLineage: Sugar Cane X Chimera",
+  "description_html": "Midwest Extracts Winter Sunset 5G Puck<br />5 grams premium concentrate<br /><br />Strain Dominance: Hybrid<br /><br />Lineage: Sugar Cane X Chimera",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/39e194ee56e3d561ba892938b1f25959",
+      "alt": "Midwest Extracts Live Resin | Winter Sunset",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-midwest-extracts-live-resin-winter-sunset__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-midwest-extracts-live-resin-winter-sunset-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.289Z"
+}

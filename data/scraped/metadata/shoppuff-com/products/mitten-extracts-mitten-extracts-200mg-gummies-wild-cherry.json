@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-200mg-gummies-wild-cherry",
+  "name": "Mitten Extracts | 200mg Gummies | Wild Cherry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Bold, sweet, and just a little tart, Wild Cherry is a classic candy favorite that never goes out of style. A juicy treat for cherry lovers everywhere.",
+  "description_html": "Bold, sweet, and just a little tart, Wild Cherry is a classic candy favorite that never goes out of style. A juicy treat for cherry lovers everywhere.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a890b21c7fbb6b3cbcab686d7f721fb9",
+      "alt": "Mitten Extracts | 200mg Gummies | Wild Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-200mg-gummies-wild-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-200mg-gummies-wild-cherry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.034Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "jointman-moon-rocks-watermelon-ice",
+  "name": "Jointman | Moon Rocks | Watermelon Ice",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.4,
+  "price_max": 175,
+  "currency": "USD",
+  "price_range": "$8.40 – $175.00",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Jointman | Moon Rocks | Watermelon Ice",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-moon-rocks-watermelon-ice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 175,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 87.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-moon-rocks-watermelon-ice-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.283Z"
+}

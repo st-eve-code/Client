@@ -1,0 +1,50 @@
+{
+  "slug": "hytek-candy-peach-pie",
+  "name": "Hytek | Candy Peach Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 44,
+  "currency": "USD",
+  "price_range": "$8.00 – $44.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "The name says it all!! The Candy Peach Pie has that sweet, fruity candy flavor with a hint of peach.\n\nCategory: Hybrid\n\nCross: Georgia Pie x Runtz",
+  "description_html": "The name says it all!! The Candy Peach Pie has that sweet, fruity candy flavor with a hint of peach.<br /><br />Category: Hybrid<br /><br />Cross: Georgia Pie x Runtz",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6bf2e448e92a79d3a99225e3d1d7879c",
+      "alt": "Hytek | Candy Peach Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-candy-peach-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 44,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-candy-peach-pie-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.586Z"
+}

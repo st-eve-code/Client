@@ -1,0 +1,35 @@
+{
+  "slug": "plant-nerd-plant-nerd-1-5g-hand-roll-plantinum-pave",
+  "name": "Plant Nerd 1.5G Hand Roll | Plantinum Pave",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/28ab1662fd9f38d6ad43f5a245dd09b9",
+      "alt": "Plant Nerd 1.5G Hand Roll | Plantinum Pave",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-1-5g-hand-roll-plantinum-pave__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-1-5g-hand-roll-plantinum-pave-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.893Z"
+}

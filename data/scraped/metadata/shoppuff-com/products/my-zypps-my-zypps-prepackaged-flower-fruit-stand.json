@@ -1,0 +1,35 @@
+{
+  "slug": "my-zypps-my-zypps-prepackaged-flower-fruit-stand",
+  "name": "My Zypps Prepackaged Flower | Fruit Stand",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 16,
+  "price_max": 16,
+  "currency": "USD",
+  "price_range": "$16.00",
+  "available": true,
+  "vendor": "My Zypps",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f3ad6bf838d96397685fd9380a16ab5d",
+      "alt": "My Zypps Prepackaged Flower | Fruit Stand",
+      "local": "data\\scraped\\images\\shoppuff-com__my-zypps-my-zypps-prepackaged-flower-fruit-stand__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 16,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/my-zypps-my-zypps-prepackaged-flower-fruit-stand-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.809Z"
+}

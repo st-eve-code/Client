@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-detroit-runtz-premium-pre-roll-1g",
+  "name": "Detroit Runtz Premium Pre-Roll | 1g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Detroit Runtz has a fruity flavor profile that smells just like a bag of the sugary candy. Now available in a one gram preroll.",
+  "description_html": "Detroit Runtz has a fruity flavor profile that smells just like a bag of the sugary candy. Now available in a one gram preroll.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b46234d2e1d61884ec081a471a574766",
+      "alt": "Detroit Runtz Premium Pre-Roll | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-detroit-runtz-premium-pre-roll-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-detroit-runtz-premium-pre-roll-1g-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.691Z"
+}

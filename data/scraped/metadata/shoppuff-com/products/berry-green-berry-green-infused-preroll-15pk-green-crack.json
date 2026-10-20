@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-infused-preroll-15pk-green-crack",
+  "name": "Berry Green Infused Preroll 15pk | Green Crack",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Bright. Electric. Alive. Green Crack delivers crisp citrus and mango-like freshness with naturally uplifting clarity.",
+  "description_html": "Bright. Electric. Alive. Green Crack delivers crisp citrus and mango-like freshness with naturally uplifting clarity.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0ae5add1286b1a8aa788e1c870e96ca6",
+      "alt": "Berry Green Infused Preroll 15pk | Green Crack",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-infused-preroll-15pk-green-crack__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-infused-preroll-15pk-green-crack-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.267Z"
+}

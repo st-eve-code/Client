@@ -1,0 +1,35 @@
+{
+  "slug": "old-school-hash-co-old-school-hash-co-brick-hash-purple-haze",
+  "name": "Old School Hash Co. Brick Hash | Purple Haze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 42,
+  "price_max": 42,
+  "currency": "USD",
+  "price_range": "$42.00",
+  "available": true,
+  "vendor": "Old School Hash Co.",
+  "tags": [],
+  "description": "The Hash Pack - your ultimate companion for discreet, convenient, and elevated experiences. Crafted with precision and designed with sophistication, each Hash Pack is a compact 3 x 2-inch tin that encapsulates an unparalleled combination of quality hash and a sleek one-hitter pipe.",
+  "description_html": "The Hash Pack - your ultimate companion for discreet, convenient, and elevated experiences. Crafted with precision and designed with sophistication, each Hash Pack is a compact 3 x 2-inch tin that encapsulates an unparalleled combination of quality hash and a sleek one-hitter pipe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e5dd6cfba79ecb5766845d869f6502c4",
+      "alt": "Old School Hash Co. Brick Hash | Purple Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__old-school-hash-co-old-school-hash-co-brick-hash-purple-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 42,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/old-school-hash-co-old-school-hash-co-brick-hash-purple-haze-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.868Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-canna-co-prepackaged-flower-jar-pineapple-fanta",
+  "name": "Mitten Canna Co Prepackaged Flower Jar | Pineapple Fanta",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 69.3,
+  "price_max": 69.3,
+  "currency": "USD",
+  "price_range": "$69.30",
+  "available": true,
+  "vendor": "Mitten Canna Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/96d33f0ba4b1ae07a801ab36df3f9cee",
+      "alt": "Mitten Canna Co Prepackaged Flower Jar | Pineapple Fanta",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-canna-co-prepackaged-flower-jar-pineapple-fanta__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 69.3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-canna-co-prepackaged-flower-jar-pineapple-fanta-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.273Z"
+}

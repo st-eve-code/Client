@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-710-labs-joint-g1000-13",
+  "name": "710 Labs Joint | G1000 #13",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "Genetics: T-1000 x Gelato 33 Cherry Limeade\n\nThere’s a reason our flower is renowned industry-wide - we never blind source. we meticulously grow our ladies in-house with wholly organic inputs, dry and cure it based on density, and trim it by hand to bring you the most opulent, flavor-dense nugs in the market.",
+  "description_html": "Genetics: T-1000 x Gelato 33 Cherry Limeade<br /><br />There’s a reason our flower is renowned industry-wide - we never blind source. we meticulously grow our ladies in-house with wholly organic inputs, dry and cure it based on density, and trim it by hand to bring you the most opulent, flavor-dense nugs in the market.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f1d8275065e0b87aeb343e982d7e606e",
+      "alt": "710 Labs Joint | G1000 #13",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-joint-g1000-13__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-joint-g1000-13-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.896Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "drip-drip-510-cartridge-galactic-gas",
+  "name": "Drip 510 Cartridge | Galactic Gas",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6.25,
+  "price_max": 6.25,
+  "currency": "USD",
+  "price_range": "$6.25",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f60805f90b92736a2204200519e4e9b3",
+      "alt": "Drip 510 Cartridge | Galactic Gas",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-drip-510-cartridge-galactic-gas__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6.25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-drip-510-cartridge-galactic-gas-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.247Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "freshy-fine-freshy-fine-x-5-prerolls-wedding-pie",
+  "name": "Freshy Fine x 5 Prerolls | Wedding Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Cross: Wedding Cake x Grape Pie\n\nEffects: Calming, Tingly, Uplifting\n\nAromas: Earthy. Pungent, Sweet\n\nFlavor Profile: Fruity, Sour, Spicy\n\nMay Relieve: Inflammation, Depression, Insomnia",
+  "description_html": "Cross: Wedding Cake x Grape Pie<br /><br />Effects: Calming, Tingly, Uplifting<br /><br />Aromas: Earthy. Pungent, Sweet<br /><br />Flavor Profile: Fruity, Sour, Spicy<br /><br />May Relieve: Inflammation, Depression, Insomnia",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/39c44415610b966a50a16ca8fbb71f9b",
+      "alt": "Freshy Fine x 5 Prerolls | Wedding Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-freshy-fine-x-5-prerolls-wedding-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-freshy-fine-x-5-prerolls-wedding-pie-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.081Z"
+}

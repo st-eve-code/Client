@@ -1,0 +1,35 @@
+{
+  "slug": "dragonfly-infused-pre-roll-smores",
+  "name": "Dragonfly Infused Pre-Roll | S'mores",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Dragonfly",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fc23732b671e3528e1791846468f29e2",
+      "alt": "Dragonfly Infused Pre-Roll | S'mores",
+      "local": "data\\scraped\\images\\shoppuff-com__dragonfly-infused-pre-roll-smores__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dragonfly-infused-pre-roll-smores-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.653Z"
+}

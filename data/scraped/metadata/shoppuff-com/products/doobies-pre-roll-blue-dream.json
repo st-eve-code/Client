@@ -1,0 +1,35 @@
+{
+  "slug": "doobies-pre-roll-blue-dream",
+  "name": "Doobies Pre-Roll | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Doobies",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/09e73df34f2cc9736eb8c271cf1bbb6a",
+      "alt": "Doobies Pre-Roll | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__doobies-pre-roll-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doobies-pre-roll-blue-dream-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.807Z"
+}

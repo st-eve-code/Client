@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-infused-blunt-blueberry-raspberry",
+  "name": "Swisher Infused Blunt | Blueberry Raspberry",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.5,
+  "price_max": 8.5,
+  "currency": "USD",
+  "price_range": "$8.50",
+  "available": true,
+  "vendor": "Swisher",
+  "tags": [],
+  "description": "1.5g Infused Blunt\nEnjoy the perfect fusion of sweet vanilla and tart blueberry with Swisher Blunts Blueberry Pie.",
+  "description_html": "1.5g Infused Blunt<br />Enjoy the perfect fusion of sweet vanilla and tart blueberry with Swisher Blunts Blueberry Pie.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/02672f601bec58ef0c42308c4779d0c8",
+      "alt": "Swisher Infused Blunt | Blueberry Raspberry",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-infused-blunt-blueberry-raspberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 8.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-infused-blunt-blueberry-raspberry-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.674Z"
+}

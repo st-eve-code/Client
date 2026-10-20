@@ -1,0 +1,35 @@
+{
+  "slug": "magnum-200mg-gummies-strawberry",
+  "name": "Magnum | 200mg Gummies | Strawberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Magnum",
+  "tags": [],
+  "description": "Introducing Magnum: Size Matters 200mg THC Edibles — a bold, delicious way to experience your favorite cannabinoid. With 5 mouthwatering flavors to choose from—Strawberry, Watermelon, Tangerine, Tropical Punch, and Blue Raspberry—each bite is a perfect balance of sweetness and potency. These premium edibles deliver a potent 200mg THC dose, offering an intense, long-lasting effect for experienced users. Whether you're relaxing at home or out with friends, Magnum: Size Matters is the perfect way to elevate your experience.",
+  "description_html": "Introducing Magnum: Size Matters 200mg THC Edibles — a bold, delicious way to experience your favorite cannabinoid. With 5 mouthwatering flavors to choose from—Strawberry, Watermelon, Tangerine, Tropical Punch, and Blue Raspberry—each bite is a perfect balance of sweetness and potency. These premium edibles deliver a potent 200mg THC dose, offering an intense, long-lasting effect for experienced users. Whether you're relaxing at home or out with friends, Magnum: Size Matters is the perfect way to elevate your experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5e60802a864876d8f18cb03109f04790",
+      "alt": "Magnum | 200mg Gummies | Strawberry",
+      "local": "data\\scraped\\images\\shoppuff-com__magnum-200mg-gummies-strawberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.125g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/magnum-200mg-gummies-strawberry-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.942Z"
+}

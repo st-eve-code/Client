@@ -1,0 +1,35 @@
+{
+  "slug": "rollin-stoned-preroll-56pk-lemon-cherry-wedding-cake",
+  "name": "Rollin Stoned Preroll 56pk | Lemon Cherry Wedding Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Rollin Stoned",
+  "tags": [],
+  "description": "56 x 1g Pre-Rolls\n\nLemon Cherry Wedding Cake combines vibrant fruit and creamy dessert notes for a hybrid experience that relaxes the body while keeping the mind open and inspired.",
+  "description_html": "56 x 1g Pre-Rolls<br /><br />Lemon Cherry Wedding Cake combines vibrant fruit and creamy dessert notes for a hybrid experience that relaxes the body while keeping the mind open and inspired.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/31d9cd815e0ac6673074fca48c4f1d02",
+      "alt": "Rollin Stoned Preroll 56pk | Lemon Cherry Wedding Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__rollin-stoned-preroll-56pk-lemon-cherry-wedding-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "56.0g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rollin-stoned-preroll-56pk-lemon-cherry-wedding-cake-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.263Z"
+}

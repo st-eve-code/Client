@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-rosin-first-class-funk",
+  "name": "Local Grove Live Rosin | First Class Funk",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: GMO x Jet Fuel Gelato \n\nBreeder: Compound Genetics \n\nAroma & Flavor: Pungent funk similar to GMO with richer flavor and better bud structure \n\nEffects: Indica-leaning hybrid – heavy, relaxing effects with strong potency",
+  "description_html": "Genetics: GMO x Jet Fuel Gelato <br /><br />Breeder: Compound Genetics <br /><br />Aroma & Flavor: Pungent funk similar to GMO with richer flavor and better bud structure <br /><br />Effects: Indica-leaning hybrid – heavy, relaxing effects with strong potency",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/7477965a1aea1483e577d3ad303f3f71",
+      "alt": "Local Grove Live Rosin | First Class Funk",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-rosin-first-class-funk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-rosin-first-class-funk-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.377Z"
+}

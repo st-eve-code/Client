@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-prepackaged-flower-blue-nerdz",
+  "name": "Local Grove Prepackaged Flower | Blue Nerdz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Blue Sherb x Zkittlez \n\nBreeder: Unknown \n\nAroma & Flavor: Candy-like aroma and taste with blue and purple hues \n\nEffects: Hybrid – sweet flavor profile with a surprisingly heavy punch",
+  "description_html": "Genetics: Blue Sherb x Zkittlez <br /><br />Breeder: Unknown <br /><br />Aroma & Flavor: Candy-like aroma and taste with blue and purple hues <br /><br />Effects: Hybrid – sweet flavor profile with a surprisingly heavy punch",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/87972a35db3572a0e16ed9a2198228af",
+      "alt": "Local Grove Prepackaged Flower | Blue Nerdz",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-prepackaged-flower-blue-nerdz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-prepackaged-flower-blue-nerdz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.269Z"
+}

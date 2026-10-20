@@ -1,0 +1,35 @@
+{
+  "slug": "grab-go-king-louie-diamonds",
+  "name": "King Louie Diamonds",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Grab & Go",
+  "tags": [],
+  "description": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "description_html": "Diamonds are a form of concentrate that have a crystalline structure and tend to be high in THC-a. Diamonds focus on the separation of cannabinoids and terpenes so consumers are left with nearly pure THC. Diamonds can be sold as an isolated product or can be mixed in with terpene \"sauce\".",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3d83226c5b6f8fff9621e4ab8f016429",
+      "alt": "King Louie Diamonds",
+      "local": "data\\scraped\\images\\shoppuff-com__grab-go-king-louie-diamonds__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grab-go-king-louie-diamonds-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.448Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "wojo-co-wojo-live-rosin-strawberry-candy",
+  "name": "Wojo Live Rosin | Strawberry Candy",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 65,
+  "price_max": 65,
+  "currency": "USD",
+  "price_range": "$65.00",
+  "available": true,
+  "vendor": "Wojo Co",
+  "tags": [],
+  "description": "1g Live Rosin\n\nWojo | 1g Live Rosin | Strawberry Candy.",
+  "description_html": "1g Live Rosin<br /><br />Wojo | 1g Live Rosin | Strawberry Candy.                                             <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ff2b8ffcf2f2e5b3e42b1c86f46e6bfe",
+      "alt": "Wojo Live Rosin | Strawberry Candy",
+      "local": "data\\scraped\\images\\shoppuff-com__wojo-co-wojo-live-rosin-strawberry-candy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 65,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wojo-co-wojo-live-rosin-strawberry-candy-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.790Z"
+}

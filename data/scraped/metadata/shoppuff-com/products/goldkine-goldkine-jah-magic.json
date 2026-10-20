@@ -1,0 +1,60 @@
+{
+  "slug": "goldkine-goldkine-jah-magic",
+  "name": "Goldkine | Jah Magic",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Step into a world of vibrant energy with Jah Magic, a potent sativa that elevates the mind and soothes the soul. These stunning, trichome-coated buds shimmer with deep purples, rich blues, and hints of emerald green, creating a visual masterpiece as striking as its effects. The flavor profile is a sweet and fruity fusion, bursting with grape and cherry, balanced by earthy spice and a touch of haze. Each inhale delivers a smooth, velvety smoke, leaving behind a lingering sweetness that keeps you coming back for more. JahMagic delivers an uplifting, euphoric high, sparking creativity, focus, and an enhanced mood. As the energy peaks, a gentle wave of relaxation and bliss follows, making it the perfect strain for staying motivated, inspired, and ready to take on the day.",
+  "description_html": "Step into a world of vibrant energy with Jah Magic, a potent sativa that elevates the mind and soothes the soul. These stunning, trichome-coated buds shimmer with deep purples, rich blues, and hints of emerald green, creating a visual masterpiece as striking as its effects. The flavor profile is a sweet and fruity fusion, bursting with grape and cherry, balanced by earthy spice and a touch of haze. Each inhale delivers a smooth, velvety smoke, leaving behind a lingering sweetness that keeps you coming back for more. JahMagic delivers an uplifting, euphoric high, sparking creativity, focus, and an enhanced mood. As the energy peaks, a gentle wave of relaxation and bliss follows, making it the perfect strain for staying motivated, inspired, and ready to take on the day.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/263a1c739b197179e7c7d23ab4895cdd",
+      "alt": "Goldkine | Jah Magic",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-jah-magic__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 17,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 34,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-jah-magic-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.571Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "pixie-stix-infused-preroll-strawberry-cough",
+  "name": "Pixie Stix Infused Preroll | Strawberry Cough",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 3.5,
+  "price_max": 3.5,
+  "currency": "USD",
+  "price_range": "$3.50",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Strawberry Cough sativa infused pre roll. \nOne 1.25g pre roll per pack.\n\nFlavors:\nStrawberry\nSweet\nFlowery\nBerry\nEarthy\nPine",
+  "description_html": "Pixie Stix Strawberry Cough sativa infused pre roll. <br />One 1.25g pre roll per pack.<br /><br />Flavors:<br />Strawberry<br />Sweet<br />Flowery<br />Berry<br />Earthy<br />Pine",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a5140283e952e69611af8eddcaa704d4",
+      "alt": "Pixie Stix Infused Preroll | Strawberry Cough",
+      "local": "data\\scraped\\images\\shoppuff-com__pixie-stix-infused-preroll-strawberry-cough__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 3.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pixie-stix-infused-preroll-strawberry-cough-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.851Z"
+}

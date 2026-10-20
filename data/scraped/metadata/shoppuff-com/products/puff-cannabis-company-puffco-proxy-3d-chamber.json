@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-puffco-proxy-3d-chamber",
+  "name": "Puffco | Proxy 3D Chamber",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Puffco",
+  "tags": [],
+  "description": "The 3D Chamber is a game changer. This innovative ceramic bowl uses patented technology to preserve terpenes and cannabinoids. As you inhale, heating traces vaporize your extract on the sides of the chamber – not the bottom – so you can enjoy bigger, better tasting hits.",
+  "description_html": "The 3D Chamber is a game changer. This innovative ceramic bowl uses patented technology to preserve terpenes and cannabinoids. As you inhale, heating traces vaporize your extract on the sides of the chamber – not the bottom – so you can enjoy bigger, better tasting hits.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/de6617af68055bc40a3d1a40170dfc65",
+      "alt": "Puffco | Proxy 3D Chamber",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-puffco-proxy-3d-chamber__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-puffco-proxy-3d-chamber-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.895Z"
+}

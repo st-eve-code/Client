@@ -1,0 +1,50 @@
+{
+  "slug": "goldkine-goldkine-glitter-bomb",
+  "name": "Goldkine | Glitter Bomb",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Step into a world of bright, fruity flavors with Glitter Bomb, a strain that delivers a sweet, juicy aroma with a bold hint of diesel for a unique and complex profile. Each inhale bursts with vibrant fruitiness, creating an invigorating yet smooth experience that lingers on the palate. Glitter Bomb’s effects hit with a euphoric uplift, leaving you feeling relaxed yet energized, making it the perfect companion for unwinding without losing momentum. Whether you're looking to boost creativity, elevate your mood, or simply enjoy a carefree escape, this strain keeps your spirits high and stress low. Ideal for social settings or solo relaxation, Glitter Bomb delivers a well-balanced high that shimmers with flavor and good vibes, ensuring every moment is as enjoyable as the last.",
+  "description_html": "Step into a world of bright, fruity flavors with Glitter Bomb, a strain that delivers a sweet, juicy aroma with a bold hint of diesel for a unique and complex profile. Each inhale bursts with vibrant fruitiness, creating an invigorating yet smooth experience that lingers on the palate. Glitter Bomb’s effects hit with a euphoric uplift, leaving you feeling relaxed yet energized, making it the perfect companion for unwinding without losing momentum. Whether you're looking to boost creativity, elevate your mood, or simply enjoy a carefree escape, this strain keeps your spirits high and stress low. Ideal for social settings or solo relaxation, Glitter Bomb delivers a well-balanced high that shimmers with flavor and good vibes, ensuring every moment is as enjoyable as the last.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4a2b9f830c590f5a1a30f913e1271866",
+      "alt": "Goldkine | Glitter Bomb",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-glitter-bomb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-glitter-bomb-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.364Z"
+}

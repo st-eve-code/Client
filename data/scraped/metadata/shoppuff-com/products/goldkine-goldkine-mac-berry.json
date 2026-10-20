@@ -1,0 +1,50 @@
+{
+  "slug": "goldkine-goldkine-mac-berry",
+  "name": "Goldkine | Mac Berry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Experience the delightful harmony of Mac Berry, an evenly balanced hybrid born from the powerful MAC and Strawberry Banana strains. Celebrated for its celebrity lineage and classic flavor, Mac Berry is a must-try for hybrid enthusiasts. The high begins with a subtle, euphoric boost, filling your mind with unfocused, heady, and giggly bliss. As laughter ensues, a soothing body buzz gently washes over you, leading to a deeply couch-locked state of pure relaxation, often turning sleepy. Mac Berry is perfect for alleviating chronic pain, cramps, muscle spasms, depression, insomnia, chronic stress, and appetite loss or nausea. Its flavor profile is a sweet and fruity blend of strawberries, nutty bananas, and sour citrusy lemon, while the aroma mirrors this delicious combination. Mac Berry's dense, spade-shaped forest green buds are adorned with dusty amber undertones, dark amber hairs, and matching crystal trichomes.",
+  "description_html": "Experience the delightful harmony of Mac Berry, an evenly balanced hybrid born from the powerful MAC and Strawberry Banana strains. Celebrated for its celebrity lineage and classic flavor, Mac Berry is a must-try for hybrid enthusiasts. The high begins with a subtle, euphoric boost, filling your mind with unfocused, heady, and giggly bliss. As laughter ensues, a soothing body buzz gently washes over you, leading to a deeply couch-locked state of pure relaxation, often turning sleepy. Mac Berry is perfect for alleviating chronic pain, cramps, muscle spasms, depression, insomnia, chronic stress, and appetite loss or nausea. Its flavor profile is a sweet and fruity blend of strawberries, nutty bananas, and sour citrusy lemon, while the aroma mirrors this delicious combination. Mac Berry's dense, spade-shaped forest green buds are adorned with dusty amber undertones, dark amber hairs, and matching crystal trichomes.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/da5ac130a24ebf471079cf2e41455a39",
+      "alt": "Goldkine | Mac Berry",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-mac-berry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-mac-berry-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.757Z"
+}

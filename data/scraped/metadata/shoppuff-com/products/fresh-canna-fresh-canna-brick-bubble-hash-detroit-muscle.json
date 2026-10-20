@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-fresh-canna-brick-bubble-hash-detroit-muscle",
+  "name": "Fresh Canna Brick Bubble Hash | Detroit Muscle",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5619-Puff-JointStore-Sturgis.webp",
+      "alt": "Fresh Canna Brick Bubble Hash | Detroit Muscle",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-brick-bubble-hash-detroit-muscle__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-brick-bubble-hash-detroit-muscle-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.804Z"
+}

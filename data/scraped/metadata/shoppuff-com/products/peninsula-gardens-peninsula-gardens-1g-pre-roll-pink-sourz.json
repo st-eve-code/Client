@@ -1,0 +1,35 @@
+{
+  "slug": "peninsula-gardens-peninsula-gardens-1g-pre-roll-pink-sourz",
+  "name": "Peninsula Gardens | 1g Pre-Roll | Pink Sourz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Bred in house at Peninsula Gardens by @Trichome_Jones. Pink Runtz x Sour Rozay. The male selected adds a nice load of purple from the Rozay and a bit of funk from the Sour Dubb. Still has a nice candy flavor too it from the Pink Runtz but with a nice funky twist provided by the Sour Rozay.",
+  "description_html": "Bred in house at Peninsula Gardens by @Trichome_Jones. Pink Runtz x Sour Rozay. The male selected adds a nice load of purple from the Rozay and a bit of funk from the Sour Dubb. Still has a nice candy flavor too it from the Pink Runtz but with a nice funky twist provided by the Sour Rozay.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2929b5d858e3ab7e65f9a20cc2f2ca20",
+      "alt": "Peninsula Gardens | 1g Pre-Roll | Pink Sourz",
+      "local": "data\\scraped\\images\\shoppuff-com__peninsula-gardens-peninsula-gardens-1g-pre-roll-pink-sourz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/peninsula-gardens-peninsula-gardens-1g-pre-roll-pink-sourz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.546Z"
+}

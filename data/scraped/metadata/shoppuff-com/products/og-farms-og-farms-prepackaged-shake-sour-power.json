@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-og-farms-prepackaged-shake-sour-power",
+  "name": "OG Farms Prepackaged Shake | Sour Power",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "Made from finely ground flower material, this shake delivers reliable potency and natural aroma at a great value. It’s an ideal option for rolling, packing, or everyday use for customers looking for Michigan-grown cannabis.",
+  "description_html": "Made from finely ground flower material, this shake delivers reliable potency and natural aroma at a great value. It’s an ideal option for rolling, packing, or everyday use for customers looking for Michigan-grown cannabis.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/001241c95f1009f596b77d618c4b2590",
+      "alt": "OG Farms Prepackaged Shake | Sour Power",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-og-farms-prepackaged-shake-sour-power__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-og-farms-prepackaged-shake-sour-power-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.446Z"
+}

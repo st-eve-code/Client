@@ -1,0 +1,60 @@
+{
+  "slug": "northwoods-cannabis-northwoods-brrberry",
+  "name": "Northwoods | BrrBerry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$6.00 – $125.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "This strain inherits the sweet and fruity profile characteristic of Runtz strains, with notes of tropical fruits, citrus, and a hint of berry. The Superboof influence adds a subtle earthiness and herbal complexity. The flavor offers an initial burst of fruity sweetness, reminiscent of tropical candies, is complemented by undertones of earth and spice.",
+  "description_html": "This strain inherits the sweet and fruity profile characteristic of Runtz strains, with notes of tropical fruits, citrus, and a hint of berry. The Superboof influence adds a subtle earthiness and herbal complexity. The flavor offers an initial burst of fruity sweetness, reminiscent of tropical candies, is complemented by undertones of earth and spice.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e05eb5db11566d041eec3118fb72f9de",
+      "alt": "Northwoods | BrrBerry",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-cannabis-northwoods-brrberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 75,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-cannabis-northwoods-brrberry-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.255Z"
+}

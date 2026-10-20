@@ -1,0 +1,35 @@
+{
+  "slug": "platinum-vape-platinum-vape-disposable-jungle-juice",
+  "name": "Platinum Vape Disposable | Jungle Juice",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Platinum Vape",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f37a8f670c1854d8f88a0e9feab891d5",
+      "alt": "Platinum Vape Disposable | Jungle Juice",
+      "local": "data\\scraped\\images\\shoppuff-com__platinum-vape-platinum-vape-disposable-jungle-juice__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/platinum-vape-platinum-vape-disposable-jungle-juice-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.430Z"
+}

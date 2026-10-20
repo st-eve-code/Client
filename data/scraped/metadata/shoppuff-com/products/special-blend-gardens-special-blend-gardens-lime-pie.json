@@ -1,0 +1,55 @@
+{
+  "slug": "special-blend-gardens-special-blend-gardens-lime-pie",
+  "name": "Special Blend Gardens | Lime Pie",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 80,
+  "currency": "USD",
+  "price_range": "$9.00 – $80.00",
+  "available": true,
+  "vendor": "Special Blend Gardens",
+  "tags": [],
+  "description": "Lime Pie will give you an intense onset of feeling stoned followed by a mellow, lucid high with cerebral clarity. You'll be couch-locked and slightly drowsy but have an insane sense of creativity and focus. Because of these effects, Key Lime Pie is ideal for treating manic depression, insomnia, and stress disorders, including PTSD. With a minty, candy-like taste with a smoky lime aftertaste and a chocolate cream scent, Lime Pie may seem to he ideal for novice users. Don't be fooled – it tends to overwhelm newer patients due to the deceptively sweet taste.",
+  "description_html": "Lime Pie will give you an intense onset of feeling stoned followed by a mellow, lucid high with cerebral clarity. You'll be couch-locked and slightly drowsy but have an insane sense of creativity and focus. Because of these effects, Key Lime Pie is ideal for treating manic depression, insomnia, and stress disorders, including PTSD. With a minty, candy-like taste with a smoky lime aftertaste and a chocolate cream scent, Lime Pie may seem to he ideal for novice users. Don't be fooled – it tends to overwhelm newer patients due to the deceptively sweet taste.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5610537301772a26cbb5ea0f574e9328",
+      "alt": "Special Blend Gardens | Lime Pie",
+      "local": "data\\scraped\\images\\shoppuff-com__special-blend-gardens-special-blend-gardens-lime-pie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 80,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/special-blend-gardens-special-blend-gardens-lime-pie-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.596Z"
+}

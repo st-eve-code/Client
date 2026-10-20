@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-live-resin-infused-preroll-15pk-grape-ape",
+  "name": "Fresh Canna Live Resin Infused Preroll 15pk | Grape Ape",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Fresh Canna Live Resin Infused Preroll 15pk | Grape Ape",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-live-resin-infused-preroll-15pk-grape-ape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-live-resin-infused-preroll-15pk-grape-ape-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.369Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "local-grove-prepackaged-flower-perma-sweet",
+  "name": "Local Grove Prepackaged Flower | Perma Sweet",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Permanent Marker x Runtz \n\nBreeder: Local Grove \n\nAroma & Flavor: Distinctive aroma and taste leaning toward Permanent Marker, with strong bag appeal \n\nEffects: Hybrid – potent effects with a rich, complex terpene profile.",
+  "description_html": "Genetics: Permanent Marker x Runtz <br /><br />Breeder: Local Grove <br /><br />Aroma & Flavor: Distinctive aroma and taste leaning toward Permanent Marker, with strong bag appeal <br /><br />Effects: Hybrid – potent effects with a rich, complex terpene profile.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c1f1a859552b9aa98277e3da0d16ec31",
+      "alt": "Local Grove Prepackaged Flower | Perma Sweet",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-prepackaged-flower-perma-sweet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-prepackaged-flower-perma-sweet-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.398Z"
+}

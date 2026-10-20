@@ -1,0 +1,35 @@
+{
+  "slug": "hyman-hyman-cannabis-live-rosin-jackknife",
+  "name": "Hyman Cannabis Live Rosin | Jackknife",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "HYMAN",
+  "tags": [],
+  "description": "Strain Type: Sativa Hybrid \n\nAromas: Sweet, Creamy, Earthy \n\nFlavors: Citrus, Orange, Vanilla \n\nExperience: Creative, Uplifting, Mellow",
+  "description_html": "Strain Type: Sativa Hybrid <br /><br />Aromas: Sweet, Creamy, Earthy <br /><br />Flavors: Citrus, Orange, Vanilla <br /><br />Experience: Creative, Uplifting, Mellow",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/eeb64d0eb4eeacbcc7d183d048d3d084",
+      "alt": "Hyman Cannabis Live Rosin | Jackknife",
+      "local": "data\\scraped\\images\\shoppuff-com__hyman-hyman-cannabis-live-rosin-jackknife__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hyman-hyman-cannabis-live-rosin-jackknife-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.867Z"
+}

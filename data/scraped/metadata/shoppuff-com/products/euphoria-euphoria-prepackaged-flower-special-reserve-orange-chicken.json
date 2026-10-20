@@ -1,0 +1,35 @@
+{
+  "slug": "euphoria-euphoria-prepackaged-flower-special-reserve-orange-chicken",
+  "name": "Euphoria Prepackaged  Flower Special Reserve | Orange Chicken",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 125,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$125.00",
+  "available": true,
+  "vendor": "Euphoria",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1b9fac9c30757d8b6bd88f77ec1e379e",
+      "alt": "Euphoria Prepackaged  Flower Special Reserve | Orange Chicken",
+      "local": "data\\scraped\\images\\shoppuff-com__euphoria-euphoria-prepackaged-flower-special-reserve-orange-chicken__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 125,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/euphoria-euphoria-prepackaged-flower-special-reserve-orange-chicken-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.454Z"
+}

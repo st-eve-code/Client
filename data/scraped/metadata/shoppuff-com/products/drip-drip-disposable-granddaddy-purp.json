@@ -1,0 +1,35 @@
+{
+  "slug": "drip-drip-disposable-granddaddy-purp",
+  "name": "Drip Disposable | Granddaddy Purp",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2df82e3a0e13c61e86cb91081dd367d2",
+      "alt": "Drip Disposable | Granddaddy Purp",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-drip-disposable-granddaddy-purp__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-drip-disposable-granddaddy-purp-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.225Z"
+}

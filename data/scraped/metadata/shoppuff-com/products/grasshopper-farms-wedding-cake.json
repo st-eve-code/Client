@@ -1,0 +1,55 @@
+{
+  "slug": "grasshopper-farms-wedding-cake",
+  "name": "Grasshopper Farms | Wedding Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1.23,
+  "price_max": 17.15,
+  "currency": "USD",
+  "price_range": "$1.23 – $17.15",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Grasshopper Farms | Wedding Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-wedding-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 17.15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 8.57,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 2.45,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 4.29,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 1.23,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-wedding-cake-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.585Z"
+}

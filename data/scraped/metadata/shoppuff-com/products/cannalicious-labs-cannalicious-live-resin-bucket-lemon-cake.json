@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-live-resin-bucket-lemon-cake",
+  "name": "Cannalicious Live Resin Bucket | Lemon Cake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 60,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$60.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Lemon Cake is sativa dominant strain created by crossing Lemon OG and Jesus OG. Lemon Cake boasts a sweet and sour citrus flavor profile and provides a happy, euphoric, and uplifting effect. A great wake and bake strain, Lemon Cake is said to be a great strain for depression, fatigue, headaches, nausea, and stress.",
+  "description_html": "Lemon Cake is sativa dominant strain created by crossing Lemon OG and Jesus OG. Lemon Cake boasts a sweet and sour citrus flavor profile and provides a happy, euphoric, and uplifting effect. A great wake and bake strain, Lemon Cake is said to be a great strain for depression, fatigue, headaches, nausea, and stress.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/80a0947815881cdde332ac08e6ac6170",
+      "alt": "Cannalicious Live Resin Bucket | Lemon Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-live-resin-bucket-lemon-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-live-resin-bucket-lemon-cake-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.424Z"
+}

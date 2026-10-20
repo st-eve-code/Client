@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-40s-infused-flower-orange-sunset",
+  "name": "Stiiizy | 40's Infused Flower | Orange Sunset",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 38.4,
+  "price_max": 38.4,
+  "currency": "USD",
+  "price_range": "$38.40",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "Elevate your flower experience with the new STIIIZY 40’s infused flower. We’ve expanded the 40’s line by combining our premium cannabis flower with expertly infused THC-A Diamonds, creating a bold and innovative formulation. Named for its high total cannabinoid content, this infused flower allows you to roll your own 40’s with precision, delivering a standout experience rooted in craftsmanship.",
+  "description_html": "Elevate your flower experience with the new STIIIZY 40’s infused flower. We’ve expanded the 40’s line by combining our premium cannabis flower with expertly infused THC-A Diamonds, creating a bold and innovative formulation. Named for its high total cannabinoid content, this infused flower allows you to roll your own 40’s with precision, delivering a standout experience rooted in craftsmanship.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Stiiizy | 40's Infused Flower | Orange Sunset",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-40s-infused-flower-orange-sunset__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 38.4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-40s-infused-flower-orange-sunset-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.913Z"
+}

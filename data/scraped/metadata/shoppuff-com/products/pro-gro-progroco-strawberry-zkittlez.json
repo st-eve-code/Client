@@ -1,0 +1,55 @@
+{
+  "slug": "pro-gro-progroco-strawberry-zkittlez",
+  "name": "Strawberry ZKZ Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8.4,
+  "price_max": 87.5,
+  "currency": "USD",
+  "price_range": "$8.40 – $87.50",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Strawberry x Zkittlez\n\nType: Indica Dominant \n\nTerpenes: Limonene, Myrcene, and Caryophyllene\n\nEffects: Stress Relief, Relaxation, Sleepy\n\nAroma: Sweet, Strawberry, Candy\n\nStrawberry Zkittlez provides an initial wave of euphoric energy that can inspire creativity, which is then followed by a relaxing and happy feeling. The taste features strong notes of slightly overripe berries, tangy strawberry, and candy.",
+  "description_html": "Lineage: Strawberry x Zkittlez<br /><br />Type: Indica Dominant <br /><br />Terpenes: Limonene, Myrcene, and Caryophyllene<br /><br />Effects: Stress Relief, Relaxation, Sleepy<br /><br />Aroma: Sweet, Strawberry, Candy<br /><br />Strawberry Zkittlez provides an initial wave of euphoric energy that can inspire creativity, which is then followed by a relaxing and happy feeling. The taste features strong notes of slightly overripe berries, tangy strawberry, and candy.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b0015ae859bcf3601cb74a8d9fa87fb6",
+      "alt": "Strawberry ZKZ Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-strawberry-zkittlez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45.5,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 87.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-strawberry-zkittlez-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.478Z"
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "goldkine-goldkine-biscotti-pancakes",
+  "name": "Goldkine | Biscotti Pancakes",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3.5,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$3.50 – $35.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Indulge in Biscotti Pancakes, a balanced hybrid strain from Tiki Madman, combining Biscotti and Pancakes cultivars. This visually stunning strain features dense, chunky buds in forest green with deep purple undertones and fiery orange pistils, all covered in a frosty layer of trichomes. Biscotti Pancakes greets you with a sweet and earthy aroma, blending rich vanilla and sugary sweetness with subtle nuttiness and spiced dough hints. The flavor mirrors the scent, offering sweet vanilla and caramel on the inhale, followed by earthy, herbal notes and a spiced dough aftertaste. The high begins with a cerebral uplift, enhancing creativity and focus, and transitions into a soothing body relaxation. Perfect for both daytime use and unwinding, Biscotti Pancakes delivers a harmonious and enjoyable experience.",
+  "description_html": "Indulge in Biscotti Pancakes, a balanced hybrid strain from Tiki Madman, combining Biscotti and Pancakes cultivars. This visually stunning strain features dense, chunky buds in forest green with deep purple undertones and fiery orange pistils, all covered in a frosty layer of trichomes. Biscotti Pancakes greets you with a sweet and earthy aroma, blending rich vanilla and sugary sweetness with subtle nuttiness and spiced dough hints. The flavor mirrors the scent, offering sweet vanilla and caramel on the inhale, followed by earthy, herbal notes and a spiced dough aftertaste. The high begins with a cerebral uplift, enhancing creativity and focus, and transitions into a soothing body relaxation. Perfect for both daytime use and unwinding, Biscotti Pancakes delivers a harmonious and enjoyable experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0d1f34ba3aa9b21d3d368f3f8e3b0fa4",
+      "alt": "Goldkine | Biscotti Pancakes",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-biscotti-pancakes__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 10.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 21,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 3.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-biscotti-pancakes-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.587Z"
+}

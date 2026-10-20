@@ -1,0 +1,55 @@
+{
+  "slug": "sub-zero-thca-snowcaps-blue-moon",
+  "name": "Sub Zero | THCA Snowcaps | Blue Moon",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$10.00 – $125.00",
+  "available": true,
+  "vendor": "Sub Zero",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ea9ba1c41b2835510ca5b0dd450437a0",
+      "alt": "Sub Zero | THCA Snowcaps | Blue Moon",
+      "local": "data\\scraped\\images\\shoppuff-com__sub-zero-thca-snowcaps-blue-moon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sub-zero-thca-snowcaps-blue-moon-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.043Z"
+}

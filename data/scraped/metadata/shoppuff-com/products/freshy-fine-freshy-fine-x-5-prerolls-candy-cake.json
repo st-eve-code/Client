@@ -1,0 +1,35 @@
+{
+  "slug": "freshy-fine-freshy-fine-x-5-prerolls-candy-cake",
+  "name": "Freshy Fine x 5 Prerolls | Candy Cake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Cross: Zkittlez Cake x Jungle Cake\n\nEffects: Body High, Giggly, Relaxed\n\nAromas: Berry, Candy, Cherry\n\nFlavor Profile: Citrus, Creamy, Fruity, Vanilla\n\nMay Relieve: Chronic Pain, Cramps, Stress",
+  "description_html": "Cross: Zkittlez Cake x Jungle Cake<br /><br />Effects: Body High, Giggly, Relaxed<br /><br />Aromas: Berry, Candy, Cherry<br /><br />Flavor Profile: Citrus, Creamy, Fruity, Vanilla<br /><br />May Relieve: Chronic Pain, Cramps, Stress",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/44358a1105a29c2a6f4b7605cb9b161c",
+      "alt": "Freshy Fine x 5 Prerolls | Candy Cake",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-freshy-fine-x-5-prerolls-candy-cake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-freshy-fine-x-5-prerolls-candy-cake-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.511Z"
+}

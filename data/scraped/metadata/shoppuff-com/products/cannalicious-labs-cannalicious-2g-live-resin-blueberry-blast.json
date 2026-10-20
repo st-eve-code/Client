@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-labs-cannalicious-2g-live-resin-blueberry-blast",
+  "name": "Cannalicious | 2g Live Resin | Blueberry Blast",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Blueberry Blast is a sativa-dominant hybrid created by crossing Blue Dream and Johnny Blaze. Bursting with sweet blueberry flavor and subtle floral notes, it delivers an uplifting, energetic high with a clear-headed focus. Perfect for daytime use, this strain is favored for boosting mood, sparking creativity, and providing a smooth, flavorful experience.",
+  "description_html": "Blueberry Blast is a sativa-dominant hybrid created by crossing Blue Dream and Johnny Blaze. Bursting with sweet blueberry flavor and subtle floral notes, it delivers an uplifting, energetic high with a clear-headed focus. Perfect for daytime use, this strain is favored for boosting mood, sparking creativity, and providing a smooth, flavorful experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1c2cd00e4a6a7aed5401b5a5d43aacb3",
+      "alt": "Cannalicious | 2g Live Resin | Blueberry Blast",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-labs-cannalicious-2g-live-resin-blueberry-blast__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-labs-cannalicious-2g-live-resin-blueberry-blast-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.926Z"
+}

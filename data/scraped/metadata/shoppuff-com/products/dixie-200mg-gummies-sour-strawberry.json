@@ -1,0 +1,35 @@
+{
+  "slug": "dixie-200mg-gummies-sour-strawberry",
+  "name": "Dixie | 200mg Gummies | Sour Strawberry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7.5,
+  "price_max": 7.5,
+  "currency": "USD",
+  "price_range": "$7.50",
+  "available": true,
+  "vendor": "Dixie",
+  "tags": [],
+  "description": "A popular flavor among many, this juicy, sour strawberry gummy is a mouth-puckering joy! You’ve enjoyed our Sour Smash gummies, now you’ll be head over heels for this delicious flavor.",
+  "description_html": "A popular flavor among many, this juicy, sour strawberry gummy is a mouth-puckering joy! You’ve enjoyed our Sour Smash gummies, now you’ll be head over heels for this delicious flavor.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bfdcf2179b2ad9fd3cd2e8008c54fc78",
+      "alt": "Dixie | 200mg Gummies | Sour Strawberry",
+      "local": "data\\scraped\\images\\shoppuff-com__dixie-200mg-gummies-sour-strawberry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.185g",
+      "price": 7.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dixie-200mg-gummies-sour-strawberry-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.194Z"
+}

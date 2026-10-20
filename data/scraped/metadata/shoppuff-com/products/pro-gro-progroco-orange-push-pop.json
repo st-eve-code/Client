@@ -1,0 +1,60 @@
+{
+  "slug": "pro-gro-progroco-orange-push-pop",
+  "name": "Orange Push Pop Deli",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 199,
+  "currency": "USD",
+  "price_range": "$12.00 – $199.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Orange Cookies x Triangle Kush Type: Indica-dominant hybrid Terpenes: Caryophyllene, Limonene, and Myrcene Aroma: Sweet orange, citrus, and creamy vanilla notes Effects: Euphoric, relaxed, happy, and uplifted A creamy citrus classic—Triangle Kush × Orange Cookies delivers sweet orange, zesty citrus, and smooth vanilla with a hint of earth. The vibe starts bright and euphoric with clear-headed uplift, then eases into a cozy, tingly body calm without knocking you out. Like your favorite freezer pop… but better.",
+  "description_html": "Lineage: Orange Cookies x Triangle Kush Type: Indica-dominant hybrid Terpenes: Caryophyllene, Limonene, and Myrcene Aroma: Sweet orange, citrus, and creamy vanilla notes Effects: Euphoric, relaxed, happy, and uplifted A creamy citrus classic—Triangle Kush × Orange Cookies delivers sweet orange, zesty citrus, and smooth vanilla with a hint of earth. The vibe starts bright and euphoric with clear-headed uplift, then eases into a cozy, tingly body calm without knocking you out. Like your favorite freezer pop… but better.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/efd856ece4f281343bcd2c0762cb790d",
+      "alt": "Orange Push Pop Deli",
+      "local": "data\\scraped\\images\\shoppuff-com__pro-gro-progroco-orange-push-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 199,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 110,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pro-gro-progroco-orange-push-pop-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.824Z"
+}

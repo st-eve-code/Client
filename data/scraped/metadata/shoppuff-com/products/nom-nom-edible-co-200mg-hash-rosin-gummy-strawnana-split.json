@@ -1,0 +1,35 @@
+{
+  "slug": "nom-nom-edible-co-200mg-hash-rosin-gummy-strawnana-split",
+  "name": "Nom Nom Edible Co | 200mg Hash Rosin Gummy | Strawnana Split",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Nom Nom Edible Co.",
+  "tags": [],
+  "description": "Nom Nom Edible Co just dropped a new product, and they're THE BOM!!!! New 200mg Hash Rosin single-piece edibles!",
+  "description_html": "Nom Nom Edible Co just dropped a new product, and they're THE BOM!!!! New 200mg Hash Rosin single-piece edibles!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/82f212a4e0e4f4b14133416c832db769",
+      "alt": "Nom Nom Edible Co | 200mg Hash Rosin Gummy | Strawnana Split",
+      "local": "data\\scraped\\images\\shoppuff-com__nom-nom-edible-co-200mg-hash-rosin-gummy-strawnana-split__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.59g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nom-nom-edible-co-200mg-hash-rosin-gummy-strawnana-split-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.602Z"
+}

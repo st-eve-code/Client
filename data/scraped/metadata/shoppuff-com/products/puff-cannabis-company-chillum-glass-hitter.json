@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-chillum-glass-hitter",
+  "name": "Chillum | Glass Hitter",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 2,
+  "price_max": 2,
+  "currency": "USD",
+  "price_range": "$2.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "",
+  "description_html": "",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/accessories.jpg",
+      "alt": "Chillum | Glass Hitter",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-chillum-glass-hitter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-chillum-glass-hitter-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.110Z"
+}

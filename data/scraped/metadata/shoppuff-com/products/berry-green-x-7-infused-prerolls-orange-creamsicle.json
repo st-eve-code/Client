@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-x-7-infused-prerolls-orange-creamsicle",
+  "name": "Berry Green x 7 Infused Prerolls | Orange Creamsicle",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Citrus heat with a creamy fade. Bold, bright, and smooth as sin.\n\nEffect: Uplifting creativity with a calm, balanced body high.",
+  "description_html": "Citrus heat with a creamy fade. Bold, bright, and smooth as sin.<br /><br />Effect: Uplifting creativity with a calm, balanced body high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fef1ec78c8415cfab9b8d5c1477feba3",
+      "alt": "Berry Green x 7 Infused Prerolls | Orange Creamsicle",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-x-7-infused-prerolls-orange-creamsicle__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-x-7-infused-prerolls-orange-creamsicle-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.274Z"
+}

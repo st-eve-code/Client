@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-pressure-pack-prepackaged-flower-candy-push-pop",
+  "name": "Pressure Pack Prepackaged Flower | Candy Push Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/14465e57f879ba28957a8af0f2af88a0",
+      "alt": "Pressure Pack Prepackaged Flower | Candy Push Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-pressure-pack-prepackaged-flower-candy-push-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-pressure-pack-prepackaged-flower-candy-push-pop-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.885Z"
+}

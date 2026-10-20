@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-hytek-live-rosin-purple-drank",
+  "name": "Hytek Live Rosin | Purple Drank",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "1g Live Rosin",
+  "description_html": "1g Live Rosin<br />                                                                                           <br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5619-Puff-JointStore-Sturgis.webp",
+      "alt": "Hytek Live Rosin | Purple Drank",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hytek-live-rosin-purple-drank__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hytek-live-rosin-purple-drank-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.589Z"
+}

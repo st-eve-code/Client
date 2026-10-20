@@ -1,0 +1,35 @@
+{
+  "slug": "pressure-pack-pressure-pack-prepackaged-flower-orange-crush-push-pop",
+  "name": "Pressure Pack Prepackaged Flower | Orange Crush Push Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Pressure Pack",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "Pressure Pack Prepackaged Flower | Orange Crush Push Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__pressure-pack-pressure-pack-prepackaged-flower-orange-crush-push-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pressure-pack-pressure-pack-prepackaged-flower-orange-crush-push-pop-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.426Z"
+}

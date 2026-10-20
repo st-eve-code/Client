@@ -1,0 +1,40 @@
+{
+  "slug": "vapin-ape-full-spectrum-disposable-pineapple-haze",
+  "name": "Vapin Ape Full Spectrum Disposable | Pineapple Haze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$25.00 – $30.00",
+  "available": true,
+  "vendor": "Vapin Ape",
+  "tags": [],
+  "description": "This sativa hybrid strain is cultivated by crossing Skunk#1, Afghan, and Old School Haze. This strain is high in uplifting terpenes like Limonene, Ocimene, Terpinolene that together create equally enticing tropical flavors and upbeat effects. Users report a creative and energetic spark, making it ideal for day time use.",
+  "description_html": "This sativa hybrid strain is cultivated by crossing Skunk#1, Afghan, and Old School Haze. This strain is high in uplifting terpenes like Limonene, Ocimene, Terpinolene that together create equally enticing tropical flavors and upbeat effects. Users report a creative and energetic spark, making it ideal for day time use.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cd8659211a58a3e45ad036e07411df4a",
+      "alt": "Vapin Ape Full Spectrum Disposable | Pineapple Haze",
+      "local": "data\\scraped\\images\\shoppuff-com__vapin-ape-full-spectrum-disposable-pineapple-haze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/vapin-ape-full-spectrum-disposable-pineapple-haze-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.111Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "zillas-240mg-cbd-120mg-cbn-candy-bar-milk-chocolate",
+  "name": "Zilla's | 240mg CBD + 120mg CBN Candy Bar | Milk Chocolate",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Zilla's",
+  "tags": [],
+  "description": "240 MG CBD + 120 MG CBN per bar\n\n24 pcs ( 1 piece = 10 MG CBD + 5 MG CBN )\n\nCrafted Bean to Chocolate and made with Whole Bean Roasting.",
+  "description_html": "240 MG CBD + 120 MG CBN per bar<br /><br />24 pcs ( 1 piece = 10 MG CBD + 5 MG CBN )<br /><br />Crafted Bean to Chocolate and made with Whole Bean Roasting.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/faa9111bd54934f346ee54bd1ad0a806",
+      "alt": "Zilla's | 240mg CBD + 120mg CBN Candy Bar | Milk Chocolate",
+      "local": "data\\scraped\\images\\shoppuff-com__zillas-240mg-cbd-120mg-cbn-candy-bar-milk-chocolate__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CBD"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zillas-240mg-cbd-120mg-cbn-candy-bar-milk-chocolate-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.442Z"
+}

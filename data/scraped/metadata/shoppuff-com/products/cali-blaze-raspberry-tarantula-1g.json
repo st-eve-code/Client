@@ -1,0 +1,35 @@
+{
+  "slug": "cali-blaze-raspberry-tarantula-1g",
+  "name": "Raspberry Tarantula | 1g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Cali-Blaze",
+  "tags": [],
+  "description": "Bright raspberry with a slightly tart finish. Hybrid, leaning toward the relaxing side. The berry flavor is clean and true-to-fruit — no artificial candy notes here. Easy smoke that tastes good from start to finish.\n\n* Liquid Diamond Infused: Injected with concentrate for amplified potency.\n* Kief Crusted: Rolled in kief for an extra layer of flavor and THC.",
+  "description_html": "Bright raspberry with a slightly tart finish. Hybrid, leaning toward the relaxing side. The berry flavor is clean and true-to-fruit — no artificial candy notes here. Easy smoke that tastes good from start to finish.<br /><br />* Liquid Diamond Infused: Injected with concentrate for amplified potency.<br />* Kief Crusted: Rolled in kief for an extra layer of flavor and THC.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/800525060121d663407fd67c2410d792",
+      "alt": "Raspberry Tarantula | 1g",
+      "local": "data\\scraped\\images\\shoppuff-com__cali-blaze-raspberry-tarantula-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cali-blaze-raspberry-tarantula-1g-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.270Z"
+}

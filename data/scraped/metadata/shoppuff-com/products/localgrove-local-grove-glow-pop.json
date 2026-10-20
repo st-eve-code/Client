@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-glow-pop",
+  "name": "Local Grove | Glow Pop",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8.4,
+  "price_max": 157.5,
+  "currency": "USD",
+  "price_range": "$8.40 – $157.50",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Permanent Marker x Runtz \n\nBreeder: Local Grove \n\nAroma & Flavor: Candy, sherb, and marker taste with smooth transitions \n\nEffects: Hybrid – exceptional balance of flavor and potency",
+  "description_html": "Genetics: Permanent Marker x Runtz <br /><br />Breeder: Local Grove <br /><br />Aroma & Flavor: Candy, sherb, and marker taste with smooth transitions <br /><br />Effects: Hybrid – exceptional balance of flavor and potency",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2fa5fdcd5bd7aba903129e501cff4491",
+      "alt": "Local Grove | Glow Pop",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-glow-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 45.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 87.5,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 157.5,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-glow-pop-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.069Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "afternoon-delite-live-resin-super-sour-diesel",
+  "name": "Afternoon Delite Live Resin | Super Sour Diesel",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "Afternoon Delite",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a2a77c970046b4eac5c9d0f0f1220c3",
+      "alt": "Afternoon Delite Live Resin | Super Sour Diesel",
+      "local": "data\\scraped\\images\\shoppuff-com__afternoon-delite-live-resin-super-sour-diesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/afternoon-delite-live-resin-super-sour-diesel-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.666Z"
+}

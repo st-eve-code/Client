@@ -1,0 +1,55 @@
+{
+  "slug": "glorious-cannabis-co-glorious-ocean-air",
+  "name": "Glorious | Ocean Air",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$6.00 – $55.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a9efe600432bff4cba99a795c9d7eea2",
+      "alt": "Glorious | Ocean Air",
+      "local": "data\\scraped\\images\\shoppuff-com__glorious-cannabis-co-glorious-ocean-air__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/glorious-cannabis-co-glorious-ocean-air-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.627Z"
+}

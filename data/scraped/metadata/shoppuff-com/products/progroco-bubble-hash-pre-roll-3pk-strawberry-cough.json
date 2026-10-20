@@ -1,0 +1,35 @@
+{
+  "slug": "progroco-bubble-hash-pre-roll-3pk-strawberry-cough",
+  "name": "Strawberry Cough  Bubble Hash Infused Pre-Rolls 3pk (3.0g Total)",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "1g Bubble Hash Infused x 3",
+  "description_html": "1g Bubble Hash Infused x 3",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fb541096cd7ee1fb56b61afa5b3204de",
+      "alt": "Strawberry Cough  Bubble Hash Infused Pre-Rolls 3pk (3.0g Total)",
+      "local": "data\\scraped\\images\\shoppuff-com__progroco-bubble-hash-pre-roll-3pk-strawberry-cough__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/progroco-bubble-hash-pre-roll-3pk-strawberry-cough-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.930Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-1g-pre-roll-versace",
+  "name": "Hytek | 1g Pre-Roll | Versace",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Versace Versace Versace!! Smooth like silk, this opulent flower is rich and luxurious! Take a look into her eyes and you'll turn stoned.\n\nCategory: Hybrid\n\nBreeder: Pheno Addicts\n\nCross: Wavy x Bebesita",
+  "description_html": "Versace Versace Versace!! Smooth like silk, this opulent flower is rich and luxurious! Take a look into her eyes and you'll turn stoned.<br /><br />Category: Hybrid<br /><br />Breeder: Pheno Addicts<br /><br />Cross: Wavy x Bebesita",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/62db8b6f5fa53d91a825ec2266361df9",
+      "alt": "Hytek | 1g Pre-Roll | Versace",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-1g-pre-roll-versace__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-1g-pre-roll-versace-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.585Z"
+}

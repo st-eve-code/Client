@@ -1,0 +1,35 @@
+{
+  "slug": "pleasanteas-30mg-tea-lemon",
+  "name": "Pleasanteas | 30mg Tea | Lemon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7,
+  "price_max": 7,
+  "currency": "USD",
+  "price_range": "$7.00",
+  "available": true,
+  "vendor": "Pleasanteas",
+  "tags": [],
+  "description": "30mg Infused Tea\n\nOur lemon iced tea is a fresh take on a summer classic with fresh lemon zing and a sweet tea finish. It’s the perfect reward for finishing your yard work early on a Saturday.\n\n--\n\nPleasanteas are best served ice cold & enjoyed with your friends. Cheers!",
+  "description_html": "30mg Infused Tea<br /><br />Our lemon iced tea is a fresh take on a summer classic with fresh lemon zing and a sweet tea finish. It’s the perfect reward for finishing your yard work early on a Saturday.<br /><br />--<br /><br />Pleasanteas are best served ice cold & enjoyed with your friends. Cheers!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e5887da2557eb9777caab94741a9a573",
+      "alt": "Pleasanteas | 30mg Tea | Lemon",
+      "local": "data\\scraped\\images\\shoppuff-com__pleasanteas-30mg-tea-lemon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "12.0g",
+      "price": 7,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pleasanteas-30mg-tea-lemon-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.997Z"
+}

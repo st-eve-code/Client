@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-3-5g-prepackaged-flower-mango-fruz",
+  "name": "Seed Junky | 3.5g Prepackaged Flower | Mango Fruz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Mango Fruz is a frosty indica with a tropical feel that gives off a refreshing minty gas aroma with a hint of citrus. Mango Fruz delivers a buzzing and uplifting high that is steady and long lasting.",
+  "description_html": "Mango Fruz is a frosty indica with a tropical feel that gives off a refreshing minty gas aroma with a hint of citrus. Mango Fruz delivers a buzzing and uplifting high that is steady and long lasting.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/88b21509a3c6b058a73e3a569de1d37f",
+      "alt": "Seed Junky | 3.5g Prepackaged Flower | Mango Fruz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-3-5g-prepackaged-flower-mango-fruz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-3-5g-prepackaged-flower-mango-fruz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.905Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "gt-rolling-co-gt-rolling-co-x-known-x-3-donut-cruisers-citrus-burst",
+  "name": "GT Rolling Co. x Known x 3 Donut Cruisers | Citrus Burst",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "GT Rolling Co.",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3613d5de6849d793a197712120695654",
+      "alt": "GT Rolling Co. x Known x 3 Donut Cruisers | Citrus Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__gt-rolling-co-gt-rolling-co-x-known-x-3-donut-cruisers-citrus-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gt-rolling-co-gt-rolling-co-x-known-x-3-donut-cruisers-citrus-burst-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:20.695Z"
+}

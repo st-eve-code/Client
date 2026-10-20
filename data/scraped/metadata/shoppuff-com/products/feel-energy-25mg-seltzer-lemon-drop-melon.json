@@ -1,0 +1,35 @@
+{
+  "slug": "feel-energy-25mg-seltzer-lemon-drop-melon",
+  "name": "Feel Energy | 25mg Seltzer | Lemon Drop Melon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Feel Energy",
+  "tags": [],
+  "description": "Meet the newest addition to the FEEL lineup: 25mg THC beverages, crafted for those looking for a stronger experience. Available in three refreshing flavors, each can delivers a smooth, uplifting way to sip, relax, and FEEL more—with low sugar and great taste. Infused with 25mg THC and 60mg of caffeine from organic green tea, it delivers a clean, balanced boost without the jitters.",
+  "description_html": "Meet the newest addition to the FEEL lineup: 25mg THC beverages, crafted for those looking for a stronger experience. Available in three refreshing flavors, each can delivers a smooth, uplifting way to sip, relax, and FEEL more—with low sugar and great taste. Infused with 25mg THC and 60mg of caffeine from organic green tea, it delivers a clean, balanced boost without the jitters.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/315a7406f9a2b1a35f3889615a222081",
+      "alt": "Feel Energy | 25mg Seltzer | Lemon Drop Melon",
+      "local": "data\\scraped\\images\\shoppuff-com__feel-energy-25mg-seltzer-lemon-drop-melon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/feel-energy-25mg-seltzer-lemon-drop-melon-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.604Z"
+}

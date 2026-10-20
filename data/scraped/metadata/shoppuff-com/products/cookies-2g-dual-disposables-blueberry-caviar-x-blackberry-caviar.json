@@ -1,0 +1,35 @@
+{
+  "slug": "cookies-2g-dual-disposables-blueberry-caviar-x-blackberry-caviar",
+  "name": "Cookies | 2g Dual Disposables | Blueberry Caviar x Blackberry Caviar",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Cookies",
+  "tags": [],
+  "description": "This premium disposable vape features a 2g pre-filled cartridge, combining two unique and exciting flavors.",
+  "description_html": "This premium disposable vape features a 2g pre-filled cartridge, combining two unique and exciting flavors.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ab2548a1c92ba8283d60e6c0a95cf230",
+      "alt": "Cookies | 2g Dual Disposables | Blueberry Caviar x Blackberry Caviar",
+      "local": "data\\scraped\\images\\shoppuff-com__cookies-2g-dual-disposables-blueberry-caviar-x-blackberry-caviar__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cookies-2g-dual-disposables-blueberry-caviar-x-blackberry-caviar-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.610Z"
+}

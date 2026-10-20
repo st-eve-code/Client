@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-moonrocks-cherry-zlushie",
+  "name": "Mitten Extracts Moonrocks | Cherry Zlushie",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Sweet cherry flavor meets icy candy vibes in Cherry Zlushie Moon Rocks. The layered combination of flower, concentrate, and kief creates a bold, flavorful experience that’s fruity, smooth, and seriously potent.",
+  "description_html": "Sweet cherry flavor meets icy candy vibes in Cherry Zlushie Moon Rocks. The layered combination of flower, concentrate, and kief creates a bold, flavorful experience that’s fruity, smooth, and seriously potent.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ebd8f5c1212a6bdf74e0a673bd8f3d6c",
+      "alt": "Mitten Extracts Moonrocks | Cherry Zlushie",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-moonrocks-cherry-zlushie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-moonrocks-cherry-zlushie-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.535Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "nura-pre-roll-krazy-og",
+  "name": "Nura Pre-Roll | Krazy OG",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cfd71c5bb3becfe32a6ff7966319dd76",
+      "alt": "Nura Pre-Roll | Krazy OG",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-pre-roll-krazy-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-pre-roll-krazy-og-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.187Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "humblebee-products-humblebee-live-resin-bang-bang",
+  "name": "Humblebee Live Resin | Bang Bang",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Humblebee Products",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5613-Puff-JointStore-Kalamazoo.webp",
+      "alt": "Humblebee Live Resin | Bang Bang",
+      "local": "data\\scraped\\images\\shoppuff-com__humblebee-products-humblebee-live-resin-bang-bang__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/humblebee-products-humblebee-live-resin-bang-bang-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.474Z"
+}

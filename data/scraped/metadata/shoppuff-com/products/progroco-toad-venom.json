@@ -1,0 +1,60 @@
+{
+  "slug": "progroco-toad-venom",
+  "name": "ProGroCo | Toad Venom",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8.4,
+  "price_max": 157.5,
+  "currency": "USD",
+  "price_range": "$8.40 – $157.50",
+  "available": true,
+  "vendor": "Pro Gro",
+  "tags": [],
+  "description": "Lineage: Animal Face x Sin Mintz\n\nType: Hybrid\n\nTerpenes: Trans-caryophyllene, Limonene, and Myrcene\n\nAroma: Blends sharp, chemical diesel gas and biting citrus lime with a sweet, doughy mint undertone\n\nEffects: Delivers an immediate, upbeat euphoric head lift that boosts creative focus, followed by a heavy, \"narcotic-like\" full-body sedation that completely relaxes muscles without immediate couch-lock\n\nToad Venom oozes with loud chemical diesel, sharp lime zest, and a sweet minty dough finish that lingers long after the exhale. This hybrid strikes fast with an uplifting cerebral rush that sparks creativity, conversation, and laser-sharp focus before slowly sinking into a heavy, narcotic-style body melt. Deeply relaxing without immediately gluing you to the couch, Toad Venom is the kind of strain that keeps your mind floating while your body fully unwinds.",
+  "description_html": "Lineage: Animal Face x Sin Mintz<br /><br />Type: Hybrid<br /><br />Terpenes: Trans-caryophyllene, Limonene, and Myrcene<br /><br />Aroma: Blends sharp, chemical diesel gas and biting citrus lime with a sweet, doughy mint undertone<br /><br />Effects: Delivers an immediate, upbeat euphoric head lift that boosts creative focus, followed by a heavy, \"narcotic-like\" full-body sedation that completely relaxes muscles without immediate couch-lock<br /><br />Toad Venom oozes with loud chemical diesel, sharp lime zest, and a sweet minty dough finish that lingers long after the exhale. This hybrid strikes fast with an uplifting cerebral rush that sparks creativity, conversation, and laser-sharp focus before slowly sinking into a heavy, narcotic-style body melt. Deeply relaxing without immediately gluing you to the couch, Toad Venom is the kind of strain that keeps your mind floating while your body fully unwinds.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c49d3f72bd314ba1541e17ad431f079b",
+      "alt": "ProGroCo | Toad Venom",
+      "local": "data\\scraped\\images\\shoppuff-com__progroco-toad-venom__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 87.5,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45.5,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 157.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/progroco-toad-venom-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.492Z"
+}

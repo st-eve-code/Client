@@ -1,0 +1,40 @@
+{
+  "slug": "mkx-oil-co-mkx-510-cartridge-watermelon-burst",
+  "name": "MKX 510 Cartridge | Watermelon Burst",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$10.00 – $15.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/805ce2340354a7039f45a09f18e78525",
+      "alt": "MKX 510 Cartridge | Watermelon Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-mkx-510-cartridge-watermelon-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-mkx-510-cartridge-watermelon-burst-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.430Z"
+}

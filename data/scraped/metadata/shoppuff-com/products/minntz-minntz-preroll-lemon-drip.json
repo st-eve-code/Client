@@ -1,0 +1,35 @@
+{
+  "slug": "minntz-minntz-preroll-lemon-drip",
+  "name": "Minntz Preroll | Lemon Drip",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Minntz",
+  "tags": [],
+  "description": "Fruity, citrusy, and creamy aromas combine in (Orange Push Pop x Banana Cream Cake) x Z BX2 to create a bright and indulgent sensory experience. Its uplifting effects inspire creativity and energy, helping spark focus, motivation and a joyful, inspired mood.",
+  "description_html": "Fruity, citrusy, and creamy aromas combine in (Orange Push Pop x Banana Cream Cake) x Z BX2 to create a bright and indulgent sensory experience. Its uplifting effects inspire creativity and energy, helping spark focus, motivation and a joyful, inspired mood.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a8cf9154ef46654a2b0f011e1829037d",
+      "alt": "Minntz Preroll | Lemon Drip",
+      "local": "data\\scraped\\images\\shoppuff-com__minntz-minntz-preroll-lemon-drip__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/minntz-minntz-preroll-lemon-drip-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.451Z"
+}

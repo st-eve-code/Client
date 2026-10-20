@@ -1,0 +1,35 @@
+{
+  "slug": "uplyfted-pre-roll-canal-st-runtz",
+  "name": "Uplyfted Pre-Roll | Canal St. Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Uplyfted Cannabis Co.",
+  "tags": [],
+  "description": "Type of Strain \n\nHybrid\n\nLineage \n\nRuntz x THC Bomb\n\nType of High \n\nThis flower will make you feel like you are straight cruising down Euphoria Ave with the windows down and the music blasting!\n\nAroma \n\nSweet, Berry, Diesel.\n\nTaste \n\nLike the sweet, fruity milk left in the bowl after some fruity flakes.\n\nProfile\n\nß-Caryophyllene, Limonene, Humulene\n\nHelps With \n\nStress – Anxiety – Relaxation",
+  "description_html": "Type of Strain <br /><br />Hybrid<br /><br />Lineage <br /><br />Runtz x THC Bomb<br /><br />Type of High <br /><br />This flower will make you feel like you are straight cruising down Euphoria Ave with the windows down and the music blasting!<br /><br />Aroma <br /><br />Sweet, Berry, Diesel.<br /><br />Taste <br /><br />Like the sweet, fruity milk left in the bowl after some fruity flakes.<br /><br />Profile<br /><br />ß-Caryophyllene, Limonene, Humulene<br /><br />Helps With  <br /><br />Stress – Anxiety – Relaxation",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/90a3071012e1f1b6616db9164d74ec69",
+      "alt": "Uplyfted Pre-Roll | Canal St. Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__uplyfted-pre-roll-canal-st-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/uplyfted-pre-roll-canal-st-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.572Z"
+}

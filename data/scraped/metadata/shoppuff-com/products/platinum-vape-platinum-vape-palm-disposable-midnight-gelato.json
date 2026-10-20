@@ -1,0 +1,35 @@
+{
+  "slug": "platinum-vape-platinum-vape-palm-disposable-midnight-gelato",
+  "name": "Platinum Vape PALM Disposable | Midnight Gelato",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 17,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$17.00",
+  "available": true,
+  "vendor": "Platinum Vape",
+  "tags": [],
+  "description": "Platinum Vape Palm 2g MAX AIO Disposable\n\nOn/Off: Press the button 5x quickly\n\nPreheat 5 Seconds: Press the button 2x quickly\n\nAdjust Device Voltage: Press the button 3x quickly (2.0v - 3.0v - 3.3v)",
+  "description_html": "Platinum Vape Palm 2g MAX AIO Disposable<br /><br />On/Off: Press the button 5x quickly<br /><br />Preheat 5 Seconds: Press the button 2x quickly<br /><br />Adjust Device Voltage: Press the button 3x quickly (2.0v - 3.0v - 3.3v)",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/99945c85d7472747f64579b2f657732a",
+      "alt": "Platinum Vape PALM Disposable | Midnight Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__platinum-vape-platinum-vape-palm-disposable-midnight-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 17,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/platinum-vape-platinum-vape-palm-disposable-midnight-gelato-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.495Z"
+}

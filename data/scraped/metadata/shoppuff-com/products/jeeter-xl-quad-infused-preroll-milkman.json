@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-xl-quad-infused-preroll-milkman",
+  "name": "Milkman Jeeter XL Infused Pre-Roll | 2g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12.5,
+  "price_max": 12.5,
+  "currency": "USD",
+  "price_range": "$12.50",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Milkman pours out smooth, creamy notes with a touch of sweetness that feels instantly familiar. The flavor is mellow but memorable, settling in with a richness that lingers. Like the name promises, this one always shows up on time and never skips a delivery.",
+  "description_html": "Milkman pours out smooth, creamy notes with a touch of sweetness that feels instantly familiar. The flavor is mellow but memorable, settling in with a richness that lingers. Like the name promises, this one always shows up on time and never skips a delivery.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/370ce3b219ec2e631b3477dde8199836",
+      "alt": "Milkman Jeeter XL Infused Pre-Roll | 2g",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-xl-quad-infused-preroll-milkman__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-xl-quad-infused-preroll-milkman-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.506Z"
+}

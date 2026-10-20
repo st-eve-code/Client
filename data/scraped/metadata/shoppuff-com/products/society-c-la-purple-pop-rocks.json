@@ -1,0 +1,60 @@
+{
+  "slug": "society-c-la-purple-pop-rocks",
+  "name": "Society C | LA Purple Pop Rocks",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Society C",
+  "tags": [],
+  "description": "Society C's LA Purple Pop Rocks is an Indica Hybrid, a cross of LA Pop Rocks and Purple Push Pop. It offers terpenes like Limonene and Linalool, with flavors of berries, diesel, and citrus, producing relaxing, tingly, and arousing effects.",
+  "description_html": "Society C's LA Purple Pop Rocks is an Indica Hybrid, a cross of LA Pop Rocks and Purple Push Pop. It offers terpenes like Limonene and Linalool, with flavors of berries, diesel, and citrus, producing relaxing, tingly, and arousing effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b0c0a5ed19a57c6706d3264e357c2be4",
+      "alt": "Society C | LA Purple Pop Rocks",
+      "local": "data\\scraped\\images\\shoppuff-com__society-c-la-purple-pop-rocks__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 150,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/society-c-la-purple-pop-rocks-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.476Z"
+}

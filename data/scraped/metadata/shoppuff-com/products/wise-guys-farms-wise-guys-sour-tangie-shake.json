@@ -1,0 +1,40 @@
+{
+  "slug": "wise-guys-farms-wise-guys-sour-tangie-shake",
+  "name": "Wise Guys | Sour Tangie Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$12.00 – $20.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: Tangie x Sour Diesel\n\nFlavor: Astringent lemon cleaner terps, smooth finish\n\nType/Leaning: Sativa\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Tangie x Sour Diesel<br /><br />Flavor: Astringent lemon cleaner terps, smooth finish<br /><br />Type/Leaning: Sativa<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fe979afad1c91aa58564f4a8933bb365",
+      "alt": "Wise Guys | Sour Tangie Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-farms-wise-guys-sour-tangie-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-farms-wise-guys-sour-tangie-shake-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.513Z"
+}

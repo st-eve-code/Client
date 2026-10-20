@@ -1,0 +1,60 @@
+{
+  "slug": "dog-house-gratiot-gold-smalls",
+  "name": "Dog House | Gratiot Gold Smalls",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 75,
+  "currency": "USD",
+  "price_range": "$4.00 – $75.00",
+  "available": true,
+  "vendor": "DogHouse Farms",
+  "tags": [],
+  "description": "Sourdough is an indoor-grown strain that's ideal for patients seeking a high-THC indica. Known for its savoury aroma notes of sour, cake, and gas, Sourdough has a lineage from Cake and Diesel genetics and features large, forest-green buds flecked in purple hues with heavy trichome coverage.",
+  "description_html": "Sourdough is an indoor-grown strain that's ideal for patients seeking a high-THC indica. Known for its savoury aroma notes of sour, cake, and gas, Sourdough has a lineage from Cake and Diesel genetics and features large, forest-green buds flecked in purple hues with heavy trichome coverage.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f154f781708967d7b5608fe00f0f976f",
+      "alt": "Dog House | Gratiot Gold Smalls",
+      "local": "data\\scraped\\images\\shoppuff-com__dog-house-gratiot-gold-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 22.5,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 42.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 12.5,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dog-house-gratiot-gold-smalls-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.351Z"
+}

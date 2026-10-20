@@ -1,0 +1,35 @@
+{
+  "slug": "stickee-live-resin-x-liquid-diamonds-vape-cart-lime-skunk",
+  "name": "Live Resin x Liquid Diamonds Vape Cart - Lime Skunk",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Stickee",
+  "tags": [],
+  "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/vaporizers.jpg",
+      "alt": "Live Resin x Liquid Diamonds Vape Cart - Lime Skunk",
+      "local": "data\\scraped\\images\\shoppuff-com__stickee-live-resin-x-liquid-diamonds-vape-cart-lime-skunk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stickee-live-resin-x-liquid-diamonds-vape-cart-lime-skunk-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.383Z"
+}

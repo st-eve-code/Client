@@ -1,0 +1,60 @@
+{
+  "slug": "guerilla-grown-guerilla-grown-lemon-cherry-marker",
+  "name": "Guerilla Grown | Lemon Cherry Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1.75,
+  "price_max": 49,
+  "currency": "USD",
+  "price_range": "$1.75 – $49.00",
+  "available": true,
+  "vendor": "Guerilla Grown",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/042c5ce826b4f2f486fa6c10ccc4cfce",
+      "alt": "Guerilla Grown | Lemon Cherry Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__guerilla-grown-guerilla-grown-lemon-cherry-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 49,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 12.25,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 1.75,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 6.13,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 3.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guerilla-grown-guerilla-grown-lemon-cherry-marker-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.497Z"
+}

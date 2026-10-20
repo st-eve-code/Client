@@ -1,0 +1,50 @@
+{
+  "slug": "zour-x-bitez-micros-3-000mg-gummies-delta-8-delta-9-thcp-watermelon-lemonade",
+  "name": "ZOUR x BITEZ Micros 3,000MG Gummies - Delta-8 + Delta-9 + THCP - Watermelon Lemonade",
+  "site": "ochoextracts-com",
+  "category": "double-stacked-bitez-gummies",
+  "price_min": 7.99,
+  "price_max": 7.99,
+  "currency": "GBP",
+  "price_range": "£7.99",
+  "available": true,
+  "sku": "ZOUR-BITEZ-WL",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "Gummies",
+    "Hemp THC Gummies",
+    "ZOUR x BITEZ Micros"
+  ],
+  "description": "Watermelon Lemonade delivers a refreshing balance of sweet and tart citrus flavor. Juicy watermelon pairs with bright, zesty lemonade for a fruity combination that starts sweet and finishes with a tangy citrus note. This Ocho Extracts x Zour Stash collab packs a 500mg Delta-8, Delta-9, and THCP blend per gummy—half the potency of the original BITEZ for a smoother, more manageable experience (6 gummies per bag, 3,000mg total). Sweet watermelon and tangy lemonade create a refreshing finish in every bite.",
+  "description_html": "<p><strong>Watermelon Lemonade delivers a refreshing balance of sweet and tart citrus flavor.</strong> <strong>Juicy watermelon pairs with bright, zesty lemonade</strong> for a fruity combination that starts sweet and finishes with a tangy citrus note. This Ocho Extracts x Zour Stash collab packs a <strong>500mg Delta-8, Delta-9, and THCP blend per gummy</strong>—<strong>half the potency of the original BITEZ</strong> for a smoother, more manageable experience (<strong>6 gummies per bag, 3,000mg total</strong>). Sweet watermelon and tangy lemonade create a refreshing finish in every bite.</p>",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Micros-Baggy-WL.png?v=1790196405",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__zour-x-bitez-micros-3-000mg-gummies-delta-8-delta-9-thcp-watermelon-lemonade__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Micros-Gummy-WL.png?v=1790196406",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__zour-x-bitez-micros-3-000mg-gummies-delta-8-delta-9-thcp-watermelon-lemonade__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 46654642421946,
+      "title": "Default Title",
+      "price": 7.99,
+      "sku": "ZOUR-BITEZ-WL",
+      "available": true
+    }
+  ],
+  "collections": [
+    "double-stacked-bitez-gummies",
+    "gourmet-gummies",
+    "zour-x-bitez-micros-3000mg-gummies"
+  ],
+  "source_url": "https://ochoextracts.com/products/zour-x-bitez-micros-3-000mg-gummies-delta-8-delta-9-thcp-watermelon-lemonade",
+  "scraped_at": "2026-10-10T21:42:38.152Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-prepackaged-flower-gas-face",
+  "name": "Seed Junky Prepackaged Flower | Gas Face",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 40,
+  "price_max": 40,
+  "currency": "USD",
+  "price_range": "$40.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Gas Face cannabis will check all the boxes—it's glistening, stanky, and dense, with a thick, strong smoke. Medical marijuana patients report Gas Face helping ease depression, stress, and anxiety, and consumers enjoy Gas Face weed for its creative, relaxing, and uplifting effects.",
+  "description_html": "Gas Face cannabis will check all the boxes—it's glistening, stanky, and dense, with a thick, strong smoke. Medical marijuana patients report Gas Face helping ease depression, stress, and anxiety, and consumers enjoy Gas Face weed for its creative, relaxing, and uplifting effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/310aa4572e72684c1ece5aed480e78c1",
+      "alt": "Seed Junky Prepackaged Flower | Gas Face",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-prepackaged-flower-gas-face__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 40,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-prepackaged-flower-gas-face-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.421Z"
+}

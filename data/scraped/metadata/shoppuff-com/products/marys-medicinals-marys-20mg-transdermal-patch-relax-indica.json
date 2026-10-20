@@ -1,0 +1,35 @@
+{
+  "slug": "marys-medicinals-marys-20mg-transdermal-patch-relax-indica",
+  "name": "Mary's | 20mg Transdermal Patch | Relax (Indica)",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mary's Medicinals",
+  "tags": [],
+  "description": "Our Relax Transdermal Patches are formulated with synergistic terpenes that promote relaxation, calmness, and tranquility. Designed to help you unwind and destress after a long day, Relax products are perfect for incorporating into your daily routine.",
+  "description_html": "Our Relax Transdermal Patches are formulated with synergistic terpenes that promote relaxation, calmness, and tranquility. Designed to help you unwind and destress after a long day, Relax products are perfect for incorporating into your daily routine.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c054cc691bb096549b559c5692e6d4d7",
+      "alt": "Mary's | 20mg Transdermal Patch | Relax (Indica)",
+      "local": "data\\scraped\\images\\shoppuff-com__marys-medicinals-marys-20mg-transdermal-patch-relax-indica__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.0575g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "TOPICALS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/marys-medicinals-marys-20mg-transdermal-patch-relax-indica-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:20.684Z"
+}

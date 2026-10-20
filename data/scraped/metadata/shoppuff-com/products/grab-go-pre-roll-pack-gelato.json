@@ -1,0 +1,35 @@
+{
+  "slug": "grab-go-pre-roll-pack-gelato",
+  "name": "Grab & Go Pre-Roll Pack | Gelato",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Grab & Go",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/557784347470f5318d7e773a06a599d9",
+      "alt": "Grab & Go Pre-Roll Pack | Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__grab-go-pre-roll-pack-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grab-go-pre-roll-pack-gelato-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.999Z"
+}

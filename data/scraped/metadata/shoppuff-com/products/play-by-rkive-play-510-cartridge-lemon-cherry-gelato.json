@@ -1,0 +1,35 @@
+{
+  "slug": "play-by-rkive-play-510-cartridge-lemon-cherry-gelato",
+  "name": "Play 510 Cartridge | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Play by Rkive",
+  "tags": [],
+  "description": "1g 510 Cartridge",
+  "description_html": "1g 510 Cartridge",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/245e3f651d6ffb79cb19466c1d3fb675",
+      "alt": "Play 510 Cartridge | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__play-by-rkive-play-510-cartridge-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/play-by-rkive-play-510-cartridge-lemon-cherry-gelato-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.240Z"
+}

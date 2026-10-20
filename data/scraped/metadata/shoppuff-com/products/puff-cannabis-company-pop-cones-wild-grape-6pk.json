@@ -1,0 +1,35 @@
+{
+  "slug": "puff-cannabis-company-pop-cones-wild-grape-6pk",
+  "name": "Pop Cones | Wild Grape 6pk",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Puff Cannabis Company",
+  "tags": [],
+  "description": "Pop Cones are rolled with a built-in filter tip that features a flavor bead to pop and activate the flavor. These unbleached cones are great for a solo smoke or with a friend.",
+  "description_html": "Pop Cones are rolled with a built-in filter tip that features a flavor bead to pop and activate the flavor. These unbleached cones are great for a solo smoke or with a friend.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e458b50e2a882ac233bc19faf9af939a",
+      "alt": "Pop Cones | Wild Grape 6pk",
+      "local": "data\\scraped\\images\\shoppuff-com__puff-cannabis-company-pop-cones-wild-grape-6pk__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puff-cannabis-company-pop-cones-wild-grape-6pk-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.935Z"
+}

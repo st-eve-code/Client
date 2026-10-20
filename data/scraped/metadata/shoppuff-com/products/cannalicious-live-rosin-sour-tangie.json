@@ -1,0 +1,35 @@
+{
+  "slug": "cannalicious-live-rosin-sour-tangie",
+  "name": "Cannalicious Live Rosin | Sour Tangie",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 22.5,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$22.50",
+  "available": true,
+  "vendor": "Cannalicious Labs",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/bc7268e4005fd3ac877202a7a1e0e077",
+      "alt": "Cannalicious Live Rosin | Sour Tangie",
+      "local": "data\\scraped\\images\\shoppuff-com__cannalicious-live-rosin-sour-tangie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 22.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cannalicious-live-rosin-sour-tangie-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.970Z"
+}

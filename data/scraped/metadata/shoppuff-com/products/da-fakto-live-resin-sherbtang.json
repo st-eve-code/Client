@@ -1,0 +1,35 @@
+{
+  "slug": "da-fakto-live-resin-sherbtang",
+  "name": "Da Fakto Live Resin | Sherbtang",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 5.5,
+  "price_max": 5.5,
+  "currency": "USD",
+  "price_range": "$5.50",
+  "available": true,
+  "vendor": "dā faktō",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5613-Puff-JointStore-Kalamazoo.webp",
+      "alt": "Da Fakto Live Resin | Sherbtang",
+      "local": "data\\scraped\\images\\shoppuff-com__da-fakto-live-resin-sherbtang__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/da-fakto-live-resin-sherbtang-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.801Z"
+}

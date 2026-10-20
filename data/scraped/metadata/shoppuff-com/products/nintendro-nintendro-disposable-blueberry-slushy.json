@@ -1,0 +1,35 @@
+{
+  "slug": "nintendro-nintendro-disposable-blueberry-slushy",
+  "name": "Nintendro Disposable | Blueberry Slushy",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Nintendro",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0faf633054131f46ac89e2720ab99796",
+      "alt": "Nintendro Disposable | Blueberry Slushy",
+      "local": "data\\scraped\\images\\shoppuff-com__nintendro-nintendro-disposable-blueberry-slushy__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nintendro-nintendro-disposable-blueberry-slushy-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.243Z"
+}

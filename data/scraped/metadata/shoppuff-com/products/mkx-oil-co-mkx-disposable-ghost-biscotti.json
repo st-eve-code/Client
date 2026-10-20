@@ -1,0 +1,35 @@
+{
+  "slug": "mkx-oil-co-mkx-disposable-ghost-biscotti",
+  "name": "MKX Disposable | Ghost Biscotti",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "MKX Oil Co.",
+  "tags": [],
+  "description": "Michigan's #1 Cannabis Brand Infused with our award-winning THC oil, our cannabis cartridges and edibles invite you to explore a wonderful tasty and effective variety of terpene-inspired flavors.",
+  "description_html": "Michigan's #1 Cannabis Brand Infused with our award-winning THC oil, our cannabis cartridges and edibles invite you to explore a wonderful tasty and effective variety of terpene-inspired flavors.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ba8304e3a107206d6ae289f5aaa46db4",
+      "alt": "MKX Disposable | Ghost Biscotti",
+      "local": "data\\scraped\\images\\shoppuff-com__mkx-oil-co-mkx-disposable-ghost-biscotti__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mkx-oil-co-mkx-disposable-ghost-biscotti-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.436Z"
+}

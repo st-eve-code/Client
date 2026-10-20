@@ -1,0 +1,45 @@
+{
+  "slug": "super-dope-super-dope-prepackaged-flower-lemon-popperz",
+  "name": "Super Dope Prepackaged Flower | Lemon Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 352,
+  "currency": "USD",
+  "price_range": "$55.00 – $352.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Lemon Popperz, an exotic blend of Gelato 41 crossed with Lemon Tree, gives off candy terps with the a “41 lemon funk” profile.",
+  "description_html": "Lemon Popperz, an exotic blend of Gelato 41 crossed with Lemon Tree, gives off candy terps with the a “41 lemon funk” profile.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2214aeb7d02f8cd591ba7f75db73d0b8",
+      "alt": "Super Dope Prepackaged Flower | Lemon Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-prepackaged-flower-lemon-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 352,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 110,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-prepackaged-flower-lemon-popperz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.803Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-jeeter-1-3g-infused-cannon-triple-double",
+  "name": "Jeeter | 1.3g Infused Cannon | Triple Double",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Introducing the Cannon Live Resin Joint. Each joint includes one 1.3g Cannon. What sets Cannons apart is their premium flower combined with 100% live resin, delivering a full spectrum high terpene extract made from fresh frozen flower.\n- Premium Flower\n- 1 Cannon Totaling 1.3 Grams\n- 100% Live Resin Made From Fresh Frozen Flower",
+  "description_html": "Introducing the Cannon Live Resin Joint. Each joint includes one 1.3g Cannon. What sets Cannons apart is their premium flower combined with 100% live resin, delivering a full spectrum high terpene extract made from fresh frozen flower.<br />- Premium Flower<br />- 1 Cannon Totaling 1.3 Grams<br />- 100% Live Resin Made From Fresh Frozen Flower",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a43077983f86b0a87618452c730e669d",
+      "alt": "Jeeter | 1.3g Infused Cannon | Triple Double",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-jeeter-1-3g-infused-cannon-triple-double__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-jeeter-1-3g-infused-cannon-triple-double-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.644Z"
+}

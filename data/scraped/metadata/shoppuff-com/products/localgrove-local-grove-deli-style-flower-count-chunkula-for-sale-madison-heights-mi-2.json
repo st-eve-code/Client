@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-deli-style-flower-count-chunkula-for-sale-madison-heights-mi-2",
+  "name": "Local Grove Deli Style Flower | Count Chunkula",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Mochi Gelato x Runtz \n\nBreeder: Clearwater Genetics \n\nAroma & Flavor: Chocolate and candy notes from dense purple buds \n\nEffects: Indica-leaning hybrid – relaxing and flavorful",
+  "description_html": "Genetics: Mochi Gelato x Runtz <br /><br />Breeder: Clearwater Genetics <br /><br />Aroma & Flavor: Chocolate and candy notes from dense purple buds <br /><br />Effects: Indica-leaning hybrid – relaxing and flavorful",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5c64f38eca7938b91e69ed27b4694b2a",
+      "alt": "Local Grove Deli Style Flower | Count Chunkula",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-deli-style-flower-count-chunkula-for-sale-madison-heights-mi-2__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-deli-style-flower-count-chunkula-for-sale-madison-heights-mi-2/",
+  "scraped_at": "2026-10-10T22:31:20.999Z"
+}

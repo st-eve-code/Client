@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-hand-roll-lantz",
+  "name": "HYTEK | LANTZ | HAND ROLLED JOINT | 1.5g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "Its like getting a Lime Sherbet Float at your grade school birthday party. The Lantz gives off a tart lime flavor but also nice and creamy. Its a great mix and balance of flavors!!\n\nCategory: Hybrid\nBreeder: Ridgeline Farms\nCross: Ridgeline Runtz x Green Lantern\nType: Hand Rolled Doink w/ Spiral Glass Tip (1.5g)",
+  "description_html": "Its like getting a Lime Sherbet Float at your grade school birthday party. The Lantz gives off a tart lime flavor but also nice and creamy. Its a great mix and balance of flavors!!<br /><br />Category: Hybrid<br />Breeder: Ridgeline Farms<br />Cross: Ridgeline Runtz x Green Lantern<br />Type: Hand Rolled Doink w/ Spiral Glass Tip (1.5g)",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b64cdcbf84ed27ed14aac693e109840c",
+      "alt": "HYTEK | LANTZ | HAND ROLLED JOINT | 1.5g",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hand-roll-lantz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hand-roll-lantz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.278Z"
+}

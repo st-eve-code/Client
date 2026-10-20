@@ -1,0 +1,35 @@
+{
+  "slug": "old-school-hash-co-old-school-hash-co-live-rosin-strawberry-cheesecake",
+  "name": "Old School Hash Co. Live Rosin | Strawberry Cheesecake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 24,
+  "price_max": 24,
+  "currency": "USD",
+  "price_range": "$24.00",
+  "available": true,
+  "vendor": "Old School Hash Co.",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5721-0.jpg",
+      "alt": "Old School Hash Co. Live Rosin | Strawberry Cheesecake",
+      "local": "data\\scraped\\images\\shoppuff-com__old-school-hash-co-old-school-hash-co-live-rosin-strawberry-cheesecake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/old-school-hash-co-old-school-hash-co-live-rosin-strawberry-cheesecake-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.379Z"
+}

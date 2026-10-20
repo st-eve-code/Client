@@ -1,0 +1,35 @@
+{
+  "slug": "tokers-choice-tokers-choice-terp-infused-preroll-spryte",
+  "name": "Toker's Choice Terp Infused Preroll | Spryte",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Toker's Choice",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fabbf7e3e10a16eec1c789d45be9bedd",
+      "alt": "Toker's Choice Terp Infused Preroll | Spryte",
+      "local": "data\\scraped\\images\\shoppuff-com__tokers-choice-tokers-choice-terp-infused-preroll-spryte__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/tokers-choice-tokers-choice-terp-infused-preroll-spryte-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.181Z"
+}

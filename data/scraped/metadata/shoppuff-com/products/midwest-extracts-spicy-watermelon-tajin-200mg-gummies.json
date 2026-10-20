@@ -1,0 +1,35 @@
+{
+  "slug": "midwest-extracts-spicy-watermelon-tajin-200mg-gummies",
+  "name": "Spicy Watermelon Tajin | 200mg Gummies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Midwest Extracts",
+  "tags": [],
+  "description": "8 gummies per package 25 mg THC per gummy\n\n200mg per package\n\nHand-crafted, vegan, and gluten-free.",
+  "description_html": "8 gummies per package 25 mg THC per gummy<br /><br />200mg per package<br /><br />Hand-crafted, vegan, and gluten-free.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/204d1d41733e397f9a76466c15266891",
+      "alt": "Spicy Watermelon Tajin | 200mg Gummies",
+      "local": "data\\scraped\\images\\shoppuff-com__midwest-extracts-spicy-watermelon-tajin-200mg-gummies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.727g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midwest-extracts-spicy-watermelon-tajin-200mg-gummies-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.903Z"
+}

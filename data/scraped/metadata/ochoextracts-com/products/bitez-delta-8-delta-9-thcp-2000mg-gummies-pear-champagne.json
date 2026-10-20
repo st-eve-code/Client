@@ -1,0 +1,52 @@
+{
+  "slug": "bitez-delta-8-delta-9-thcp-2000mg-gummies-pear-champagne",
+  "name": "BITEZ - Delta-8 + Delta-9 + THCP 2000MG Gummies - Pear Champagne",
+  "site": "ochoextracts-com",
+  "category": "double-stacked-2000mg-bitez-baggiez",
+  "price_min": 5.99,
+  "price_max": 5.99,
+  "currency": "GBP",
+  "price_range": "£5.99",
+  "available": true,
+  "sku": "45819642740922",
+  "vendor": "Ocho Extracts",
+  "tags": [
+    "BITEZ",
+    "BITEZ Baggiez",
+    "Gummies",
+    "Hemp THC Gummies",
+    "Ocho Extracts"
+  ],
+  "description": "Pop the flavor with our Pear Champagne BITEZ gummies! These double-stacked treats capture the essence of premium champagne gummies with one layer of crisp, juicy pear and another of sparkling champagne sweetness. Infused with a potent mix of Delta-8, Delta-9, and THCP, each gummy boasts 1,000mg per piece for a sophisticated, celebratory experience. With two gummies in each baggy (2,000mg total), toast to bold flavor and long-lasting blissful effects. Your taste buds deserve the VIP treatment!",
+  "description_html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">Pop the flavor with our Pear Champagne BITEZ gummies! These double-stacked treats capture the essence of premium champagne gummies with one layer of <strong>crisp, juicy pear</strong> and another of <strong>sparkling champagne sweetness</strong>. Infused with a potent mix of <strong>Delta-8</strong>, <strong>Delta-9</strong>, and <strong>THCP</strong>, each gummy boasts <strong>1,000mg per piece</strong> for a sophisticated, celebratory experience. With two gummies in each baggy (<strong>2,000mg total</strong>), toast to bold flavor and long-lasting blissful effects. Your taste buds deserve the VIP treatment!</p>\n<!---->",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Bitez-Transparent_Baggy-PC.png?v=1777646951",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__bitez-delta-8-delta-9-thcp-2000mg-gummies-pear-champagne__000.png"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0530/4087/3658/files/Bitez_Gummy-PC-Site.png?v=1788461627",
+      "alt": "",
+      "local": "data\\scraped\\images\\ochoextracts-com__bitez-delta-8-delta-9-thcp-2000mg-gummies-pear-champagne__001.png"
+    }
+  ],
+  "variants": [
+    {
+      "id": 45819642740922,
+      "title": "Default Title",
+      "price": 5.99,
+      "sku": "45819642740922",
+      "available": true
+    }
+  ],
+  "collections": [
+    "double-stacked-2000mg-bitez-baggiez",
+    "double-stacked-bitez-gummies",
+    "gourmet-gummies",
+    "ocho-extracts"
+  ],
+  "source_url": "https://ochoextracts.com/products/bitez-delta-8-delta-9-thcp-2000mg-gummies-pear-champagne",
+  "scraped_at": "2026-10-10T21:42:37.762Z"
+}

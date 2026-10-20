@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-jointman-5g-live-resin-blue-dream",
+  "name": "Jointman | 5g Live Resin | Blue Dream",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Jointman",
+  "tags": [],
+  "description": "Step into the world of next-level dabs with the Jointman 5g Live Resin Concentrate — crafted for connoisseurs who demand potency without compromise. Extracted from fresh, premium flower, this live resin locks in every terpene and cannabinoid for a true-to-plant, full-spectrum experience that hits hard and tastes like the source.",
+  "description_html": "Step into the world of next-level dabs with the Jointman 5g Live Resin Concentrate — crafted for connoisseurs who demand potency without compromise. Extracted from fresh, premium flower, this live resin locks in every terpene and cannabinoid for a true-to-plant, full-spectrum experience that hits hard and tastes like the source.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6bde1456538be3e59e6da94d84c6bf4d",
+      "alt": "Jointman | 5g Live Resin | Blue Dream",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-jointman-5g-live-resin-blue-dream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-jointman-5g-live-resin-blue-dream-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.869Z"
+}

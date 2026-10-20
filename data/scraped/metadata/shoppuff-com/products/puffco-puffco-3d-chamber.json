@@ -1,0 +1,35 @@
+{
+  "slug": "puffco-puffco-3d-chamber",
+  "name": "Puffco | 3D Chamber",
+  "site": "shoppuff-com",
+  "category": "vape-accessories",
+  "price_min": 30,
+  "price_max": 30,
+  "currency": "USD",
+  "price_range": "$30.00",
+  "available": true,
+  "vendor": "Puffco",
+  "tags": [],
+  "description": "Our patented 3D Chamber gives you better flavor and a consistent hit every time. Innovative sensors provide real-time temperature control, while heat traces embedded in the ceramic walls vaporize concentrate from the sides – not the bottom. This top-tier technology protects the terpenes and cannabinoids from degrading, ensuring you get optimal effects and optimal flavor. Often imitated, never beaten.",
+  "description_html": "Our patented 3D Chamber gives you better flavor and a consistent hit every time. Innovative sensors provide real-time temperature control, while heat traces embedded in the ceramic walls vaporize concentrate from the sides – not the bottom. This top-tier technology protects the terpenes and cannabinoids from degrading, ensuring you get optimal effects and optimal flavor. Often imitated, never beaten.<br /><br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/92830125b1b9d50a94175752b1a039a5",
+      "alt": "Puffco | 3D Chamber",
+      "local": "data\\scraped\\images\\shoppuff-com__puffco-puffco-3d-chamber__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "N/A",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ACCESSORIES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/puffco-puffco-3d-chamber-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.115Z"
+}

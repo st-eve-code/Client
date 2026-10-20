@@ -1,0 +1,35 @@
+{
+  "slug": "superfire-200mg-gummies-sour-watermelon",
+  "name": "Superfire | 200mg Gummies | Sour Watermelon",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 2,
+  "price_max": 2,
+  "currency": "USD",
+  "price_range": "$2.00",
+  "available": true,
+  "vendor": "Superfire",
+  "tags": [],
+  "description": "Crafted for both flavor and effect, Superfire Gummies feature a soft, chewy texture with a perfectly balanced sweet and sour finish, making every bite as enjoyable as the experience that follows. Whether you're looking to relax, elevate your mood, or enhance your day, these gummies offer a reliable and potent edible that’s easy to dose and built for consistency.",
+  "description_html": "Crafted for both flavor and effect, Superfire Gummies feature a soft, chewy texture with a perfectly balanced sweet and sour finish, making every bite as enjoyable as the experience that follows. Whether you're looking to relax, elevate your mood, or enhance your day, these gummies offer a reliable and potent edible that’s easy to dose and built for consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1806fd19ae69b2c83e5dedb2ee68157b",
+      "alt": "Superfire | 200mg Gummies | Sour Watermelon",
+      "local": "data\\scraped\\images\\shoppuff-com__superfire-200mg-gummies-sour-watermelon__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.35g",
+      "price": 2,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/superfire-200mg-gummies-sour-watermelon-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.304Z"
+}

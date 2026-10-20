@@ -1,0 +1,45 @@
+{
+  "slug": "grasshopper-farms-donkey-butter",
+  "name": "Grasshopper Farms | Donkey Butter",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 1.23,
+  "price_max": 4.29,
+  "currency": "USD",
+  "price_range": "$1.23 – $4.29",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8f2c081ab3b6f26f5cd84671440b4774",
+      "alt": "Grasshopper Farms | Donkey Butter",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-donkey-butter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 1.23,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 2.45,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 4.29,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-donkey-butter-for-sale-river-rouge-mi/",
+  "scraped_at": "2026-10-10T22:31:21.585Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "localgrove-local-grove-live-hash-rosin-black-maple-1g",
+  "name": "Local Grove Live Hash Rosin | Black Maple | 1G",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 75,
+  "price_max": 75,
+  "currency": "USD",
+  "price_range": "$75.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Dulce De Uva x Sherbanger \n\nBreeder: Bloom Seed Co x Boston Roots \n\nAroma & Flavor: Blend of grape, gas, and sweet sherbet \n\nEffects: Hybrid – flavorful, potent, and highly resinous",
+  "description_html": "Genetics: Dulce De Uva x Sherbanger <br /><br />Breeder: Bloom Seed Co x Boston Roots <br /><br />Aroma & Flavor: Blend of grape, gas, and sweet sherbet <br /><br />Effects: Hybrid – flavorful, potent, and highly resinous",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/290d9694e10ae81191dbcf3d86685616",
+      "alt": "Local Grove Live Hash Rosin | Black Maple | 1G",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-live-hash-rosin-black-maple-1g__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 75,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-live-hash-rosin-black-maple-1g-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.725Z"
+}

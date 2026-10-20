@@ -1,0 +1,35 @@
+{
+  "slug": "hytek-hand-roll-pink-runtz",
+  "name": "HYTEK | PINK RUNTZ | HAND ROLLED JOINT | 1.5g",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Hytek",
+  "tags": [],
+  "description": "The Hytek Pink Runtz is the candiest Runtz cut there ever was!!! Its the definition of candy weed!! You know.... The King of Candy Runtz phenos!!!\n\nCategory: Hybrid\nCross: Zkittles x Gelato\nType: Hand Rolled Doink w/ Spiral Glass Tip (1.5g)",
+  "description_html": "The Hytek Pink Runtz is the candiest Runtz cut there ever was!!! Its the definition of candy weed!! You know.... The King of Candy Runtz phenos!!!<br /><br />Category: Hybrid<br />Cross: Zkittles x Gelato<br />Type: Hand Rolled Doink w/ Spiral Glass Tip (1.5g)",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/e2d992ae423c13f5275a49a3c4a98aa4",
+      "alt": "HYTEK | PINK RUNTZ | HAND ROLLED JOINT | 1.5g",
+      "local": "data\\scraped\\images\\shoppuff-com__hytek-hand-roll-pink-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/hytek-hand-roll-pink-runtz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.278Z"
+}

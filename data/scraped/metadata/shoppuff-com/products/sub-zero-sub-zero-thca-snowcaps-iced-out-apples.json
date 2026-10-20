@@ -1,0 +1,55 @@
+{
+  "slug": "sub-zero-sub-zero-thca-snowcaps-iced-out-apples",
+  "name": "Sub Zero | THCA Snowcaps | Iced Out Apples",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 125,
+  "currency": "USD",
+  "price_range": "$12.00 – $125.00",
+  "available": true,
+  "vendor": "Sub Zero",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a22dc8a33588ae43c635bfd954b2a0c3",
+      "alt": "Sub Zero | THCA Snowcaps | Iced Out Apples",
+      "local": "data\\scraped\\images\\shoppuff-com__sub-zero-sub-zero-thca-snowcaps-iced-out-apples__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/sub-zero-sub-zero-thca-snowcaps-iced-out-apples-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.079Z"
+}

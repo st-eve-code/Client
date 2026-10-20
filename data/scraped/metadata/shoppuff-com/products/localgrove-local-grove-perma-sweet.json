@@ -1,0 +1,60 @@
+{
+  "slug": "localgrove-local-grove-perma-sweet",
+  "name": "Local Grove | Perma Sweet",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 179,
+  "currency": "USD",
+  "price_range": "$10.00 – $179.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Permanent Marker x Runtz \n\nBreeder: Local Grove \n\nAroma & Flavor: Distinctive aroma and taste leaning toward Permanent Marker, with strong bag appeal \n\nEffects: Hybrid – potent effects with a rich, complex terpene profile.",
+  "description_html": "Genetics: Permanent Marker x Runtz <br /><br />Breeder: Local Grove <br /><br />Aroma & Flavor: Distinctive aroma and taste leaning toward Permanent Marker, with strong bag appeal <br /><br />Effects: Hybrid – potent effects with a rich, complex terpene profile.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/aa5fed477ad29235d600bdb1c3d779e0",
+      "alt": "Local Grove | Perma Sweet",
+      "local": "data\\scraped\\images\\shoppuff-com__localgrove-local-grove-perma-sweet__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 179,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 95,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/localgrove-local-grove-perma-sweet-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.221Z"
+}

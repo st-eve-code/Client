@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-200mg-last-bites-hot-chocolate",
+  "name": "Gelato | 200mg Last Bites | Hot Chocolate",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Indulge in our hot chocolate flavored last bite topped with marshmallows. There are (10) 20mg pieces per pack.",
+  "description_html": "Indulge in our hot chocolate flavored last bite topped with marshmallows. There are (10) 20mg pieces per pack.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/d41373dad29853dc4e34765b70ea10ba",
+      "alt": "Gelato | 200mg Last Bites | Hot Chocolate",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-200mg-last-bites-hot-chocolate__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.2g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-200mg-last-bites-hot-chocolate-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.353Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "party-poppers-hand-roll",
+  "name": "Peninsula Gardens Hand Roll | Party Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Peninsula Gardens",
+  "tags": [],
+  "description": "Another straight candy. Smokes very similar to our runtz with some subtle differences we think you'll absolutely love. \n\nSmooth burning, flavor transfer, and white ash with a good resin ring are key points we strive for harvest after harvest.",
+  "description_html": "Another straight candy. Smokes very similar to our runtz with some subtle differences we think you'll absolutely love. <br /><br />Smooth burning, flavor transfer, and white ash with a good resin ring are key points we strive for harvest after harvest.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8e48c5a4c8d2a49bcc798583f7cc06a4",
+      "alt": "Peninsula Gardens Hand Roll | Party Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__party-poppers-hand-roll__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/party-poppers-hand-roll-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.078Z"
+}

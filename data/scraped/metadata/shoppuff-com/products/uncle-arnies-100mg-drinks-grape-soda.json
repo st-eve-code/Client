@@ -1,0 +1,35 @@
+{
+  "slug": "uncle-arnies-100mg-drinks-grape-soda",
+  "name": "Uncle Arnie's | 100mg Drink | Grape Soda",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Uncle Arnie's",
+  "tags": [],
+  "description": "Uncle Arnie’s Grape Sodapop slams you with that bold, purple grape soda rush. 100mg of pure fizzy grape firepower in every can is sure to Pop the Top. Uncle Arnie brings the party, whether its backyards, beaches, boats, or BBQ’s, you’ll set adrift with an onset time of about 20-40mins, and of course sip according to your experience!\n\nVEGAN. MADE IN THE USA.",
+  "description_html": "Uncle Arnie’s Grape Sodapop slams you with that bold, purple grape soda rush. 100mg of pure fizzy grape firepower in every can is sure to Pop the Top. Uncle Arnie brings the party, whether its backyards, beaches, boats, or BBQ’s, you’ll set adrift with an onset time of about 20-40mins, and of course sip according to your experience!<br /><br />VEGAN. MADE IN THE USA.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ed19c2c35ec6701aa5ff0d1e2dbac3e3",
+      "alt": "Uncle Arnie's | 100mg Drink | Grape Soda",
+      "local": "data\\scraped\\images\\shoppuff-com__uncle-arnies-100mg-drinks-grape-soda__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "9.0g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/uncle-arnies-100mg-drinks-grape-soda-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.508Z"
+}

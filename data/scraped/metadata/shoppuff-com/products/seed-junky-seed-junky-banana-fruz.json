@@ -1,0 +1,55 @@
+{
+  "slug": "seed-junky-seed-junky-banana-fruz",
+  "name": "Seed Junky | Banana Fruz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9.6,
+  "price_max": 88,
+  "currency": "USD",
+  "price_range": "$9.60 – $88.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Banana Fruz is a flavorful hybrid that embodies the essence of tropical bananas, blended with creamy vanilla and hints of berry and citrus. Its balanced potency provides an uplifting euphoria followed by a gentle wave of relaxation, making it a go-to choice for any moment.",
+  "description_html": "Banana Fruz is a flavorful hybrid that embodies the essence of tropical bananas, blended with creamy vanilla and hints of berry and citrus. Its balanced potency provides an uplifting euphoria followed by a gentle wave of relaxation, making it a go-to choice for any moment.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/4b4ddad1b9d09119863faf9d091edec2",
+      "alt": "Seed Junky | Banana Fruz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-banana-fruz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 19.2,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 88,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9.6,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 52,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 28,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-banana-fruz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.402Z"
+}

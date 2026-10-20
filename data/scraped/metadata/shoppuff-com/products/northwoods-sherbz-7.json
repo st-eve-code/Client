@@ -1,0 +1,45 @@
+{
+  "slug": "northwoods-sherbz-7",
+  "name": "Northwoods | Sherbz #7",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 9,
+  "currency": "USD",
+  "price_range": "$3.00 – $9.00",
+  "available": true,
+  "vendor": "Northwoods Cannabis",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2f6555db67339ff247141cb51495d7f7",
+      "alt": "Northwoods | Sherbz #7",
+      "local": "data\\scraped\\images\\shoppuff-com__northwoods-sherbz-7__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 9,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/northwoods-sherbz-7-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.452Z"
+}

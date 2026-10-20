@@ -1,0 +1,35 @@
+{
+  "slug": "element-element-live-resin-super-boof-cherry",
+  "name": "Element Live Resin | Super Boof Cherry",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Element",
+  "tags": [],
+  "description": "Crafted from precisely harvested fresh-frozen flowers, Element Live Resin captures the strain's characteristics at the exact time of harvest. Offering a strong cannabinoid and rich terpene profile, our skillful extraction methods and unique strain selection create a true full-spectrum experience.",
+  "description_html": "Crafted from precisely harvested fresh-frozen flowers, Element Live Resin captures the strain's characteristics at the exact time of harvest. Offering a strong cannabinoid and rich terpene profile, our skillful extraction methods and unique strain selection create a true full-spectrum experience.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5613-Puff-JointStore-Kalamazoo.webp",
+      "alt": "Element Live Resin | Super Boof Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__element-element-live-resin-super-boof-cherry__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/element-element-live-resin-super-boof-cherry-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.116Z"
+}

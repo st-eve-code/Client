@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-rainbow-sherbet-classic-1g-plus-vape-device",
+  "name": "Rainbow Sherbet - Classic 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15.5,
+  "price_max": 15.5,
+  "currency": "USD",
+  "price_range": "$15.50",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Experience a colorful blend of fruity flavors, capturing the essence of a creamy rainbow sherbet in every puff.",
+  "description_html": "Experience a colorful blend of fruity flavors, capturing the essence of a creamy rainbow sherbet in every puff.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/12520bdb63e4816ffea234ee285fe120",
+      "alt": "Rainbow Sherbet - Classic 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-rainbow-sherbet-classic-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-rainbow-sherbet-classic-1g-plus-vape-device-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.043Z"
+}

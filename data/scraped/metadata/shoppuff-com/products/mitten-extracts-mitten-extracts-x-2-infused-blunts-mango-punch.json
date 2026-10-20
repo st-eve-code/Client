@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-mitten-extracts-x-2-infused-blunts-mango-punch",
+  "name": "Mitten Extracts x 2 Infused Blunts | Mango Punch",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b25a070a7455d29caca839f4d6e35f7a",
+      "alt": "Mitten Extracts x 2 Infused Blunts | Mango Punch",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-mitten-extracts-x-2-infused-blunts-mango-punch__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "4g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-mitten-extracts-x-2-infused-blunts-mango-punch-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.534Z"
+}

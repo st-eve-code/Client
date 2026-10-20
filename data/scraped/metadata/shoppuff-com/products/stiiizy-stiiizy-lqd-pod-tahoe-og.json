@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-lqd-pod-tahoe-og",
+  "name": "Stiiizy LQD Pod | Tahoe OG",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "TAHOE OG\n\nTASTE: Lemon, Earthy, Spicy\n\nFEELING: Hungry, Sleepy, Relaxed\n\nDESCRIPTION:Keep it original with Tahoe OG, earthy notes with a dash of lemon",
+  "description_html": "TAHOE OG<br /><br />TASTE: Lemon, Earthy, Spicy<br /><br />FEELING: Hungry, Sleepy, Relaxed<br /><br />DESCRIPTION:Keep it original with Tahoe OG, earthy notes with a dash of lemon",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ccf33ff815f77a86ae78c3112436c5a7",
+      "alt": "Stiiizy LQD Pod | Tahoe OG",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-lqd-pod-tahoe-og__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-lqd-pod-tahoe-og-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.389Z"
+}

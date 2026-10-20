@@ -1,0 +1,35 @@
+{
+  "slug": "freshy-fine-freshy-fine-x-5-prerolls-zhb",
+  "name": "Freshy Fine x 5 Prerolls | ZHB",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Cross: Zkittlez x Headband\n\nEffects: Cerebral, Calming\n\nAromas: Earthy, Fruity, Herbal\n\nFlavor Profile: Sweet, Pine, Earthy\n\nMay Relieve: Chronis Pain, Anxiety, Migraines",
+  "description_html": "Cross: Zkittlez x Headband<br /><br />Effects: Cerebral, Calming<br /><br />Aromas: Earthy, Fruity, Herbal<br /><br />Flavor Profile: Sweet, Pine, Earthy<br /><br />May Relieve: Chronis Pain, Anxiety, Migraines",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fc83bb7aa7a5f9b408826e5d41321df0",
+      "alt": "Freshy Fine x 5 Prerolls | ZHB",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-freshy-fine-x-5-prerolls-zhb__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-freshy-fine-x-5-prerolls-zhb-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.081Z"
+}

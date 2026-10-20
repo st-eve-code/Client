@@ -1,0 +1,35 @@
+{
+  "slug": "mojo-mojo-200mg-chocolate-crispy-wafer-bites",
+  "name": "Mojo | 200mg Chocolate | Crispy Wafer Bites",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mojo",
+  "tags": [],
+  "description": "We have a hunch that you're going to love these! Light crispy layers and silky cannabis infused chocolatey goodness in every bite. Infused with 10mg of premium distillate, easy to dose and delicious, pick these up today and dare yourself NOT to eat the whole bag!",
+  "description_html": "We have a hunch that you're going to love these! Light crispy layers and silky cannabis infused chocolatey goodness in every bite. Infused with 10mg of premium distillate, easy to dose and delicious, pick these up today and dare yourself NOT to eat the whole bag!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5e60a128d465b5aa8252b8ba40108abf",
+      "alt": "Mojo | 200mg Chocolate | Crispy Wafer Bites",
+      "local": "data\\scraped\\images\\shoppuff-com__mojo-mojo-200mg-chocolate-crispy-wafer-bites__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "7.5g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mojo-mojo-200mg-chocolate-crispy-wafer-bites-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.025Z"
+}

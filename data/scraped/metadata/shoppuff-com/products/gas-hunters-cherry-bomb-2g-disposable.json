@@ -1,0 +1,35 @@
+{
+  "slug": "gas-hunters-cherry-bomb-2g-disposable",
+  "name": "Gas Hunters | 2g Disposable | Cherry Bomb",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "GAS HUNTERS",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9d88ed48c966ba96db0567e537aa8195",
+      "alt": "Gas Hunters | 2g Disposable | Cherry Bomb",
+      "local": "data\\scraped\\images\\shoppuff-com__gas-hunters-cherry-bomb-2g-disposable__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gas-hunters-cherry-bomb-2g-disposable-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:20.914Z"
+}

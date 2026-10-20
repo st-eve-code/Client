@@ -1,0 +1,35 @@
+{
+  "slug": "rocket-rocket-stick-minis-x-5-infused-prerolls-bubba-burst",
+  "name": "Rocket Stick Minis x 5 Infused Prerolls | Bubba Burst",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Rocket",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/00732e5d539ffd34773bf8b5c13066ca",
+      "alt": "Rocket Stick Minis x 5 Infused Prerolls | Bubba Burst",
+      "local": "data\\scraped\\images\\shoppuff-com__rocket-rocket-stick-minis-x-5-infused-prerolls-bubba-burst__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rocket-rocket-stick-minis-x-5-infused-prerolls-bubba-burst-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.464Z"
+}

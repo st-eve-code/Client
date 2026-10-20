@@ -1,0 +1,60 @@
+{
+  "slug": "grasshopper-farms-mac-1",
+  "name": "Grasshopper Farms | Mac 1",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$6.00 – $99.00",
+  "available": true,
+  "vendor": "Grasshopper Farms",
+  "tags": [],
+  "description": "Dark amber-hued pistils interwoven among forest green trichome-frosted buds give this perfectly balanced hybrid strain a likeness to old-school camouflage. Its savory, earthy aroma gives way to a smoke that is surprisingly clean and light on the lungs. Expect an almost immediate uplifting effect with heightened senses, a productive disposition, and a relaxed body.",
+  "description_html": "Dark amber-hued pistils interwoven among forest green trichome-frosted buds give this perfectly balanced hybrid strain a likeness to old-school camouflage. Its savory, earthy aroma gives way to a smoke that is surprisingly clean and light on the lungs. Expect an almost immediate uplifting effect with heightened senses, a productive disposition, and a relaxed body.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f172472fadac538481c03b0b55b6a19f",
+      "alt": "Grasshopper Farms | Mac 1",
+      "local": "data\\scraped\\images\\shoppuff-com__grasshopper-farms-mac-1__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/grasshopper-farms-mac-1-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.540Z"
+}

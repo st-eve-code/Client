@@ -1,0 +1,40 @@
+{
+  "slug": "710-labs-710-labs-prepackaged-flower-z",
+  "name": "710 Labs Prepackaged Flower | Z",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 65,
+  "price_max": 220,
+  "currency": "USD",
+  "price_range": "$65.00 – $220.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "To create our proprietary Noodle Doinks, we first break up nugs by hand, then hand-roll with a gluten-free rotini noodle for the best airflow – no cones or machine fills. We use all organic flower from our premium top colas, no lowers, no shake. With a perfect bud-to-paper ratio, our Noodle Doinks are prepared fresh daily.",
+  "description_html": "To create our proprietary Noodle Doinks, we first break up nugs by hand, then hand-roll with a gluten-free rotini noodle for the best airflow – no cones or machine fills. We use all organic flower from our premium top colas, no lowers, no shake. With a perfect bud-to-paper ratio, our Noodle Doinks are prepared fresh daily.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/025ce8f421012e059a3c172e90a58d2b",
+      "alt": "710 Labs Prepackaged Flower | Z",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-710-labs-prepackaged-flower-z__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 220,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 65,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-710-labs-prepackaged-flower-z-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.351Z"
+}

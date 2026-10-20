@@ -1,0 +1,35 @@
+{
+  "slug": "uplyfted-pre-roll-jet-fuel",
+  "name": "Uplyfted Pre-Roll | Jet Fuel",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Uplyfted Cannabis Co.",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/232247f5426da8c620d69d7e6483bf35",
+      "alt": "Uplyfted Pre-Roll | Jet Fuel",
+      "local": "data\\scraped\\images\\shoppuff-com__uplyfted-pre-roll-jet-fuel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/uplyfted-pre-roll-jet-fuel-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.572Z"
+}

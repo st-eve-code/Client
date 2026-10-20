@@ -1,0 +1,35 @@
+{
+  "slug": "pixie-stix-1-25g-infused-preroll-grape-ape",
+  "name": "Pixie Stix | 1.25g Infused Preroll | Grape Ape",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Pixie Stix Grape Ape indica infused pre roll. \nOne 1.25g pre roll per pack.\n\nFlavors: \nGrape\nBerry\nEarthy\nSweet\nWoody",
+  "description_html": "Pixie Stix Grape Ape indica infused pre roll. <br />One 1.25g pre roll per pack.<br /><br />Flavors: <br />Grape<br />Berry<br />Earthy<br />Sweet<br />Woody",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ff457c5cc89cc2bfea6b18f4eaf11be6",
+      "alt": "Pixie Stix | 1.25g Infused Preroll | Grape Ape",
+      "local": "data\\scraped\\images\\shoppuff-com__pixie-stix-1-25g-infused-preroll-grape-ape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/pixie-stix-1-25g-infused-preroll-grape-ape-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.874Z"
+}

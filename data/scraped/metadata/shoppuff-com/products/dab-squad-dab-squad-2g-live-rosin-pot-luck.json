@@ -1,0 +1,35 @@
+{
+  "slug": "dab-squad-dab-squad-2g-live-rosin-pot-luck",
+  "name": "Dab Squad | 2g Live Rosin | Pot Luck",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Dab Squad",
+  "tags": [],
+  "description": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "description_html": "Rosin is a form of concentrate that uses heat and pressure to extract cannabinoids, rather than solvents. Depending on the source material used for the extraction, rosin can vary widely in clarity and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/dacb7a69f758a032d429c414a5f3b522",
+      "alt": "Dab Squad | 2g Live Rosin | Pot Luck",
+      "local": "data\\scraped\\images\\shoppuff-com__dab-squad-dab-squad-2g-live-rosin-pot-luck__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/dab-squad-dab-squad-2g-live-rosin-pot-luck-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.103Z"
+}

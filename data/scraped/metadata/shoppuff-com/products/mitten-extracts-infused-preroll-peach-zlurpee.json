@@ -1,0 +1,35 @@
+{
+  "slug": "mitten-extracts-infused-preroll-peach-zlurpee",
+  "name": "Mitten Extracts Infused Preroll | Peach Zlurpee",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Sink into the sweet, juicy flavor of Peach Zlurpee. Ripe peach is paired with candy-inspired sweetness to create a smooth, flavorful smoke that's perfect for any occasion. Infused for added potency and crafted for an even burn.",
+  "description_html": "Sink into the sweet, juicy flavor of Peach Zlurpee. Ripe peach is paired with candy-inspired sweetness to create a smooth, flavorful smoke that's perfect for any occasion. Infused for added potency and crafted for an even burn.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/8a5998a599c775ba085829219249b8f3",
+      "alt": "Mitten Extracts Infused Preroll | Peach Zlurpee",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-extracts-infused-preroll-peach-zlurpee__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.25g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-extracts-infused-preroll-peach-zlurpee-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.707Z"
+}

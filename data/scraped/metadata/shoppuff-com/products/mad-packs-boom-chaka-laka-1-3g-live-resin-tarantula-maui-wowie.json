@@ -1,0 +1,35 @@
+{
+  "slug": "mad-packs-boom-chaka-laka-1-3g-live-resin-tarantula-maui-wowie",
+  "name": "Boom Chaka Laka | 1.3g Live Resin Tarantula | Maui Wowie",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Mad Packs",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/pre-rolls.jpg",
+      "alt": "Boom Chaka Laka | 1.3g Live Resin Tarantula | Maui Wowie",
+      "local": "data\\scraped\\images\\shoppuff-com__mad-packs-boom-chaka-laka-1-3g-live-resin-tarantula-maui-wowie__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.3g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mad-packs-boom-chaka-laka-1-3g-live-resin-tarantula-maui-wowie-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.604Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "da-fakto-da-fakto-live-resin-super-good",
+  "name": "Da Fakto Live Resin | Super Good",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 8,
+  "currency": "USD",
+  "price_range": "$8.00",
+  "available": true,
+  "vendor": "dā faktō",
+  "tags": [],
+  "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "description_html": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5611-Puff-JointStore-BayCity.webp",
+      "alt": "Da Fakto Live Resin | Super Good",
+      "local": "data\\scraped\\images\\shoppuff-com__da-fakto-da-fakto-live-resin-super-good__001.webp"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/da-fakto-da-fakto-live-resin-super-good-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.766Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "bamn-bamn-pre-roll-cherry-runtz",
+  "name": "BAMN Pre-Roll | Cherry Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "BAMN",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/31786f1a319bab0950227e6a846d6c70",
+      "alt": "BAMN Pre-Roll | Cherry Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__bamn-bamn-pre-roll-cherry-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/bamn-bamn-pre-roll-cherry-runtz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.688Z"
+}

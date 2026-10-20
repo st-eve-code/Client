@@ -1,0 +1,35 @@
+{
+  "slug": "breeze-canna-fruit-punch-classic-1g-plus-vape-device",
+  "name": "Fruit Punch - Classic 1g PLUS Vape Device",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "BREEZE Canna",
+  "tags": [],
+  "description": "Immerse yourself in a vibrant mix of tropical fruits, delivering a sweet and refreshing punch with every draw.",
+  "description_html": "Immerse yourself in a vibrant mix of tropical fruits, delivering a sweet and refreshing punch with every draw.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/a5a9e2653244a91aa22714b223da03c6",
+      "alt": "Fruit Punch - Classic 1g PLUS Vape Device",
+      "local": "data\\scraped\\images\\shoppuff-com__breeze-canna-fruit-punch-classic-1g-plus-vape-device__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/breeze-canna-fruit-punch-classic-1g-plus-vape-device-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.803Z"
+}

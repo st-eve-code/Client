@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-infused-preroll-tigers-blood",
+  "name": "Berry Green Infused Preroll | Tigers Blood",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Fierce flavor. Wild berry and watermelon gas that stalks slow and hits hard.\n\nEffect: Heavy relaxation with a savage edge — this one hunts your stress.",
+  "description_html": "Fierce flavor. Wild berry and watermelon gas that stalks slow and hits hard.<br /><br />Effect: Heavy relaxation with a savage edge — this one hunts your stress.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9aedee1da74a87d3a85aecc9cb63f68a",
+      "alt": "Berry Green Infused Preroll | Tigers Blood",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-infused-preroll-tigers-blood__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-infused-preroll-tigers-blood-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.227Z"
+}

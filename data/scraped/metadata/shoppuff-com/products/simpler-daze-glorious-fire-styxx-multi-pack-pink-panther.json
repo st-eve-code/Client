@@ -1,0 +1,35 @@
+{
+  "slug": "simpler-daze-glorious-fire-styxx-multi-pack-pink-panther",
+  "name": "Glorious x 4 THCa Infused Fire Styxx | Pink Panther",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Glorious Cannabis Co.",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0d93a9d92153ce63870ba2d1e98ca285",
+      "alt": "Glorious x 4 THCa Infused Fire Styxx | Pink Panther",
+      "local": "data\\scraped\\images\\shoppuff-com__simpler-daze-glorious-fire-styxx-multi-pack-pink-panther__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/simpler-daze-glorious-fire-styxx-multi-pack-pink-panther-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:20.775Z"
+}

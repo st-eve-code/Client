@@ -1,0 +1,35 @@
+{
+  "slug": "super-dope-super-dope-prepackaged-flower-party-popperz",
+  "name": "Super Dope Prepackaged Flower | Party Popperz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 352,
+  "price_max": 352,
+  "currency": "USD",
+  "price_range": "$352.00",
+  "available": true,
+  "vendor": "Super Dope",
+  "tags": [],
+  "description": "Blending Cherry, Lemon, Bubblegum, and Plum for a bold, flavorful cannabis experience. This unique mix delivers a potent, sweet-tangy high, preserving each strain's cherishes qualities! Crated by Super Dope from Lemon Cherry Gelato roots, Party Popperz elevates every puff with vibrant energy.",
+  "description_html": "Blending Cherry, Lemon, Bubblegum, and Plum for a bold, flavorful cannabis experience. This unique mix delivers a potent, sweet-tangy high, preserving each strain's cherishes qualities! Crated by Super Dope from Lemon Cherry Gelato roots, Party Popperz elevates every puff with vibrant energy.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b74a38ad106df8c5ee208ec5bebd9956",
+      "alt": "Super Dope Prepackaged Flower | Party Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__super-dope-super-dope-prepackaged-flower-party-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 352,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/super-dope-super-dope-prepackaged-flower-party-popperz-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.532Z"
+}

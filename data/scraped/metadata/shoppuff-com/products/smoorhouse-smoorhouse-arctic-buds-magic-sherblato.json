@@ -1,0 +1,60 @@
+{
+  "slug": "smoorhouse-smoorhouse-arctic-buds-magic-sherblato",
+  "name": "Smoorhouse | Arctic Buds | Magic Sherblato",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 12,
+  "price_max": 250,
+  "currency": "USD",
+  "price_range": "$12.00 – $250.00",
+  "available": true,
+  "vendor": "Smoorhouse",
+  "tags": [],
+  "description": "Magic Sherblato\nFLAVOR: Creamy sherbet, pine, gas\nTERPENES: Limonene, Linalool, Humulene\nFEEL: Uplifting, clear-headed, lightly euphoric\nVIBE: Midday magic, journaling, deep convos\n\nCurated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "description_html": "Magic Sherblato<br />FLAVOR: Creamy sherbet, pine, gas<br />TERPENES: Limonene, Linalool, Humulene<br />FEEL: Uplifting, clear-headed, lightly euphoric<br />VIBE: Midday magic, journaling, deep convos<br /><br />Curated in Detroit and grown with purpose, Smoorhouse Flower is crafted for real smokers who seek potency, purity, and vibe.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/895e8e4a9945b3beccfbf393a11b8fc3",
+      "alt": "Smoorhouse | Arctic Buds | Magic Sherblato",
+      "local": "data\\scraped\\images\\shoppuff-com__smoorhouse-smoorhouse-arctic-buds-magic-sherblato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "28g",
+      "price": 250,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 35,
+      "available": true
+    },
+    {
+      "title": "14g",
+      "price": 125,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 65,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/smoorhouse-smoorhouse-arctic-buds-magic-sherblato-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.308Z"
+}

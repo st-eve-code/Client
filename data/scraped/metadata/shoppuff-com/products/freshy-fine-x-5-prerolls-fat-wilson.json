@@ -1,0 +1,35 @@
+{
+  "slug": "freshy-fine-x-5-prerolls-fat-wilson",
+  "name": "Freshy Fine x 5 Prerolls | Fat Wilson",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Freshy Fine",
+  "tags": [],
+  "description": "Cross: Fatso x Kush Mints x Wilson\n\nEffects: Tingly, Hungry, Relaxing\n\nAromas: Spicy, Woody, Sweet\n\nFlavor Profile: Herbal, Sweet, Coffee\n\nMay Relieve: Chronic Pain, Nausea, Stress",
+  "description_html": "Cross: Fatso x Kush Mints x Wilson<br /><br />Effects: Tingly, Hungry, Relaxing<br /><br />Aromas: Spicy, Woody, Sweet<br /><br />Flavor Profile: Herbal, Sweet, Coffee<br /><br />May Relieve: Chronic Pain, Nausea, Stress",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5d5c563aa60e5c628d02e48746ab385d",
+      "alt": "Freshy Fine x 5 Prerolls | Fat Wilson",
+      "local": "data\\scraped\\images\\shoppuff-com__freshy-fine-x-5-prerolls-fat-wilson__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/freshy-fine-x-5-prerolls-fat-wilson-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.391Z"
+}

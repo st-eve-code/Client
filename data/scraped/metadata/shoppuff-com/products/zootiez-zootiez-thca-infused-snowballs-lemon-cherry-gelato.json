@@ -1,0 +1,60 @@
+{
+  "slug": "zootiez-zootiez-thca-infused-snowballs-lemon-cherry-gelato",
+  "name": "Zootiez | THCA Infused Snowballs | Lemon Cherry Gelato",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 8.4,
+  "price_max": 168,
+  "currency": "USD",
+  "price_range": "$8.40 – $168.00",
+  "available": true,
+  "vendor": "Zootiez",
+  "tags": [],
+  "description": "FROSTED FUN, ELEVATED HIGHS: Made from the most premium flower, discover unrivaled potency and purity with our snow covered buds, infused with an abundance of Oil and THCA powder. Elevate your cannabis experience with our premium hand selected flower, setting a new standard for quality and potency in the industry.",
+  "description_html": "FROSTED FUN, ELEVATED HIGHS: Made from the most premium flower, discover unrivaled potency and purity with our snow covered buds, infused with an abundance of Oil and THCA powder. Elevate your cannabis experience with our premium hand selected flower, setting a new standard for quality and potency in the industry.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2a4ec426e8ed7512e64db9c63ad48761",
+      "alt": "Zootiez | THCA Infused Snowballs | Lemon Cherry Gelato",
+      "local": "data\\scraped\\images\\shoppuff-com__zootiez-zootiez-thca-infused-snowballs-lemon-cherry-gelato__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 24.5,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 45.5,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 168,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8.4,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16.8,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 84,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/zootiez-zootiez-thca-infused-snowballs-lemon-cherry-gelato-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.408Z"
+}

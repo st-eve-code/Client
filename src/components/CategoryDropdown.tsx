@@ -21,14 +21,14 @@ function buildSections(categories: ShopCategory[]): Section[] {
 }
 
 export function CategoryDropdown({ categories }: { categories: ShopCategory[] }) {
-  const vapestore = categories.filter((c) => c.group === "vapestore");
-  const vs2 = categories.filter((c) => c.group === "vs2");
-  const weedmaps = categories.filter((c) => c.group === "weedmaps");
+  const vapes = categories.filter((c) => c.group === "vapes");
+  const cannabis = categories.filter((c) => c.group === "cannabis");
+  const recreational = categories.filter((c) => c.group === "recreational");
 
-  const hasVapestore = vapestore.length > 0;
-  const hasVS2 = vs2.length > 0;
-  const hasWeedmaps = weedmaps.length > 0;
-  const hasAny = hasVapestore || hasVS2 || hasWeedmaps;
+  const hasVapes = vapes.length > 0;
+  const hasCannabis = cannabis.length > 0;
+  const hasRecreational = recreational.length > 0;
+  const hasAny = hasVapes || hasCannabis || hasRecreational;
 
   if (!hasAny) {
     return (
@@ -38,9 +38,9 @@ export function CategoryDropdown({ categories }: { categories: ShopCategory[] })
     );
   }
 
-  const columnCount = [hasVapestore || hasVS2, hasWeedmaps].filter(Boolean).length;
-  const vapestoreSections = buildSections(vapestore);
-  const vs2Sections = buildSections(vs2);
+  const columnCount = [hasVapes, hasCannabis || hasRecreational].filter(Boolean).length;
+  const vapeSections = buildSections(vapes);
+  const recreationalSections = buildSections(recreational);
 
   return (
     <div className="group relative">
@@ -62,98 +62,98 @@ export function CategoryDropdown({ categories }: { categories: ShopCategory[] })
         </svg>
       </Link>
 
-      <div className="invisible opacity-0 absolute left-1/2 top-full z-50 w-[640px] -translate-x-1/2 pt-3 transition-[opacity,visibility] duration-[var(--duration-base)] ease-[var(--ease-custom-1)] group-focus-within:visible group-focus-within:opacity-100 group-hover:visible group-hover:opacity-100">
-        <div className="rounded-[var(--radius-16)] border border-[var(--color-border)] bg-white p-5 shadow-[var(--shadow-lg)]">
+      <div className="invisible opacity-0 absolute left-1/2 top-full z-50 w-[680px] -translate-x-1/2 pt-3 transition-[opacity,visibility] duration-[var(--duration-base)] ease-[var(--ease-custom-1)] group-focus-within:visible group-focus-within:opacity-100 group-hover:visible group-hover:opacity-100">
+        <div className="max-h-[70vh] overflow-y-auto rounded-[var(--radius-16)] border border-[var(--color-border)] bg-white p-5 shadow-[var(--shadow-lg)]">
           <div className={`grid gap-x-10 gap-y-5 ${columnCount === 2 ? "grid-cols-2" : "grid-cols-1"}`}>
-            {/* Left column: vapestore + vs2 */}
-            {(hasVapestore || hasVS2) ? (
-              <div className="space-y-5">
-                {hasVapestore ? (
-                  <div>
-                    <p className="mb-2 text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
-                      Vape Store
-                    </p>
-                    <div className="space-y-3">
-                      {vapestoreSections.map((section) => (
-                        <div key={section.title}>
-                          <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-muted)]">
-                            {section.title}
-                          </p>
-                          <ul className="space-y-0.5">
-                            {section.items.map((category) => (
-                              <li key={category.slug}>
-                                <Link
-                                  href={`/shop/${category.slug}`}
-                                  className="flex items-center justify-between gap-3 rounded-[var(--radius-8)] px-2 py-1 text-sm font-bold text-[var(--color-text-primary)] transition-colors duration-[var(--duration-base)] hover:bg-[var(--color-bg-surface)]"
-                                >
-                                  <span>{category.label}</span>
-                                  <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
-                                    {category.count}
-                                  </span>
-                                </Link>
-                              </li>
-                            ))}
-                          </ul>
-                        </div>
-                      ))}
+            {/* Left column: vape store categories */}
+            {hasVapes ? (
+              <div className="space-y-4">
+                <p className="text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
+                  Vape Store
+                </p>
+                <div className="space-y-3">
+                  {vapeSections.map((section) => (
+                    <div key={section.title}>
+                      <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-muted)]">
+                        {section.title}
+                      </p>
+                      <ul className="space-y-0.5">
+                        {section.items.map((category) => (
+                          <li key={category.slug}>
+                            <Link
+                              href={`/shop/${category.slug}`}
+                              className="flex items-center justify-between gap-3 rounded-[var(--radius-8)] px-2 py-1 text-sm font-bold text-[var(--color-text-primary)] transition-colors duration-[var(--duration-base)] hover:bg-[var(--color-bg-surface)]"
+                            >
+                              <span>{category.label}</span>
+                              <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
+                                {category.count}
+                              </span>
+                            </Link>
+                          </li>
+                        ))}
+                      </ul>
                     </div>
-                  </div>
-                ) : null}
-                {hasVS2 ? (
-                  <div>
-                    <p className="mb-2 text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
-                      Vape Tanks
-                    </p>
-                    <div className="space-y-3">
-                      {vs2Sections.map((section) => (
-                        <div key={section.title}>
-                          <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-muted)]">
-                            {section.title}
-                          </p>
-                          <ul className="space-y-0.5">
-                            {section.items.map((category) => (
-                              <li key={category.slug}>
-                                <Link
-                                  href={`/shop/${category.slug}`}
-                                  className="flex items-center justify-between gap-3 rounded-[var(--radius-8)] px-2 py-1 text-sm font-bold text-[var(--color-text-primary)] transition-colors duration-[var(--duration-base)] hover:bg-[var(--color-bg-surface)]"
-                                >
-                                  <span>{category.label}</span>
-                                  <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
-                                    {category.count}
-                                  </span>
-                                </Link>
-                              </li>
-                            ))}
-                          </ul>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                ) : null}
+                  ))}
+                </div>
               </div>
             ) : null}
 
-            {/* Right column: weedmaps */}
-            {hasWeedmaps ? (
-              <div>
-                <p className="mb-2 text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
-                  Cannabis
-                </p>
-                <ul className="space-y-1">
-                  {weedmaps.map((category) => (
-                    <li key={category.slug}>
-                      <Link
-                        href={`/shop/${category.slug}`}
-                        className="flex items-center justify-between gap-3 rounded-[var(--radius-8)] px-2 py-1.5 text-sm font-bold text-[var(--color-text-primary)] transition-colors duration-[var(--duration-base)] hover:bg-[var(--color-bg-surface)]"
-                      >
-                        <span>{category.label}</span>
-                        <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
-                          {category.count}
-                        </span>
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
+            {/* Right column: cannabis + recreational */}
+            {(hasCannabis || hasRecreational) ? (
+              <div className="space-y-4">
+                {hasCannabis ? (
+                  <div>
+                    <p className="mb-2 text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
+                      Cannabis
+                    </p>
+                    <ul className="space-y-1">
+                      {cannabis.map((category) => (
+                        <li key={category.slug}>
+                          <Link
+                            href={`/shop/${category.slug}`}
+                            className="flex items-center justify-between gap-3 rounded-[var(--radius-8)] px-2 py-1 text-sm font-bold text-[var(--color-text-primary)] transition-colors duration-[var(--duration-base)] hover:bg-[var(--color-bg-surface)]"
+                          >
+                            <span>{category.label}</span>
+                            <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
+                              {category.count}
+                            </span>
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ) : null}
+                {hasRecreational ? (
+                  <div>
+                    <p className="mb-2 text-[11px] font-bold uppercase tracking-widest text-[var(--color-gray-dark)]">
+                      Recreational
+                    </p>
+                    <div className="space-y-3">
+                      {recreationalSections.map((section) => (
+                        <div key={section.title}>
+                          <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-muted)]">
+                            {section.title}
+                          </p>
+                          <ul className="space-y-0.5">
+                            {section.items.map((category) => (
+                              <li key={category.slug}>
+                                <Link
+                                  href={`/shop/${category.slug}`}
+                                  className="flex items-center justify-between gap-3 rounded-[var(--radius-8)] px-2 py-1 text-sm font-bold text-[var(--color-text-primary)] transition-colors duration-[var(--duration-base)] hover:bg-[var(--color-bg-surface)]"
+                                >
+                                  <span>{category.label}</span>
+                                  <span className="rounded-[var(--radius-pill)] bg-[var(--color-bg-surface)] px-2 py-0.5 text-[11px] font-bold text-[var(--color-text-muted)]">
+                                    {category.count}
+                                  </span>
+                                </Link>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ) : null}
               </div>
             ) : null}
           </div>

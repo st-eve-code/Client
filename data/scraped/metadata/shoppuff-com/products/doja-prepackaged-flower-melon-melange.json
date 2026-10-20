@@ -1,0 +1,35 @@
+{
+  "slug": "doja-prepackaged-flower-melon-melange",
+  "name": "Doja Prepackaged Flower | Melon Melange",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 55,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$55.00",
+  "available": true,
+  "vendor": "Doja Exclusive",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/468a834479c4a71ee9e7061fd487a189",
+      "alt": "Doja Prepackaged Flower | Melon Melange",
+      "local": "data\\scraped\\images\\shoppuff-com__doja-prepackaged-flower-melon-melange__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/doja-prepackaged-flower-melon-melange-for-sale-kalamazoo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.823Z"
+}

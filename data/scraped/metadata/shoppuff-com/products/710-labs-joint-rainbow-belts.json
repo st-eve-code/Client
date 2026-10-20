@@ -1,0 +1,35 @@
+{
+  "slug": "710-labs-joint-rainbow-belts",
+  "name": "710 Labs Joint | Rainbow Belts",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "710 Labs",
+  "tags": [],
+  "description": "There’s a reason our flower is renowned industry-wide - we never blind source. we meticulously grow our ladies in-house with wholly organic inputs, dry and cure it based on density, and trim it by hand to bring you the most opulent, flavor-dense nugs in the market.\n\nGenetics: Z x Moonbow\n\nTasting Notes: Lemon-lime La Croix with a sweet floral exhale.",
+  "description_html": "There’s a reason our flower is renowned industry-wide - we never blind source. we meticulously grow our ladies in-house with wholly organic inputs, dry and cure it based on density, and trim it by hand to bring you the most opulent, flavor-dense nugs in the market.<br /><br />Genetics: Z x Moonbow<br /><br />Tasting Notes: Lemon-lime La Croix with a sweet floral exhale.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f1d8275065e0b87aeb343e982d7e606e",
+      "alt": "710 Labs Joint | Rainbow Belts",
+      "local": "data\\scraped\\images\\shoppuff-com__710-labs-joint-rainbow-belts__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/710-labs-joint-rainbow-belts-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.243Z"
+}

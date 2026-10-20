@@ -1,0 +1,35 @@
+{
+  "slug": "jointman-x-23pk-prerolls-flu-game",
+  "name": "Jointman x 23pk Prerolls | Flu Game",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 22.5,
+  "price_max": 22.5,
+  "currency": "USD",
+  "price_range": "$22.50",
+  "available": true,
+  "vendor": "JOINTMAN",
+  "tags": [],
+  "description": "Step onto the court with the undisputed GOAT of pre-rolls. Jointman’s 23-Pack delivers 23 premium joints, each packed with 1.2 grams of top-shelf flower, — a smooth, clean burn that scores every time.",
+  "description_html": "Step onto the court with the undisputed GOAT of pre-rolls. Jointman’s 23-Pack delivers 23 premium joints, each packed with 1.2 grams of top-shelf flower, — a smooth, clean burn that scores every time.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/5e36700494ca4984156391ec7dd39d42",
+      "alt": "Jointman x 23pk Prerolls | Flu Game",
+      "local": "data\\scraped\\images\\shoppuff-com__jointman-x-23pk-prerolls-flu-game__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 22.5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jointman-x-23pk-prerolls-flu-game-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.670Z"
+}

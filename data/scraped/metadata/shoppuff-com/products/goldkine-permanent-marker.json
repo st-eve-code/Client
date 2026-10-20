@@ -1,0 +1,50 @@
+{
+  "slug": "goldkine-permanent-marker",
+  "name": "Goldkine | Permanent Marker",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 99,
+  "currency": "USD",
+  "price_range": "$15.00 – $99.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Introducing Permanent Marker, an indica-dominant strain from Biscotti, Jealousy, and Sherbet BX strains. Perfect for lazy afternoons, this strain offers a creative euphoria followed by calming relaxation without heavy sedation and ends with a wave of hunger. It’s ideal for treating chronic fatigue, PMS, cramps, depression, mood swings, stress, and PTSD. Enjoy its sweet and sour fruity candy flavor with a citrusy diesel punch, and its aroma of spicy diesel and sour citrus. Permanent Marker features dense emerald-green nugs with purple leaves, orange hairs, and amber-tinted white trichomes. Enjoy a blissful, relaxing experience with Permanent Marker.",
+  "description_html": "Introducing Permanent Marker, an indica-dominant strain from Biscotti, Jealousy, and Sherbet BX strains. Perfect for lazy afternoons, this strain offers a creative euphoria followed by calming relaxation without heavy sedation and ends with a wave of hunger. It’s ideal for treating chronic fatigue, PMS, cramps, depression, mood swings, stress, and PTSD. Enjoy its sweet and sour fruity candy flavor with a citrusy diesel punch, and its aroma of spicy diesel and sour citrus. Permanent Marker features dense emerald-green nugs with purple leaves, orange hairs, and amber-tinted white trichomes. Enjoy a blissful, relaxing experience with Permanent Marker.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/3815855a0bacb5b6e23a1d3c6ab84aac",
+      "alt": "Goldkine | Permanent Marker",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-permanent-marker__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 99,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-permanent-marker-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.757Z"
+}

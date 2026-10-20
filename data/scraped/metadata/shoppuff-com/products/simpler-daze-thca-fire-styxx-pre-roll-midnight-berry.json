@@ -1,0 +1,35 @@
+{
+  "slug": "simpler-daze-thca-fire-styxx-pre-roll-midnight-berry",
+  "name": "Simpler Daze THCa Fire Styxx Pre-Roll | Midnight Berry",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 5,
+  "price_max": 5,
+  "currency": "USD",
+  "price_range": "$5.00",
+  "available": true,
+  "vendor": "Simpler Daze",
+  "tags": [],
+  "description": "1g THCA Infused Pre-Roll",
+  "description_html": "1g THCA Infused Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/029429df8a3f4fea74fe2d0eb4f6b986",
+      "alt": "Simpler Daze THCa Fire Styxx Pre-Roll | Midnight Berry",
+      "local": "data\\scraped\\images\\shoppuff-com__simpler-daze-thca-fire-styxx-pre-roll-midnight-berry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 5,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/simpler-daze-thca-fire-styxx-pre-roll-midnight-berry-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.732Z"
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "wise-guys-farms-wise-guys-sharpiez",
+  "name": "Wise Guys | Sharpiez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 8,
+  "price_max": 150,
+  "currency": "USD",
+  "price_range": "$8.00 – $150.00",
+  "available": true,
+  "vendor": "Wise Guys Farms",
+  "tags": [],
+  "description": "Cross/Lineage: Permanent Marker x Zoap\n\nFlavor: Gas Solvent terps, sharp finish\n\nType/Leaning: Hybrid (Sativa-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Permanent Marker x Zoap<br /><br />Flavor: Gas Solvent terps, sharp finish<br /><br />Type/Leaning: Hybrid (Sativa-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fe979afad1c91aa58564f4a8933bb365",
+      "alt": "Wise Guys | Sharpiez",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-farms-wise-guys-sharpiez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "14g",
+      "price": 85,
+      "available": true
+    },
+    {
+      "title": "28g",
+      "price": 150,
+      "available": true
+    },
+    {
+      "title": "7g",
+      "price": 45,
+      "available": true
+    },
+    {
+      "title": "3.5g",
+      "price": 25,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 16,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-farms-wise-guys-sharpiez-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.612Z"
+}

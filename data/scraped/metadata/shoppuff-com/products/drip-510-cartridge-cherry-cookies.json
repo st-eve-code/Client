@@ -1,0 +1,35 @@
+{
+  "slug": "drip-510-cartridge-cherry-cookies",
+  "name": "Drip 510 Cartridge | Cherry Cookies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 7.49,
+  "price_max": 7.49,
+  "currency": "USD",
+  "price_range": "$7.49",
+  "available": true,
+  "vendor": "Drip",
+  "tags": [],
+  "description": "Cherry Cookies serves up warm, bakery vibes with a soft cherry kick and a laid-back body feel. It’s the kind of vape that wraps around you — mellow, flavorful, and just sweet enough to keep you coming back.",
+  "description_html": "Cherry Cookies serves up warm, bakery vibes with a soft cherry kick and a laid-back body feel. It’s the kind of vape that wraps around you — mellow, flavorful, and just sweet enough to keep you coming back.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/54dedfe81e00540842e4574c6a88ab5b",
+      "alt": "Drip 510 Cartridge | Cherry Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__drip-510-cartridge-cherry-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 7.49,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/drip-510-cartridge-cherry-cookies-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.091Z"
+}

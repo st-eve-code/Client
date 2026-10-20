@@ -1,0 +1,45 @@
+{
+  "slug": "wise-guys-wise-guys-sharpiez",
+  "name": "Wise Guys | Sharpiez",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 30,
+  "price_max": 95,
+  "currency": "USD",
+  "price_range": "$30.00 – $95.00",
+  "available": true,
+  "vendor": "Wise Guys",
+  "tags": [],
+  "description": "Cross/Lineage: Permanent Marker x Zoap\n\nFlavor: Gas Solvent terps, sharp finish\n\nType/Leaning: Hybrid (Sativa-leaning)\n\nFlavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "description_html": "Cross/Lineage: Permanent Marker x Zoap<br /><br />Flavor: Gas Solvent terps, sharp finish<br /><br />Type/Leaning: Hybrid (Sativa-leaning)<br /><br />Flavor comes first. Our flower stands out with bold terpene profiles you can smell the moment you open the bag—and taste even more when you light up. Every batch is hand-trimmed to preserve trichomes and cannabinoids, ensuring maximum potency, flavor, and overall quality. This is craft cannabis you can truly appreciate in every hit.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/fe979afad1c91aa58564f4a8933bb365",
+      "alt": "Wise Guys | Sharpiez",
+      "local": "data\\scraped\\images\\shoppuff-com__wise-guys-wise-guys-sharpiez__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 95,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wise-guys-wise-guys-sharpiez-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.612Z"
+}

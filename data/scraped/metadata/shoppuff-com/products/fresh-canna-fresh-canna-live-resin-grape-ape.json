@@ -1,0 +1,40 @@
+{
+  "slug": "fresh-canna-fresh-canna-live-resin-grape-ape",
+  "name": "Fresh Canna Live Resin | Grape Ape",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 8,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$8.00 – $35.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "Unleash the bold, fruity power of Fresh Canna’s Live Resin Wax – Grape Ape, an indica powerhouse that delivers deep relaxation and rich, grape-forward flavor. Crafted from fresh-frozen cannabis, this live resin wax is packed with terpenes and cannabinoids, offering a smooth and potent dabbing experience. With sweet grape, berry, and earthy undertones, Grape Ape hits with a calming, full-body high that melts away stress and tension. Perfect for evening sessions or unwinding after a long day, this potent indica will leave you feeling blissfully relaxed and sedated.",
+  "description_html": "Unleash the bold, fruity power of Fresh Canna’s Live Resin Wax – Grape Ape, an indica powerhouse that delivers deep relaxation and rich, grape-forward flavor. Crafted from fresh-frozen cannabis, this live resin wax is packed with terpenes and cannabinoids, offering a smooth and potent dabbing experience. With sweet grape, berry, and earthy undertones, Grape Ape hits with a calming, full-body high that melts away stress and tension. Perfect for evening sessions or unwinding after a long day, this potent indica will leave you feeling blissfully relaxed and sedated.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/be15e7d570924c0ca9dcfc8a31e68a55",
+      "alt": "Fresh Canna Live Resin | Grape Ape",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-fresh-canna-live-resin-grape-ape__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 8,
+      "available": true
+    },
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-fresh-canna-live-resin-grape-ape-for-sale-new-buffalo-mi/",
+  "scraped_at": "2026-10-10T22:31:21.367Z"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "nura-nura-donkey-butter",
+  "name": "Nura | Donkey Butter",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9.6,
+  "price_max": 44,
+  "currency": "USD",
+  "price_range": "$9.60 – $44.00",
+  "available": true,
+  "vendor": "Nura",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/30fdb200edcba979599d735be96bda2d",
+      "alt": "Nura | Donkey Butter",
+      "local": "data\\scraped\\images\\shoppuff-com__nura-nura-donkey-butter__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 9.6,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 24,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 44,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/nura-nura-donkey-butter-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.764Z"
+}

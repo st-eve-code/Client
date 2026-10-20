@@ -1,0 +1,35 @@
+{
+  "slug": "homiez-baller-bucket-bubble-bath",
+  "name": "Homiez Baller Bucket | Bubble Bath",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "HOMIEZ",
+  "tags": [],
+  "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+  "description_html": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates  have an immediate activation time and are generally used by experienced consumers.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/6cf383f6ca258e4ca2c4a0cacf0ecddc",
+      "alt": "Homiez Baller Bucket | Bubble Bath",
+      "local": "data\\scraped\\images\\shoppuff-com__homiez-baller-bucket-bubble-bath__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "5g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "CONCENTRATES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/homiez-baller-bucket-bubble-bath-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.652Z"
+}

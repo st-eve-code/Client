@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-berry-green-infused-preroll-15pk-tangie-sunrise",
+  "name": "Berry Green Infused Preroll 15pk | Tangie Sunrise",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 50,
+  "price_max": 50,
+  "currency": "USD",
+  "price_range": "$50.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Pure morning light in plant form. Tangie Sunrise bursts with bright tangerine citrus and natural sweetness, delivering an uplifting, breezy sativa high.",
+  "description_html": "Pure morning light in plant form. Tangie Sunrise bursts with bright tangerine citrus and natural sweetness, delivering an uplifting, breezy sativa high.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c0273bf7901051e03d9020343f355642",
+      "alt": "Berry Green Infused Preroll 15pk | Tangie Sunrise",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-berry-green-infused-preroll-15pk-tangie-sunrise__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "15g",
+      "price": 50,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-berry-green-infused-preroll-15pk-tangie-sunrise-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.267Z"
+}

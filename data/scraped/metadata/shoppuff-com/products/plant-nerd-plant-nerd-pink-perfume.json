@@ -1,0 +1,60 @@
+{
+  "slug": "plant-nerd-plant-nerd-pink-perfume",
+  "name": "Plant Nerd | Pink Perfume",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 113.24,
+  "currency": "USD",
+  "price_range": "$6.00 – $113.24",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "This is a strain we pheno hunted in early 2025. The flower has a very perfumey, floral nose that we’ve never experienced before this strain. The flower has strong bag appeal with larger dark fuchsia/pink buds that are covered in trichomes. We’re growing Pink Perfume because it’s fire weed but in an all around unique way.",
+  "description_html": "This is a strain we pheno hunted in early 2025. The flower has a very perfumey, floral nose that we’ve never experienced before this strain. The flower has strong bag appeal with larger dark fuchsia/pink buds that are covered in trichomes. We’re growing Pink Perfume because it’s fire weed but in an all around unique way.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/78946f9531a3c400e02ad31fc4afb5f6",
+      "alt": "Plant Nerd | Pink Perfume",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-pink-perfume__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 18.75,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 37.5,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 113.24,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-pink-perfume-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.513Z"
+}

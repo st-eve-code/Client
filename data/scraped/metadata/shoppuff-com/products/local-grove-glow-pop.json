@@ -1,0 +1,60 @@
+{
+  "slug": "local-grove-glow-pop",
+  "name": "Local Grove Deli Style Flower | Glow Pop |",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 9,
+  "price_max": 180,
+  "currency": "USD",
+  "price_range": "$9.00 – $180.00",
+  "available": true,
+  "vendor": "LOCALGROVE",
+  "tags": [],
+  "description": "Genetics: Permanent Marker x Runtz Breeder: Local Grove Selected by: Local Grove (one of two keeper phenos from seed hunt) Aroma & Flavor: Candy, sherb, and marker taste with smooth transitions Effects: Hybrid – exceptional balance of flavor and potency Glow Pop was bred and selected by Local Grove, producing candy-sherb-marker terps with a smooth transition.",
+  "description_html": "Genetics: Permanent Marker x Runtz Breeder: Local Grove Selected by: Local Grove (one of two keeper phenos from seed hunt) Aroma & Flavor: Candy, sherb, and marker taste with smooth transitions Effects: Hybrid – exceptional balance of flavor and potency Glow Pop was bred and selected by Local Grove, producing candy-sherb-marker terps with a smooth transition.<br />",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2fa5fdcd5bd7aba903129e501cff4491",
+      "alt": "Local Grove Deli Style Flower | Glow Pop |",
+      "local": "data\\scraped\\images\\shoppuff-com__local-grove-glow-pop__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 27,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 180,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 9,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 54,
+      "available": true
+    },
+    {
+      "title": "2g",
+      "price": 18,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 99,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/local-grove-glow-pop-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.278Z"
+}

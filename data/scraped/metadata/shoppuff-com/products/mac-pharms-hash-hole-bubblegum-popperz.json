@@ -1,0 +1,35 @@
+{
+  "slug": "mac-pharms-hash-hole-bubblegum-popperz",
+  "name": "Mac Pharms Hash Hole | Bubblegum Popperz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Mac Pharms",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/c1717967ae98b5d74c0ce59db6b60a6f",
+      "alt": "Mac Pharms Hash Hole | Bubblegum Popperz",
+      "local": "data\\scraped\\images\\shoppuff-com__mac-pharms-hash-hole-bubblegum-popperz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mac-pharms-hash-hole-bubblegum-popperz-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.174Z"
+}

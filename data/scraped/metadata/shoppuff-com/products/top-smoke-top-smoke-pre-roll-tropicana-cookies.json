@@ -1,0 +1,35 @@
+{
+  "slug": "top-smoke-top-smoke-pre-roll-tropicana-cookies",
+  "name": "Top Smoke Pre-Roll | Tropicana Cookies",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 3,
+  "price_max": 3,
+  "currency": "USD",
+  "price_range": "$3.00",
+  "available": true,
+  "vendor": "Top Smoke",
+  "tags": [],
+  "description": "1G Pre-Roll",
+  "description_html": "1G Pre-Roll",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f4f6959feb74558f20d1632392183e7b",
+      "alt": "Top Smoke Pre-Roll | Tropicana Cookies",
+      "local": "data\\scraped\\images\\shoppuff-com__top-smoke-top-smoke-pre-roll-tropicana-cookies__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 3,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/top-smoke-top-smoke-pre-roll-tropicana-cookies-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.431Z"
+}

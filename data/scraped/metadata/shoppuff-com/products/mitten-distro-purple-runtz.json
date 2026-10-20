@@ -1,0 +1,55 @@
+{
+  "slug": "mitten-distro-purple-runtz",
+  "name": "Mitten Distro | Purple Runtz",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 7,
+  "price_max": 55,
+  "currency": "USD",
+  "price_range": "$7.00 – $55.00",
+  "available": true,
+  "vendor": "Mitten Extracts",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/31b3decbf952d0afaa97456f548959fa",
+      "alt": "Mitten Distro | Purple Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__mitten-distro-purple-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 14,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 55,
+      "available": true
+    },
+    {
+      "title": "1g",
+      "price": 7,
+      "available": true
+    },
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mitten-distro-purple-runtz-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.541Z"
+}

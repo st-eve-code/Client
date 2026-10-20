@@ -1,0 +1,35 @@
+{
+  "slug": "gelato-gelato-disposable-peach-freeze",
+  "name": "Gelato Disposable | Peach Freeze",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Gelato",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/b993f0956ea0fb19666a2238372da44e",
+      "alt": "Gelato Disposable | Peach Freeze",
+      "local": "data\\scraped\\images\\shoppuff-com__gelato-gelato-disposable-peach-freeze__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/gelato-gelato-disposable-peach-freeze-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.405Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "fresh-canna-200mg-gummies-watermelon-runtz",
+  "name": "Fresh Canna | 200mg Gummies | Watermelon Runtz",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 4,
+  "price_max": 4,
+  "currency": "USD",
+  "price_range": "$4.00",
+  "available": true,
+  "vendor": "Fresh Canna",
+  "tags": [],
+  "description": "40mg per piece\n200mg per package\nHybrid",
+  "description_html": "40mg per piece<br />200mg per package<br />Hybrid",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/2fb93f30b12ce70d5b160b9d384cab89",
+      "alt": "Fresh Canna | 200mg Gummies | Watermelon Runtz",
+      "local": "data\\scraped\\images\\shoppuff-com__fresh-canna-200mg-gummies-watermelon-runtz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.1875g",
+      "price": 4,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/fresh-canna-200mg-gummies-watermelon-runtz-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.405Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "midzotics-midzotics-chem-cherry",
+  "name": "Midzotics | Chem Cherry",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Midzotics",
+  "tags": [],
+  "description": "Chem Dog D x LCG - Midzotics is your destination for high-quality, exotic cannabis strains that redefine the cannabis experience. We are passionate about delivering premium products that stand out in potency, flavor, and consistency.",
+  "description_html": "Chem Dog D x LCG - Midzotics is your destination for high-quality, exotic cannabis strains that redefine the cannabis experience. We are passionate about delivering premium products that stand out in potency, flavor, and consistency.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cb593417085099b6179d1068c9462018",
+      "alt": "Midzotics | Chem Cherry",
+      "local": "data\\scraped\\images\\shoppuff-com__midzotics-midzotics-chem-cherry__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/midzotics-midzotics-chem-cherry-for-sale-hamtramck-mi/",
+  "scraped_at": "2026-10-10T22:31:21.426Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cc-xtracts-cc-xtracts-liquid-diamond-disposable-fruity-pebbles",
+  "name": "CC Xtracts Liquid Diamond Disposable | Fruity Pebbles",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 12,
+  "price_max": 12,
+  "currency": "USD",
+  "price_range": "$12.00",
+  "available": true,
+  "vendor": "CC Xtracts",
+  "tags": [],
+  "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "description_html": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/97050f48d60b62a64b3247eecdf4f3aa",
+      "alt": "CC Xtracts Liquid Diamond Disposable | Fruity Pebbles",
+      "local": "data\\scraped\\images\\shoppuff-com__cc-xtracts-cc-xtracts-liquid-diamond-disposable-fruity-pebbles__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 12,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/cc-xtracts-cc-xtracts-liquid-diamond-disposable-fruity-pebbles-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.769Z"
+}

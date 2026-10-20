@@ -1,0 +1,35 @@
+{
+  "slug": "swisher-x-2-infused-blunts-irish-cream",
+  "name": "Irish Cream Blunts - 2x1.5g - 3g",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Swisher Blunts",
+  "tags": [],
+  "description": "1.5g x 2 Infused Blunts\n3g Total\n\nIndulge in the decadent rich blend of coffee and vanilla for a subtle, smooth sweetness in every puff.",
+  "description_html": "1.5g x 2 Infused Blunts<br />3g Total<br /><br />Indulge in the decadent rich blend of coffee and vanilla for a subtle, smooth sweetness in every puff.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/89ba93c47597775d787f57a7a97181e9",
+      "alt": "Irish Cream Blunts - 2x1.5g - 3g",
+      "local": "data\\scraped\\images\\shoppuff-com__swisher-x-2-infused-blunts-irish-cream__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/swisher-x-2-infused-blunts-irish-cream-for-sale-bay-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.953Z"
+}

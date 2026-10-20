@@ -1,0 +1,35 @@
+{
+  "slug": "plant-nerd-plant-nerd-hand-roll-soap",
+  "name": "Plant Nerd Hand Roll | Soap",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Plant Nerd",
+  "tags": [],
+  "description": "Soap has a smooth minty, pinene nose and equally smooth energizing high while boasting high THC content. We’re growing Soap for the folks who want to smoke before a heated game of pickleball, going for a bike ride, or anything else you want to feel great for.",
+  "description_html": "Soap has a smooth minty, pinene nose and equally smooth energizing high while boasting high THC content. We’re growing Soap for the folks who want to smoke before a heated game of pickleball, going for a bike ride, or anything else you want to feel great for.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/10c588eb85399c284a9f524895327223",
+      "alt": "Plant Nerd Hand Roll | Soap",
+      "local": "data\\scraped\\images\\shoppuff-com__plant-nerd-plant-nerd-hand-roll-soap__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1.5g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/plant-nerd-plant-nerd-hand-roll-soap-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.893Z"
+}

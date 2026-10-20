@@ -1,0 +1,35 @@
+{
+  "slug": "berry-green-510-cart-spearmint",
+  "name": "Berry Green 510 Cart | Spearmint",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 6,
+  "price_max": 6,
+  "currency": "USD",
+  "price_range": "$6.00",
+  "available": true,
+  "vendor": "Berry Green",
+  "tags": [],
+  "description": "Clean, cold, and calculated. This mint means business.\n\nBorn to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "description_html": "Clean, cold, and calculated. This mint means business.<br /><br />Born to Burn, built to blaze, Berry Green is for the ones who don’t fade, don’t fold, don’t stop. When the night ends, the flame keeps burning.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/783d62b1f7baa75ddef7a8d54eadb797",
+      "alt": "Berry Green 510 Cart | Spearmint",
+      "local": "data\\scraped\\images\\shoppuff-com__berry-green-510-cart-spearmint__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 6,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/berry-green-510-cart-spearmint-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.263Z"
+}

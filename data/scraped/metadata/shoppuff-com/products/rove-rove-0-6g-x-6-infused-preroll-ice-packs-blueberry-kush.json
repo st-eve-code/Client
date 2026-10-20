@@ -1,0 +1,35 @@
+{
+  "slug": "rove-rove-0-6g-x-6-infused-preroll-ice-packs-blueberry-kush",
+  "name": "ROVE | 0.6g x 6 Infused Preroll Ice Packs | Blueberry Kush",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 45,
+  "price_max": 45,
+  "currency": "USD",
+  "price_range": "$45.00",
+  "available": true,
+  "vendor": "Rove",
+  "tags": [],
+  "description": "A perfectly balanced hybrid with a crisp, juicy sweetness and a smooth, easy finish. Ideal for those in-between moments when you want good vibes without losing your spark.",
+  "description_html": "A perfectly balanced hybrid with a crisp, juicy sweetness and a smooth, easy finish. Ideal for those in-between moments when you want good vibes without losing your spark.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/0a6699cbff62eab89b68f2c872591543",
+      "alt": "ROVE | 0.6g x 6 Infused Preroll Ice Packs | Blueberry Kush",
+      "local": "data\\scraped\\images\\shoppuff-com__rove-rove-0-6g-x-6-infused-preroll-ice-packs-blueberry-kush__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "3.6g",
+      "price": 45,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/rove-rove-0-6g-x-6-infused-preroll-ice-packs-blueberry-kush-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.945Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "wyld-wyld-200mg-gummies-kiwi-21-thcthcv",
+  "name": "Kiwi 2:1 THCv + Sativa Enhanced Gummies",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "Wyld",
+  "tags": [],
+  "description": "Wyld Kiwi Gummies blend tropical kiwi flavor with a 2:1 ratio of THC to THCV. They offer uplifting, energetic effects with light appetite suppression, perfect for active use.",
+  "description_html": "Wyld Kiwi Gummies blend tropical kiwi flavor with a 2:1 ratio of THC to THCV. They offer uplifting, energetic effects with light appetite suppression, perfect for active use.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/ff3e295ec30ab394ddd71b0a628d8559",
+      "alt": "Kiwi 2:1 THCv + Sativa Enhanced Gummies",
+      "local": "data\\scraped\\images\\shoppuff-com__wyld-wyld-200mg-gummies-kiwi-21-thcthcv__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2.5g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/wyld-wyld-200mg-gummies-kiwi-21-thcthcv-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:20.991Z"
+}

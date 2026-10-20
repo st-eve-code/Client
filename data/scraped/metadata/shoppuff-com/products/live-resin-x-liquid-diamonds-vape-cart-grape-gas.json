@@ -1,0 +1,35 @@
+{
+  "slug": "live-resin-x-liquid-diamonds-vape-cart-grape-gas",
+  "name": "STICKEE | Grape Gas | 1G | Liquid Diamonds + Live Resin 510 Vape Cart",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "Stickee",
+  "tags": [],
+  "description": "Juicy grape on the inhale, straight gas on the exhale and somehow it just works. Loud, funky, and built to keep the night rolling. Stickee. Always Good.",
+  "description_html": "Juicy grape on the inhale, straight gas on the exhale and somehow it just works. Loud, funky, and built to keep the night rolling. Stickee. Always Good.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/1c95f98fa064ae6a7903068ea7b16ee0",
+      "alt": "STICKEE | Grape Gas | 1G | Liquid Diamonds + Live Resin 510 Vape Cart",
+      "local": "data\\scraped\\images\\shoppuff-com__live-resin-x-liquid-diamonds-vape-cart-grape-gas__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/live-resin-x-liquid-diamonds-vape-cart-grape-gas-for-sale-center-line-mi/",
+  "scraped_at": "2026-10-10T22:31:21.451Z"
+}

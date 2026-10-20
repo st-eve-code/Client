@@ -1,0 +1,35 @@
+{
+  "slug": "stiiizy-stiiizy-1g-lqd-pod-strawberry-milkshake",
+  "name": "Stiiizy | 1g LQD Pod | Strawberry Milkshake",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 20,
+  "price_max": 20,
+  "currency": "USD",
+  "price_range": "$20.00",
+  "available": true,
+  "vendor": "STIIIZY",
+  "tags": [],
+  "description": "STIIIZY Strawberry Milkshake is a sativa-dominant addition to the Live Resin Liquid Diamonds lineup, featuring a berry-forward profile with smooth, layered undertones and a focus on quality.",
+  "description_html": "STIIIZY Strawberry Milkshake is a sativa-dominant addition to the Live Resin Liquid Diamonds lineup, featuring a berry-forward profile with smooth, layered undertones and a focus on quality.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/cbc9d1f774e3e7a50e943fe851b7ebf5",
+      "alt": "Stiiizy | 1g LQD Pod | Strawberry Milkshake",
+      "local": "data\\scraped\\images\\shoppuff-com__stiiizy-stiiizy-1g-lqd-pod-strawberry-milkshake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 20,
+      "available": true
+    }
+  ],
+  "collections": [
+    "VAPORIZERS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/stiiizy-stiiizy-1g-lqd-pod-strawberry-milkshake-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.191Z"
+}

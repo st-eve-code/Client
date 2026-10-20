@@ -1,0 +1,45 @@
+{
+  "slug": "green-ganja-sunshine-smalls",
+  "name": "Green Ganja | Sunshine (Smalls)",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 20,
+  "price_max": 70,
+  "currency": "USD",
+  "price_range": "$20.00 – $70.00",
+  "available": true,
+  "vendor": "Green Ganja",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9ea484c249ff3ddff0a4e70ca3dd96bf",
+      "alt": "Green Ganja | Sunshine (Smalls)",
+      "local": "data\\scraped\\images\\shoppuff-com__green-ganja-sunshine-smalls__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/2oz",
+      "price": 40,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 20,
+      "available": true
+    },
+    {
+      "title": "1oz",
+      "price": 70,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/green-ganja-sunshine-smalls-for-sale-madison-heights-mi/",
+  "scraped_at": "2026-10-10T22:31:21.731Z"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "og-farms-prepackaged-shake-apple-tarts",
+  "name": "OG Farms Prepackaged Shake | Apple Tarts",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 10,
+  "price_max": 10,
+  "currency": "USD",
+  "price_range": "$10.00",
+  "available": true,
+  "vendor": "OG Farms",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://joint-product-photos.s3.amazonaws.com/default/flower.jpg",
+      "alt": "OG Farms Prepackaged Shake | Apple Tarts",
+      "local": "data\\scraped\\images\\shoppuff-com__og-farms-prepackaged-shake-apple-tarts__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 10,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/og-farms-prepackaged-shake-apple-tarts-for-sale-oscoda-mi/",
+  "scraped_at": "2026-10-10T22:31:21.781Z"
+}

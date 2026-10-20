@@ -1,0 +1,35 @@
+{
+  "slug": "jeeter-reserve-infused-preroll-candiesel",
+  "name": "Jeeter Reserve Infused Preroll | Candiesel",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 17,
+  "price_max": 17,
+  "currency": "USD",
+  "price_range": "$17.00",
+  "available": true,
+  "vendor": "Jeeter",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/faade6404d9827a0fedb510a8cd24e87",
+      "alt": "Jeeter Reserve Infused Preroll | Candiesel",
+      "local": "data\\scraped\\images\\shoppuff-com__jeeter-reserve-infused-preroll-candiesel__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1g",
+      "price": 17,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/jeeter-reserve-infused-preroll-candiesel-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.775Z"
+}

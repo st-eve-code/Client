@@ -1,0 +1,35 @@
+{
+  "slug": "seed-junky-seed-junky-bubble-hash-infused-cannon-gello-shotz",
+  "name": "Seed Junky Bubble Hash Infused Cannon | Gello Shotz",
+  "site": "shoppuff-com",
+  "category": "infused-flower",
+  "price_min": 35,
+  "price_max": 35,
+  "currency": "USD",
+  "price_range": "$35.00",
+  "available": true,
+  "vendor": "Seed Junky",
+  "tags": [],
+  "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "description_html": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/66f2a463ee3fa4c479932badd46bcb0b",
+      "alt": "Seed Junky Bubble Hash Infused Cannon | Gello Shotz",
+      "local": "data\\scraped\\images\\shoppuff-com__seed-junky-seed-junky-bubble-hash-infused-cannon-gello-shotz__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "2g",
+      "price": 35,
+      "available": true
+    }
+  ],
+  "collections": [
+    "PRE_ROLLS"
+  ],
+  "source_url": "https://www.shoppuff.com/products/seed-junky-seed-junky-bubble-hash-infused-cannon-gello-shotz-for-sale-traverse-city-mi/",
+  "scraped_at": "2026-10-10T22:31:21.858Z"
+}

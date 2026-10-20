@@ -1,0 +1,45 @@
+{
+  "slug": "goldkine-goldkine-super-boof",
+  "name": "Goldkine | Super Boof",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 15,
+  "price_max": 60,
+  "currency": "USD",
+  "price_range": "$15.00 – $60.00",
+  "available": true,
+  "vendor": "Goldkine",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9f4fe63e69317d58d1067bf0c0ce6f9c",
+      "alt": "Goldkine | Super Boof",
+      "local": "data\\scraped\\images\\shoppuff-com__goldkine-goldkine-super-boof__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1/8oz",
+      "price": 15,
+      "available": true
+    },
+    {
+      "title": "1/4oz",
+      "price": 30,
+      "available": true
+    },
+    {
+      "title": "1/2oz",
+      "price": 60,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/goldkine-goldkine-super-boof-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.555Z"
+}

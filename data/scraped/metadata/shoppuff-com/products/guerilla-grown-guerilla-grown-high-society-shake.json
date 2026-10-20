@@ -1,0 +1,35 @@
+{
+  "slug": "guerilla-grown-guerilla-grown-high-society-shake",
+  "name": "Guerilla Grown | High Society Shake",
+  "site": "shoppuff-com",
+  "category": "buds",
+  "price_min": 25,
+  "price_max": 25,
+  "currency": "USD",
+  "price_range": "$25.00",
+  "available": true,
+  "vendor": "Guerilla Grown",
+  "tags": [],
+  "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "description_html": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/56d6639984741bd58a55de56ce86de1a",
+      "alt": "Guerilla Grown | High Society Shake",
+      "local": "data\\scraped\\images\\shoppuff-com__guerilla-grown-guerilla-grown-high-society-shake__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "1oz",
+      "price": 25,
+      "available": true
+    }
+  ],
+  "collections": [
+    "FLOWER"
+  ],
+  "source_url": "https://www.shoppuff.com/products/guerilla-grown-guerilla-grown-high-society-shake-for-sale-sturgis-mi/",
+  "scraped_at": "2026-10-10T22:31:21.352Z"
+}

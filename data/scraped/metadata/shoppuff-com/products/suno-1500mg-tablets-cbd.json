@@ -1,0 +1,35 @@
+{
+  "slug": "suno-1500mg-tablets-cbd",
+  "name": "SUNO | 1500mg Tablets | CBD",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "SUNO",
+  "tags": [],
+  "description": "Established out of a desire to improve patient well-being, SUNO products provide a robust custom cannabis platform. Each tablet contains 10mg total cannabinoids and natural terpenes. SUNO products are also free of sugar, gluten, and nuts.\n\n50mg CBD Tablets are non-psychoactive and promote improved mood, lessened anxiety, and relaxation.\n\nCBD Tablets - 50mg per tablet. 30 tablets/bottle\n\nCustom ratios. Custom doses. Custom cannabis.",
+  "description_html": "Established out of a desire to improve patient well-being, SUNO products provide a robust custom cannabis platform. Each tablet contains 10mg total cannabinoids and natural terpenes. SUNO products are also free of sugar, gluten, and nuts.<br /><br />50mg CBD Tablets are non-psychoactive and promote improved mood, lessened anxiety, and relaxation.<br /><br />CBD Tablets - 50mg per tablet. 30 tablets/bottle<br /><br />Custom ratios. Custom doses. Custom cannabis.",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/f10188df6b25aa74b258eabbffc6b254",
+      "alt": "SUNO | 1500mg Tablets | CBD",
+      "local": "data\\scraped\\images\\shoppuff-com__suno-1500mg-tablets-cbd__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "0.375g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "ORAL"
+  ],
+  "source_url": "https://www.shoppuff.com/products/suno-1500mg-tablets-cbd-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.854Z"
+}

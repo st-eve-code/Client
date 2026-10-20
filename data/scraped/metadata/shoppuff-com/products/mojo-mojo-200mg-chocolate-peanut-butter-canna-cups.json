@@ -1,0 +1,35 @@
+{
+  "slug": "mojo-mojo-200mg-chocolate-peanut-butter-canna-cups",
+  "name": "Mojo | 200mg Chocolate | Peanut Butter Canna Cups",
+  "site": "shoppuff-com",
+  "category": "cannabinoids",
+  "price_min": 15,
+  "price_max": 15,
+  "currency": "USD",
+  "price_range": "$15.00",
+  "available": true,
+  "vendor": "Mojo",
+  "tags": [],
+  "description": "Peanut Butter fans unite!! Finally the perfect bite size edible with a huge peanut butter taste! These creamy peanut butter bites are covered in rich-decadent THC infused chocolate that makes these Mojo's irresistible, I dare you to eat just one!",
+  "description_html": "Peanut Butter fans unite!! Finally the perfect bite size edible with a huge peanut butter taste! These creamy peanut butter bites are covered in rich-decadent THC infused chocolate that makes these Mojo's irresistible, I dare you to eat just one!",
+  "short_description": "",
+  "images": [
+    {
+      "url": "https://images.dutchie.com/9abeeb74371d085a66863b3fa850f3f9",
+      "alt": "Mojo | 200mg Chocolate | Peanut Butter Canna Cups",
+      "local": "data\\scraped\\images\\shoppuff-com__mojo-mojo-200mg-chocolate-peanut-butter-canna-cups__001.jpg"
+    }
+  ],
+  "variants": [
+    {
+      "title": "6.0g",
+      "price": 15,
+      "available": true
+    }
+  ],
+  "collections": [
+    "EDIBLES"
+  ],
+  "source_url": "https://www.shoppuff.com/products/mojo-mojo-200mg-chocolate-peanut-butter-canna-cups-for-sale-monroe-mi/",
+  "scraped_at": "2026-10-10T22:31:21.812Z"
+}
