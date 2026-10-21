@@ -5,7 +5,7 @@ import { BentoBox } from "@/components/sections/BentoBox";
 import { TrendingSection } from "@/components/sections/TrendingSection";
 import { BrandMarquee } from "@/components/sections/BrandMarquee";
 import { NewsletterSection } from "@/components/sections/NewsletterSection";
-import { ReviewsSection } from "@/components/sections/ReviewsSection";
+// import { ReviewsSection } from "@/components/sections/ReviewsSection";
 
 export default function Home() {
   return (
@@ -17,7 +17,9 @@ export default function Home() {
         <BentoBox />
         <TrendingSection />
         <NewsletterSection />
+        {/* Reviews hidden until we have genuine verified reviews:
         <ReviewsSection />
+        */}
       </main>
       <SiteFooter />
     </>
