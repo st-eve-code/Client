@@ -17,8 +17,7 @@ export interface Policy {
 export const COMPANY_NAME =
   process.env.NEXT_PUBLIC_COMPANY_NAME || "nofacetrap";
 export const COMPANY_ADDRESS =
-  process.env.NEXT_PUBLIC_COMPANY_ADDRESS ||
-  "7a Henley Business Park, Normandy, Guildford, Surrey, GU3 2DX";
+  process.env.NEXT_PUBLIC_COMPANY_ADDRESS || "Texas, USA";
 export const COMPANY_NUMBER = process.env.NEXT_PUBLIC_COMPANY_NUMBER || "";
 export const COMPANY_EMAIL = "support@nofacetrap.co.uk";
 export const UPDATED = "October 2026";
